@@ -132,6 +132,12 @@
         let authorMap = {};
         let workMap = {};
         
+        // Parse pipe-separated values
+        function parsePipeSeparated(value) {
+            if (!value) return '';
+            return value.split('|').join(', ');
+        }
+        
         // Parse genres from string that might contain JSON array or comma-separated list
         function parseGenres(genreString) {
             if (!genreString) return [];
@@ -370,8 +376,8 @@
                     <div class="film-card" onclick="showFilmDetails(${film.id})">
                         <h3>${film.title || 'Untitled'}</h3>
                         <div class="film-year">${film.release_year || 'Year unknown'}</div>
-                        ${film.directors ? `<div class="film-credits"><strong>Director:</strong> ${film.directors}</div>` : ''}
-                        ${film.writers ? `<div class="film-credits"><strong>Writer:</strong> ${film.writers}</div>` : ''}
+                        ${film.directors ? `<div class="film-credits"><strong>Director:</strong> ${parsePipeSeparated(film.directors)}</div>` : ''}
+                        ${film.writers ? `<div class="film-credits"><strong>Writer:</strong> ${parsePipeSeparated(film.writers)}</div>` : ''}
                         <div class="film-details">
                             ${film.runtime_minutes ? `<strong>Runtime:</strong> ${film.runtime_minutes} minutes<br>` : ''}
                             ${film.country_of_production ? `<strong>Country:</strong> ${film.country_of_production}<br>` : ''}
@@ -422,7 +428,7 @@
                             ${hasMultipleAdaptations ? '<span class="adaptation-badge" title="Multiple adaptations exist">★</span>' : ''}
                         </td>
                         <td>${film.release_year || '-'}</td>
-                        <td>${film.directors || '-'}</td>
+                        <td>${film.directors ? parsePipeSeparated(film.directors) : '-'}</td>
                         <td>${work ? work.title : '-'}</td>
                         <td>${author ? author.name : '-'}</td>
                         <td>${adaptationDelay !== null ? adaptationDelay + ' yrs' : '-'}</td>
@@ -478,11 +484,13 @@
                 <div class="modal-section">
                     <h3>Film Details</h3>
                     ${film.studio ? `<p><strong>Studio:</strong> ${film.studio}</p>` : ''}
-                    ${film.directors ? `<p><strong>Director:</strong> ${film.directors}</p>` : ''}
-                    ${film.writers ? `<p><strong>Screenwriter:</strong> ${film.writers}</p>` : ''}
-                    ${film.cast_members ? `<p><strong>Cast:</strong> ${film.cast_members}</p>` : ''}
+                    ${film.directors ? `<p><strong>Director(s):</strong> ${parsePipeSeparated(film.directors)}</p>` : ''}
+                    ${film.writers ? `<p><strong>Screenwriter(s):</strong> ${parsePipeSeparated(film.writers)}</p>` : ''}
+                    ${film.cast_members ? `<p><strong>Cast:</strong> ${parsePipeSeparated(film.cast_members)}</p>` : ''}
                     ${film.runtime_minutes ? `<p><strong>Runtime:</strong> ${film.runtime_minutes} minutes</p>` : ''}
                     ${film.country_of_production ? `<p><strong>Country:</strong> ${film.country_of_production}</p>` : ''}
+                    ${film.production_companies ? `<p><strong>Production:</strong> ${parsePipeSeparated(film.production_companies)}</p>` : ''}
+                    ${film.distribution_companies ? `<p><strong>Distribution:</strong> ${parsePipeSeparated(film.distribution_companies)}</p>` : ''}
                     ${film.color_info ? `<p><strong>Color:</strong> ${film.color_info}</p>` : ''}
                     ${film.language ? `<p><strong>Language:</strong> ${film.language}</p>` : ''}
                     ${film.adaptation_type ? `<p><strong>Adaptation Type:</strong> ${film.adaptation_type}</p>` : ''}

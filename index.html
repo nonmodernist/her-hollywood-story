@@ -88,7 +88,6 @@
                         <th>Title</th>
                         <th>Year</th>
                         <th>Director</th>
-                        <th>Runtime</th>
                         <th>Source Work</th>
                         <th>Author</th>
                         <th>Delay</th>
@@ -379,7 +378,6 @@
                         ${film.directors ? `<div class="film-credits"><strong>Director:</strong> ${parsePipeSeparated(film.directors)}</div>` : ''}
                         ${film.writers ? `<div class="film-credits"><strong>Writer:</strong> ${parsePipeSeparated(film.writers)}</div>` : ''}
                         <div class="film-details">
-                            ${film.runtime_minutes ? `<strong>Runtime:</strong> ${film.runtime_minutes} minutes<br>` : ''}
                             ${film.country_of_production ? `<strong>Country:</strong> ${film.country_of_production}<br>` : ''}
                             ${film.adaptation_type ? `<strong>Type:</strong> ${film.adaptation_type}` : ''}
                         </div>
@@ -489,8 +487,6 @@
                     ${film.cast_members ? `<p><strong>Cast:</strong> ${parsePipeSeparated(film.cast_members)}</p>` : ''}
                     ${film.runtime_minutes ? `<p><strong>Runtime:</strong> ${film.runtime_minutes} minutes</p>` : ''}
                     ${film.country_of_production ? `<p><strong>Country:</strong> ${film.country_of_production}</p>` : ''}
-                    ${film.production_companies ? `<p><strong>Production:</strong> ${parsePipeSeparated(film.production_companies)}</p>` : ''}
-                    ${film.distribution_companies ? `<p><strong>Distribution:</strong> ${parsePipeSeparated(film.distribution_companies)}</p>` : ''}
                     ${film.color_info ? `<p><strong>Color:</strong> ${film.color_info}</p>` : ''}
                     ${film.language ? `<p><strong>Language:</strong> ${film.language}</p>` : ''}
                     ${film.adaptation_type ? `<p><strong>Adaptation Type:</strong> ${film.adaptation_type}</p>` : ''}

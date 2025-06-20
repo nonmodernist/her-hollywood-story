@@ -371,7 +371,7 @@
                         <h3>${film.title || 'Untitled'}</h3>
                         <div class="film-year">${film.release_year || 'Year unknown'}</div>
                         ${film.directors ? `<div class="film-credits"><strong>Director:</strong> ${film.directors}</div>` : ''}
-                        ${film.writers ? `<div class="film-credits"><strong>Writer(s):</strong> ${film.writers}</div>` : ''}
+                        ${film.writers ? `<div class="film-credits"><strong>Writer:</strong> ${film.writers}</div>` : ''}
                         <div class="film-details">
                             ${film.runtime_minutes ? `<strong>Runtime:</strong> ${film.runtime_minutes} minutes<br>` : ''}
                             ${film.country_of_production ? `<strong>Country:</strong> ${film.country_of_production}<br>` : ''}
@@ -423,7 +423,6 @@
                         </td>
                         <td>${film.release_year || '-'}</td>
                         <td>${film.directors || '-'}</td>
-                        <td>${film.runtime_minutes ? film.runtime_minutes + ' min' : '-'}</td>
                         <td>${work ? work.title : '-'}</td>
                         <td>${author ? author.name : '-'}</td>
                         <td>${adaptationDelay !== null ? adaptationDelay + ' yrs' : '-'}</td>
@@ -479,8 +478,8 @@
                 <div class="modal-section">
                     <h3>Film Details</h3>
                     ${film.studio ? `<p><strong>Studio:</strong> ${film.studio}</p>` : ''}
-                    ${film.directors ? `<p><strong>Director(s):</strong> ${film.directors}</p>` : ''}
-                    ${film.writers ? `<p><strong>Screenwriter(s):</strong> ${film.writers}</p>` : ''}
+                    ${film.directors ? `<p><strong>Director:</strong> ${film.directors}</p>` : ''}
+                    ${film.writers ? `<p><strong>Screenwriter:</strong> ${film.writers}</p>` : ''}
                     ${film.cast_members ? `<p><strong>Cast:</strong> ${film.cast_members}</p>` : ''}
                     ${film.runtime_minutes ? `<p><strong>Runtime:</strong> ${film.runtime_minutes} minutes</p>` : ''}
                     ${film.country_of_production ? `<p><strong>Country:</strong> ${film.country_of_production}</p>` : ''}

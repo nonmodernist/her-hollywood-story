@@ -87,9 +87,11 @@
                     <tr>
                         <th>Title</th>
                         <th>Year</th>
+                        <th>Director</th>
                         <th>Runtime</th>
                         <th>Source Work</th>
                         <th>Author</th>
+                        <th>Delay</th>
                         <th>Genres</th>
                         <th>AFI</th>
                     </tr>
@@ -262,6 +264,35 @@
             });
         }
         
+        // Track multiple adaptations
+        let multipleAdaptations = {};
+        
+        // Analyze adaptations
+        function analyzeAdaptations() {
+            // Find works with multiple adaptations
+            const adaptationCounts = {};
+            data.films.forEach(film => {
+                if (film.source_work_id) {
+                    adaptationCounts[film.source_work_id] = (adaptationCounts[film.source_work_id] || 0) + 1;
+                }
+            });
+            
+            // Store works with multiple adaptations
+            Object.entries(adaptationCounts).forEach(([workId, count]) => {
+                if (count > 1) {
+                    multipleAdaptations[workId] = count;
+                }
+            });
+        }
+        
+        // Calculate years between publication and adaptation
+        function getAdaptationDelay(work, film) {
+            if (work && work.publication_year && film.release_year) {
+                return film.release_year - work.publication_year;
+            }
+            return null;
+        }
+        
         // Update statistics
         function updateStats() {
             document.getElementById('filmCount').textContent = data.films.length;
@@ -332,11 +363,15 @@
                 const work = workMap[film.source_work_id];
                 const author = work ? authorMap[work.author_id] : null;
                 const genres = parseGenres(film.genres);
+                const adaptationDelay = getAdaptationDelay(work, film);
+                const hasMultipleAdaptations = multipleAdaptations[film.source_work_id];
                 
                 return `
                     <div class="film-card" onclick="showFilmDetails(${film.id})">
                         <h3>${film.title || 'Untitled'}</h3>
                         <div class="film-year">${film.release_year || 'Year unknown'}</div>
+                        ${film.directors ? `<div class="film-credits"><strong>Director:</strong> ${film.directors}</div>` : ''}
+                        ${film.writers ? `<div class="film-credits"><strong>Writer(s):</strong> ${film.writers}</div>` : ''}
                         <div class="film-details">
                             ${film.runtime_minutes ? `<strong>Runtime:</strong> ${film.runtime_minutes} minutes<br>` : ''}
                             ${film.country_of_production ? `<strong>Country:</strong> ${film.country_of_production}<br>` : ''}
@@ -347,6 +382,8 @@
                                 <strong>Based on:</strong> "${work.title || 'Unknown'}"<br>
                                 <strong>Author:</strong> 
                                 <span class="author-link">${author ? author.name : 'Unknown'}</span>
+                                ${adaptationDelay !== null ? `<br><small class="adaptation-delay">Adapted ${adaptationDelay} years after publication</small>` : ''}
+                                ${hasMultipleAdaptations ? `<br><span class="multiple-adaptations">One of ${hasMultipleAdaptations} film adaptations</span>` : ''}
                             </div>
                         ` : ''}
                         ${genres.length > 0 ? `
@@ -375,14 +412,21 @@
                 const work = workMap[film.source_work_id];
                 const author = work ? authorMap[work.author_id] : null;
                 const genres = formatGenres(film.genres);
+                const adaptationDelay = getAdaptationDelay(work, film);
+                const hasMultipleAdaptations = multipleAdaptations[film.source_work_id];
                 
                 return `
                     <tr onclick="showFilmDetails(${film.id})">
-                        <td>${film.title || 'Untitled'}</td>
+                        <td>
+                            ${film.title || 'Untitled'}
+                            ${hasMultipleAdaptations ? '<span class="adaptation-badge" title="Multiple adaptations exist">★</span>' : ''}
+                        </td>
                         <td>${film.release_year || '-'}</td>
+                        <td>${film.directors || '-'}</td>
                         <td>${film.runtime_minutes ? film.runtime_minutes + ' min' : '-'}</td>
                         <td>${work ? work.title : '-'}</td>
                         <td>${author ? author.name : '-'}</td>
+                        <td>${adaptationDelay !== null ? adaptationDelay + ' yrs' : '-'}</td>
                         <td>${genres || '-'}</td>
                         <td>
                             ${film.afi_catalog_id ? `
@@ -421,6 +465,12 @@
             const work = workMap[film.source_work_id];
             const author = work ? authorMap[work.author_id] : null;
             const genres = formatGenres(film.genres);
+            const adaptationDelay = getAdaptationDelay(work, film);
+            
+            // Find other adaptations of the same work
+            const otherAdaptations = work ? data.films.filter(f => 
+                f.source_work_id === film.source_work_id && f.id !== film.id
+            ) : [];
             
             const modalContent = document.getElementById('modalContent');
             modalContent.innerHTML = `
@@ -428,10 +478,14 @@
                 
                 <div class="modal-section">
                     <h3>Film Details</h3>
+                    ${film.studio ? `<p><strong>Studio:</strong> ${film.studio}</p>` : ''}
+                    ${film.directors ? `<p><strong>Director(s):</strong> ${film.directors}</p>` : ''}
+                    ${film.writers ? `<p><strong>Screenwriter(s):</strong> ${film.writers}</p>` : ''}
+                    ${film.cast_members ? `<p><strong>Cast:</strong> ${film.cast_members}</p>` : ''}
                     ${film.runtime_minutes ? `<p><strong>Runtime:</strong> ${film.runtime_minutes} minutes</p>` : ''}
                     ${film.country_of_production ? `<p><strong>Country:</strong> ${film.country_of_production}</p>` : ''}
+                    ${film.color_info ? `<p><strong>Color:</strong> ${film.color_info}</p>` : ''}
                     ${film.language ? `<p><strong>Language:</strong> ${film.language}</p>` : ''}
-                    ${film.studio ? `<p><strong>Studio:</strong> ${film.studio}</p>` : ''}
                     ${film.adaptation_type ? `<p><strong>Adaptation Type:</strong> ${film.adaptation_type}</p>` : ''}
                     ${genres ? `<p><strong>Genres:</strong> ${genres}</p>` : ''}
                     ${film.adaptation_notes ? `<p><strong>Notes:</strong> ${film.adaptation_notes}</p>` : ''}
@@ -444,9 +498,25 @@
                         <h3>Source Work</h3>
                         <p><strong>Title:</strong> ${work.title || 'Unknown'}</p>
                         ${work.publication_year ? `<p><strong>Publication Year:</strong> ${work.publication_year}</p>` : ''}
+                        ${adaptationDelay !== null ? `<p><strong>Years to Adaptation:</strong> ${adaptationDelay} years</p>` : ''}
                         ${work.genre ? `<p><strong>Genre:</strong> ${work.genre}</p>` : ''}
                         ${work.plot_summary ? `<p><strong>Plot Summary:</strong> ${work.plot_summary}</p>` : ''}
                         ${work.literary_significance ? `<p><strong>Literary Significance:</strong> ${work.literary_significance}</p>` : ''}
+                        ${work.attribution_notes ? `<p><strong>Attribution Notes:</strong> ${work.attribution_notes}</p>` : ''}
+                    </div>
+                ` : ''}
+                
+                ${otherAdaptations.length > 0 ? `
+                    <div class="modal-section">
+                        <h3>Other Film Adaptations of This Work</h3>
+                        <div class="other-adaptations">
+                            ${otherAdaptations.map(adaptation => `
+                                <div class="adaptation-item" onclick="showFilmDetails(${adaptation.id})">
+                                    <strong>${adaptation.title}</strong> (${adaptation.release_year || 'Year unknown'})
+                                    ${adaptation.directors ? `<br><small>Dir: ${adaptation.directors}</small>` : ''}
+                                </div>
+                            `).join('')}
+                        </div>
                     </div>
                 ` : ''}
                 
@@ -458,6 +528,7 @@
                         ${author.nationality ? `<p><strong>Country:</strong> ${author.nationality}</p>` : ''}
                         ${author.literary_movement ? `<p><strong>Movement:</strong> ${author.literary_movement}</p>` : ''}
                         ${author.biographical_notes ? `<p><strong>Biography:</strong> ${author.biographical_notes}</p>` : ''}
+                        ${author.author_notes ? `<p><strong>Research Notes:</strong> ${author.author_notes}</p>` : ''}
                     </div>
                 ` : ''}
                 

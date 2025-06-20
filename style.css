@@ -232,8 +232,49 @@ input:focus, select:focus {
     font-weight: bold;
 }
 
-.afi-link a:hover {
-    text-decoration: underline;
+.film-credits {
+    font-size: 0.9rem;
+    color: #555;
+    margin-bottom: 0.5rem;
+    font-style: italic;
+}
+
+.adaptation-delay {
+    color: #7f8c8d;
+    font-style: italic;
+}
+
+.multiple-adaptations {
+    color: #e74c3c;
+    font-size: 0.85rem;
+    font-weight: bold;
+}
+
+.adaptation-badge {
+    color: #e74c3c;
+    margin-left: 0.5rem;
+    font-weight: bold;
+}
+
+.other-adaptations {
+    margin-top: 1rem;
+}
+
+.adaptation-item {
+    background: #f8f9fa;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.adaptation-item:hover {
+    background: #e8f4fd;
+}
+
+.adaptation-item small {
+    color: #7f8c8d;
 }
 
 /* List view styles */

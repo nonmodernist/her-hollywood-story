@@ -1,8 +1,7 @@
-# Ignore everything
-/*
+# Ignore everything but website
 .DS_Store
-
-# But not these files/folders:
-!.gitignore
-!website/
-!website/**
+__pycache__
+.venv
+afi_scripts
+everything_else
+fenton-book

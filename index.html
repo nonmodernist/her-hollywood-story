@@ -41,6 +41,25 @@
                     </select>
                 </div>
             </div>
+            <div class="view-toggle">
+                <button class="view-btn active" data-view="card">
+                    <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+                        <rect x="2" y="2" width="7" height="7"/>
+                        <rect x="11" y="2" width="7" height="7"/>
+                        <rect x="2" y="11" width="7" height="7"/>
+                        <rect x="11" y="11" width="7" height="7"/>
+                    </svg>
+                    Card View
+                </button>
+                <button class="view-btn" data-view="list">
+                    <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+                        <rect x="2" y="4" width="16" height="2"/>
+                        <rect x="2" y="9" width="16" height="2"/>
+                        <rect x="2" y="14" width="16" height="2"/>
+                    </svg>
+                    List View
+                </button>
+            </div>
         </div>
         
         <div class="stats">
@@ -61,6 +80,24 @@
         <div id="filmGrid" class="film-grid">
             <div class="loading">Loading database...</div>
         </div>
+        
+        <div id="filmList" class="film-list" style="display: none;">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Year</th>
+                        <th>Runtime</th>
+                        <th>Source Work</th>
+                        <th>Author</th>
+                        <th>Genres</th>
+                        <th>AFI</th>
+                    </tr>
+                </thead>
+                <tbody id="filmTableBody">
+                </tbody>
+            </table>
+        </div>
     </div>
     
     <div id="filmModal" class="modal">
@@ -71,11 +108,8 @@
     </div>
     
     <script>
-        // Configuration - Update these paths to match your repository structure
-        const DATA_BASE_PATH = '/adapted-from-women/data/'; // Path to your data folder
-        // For GitHub Pages, you might need to use the full path like:
-        // const DATA_BASE_PATH = '/your-repo-name/data/';
-        
+        // Configuration
+        const DATA_BASE_PATH = '/adapted-from-women/data/';
         const CSV_FILES = {
             films: 'films_rows.csv',
             authors: 'authors_rows.csv',
@@ -89,9 +123,42 @@
             sourceWorks: []
         };
         
+        // View state
+        let currentView = 'card';
+        
         // Create lookup maps for performance
         let authorMap = {};
         let workMap = {};
+        
+        // Parse genres from string that might contain JSON array or comma-separated list
+        function parseGenres(genreString) {
+            if (!genreString) return [];
+            
+            // Try to parse as JSON array first
+            if (genreString.startsWith('[')) {
+                try {
+                    return JSON.parse(genreString);
+                } catch (e) {
+                    // If JSON parse fails, fall back to comma separation
+                }
+            }
+            
+            // Otherwise treat as comma-separated
+            return genreString.split(',').map(g => g.trim());
+        }
+        
+        // Format genres for display
+        function formatGenres(genreString) {
+            const genres = parseGenres(genreString);
+            return genres.join(', ');
+        }
+        
+        // Generate AFI Catalog URL
+        function getAFICatalogURL(afiId) {
+            if (!afiId) return null;
+            // AFI Catalog URL pattern - adjust if needed based on actual AFI URLs
+            return `https://catalog.afi.com/Film/${afiId}`;
+        }
         
         // Load CSV from URL using PapaParse
         async function loadCSV(url) {
@@ -184,9 +251,7 @@
             // Genre filter
             const genres = new Set();
             data.films.forEach(film => {
-                if (film.genres) {
-                    film.genres.split(',').forEach(g => genres.add(g.trim()));
-                }
+                parseGenres(film.genres).forEach(g => genres.add(g));
             });
             const genreSelect = document.getElementById('genreFilter');
             [...genres].sort().forEach(genre => {
@@ -235,14 +300,26 @@
                 }
                 
                 // Genre filter
-                if (genreFilter && film.genres && !film.genres.includes(genreFilter)) return false;
+                if (genreFilter) {
+                    const genres = parseGenres(film.genres);
+                    if (!genres.includes(genreFilter)) return false;
+                }
                 
                 return true;
             });
         }
         
-        // Render films
+        // Render films based on current view
         function renderFilms() {
+            if (currentView === 'card') {
+                renderCardView();
+            } else {
+                renderListView();
+            }
+        }
+        
+        // Render card view
+        function renderCardView() {
             const filmGrid = document.getElementById('filmGrid');
             const filteredFilms = filterFilms();
             
@@ -254,6 +331,7 @@
             filmGrid.innerHTML = filteredFilms.map(film => {
                 const work = workMap[film.source_work_id];
                 const author = work ? authorMap[work.author_id] : null;
+                const genres = parseGenres(film.genres);
                 
                 return `
                     <div class="film-card" onclick="showFilmDetails(${film.id})">
@@ -271,14 +349,68 @@
                                 <span class="author-link">${author ? author.name : 'Unknown'}</span>
                             </div>
                         ` : ''}
-                        ${film.genres ? `
+                        ${genres.length > 0 ? `
                             <div class="tags">
-                                ${film.genres.split(',').map(g => `<span class="tag">${g.trim()}</span>`).join('')}
+                                ${genres.map(g => `<span class="tag">${g}</span>`).join('')}
+                            </div>
+                        ` : ''}
+                        ${film.afi_catalog_id ? `
+                            <div class="afi-link">
+                                <a href="${getAFICatalogURL(film.afi_catalog_id)}" target="_blank" onclick="event.stopPropagation()">
+                                    View in AFI Catalog →
+                                </a>
                             </div>
                         ` : ''}
                     </div>
                 `;
             }).join('');
+        }
+        
+        // Render list view
+        function renderListView() {
+            const tbody = document.getElementById('filmTableBody');
+            const filteredFilms = filterFilms();
+            
+            tbody.innerHTML = filteredFilms.map(film => {
+                const work = workMap[film.source_work_id];
+                const author = work ? authorMap[work.author_id] : null;
+                const genres = formatGenres(film.genres);
+                
+                return `
+                    <tr onclick="showFilmDetails(${film.id})">
+                        <td>${film.title || 'Untitled'}</td>
+                        <td>${film.release_year || '-'}</td>
+                        <td>${film.runtime_minutes ? film.runtime_minutes + ' min' : '-'}</td>
+                        <td>${work ? work.title : '-'}</td>
+                        <td>${author ? author.name : '-'}</td>
+                        <td>${genres || '-'}</td>
+                        <td>
+                            ${film.afi_catalog_id ? `
+                                <a href="${getAFICatalogURL(film.afi_catalog_id)}" target="_blank" onclick="event.stopPropagation()">
+                                    View
+                                </a>
+                            ` : '-'}
+                        </td>
+                    </tr>
+                `;
+            }).join('');
+        }
+        
+        // Toggle view
+        function toggleView(view) {
+            currentView = view;
+            
+            // Update button states
+            document.querySelectorAll('.view-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.view === view);
+            });
+            
+            // Show/hide appropriate containers
+            document.getElementById('filmGrid').style.display = view === 'card' ? 'grid' : 'none';
+            document.getElementById('filmList').style.display = view === 'list' ? 'block' : 'none';
+            
+            // Re-render
+            renderFilms();
         }
         
         // Show film details modal
@@ -288,6 +420,7 @@
             
             const work = workMap[film.source_work_id];
             const author = work ? authorMap[work.author_id] : null;
+            const genres = formatGenres(film.genres);
             
             const modalContent = document.getElementById('modalContent');
             modalContent.innerHTML = `
@@ -300,9 +433,10 @@
                     ${film.language ? `<p><strong>Language:</strong> ${film.language}</p>` : ''}
                     ${film.studio ? `<p><strong>Studio:</strong> ${film.studio}</p>` : ''}
                     ${film.adaptation_type ? `<p><strong>Adaptation Type:</strong> ${film.adaptation_type}</p>` : ''}
-                    ${film.genres ? `<p><strong>Genres:</strong> ${film.genres}</p>` : ''}
+                    ${genres ? `<p><strong>Genres:</strong> ${genres}</p>` : ''}
                     ${film.adaptation_notes ? `<p><strong>Notes:</strong> ${film.adaptation_notes}</p>` : ''}
                     ${film.imdb_id ? `<p><strong>IMDb:</strong> <a href="https://www.imdb.com/title/${film.imdb_id}" target="_blank">${film.imdb_id}</a></p>` : ''}
+                    ${film.afi_catalog_id ? `<p><strong>AFI Catalog:</strong> <a href="${getAFICatalogURL(film.afi_catalog_id)}" target="_blank">View Record</a></p>` : ''}
                 </div>
                 
                 ${work ? `
@@ -351,6 +485,11 @@
         document.getElementById('yearFilter').addEventListener('change', renderFilms);
         document.getElementById('authorFilter').addEventListener('change', renderFilms);
         document.getElementById('genreFilter').addEventListener('change', renderFilms);
+        
+        // View toggle listeners
+        document.querySelectorAll('.view-btn').forEach(btn => {
+            btn.addEventListener('click', () => toggleView(btn.dataset.view));
+        });
         
         document.querySelector('.close-modal').addEventListener('click', () => {
             document.getElementById('filmModal').style.display = 'none';

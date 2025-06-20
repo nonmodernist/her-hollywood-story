@@ -157,7 +157,7 @@
         function getAFICatalogURL(afiId) {
             if (!afiId) return null;
             // AFI Catalog URL pattern - adjust if needed based on actual AFI URLs
-            return `https://catalog.afi.com/Film/${afiId}`;
+            return `https://catalog.afi.com/Catalog/moviedetails/${afiId}`;
         }
         
         // Load CSV from URL using PapaParse
@@ -455,7 +455,7 @@
                         <h3>Author</h3>
                         <p><strong>Name:</strong> ${author.name || 'Unknown'}</p>
                         ${author.birth_year || author.death_year ? `<p><strong>Lived:</strong> ${author.birth_year || '?'} - ${author.death_year || '?'}</p>` : ''}
-                        ${author.nationality ? `<p><strong>Nationality:</strong> ${author.nationality}</p>` : ''}
+                        ${author.nationality ? `<p><strong>Country:</strong> ${author.nationality}</p>` : ''}
                         ${author.literary_movement ? `<p><strong>Movement:</strong> ${author.literary_movement}</p>` : ''}
                         ${author.biographical_notes ? `<p><strong>Biography:</strong> ${author.biographical_notes}</p>` : ''}
                     </div>

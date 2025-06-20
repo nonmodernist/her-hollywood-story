@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Film Adaptation Research Database</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Georgia', serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f0;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            background: #2c3e50;
+            color: white;
+            padding: 2rem 0;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        
+        header h1 {
+            text-align: center;
+            font-size: 2.5rem;
+            font-weight: normal;
+        }
+        
+        header p {
+            text-align: center;
+            margin-top: 0.5rem;
+            opacity: 0.9;
+        }
+        
+        .search-section {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+        
+        .search-controls {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            align-items: flex-end;
+        }
+        
+        .search-group {
+            flex: 1;
+            min-width: 200px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: bold;
+            color: #555;
+        }
+        
+        input, select {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 1rem;
+            font-family: inherit;
+        }
+        
+        input:focus, select:focus {
+            outline: none;
+            border-color: #3498db;
+            box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.2);
+        }
+        
+        .stats {
+            display: flex;
+            gap: 2rem;
+            margin: 2rem 0;
+            flex-wrap: wrap;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            flex: 1;
+            min-width: 200px;
+            text-align: center;
+        }
+        
+        .stat-card h3 {
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+        
+        .stat-card .number {
+            font-size: 2.5rem;
+            color: #3498db;
+            font-weight: bold;
+        }
+        
+        .film-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+        
+        .film-card {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+            cursor: pointer;
+        }
+        
+        .film-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+        }
+        
+        .film-card h3 {
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+            font-size: 1.3rem;
+        }
+        
+        .film-year {
+            color: #7f8c8d;
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+        }
+        
+        .film-details {
+            font-size: 0.9rem;
+            color: #555;
+            margin-bottom: 0.5rem;
+        }
+        
+        .film-source {
+            background: #ecf0f1;
+            padding: 0.75rem;
+            border-radius: 4px;
+            margin-top: 1rem;
+        }
+        
+        .film-source strong {
+            color: #2c3e50;
+        }
+        
+        .author-link {
+            color: #3498db;
+            text-decoration: none;
+        }
+        
+        .author-link:hover {
+            text-decoration: underline;
+        }
+        
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.7);
+            z-index: 1000;
+            overflow-y: auto;
+        }
+        
+        .modal-content {
+            background: white;
+            margin: 5% auto;
+            padding: 2rem;
+            width: 90%;
+            max-width: 800px;
+            border-radius: 8px;
+            position: relative;
+        }
+        
+        .close-modal {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            font-size: 2rem;
+            cursor: pointer;
+            color: #7f8c8d;
+        }
+        
+        .close-modal:hover {
+            color: #2c3e50;
+        }
+        
+        .modal h2 {
+            color: #2c3e50;
+            margin-bottom: 1rem;
+            padding-right: 2rem;
+        }
+        
+        .modal-section {
+            margin-bottom: 1.5rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 1px solid #ecf0f1;
+        }
+        
+        .modal-section:last-child {
+            border-bottom: none;
+        }
+        
+        .modal-section h3 {
+            color: #34495e;
+            margin-bottom: 0.75rem;
+        }
+        
+        .citation-placeholder {
+            background: #f8f9fa;
+            border: 2px dashed #bdc3c7;
+            padding: 2rem;
+            text-align: center;
+            color: #7f8c8d;
+            border-radius: 4px;
+            margin-top: 1rem;
+        }
+        
+        .tags {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+            margin-top: 0.5rem;
+        }
+        
+        .tag {
+            background: #e8f4fd;
+            color: #2980b9;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            color: #7f8c8d;
+        }
+        
+        .error {
+            background: #fee;
+            color: #c00;
+            padding: 1rem;
+            border-radius: 4px;
+            margin: 1rem 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Film Adaptation Research Database</h1>
+            <p>Explore the connections between literature and cinema</p>
+        </div>
+    </header>
+    
+    <div class="container">
+        <div class="search-section">
+            <div class="search-controls">
+                <div class="search-group">
+                    <label for="search">Search</label>
+                    <input type="text" id="search" placeholder="Search films, authors, or source works...">
+                </div>
+                <div class="search-group">
+                    <label for="yearFilter">Year</label>
+                    <select id="yearFilter">
+                        <option value="">All Years</option>
+                    </select>
+                </div>
+                <div class="search-group">
+                    <label for="authorFilter">Author</label>
+                    <select id="authorFilter">
+                        <option value="">All Authors</option>
+                    </select>
+                </div>
+                <div class="search-group">
+                    <label for="genreFilter">Genre</label>
+                    <select id="genreFilter">
+                        <option value="">All Genres</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        
+        <div class="stats">
+            <div class="stat-card">
+                <h3>Films</h3>
+                <div class="number" id="filmCount">-</div>
+            </div>
+            <div class="stat-card">
+                <h3>Authors</h3>
+                <div class="number" id="authorCount">-</div>
+            </div>
+            <div class="stat-card">
+                <h3>Source Works</h3>
+                <div class="number" id="workCount">-</div>
+            </div>
+        </div>
+        
+        <div id="filmGrid" class="film-grid">
+            <div class="loading">Loading database...</div>
+        </div>
+    </div>
+    
+    <div id="filmModal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div id="modalContent"></div>
+        </div>
+    </div>
+    
+    <script>
+        // Configuration - Update these paths to match your repository structure
+        const DATA_BASE_PATH = './data/'; // Path to your data folder
+        // For GitHub Pages, you might need to use the full path like:
+        // const DATA_BASE_PATH = '/your-repo-name/data/';
+        
+        const CSV_FILES = {
+            films: 'films_rows.csv',
+            authors: 'authors_rows.csv',
+            sourceWorks: 'source_works_rows.csv'
+        };
+        
+        // Data storage
+        let data = {
+            films: [],
+            authors: [],
+            sourceWorks: []
+        };
+        
+        // Create lookup maps for performance
+        let authorMap = {};
+        let workMap = {};
+        
+        // Load CSV from URL using PapaParse
+        async function loadCSV(url) {
+            return new Promise((resolve, reject) => {
+                Papa.parse(url, {
+                    download: true,
+                    header: true,
+                    dynamicTyping: true,
+                    skipEmptyLines: true,
+                    complete: function(results) {
+                        console.log(`Loaded ${results.data.length} rows from ${url}`);
+                        resolve(results.data);
+                    },
+                    error: function(error) {
+                        console.error(`Error loading ${url}:`, error);
+                        reject(error);
+                    }
+                });
+            });
+        }
+        
+        // Load all data
+        async function loadData() {
+            try {
+                // Show loading state
+                document.getElementById('filmGrid').innerHTML = '<div class="loading">Loading database...</div>';
+                
+                // Load all CSV files
+                const [filmsData, authorsData, worksData] = await Promise.all([
+                    loadCSV(DATA_BASE_PATH + CSV_FILES.films),
+                    loadCSV(DATA_BASE_PATH + CSV_FILES.authors),
+                    loadCSV(DATA_BASE_PATH + CSV_FILES.sourceWorks)
+                ]);
+                
+                // Store data
+                data.films = filmsData;
+                data.authors = authorsData;
+                data.sourceWorks = worksData;
+                
+                // Create lookup maps
+                data.authors.forEach(author => {
+                    authorMap[author.id] = author;
+                });
+                
+                data.sourceWorks.forEach(work => {
+                    workMap[work.id] = work;
+                });
+                
+                // Initialize UI
+                initializeFilters();
+                updateStats();
+                renderFilms();
+                
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.getElementById('filmGrid').innerHTML = `
+                    <div class="error">
+                        Error loading data. Please ensure CSV files are in the correct location:<br>
+                        ${DATA_BASE_PATH}${CSV_FILES.films}<br>
+                        ${DATA_BASE_PATH}${CSV_FILES.authors}<br>
+                        ${DATA_BASE_PATH}${CSV_FILES.sourceWorks}
+                    </div>
+                `;
+            }
+        }
+        
+        // Initialize filters
+        function initializeFilters() {
+            // Year filter
+            const years = [...new Set(data.films.map(f => f.release_year))].filter(y => y).sort((a, b) => b - a);
+            const yearSelect = document.getElementById('yearFilter');
+            years.forEach(year => {
+                const option = document.createElement('option');
+                option.value = year;
+                option.textContent = year;
+                yearSelect.appendChild(option);
+            });
+            
+            // Author filter
+            const authorSelect = document.getElementById('authorFilter');
+            data.authors.sort((a, b) => (a.name || '').localeCompare(b.name || '')).forEach(author => {
+                if (author.name) {
+                    const option = document.createElement('option');
+                    option.value = author.id;
+                    option.textContent = author.name;
+                    authorSelect.appendChild(option);
+                }
+            });
+            
+            // Genre filter
+            const genres = new Set();
+            data.films.forEach(film => {
+                if (film.genres) {
+                    film.genres.split(',').forEach(g => genres.add(g.trim()));
+                }
+            });
+            const genreSelect = document.getElementById('genreFilter');
+            [...genres].sort().forEach(genre => {
+                const option = document.createElement('option');
+                option.value = genre;
+                option.textContent = genre;
+                genreSelect.appendChild(option);
+            });
+        }
+        
+        // Update statistics
+        function updateStats() {
+            document.getElementById('filmCount').textContent = data.films.length;
+            document.getElementById('authorCount').textContent = data.authors.length;
+            document.getElementById('workCount').textContent = data.sourceWorks.length;
+        }
+        
+        // Filter films
+        function filterFilms() {
+            const searchTerm = document.getElementById('search').value.toLowerCase();
+            const yearFilter = document.getElementById('yearFilter').value;
+            const authorFilter = document.getElementById('authorFilter').value;
+            const genreFilter = document.getElementById('genreFilter').value;
+            
+            return data.films.filter(film => {
+                // Search filter
+                if (searchTerm) {
+                    const work = workMap[film.source_work_id];
+                    const author = work ? authorMap[work.author_id] : null;
+                    
+                    const searchMatch = 
+                        (film.title || '').toLowerCase().includes(searchTerm) ||
+                        (work && (work.title || '').toLowerCase().includes(searchTerm)) ||
+                        (author && (author.name || '').toLowerCase().includes(searchTerm));
+                    
+                    if (!searchMatch) return false;
+                }
+                
+                // Year filter
+                if (yearFilter && film.release_year != yearFilter) return false;
+                
+                // Author filter
+                if (authorFilter) {
+                    const work = workMap[film.source_work_id];
+                    if (!work || work.author_id != authorFilter) return false;
+                }
+                
+                // Genre filter
+                if (genreFilter && film.genres && !film.genres.includes(genreFilter)) return false;
+                
+                return true;
+            });
+        }
+        
+        // Render films
+        function renderFilms() {
+            const filmGrid = document.getElementById('filmGrid');
+            const filteredFilms = filterFilms();
+            
+            if (filteredFilms.length === 0) {
+                filmGrid.innerHTML = '<div class="loading">No films found matching your criteria.</div>';
+                return;
+            }
+            
+            filmGrid.innerHTML = filteredFilms.map(film => {
+                const work = workMap[film.source_work_id];
+                const author = work ? authorMap[work.author_id] : null;
+                
+                return `
+                    <div class="film-card" onclick="showFilmDetails(${film.id})">
+                        <h3>${film.title || 'Untitled'}</h3>
+                        <div class="film-year">${film.release_year || 'Year unknown'}</div>
+                        <div class="film-details">
+                            ${film.runtime_minutes ? `<strong>Runtime:</strong> ${film.runtime_minutes} minutes<br>` : ''}
+                            ${film.country_of_production ? `<strong>Country:</strong> ${film.country_of_production}<br>` : ''}
+                            ${film.adaptation_type ? `<strong>Type:</strong> ${film.adaptation_type}` : ''}
+                        </div>
+                        ${work ? `
+                            <div class="film-source">
+                                <strong>Based on:</strong> "${work.title || 'Unknown'}"<br>
+                                <strong>Author:</strong> 
+                                <span class="author-link">${author ? author.name : 'Unknown'}</span>
+                            </div>
+                        ` : ''}
+                        ${film.genres ? `
+                            <div class="tags">
+                                ${film.genres.split(',').map(g => `<span class="tag">${g.trim()}</span>`).join('')}
+                            </div>
+                        ` : ''}
+                    </div>
+                `;
+            }).join('');
+        }
+        
+        // Show film details modal
+        function showFilmDetails(filmId) {
+            const film = data.films.find(f => f.id === filmId);
+            if (!film) return;
+            
+            const work = workMap[film.source_work_id];
+            const author = work ? authorMap[work.author_id] : null;
+            
+            const modalContent = document.getElementById('modalContent');
+            modalContent.innerHTML = `
+                <h2>${film.title || 'Untitled'} (${film.release_year || 'Year unknown'})</h2>
+                
+                <div class="modal-section">
+                    <h3>Film Details</h3>
+                    ${film.runtime_minutes ? `<p><strong>Runtime:</strong> ${film.runtime_minutes} minutes</p>` : ''}
+                    ${film.country_of_production ? `<p><strong>Country:</strong> ${film.country_of_production}</p>` : ''}
+                    ${film.language ? `<p><strong>Language:</strong> ${film.language}</p>` : ''}
+                    ${film.studio ? `<p><strong>Studio:</strong> ${film.studio}</p>` : ''}
+                    ${film.adaptation_type ? `<p><strong>Adaptation Type:</strong> ${film.adaptation_type}</p>` : ''}
+                    ${film.genres ? `<p><strong>Genres:</strong> ${film.genres}</p>` : ''}
+                    ${film.adaptation_notes ? `<p><strong>Notes:</strong> ${film.adaptation_notes}</p>` : ''}
+                    ${film.imdb_id ? `<p><strong>IMDb:</strong> <a href="https://www.imdb.com/title/${film.imdb_id}" target="_blank">${film.imdb_id}</a></p>` : ''}
+                </div>
+                
+                ${work ? `
+                    <div class="modal-section">
+                        <h3>Source Work</h3>
+                        <p><strong>Title:</strong> ${work.title || 'Unknown'}</p>
+                        ${work.publication_year ? `<p><strong>Publication Year:</strong> ${work.publication_year}</p>` : ''}
+                        ${work.genre ? `<p><strong>Genre:</strong> ${work.genre}</p>` : ''}
+                        ${work.plot_summary ? `<p><strong>Plot Summary:</strong> ${work.plot_summary}</p>` : ''}
+                        ${work.literary_significance ? `<p><strong>Literary Significance:</strong> ${work.literary_significance}</p>` : ''}
+                    </div>
+                ` : ''}
+                
+                ${author ? `
+                    <div class="modal-section">
+                        <h3>Author</h3>
+                        <p><strong>Name:</strong> ${author.name || 'Unknown'}</p>
+                        ${author.birth_year || author.death_year ? `<p><strong>Lived:</strong> ${author.birth_year || '?'} - ${author.death_year || '?'}</p>` : ''}
+                        ${author.nationality ? `<p><strong>Nationality:</strong> ${author.nationality}</p>` : ''}
+                        ${author.literary_movement ? `<p><strong>Movement:</strong> ${author.literary_movement}</p>` : ''}
+                        ${author.biographical_notes ? `<p><strong>Biography:</strong> ${author.biographical_notes}</p>` : ''}
+                    </div>
+                ` : ''}
+                
+                <div class="modal-section">
+                    <h3>Academic Citations</h3>
+                    <div class="citation-placeholder">
+                        <p>Citation functionality coming soon!</p>
+                        <p>This section will display academic papers, articles, and books that discuss this film adaptation.</p>
+                    </div>
+                </div>
+                
+                ${film.research_status ? `
+                    <div class="modal-section">
+                        <h3>Research Status</h3>
+                        <p>${film.research_status}</p>
+                    </div>
+                ` : ''}
+            `;
+            
+            document.getElementById('filmModal').style.display = 'block';
+        }
+        
+        // Event listeners
+        document.getElementById('search').addEventListener('input', renderFilms);
+        document.getElementById('yearFilter').addEventListener('change', renderFilms);
+        document.getElementById('authorFilter').addEventListener('change', renderFilms);
+        document.getElementById('genreFilter').addEventListener('change', renderFilms);
+        
+        document.querySelector('.close-modal').addEventListener('click', () => {
+            document.getElementById('filmModal').style.display = 'none';
+        });
+        
+        window.addEventListener('click', (e) => {
+            const modal = document.getElementById('filmModal');
+            if (e.target === modal) {
+                modal.style.display = 'none';
+            }
+        });
+        
+        // Initialize on load
+        loadData();
+    </script>
+</body>
+</html>

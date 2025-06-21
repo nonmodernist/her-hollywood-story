@@ -7,81 +7,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link rel="stylesheet" href="style.css">
-    <style>
-        .viz-container {
-            background: white;
-            padding: 2rem;
-            border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            margin-bottom: 2rem;
-        }
-        
-        .viz-container h2 {
-            color: #2c3e50;
-            margin-bottom: 1rem;
-            font-size: 1.8rem;
-        }
-        
-        .viz-container p {
-            color: #555;
-            margin-bottom: 1.5rem;
-            line-height: 1.6;
-        }
-        
-        .chart-wrapper {
-            position: relative;
-            height: 400px;
-            margin: 2rem 0;
-        }
-        
-        .stat-highlight {
-            background: #e8f4fd;
-            padding: 1rem;
-            border-radius: 4px;
-            margin: 1rem 0;
-            border-left: 4px solid #3498db;
-        }
-        
-        .stat-highlight strong {
-            color: #2c3e50;
-            font-size: 1.2rem;
-        }
-        
-        .author-item {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: 0.75rem 0;
-            border-bottom: 1px solid #ecf0f1;
-        }
-        
-        .author-item:last-child {
-            border-bottom: none;
-        }
-        
-        .author-name {
-            font-weight: bold;
-            color: #2c3e50;
-        }
-        
-        .author-count {
-            background: #3498db;
-            color: white;
-            padding: 0.25rem 0.75rem;
-            border-radius: 20px;
-            font-size: 0.9rem;
-        }
-        
-        .loading-viz {
-            text-align: center;
-            padding: 3rem;
-            color: #7f8c8d;
-        }
-        
-        #delayHistogram {
-            max-height: 300px;
-        }
-    </style>
+    <link rel="stylesheet" href="visualizations.css">
 </head>
 <body>
         <nav>
@@ -131,7 +57,7 @@
     
     <script>
         // Configuration
-        const DATA_BASE_PATH = '/adapted-from-women/data/';
+        const DATA_BASE_PATH = './data/';
         const CSV_FILES = {
             films: 'films_rows.csv',
             authors: 'authors_rows.csv',

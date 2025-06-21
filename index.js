@@ -38,7 +38,7 @@ function parsePipeSeparated(value) {
 // Parse genres from string that might contain JSON array or comma-separated list
 function parseGenres(genreString) {
     if (!genreString) return [];
-    
+
     // Try to parse as JSON array first
     if (genreString.startsWith('[')) {
         try {
@@ -47,7 +47,7 @@ function parseGenres(genreString) {
             // If JSON parse fails, fall back to comma separation
         }
     }
-    
+
     // Otherwise treat as comma-separated
     return genreString.split(',').map(g => g.trim());
 }
@@ -68,7 +68,7 @@ function getAFICatalogURL(afiId) {
 // Generate URL slug for a film
 function generateFilmSlug(film) {
     if (!film.title) return null;
-    
+
     // Clean title: remove punctuation, convert to lowercase, replace spaces with hyphens
     const cleanTitle = film.title
         .toLowerCase()
@@ -76,10 +76,10 @@ function generateFilmSlug(film) {
         .replace(/\s+/g, '-')    // Replace spaces with hyphens
         .replace(/-+/g, '-')     // Replace multiple hyphens with single
         .replace(/^-|-$/g, '');  // Remove leading/trailing hyphens
-    
+
     // Add year if available
     const year = film.release_year ? `-${film.release_year}` : '';
-    
+
     return `${cleanTitle}${year}`;
 }
 
@@ -89,7 +89,7 @@ function findFilmBySlugOrId(identifier) {
     if (/^\d+$/.test(identifier)) {
         return data.films.find(f => f.id == identifier);
     }
-    
+
     // Then try to find by slug
     return data.films.find(f => generateFilmSlug(f) === identifier);
 }
@@ -101,18 +101,18 @@ class Router {
             '': () => this.showDatabaseView(),
             'film': (filmId) => this.showFilmDetail(filmId)
         };
-        
+
         // Listen for hash changes
         window.addEventListener('hashchange', () => this.handleRoute());
         window.addEventListener('load', () => this.handleRoute());
     }
-    
+
     handleRoute() {
         const hash = window.location.hash.slice(1); // Remove #
         const [route, ...params] = hash.split('/').filter(Boolean);
-        
+
         currentRoute = hash;
-        
+
         if (this.routes[route]) {
             this.routes[route](...params);
         } else {
@@ -120,55 +120,55 @@ class Router {
             this.showDatabaseView();
         }
     }
-    
+
     navigate(path) {
         window.location.hash = path;
     }
-    
+
     showDatabaseView() {
         // Update page title
         document.title = 'Film Adaptation Research Database';
-        
+
         // Show database view with transition
         this.transitionToView('databaseView');
-        
+
         // Restore filter state
         this.restoreFilterState();
-        
+
         // Re-render films if data is loaded
         if (data.films.length > 0) {
             renderFilms();
         }
     }
-    
+
     async showFilmDetail(filmIdentifier) {
         if (!filmIdentifier) {
             this.navigate('/');
             return;
         }
-        
+
         // Find the film
         const film = findFilmBySlugOrId(filmIdentifier);
-        
+
         if (!film) {
             this.showFilmNotFound(filmIdentifier);
             return;
         }
-        
+
         // Update page title
         document.title = `${film.title || 'Film Details'} - Film Adaptation Research Database`;
-        
+
         // Show film detail view with transition
         this.transitionToView('filmDetailView');
-        
+
         // Render film details
         this.renderFilmDetail(film);
     }
-    
+
     showFilmNotFound(identifier) {
         document.title = 'Film Not Found - Film Adaptation Research Database';
         this.transitionToView('filmDetailView');
-        
+
         document.getElementById('filmDetailContent').innerHTML = `
             <div class="error-detail">
                 <h3>Film Not Found</h3>
@@ -177,15 +177,15 @@ class Router {
             </div>
         `;
     }
-    
+
     transitionToView(targetView) {
         const databaseView = document.getElementById('databaseView');
         const filmDetailView = document.getElementById('filmDetailView');
-        
+
         // Hide both views first
         databaseView.style.display = 'none';
         filmDetailView.style.display = 'none';
-        
+
         // Show target view
         if (targetView === 'databaseView') {
             databaseView.style.display = 'block';
@@ -205,32 +205,32 @@ class Router {
             }, 10);
         }
     }
-    
+
     saveFilterState() {
         filterState.search = document.getElementById('search').value;
         filterState.year = document.getElementById('yearFilter').value;
         filterState.author = document.getElementById('authorFilter').value;
         filterState.genre = document.getElementById('genreFilter').value;
     }
-    
+
     restoreFilterState() {
         document.getElementById('search').value = filterState.search;
         document.getElementById('yearFilter').value = filterState.year;
         document.getElementById('authorFilter').value = filterState.author;
         document.getElementById('genreFilter').value = filterState.genre;
     }
-    
+
     renderFilmDetail(film) {
         const work = workMap[film.source_work_id];
         const author = work ? authorMap[work.author_id] : null;
         const genres = formatGenres(film.genres);
         const adaptationDelay = getAdaptationDelay(work, film);
-        
+
         // Find other adaptations of the same work
-        const otherAdaptations = work ? data.films.filter(f => 
+        const otherAdaptations = work ? data.films.filter(f =>
             f.source_work_id === film.source_work_id && f.id !== film.id
         ) : [];
-        
+
         const content = `
             <div class="film-detail-header">
                 <h1>${film.title || 'Untitled'}</h1>
@@ -279,15 +279,15 @@ class Router {
                         <h3>Other Film Adaptations of This Work</h3>
                         <div class="related-films">
                             ${otherAdaptations.map(adaptation => {
-                                const slug = generateFilmSlug(adaptation);
-                                const url = slug ? `#/film/${slug}` : `#/film/${adaptation.id}`;
-                                return `
+            const slug = generateFilmSlug(adaptation);
+            const url = slug ? `#/film/${slug}` : `#/film/${adaptation.id}`;
+            return `
                                     <div class="related-film" onclick="router.navigate('${url}')">
                                         <strong>${adaptation.title}</strong> (${adaptation.release_year || 'Year unknown'})
                                         ${adaptation.directors ? `<br><small>Dir: ${adaptation.directors}</small>` : ''}
                                     </div>
                                 `;
-                            }).join('')}
+        }).join('')}
                         </div>
                     </div>
                 ` : ''}
@@ -306,10 +306,10 @@ class Router {
                     </div>
                 ` : ''}
                 
-                <div class="detail-section future-section">
-                    <h3>Media Gallery</h3>
-                    <p>Film stills, posters, and promotional materials will appear here in a future update.</p>
-                </div>
+<div class="detail-section">
+    <h3>Media Gallery</h3>
+    ${renderMediaGallery(film)}
+</div>
                 
                 <div class="detail-section future-section">
                     <h3>Where to Watch</h3>
@@ -323,16 +323,16 @@ class Router {
                 
                 ${film.updated_at ? `
                     <div class="last-updated">
-                        Last updated: ${new Date(film.updated_at).toLocaleDateString('en-US', { 
-                            year: 'numeric', 
-                            month: 'long', 
-                            day: 'numeric' 
-                        })}
+                        Last updated: ${new Date(film.updated_at).toLocaleDateString('en-US', {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric'
+        })}
                     </div>
                 ` : ''}
             </div>
         `;
-        
+
         document.getElementById('filmDetailContent').innerHTML = content;
     }
 }
@@ -348,11 +348,11 @@ async function loadCSV(url) {
             header: true,
             dynamicTyping: true,
             skipEmptyLines: true,
-            complete: function(results) {
+            complete: function (results) {
                 console.log(`Loaded ${results.data.length} rows from ${url}`);
                 resolve(results.data);
             },
-            error: function(error) {
+            error: function (error) {
                 console.error(`Error loading ${url}:`, error);
                 reject(error);
             }
@@ -365,33 +365,33 @@ async function loadData() {
     try {
         // Show loading state
         document.getElementById('filmGrid').innerHTML = '<div class="loading">Loading database...</div>';
-        
+
         // Load all CSV files
         const [filmsData, authorsData, worksData] = await Promise.all([
             loadCSV(DATA_BASE_PATH + CSV_FILES.films),
             loadCSV(DATA_BASE_PATH + CSV_FILES.authors),
             loadCSV(DATA_BASE_PATH + CSV_FILES.sourceWorks)
         ]);
-        
+
         // Store data
         data.films = filmsData;
         data.authors = authorsData;
         data.sourceWorks = worksData;
-        
+
         // Create lookup maps
         data.authors.forEach(author => {
             authorMap[author.id] = author;
         });
-        
+
         data.sourceWorks.forEach(work => {
             workMap[work.id] = work;
         });
-        
+
         // Initialize UI
         analyzeAdaptations();
         initializeFilters();
         updateStats();
-        
+
         // Initialize router after data is loaded
         if (!router) {
             router = new Router();
@@ -399,7 +399,7 @@ async function loadData() {
             // If router already exists, handle current route
             router.handleRoute();
         }
-        
+
     } catch (error) {
         console.error('Error loading data:', error);
         document.getElementById('filmGrid').innerHTML = `
@@ -424,7 +424,7 @@ function initializeFilters() {
         option.textContent = year;
         yearSelect.appendChild(option);
     });
-    
+
     // Author filter
     const authorSelect = document.getElementById('authorFilter');
     data.authors.sort((a, b) => (a.name || '').localeCompare(b.name || '')).forEach(author => {
@@ -435,7 +435,7 @@ function initializeFilters() {
             authorSelect.appendChild(option);
         }
     });
-    
+
     // Genre filter
     const genres = new Set();
     data.films.forEach(film => {
@@ -462,7 +462,7 @@ function analyzeAdaptations() {
             adaptationCounts[film.source_work_id] = (adaptationCounts[film.source_work_id] || 0) + 1;
         }
     });
-    
+
     // Store works with multiple adaptations
     Object.entries(adaptationCounts).forEach(([workId, count]) => {
         if (count > 1) {
@@ -492,39 +492,39 @@ function filterFilms() {
     const yearFilter = document.getElementById('yearFilter').value;
     const authorFilter = document.getElementById('authorFilter').value;
     const genreFilter = document.getElementById('genreFilter').value;
-    
+
     const filtered = data.films.filter(film => {
         // Search filter
         if (searchTerm) {
             const work = workMap[film.source_work_id];
             const author = work ? authorMap[work.author_id] : null;
-            
-            const searchMatch = 
+
+            const searchMatch =
                 (film.title || '').toLowerCase().includes(searchTerm) ||
                 (work && (work.title || '').toLowerCase().includes(searchTerm)) ||
                 (author && (author.name || '').toLowerCase().includes(searchTerm));
-            
+
             if (!searchMatch) return false;
         }
-        
+
         // Year filter
         if (yearFilter && film.release_year != yearFilter) return false;
-        
+
         // Author filter
         if (authorFilter) {
             const work = workMap[film.source_work_id];
             if (!work || work.author_id != authorFilter) return false;
         }
-        
+
         // Genre filter
         if (genreFilter) {
             const genres = parseGenres(film.genres);
             if (!genres.includes(genreFilter)) return false;
         }
-        
+
         return true;
     });
-    
+
     // Sort by year (ascending)
     return filtered.sort((a, b) => {
         // Handle missing years by putting them at the end
@@ -548,22 +548,22 @@ function renderFilms() {
 function renderCardView() {
     const filmGrid = document.getElementById('filmGrid');
     const filteredFilms = filterFilms();
-    
+
     if (filteredFilms.length === 0) {
         filmGrid.innerHTML = '<div class="loading">No films found matching your criteria.</div>';
         return;
     }
-    
+
     filmGrid.innerHTML = filteredFilms.map(film => {
         const work = workMap[film.source_work_id];
         const author = work ? authorMap[work.author_id] : null;
         const genres = parseGenres(film.genres);
         const adaptationDelay = getAdaptationDelay(work, film);
         const hasMultipleAdaptations = multipleAdaptations[film.source_work_id];
-        
+
         const slug = generateFilmSlug(film);
         const filmUrl = slug ? `#/film/${slug}` : `#/film/${film.id}`;
-        
+
         return `
             <div class="film-card" onclick="router.saveFilterState(); router.navigate('${filmUrl}')">
                 <h3>${film.title || 'Untitled'}</h3>
@@ -604,17 +604,17 @@ function renderCardView() {
 function renderListView() {
     const tbody = document.getElementById('filmTableBody');
     const filteredFilms = filterFilms();
-    
+
     tbody.innerHTML = filteredFilms.map(film => {
         const work = workMap[film.source_work_id];
         const author = work ? authorMap[work.author_id] : null;
         const genres = formatGenres(film.genres);
         const adaptationDelay = getAdaptationDelay(work, film);
         const hasMultipleAdaptations = multipleAdaptations[film.source_work_id];
-        
+
         const slug = generateFilmSlug(film);
         const filmUrl = slug ? `#/film/${slug}` : `#/film/${film.id}`;
-        
+
         return `
             <tr onclick="router.saveFilterState(); router.navigate('${filmUrl}')">
                 <td>
@@ -642,118 +642,361 @@ function renderListView() {
 // Toggle view
 function toggleView(view) {
     currentView = view;
-    
+
     // Update button states
     document.querySelectorAll('.view-btn').forEach(btn => {
         btn.classList.toggle('active', btn.dataset.view === view);
     });
-    
+
     // Show/hide appropriate containers
     document.getElementById('filmGrid').style.display = view === 'card' ? 'grid' : 'none';
     document.getElementById('filmList').style.display = view === 'list' ? 'block' : 'none';
-    
+
     // Re-render
     renderFilms();
 }
 
-// Legacy function: Show film details modal (kept for backward compatibility)
-function showFilmDetails(filmId) {
-    const film = data.films.find(f => f.id === filmId);
-    if (!film) return;
+// Simplified Media Gallery Implementation
+
+
+// Media data storage
+let mediaData = {
+    byFilmId: new Map(),
+    loaded: false
+};
+
+// Load media data from CSV
+async function loadMediaData() {
+    if (mediaData.loaded) return;
     
-    const work = workMap[film.source_work_id];
-    const author = work ? authorMap[work.author_id] : null;
-    const genres = formatGenres(film.genres);
-    const adaptationDelay = getAdaptationDelay(work, film);
+    try {
+        const mediaCSV = await loadCSV(DATA_BASE_PATH + 'film_media.csv');
+        
+        // Process media items and group by film_id
+        mediaCSV.forEach(item => {
+            const filmId = parseInt(item.film_id);
+            
+            if (!mediaData.byFilmId.has(filmId)) {
+                mediaData.byFilmId.set(filmId, []);
+            }
+            
+            // Convert string booleans to actual booleans
+            item.is_featured = item.is_featured === 'true' || item.is_featured === '1';
+            item.is_hidden = item.is_hidden === 'true' || item.is_hidden === '1';
+            item.verified = item.verified === 'true' || item.verified === '1';
+            
+            // Convert numeric strings to numbers
+            item.quality_score = item.quality_score ? parseInt(item.quality_score) : null;
+            item.display_order = item.display_order ? parseInt(item.display_order) : 999;
+            
+            // Only add if not hidden
+            if (!item.is_hidden) {
+                mediaData.byFilmId.get(filmId).push(item);
+            }
+        });
+        
+        // Sort media items for each film
+        mediaData.byFilmId.forEach((items, filmId) => {
+            items.sort((a, b) => {
+                if (a.is_featured !== b.is_featured) return b.is_featured ? 1 : -1;
+                if (a.quality_score !== b.quality_score) {
+                    return (b.quality_score || 0) - (a.quality_score || 0);
+                }
+                return a.display_order - b.display_order;
+            });
+        });
+        
+        mediaData.loaded = true;
+        console.log(`Loaded media for ${mediaData.byFilmId.size} films`);
+        
+    } catch (error) {
+        console.error('Error loading media data:', error);
+        mediaData.loaded = true;
+    }
+}
+
+// Get media for a specific film
+function getMediaForFilm(filmId) {
+    return mediaData.byFilmId.get(parseInt(filmId)) || [];
+}
+
+// Get media statistics
+function getMediaStats() {
+    const stats = new Map();
     
-    // Find other adaptations of the same work
-    const otherAdaptations = work ? data.films.filter(f => 
-        f.source_work_id === film.source_work_id && f.id !== film.id
-    ) : [];
+    mediaData.byFilmId.forEach((items, filmId) => {
+        stats.set(filmId, {
+            total_media: items.length,
+            poster_count: items.filter(m => m.media_type === 'poster').length,
+            still_count: items.filter(m => m.media_type === 'still').length,
+            verified_count: items.filter(m => m.verified).length
+        });
+    });
     
-    const modalContent = document.getElementById('modalContent');
-    modalContent.innerHTML = `
-        <h2>${film.title || 'Untitled'} (${film.release_year || 'Year unknown'})</h2>
-        
-        <div class="modal-section">
-            <h3>Film Details</h3>
-            ${film.studio ? `<p><strong>Studio:</strong> ${film.studio}</p>` : ''}
-            ${film.directors ? `<p><strong>Director(s):</strong> ${parsePipeSeparated(film.directors)}</p>` : ''}
-            ${film.writers ? `<p><strong>Screenwriter(s):</strong> ${parsePipeSeparated(film.writers)}</p>` : ''}
-            ${film.cast_members ? `<p><strong>Cast:</strong> ${parsePipeSeparated(film.cast_members)}</p>` : ''}
-            ${film.runtime_minutes ? `<p><strong>Runtime:</strong> ${film.runtime_minutes} minutes</p>` : ''}
-            ${film.country_of_production ? `<p><strong>Country:</strong> ${film.country_of_production}</p>` : ''}
-            ${film.color_info ? `<p><strong>Color:</strong> ${film.color_info}</p>` : ''}
-            ${film.language ? `<p><strong>Language:</strong> ${film.language}</p>` : ''}
-            ${film.adaptation_type ? `<p><strong>Adaptation Type:</strong> ${film.adaptation_type}</p>` : ''}
-            ${genres ? `<p><strong>Genres:</strong> ${genres}</p>` : ''}
-            ${film.adaptation_notes ? `<p><strong>Notes:</strong> ${film.adaptation_notes}</p>` : ''}
-            ${film.imdb_id ? `<p><strong>IMDb:</strong> <a href="https://www.imdb.com/title/${film.imdb_id}" target="_blank">${film.imdb_id}</a></p>` : ''}
-            ${film.afi_catalog_id ? `<p><strong>AFI Catalog:</strong> <a href="${getAFICatalogURL(film.afi_catalog_id)}" target="_blank">View Record</a></p>` : ''}
-        </div>
-        
-        ${work ? `
-            <div class="modal-section">
-                <h3>Source Work</h3>
-                <p><strong>Title:</strong> ${work.title || 'Unknown'}</p>
-                ${work.publication_year ? `<p><strong>Publication Year:</strong> ${work.publication_year}</p>` : ''}
-                ${adaptationDelay !== null ? `<p><strong>Years to Adaptation:</strong> ${adaptationDelay} years</p>` : ''}
-                ${work.genre ? `<p><strong>Genre:</strong> ${work.genre}</p>` : ''}
-                ${work.plot_summary ? `<p><strong>Plot Summary:</strong> ${work.plot_summary}</p>` : ''}
-                ${work.literary_significance ? `<p><strong>Literary Significance:</strong> ${work.literary_significance}</p>` : ''}
-                ${work.attribution_notes ? `<p><strong>Attribution Notes:</strong> ${work.attribution_notes}</p>` : ''}
-            </div>
-        ` : ''}
-        
-        ${otherAdaptations.length > 0 ? `
-            <div class="modal-section">
-                <h3>Other Film Adaptations of This Work</h3>
-                <div class="other-adaptations">
-                    ${otherAdaptations.map(adaptation => `
-                        <div class="adaptation-item" onclick="showFilmDetails(${adaptation.id})">
-                            <strong>${adaptation.title}</strong> (${adaptation.release_year || 'Year unknown'})
-                            ${adaptation.directors ? `<br><small>Dir: ${adaptation.directors}</small>` : ''}
-                        </div>
-                    `).join('')}
-                </div>
-            </div>
-        ` : ''}
-        
-        ${author ? `
-            <div class="modal-section">
-                <h3>Author</h3>
-                <p><strong>Name:</strong> ${author.name || 'Unknown'}</p>
-                ${author.birth_year || author.death_year ? `<p><strong>Lived:</strong> ${author.birth_year || '?'} - ${author.death_year || '?'}</p>` : ''}
-                ${author.nationality ? `<p><strong>Country:</strong> ${author.nationality}</p>` : ''}
-                ${author.literary_movement ? `<p><strong>Movement:</strong> ${author.literary_movement}</p>` : ''}
-                ${author.biographical_notes ? `<p><strong>Biography:</strong> ${author.biographical_notes}</p>` : ''}
-                ${author.author_notes ? `<p><strong>Research Notes:</strong> ${author.author_notes}</p>` : ''}
-            </div>
-        ` : ''}
-        
-        <div class="modal-section">
-            <h3>Academic Citations</h3>
-            <div class="citation-placeholder">
-                <p>Citation functionality coming soon!</p>
-                <p>This section will display academic papers, articles, and books that discuss this film adaptation.</p>
-            </div>
-        </div>
-        
-        ${film.updated_at ? `
-            <div class="modal-section">
-                <p class="last-updated">
-                    Last updated: ${new Date(film.updated_at).toLocaleDateString('en-US', { 
-                        year: 'numeric', 
-                        month: 'long', 
-                        day: 'numeric' 
-                    })}
+    return stats;
+}
+
+// Render simplified media gallery
+function renderMediaGallery(film) {
+    const media = getMediaForFilm(film.id);
+    
+    if (!media || media.length === 0) {
+        return `
+            <div class="media-gallery-empty">
+                <p>No media available for this film yet.</p>
+                <p class="media-help-text">
+                    We're actively searching archives for images. 
+                    <a href="mailto:a.k.edwards@tcu.edu">Contact us</a> if you have media for this film.
                 </p>
             </div>
-        ` : ''}
+        `;
+    }
+    
+    let galleryHTML = '<div class="media-gallery-simple">';
+    
+    // Show each media item as a card
+    media.forEach((item, index) => {
+        const imageUrl = item.thumbnail_url || item.url;
+        const caption = item.caption || item.title || 'Untitled';
+        const mediaType = formatMediaType(item.media_type);
+        
+        galleryHTML += `
+            <div class="media-item-card">
+                <div class="media-image-wrapper">
+                    <img src="${imageUrl}" 
+                         alt="${caption}" 
+                         loading="lazy"
+                         onerror="this.onerror=null; this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMzAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjE1MCIgeT0iMjAwIiBmaWxsPSIjOTk5IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiI+SW1hZ2UgVW5hdmFpbGFibGU8L3RleHQ+PC9zdmc+';" />
+                    <span class="media-type-label">${mediaType}</span>
+                </div>
+                
+                <div class="media-info">
+                    <p class="media-caption">${caption.length > 100 ? caption.substring(0, 100) + '...' : caption}</p>
+                    
+                    <div class="media-actions">
+                        ${item.source_url ? `
+                            <a href="${item.source_url}" 
+                               target="_blank" 
+                               rel="noopener" 
+                               class="media-link">
+                                View on ${formatSource(item.source)} →
+                            </a>
+                        ` : ''}
+                    </div>
+                    
+                    ${item.attribution && item.license !== 'public_domain' ? `
+                        <div class="media-attribution-small">
+                            <small>${item.attribution}</small>
+                        </div>
+                    ` : ''}
+                </div>
+            </div>
+        `;
+    });
+    
+    // Add source summary
+    const sources = [...new Set(media.map(m => m.source))];
+    galleryHTML += `
+        <div class="media-sources-summary">
+            <small>Media sourced from: ${sources.map(s => formatSource(s)).join(', ')}</small>
+        </div>
     `;
     
-    document.getElementById('filmModal').style.display = 'block';
+    galleryHTML += '</div>';
+    
+    return galleryHTML;
 }
+
+// Format source name
+function formatSource(source) {
+    const sourceNames = {
+        'wikimedia': 'Wikimedia Commons',
+        'internet_archive': 'Internet Archive',
+        'loc': 'Library of Congress',
+        'manual': 'Project Collection'
+    };
+    return sourceNames[source] || source;
+}
+
+// Format media type
+function formatMediaType(type) {
+    const typeNames = {
+        'poster': 'Poster',
+        'still': 'Still',
+        'lobby_card': 'Lobby Card',
+        'advertisement': 'Ad',
+        'production_photo': 'Photo',
+        'other': 'Media'
+    };
+    return typeNames[type] || type;
+}
+
+// Add media count badges to film cards
+function addMediaBadges() {
+    const mediaStats = getMediaStats();
+    
+    document.querySelectorAll('.film-card').forEach(card => {
+        // Extract film ID from the onclick handler
+        const onclick = card.getAttribute('onclick');
+        if (!onclick) return;
+        
+        // Try to match the film ID from the URL
+        let filmId = null;
+        
+        // First try to match the new routing pattern
+        const routeMatch = onclick.match(/\/film\/(?:[^\/]+\/)?(\d+)/);
+        if (routeMatch) {
+            filmId = parseInt(routeMatch[1]);
+        } else {
+            // Try to match old showFilmDetails pattern
+            const oldMatch = onclick.match(/showFilmDetails\((\d+)\)/);
+            if (oldMatch) {
+                filmId = parseInt(oldMatch[1]);
+            }
+        }
+        
+        if (filmId) {
+            const stats = mediaStats.get(filmId);
+            if (stats && stats.total_media > 0) {
+                // Remove existing badge if any
+                const existingBadge = card.querySelector('.media-badge');
+                if (existingBadge) existingBadge.remove();
+                
+                // Create new badge
+                const badge = document.createElement('span');
+                badge.className = 'media-badge';
+                badge.innerHTML = `📷 ${stats.total_media}`;
+                badge.title = `${stats.total_media} media item${stats.total_media > 1 ? 's' : ''} available`;
+                
+                // Add to card header area
+                const yearDiv = card.querySelector('.film-year');
+                if (yearDiv) {
+                    yearDiv.appendChild(badge);
+                }
+            }
+        }
+    });
+}
+
+// Update the main loadData function
+const originalLoadData = loadData;
+loadData = async function() {
+    await originalLoadData();
+    await loadMediaData();
+    
+    // Add media badges after data loads
+    setTimeout(() => {
+        addMediaBadges();
+    }, 100);
+};
+
+// Update renderFilms to refresh badges
+const originalRenderFilms = renderFilms;
+renderFilms = function() {
+    originalRenderFilms();
+    setTimeout(() => {
+        addMediaBadges();
+    }, 100);
+};
+
+// // Legacy function: Show film details modal (kept for backward compatibility)
+// function showFilmDetails(filmId) {
+//     const film = data.films.find(f => f.id === filmId);
+//     if (!film) return;
+
+//     const work = workMap[film.source_work_id];
+//     const author = work ? authorMap[work.author_id] : null;
+//     const genres = formatGenres(film.genres);
+//     const adaptationDelay = getAdaptationDelay(work, film);
+
+//     // Find other adaptations of the same work
+//     const otherAdaptations = work ? data.films.filter(f => 
+//         f.source_work_id === film.source_work_id && f.id !== film.id
+//     ) : [];
+
+//     const modalContent = document.getElementById('modalContent');
+//     modalContent.innerHTML = `
+//         <h2>${film.title || 'Untitled'} (${film.release_year || 'Year unknown'})</h2>
+
+//         <div class="modal-section">
+//             <h3>Film Details</h3>
+//             ${film.studio ? `<p><strong>Studio:</strong> ${film.studio}</p>` : ''}
+//             ${film.directors ? `<p><strong>Director(s):</strong> ${parsePipeSeparated(film.directors)}</p>` : ''}
+//             ${film.writers ? `<p><strong>Screenwriter(s):</strong> ${parsePipeSeparated(film.writers)}</p>` : ''}
+//             ${film.cast_members ? `<p><strong>Cast:</strong> ${parsePipeSeparated(film.cast_members)}</p>` : ''}
+//             ${film.runtime_minutes ? `<p><strong>Runtime:</strong> ${film.runtime_minutes} minutes</p>` : ''}
+//             ${film.country_of_production ? `<p><strong>Country:</strong> ${film.country_of_production}</p>` : ''}
+//             ${film.color_info ? `<p><strong>Color:</strong> ${film.color_info}</p>` : ''}
+//             ${film.language ? `<p><strong>Language:</strong> ${film.language}</p>` : ''}
+//             ${film.adaptation_type ? `<p><strong>Adaptation Type:</strong> ${film.adaptation_type}</p>` : ''}
+//             ${genres ? `<p><strong>Genres:</strong> ${genres}</p>` : ''}
+//             ${film.adaptation_notes ? `<p><strong>Notes:</strong> ${film.adaptation_notes}</p>` : ''}
+//             ${film.imdb_id ? `<p><strong>IMDb:</strong> <a href="https://www.imdb.com/title/${film.imdb_id}" target="_blank">${film.imdb_id}</a></p>` : ''}
+//             ${film.afi_catalog_id ? `<p><strong>AFI Catalog:</strong> <a href="${getAFICatalogURL(film.afi_catalog_id)}" target="_blank">View Record</a></p>` : ''}
+//         </div>
+
+//         ${work ? `
+//             <div class="modal-section">
+//                 <h3>Source Work</h3>
+//                 <p><strong>Title:</strong> ${work.title || 'Unknown'}</p>
+//                 ${work.publication_year ? `<p><strong>Publication Year:</strong> ${work.publication_year}</p>` : ''}
+//                 ${adaptationDelay !== null ? `<p><strong>Years to Adaptation:</strong> ${adaptationDelay} years</p>` : ''}
+//                 ${work.genre ? `<p><strong>Genre:</strong> ${work.genre}</p>` : ''}
+//                 ${work.plot_summary ? `<p><strong>Plot Summary:</strong> ${work.plot_summary}</p>` : ''}
+//                 ${work.literary_significance ? `<p><strong>Literary Significance:</strong> ${work.literary_significance}</p>` : ''}
+//                 ${work.attribution_notes ? `<p><strong>Attribution Notes:</strong> ${work.attribution_notes}</p>` : ''}
+//             </div>
+//         ` : ''}
+
+//         ${otherAdaptations.length > 0 ? `
+//             <div class="modal-section">
+//                 <h3>Other Film Adaptations of This Work</h3>
+//                 <div class="other-adaptations">
+//                     ${otherAdaptations.map(adaptation => `
+//                         <div class="adaptation-item" onclick="showFilmDetails(${adaptation.id})">
+//                             <strong>${adaptation.title}</strong> (${adaptation.release_year || 'Year unknown'})
+//                             ${adaptation.directors ? `<br><small>Dir: ${adaptation.directors}</small>` : ''}
+//                         </div>
+//                     `).join('')}
+//                 </div>
+//             </div>
+//         ` : ''}
+
+//         ${author ? `
+//             <div class="modal-section">
+//                 <h3>Author</h3>
+//                 <p><strong>Name:</strong> ${author.name || 'Unknown'}</p>
+//                 ${author.birth_year || author.death_year ? `<p><strong>Lived:</strong> ${author.birth_year || '?'} - ${author.death_year || '?'}</p>` : ''}
+//                 ${author.nationality ? `<p><strong>Country:</strong> ${author.nationality}</p>` : ''}
+//                 ${author.literary_movement ? `<p><strong>Movement:</strong> ${author.literary_movement}</p>` : ''}
+//                 ${author.biographical_notes ? `<p><strong>Biography:</strong> ${author.biographical_notes}</p>` : ''}
+//                 ${author.author_notes ? `<p><strong>Research Notes:</strong> ${author.author_notes}</p>` : ''}
+//             </div>
+//         ` : ''}
+
+//         <div class="modal-section">
+//             <h3>Academic Citations</h3>
+//             <div class="citation-placeholder">
+//                 <p>Citation functionality coming soon!</p>
+//                 <p>This section will display academic papers, articles, and books that discuss this film adaptation.</p>
+//             </div>
+//         </div>
+
+//         ${film.updated_at ? `
+//             <div class="modal-section">
+//                 <p class="last-updated">
+//                     Last updated: ${new Date(film.updated_at).toLocaleDateString('en-US', { 
+//                         year: 'numeric', 
+//                         month: 'long', 
+//                         day: 'numeric' 
+//                     })}
+//                 </p>
+//             </div>
+//         ` : ''}
+//     `;
+
+//     document.getElementById('filmModal').style.display = 'block';
+// }
 
 // Event listeners
 document.addEventListener('DOMContentLoaded', () => {

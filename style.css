@@ -514,3 +514,180 @@ nav a.active {
         display: none;
     }
 }
+
+/* Simplified Media Gallery Styles */
+
+/* Empty state */
+.media-gallery-empty {
+    text-align: center;
+    padding: 3rem 2rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+    color: #6c757d;
+}
+
+.media-help-text {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+}
+
+.media-help-text a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+.media-help-text a:hover {
+    text-decoration: underline;
+}
+
+/* Simple gallery layout */
+.media-gallery-simple {
+    display: grid;
+    gap: 1.5rem;
+}
+
+/* Media item card */
+.media-item-card {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    gap: 1.5rem;
+    padding: 1.5rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+    border: 1px solid #e9ecef;
+}
+
+/* Image wrapper */
+.media-image-wrapper {
+    position: relative;
+    width: 200px;
+    height: 280px;
+    overflow: hidden;
+    border-radius: 4px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+}
+
+.media-image-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    background: white;
+}
+
+/* Media type label */
+.media-type-label {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 0.25rem 0.5rem;
+    border-radius: 3px;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* Media info section */
+.media-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.media-caption {
+    color: #333;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    font-size: 0.95rem;
+}
+
+/* Media actions */
+.media-actions {
+    margin-bottom: 1rem;
+}
+
+.media-link {
+    display: inline-block;
+    color: #3498db;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    border: 1px solid #3498db;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.media-link:hover {
+    background: #3498db;
+    color: white;
+}
+
+/* Attribution */
+.media-attribution-small {
+    font-size: 0.8rem;
+    color: #6c757d;
+    padding-top: 0.5rem;
+    border-top: 1px solid #e9ecef;
+}
+
+/* Sources summary */
+.media-sources-summary {
+    text-align: center;
+    padding: 1rem;
+    border-top: 1px solid #e9ecef;
+    color: #6c757d;
+    margin-top: 1rem;
+}
+
+/* Media badge on film cards */
+.media-badge {
+    display: inline-block;
+    background: #27ae60;
+    color: white;
+    padding: 0.2rem 0.5rem;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    margin-left: 0.5rem;
+    font-weight: normal;
+    vertical-align: middle;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .media-item-card {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        padding: 1rem;
+    }
+    
+    .media-image-wrapper {
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+    }
+    
+    .media-info {
+        text-align: center;
+    }
+    
+    .media-actions {
+        text-align: center;
+    }
+}
+
+/* For video files */
+.media-item-card.video .media-image-wrapper {
+    background: #000;
+}
+
+.media-item-card.video .media-type-label {
+    background: #e74c3c;
+}
+
+/* Fallback image styling */
+img[src*="data:image/svg"] {
+    padding: 2rem;
+    background: #f5f5f5;
+}

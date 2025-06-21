@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualizations - Adapted from American Women</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .viz-container {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+        
+        .viz-container h2 {
+            color: #2c3e50;
+            margin-bottom: 1rem;
+            font-size: 1.8rem;
+        }
+        
+        .viz-container p {
+            color: #555;
+            margin-bottom: 1.5rem;
+            line-height: 1.6;
+        }
+        
+        .chart-wrapper {
+            position: relative;
+            height: 400px;
+            margin: 2rem 0;
+        }
+        
+        .stat-highlight {
+            background: #e8f4fd;
+            padding: 1rem;
+            border-radius: 4px;
+            margin: 1rem 0;
+            border-left: 4px solid #3498db;
+        }
+        
+        .stat-highlight strong {
+            color: #2c3e50;
+            font-size: 1.2rem;
+        }
+        
+        .author-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0.75rem 0;
+            border-bottom: 1px solid #ecf0f1;
+        }
+        
+        .author-item:last-child {
+            border-bottom: none;
+        }
+        
+        .author-name {
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        
+        .author-count {
+            background: #3498db;
+            color: white;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.9rem;
+        }
+        
+        .loading-viz {
+            text-align: center;
+            padding: 3rem;
+            color: #7f8c8d;
+        }
+        
+        #delayHistogram {
+            max-height: 300px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Adapted from American Women: Visualizations</h1>
+            <p>Exploring patterns in Hollywood's adaptation of American women's literature (1910-1962)</p>
+        </div>
+    </header>
+    
+    <div class="container">
+        <!-- Timeline Visualization -->
+        <div class="viz-container">
+            <h2>Adaptations Over Time: The Hollywood Timeline</h2>
+            <p>This chart reveals the ebb and flow of Hollywood's interest in adapting works by American women writers. Notice the surge in the silent era, the golden age peaks, and how patterns changed with the introduction of sound and color.</p>
+            <div class="chart-wrapper">
+                <canvas id="timelineChart"></canvas>
+            </div>
+            <div id="timelineStats" class="stat-highlight"></div>
+        </div>
+        
+        <!-- Top Authors Visualization -->
+        <div class="viz-container">
+            <h2>Most Adapted Authors: The Literary Stars of Early Hollywood</h2>
+            <p>These American women writers saw their works repeatedly brought to the silver screen. Their stories shaped the narratives of early cinema and influenced generations of moviegoers.</p>
+            <div id="topAuthorsChart"></div>
+        </div>
+        
+        <!-- Adaptation Delay Visualization -->
+        <div class="viz-container">
+            <h2>From Page to Screen: How Long Did It Take?</h2>
+            <p>This histogram shows the distribution of years between publication and film adaptation. Some works were adapted almost immediately, while others waited decades for their cinematic moment.</p>
+            <div class="chart-wrapper">
+                <canvas id="delayHistogram"></canvas>
+            </div>
+            <div id="delayStats" class="stat-highlight"></div>
+        </div>
+    </div>
+    
+    <script>
+        // Configuration
+        const DATA_BASE_PATH = '/adapted-from-women/data/';
+        const CSV_FILES = {
+            films: 'films_rows.csv',
+            authors: 'authors_rows.csv',
+            sourceWorks: 'source_works_rows.csv'
+        };
+        
+        // Data storage
+        let data = {
+            films: [],
+            authors: [],
+            sourceWorks: []
+        };
+        
+        // Load CSV from URL using PapaParse
+        async function loadCSV(url) {
+            return new Promise((resolve, reject) => {
+                Papa.parse(url, {
+                    download: true,
+                    header: true,
+                    dynamicTyping: true,
+                    skipEmptyLines: true,
+                    complete: function(results) {
+                        resolve(results.data);
+                    },
+                    error: function(error) {
+                        reject(error);
+                    }
+                });
+            });
+        }
+        
+        // Load all data
+        async function loadData() {
+            try {
+                // Show loading state
+                document.querySelectorAll('.viz-container').forEach(container => {
+                    const chartArea = container.querySelector('.chart-wrapper, #topAuthorsChart');
+                    if (chartArea) {
+                        chartArea.innerHTML = '<div class="loading-viz">Loading data...</div>';
+                    }
+                });
+                
+                // Load all CSV files
+                const [filmsData, authorsData, worksData] = await Promise.all([
+                    loadCSV(DATA_BASE_PATH + CSV_FILES.films),
+                    loadCSV(DATA_BASE_PATH + CSV_FILES.authors),
+                    loadCSV(DATA_BASE_PATH + CSV_FILES.sourceWorks)
+                ]);
+                
+                // Store data
+                data.films = filmsData;
+                data.authors = authorsData;
+                data.sourceWorks = worksData;
+                
+                // Create visualizations
+                createTimelineVisualization();
+                createTopAuthorsVisualization();
+                createDelayHistogram();
+                
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.querySelectorAll('.viz-container').forEach(container => {
+                    container.innerHTML = '<div class="error">Error loading data. Please check console for details.</div>';
+                });
+            }
+        }
+        
+        // Create timeline visualization
+        function createTimelineVisualization() {
+            // Count films by year
+            const filmsByYear = {};
+            data.films.forEach(film => {
+                if (film.release_year && film.release_year >= 1910 && film.release_year <= 1962) {
+                    filmsByYear[film.release_year] = (filmsByYear[film.release_year] || 0) + 1;
+                }
+            });
+            
+            // Create complete year range
+            const years = [];
+            const counts = [];
+            for (let year = 1910; year <= 1962; year++) {
+                years.push(year);
+                counts.push(filmsByYear[year] || 0);
+            }
+            
+            // Find peak years
+            const maxCount = Math.max(...counts);
+            const peakYears = years.filter((year, index) => counts[index] === maxCount);
+            
+            // Calculate era statistics
+            const silentEra = counts.slice(0, 18).reduce((a, b) => a + b, 0); // 1910-1927
+            const goldenAge = counts.slice(20, 40).reduce((a, b) => a + b, 0); // 1930-1949
+            const postWar = counts.slice(40).reduce((a, b) => a + b, 0); // 1950-1962
+            
+            // Update stats
+            document.getElementById('timelineStats').innerHTML = `
+                <strong>Peak Year${peakYears.length > 1 ? 's' : ''}:</strong> ${peakYears.join(', ')} with ${maxCount} adaptation${maxCount > 1 ? 's' : ''}<br>
+                <strong>Era Breakdown:</strong> Silent Era (1910-1927): ${silentEra} films | Golden Age (1930-1949): ${goldenAge} films | Post-War (1950-1962): ${postWar} films
+            `;
+            
+            // Create chart
+            const ctx = document.getElementById('timelineChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: years,
+                    datasets: [{
+                        label: 'Number of Adaptations',
+                        data: counts,
+                        borderColor: '#3498db',
+                        backgroundColor: 'rgba(52, 152, 219, 0.1)',
+                        borderWidth: 2,
+                        fill: true,
+                        tension: 0.1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        title: {
+                            display: false
+                        },
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Year'
+                            },
+                            ticks: {
+                                maxTicksLimit: 15
+                            }
+                        },
+                        y: {
+                            title: {
+                                display: true,
+                                text: 'Number of Films'
+                            },
+                            beginAtZero: true,
+                            ticks: {
+                                stepSize: 1
+                            }
+                        }
+                    }
+                }
+            });
+        }
+        
+        // Create top authors visualization
+        function createTopAuthorsVisualization() {
+            // Create maps for lookups
+            const authorMap = {};
+            const workMap = {};
+            
+            data.authors.forEach(author => {
+                authorMap[author.id] = author;
+            });
+            
+            data.sourceWorks.forEach(work => {
+                workMap[work.id] = work;
+            });
+            
+            // Count adaptations per author
+            const authorCounts = {};
+            data.films.forEach(film => {
+                const work = workMap[film.source_work_id];
+                if (work && work.author_id) {
+                    const author = authorMap[work.author_id];
+                    if (author && author.name) {
+                        authorCounts[author.name] = (authorCounts[author.name] || 0) + 1;
+                    }
+                }
+            });
+            
+            // Sort and get top 10
+            const sortedAuthors = Object.entries(authorCounts)
+                .sort((a, b) => b[1] - a[1])
+                .slice(0, 10);
+            
+            // Create HTML for top authors
+            const topAuthorsHTML = sortedAuthors.map(([name, count]) => `
+                <div class="author-item">
+                    <span class="author-name">${name}</span>
+                    <span class="author-count">${count} film${count > 1 ? 's' : ''}</span>
+                </div>
+            `).join('');
+            
+            document.getElementById('topAuthorsChart').innerHTML = topAuthorsHTML;
+        }
+        
+        // Create adaptation delay histogram
+        function createDelayHistogram() {
+            // Create maps for lookups
+            const workMap = {};
+            data.sourceWorks.forEach(work => {
+                workMap[work.id] = work;
+            });
+            
+            // Calculate delays
+            const delays = [];
+            data.films.forEach(film => {
+                const work = workMap[film.source_work_id];
+                if (work && work.publication_year && film.release_year) {
+                    const delay = film.release_year - work.publication_year;
+                    if (delay >= 0 && delay <= 100) { // Reasonable range
+                        delays.push(delay);
+                    }
+                }
+            });
+            
+            // Create bins for histogram (0-5, 6-10, 11-15, etc.)
+            const binSize = 5;
+            const maxDelay = Math.max(...delays);
+            const binCount = Math.ceil(maxDelay / binSize) + 1;
+            const bins = Array(binCount).fill(0);
+            const binLabels = [];
+            
+            for (let i = 0; i < binCount; i++) {
+                const start = i * binSize;
+                const end = start + binSize - 1;
+                binLabels.push(`${start}-${end}`);
+            }
+            
+            // Count delays in each bin
+            delays.forEach(delay => {
+                const binIndex = Math.floor(delay / binSize);
+                bins[binIndex]++;
+            });
+            
+            // Calculate statistics
+            const avgDelay = Math.round(delays.reduce((a, b) => a + b, 0) / delays.length);
+            const minDelay = Math.min(...delays);
+            const maxDelayActual = Math.max(...delays);
+            const immediate = delays.filter(d => d <= 1).length;
+            
+            // Update stats
+            document.getElementById('delayStats').innerHTML = `
+                <strong>Average time to adaptation:</strong> ${avgDelay} years | 
+                <strong>Fastest:</strong> ${minDelay} year${minDelay !== 1 ? 's' : ''} | 
+                <strong>Longest:</strong> ${maxDelayActual} years | 
+                <strong>Immediate adaptations (≤1 year):</strong> ${immediate} films
+            `;
+            
+            // Create chart
+            const ctx = document.getElementById('delayHistogram').getContext('2d');
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: binLabels,
+                    datasets: [{
+                        label: 'Number of Films',
+                        data: bins,
+                        backgroundColor: '#3498db',
+                        borderColor: '#2980b9',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        title: {
+                            display: false
+                        },
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Years from Publication to Film'
+                            }
+                        },
+                        y: {
+                            title: {
+                                display: true,
+                                text: 'Number of Films'
+                            },
+                            beginAtZero: true,
+                            ticks: {
+                                stepSize: 1
+                            }
+                        }
+                    }
+                }
+            });
+        }
+        
+        // Initialize on load
+        loadData();
+    </script>
+</body>
+</html>

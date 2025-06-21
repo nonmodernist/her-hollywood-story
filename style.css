@@ -195,14 +195,14 @@ input:focus, select:focus {
     color: #2c3e50;
 }
 
-.author-link {
+/* .author-link {
     color: #3498db;
     text-decoration: none;
 }
 
 .author-link:hover {
     text-decoration: underline;
-}
+} */
 
 .tags {
     display: flex;
@@ -443,4 +443,12 @@ input:focus, select:focus {
     .film-list table {
         min-width: 700px;
     }
+}
+
+.last-updated {
+    text-align: center; 
+    color: #7f8c8d; 
+    font-size: 0.9rem; 
+    margin-top: 1rem; 
+    font-style: italic
 }

@@ -215,6 +215,7 @@
                 });
                 
                 // Initialize UI
+                analyzeAdaptations();
                 initializeFilters();
                 updateStats();
                 renderFilms();
@@ -312,7 +313,7 @@
             const authorFilter = document.getElementById('authorFilter').value;
             const genreFilter = document.getElementById('genreFilter').value;
             
-            return data.films.filter(film => {
+            const filtered = data.films.filter(film => {
                 // Search filter
                 if (searchTerm) {
                     const work = workMap[film.source_work_id];
@@ -342,6 +343,15 @@
                 }
                 
                 return true;
+            });
+            
+            // Sort by year (ascending)
+            return filtered.sort((a, b) => {
+                // Handle missing years by putting them at the end
+                if (!a.release_year && !b.release_year) return 0;
+                if (!a.release_year) return 1;
+                if (!b.release_year) return -1;
+                return a.release_year - b.release_year;
             });
         }
         
@@ -543,10 +553,15 @@
                     </div>
                 </div>
                 
-                ${film.research_status ? `
+                ${film.updated_at ? `
                     <div class="modal-section">
-                        <h3>Research Status</h3>
-                        <p>${film.research_status}</p>
+                        <p style="text-align: center; color: #7f8c8d; font-size: 0.9rem; margin-top: 1rem;">
+                            Last updated: ${new Date(film.updated_at).toLocaleDateString('en-US', { 
+                                year: 'numeric', 
+                                month: 'long', 
+                                day: 'numeric' 
+                            })}
+                        </p>
                     </div>
                 ` : ''}
             `;

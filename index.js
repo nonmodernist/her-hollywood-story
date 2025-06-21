@@ -104,7 +104,9 @@ class Router {
 
         // Listen for hash changes
         window.addEventListener('hashchange', () => this.handleRoute());
-        window.addEventListener('load', () => this.handleRoute());
+        
+        // Handle initial route after a small delay to ensure data loads
+        setTimeout(() => this.handleRoute(), 100);
     }
 
     handleRoute() {
@@ -138,6 +140,9 @@ class Router {
         // Re-render films if data is loaded
         if (data.films.length > 0) {
             renderFilms();
+        } else {
+            // If data isn't loaded yet, show loading state
+            document.getElementById('filmGrid').innerHTML = '<div class="loading">Loading database...</div>';
         }
     }
 
@@ -395,9 +400,11 @@ async function loadData() {
         // Initialize router after data is loaded
         if (!router) {
             router = new Router();
-        } else {
-            // If router already exists, handle current route
-            router.handleRoute();
+        }
+        
+        // Always render films when data is loaded, regardless of route
+        if (window.location.hash === '' || window.location.hash === '#/' || window.location.hash === '#') {
+            renderFilms();
         }
 
     } catch (error) {
@@ -898,105 +905,6 @@ renderFilms = function() {
         addMediaBadges();
     }, 100);
 };
-
-// // Legacy function: Show film details modal (kept for backward compatibility)
-// function showFilmDetails(filmId) {
-//     const film = data.films.find(f => f.id === filmId);
-//     if (!film) return;
-
-//     const work = workMap[film.source_work_id];
-//     const author = work ? authorMap[work.author_id] : null;
-//     const genres = formatGenres(film.genres);
-//     const adaptationDelay = getAdaptationDelay(work, film);
-
-//     // Find other adaptations of the same work
-//     const otherAdaptations = work ? data.films.filter(f => 
-//         f.source_work_id === film.source_work_id && f.id !== film.id
-//     ) : [];
-
-//     const modalContent = document.getElementById('modalContent');
-//     modalContent.innerHTML = `
-//         <h2>${film.title || 'Untitled'} (${film.release_year || 'Year unknown'})</h2>
-
-//         <div class="modal-section">
-//             <h3>Film Details</h3>
-//             ${film.studio ? `<p><strong>Studio:</strong> ${film.studio}</p>` : ''}
-//             ${film.directors ? `<p><strong>Director(s):</strong> ${parsePipeSeparated(film.directors)}</p>` : ''}
-//             ${film.writers ? `<p><strong>Screenwriter(s):</strong> ${parsePipeSeparated(film.writers)}</p>` : ''}
-//             ${film.cast_members ? `<p><strong>Cast:</strong> ${parsePipeSeparated(film.cast_members)}</p>` : ''}
-//             ${film.runtime_minutes ? `<p><strong>Runtime:</strong> ${film.runtime_minutes} minutes</p>` : ''}
-//             ${film.country_of_production ? `<p><strong>Country:</strong> ${film.country_of_production}</p>` : ''}
-//             ${film.color_info ? `<p><strong>Color:</strong> ${film.color_info}</p>` : ''}
-//             ${film.language ? `<p><strong>Language:</strong> ${film.language}</p>` : ''}
-//             ${film.adaptation_type ? `<p><strong>Adaptation Type:</strong> ${film.adaptation_type}</p>` : ''}
-//             ${genres ? `<p><strong>Genres:</strong> ${genres}</p>` : ''}
-//             ${film.adaptation_notes ? `<p><strong>Notes:</strong> ${film.adaptation_notes}</p>` : ''}
-//             ${film.imdb_id ? `<p><strong>IMDb:</strong> <a href="https://www.imdb.com/title/${film.imdb_id}" target="_blank">${film.imdb_id}</a></p>` : ''}
-//             ${film.afi_catalog_id ? `<p><strong>AFI Catalog:</strong> <a href="${getAFICatalogURL(film.afi_catalog_id)}" target="_blank">View Record</a></p>` : ''}
-//         </div>
-
-//         ${work ? `
-//             <div class="modal-section">
-//                 <h3>Source Work</h3>
-//                 <p><strong>Title:</strong> ${work.title || 'Unknown'}</p>
-//                 ${work.publication_year ? `<p><strong>Publication Year:</strong> ${work.publication_year}</p>` : ''}
-//                 ${adaptationDelay !== null ? `<p><strong>Years to Adaptation:</strong> ${adaptationDelay} years</p>` : ''}
-//                 ${work.genre ? `<p><strong>Genre:</strong> ${work.genre}</p>` : ''}
-//                 ${work.plot_summary ? `<p><strong>Plot Summary:</strong> ${work.plot_summary}</p>` : ''}
-//                 ${work.literary_significance ? `<p><strong>Literary Significance:</strong> ${work.literary_significance}</p>` : ''}
-//                 ${work.attribution_notes ? `<p><strong>Attribution Notes:</strong> ${work.attribution_notes}</p>` : ''}
-//             </div>
-//         ` : ''}
-
-//         ${otherAdaptations.length > 0 ? `
-//             <div class="modal-section">
-//                 <h3>Other Film Adaptations of This Work</h3>
-//                 <div class="other-adaptations">
-//                     ${otherAdaptations.map(adaptation => `
-//                         <div class="adaptation-item" onclick="showFilmDetails(${adaptation.id})">
-//                             <strong>${adaptation.title}</strong> (${adaptation.release_year || 'Year unknown'})
-//                             ${adaptation.directors ? `<br><small>Dir: ${adaptation.directors}</small>` : ''}
-//                         </div>
-//                     `).join('')}
-//                 </div>
-//             </div>
-//         ` : ''}
-
-//         ${author ? `
-//             <div class="modal-section">
-//                 <h3>Author</h3>
-//                 <p><strong>Name:</strong> ${author.name || 'Unknown'}</p>
-//                 ${author.birth_year || author.death_year ? `<p><strong>Lived:</strong> ${author.birth_year || '?'} - ${author.death_year || '?'}</p>` : ''}
-//                 ${author.nationality ? `<p><strong>Country:</strong> ${author.nationality}</p>` : ''}
-//                 ${author.literary_movement ? `<p><strong>Movement:</strong> ${author.literary_movement}</p>` : ''}
-//                 ${author.biographical_notes ? `<p><strong>Biography:</strong> ${author.biographical_notes}</p>` : ''}
-//                 ${author.author_notes ? `<p><strong>Research Notes:</strong> ${author.author_notes}</p>` : ''}
-//             </div>
-//         ` : ''}
-
-//         <div class="modal-section">
-//             <h3>Academic Citations</h3>
-//             <div class="citation-placeholder">
-//                 <p>Citation functionality coming soon!</p>
-//                 <p>This section will display academic papers, articles, and books that discuss this film adaptation.</p>
-//             </div>
-//         </div>
-
-//         ${film.updated_at ? `
-//             <div class="modal-section">
-//                 <p class="last-updated">
-//                     Last updated: ${new Date(film.updated_at).toLocaleDateString('en-US', { 
-//                         year: 'numeric', 
-//                         month: 'long', 
-//                         day: 'numeric' 
-//                     })}
-//                 </p>
-//             </div>
-//         ` : ''}
-//     `;
-
-//     document.getElementById('filmModal').style.display = 'block';
-// }
 
 // Event listeners
 document.addEventListener('DOMContentLoaded', () => {

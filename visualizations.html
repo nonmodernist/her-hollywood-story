@@ -157,14 +157,6 @@
         // Load all data
         async function loadData() {
             try {
-                // Show loading state
-                document.querySelectorAll('.viz-container').forEach(container => {
-                    const chartArea = container.querySelector('.chart-wrapper, #topAuthorsChart');
-                    if (chartArea) {
-                        chartArea.innerHTML = '<div class="loading-viz">Loading data...</div>';
-                    }
-                });
-                
                 // Load all CSV files
                 const [filmsData, authorsData, worksData] = await Promise.all([
                     loadCSV(DATA_BASE_PATH + CSV_FILES.films),

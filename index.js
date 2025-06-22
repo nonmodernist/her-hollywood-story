@@ -316,10 +316,11 @@ class Router {
     ${renderMediaGallery(film)}
 </div>
                 
-                <div class="detail-section future-section">
+        <!--        <div class="detail-section future-section">
                     <h3>Where to Watch</h3>
                     <p>Streaming availability and digital rental options will be listed here in a future update.</p>
                 </div>
+        -->
                 
                 <div class="detail-section future-section">
                     <h3>Academic Citations</h3>

@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Film Viewing Calendar: June 23 - July 22</title>
+    <style>
+        @media print {
+            body { margin: 0.5in; }
+            .no-print { display: none; }
+        }
+        
+        body {
+            font-family: Georgia, serif;
+            line-height: 1.4;
+            color: #333;
+            max-width: 8.5in;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        
+        .week {
+            margin-bottom: 25px;
+            page-break-inside: avoid;
+        }
+        
+        .week-header {
+            background: #f5f5f0;
+            padding: 8px 12px;
+            margin-bottom: 10px;
+            border-left: 4px solid #3498db;
+        }
+        
+        .week-header h2 {
+            margin: 0;
+            font-size: 18px;
+            color: #2c3e50;
+        }
+        
+        .week-subtitle {
+            margin: 0;
+            font-size: 14px;
+            color: #666;
+            font-style: italic;
+        }
+        
+        .day {
+            display: flex;
+            margin-bottom: 8px;
+            align-items: baseline;
+        }
+        
+        .date {
+            font-weight: bold;
+            min-width: 120px;
+            color: #2c3e50;
+        }
+        
+        .film {
+            flex: 1;
+        }
+        
+        .film-title {
+            font-weight: bold;
+            color: #34495e;
+        }
+        
+        .film-info {
+            font-size: 13px;
+            color: #666;
+            font-style: italic;
+        }
+        
+        .checkbox {
+            width: 20px;
+            height: 20px;
+            border: 2px solid #ccc;
+            display: inline-block;
+            margin-right: 10px;
+            vertical-align: middle;
+        }
+        
+        .reward {
+            background: #e8f4fd;
+            padding: 8px;
+            margin-top: 10px;
+            border-radius: 4px;
+            font-size: 14px;
+            text-align: center;
+            font-weight: bold;
+            color: #2980b9;
+        }
+        
+        .progress-tracker {
+            margin-top: 30px;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 8px;
+        }
+        
+        .progress-tracker h3 {
+            margin-top: 0;
+            color: #2c3e50;
+        }
+        
+        .progress-boxes {
+            display: flex;
+            gap: 5px;
+            margin-bottom: 8px;
+        }
+        
+        .progress-box {
+            width: 25px;
+            height: 25px;
+            border: 2px solid #3498db;
+            display: inline-block;
+        }
+        
+        .notes-section {
+            margin-top: 30px;
+            padding: 15px;
+            background: #fffdf7;
+            border: 1px solid #ddd;
+        }
+        
+        .notes-section h3 {
+            margin-top: 0;
+            color: #2c3e50;
+        }
+        
+        .notes-lines {
+            border-bottom: 1px solid #ddd;
+            height: 25px;
+            margin-bottom: 5px;
+        }
+        
+        .footer {
+            margin-top: 30px;
+            text-align: center;
+            font-size: 12px;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎬 Film Viewing Calendar</h1>
+    <p class="subtitle">20 Films in 30 Days • June 23 - July 22, 2025</p>
+    
+    <div class="week">
+        <div class="week-header">
+            <h2>WEEK 1: Silent Era Immersion</h2>
+            <p class="week-subtitle">June 23-29 • 6 films</p>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Mon June 23:</span>
+            <span class="film">
+                <span class="film-title">Ramona (1910)</span>
+                <span class="film-info"> - 17 mins, D.W. Griffith/Biograph</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Tue June 24:</span>
+            <span class="film">
+                <span class="film-title">Tess of the Storm Country (1914)</span>
+                <span class="film-info"> - 80 mins, Mary Pickford</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Wed June 25:</span>
+            <span class="film">
+                <span class="film-title">Rebecca of Sunnybrook Farm (1917)</span>
+                <span class="film-info"> - Mary Pickford</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Thu June 26:</span>
+            <span class="film">
+                <span class="film-title">Amarilly of Clothes-Line Alley (1918)</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Fri June 27:</span>
+            <span class="film">
+                <span class="film-title">Mrs. Wiggs of the Cabbage Patch (1919)</span>
+                <span class="film-info"> - Note for 1934 comparison</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Sat June 28:</span>
+            <span class="film">
+                <span class="film-title">Pollyanna (1920)</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Sun June 29:</span>
+            <span class="film">Catch-up day & write notes!</span>
+        </div>
+        
+        <div class="reward">✅ Week 1 Complete: 6 silent films watched!</div>
+    </div>
+    
+    <div class="week">
+        <div class="week-header">
+            <h2>WEEK 2: Evolution & Sound Transition</h2>
+            <p class="week-subtitle">June 30 - July 6 • 5 films</p>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Mon June 30:</span>
+            <span class="film">
+                <span class="film-title">Humoresque (1920)</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Tue July 1:</span>
+            <span class="film">
+                <span class="film-title">Tess of the Storm Country (1922)</span>
+                <span class="film-info"> - Compare with 1914!</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Wed July 2:</span>
+            <span class="film">
+                <span class="film-title">Ramona (1928)</span>
+                <span class="film-info"> - Compare with 1910!</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Thu July 3:</span>
+            <span class="film">
+                <span class="film-title">Linda (1929)</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Fri July 4:</span>
+            <span class="film">🎆 Holiday - Optional viewing or rest!</span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Sat July 5:</span>
+            <span class="film">
+                <span class="film-title">Back Street (1932)</span>
+                <span class="film-info"> - Early sound era</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Sun July 6:</span>
+            <span class="film">Notes & reflection day</span>
+        </div>
+        
+        <div class="reward">✅ Week 2 Complete: Halfway there - 11 films done!</div>
+    </div>
+    
+    <div class="week">
+        <div class="week-header">
+            <h2>WEEK 3: Studio System Deep Dive</h2>
+            <p class="week-subtitle">July 7-13 • 5 films</p>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Mon July 7:</span>
+            <span class="film">
+                <span class="film-title">Mrs. Wiggs of the Cabbage Patch (1934)</span>
+                <span class="film-info"> - Compare with 1919!</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Tue July 8:</span>
+            <span class="film">
+                <span class="film-title">Cheers for Miss Bishop (1941)</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Wed July 9:</span>
+            <span class="film">
+                <span class="film-title">Freckles Comes Home (1942)</span>
+                <span class="film-info"> - Gene Stratton-Porter!</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Thu July 10:</span>
+            <span class="film">
+                <span class="film-title">The Sun Comes Up (1949)</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Fri July 11:</span>
+            <span class="film">Writing/catch-up day</span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Sat July 12:</span>
+            <span class="film">
+                <span class="film-title">Lucy Gallant (1955)</span>
+                <span class="film-info"> - 1950s perspective</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Sun July 13:</span>
+            <span class="film">Rest day</span>
+        </div>
+        
+        <div class="reward">✅ Week 3 Complete: 16 films watched!</div>
+    </div>
+    
+    <div class="week">
+        <div class="week-header">
+            <h2>WEEK 4: Final Sprint</h2>
+            <p class="week-subtitle">July 14-22 • 4 films</p>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Mon July 14:</span>
+            <span class="film">
+                <span class="film-title">The Dream Lady</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Tue July 15:</span>
+            <span class="film">
+                <span class="film-title">The Risky Road</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Wed July 16:</span>
+            <span class="film">
+                <span class="film-title">The Hanging Tree</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Thu July 17:</span>
+            <span class="film">Catch-up any missed films</span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Fri July 18:</span>
+            <span class="film">Final viewing (your choice!)</span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">July 19-22:</span>
+            <span class="film">Compile notes, update database, CELEBRATE!</span>
+        </div>
+        
+        <div class="reward">🎉 CONGRATULATIONS! 20 FILMS COMPLETE!</div>
+    </div>
+    
+    <div class="progress-tracker">
+        <h3>Overall Progress Tracker</h3>
+        <div>
+            Week 1: <span class="progress-boxes">
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+            </span> (6 films)
+        </div>
+        <div>
+            Week 2: <span class="progress-boxes">
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+            </span> (5 films)
+        </div>
+        <div>
+            Week 3: <span class="progress-boxes">
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+            </span> (5 films)
+        </div>
+        <div>
+            Week 4: <span class="progress-boxes">
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+            </span> (4 films)
+        </div>
+    </div>
+    
+    <div class="notes-section">
+        <h3>Key Insights & Discoveries</h3>
+        <div class="notes-lines"></div>
+        <div class="notes-lines"></div>
+        <div class="notes-lines"></div>
+        <div class="notes-lines"></div>
+        <div class="notes-lines"></div>
+    </div>
+    
+    <div class="footer">
+        <p>Adapted from American Women Film Research Project • Summer 2025</p>
+    </div>
+</body>
+</html>

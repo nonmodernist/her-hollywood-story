@@ -39,17 +39,34 @@ function parsePipeSeparated(value) {
 function parseGenres(genreString) {
     if (!genreString) return [];
 
+    // Remove outer quotes if the string is wrapped in them
+    let cleanString = genreString;
+    if ((genreString.startsWith('"') && genreString.endsWith('"')) || 
+        (genreString.startsWith("'") && genreString.endsWith("'"))) {
+        cleanString = genreString.slice(1, -1);
+    }
+
     // Try to parse as JSON array first
-    if (genreString.startsWith('[')) {
+    if (cleanString.startsWith('[')) {
         try {
-            return JSON.parse(genreString);
+            // Replace single quotes with double quotes for valid JSON
+            const jsonString = cleanString.replace(/'/g, '"');
+            const parsed = JSON.parse(jsonString);
+            return parsed.map(g => g.trim());
         } catch (e) {
-            // If JSON parse fails, fall back to comma separation
+            // If JSON parse fails, try another approach
+            // Extract content between brackets and split
+            const match = cleanString.match(/\[(.*)\]/);
+            if (match) {
+                return match[1]
+                    .split(',')
+                    .map(g => g.trim().replace(/['"]/g, ''));
+            }
         }
     }
 
     // Otherwise treat as comma-separated
-    return genreString.split(',').map(g => g.trim());
+    return cleanString.split(',').map(g => g.trim().replace(/['"]/g, ''));
 }
 
 // Format genres for display

@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Extended Film Viewing Calendar: June 23 - August 3</title>
+    <style>
+        @media print {
+            body { margin: 0.5in; }
+            .no-print { display: none; }
+            .week { page-break-inside: avoid; }
+        }
+        
+        body {
+            font-family: Georgia, serif;
+            line-height: 1.4;
+            color: #333;
+            max-width: 8.5in;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        
+        .highlight-box {
+            background: #fffacd;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 8px;
+            border-left: 4px solid #ffd700;
+        }
+        
+        .highlight-box h3 {
+            margin-top: 0;
+            color: #2c3e50;
+        }
+        
+        .week {
+            margin-bottom: 25px;
+        }
+        
+        .week-header {
+            background: #f5f5f0;
+            padding: 8px 12px;
+            margin-bottom: 10px;
+            border-left: 4px solid #3498db;
+        }
+        
+        .week-header h2 {
+            margin: 0;
+            font-size: 18px;
+            color: #2c3e50;
+        }
+        
+        .week-subtitle {
+            margin: 0;
+            font-size: 14px;
+            color: #666;
+            font-style: italic;
+        }
+        
+        .day {
+            display: flex;
+            margin-bottom: 8px;
+            align-items: baseline;
+        }
+        
+        .date {
+            font-weight: bold;
+            min-width: 120px;
+            color: #2c3e50;
+        }
+        
+        .film {
+            flex: 1;
+        }
+        
+        .film-title {
+            font-weight: bold;
+            color: #34495e;
+        }
+        
+        .film-info {
+            font-size: 13px;
+            color: #666;
+            font-style: italic;
+        }
+        
+        .checkbox {
+            width: 20px;
+            height: 20px;
+            border: 2px solid #ccc;
+            display: inline-block;
+            margin-right: 10px;
+            vertical-align: middle;
+        }
+        
+        .reward {
+            background: #e8f4fd;
+            padding: 8px;
+            margin-top: 10px;
+            border-radius: 4px;
+            font-size: 14px;
+            text-align: center;
+            font-weight: bold;
+            color: #2980b9;
+        }
+        
+        .progress-tracker {
+            margin-top: 30px;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 8px;
+        }
+        
+        .progress-tracker h3 {
+            margin-top: 0;
+            color: #2c3e50;
+        }
+        
+        .progress-boxes {
+            display: flex;
+            gap: 5px;
+            margin-bottom: 8px;
+            flex-wrap: wrap;
+        }
+        
+        .progress-box {
+            width: 25px;
+            height: 25px;
+            border: 2px solid #3498db;
+            display: inline-block;
+        }
+        
+        .notes-section {
+            margin-top: 30px;
+            padding: 15px;
+            background: #fffdf7;
+            border: 1px solid #ddd;
+        }
+        
+        .notes-section h3 {
+            margin-top: 0;
+            color: #2c3e50;
+        }
+        
+        .notes-lines {
+            border-bottom: 1px solid #ddd;
+            height: 25px;
+            margin-bottom: 5px;
+        }
+        
+        .footer {
+            margin-top: 30px;
+            text-align: center;
+            font-size: 12px;
+            color: #999;
+        }
+        
+        .streaming-badge {
+            background: #27ae60;
+            color: white;
+            padding: 2px 6px;
+            border-radius: 12px;
+            font-size: 11px;
+            margin-left: 5px;
+        }
+        
+        .original-badge {
+            background: #e74c3c;
+            color: white;
+            padding: 2px 6px;
+            border-radius: 12px;
+            font-size: 11px;
+            margin-left: 5px;
+        }
+        
+        .comparison-note {
+            background: #f0f8ff;
+            padding: 5px;
+            margin-top: 2px;
+            font-size: 12px;
+            border-radius: 3px;
+        }
+        
+        .flex-day {
+            background: #f9f9f9;
+            padding: 5px;
+            border-radius: 3px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎬 Extended Film Viewing Calendar</h1>
+    <p class="subtitle">35 Films in 6 Weeks • June 23 - August 3, 2025</p>
+    
+    <div class="highlight-box">
+        <h3>📽️ The Ultimate Summer Challenge!</h3>
+        <p>This extended 6-week calendar combines your original selections with newly discovered streaming titles for a comprehensive journey through Hollywood's adaptations of American women writers. Films marked <span class="streaming-badge">NEW</span> are recent discoveries, while <span class="original-badge">ORIG</span> indicates films from your initial selection.</p>
+    </div>
+    
+    <div class="week">
+        <div class="week-header">
+            <h2>WEEK 1: Silent Era Foundations</h2>
+            <p class="week-subtitle">June 23-29 • 6 films • Early cinema's women writers</p>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Mon June 23:</span>
+            <span class="film">
+                <span class="film-title">Ramona (1910)</span> <span class="original-badge">ORIG</span>
+                <span class="film-info"> - 17 mins, D.W. Griffith/Biograph</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Tue June 24:</span>
+            <span class="film">
+                <span class="film-title">Tess of the Storm Country (1914)</span> <span class="original-badge">ORIG</span>
+                <span class="film-info"> - 80 mins, Mary Pickford</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Wed June 25:</span>
+            <span class="film">
+                <span class="film-title">Rebecca of Sunnybrook Farm (1917)</span> <span class="original-badge">ORIG</span>
+                <span class="film-info"> - Mary Pickford classic</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Thu June 26:</span>
+            <span class="film">
+                <span class="film-title">The Dream Lady (1918)</span> <span class="streaming-badge">NEW</span>
+                <span class="film-info"> - Melodrama</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Fri June 27:</span>
+            <span class="film">
+                <span class="film-title">Amarilly of Clothes-Line Alley (1918)</span> <span class="original-badge">ORIG</span>
+                <span class="film-info"> - Mary Pickford</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Sat June 28:</span>
+            <span class="film">
+                <span class="film-title">Mrs. Wiggs of the Cabbage Patch (1919)</span> <span class="original-badge">ORIG</span>
+                <span class="film-info"> - For 1934 comparison</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Sun June 29:</span>
+            <span class="film">Notes & reflection day</span>
+        </div>
+        
+        <div class="reward">✅ Week 1 Complete: Silent era foundations established!</div>
+    </div>
+    
+    <div class="week">
+        <div class="week-header">
+            <h2>WEEK 2: The 1920s - Peak Silent & Early Sound</h2>
+            <p class="week-subtitle">June 30 - July 6 • 7 films • Technological transition</p>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Mon June 30:</span>
+            <span class="film">
+                <span class="film-title">Pollyanna (1920)</span> <span class="original-badge">ORIG</span>
+                <span class="film-info"> - Mary Pickford</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Tue July 1:</span>
+            <span class="film">
+                <span class="film-title">Humoresque (1920)</span> <span class="original-badge">ORIG</span>
+                <span class="film-info"> - Fannie Hurst adaptation</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Wed July 2:</span>
+            <span class="film">
+                <span class="film-title">Miss Lulu Bett (1921)</span> <span class="streaming-badge">NEW</span>
+                <span class="film-info"> - Zona Gale's Pulitzer winner</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Thu July 3:</span>
+            <span class="film">
+                <span class="film-title">Tess of the Storm Country (1922)</span> <span class="original-badge">ORIG</span>
+                <span class="film-info"> - Compare with 1914!</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Fri July 4:</span>
+            <span class="film">
+                🎆 Holiday viewing: <span class="film-title">The Bat (1926)</span> <span class="streaming-badge">NEW</span>
+                <span class="film-info"> - Mary Roberts Rinehart mystery</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Sat July 5:</span>
+            <span class="film">
+                <span class="film-title">Uncle Tom's Cabin (1927)</span> <span class="streaming-badge">NEW</span>
+                <span class="film-info"> - Late silent version</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Sun July 6:</span>
+            <span class="film">
+                <span class="film-title">Ramona (1928)</span> <span class="original-badge">ORIG</span>
+                <span class="film-info"> - Compare with 1910!</span>
+            </span>
+        </div>
+        
+        <div class="reward">✅ Week 2 Complete: 13 films watched - great momentum!</div>
+    </div>
+    
+    <div class="week">
+        <div class="week-header">
+            <h2>WEEK 3: Early Sound Era & Pre-Code Hollywood</h2>
+            <p class="week-subtitle">July 7-13 • 6 films • 1929-1934</p>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Mon July 7:</span>
+            <span class="film">
+                <span class="film-title">Linda (1929)</span> <span class="original-badge">ORIG</span>
+                <span class="film-info"> - Early talkie</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Tue July 8:</span>
+            <span class="film">
+                <span class="film-title">Applause (1929)</span> <span class="streaming-badge">NEW</span>
+                <span class="film-info"> - Rouben Mamoulian's debut</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Wed July 9:</span>
+            <span class="film">
+                <span class="film-title">The Bat Whispers (1930)</span> <span class="streaming-badge">NEW</span>
+                <span class="film-info"> - Sound remake of The Bat</span>
+                <div class="comparison-note">📌 Compare with 1926 version!</div>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Thu July 10:</span>
+            <span class="film">
+                <span class="film-title">Back Street (1932)</span> <span class="original-badge">ORIG</span>
+                <span class="film-info"> - Fannie Hurst melodrama</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Fri July 11:</span>
+            <span class="film">
+                <span class="film-title">Little Men (1934)</span> <span class="streaming-badge">NEW</span>
+                <span class="film-info"> - Louisa May Alcott</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Sat July 12:</span>
+            <span class="film">
+                <span class="film-title">Mrs. Wiggs of the Cabbage Patch (1934)</span> <span class="original-badge">ORIG</span>
+                <span class="film-info"> - Compare with 1919!</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Sun July 13:</span>
+            <span class="film">Rest & reflection day</span>
+        </div>
+        
+        <div class="reward">✅ Week 3 Complete: 19 films - over halfway!</div>
+    </div>
+    
+    <div class="week">
+        <div class="week-header">
+            <h2>WEEK 4: Studio System Golden Age</h2>
+            <p class="week-subtitle">July 14-20 • 6 films • 1936-1945</p>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Mon July 14:</span>
+            <span class="film">
+                <span class="film-title">Little Lord Fauntleroy (1936)</span> <span class="streaming-badge">NEW</span>
+                <span class="film-info"> - Selznick production</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Tue July 15:</span>
+            <span class="film">
+                <span class="film-title">Stella Dallas (1937)</span> <span class="streaming-badge">NEW</span>
+                <span class="film-info"> - Barbara Stanwyck classic</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Wed July 16:</span>
+            <span class="film">
+                <span class="film-title">The Old Maid (1939)</span> <span class="streaming-badge">NEW</span>
+                <span class="film-info"> - Bette Davis, Edith Wharton</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Thu July 17:</span>
+            <span class="film">
+                <span class="film-title">Cheers for Miss Bishop (1941)</span> <span class="original-badge">ORIG</span>
+                <span class="film-info"> - Teacher's life story</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Fri July 18:</span>
+            <span class="film">
+                <span class="film-title">In This Our Life (1942)</span> <span class="streaming-badge">NEW</span>
+                <span class="film-info"> - Ellen Glasgow adaptation</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Sat July 19:</span>
+            <span class="film">
+                <span class="film-title">The Valley of Decision (1945)</span> <span class="streaming-badge">NEW</span>
+                <span class="film-info"> - Greer Garson drama</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Sun July 20:</span>
+            <span class="film">Catch-up or rest day</span>
+        </div>
+        
+        <div class="reward">✅ Week 4 Complete: 25 films done!</div>
+    </div>
+    
+    <div class="week">
+        <div class="week-header">
+            <h2>WEEK 5: Post-War Transformations</h2>
+            <p class="week-subtitle">July 21-27 • 5 films • 1942-1955</p>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Mon July 21:</span>
+            <span class="film">
+                <span class="film-title">Freckles Comes Home (1942)</span> <span class="original-badge">ORIG</span>
+                <span class="film-info"> - Gene Stratton-Porter</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Tue July 22:</span>
+            <span class="film">
+                <span class="film-title">The Sun Comes Up (1949)</span> <span class="original-badge">ORIG</span>
+                <span class="film-info"> - Margaret Fitts</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Wed July 23:</span>
+            <span class="film">
+                <span class="film-title">Three Came Home (1950)</span> <span class="streaming-badge">NEW</span>
+                <span class="film-info"> - Agnes Newton Keith memoir</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Thu July 24:</span>
+            <span class="film">
+                <span class="film-title">Goodbye, My Fancy (1951)</span> <span class="streaming-badge">NEW</span>
+                <span class="film-info"> - Joan Crawford</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Fri July 25:</span>
+            <span class="film">
+                <span class="film-title">Lucy Gallant (1955)</span> <span class="original-badge">ORIG</span>
+                <span class="film-info"> - 1950s perspective</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Sat-Sun July 26-27:</span>
+            <span class="film flex-day">Flexible viewing/catch-up weekend</span>
+        </div>
+        
+        <div class="reward">✅ Week 5 Complete: 30 films watched!</div>
+    </div>
+    
+    <div class="week">
+        <div class="week-header">
+            <h2>WEEK 6: Final Sprint - Late Studio Era</h2>
+            <p class="week-subtitle">July 28 - August 3 • 5 films • Closing perspectives</p>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Mon July 28:</span>
+            <span class="film">
+                <span class="film-title">The Blue Gardenia (1953)</span> <span class="streaming-badge">NEW</span>
+                <span class="film-info"> - Film noir</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Tue July 29:</span>
+            <span class="film">
+                <span class="film-title">The Risky Road</span> <span class="original-badge">ORIG</span>
+                <span class="film-info"> - Later adaptation</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Wed July 30:</span>
+            <span class="film">
+                <span class="film-title">The Hanging Tree (1959)</span> <span class="original-badge">ORIG</span>
+                <span class="film-info"> - Gary Cooper western</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Thu July 31:</span>
+            <span class="film">
+                <span class="film-title">I Passed for White (1960)</span> <span class="streaming-badge">NEW</span>
+                <span class="film-info"> - Race drama</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Fri Aug 1:</span>
+            <span class="film">
+                <span class="film-title">Greyfriars Bobby (1961)</span> <span class="streaming-badge">NEW</span>
+                <span class="film-info"> - Disney, Eleanor Atkinson</span>
+            </span>
+        </div>
+        
+        <div class="day">
+            <span class="checkbox">☐</span>
+            <span class="date">Aug 2-3:</span>
+            <span class="film">Final notes, database updates, and celebration!</span>
+        </div>
+        
+        <div class="reward">🎉 CONGRATULATIONS! 35 FILMS IN 6 WEEKS!</div>
+    </div>
+    
+    <div class="progress-tracker">
+        <h3>Overall Progress Tracker - 35 Films Total</h3>
+        <div>
+            Week 1: <span class="progress-boxes">
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+            </span> (6 films)
+        </div>
+        <div>
+            Week 2: <span class="progress-boxes">
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+            </span> (7 films)
+        </div>
+        <div>
+            Week 3: <span class="progress-boxes">
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+            </span> (6 films)
+        </div>
+        <div>
+            Week 4: <span class="progress-boxes">
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+            </span> (6 films)
+        </div>
+        <div>
+            Week 5: <span class="progress-boxes">
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+            </span> (5 films)
+        </div>
+        <div>
+            Week 6: <span class="progress-boxes">
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+                <span class="progress-box"></span>
+            </span> (5 films)
+        </div>
+    </div>
+    
+    <div class="notes-section">
+        <h3>Key Comparisons to Track</h3>
+        <p><strong>Multiple Adaptations:</strong></p>
+        <ul style="margin-left: 20px;">
+            <li>Ramona (1910 vs 1928)</li>
+            <li>Tess of the Storm Country (1914 vs 1922)</li>
+            <li>Mrs. Wiggs of the Cabbage Patch (1919 vs 1934)</li>
+            <li>The Bat (1926) vs The Bat Whispers (1930)</li>
+        </ul>
+        <p><strong>Author Patterns:</strong> Mary Pickford vehicles, Fannie Hurst melodramas, Gene Stratton-Porter</p>
+        <p><strong>Genre Evolution:</strong> Silent melodrama → Pre-Code → Post-Code → Film Noir → Family films</p>
+        <div class="notes-lines"></div>
+        <div class="notes-lines"></div>
+    </div>
+    
+    <div class="footer">
+        <p>Adapted from American Women Film Research Project • Summer 2025</p>
+        <p>Extended 6-week calendar combining original selections with streaming discoveries</p>
+    </div>
+</body>
+</html>

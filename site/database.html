@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Film Database - Her Hollywood Story</title>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/pages/database.css">
+</head>
+<body>
+    <header class="site-header">
+        <h1 class="site-title">Her Hollywood Story</h1>
+        <p class="site-subtitle">A Database of Hollywood Films Adapted from American Women Writers</p>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="database.html" class="active">Database</a></li>
+                <li><a href="patterns/index.html">Patterns</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="research.html">Research</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="database-container">
+        <!-- Database Header -->
+        <section class="database-intro">
+            <h2>Explore the Database</h2>
+            <p class="section-intro">Browse 1,119 Hollywood films adapted from the novels and short stories of 502 American women writers, spanning 1910 to 1963.</p>
+        </section>
+
+        <!-- Stats Bar -->
+        <div class="stats-row compact">
+            <div class="stat">
+                <div class="stat-number" id="totalFilms">1,119</div>
+                <div class="stat-label">Films</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number" id="currentResults">1,119</div>
+                <div class="stat-label">Showing</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number" id="withMedia">393</div>
+                <div class="stat-label">With Images</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number" id="yearRange">1910–1963</div>
+                <div class="stat-label">Years</div>
+            </div>
+        </div>
+
+        <!-- Search and Filters -->
+        <section class="search-section">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search films, authors, directors..." 
+                       autocomplete="off" aria-label="Search database">
+                <button id="clearSearch" class="clear-btn" aria-label="Clear search">×</button>
+            </div>
+            
+            <div class="filter-row">
+                <div class="filter-group">
+                    <label for="yearFilter">Year</label>
+                    <select id="yearFilter">
+                        <option value="">All Years</option>
+                        <optgroup label="Decades">
+                            <option value="1910s">1910s</option>
+                            <option value="1920s">1920s</option>
+                            <option value="1930s">1930s</option>
+                            <option value="1940s">1940s</option>
+                            <option value="1950s">1950s</option>
+                            <option value="1960s">1960s</option>
+                        </optgroup>
+                        <optgroup label="Specific Years" id="yearOptions">
+                            <!-- Populated by JS -->
+                        </optgroup>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="authorFilter">Author</label>
+                    <select id="authorFilter">
+                        <option value="">All Authors</option>
+                        <!-- Populated by JS -->
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="studioFilter">Studio</label>
+                    <select id="studioFilter">
+                        <option value="">All Studios</option>
+                        <!-- Populated by JS -->
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="genreFilter">Genre</label>
+                    <select id="genreFilter">
+                        <option value="">All Genres</option>
+                        <!-- Populated by JS -->
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="mediaFilter">Media</label>
+                    <select id="mediaFilter">
+                        <option value="">All Films</option>
+                        <option value="with">With Images</option>
+                        <option value="without">Without Images</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="filter-actions">
+                <button id="clearFilters" class="text-button">Clear All Filters</button>
+                <div class="results-info">
+                    <span id="resultsCount">Showing 1,119 films</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- View Options -->
+        <div class="view-options">
+            <div class="sort-group">
+                <label for="sortBy">Sort by</label>
+                <select id="sortBy">
+                    <option value="year-desc">Year (Newest First)</option>
+                    <option value="year-asc">Year (Oldest First)</option>
+                    <option value="title-asc">Title (A–Z)</option>
+                    <option value="title-desc">Title (Z–A)</option>
+                    <option value="author-asc">Author (A–Z)</option>
+                </select>
+            </div>
+
+            <div class="view-toggle">
+                <button class="view-btn active" data-view="list" aria-label="List view">
+                    <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+                        <rect x="2" y="4" width="16" height="2"/>
+                        <rect x="2" y="9" width="16" height="2"/>
+                        <rect x="2" y="14" width="16" height="2"/>
+                    </svg>
+                </button>
+                <button class="view-btn" data-view="grid" aria-label="Grid view">
+                    <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+                        <rect x="2" y="2" width="7" height="7"/>
+                        <rect x="11" y="2" width="7" height="7"/>
+                        <rect x="2" y="11" width="7" height="7"/>
+                        <rect x="11" y="11" width="7" height="7"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <!-- Results Container -->
+        <div id="resultsContainer" class="film-list">
+            <div class="loading-state">
+                <p>Loading films...</p>
+            </div>
+        </div>
+
+        <!-- Load More -->
+        <div id="loadMoreContainer" class="load-more-container" style="display: none;">
+            <button id="loadMoreBtn" class="button">Load More Films</button>
+            <p class="load-more-info">Showing <span id="showingCount">50</span> of <span id="totalCount">1,119</span> films</p>
+        </div>
+    </main>
+
+    <!-- Film Detail Modal -->
+    <div id="filmModal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <button class="modal-close" aria-label="Close modal">&times;</button>
+            <div id="modalContent" class="modal-body">
+                <!-- Film details loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="js/pages/database.js"></script>
+</body>
+</html>

@@ -1,0 +1,310 @@
+/* her-hollywood-base.css - Base design system for Her Hollywood Story */
+
+:root {
+    /* Monochromatic palette */
+    --text-primary: #1a1a1a;
+    --text-secondary: #4a4a4a;
+    --text-muted: #767676;
+    --background: #fffff8;
+    --background-alt: #fafaf7;
+    --border-light: #e6e6e6;
+    --border-medium: #d4d4d4;
+    --accent: #8b0000; /* Deep red for minimal accent */
+    --link: #1a1a1a;
+    --link-hover: #8b0000;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Typography fundamentals */
+body {
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 1.4rem;
+    line-height: 2rem;
+    color: var(--text-primary);
+    background: var(--background);
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 12.5%;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'EB Garamond', Georgia, serif;
+    font-weight: 400;
+    line-height: 1.25;
+    margin-top: 2.25rem;
+    margin-bottom: 1.25rem;
+}
+
+h1 {
+    font-size: 3.2rem;
+    font-weight: 400;
+    margin-top: 4rem;
+    margin-bottom: 1.5rem;
+}
+
+h2 {
+    font-size: 2.2rem;
+    font-style: italic;
+    margin-top: 3rem;
+}
+
+h3 {
+    font-size: 1.7rem;
+}
+
+p {
+    margin-top: 1.4rem;
+    margin-bottom: 1.4rem;
+}
+
+/* Links */
+a {
+    color: var(--link);
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: var(--link-hover);
+}
+
+/* Header */
+.site-header {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--border-light);
+}
+
+.site-title {
+    font-size: 2.4rem;
+    font-weight: 400;
+    margin: 0;
+    letter-spacing: 0.01em;
+}
+
+.site-subtitle {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    color: var(--text-secondary);
+    margin-top: 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+/* Navigation */
+nav {
+    margin-top: 1.5rem;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+}
+
+nav a {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 1rem;
+    text-decoration: none;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+nav a:hover,
+nav a.active {
+    color: var(--text-primary);
+}
+
+/* Statistics */
+.stats-row {
+    display: flex;
+    gap: 4rem;
+    margin: 3rem 0;
+    padding: 2rem 0;
+    border-top: 1px solid var(--border-light);
+    border-bottom: 1px solid var(--border-light);
+}
+
+.stats-row.compact {
+    gap: 2rem;
+    margin: 2rem 0;
+    padding: 1.5rem 0;
+}
+
+.stat {
+    flex: 1;
+}
+
+.stat-number {
+    font-size: 2.8rem;
+    line-height: 1;
+    margin-bottom: 0.25rem;
+}
+
+.stat-label {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-muted);
+}
+
+/* Sections */
+section {
+    margin: 4rem 0;
+}
+
+.section-intro {
+    font-size: 1.6rem;
+    line-height: 2.2rem;
+    font-style: italic;
+    color: var(--text-secondary);
+    margin-bottom: 2rem;
+}
+
+/* Buttons */
+.button {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding: 0.75rem 1.5rem;
+    border: 1px solid var(--text-primary);
+    background: transparent;
+    color: var(--text-primary);
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 1rem;
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.button:hover {
+    background: var(--text-primary);
+    color: var(--background);
+}
+
+.text-button {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    background: none;
+    border: none;
+    color: var(--text-secondary);
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+    transition: color 0.2s ease;
+}
+
+.text-button:hover {
+    color: var(--text-primary);
+}
+
+/* Forms */
+input[type="text"],
+input[type="search"],
+textarea,
+select {
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 1.2rem;
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--border-medium);
+    background: var(--background);
+    color: var(--text-primary);
+    width: 100%;
+    transition: border-color 0.2s ease;
+}
+
+input[type="text"]:focus,
+input[type="search"]:focus,
+textarea:focus,
+select:focus {
+    outline: none;
+    border-color: var(--text-primary);
+}
+
+select {
+    cursor: pointer;
+    background-image: url("data:image/svg+xml,%3Csvg width='12' height='8' viewBox='0 0 12 8' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1.5L6 6.5L11 1.5' stroke='%234a4a4a' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 1rem center;
+    padding-right: 2.5rem;
+    appearance: none;
+}
+
+label {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-secondary);
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+/* Utility classes */
+.fullwidth {
+    max-width: none;
+    margin-left: -12.5%;
+    margin-right: -12.5%;
+}
+
+/* Mobile adjustments */
+@media (max-width: 760px) {
+    body {
+        padding: 0 5%;
+        font-size: 1.2rem;
+        line-height: 1.8rem;
+    }
+
+    h1 {
+        font-size: 2.4rem;
+    }
+
+    h2 {
+        font-size: 1.8rem;
+    }
+
+    .site-title {
+        font-size: 2rem;
+    }
+
+    .stats-row {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    .stats-row.compact {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .stats-row.compact .stat {
+        flex: 1 1 45%;
+        min-width: 0;
+    }
+
+    nav ul {
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+
+    .fullwidth {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}

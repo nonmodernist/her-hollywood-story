@@ -1,0 +1,1188 @@
+{
+  "hollywoodQueens": [
+    {
+      "id": 6,
+      "name": "Mary Roberts Rinehart",
+      "films": 30
+    },
+    {
+      "id": 12,
+      "name": "Gene Stratton-Porter",
+      "films": 21
+    },
+    {
+      "id": 24,
+      "name": "Alice Duer Miller",
+      "films": 21
+    },
+    {
+      "id": 25,
+      "name": "Fannie Hurst",
+      "films": 27
+    },
+    {
+      "id": 40,
+      "name": "Edna Ferber",
+      "films": 24
+    }
+  ],
+  "remakeChampions": [
+    {
+      "id": 1,
+      "title": "Ramona",
+      "adaptations": 4
+    },
+    {
+      "id": 3,
+      "title": "Uncle Tom's Cabin",
+      "adaptations": 7
+    },
+    {
+      "id": 5,
+      "title": "Tess of the Storm Country",
+      "adaptations": 4
+    },
+    {
+      "id": 6,
+      "title": "Mrs. Wiggs of the Cabbage Patch",
+      "adaptations": 4
+    },
+    {
+      "id": 7,
+      "title": "The Circular Staircase",
+      "adaptations": 4
+    },
+    {
+      "id": 19,
+      "title": "Freckles",
+      "adaptations": 4
+    },
+    {
+      "id": 50,
+      "title": "Daddy-Long-Legs",
+      "adaptations": 4
+    },
+    {
+      "id": 74,
+      "title": "The Charm School",
+      "adaptations": 5
+    },
+    {
+      "id": 99,
+      "title": "A Girl of the Limberlost",
+      "adaptations": 4
+    },
+    {
+      "id": 185,
+      "title": "Back Street",
+      "adaptations": 4
+    },
+    {
+      "id": 213,
+      "title": "\"Sister Act\"",
+      "adaptations": 4
+    },
+    {
+      "id": 568,
+      "title": "Lena Rivers",
+      "adaptations": 4
+    },
+    {
+      "id": 892,
+      "title": "Five Little Peppers and How they Grew",
+      "adaptations": 4
+    }
+  ],
+  "speedDemons": [
+    {
+      "work": "The Eagle's Mate",
+      "author": "Anna Alice Chapin",
+      "yearGap": 0
+    },
+    {
+      "work": "Mister 44",
+      "author": "E.J. Rath",
+      "yearGap": 0
+    },
+    {
+      "work": "The Blue Envelope",
+      "author": "Sophie Kerr",
+      "yearGap": 0
+    },
+    {
+      "work": "The Enemy",
+      "author": "Lillian Chester",
+      "yearGap": 1
+    },
+    {
+      "work": "The Man from the Bitter Roots",
+      "author": "Caroline Lockhart",
+      "yearGap": 1
+    },
+    {
+      "work": "The Primal Lure: a Romance of Fort Lu Cerne",
+      "author": "Vingie E. Roe",
+      "yearGap": 1
+    },
+    {
+      "work": "The Shop Girl",
+      "author": "Alice Muriel Williamson",
+      "yearGap": 0
+    },
+    {
+      "work": "An Alabaster Box",
+      "author": "Mary Wilkins Freeman",
+      "yearGap": 0
+    },
+    {
+      "work": "Barter",
+      "author": "Evelyn Campbell",
+      "yearGap": 0
+    },
+    {
+      "work": "Mrs. Balfame",
+      "author": "Gertrude Atherton",
+      "yearGap": 1
+    },
+    {
+      "work": "\"Golden Fleece\"",
+      "author": "Fannie Hurst",
+      "yearGap": 1
+    },
+    {
+      "work": "How Could You Jean?",
+      "author": "Eleanor Hoyt Brainerd",
+      "yearGap": 1
+    },
+    {
+      "work": "I, Mary MacLane",
+      "author": "Mary MacLane",
+      "yearGap": 1
+    },
+    {
+      "work": "Out of a Clear Sky",
+      "author": "Maria Thompson Daviess",
+      "yearGap": 1
+    },
+    {
+      "work": "Calvary Alley",
+      "author": "Alice Hegan Rice",
+      "yearGap": 1
+    },
+    {
+      "work": "Turn About, Eleanor",
+      "author": "Ethel May Kelley",
+      "yearGap": 1
+    },
+    {
+      "work": "The Firefly of France",
+      "author": "Marion Polk Angelotti",
+      "yearGap": 0
+    },
+    {
+      "work": "\"The Ghost of Rosy Taylor\"",
+      "author": "Josephine Daskam Bacon",
+      "yearGap": 1
+    },
+    {
+      "work": "The Bargain True",
+      "author": "Nalbro Isadorah Bartley",
+      "yearGap": 0
+    },
+    {
+      "work": "The Three Things",
+      "author": "Mary Raymond Shipman Andrews",
+      "yearGap": 1
+    },
+    {
+      "work": "Twenty-Three and a Half Hours' Leave",
+      "author": "Mary Roberts Rinehart",
+      "yearGap": 1
+    },
+    {
+      "work": "Carolyn of the Corners",
+      "author": "Ruth Belmore Endicott",
+      "yearGap": 1
+    },
+    {
+      "work": "Suspense",
+      "author": "Isabel Ostrander",
+      "yearGap": 1
+    },
+    {
+      "work": "\"Whose Widow?\"",
+      "author": "Elinor Chipp",
+      "yearGap": 1
+    },
+    {
+      "work": "The Avalanche: A Mystery Story",
+      "author": "Gertrude Atherton",
+      "yearGap": 0
+    },
+    {
+      "work": "The Enchanted Barn",
+      "author": "Grace Livingston Hill",
+      "yearGap": 1
+    },
+    {
+      "work": "The Island of Intrigue",
+      "author": "Isabel Ostrander",
+      "yearGap": 1
+    },
+    {
+      "work": "\"The Petal on the Current\"",
+      "author": "Fannie Hurst",
+      "yearGap": 1
+    },
+    {
+      "work": "Too Many Crooks",
+      "author": "E.J. Rath",
+      "yearGap": 1
+    },
+    {
+      "work": "Harriet and the Piper",
+      "author": "Kathleen Norris",
+      "yearGap": 0
+    },
+    {
+      "work": "Her Elephant Man",
+      "author": "Pearl Doles Bell",
+      "yearGap": 1
+    },
+    {
+      "work": "Humoresque",
+      "author": "Fannie Hurst",
+      "yearGap": 1
+    },
+    {
+      "work": "Old Dad",
+      "author": "Eleanor Hallowell Abbott",
+      "yearGap": 1
+    },
+    {
+      "work": "Storm Country Polly",
+      "author": "Grace Miller White",
+      "yearGap": 0
+    },
+    {
+      "work": "\"Miss Antique\"",
+      "author": "Nalbro Isadorah Bartley",
+      "yearGap": 1
+    },
+    {
+      "work": "The Branding Iron",
+      "author": "Katharine Newlin Burt",
+      "yearGap": 1
+    },
+    {
+      "work": "The Fighting Sherpherdess",
+      "author": "Caroline Lockhart",
+      "yearGap": 1
+    },
+    {
+      "work": "Miss Maitland Private Secretary",
+      "author": "Geraldine Bonner",
+      "yearGap": 1
+    },
+    {
+      "work": "The Shadow of Rosalie Byrnes",
+      "author": "Grace Sartwell Mason",
+      "yearGap": 1
+    },
+    {
+      "work": "Uncle Sam of Freedom Ridge",
+      "author": "Margaret Prescott Montague",
+      "yearGap": 0
+    },
+    {
+      "work": "\"Rosa Alvaro, Entrante\"",
+      "author": "Pearl Lenore Curran",
+      "yearGap": 1
+    },
+    {
+      "work": "You Never Can Tell",
+      "author": "Grace Lovell Bryan",
+      "yearGap": 1
+    },
+    {
+      "work": "Miss Lulu Bett",
+      "author": "Zona Gale",
+      "yearGap": 1
+    },
+    {
+      "work": "The Second Latchkey",
+      "author": "Alice Muriel Williamson",
+      "yearGap": 1
+    },
+    {
+      "work": "\"Snowblind\"",
+      "author": "Katharine Newlin Burt",
+      "yearGap": 1
+    },
+    {
+      "work": "The Other Woman",
+      "author": "Norah Davis",
+      "yearGap": 1
+    },
+    {
+      "work": "\"Back Pay\"",
+      "author": "Fannie Hurst",
+      "yearGap": 0
+    },
+    {
+      "work": "Manslaughter",
+      "author": "Alice Duer Miller",
+      "yearGap": 1
+    },
+    {
+      "work": "\"Where the Heart Lies\"",
+      "author": "Lillian Bennett-Thompson",
+      "yearGap": 0
+    },
+    {
+      "work": "Without Compromise",
+      "author": "Lillian Bennett-Thompson",
+      "yearGap": 0
+    },
+    {
+      "work": "Black Oxen",
+      "author": "Gertrude Atherton",
+      "yearGap": 0
+    },
+    {
+      "work": "Richard",
+      "author": "Marguerite Bryant",
+      "yearGap": 1
+    },
+    {
+      "work": "The Glimpses of the Moon",
+      "author": "Edith Wharton",
+      "yearGap": 1
+    },
+    {
+      "work": "\"The Leopardess\"",
+      "author": "Katharine Newlin Burt",
+      "yearGap": 0
+    },
+    {
+      "work": "\"The Self-Made Wife\"",
+      "author": "Elizabeth Alexander",
+      "yearGap": 1
+    },
+    {
+      "work": "A Lost Lady",
+      "author": "Willa Cather",
+      "yearGap": 1
+    },
+    {
+      "work": "Being Respectable",
+      "author": "Grace Flandrau",
+      "yearGap": 1
+    },
+    {
+      "work": "Butterfly",
+      "author": "Kathleen Norris",
+      "yearGap": 1
+    },
+    {
+      "work": "Roles",
+      "author": "Elizabeth Alexander",
+      "yearGap": 0
+    },
+    {
+      "work": "\"Empty Hearts\"",
+      "author": "Evelyn Campbell",
+      "yearGap": 0
+    },
+    {
+      "work": "Feet of Clay",
+      "author": "Margaretta Tuttle",
+      "yearGap": 1
+    },
+    {
+      "work": "\"The Worst Woman in Hollywood\"",
+      "author": "Adela Rogers St. Johns",
+      "yearGap": 0
+    },
+    {
+      "work": "Sandra",
+      "author": "Pearl Doles Bell",
+      "yearGap": 0
+    },
+    {
+      "work": "So Big",
+      "author": "Edna Ferber",
+      "yearGap": 0
+    },
+    {
+      "work": "Sonny",
+      "author": "Virginia Hudson Brightman",
+      "yearGap": 1
+    },
+    {
+      "work": "The Snob",
+      "author": "Helen Reimensnyder Martin",
+      "yearGap": 0
+    },
+    {
+      "work": "The Tenth Woman",
+      "author": "Harriet Theresa Comstock",
+      "yearGap": 1
+    },
+    {
+      "work": "Such as Sit in Judgement",
+      "author": "Margery Land May",
+      "yearGap": 1
+    },
+    {
+      "work": "Bobbed Hair",
+      "author": "Bernice Brown",
+      "yearGap": 0
+    },
+    {
+      "work": "Chickie",
+      "author": "Elenore Meherin",
+      "yearGap": 0
+    },
+    {
+      "work": "The Dear Pretender",
+      "author": "Alice Ross Colver",
+      "yearGap": 1
+    },
+    {
+      "work": "Peacock Feathers",
+      "author": "Temple Bailey",
+      "yearGap": 1
+    },
+    {
+      "work": "Speed",
+      "author": "Grace Sartwell Mason",
+      "yearGap": 1
+    },
+    {
+      "work": "The Home-Maker",
+      "author": "Dorothy Canfield",
+      "yearGap": 1
+    },
+    {
+      "work": "The Keeper of the Bees",
+      "author": "Gene Stratton-Porter",
+      "yearGap": 0
+    },
+    {
+      "work": "The Wedding Song",
+      "author": "Ethel Watts Mumford",
+      "yearGap": 1
+    },
+    {
+      "work": "With This Ring",
+      "author": "Fannie Heaslip Lea",
+      "yearGap": 0
+    },
+    {
+      "work": "Footloose",
+      "author": "Beatrice Burton",
+      "yearGap": 0
+    },
+    {
+      "work": "Mannequin",
+      "author": "Fannie Hurst",
+      "yearGap": 0
+    },
+    {
+      "work": "Married?",
+      "author": "Marjorie Benton Cooke",
+      "yearGap": 0
+    },
+    {
+      "work": "Sandy",
+      "author": "Elenore Meherin",
+      "yearGap": 0
+    },
+    {
+      "work": "\"Sadie of the Desert\"",
+      "author": "Mildred Cram",
+      "yearGap": 1
+    },
+    {
+      "work": "The Skyrocket",
+      "author": "Adela Rogers St. Johns",
+      "yearGap": 1
+    },
+    {
+      "work": "\"Honeymoon Hate\"",
+      "author": "Alice Muriel Williamson",
+      "yearGap": 0
+    },
+    {
+      "work": "My Best Girl",
+      "author": "Kathleen Norris",
+      "yearGap": 0
+    },
+    {
+      "work": "\"Love O' Women\"",
+      "author": "Adela Rogers St. Johns",
+      "yearGap": 1
+    },
+    {
+      "work": "Glitter",
+      "author": "Katherine Brush",
+      "yearGap": 1
+    },
+    {
+      "work": "The Magic Garden",
+      "author": "Gene Stratton-Porter",
+      "yearGap": 0
+    },
+    {
+      "work": "\"A Runaway Enchantress\"",
+      "author": "Mary Heaton Vorse",
+      "yearGap": 1
+    },
+    {
+      "work": "\"The Red-Headed Husband\"",
+      "author": "Katharine Newlin Burt",
+      "yearGap": 1
+    },
+    {
+      "work": "Black Butterflies",
+      "author": "Elizabeth Jordan",
+      "yearGap": 1
+    },
+    {
+      "work": "Sally's Shoulders",
+      "author": "Beatrice Burton",
+      "yearGap": 1
+    },
+    {
+      "work": "The Little Yellow House",
+      "author": "Beatrice Burton",
+      "yearGap": 0
+    },
+    {
+      "work": "Wallflowers",
+      "author": "Temple Bailey",
+      "yearGap": 1
+    },
+    {
+      "work": "Applause",
+      "author": "Beth Brown",
+      "yearGap": 1
+    },
+    {
+      "work": "Night Club",
+      "author": "Katherine Brush",
+      "yearGap": 0
+    },
+    {
+      "work": "Points West",
+      "author": "B. M. Bower",
+      "yearGap": 1
+    },
+    {
+      "work": "Their Own Desire",
+      "author": "Sarita Fuller",
+      "yearGap": 0
+    },
+    {
+      "work": "\"Give the Little Girl a Hand\"",
+      "author": "Fannie Hurst",
+      "yearGap": 1
+    },
+    {
+      "work": "The Single Standard",
+      "author": "Adela Rogers St. Johns",
+      "yearGap": 1
+    },
+    {
+      "work": "Mareea Maria",
+      "author": "Sophie Kerr",
+      "yearGap": 1
+    },
+    {
+      "work": "Mother's Cry",
+      "author": "Helen Grace Carlisle",
+      "yearGap": 0
+    },
+    {
+      "work": "Passion Flower",
+      "author": "Kathleen Norris",
+      "yearGap": 0
+    },
+    {
+      "work": "Ex-Wife",
+      "author": "Ursula Parrott",
+      "yearGap": 1
+    },
+    {
+      "work": "Adios!",
+      "author": "Virginia S. Bartlett",
+      "yearGap": 1
+    },
+    {
+      "work": "The Office Wife",
+      "author": "Faith Baldwin",
+      "yearGap": 1
+    },
+    {
+      "work": "The Princess and the Plumber",
+      "author": "Alice Duer Miller",
+      "yearGap": 1
+    },
+    {
+      "work": "Young Man of Manhattan",
+      "author": "Katherine Brush",
+      "yearGap": 0
+    },
+    {
+      "work": "Big Business Girl",
+      "author": "Patricia Reilly",
+      "yearGap": 1
+    },
+    {
+      "work": "Jackdaws Strut",
+      "author": "Harriet Henry",
+      "yearGap": 1
+    },
+    {
+      "work": "Doctor's Wives",
+      "author": "Sylvia Lieferant",
+      "yearGap": 1
+    },
+    {
+      "work": "Ex-Mistress",
+      "author": "Grace Perkins",
+      "yearGap": 1
+    },
+    {
+      "work": "Night Nurse",
+      "author": "Grace Perkins",
+      "yearGap": 1
+    },
+    {
+      "work": "Personal Maid",
+      "author": "Grace Perkins",
+      "yearGap": 0
+    },
+    {
+      "work": "Sob Sister",
+      "author": "Mildred Gilman",
+      "yearGap": 0
+    },
+    {
+      "work": "Strangers May Kiss",
+      "author": "Ursula Parrott",
+      "yearGap": 1
+    },
+    {
+      "work": "The Great Meadow",
+      "author": "Elizabeth Madox Roberts",
+      "yearGap": 1
+    },
+    {
+      "work": "The Road to Reno",
+      "author": "Virginia Kellogg",
+      "yearGap": 0
+    },
+    {
+      "work": "The Secret Six",
+      "author": "Frances Marion",
+      "yearGap": 0
+    },
+    {
+      "work": "\"Girls Together\"",
+      "author": "Mildred Cram",
+      "yearGap": 0
+    },
+    {
+      "work": "Music in the Street",
+      "author": "Vera Caspary",
+      "yearGap": 1
+    },
+    {
+      "work": "Back Street",
+      "author": "Fannie Hurst",
+      "yearGap": 1
+    },
+    {
+      "work": "Dance Team",
+      "author": "Sara Addington",
+      "yearGap": 1
+    },
+    {
+      "work": "The Devil's Lottery",
+      "author": "Nalbro Isadorah Bartley",
+      "yearGap": 1
+    },
+    {
+      "work": "The Goldfish Bowl",
+      "author": "Mary C. McCall Jr.",
+      "yearGap": 0
+    },
+    {
+      "work": "Lady with a Past",
+      "author": "Harriet Henry",
+      "yearGap": 1
+    },
+    {
+      "work": "I Jerry Take Thee Joan",
+      "author": "Cleo Lucas",
+      "yearGap": 1
+    },
+    {
+      "work": "Miss Pinkerton",
+      "author": "Mary Roberts Rinehart",
+      "yearGap": 0
+    },
+    {
+      "work": "No More Orchids",
+      "author": "Grace Perkins",
+      "yearGap": 0
+    },
+    {
+      "work": "Red-Headed Woman",
+      "author": "Katherine Brush",
+      "yearGap": 1
+    },
+    {
+      "work": "\"The Beachcomber\"",
+      "author": "Mildred Cram",
+      "yearGap": 0
+    },
+    {
+      "work": "Skyscraper",
+      "author": "Faith Baldwin",
+      "yearGap": 1
+    },
+    {
+      "work": "They Call It Sin",
+      "author": "Alberta Stedman Eagan",
+      "yearGap": 0
+    },
+    {
+      "work": "Weekend Marriage",
+      "author": "Faith Baldwin",
+      "yearGap": 0
+    },
+    {
+      "work": "Westward Passage",
+      "author": "Margaret Ayer Barnes",
+      "yearGap": 1
+    },
+    {
+      "work": "Beauty",
+      "author": "Faith Baldwin",
+      "yearGap": 0
+    },
+    {
+      "work": "Big Executive",
+      "author": "Alice Duer Miller",
+      "yearGap": 0
+    },
+    {
+      "work": "House of Refuge",
+      "author": "Grace Sothcote Leake",
+      "yearGap": 1
+    },
+    {
+      "work": "Missing Men",
+      "author": "Carol Bird",
+      "yearGap": 1
+    },
+    {
+      "work": "\"A Chance at Heaven\"",
+      "author": "Vina Delmar",
+      "yearGap": 1
+    },
+    {
+      "work": "Luxury Liner",
+      "author": "Gina Kaus",
+      "yearGap": 1
+    },
+    {
+      "work": "Redhead",
+      "author": "Vera Brown",
+      "yearGap": 0
+    },
+    {
+      "work": "Second Hand Wife",
+      "author": "Kathleen Norris",
+      "yearGap": 1
+    },
+    {
+      "work": "Woman Accused",
+      "author": "Gertrude Atherton",
+      "yearGap": 0
+    },
+    {
+      "work": "Walls of Gold",
+      "author": "Kathleen Norris",
+      "yearGap": 0
+    },
+    {
+      "work": "As the Earth Turns",
+      "author": "Gladys Hasty Carroll",
+      "yearGap": 1
+    },
+    {
+      "work": "Wicked Woman",
+      "author": "Anne Austin",
+      "yearGap": 1
+    },
+    {
+      "work": "Dancing Man",
+      "author": "Beulah Poynter",
+      "yearGap": 1
+    },
+    {
+      "work": "The Murder of Steven Kester",
+      "author": "Harriette Ashbrook",
+      "yearGap": 1
+    },
+    {
+      "work": "Imitation of Life",
+      "author": "Fannie Hurst",
+      "yearGap": 1
+    },
+    {
+      "work": "\"Pretty Sadie McKee\"",
+      "author": "Vina Delmar",
+      "yearGap": 1
+    },
+    {
+      "work": "She Was a Lady",
+      "author": "Elisabeth Cobb",
+      "yearGap": 0
+    },
+    {
+      "work": "\"Bread Upon the Waters\"",
+      "author": "Edith Wharton",
+      "yearGap": 0
+    },
+    {
+      "work": "The State versus Elinor Norton",
+      "author": "Mary Roberts Rinehart",
+      "yearGap": 1
+    },
+    {
+      "work": "Beauty's Daughter",
+      "author": "Kathleen Norris",
+      "yearGap": 0
+    },
+    {
+      "work": "\"Thin Air\"",
+      "author": "Mildred Cram",
+      "yearGap": 1
+    },
+    {
+      "work": "\"Wife vs. Secretary\"",
+      "author": "Faith Baldwin",
+      "yearGap": 0
+    },
+    {
+      "work": "\"Bless Their Hearts\"",
+      "author": "Sara Addington",
+      "yearGap": 0
+    },
+    {
+      "work": "Come and Get It",
+      "author": "Edna Ferber",
+      "yearGap": 1
+    },
+    {
+      "work": "Next Time We Live",
+      "author": "Ursula Parrott",
+      "yearGap": 1
+    },
+    {
+      "work": "\"The Bride Comes Home\"",
+      "author": "Elisabeth Sanxay Holding",
+      "yearGap": 1
+    },
+    {
+      "work": "The Moon's Our Home",
+      "author": "Faith Baldwin",
+      "yearGap": 0
+    },
+    {
+      "work": "A Bride for Henry",
+      "author": "Josephine Bentham",
+      "yearGap": 0
+    },
+    {
+      "work": "\"Angle Shooter\"",
+      "author": "Adela Rogers St. Johns",
+      "yearGap": 0
+    },
+    {
+      "work": "Portia on Trial",
+      "author": "Faith Baldwin",
+      "yearGap": 0
+    },
+    {
+      "work": "Wake Up and Live",
+      "author": "Dorothea Brande",
+      "yearGap": 1
+    },
+    {
+      "work": "\"Bringing Up Baby\"",
+      "author": "Hagar Wilde",
+      "yearGap": 1
+    },
+    {
+      "work": "Comet Over Broadway",
+      "author": "Faith Baldwin",
+      "yearGap": 0
+    },
+    {
+      "work": "\"Sister Act\"",
+      "author": "Fannie Hurst",
+      "yearGap": 1
+    },
+    {
+      "work": "\"Enemy Territory\"",
+      "author": "Margaret Culkin Banning",
+      "yearGap": 1
+    },
+    {
+      "work": "These Glamour Girls",
+      "author": "Jane Hall",
+      "yearGap": 0
+    },
+    {
+      "work": "Tree of Liberty",
+      "author": "Elizabeth Page",
+      "yearGap": 1
+    },
+    {
+      "work": "Hold Back the Dawn",
+      "author": "Ketti Frings",
+      "yearGap": 1
+    },
+    {
+      "work": "Penny Serenade",
+      "author": "Martha Cheavans",
+      "yearGap": 1
+    },
+    {
+      "work": "The Frightened Stiff",
+      "author": "Kelley Roos",
+      "yearGap": 0
+    },
+    {
+      "work": "\"Mr. and Mrs. Cugat, Record of a Happy Marriage\"",
+      "author": "Isobel Scott Rorick",
+      "yearGap": 1
+    },
+    {
+      "work": "In This Our Life",
+      "author": "Ellen Glasgow",
+      "yearGap": 1
+    },
+    {
+      "work": "Now, Voyager",
+      "author": "Olive Higgins Prouty",
+      "yearGap": 1
+    },
+    {
+      "work": "The Night Before the Divorce",
+      "author": "Gina Kaus",
+      "yearGap": 1
+    },
+    {
+      "work": "Assignment in Brittainy",
+      "author": "Helen MacInnes",
+      "yearGap": 1
+    },
+    {
+      "work": "Claudia",
+      "author": "Rose Franken",
+      "yearGap": 1
+    },
+    {
+      "work": "The Fallen Sparrow",
+      "author": "Dorothy B. Hughes",
+      "yearGap": 1
+    },
+    {
+      "work": "Dark Waters",
+      "author": "Marian Cockrell",
+      "yearGap": 0
+    },
+    {
+      "work": "Experiment Perilous",
+      "author": "Margaret Carpenter",
+      "yearGap": 1
+    },
+    {
+      "work": "\"Government Girl\"",
+      "author": "Adela Rogers St. Johns",
+      "yearGap": 1
+    },
+    {
+      "work": "Laura",
+      "author": "Vera Caspary",
+      "yearGap": 1
+    },
+    {
+      "work": "Pin-Up Girl",
+      "author": "Libbie Block",
+      "yearGap": 1
+    },
+    {
+      "work": "Blood On Her Shoe",
+      "author": "Medora Field",
+      "yearGap": 1
+    },
+    {
+      "work": "China Sky",
+      "author": "Pearl S. Buck",
+      "yearGap": 0
+    },
+    {
+      "work": "My Reputation",
+      "author": "Clare Jaynes",
+      "yearGap": 1
+    },
+    {
+      "work": "Gentlemen's Agreement",
+      "author": "Laura Z. Hobson",
+      "yearGap": 0
+    },
+    {
+      "work": "Ride the Pink Horse",
+      "author": "Dorothy B. Hughes",
+      "yearGap": 1
+    },
+    {
+      "work": "That Hagen Girl",
+      "author": "Edith Kneipple Roberts",
+      "yearGap": 1
+    },
+    {
+      "work": "An Apartment for Jenny",
+      "author": "Faith Baldwin",
+      "yearGap": 1
+    },
+    {
+      "work": "Clementine",
+      "author": "Peggy Goodin",
+      "yearGap": 0
+    },
+    {
+      "work": "Belvedere",
+      "author": "Gwen Davenport",
+      "yearGap": 1
+    },
+    {
+      "work": "Mrs. Mike",
+      "author": "Nancy Freedman",
+      "yearGap": 1
+    },
+    {
+      "work": "Come Be My Love",
+      "author": "Lavinia Davis",
+      "yearGap": 0
+    },
+    {
+      "work": "The Running of the Tide",
+      "author": "Esther Forbes",
+      "yearGap": 1
+    },
+    {
+      "work": "The Doctor Wears Three Faces",
+      "author": "Mary Bard",
+      "yearGap": 1
+    },
+    {
+      "work": "\"Once Upon a Train (The Loco Motive)\"",
+      "author": "Craig Rice",
+      "yearGap": 0
+    },
+    {
+      "work": "Young Man With a Horn",
+      "author": "Dorothy Baker",
+      "yearGap": 1
+    },
+    {
+      "work": "Strangers on a Train",
+      "author": "Patricia Highsmith",
+      "yearGap": 1
+    },
+    {
+      "work": "Take Care of My Little Girl",
+      "author": "Peggy Goodin",
+      "yearGap": 1
+    },
+    {
+      "work": "Trial by Terror",
+      "author": "Pauline Gallico",
+      "yearGap": 0
+    },
+    {
+      "work": "Mischief",
+      "author": "Charlotte Armstrong",
+      "yearGap": 1
+    },
+    {
+      "work": "Room for One More",
+      "author": "Anna Perrott Rose",
+      "yearGap": 1
+    },
+    {
+      "work": "\"The Enemy\"",
+      "author": "Charlotte Armstrong",
+      "yearGap": 1
+    },
+    {
+      "work": "Case File: FBI",
+      "author": "Mildred Nixon Gordon",
+      "yearGap": 1
+    },
+    {
+      "work": "Snips and Snails",
+      "author": "Louise Baker",
+      "yearGap": 1
+    },
+    {
+      "work": "Prince of Players",
+      "author": "Eleanor Ruggles",
+      "yearGap": 1
+    },
+    {
+      "work": "Good Morning, Miss Dove",
+      "author": "Frances Gray Patton",
+      "yearGap": 1
+    },
+    {
+      "work": "I'll Cry Tomorrow",
+      "author": "Lillian Roth",
+      "yearGap": 1
+    },
+    {
+      "work": "Peyton Place",
+      "author": "Grace Metalious",
+      "yearGap": 0
+    },
+    {
+      "work": "Home Before Dark",
+      "author": "Eileen Bassing",
+      "yearGap": 1
+    },
+    {
+      "work": "Too Soon, Too Much",
+      "author": "Diana Barrymore",
+      "yearGap": 1
+    },
+    {
+      "work": "Return to Peyton Place",
+      "author": "Grace Metalious",
+      "yearGap": 0
+    },
+    {
+      "work": "Satan Never Sleeps",
+      "author": "Pearl S. Buck",
+      "yearGap": 0
+    }
+  ]
+}

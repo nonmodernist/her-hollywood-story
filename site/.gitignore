@@ -1,6 +1,4 @@
 # Site-specific gitignore
-# Don't commit copied data files - they're generated from dist/data
-data/
 
 # OS files
 .DS_Store

@@ -1,0 +1,44 @@
+{
+  "lastUpdated": "2025-07-18T04:02:08.758Z",
+  "totals": {
+    "films": 1119,
+    "authors": 502,
+    "works": 1004,
+    "studios": 253
+  },
+  "highlights": {
+    "hollywoodQueens": 5,
+    "remakeChampions": 13,
+    "speedDemons": 218,
+    "yearsCovered": 53
+  },
+  "ready": {
+    "patterns": [
+      "hollywood-queens",
+      "speed-demons",
+      "remake-champions"
+    ],
+    "deepDives": [
+      {
+        "authorId": 6,
+        "slug": "mary-roberts-rinehart"
+      },
+      {
+        "authorId": 12,
+        "slug": "gene-strattonporter"
+      },
+      {
+        "authorId": 24,
+        "slug": "alice-duer-miller"
+      },
+      {
+        "authorId": 25,
+        "slug": "fannie-hurst"
+      },
+      {
+        "authorId": 40,
+        "slug": "edna-ferber"
+      }
+    ]
+  }
+}

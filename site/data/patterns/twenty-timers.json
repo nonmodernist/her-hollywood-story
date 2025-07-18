@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2025-07-18T18:40:25.018Z",
+    "generated": "2025-07-18T19:11:00.870Z",
     "totalMembers": 5,
     "totalFilms": 125,
     "yearRange": [
@@ -63,8 +63,8 @@
         "1940": 2,
         "1950": 1
       },
-      "silentFilmCount": 22,
-      "talkieFilmCount": 9
+      "silentFilmCount": 23,
+      "talkieFilmCount": 8
     },
     {
       "id": 25,
@@ -121,8 +121,8 @@
         "1950": 2,
         "1960": 1
       },
-      "silentFilmCount": 10,
-      "talkieFilmCount": 17
+      "silentFilmCount": 12,
+      "talkieFilmCount": 15
     },
     {
       "id": 40,
@@ -178,8 +178,8 @@
         "1950": 3,
         "1960": 2
       },
-      "silentFilmCount": 7,
-      "talkieFilmCount": 17
+      "silentFilmCount": 10,
+      "talkieFilmCount": 14
     },
     {
       "id": 24,
@@ -236,8 +236,8 @@
         "1940": 2,
         "1950": 1
       },
-      "silentFilmCount": 8,
-      "talkieFilmCount": 14
+      "silentFilmCount": 10,
+      "talkieFilmCount": 12
     },
     {
       "id": 12,
@@ -293,8 +293,8 @@
         "1940": 5,
         "1960": 1
       },
-      "silentFilmCount": 7,
-      "talkieFilmCount": 14
+      "silentFilmCount": 8,
+      "talkieFilmCount": 13
     }
   ],
   "patterns": {
@@ -302,7 +302,7 @@
       "totalFilms": 125,
       "averageFilmsPerAuthor": "25.0",
       "totalYearsCovered": 46,
-      "silentEraDominance": 2,
+      "silentEraDominance": 4,
       "studioConcentration": [
         {
           "studio": "Warner Bros",

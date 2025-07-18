@@ -4493,7 +4493,7 @@
       "type": "film",
       "title": "The Girl in the Web",
       "year": 1920,
-      "searchText": "the girl in the web robert thornby jesse d. hampton prod.-robert brunton prod./pathe\r\nexchange, inc. miss maitland private secretary geraldine bonner",
+      "searchText": "the girl in the web robert thornby jesse d. hampton prod.-robert brunton prod./pathe\nexchange, inc. miss maitland private secretary geraldine bonner",
       "url": "/film/the-girl-in-the-web",
       "display": {
         "title": "The Girl in the Web",
@@ -6567,13 +6567,13 @@
     {
       "id": "film-553",
       "type": "film",
-      "title": "Hard to Get",
-      "year": 1938,
-      "searchText": "hard to get ray enright warner bros classified edna ferber",
-      "url": "/film/hard-to-get",
+      "title": "No Place to Go",
+      "year": 1939,
+      "searchText": "no place to go terry morse warner bros old man minick edna ferber",
+      "url": "/film/no-place-to-go",
       "display": {
-        "title": "Hard to Get",
-        "subtitle": "1938 • Edna Ferber"
+        "title": "No Place to Go",
+        "subtitle": "1939 • Edna Ferber"
       }
     },
     {
@@ -11945,7 +11945,7 @@
       "type": "film",
       "title": "The Death Kiss",
       "year": 1933,
-      "searchText": "the death kiss the death kiss madelon st. dennis",
+      "searchText": "the death kiss edwin l. marin k.b.s. productions, inc. the death kiss madelon st. dennis",
       "url": "/film/the-death-kiss",
       "display": {
         "title": "The Death Kiss",
@@ -13361,11 +13361,11 @@
       "type": "film",
       "title": "Lena Rivers",
       "year": 1910,
-      "searchText": "lena rivers",
+      "searchText": "lena rivers thanhouser lena rivers mary jane holmes",
       "url": "/film/lena-rivers",
       "display": {
         "title": "Lena Rivers",
-        "subtitle": "1910 • Unknown"
+        "subtitle": "1910 • Mary Jane Holmes"
       }
     },
     {
@@ -13373,7 +13373,7 @@
       "type": "film",
       "title": "The Wolverine",
       "year": 1921,
-      "searchText": "the wolverine the ranch at the wolverine b. m. bower",
+      "searchText": "the wolverine william bertram spencer productions, inc. the ranch at the wolverine b. m. bower",
       "url": "/film/the-wolverine",
       "display": {
         "title": "The Wolverine",
@@ -13385,7 +13385,7 @@
       "type": "film",
       "title": "The Taming of the West",
       "year": 1925,
-      "searchText": "the taming of the west the range dwellers b. m. bower",
+      "searchText": "the taming of the west arthur rosson universal pictures corp. the range dwellers b. m. bower",
       "url": "/film/the-taming-of-the-west",
       "display": {
         "title": "The Taming of the West",
@@ -13397,7 +13397,7 @@
       "type": "film",
       "title": "Ridin' Thunder",
       "year": 1925,
-      "searchText": "ridin' thunder jean of the lazy a b. m. bower",
+      "searchText": "ridin' thunder clifford s. smith universal pictures corp. jean of the lazy a b. m. bower",
       "url": "/film/ridin-thunder",
       "display": {
         "title": "Ridin' Thunder",
@@ -13409,7 +13409,7 @@
       "type": "film",
       "title": "The Flying U Ranch",
       "year": 1927,
-      "searchText": "the flying u ranch the flying u ranch b. m. bower",
+      "searchText": "the flying u ranch robert de lacy r-c pictures corp. the flying u ranch b. m. bower",
       "url": "/film/the-flying-u-ranch",
       "display": {
         "title": "The Flying U Ranch",
@@ -13421,11 +13421,47 @@
       "type": "film",
       "title": "Points West",
       "year": 1929,
-      "searchText": "points west points west b. m. bower",
+      "searchText": "points west arthur rosson universal pictures corp. points west b. m. bower",
       "url": "/film/points-west",
       "display": {
         "title": "Points West",
         "subtitle": "1929 • B. M. Bower"
+      }
+    },
+    {
+      "id": "film-1128",
+      "type": "film",
+      "title": "The Way of All Women",
+      "year": 1932,
+      "searchText": "the way of all women rosalie's career faith baldwin",
+      "url": "/film/the-way-of-all-women",
+      "display": {
+        "title": "The Way of All Women",
+        "subtitle": "1932 • Faith Baldwin"
+      }
+    },
+    {
+      "id": "film-1129",
+      "type": "film",
+      "title": "Seven Days",
+      "year": 1925,
+      "searchText": "seven days scott sidney christie film co.  seven days mary roberts rinehart",
+      "url": "/film/seven-days",
+      "display": {
+        "title": "Seven Days",
+        "subtitle": "1925 • Mary Roberts Rinehart"
+      }
+    },
+    {
+      "id": "film-1130",
+      "type": "film",
+      "title": "Her First Elopement",
+      "year": 1920,
+      "searchText": "her first elopement sam wood realart her first elopement alice duer miller",
+      "url": "/film/her-first-elopement",
+      "display": {
+        "title": "Her First Elopement",
+        "subtitle": "1920 • Alice Duer Miller"
       }
     },
     {
@@ -13492,12 +13528,12 @@
       "id": "author-6",
       "type": "author",
       "name": "Mary Roberts Rinehart",
-      "filmCount": 30,
+      "filmCount": 31,
       "searchText": "mary roberts rinehart",
       "url": "/deep-dive/mary-roberts-rinehart",
       "display": {
         "title": "Mary Roberts Rinehart",
-        "subtitle": "30 films • 1915-1959"
+        "subtitle": "31 films • 1915-1959"
       }
     },
     {
@@ -13708,12 +13744,12 @@
       "id": "author-24",
       "type": "author",
       "name": "Alice Duer Miller",
-      "filmCount": 21,
+      "filmCount": 22,
       "searchText": "alice duer miller",
       "url": "/deep-dive/alice-duer-miller",
       "display": {
         "title": "Alice Duer Miller",
-        "subtitle": "21 films • 1918-1952"
+        "subtitle": "22 films • 1918-1952"
       }
     },
     {
@@ -14104,12 +14140,12 @@
       "id": "author-57",
       "type": "author",
       "name": "Faith Baldwin",
-      "filmCount": 15,
+      "filmCount": 16,
       "searchText": "faith baldwin",
       "url": "/deep-dive/faith-baldwin",
       "display": {
         "title": "Faith Baldwin",
-        "subtitle": "15 films • 1930-1951"
+        "subtitle": "16 films • 1930-1951"
       }
     },
     {
@@ -16564,12 +16600,12 @@
       "id": "author-268",
       "type": "author",
       "name": "Mary Jane Holmes",
-      "filmCount": 5,
+      "filmCount": 6,
       "searchText": "mary jane holmes",
       "url": "/database/authors#268",
       "display": {
         "title": "Mary Jane Holmes",
-        "subtitle": "5 films • 1914-1932"
+        "subtitle": "6 films • 1910-1932"
       }
     },
     {
@@ -22813,6 +22849,18 @@
       }
     },
     {
+      "id": "work-292",
+      "type": "work",
+      "title": "Rosalie's Career",
+      "adaptationCount": 1,
+      "searchText": "rosalie's career faith baldwin",
+      "url": "/database/works#292",
+      "display": {
+        "title": "Rosalie's Career",
+        "subtitle": "by Faith Baldwin • 1 adaptations"
+      }
+    },
+    {
       "id": "work-293",
       "type": "work",
       "title": "The Harbor Road",
@@ -24976,12 +25024,12 @@
       "id": "work-481",
       "type": "work",
       "title": "Classified",
-      "adaptationCount": 3,
+      "adaptationCount": 2,
       "searchText": "classified edna ferber",
       "url": "/database/works#481",
       "display": {
         "title": "Classified",
-        "subtitle": "by Edna Ferber • 3 adaptations"
+        "subtitle": "by Edna Ferber • 2 adaptations"
       }
     },
     {
@@ -25096,12 +25144,12 @@
       "id": "work-491",
       "type": "work",
       "title": "Old Man Minick",
-      "adaptationCount": 2,
+      "adaptationCount": 3,
       "searchText": "old man minick edna ferber",
       "url": "/database/works#491",
       "display": {
         "title": "Old Man Minick",
-        "subtitle": "by Edna Ferber • 2 adaptations"
+        "subtitle": "by Edna Ferber • 3 adaptations"
       }
     },
     {
@@ -25996,12 +26044,12 @@
       "id": "work-568",
       "type": "work",
       "title": "Lena Rivers",
-      "adaptationCount": 4,
+      "adaptationCount": 5,
       "searchText": "lena rivers mary jane holmes",
       "url": "/insights/remake-champions#568",
       "display": {
         "title": "Lena Rivers",
-        "subtitle": "by Mary Jane Holmes • 4 adaptations"
+        "subtitle": "by Mary Jane Holmes • 5 adaptations"
       }
     },
     {
@@ -31295,15 +31343,39 @@
         "title": "Points West",
         "subtitle": "by B. M. Bower • 1 adaptations"
       }
+    },
+    {
+      "id": "work-1014",
+      "type": "work",
+      "title": "Seven Days",
+      "adaptationCount": 1,
+      "searchText": "seven days mary roberts rinehart",
+      "url": "/database/works#1014",
+      "display": {
+        "title": "Seven Days",
+        "subtitle": "by Mary Roberts Rinehart • 1 adaptations"
+      }
+    },
+    {
+      "id": "work-1015",
+      "type": "work",
+      "title": "Her First Elopement",
+      "adaptationCount": 1,
+      "searchText": "her first elopement alice duer miller",
+      "url": "/database/works#1015",
+      "display": {
+        "title": "Her First Elopement",
+        "subtitle": "by Alice Duer Miller • 1 adaptations"
+      }
     }
   ],
   "metadata": {
-    "totalDocuments": 2608,
-    "lastUpdated": "2025-07-18T04:02:08.744Z",
+    "totalDocuments": 2614,
+    "lastUpdated": "2025-07-18T18:40:07.024Z",
     "types": {
-      "films": 1119,
+      "films": 1122,
       "authors": 496,
-      "works": 993
+      "works": 996
     }
   }
 }

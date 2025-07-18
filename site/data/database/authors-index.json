@@ -7,8 +7,8 @@
       "birthYear": 1876,
       "deathYear": 1958,
       "nationality": "United States",
-      "filmCount": 30,
-      "workCount": 23,
+      "filmCount": 31,
+      "workCount": 24,
       "firstAdaptation": 1915,
       "lastAdaptation": 1959,
       "yearSpan": 44,
@@ -81,6 +81,33 @@
       "hasDeepDive": true
     },
     {
+      "id": 24,
+      "name": "Alice Duer Miller",
+      "slug": "alice-duer-miller",
+      "birthYear": 1894,
+      "deathYear": 1985,
+      "nationality": "United States",
+      "filmCount": 22,
+      "workCount": 14,
+      "firstAdaptation": 1918,
+      "lastAdaptation": 1952,
+      "yearSpan": 34,
+      "topGenres": [
+        "Comedy",
+        "African American",
+        "Drama"
+      ],
+      "patterns": [
+        "hollywood-queen",
+        "silent-era-star",
+        "decade-spanner",
+        "famous players-lasky-favorite",
+        "paramount-favorite",
+        "mgm-favorite"
+      ],
+      "hasDeepDive": true
+    },
+    {
       "id": 12,
       "name": "Gene Stratton-Porter",
       "slug": "gene-strattonporter",
@@ -104,33 +131,6 @@
         "gene stratton porter productions-favorite",
         "monogram-favorite",
         "rko-favorite"
-      ],
-      "hasDeepDive": true
-    },
-    {
-      "id": 24,
-      "name": "Alice Duer Miller",
-      "slug": "alice-duer-miller",
-      "birthYear": 1894,
-      "deathYear": 1985,
-      "nationality": "United States",
-      "filmCount": 21,
-      "workCount": 13,
-      "firstAdaptation": 1918,
-      "lastAdaptation": 1952,
-      "yearSpan": 34,
-      "topGenres": [
-        "Comedy",
-        "African American",
-        "Drama"
-      ],
-      "patterns": [
-        "hollywood-queen",
-        "silent-era-star",
-        "decade-spanner",
-        "famous players-lasky-favorite",
-        "paramount-favorite",
-        "mgm-favorite"
       ],
       "hasDeepDive": true
     },
@@ -186,6 +186,30 @@
       "hasDeepDive": true
     },
     {
+      "id": 57,
+      "name": "Faith Baldwin",
+      "slug": "faith-baldwin",
+      "birthYear": 1893,
+      "deathYear": 1978,
+      "nationality": "United States",
+      "filmCount": 16,
+      "workCount": 16,
+      "firstAdaptation": 1930,
+      "lastAdaptation": 1951,
+      "yearSpan": 21,
+      "topGenres": [
+        "Romance",
+        "Melodrama",
+        "Comedy-drama"
+      ],
+      "patterns": [
+        "hollywood-princess",
+        "warner bros-favorite",
+        "mgm-favorite"
+      ],
+      "hasDeepDive": true
+    },
+    {
       "id": 53,
       "name": "Vina Delmar",
       "slug": "vina-delmar",
@@ -207,30 +231,6 @@
         "decade-spanner",
         "paramount-favorite",
         "20th century fox-favorite"
-      ],
-      "hasDeepDive": true
-    },
-    {
-      "id": 57,
-      "name": "Faith Baldwin",
-      "slug": "faith-baldwin",
-      "birthYear": 1893,
-      "deathYear": 1978,
-      "nationality": "United States",
-      "filmCount": 15,
-      "workCount": 15,
-      "firstAdaptation": 1930,
-      "lastAdaptation": 1951,
-      "yearSpan": 21,
-      "topGenres": [
-        "Romance",
-        "Melodrama",
-        "Comedy-drama"
-      ],
-      "patterns": [
-        "hollywood-princess",
-        "warner bros-favorite",
-        "mgm-favorite"
       ],
       "hasDeepDive": true
     },
@@ -496,7 +496,8 @@
         "Comedy"
       ],
       "patterns": [
-        "silent-era-star"
+        "silent-era-star",
+        "universal pictures corp.-favorite"
       ],
       "hasDeepDive": false
     },
@@ -735,6 +736,28 @@
       "hasDeepDive": false
     },
     {
+      "id": 268,
+      "name": "Mary Jane Holmes",
+      "slug": "mary-jane-holmes",
+      "birthYear": 1828,
+      "deathYear": 1907,
+      "nationality": "United States",
+      "filmCount": 6,
+      "workCount": 2,
+      "firstAdaptation": 1910,
+      "lastAdaptation": 1932,
+      "yearSpan": 22,
+      "topGenres": [
+        "Melodrama",
+        "Comedy",
+        "Drama"
+      ],
+      "patterns": [
+        "silent-era-star"
+      ],
+      "hasDeepDive": false
+    },
+    {
       "id": 29,
       "name": "Marjorie Benton Cooke",
       "slug": "marjorie-benton-cooke",
@@ -856,26 +879,6 @@
       "patterns": [
         "silent-era-star"
       ],
-      "hasDeepDive": false
-    },
-    {
-      "id": 268,
-      "name": "Mary Jane Holmes",
-      "slug": "mary-jane-holmes",
-      "birthYear": 1828,
-      "deathYear": 1907,
-      "nationality": "United States",
-      "filmCount": 5,
-      "workCount": 2,
-      "firstAdaptation": 1914,
-      "lastAdaptation": 1932,
-      "yearSpan": 18,
-      "topGenres": [
-        "Melodrama",
-        "Comedy",
-        "Drama"
-      ],
-      "patterns": [],
       "hasDeepDive": false
     },
     {
@@ -8960,7 +8963,9 @@
       "firstAdaptation": 1933,
       "lastAdaptation": 1933,
       "yearSpan": 0,
-      "topGenres": [],
+      "topGenres": [
+        "Mystery"
+      ],
       "patterns": [],
       "hasDeepDive": false
     },
@@ -9564,6 +9569,6 @@
   "metadata": {
     "totalCount": 502,
     "withFilms": 496,
-    "lastUpdated": "2025-07-18T04:02:08.723Z"
+    "lastUpdated": "2025-07-18T18:40:06.993Z"
   }
 }

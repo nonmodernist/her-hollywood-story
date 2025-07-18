@@ -29,6 +29,20 @@
       "lastAdaptation": 1938
     },
     {
+      "id": 568,
+      "title": "Lena Rivers",
+      "slug": "lena-rivers",
+      "authorId": 268,
+      "authorName": "Mary Jane Holmes",
+      "publicationYear": 1869,
+      "genre": null,
+      "adaptationCount": 5,
+      "isRemakeChampion": true,
+      "yearSpan": 22,
+      "firstAdaptation": 1910,
+      "lastAdaptation": 1932
+    },
+    {
       "id": 1,
       "title": "Ramona",
       "slug": "ramona",
@@ -153,20 +167,6 @@
       "yearSpan": 17,
       "firstAdaptation": 1938,
       "lastAdaptation": 1955
-    },
-    {
-      "id": 568,
-      "title": "Lena Rivers",
-      "slug": "lena-rivers",
-      "authorId": 268,
-      "authorName": "Mary Jane Holmes",
-      "publicationYear": 1869,
-      "genre": null,
-      "adaptationCount": 4,
-      "isRemakeChampion": true,
-      "yearSpan": 18,
-      "firstAdaptation": 1914,
-      "lastAdaptation": 1932
     },
     {
       "id": 892,
@@ -295,18 +295,18 @@
       "lastAdaptation": 1951
     },
     {
-      "id": 481,
-      "title": "Classified",
-      "slug": "classified",
+      "id": 491,
+      "title": "Old Man Minick",
+      "slug": "old-man-minick",
       "authorId": 40,
       "authorName": "Edna Ferber",
-      "publicationYear": null,
+      "publicationYear": 1922,
       "genre": null,
       "adaptationCount": 3,
       "isRemakeChampion": false,
-      "yearSpan": 13,
+      "yearSpan": 14,
       "firstAdaptation": 1925,
-      "lastAdaptation": 1938
+      "lastAdaptation": 1939
     },
     {
       "id": 526,
@@ -799,18 +799,18 @@
       "lastAdaptation": 1923
     },
     {
-      "id": 491,
-      "title": "Old Man Minick",
-      "slug": "old-man-minick",
+      "id": 481,
+      "title": "Classified",
+      "slug": "classified",
       "authorId": 40,
       "authorName": "Edna Ferber",
       "publicationYear": null,
       "genre": null,
       "adaptationCount": 2,
       "isRemakeChampion": false,
-      "yearSpan": 7,
+      "yearSpan": 4,
       "firstAdaptation": 1925,
-      "lastAdaptation": 1932
+      "lastAdaptation": 1929
     },
     {
       "id": 523,
@@ -4633,6 +4633,20 @@
       "yearSpan": null,
       "firstAdaptation": 1937,
       "lastAdaptation": 1937
+    },
+    {
+      "id": 292,
+      "title": "Rosalie's Career",
+      "slug": "rosalies-career",
+      "authorId": 57,
+      "authorName": "Faith Baldwin",
+      "publicationYear": null,
+      "genre": null,
+      "adaptationCount": 1,
+      "isRemakeChampion": false,
+      "yearSpan": null,
+      "firstAdaptation": 1932,
+      "lastAdaptation": 1932
     },
     {
       "id": 293,
@@ -13901,12 +13915,40 @@
       "yearSpan": null,
       "firstAdaptation": 1929,
       "lastAdaptation": 1929
+    },
+    {
+      "id": 1014,
+      "title": "Seven Days",
+      "slug": "seven-days",
+      "authorId": 6,
+      "authorName": "Mary Roberts Rinehart",
+      "publicationYear": 1908,
+      "genre": null,
+      "adaptationCount": 1,
+      "isRemakeChampion": false,
+      "yearSpan": null,
+      "firstAdaptation": 1925,
+      "lastAdaptation": 1925
+    },
+    {
+      "id": 1015,
+      "title": "Her First Elopement",
+      "slug": "her-first-elopement",
+      "authorId": 24,
+      "authorName": "Alice Duer Miller",
+      "publicationYear": 1915,
+      "genre": null,
+      "adaptationCount": 1,
+      "isRemakeChampion": false,
+      "yearSpan": null,
+      "firstAdaptation": 1920,
+      "lastAdaptation": 1920
     }
   ],
   "metadata": {
-    "totalCount": 1004,
-    "withAdaptations": 993,
+    "totalCount": 1006,
+    "withAdaptations": 996,
     "remakeChampions": 13,
-    "lastUpdated": "2025-07-18T04:02:08.733Z"
+    "lastUpdated": "2025-07-18T18:40:07.004Z"
   }
 }

@@ -7802,6 +7802,34 @@
       "hasFeaturedMedia": false
     },
     {
+      "id": 553,
+      "title": "No Place to Go",
+      "year": 1939,
+      "studio": "Warner Bros",
+      "directors": "Terry Morse",
+      "authorId": 40,
+      "authorName": "Edna Ferber",
+      "authorSlug": "edna-ferber",
+      "workId": 491,
+      "workTitle": "Old Man Minick",
+      "genres": [
+        "Drama",
+        "Domestic",
+        "Elderly"
+      ],
+      "decade": 1930,
+      "hasMedia": true,
+      "mediaCount": 2,
+      "isRemake": true,
+      "adaptationNumber": 1,
+      "searchText": "no place to go warner bros terry morse old man minick edna ferber",
+      "mediaTypes": [
+        "poster",
+        "production_photo"
+      ],
+      "hasFeaturedMedia": false
+    },
+    {
       "id": 427,
       "title": "The Little Princess",
       "year": 1939,
@@ -8075,33 +8103,6 @@
       "adaptationNumber": null,
       "searchText": "girls' school columbia pictures corp. of california, ltd. john brahm the answer on the magnolia tree tess slesinger",
       "mediaTypes": [],
-      "hasFeaturedMedia": false
-    },
-    {
-      "id": 553,
-      "title": "Hard to Get",
-      "year": 1938,
-      "studio": "Warner Bros",
-      "directors": "Ray Enright",
-      "authorId": 40,
-      "authorName": "Edna Ferber",
-      "authorSlug": "edna-ferber",
-      "workId": 481,
-      "workTitle": "Classified",
-      "genres": [
-        "Romantic comedy",
-        "with songs"
-      ],
-      "decade": 1930,
-      "hasMedia": true,
-      "mediaCount": 2,
-      "isRemake": true,
-      "adaptationNumber": 3,
-      "searchText": "hard to get warner bros ray enright classified edna ferber",
-      "mediaTypes": [
-        "poster",
-        "production_photo"
-      ],
       "hasFeaturedMedia": false
     },
     {
@@ -11656,20 +11657,22 @@
       "id": 1003,
       "title": "The Death Kiss",
       "year": 1933,
-      "studio": null,
-      "directors": null,
+      "studio": "K.B.S. Productions, Inc.",
+      "directors": "Edwin L. Marin",
       "authorId": 455,
       "authorName": "Madelon St. Dennis",
       "authorSlug": "madelon-st-dennis",
       "workId": 902,
       "workTitle": "The Death Kiss",
-      "genres": [],
+      "genres": [
+        "Mystery"
+      ],
       "decade": 1930,
       "hasMedia": false,
       "mediaCount": 0,
       "isRemake": false,
       "adaptationNumber": null,
-      "searchText": "the death kiss the death kiss madelon st. dennis",
+      "searchText": "the death kiss k.b.s. productions, inc. edwin l. marin the death kiss madelon st. dennis",
       "mediaTypes": [],
       "hasFeaturedMedia": false
     },
@@ -12391,7 +12394,7 @@
       "hasMedia": false,
       "mediaCount": 0,
       "isRemake": true,
-      "adaptationNumber": 2,
+      "adaptationNumber": 3,
       "searchText": "the expert warner bros archie mayo old man minick edna ferber",
       "mediaTypes": [],
       "hasFeaturedMedia": false
@@ -12439,6 +12442,27 @@
       "isRemake": false,
       "adaptationNumber": null,
       "searchText": "the rich are always with us first national alfred green the rich are always with us ethel petit",
+      "mediaTypes": [],
+      "hasFeaturedMedia": false
+    },
+    {
+      "id": 1128,
+      "title": "The Way of All Women",
+      "year": 1932,
+      "studio": null,
+      "directors": null,
+      "authorId": 57,
+      "authorName": "Faith Baldwin",
+      "authorSlug": "faith-baldwin",
+      "workId": 292,
+      "workTitle": "Rosalie's Career",
+      "genres": [],
+      "decade": 1930,
+      "hasMedia": false,
+      "mediaCount": 0,
+      "isRemake": false,
+      "adaptationNumber": null,
+      "searchText": "the way of all women rosalie's career faith baldwin",
       "mediaTypes": [],
       "hasFeaturedMedia": false
     },
@@ -14114,20 +14138,22 @@
       "id": 1127,
       "title": "Points West",
       "year": 1929,
-      "studio": null,
-      "directors": null,
+      "studio": "Universal Pictures Corp.",
+      "directors": "Arthur Rosson",
       "authorId": 33,
       "authorName": "B. M. Bower",
       "authorSlug": "b-m-bower",
       "workId": 1013,
       "workTitle": "Points West",
-      "genres": [],
+      "genres": [
+        "Western"
+      ],
       "decade": 1920,
       "hasMedia": false,
       "mediaCount": 0,
       "isRemake": false,
       "adaptationNumber": null,
-      "searchText": "points west points west b. m. bower",
+      "searchText": "points west universal pictures corp. arthur rosson points west b. m. bower",
       "mediaTypes": [],
       "hasFeaturedMedia": false
     },
@@ -15332,20 +15358,22 @@
       "id": 1126,
       "title": "The Flying U Ranch",
       "year": 1927,
-      "studio": null,
-      "directors": null,
+      "studio": "R-C Pictures Corp.",
+      "directors": "Robert De Lacy",
       "authorId": 33,
       "authorName": "B. M. Bower",
       "authorSlug": "b-m-bower",
       "workId": 1012,
       "workTitle": "The Flying U Ranch",
-      "genres": [],
+      "genres": [
+        "Western"
+      ],
       "decade": 1920,
       "hasMedia": false,
       "mediaCount": 0,
       "isRemake": false,
       "adaptationNumber": null,
-      "searchText": "the flying u ranch the flying u ranch b. m. bower",
+      "searchText": "the flying u ranch r-c pictures corp. robert de lacy the flying u ranch b. m. bower",
       "mediaTypes": [],
       "hasFeaturedMedia": false
     },
@@ -16753,20 +16781,22 @@
       "id": 1125,
       "title": "Ridin' Thunder",
       "year": 1925,
-      "studio": null,
-      "directors": null,
+      "studio": "Universal Pictures Corp.",
+      "directors": "Clifford S. Smith",
       "authorId": 33,
       "authorName": "B. M. Bower",
       "authorSlug": "b-m-bower",
       "workId": 1011,
       "workTitle": "Jean of the Lazy A",
-      "genres": [],
+      "genres": [
+        "Western"
+      ],
       "decade": 1920,
       "hasMedia": false,
       "mediaCount": 0,
       "isRemake": false,
       "adaptationNumber": null,
-      "searchText": "ridin' thunder jean of the lazy a b. m. bower",
+      "searchText": "ridin' thunder universal pictures corp. clifford s. smith jean of the lazy a b. m. bower",
       "mediaTypes": [],
       "hasFeaturedMedia": false
     },
@@ -16819,6 +16849,29 @@
         "lobby_card",
         "still"
       ],
+      "hasFeaturedMedia": false
+    },
+    {
+      "id": 1129,
+      "title": "Seven Days",
+      "year": 1925,
+      "studio": "Christie Film Co. ",
+      "directors": "Scott Sidney",
+      "authorId": 6,
+      "authorName": "Mary Roberts Rinehart",
+      "authorSlug": "mary-roberts-rinehart",
+      "workId": 1014,
+      "workTitle": "Seven Days",
+      "genres": [
+        "Comedy"
+      ],
+      "decade": 1920,
+      "hasMedia": false,
+      "mediaCount": 0,
+      "isRemake": false,
+      "adaptationNumber": null,
+      "searchText": "seven days christie film co.  scott sidney seven days mary roberts rinehart",
+      "mediaTypes": [],
       "hasFeaturedMedia": false
     },
     {
@@ -17076,20 +17129,22 @@
       "id": 1124,
       "title": "The Taming of the West",
       "year": 1925,
-      "studio": null,
-      "directors": null,
+      "studio": "Universal Pictures Corp.",
+      "directors": "Arthur Rosson",
       "authorId": 33,
       "authorName": "B. M. Bower",
       "authorSlug": "b-m-bower",
       "workId": 1009,
       "workTitle": "The Range Dwellers",
-      "genres": [],
+      "genres": [
+        "Western"
+      ],
       "decade": 1920,
       "hasMedia": false,
       "mediaCount": 0,
       "isRemake": false,
       "adaptationNumber": null,
-      "searchText": "the taming of the west the range dwellers b. m. bower",
+      "searchText": "the taming of the west universal pictures corp. arthur rosson the range dwellers b. m. bower",
       "mediaTypes": [],
       "hasFeaturedMedia": false
     },
@@ -17210,7 +17265,7 @@
       "hasMedia": true,
       "mediaCount": 1,
       "isRemake": true,
-      "adaptationNumber": 1,
+      "adaptationNumber": 2,
       "searchText": "welcome home famous players-lasky james cruze old man minick edna ferber",
       "mediaTypes": [
         "still"
@@ -20553,20 +20608,22 @@
       "id": 1123,
       "title": "The Wolverine",
       "year": 1921,
-      "studio": null,
-      "directors": null,
+      "studio": "Spencer Productions, Inc.",
+      "directors": "William Bertram",
       "authorId": 33,
       "authorName": "B. M. Bower",
       "authorSlug": "b-m-bower",
       "workId": 1008,
       "workTitle": "The Ranch at the Wolverine",
-      "genres": [],
+      "genres": [
+        "Western"
+      ],
       "decade": 1920,
       "hasMedia": false,
       "mediaCount": 0,
       "isRemake": false,
       "adaptationNumber": null,
-      "searchText": "the wolverine the ranch at the wolverine b. m. bower",
+      "searchText": "the wolverine spencer productions, inc. william bertram the ranch at the wolverine b. m. bower",
       "mediaTypes": [],
       "hasFeaturedMedia": false
     },
@@ -20875,6 +20932,29 @@
         "advertisement",
         "still"
       ],
+      "hasFeaturedMedia": false
+    },
+    {
+      "id": 1130,
+      "title": "Her First Elopement",
+      "year": 1920,
+      "studio": "Realart",
+      "directors": "Sam Wood",
+      "authorId": 24,
+      "authorName": "Alice Duer Miller",
+      "authorSlug": "alice-duer-miller",
+      "workId": 1015,
+      "workTitle": "Her First Elopement",
+      "genres": [
+        "Drama"
+      ],
+      "decade": 1920,
+      "hasMedia": false,
+      "mediaCount": 0,
+      "isRemake": false,
+      "adaptationNumber": null,
+      "searchText": "her first elopement realart sam wood her first elopement alice duer miller",
+      "mediaTypes": [],
       "hasFeaturedMedia": false
     },
     {
@@ -21597,7 +21677,7 @@
       "id": 377,
       "title": "The Girl in the Web",
       "year": 1920,
-      "studio": "Jesse D. Hampton Prod.-Robert Brunton Prod./Pathe\r\nExchange, Inc.",
+      "studio": "Jesse D. Hampton Prod.-Robert Brunton Prod./Pathe\nExchange, Inc.",
       "directors": "Robert Thornby",
       "authorId": 123,
       "authorName": "Geraldine Bonner",
@@ -21612,7 +21692,7 @@
       "mediaCount": 5,
       "isRemake": false,
       "adaptationNumber": null,
-      "searchText": "the girl in the web jesse d. hampton prod.-robert brunton prod./pathe\r\nexchange, inc. robert thornby miss maitland private secretary geraldine bonner",
+      "searchText": "the girl in the web jesse d. hampton prod.-robert brunton prod./pathe\nexchange, inc. robert thornby miss maitland private secretary geraldine bonner",
       "mediaTypes": [
         "advertisement",
         "still"
@@ -27306,19 +27386,22 @@
       "id": 1122,
       "title": "Lena Rivers",
       "year": 1910,
-      "studio": null,
+      "studio": "Thanhouser",
       "directors": null,
-      "authorId": null,
-      "authorName": "Unknown",
-      "authorSlug": null,
-      "workId": null,
-      "workTitle": null,
-      "genres": [],
+      "authorId": 268,
+      "authorName": "Mary Jane Holmes",
+      "authorSlug": "mary-jane-holmes",
+      "workId": 568,
+      "workTitle": "Lena Rivers",
+      "genres": [
+        "Melodrama"
+      ],
       "decade": 1910,
       "hasMedia": false,
       "mediaCount": 0,
-      "adaptationNumber": null,
-      "searchText": "lena rivers",
+      "isRemake": true,
+      "adaptationNumber": 5,
+      "searchText": "lena rivers thanhouser lena rivers mary jane holmes",
       "mediaTypes": [],
       "hasFeaturedMedia": false
     },
@@ -27406,13 +27489,13 @@
     }
   ],
   "metadata": {
-    "totalCount": 1119,
+    "totalCount": 1122,
     "yearRange": [
       1910,
       1963
     ],
     "withMedia": 393,
-    "lastUpdated": "2025-07-18T04:02:08.706Z",
+    "lastUpdated": "2025-07-18T18:40:06.979Z",
     "dataVersion": "1.0",
     "mediaIntegrated": true
   },
@@ -27575,7 +27658,7 @@
       {
         "value": "Realart",
         "label": "Realart",
-        "count": 8
+        "count": 9
       },
       {
         "value": "Select Pictures",
@@ -27761,18 +27844,23 @@
         "value": "Ross Hunter Productions",
         "label": "Ross Hunter Productions",
         "count": 3
+      },
+      {
+        "value": "Universal Pictures Corp.",
+        "label": "Universal Pictures Corp.",
+        "count": 3
       }
     ],
     "genres": [
       {
         "value": "Drama",
         "label": "Drama",
-        "count": 452
+        "count": 454
       },
       {
         "value": "Melodrama",
         "label": "Melodrama",
-        "count": 229
+        "count": 230
       },
       {
         "value": "Comedy-drama",
@@ -27782,12 +27870,12 @@
       {
         "value": "Domestic",
         "label": "Domestic",
-        "count": 95
+        "count": 96
       },
       {
         "value": "Comedy",
         "label": "Comedy",
-        "count": 86
+        "count": 87
       },
       {
         "value": "Historical",
@@ -27797,7 +27885,7 @@
       {
         "value": "with songs",
         "label": "With songs",
-        "count": 66
+        "count": 65
       },
       {
         "value": "Romance",
@@ -27812,12 +27900,12 @@
       {
         "value": "Mystery",
         "label": "Mystery",
-        "count": 48
+        "count": 49
       },
       {
         "value": "Western",
         "label": "Western",
-        "count": 41
+        "count": 46
       },
       {
         "value": "Crime",
@@ -27832,7 +27920,7 @@
       {
         "value": "Romantic comedy",
         "label": "Romantic comedy",
-        "count": 32
+        "count": 31
       },
       {
         "value": "Show business",
@@ -27964,7 +28052,7 @@
       {
         "value": 6,
         "label": "Mary Roberts Rinehart",
-        "count": 30
+        "count": 31
       },
       {
         "value": 25,
@@ -27977,13 +28065,13 @@
         "count": 24
       },
       {
-        "value": 12,
-        "label": "Gene Stratton-Porter",
-        "count": 21
-      },
-      {
         "value": 24,
         "label": "Alice Duer Miller",
+        "count": 22
+      },
+      {
+        "value": 12,
+        "label": "Gene Stratton-Porter",
         "count": 21
       },
       {
@@ -27997,13 +28085,13 @@
         "count": 17
       },
       {
-        "value": 53,
-        "label": "Vina Delmar",
-        "count": 15
-      },
-      {
         "value": 57,
         "label": "Faith Baldwin",
+        "count": 16
+      },
+      {
+        "value": 53,
+        "label": "Vina Delmar",
         "count": 15
       },
       {
@@ -28122,6 +28210,11 @@
         "count": 6
       },
       {
+        "value": 268,
+        "label": "Mary Jane Holmes",
+        "count": 6
+      },
+      {
         "value": 29,
         "label": "Marjorie Benton Cooke",
         "count": 5
@@ -28149,11 +28242,6 @@
       {
         "value": 223,
         "label": "Izola Forrester",
-        "count": 5
-      },
-      {
-        "value": 268,
-        "label": "Mary Jane Holmes",
         "count": 5
       },
       {
@@ -28508,7 +28596,7 @@
       {
         "decade": 1910,
         "count": 224,
-        "withMedia": 67,
+        "withMedia": 60,
         "topGenres": [
           "Drama",
           "Comedy",
@@ -28517,8 +28605,8 @@
       },
       {
         "decade": 1920,
-        "count": 328,
-        "withMedia": 104,
+        "count": 330,
+        "withMedia": 96,
         "topGenres": [
           "Melodrama",
           "Drama",
@@ -28527,8 +28615,8 @@
       },
       {
         "decade": 1930,
-        "count": 260,
-        "withMedia": 70,
+        "count": 261,
+        "withMedia": 59,
         "topGenres": [
           "Drama",
           "Melodrama",
@@ -28538,7 +28626,7 @@
       {
         "decade": 1940,
         "count": 164,
-        "withMedia": 47,
+        "withMedia": 46,
         "topGenres": [
           "Drama",
           "Domestic",
@@ -28548,7 +28636,7 @@
       {
         "decade": 1950,
         "count": 116,
-        "withMedia": 33,
+        "withMedia": 30,
         "topGenres": [
           "Drama",
           "with songs",
@@ -28558,7 +28646,7 @@
       {
         "decade": 1960,
         "count": 27,
-        "withMedia": 6,
+        "withMedia": 9,
         "topGenres": [
           "Drama",
           "with songs",
@@ -28611,11 +28699,11 @@
     "topGenres": [
       {
         "name": "Drama",
-        "count": 452
+        "count": 454
       },
       {
         "name": "Melodrama",
-        "count": 229
+        "count": 230
       },
       {
         "name": "Comedy-drama",
@@ -28623,11 +28711,11 @@
       },
       {
         "name": "Domestic",
-        "count": 95
+        "count": 96
       },
       {
         "name": "Comedy",
-        "count": 86
+        "count": 87
       },
       {
         "name": "Historical",
@@ -28635,7 +28723,7 @@
       },
       {
         "name": "with songs",
-        "count": 66
+        "count": 65
       },
       {
         "name": "Romance",
@@ -28647,7 +28735,7 @@
       },
       {
         "name": "Mystery",
-        "count": 48
+        "count": 49
       }
     ],
     "mediaBreakdown": {

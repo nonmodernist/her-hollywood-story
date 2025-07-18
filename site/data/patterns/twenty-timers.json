@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated": "2025-07-18T15:30:54.929Z",
+    "generated": "2025-07-18T18:40:25.018Z",
     "totalMembers": 5,
-    "totalFilms": 123,
+    "totalFilms": 125,
     "yearRange": [
       1915,
       1961
@@ -13,8 +13,8 @@
       "id": 6,
       "name": "Mary Roberts Rinehart",
       "slug": "mary-roberts-rinehart",
-      "filmCount": 30,
-      "worksAdapted": 23,
+      "filmCount": 31,
+      "worksAdapted": 24,
       "yearStart": 1915,
       "yearEnd": 1959,
       "yearSpan": 44,
@@ -58,12 +58,12 @@
       "hasPhotoplayEditions": false,
       "filmsByDecade": {
         "1910": 10,
-        "1920": 12,
+        "1920": 13,
         "1930": 5,
         "1940": 2,
         "1950": 1
       },
-      "silentFilmCount": 21,
+      "silentFilmCount": 22,
       "talkieFilmCount": 9
     },
     {
@@ -182,6 +182,64 @@
       "talkieFilmCount": 17
     },
     {
+      "id": 24,
+      "name": "Alice Duer Miller",
+      "slug": "alice-duer-miller",
+      "filmCount": 22,
+      "worksAdapted": 14,
+      "yearStart": 1918,
+      "yearEnd": 1952,
+      "yearSpan": 34,
+      "primaryStudios": [
+        {
+          "studio": "Paramount",
+          "count": 8
+        },
+        {
+          "studio": "Famous Players-Lasky",
+          "count": 5
+        },
+        {
+          "studio": "MGM",
+          "count": 3
+        }
+      ],
+      "genres": [
+        "Comedy",
+        "African American",
+        "Drama",
+        "Melodrama",
+        "Society"
+      ],
+      "remakeCount": 4,
+      "mostAdaptedWork": {
+        "id": 74,
+        "title": "The Charm School",
+        "adaptationCount": 5,
+        "years": [
+          1921,
+          1928,
+          1929,
+          1935,
+          1938
+        ]
+      },
+      "fascinatingFact": null,
+      "signatureWork": null,
+      "deepDiveTeaser": null,
+      "hasDeepDive": false,
+      "hasPhotoplayEditions": false,
+      "filmsByDecade": {
+        "1910": 2,
+        "1920": 8,
+        "1930": 9,
+        "1940": 2,
+        "1950": 1
+      },
+      "silentFilmCount": 8,
+      "talkieFilmCount": 14
+    },
+    {
       "id": 12,
       "name": "Gene Stratton-Porter",
       "slug": "gene-strattonporter",
@@ -237,70 +295,12 @@
       },
       "silentFilmCount": 7,
       "talkieFilmCount": 14
-    },
-    {
-      "id": 24,
-      "name": "Alice Duer Miller",
-      "slug": "alice-duer-miller",
-      "filmCount": 21,
-      "worksAdapted": 13,
-      "yearStart": 1918,
-      "yearEnd": 1952,
-      "yearSpan": 34,
-      "primaryStudios": [
-        {
-          "studio": "Paramount",
-          "count": 8
-        },
-        {
-          "studio": "Famous Players-Lasky",
-          "count": 5
-        },
-        {
-          "studio": "MGM",
-          "count": 3
-        }
-      ],
-      "genres": [
-        "Comedy",
-        "African American",
-        "Drama",
-        "Melodrama",
-        "Society"
-      ],
-      "remakeCount": 4,
-      "mostAdaptedWork": {
-        "id": 74,
-        "title": "The Charm School",
-        "adaptationCount": 5,
-        "years": [
-          1921,
-          1928,
-          1929,
-          1935,
-          1938
-        ]
-      },
-      "fascinatingFact": null,
-      "signatureWork": null,
-      "deepDiveTeaser": null,
-      "hasDeepDive": false,
-      "hasPhotoplayEditions": false,
-      "filmsByDecade": {
-        "1910": 2,
-        "1920": 7,
-        "1930": 9,
-        "1940": 2,
-        "1950": 1
-      },
-      "silentFilmCount": 7,
-      "talkieFilmCount": 14
     }
   ],
   "patterns": {
     "collectiveStats": {
-      "totalFilms": 123,
-      "averageFilmsPerAuthor": "24.6",
+      "totalFilms": 125,
+      "averageFilmsPerAuthor": "25.0",
       "totalYearsCovered": 46,
       "silentEraDominance": 2,
       "studioConcentration": [
@@ -337,11 +337,11 @@
           "count": 3
         },
         {
-          "studio": "RKO",
+          "studio": "MGM",
           "count": 3
         },
         {
-          "studio": "MGM",
+          "studio": "RKO",
           "count": 3
         }
       ]

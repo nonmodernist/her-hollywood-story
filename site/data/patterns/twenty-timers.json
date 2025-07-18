@@ -1,0 +1,407 @@
+{
+  "metadata": {
+    "generated": "2025-07-18T15:30:54.929Z",
+    "totalMembers": 5,
+    "totalFilms": 123,
+    "yearRange": [
+      1915,
+      1961
+    ]
+  },
+  "members": [
+    {
+      "id": 6,
+      "name": "Mary Roberts Rinehart",
+      "slug": "mary-roberts-rinehart",
+      "filmCount": 30,
+      "worksAdapted": 23,
+      "yearStart": 1915,
+      "yearEnd": 1959,
+      "yearSpan": 44,
+      "primaryStudios": [
+        {
+          "studio": "Famous Players",
+          "count": 3
+        },
+        {
+          "studio": "Famous Players-Lasky",
+          "count": 3
+        },
+        {
+          "studio": "Eminent Authors Pictures",
+          "count": 2
+        }
+      ],
+      "genres": [
+        "Mystery",
+        "Comedy",
+        "Drama",
+        "Crime",
+        "Comedy-drama"
+      ],
+      "remakeCount": 5,
+      "mostAdaptedWork": {
+        "id": 7,
+        "title": "The Circular Staircase",
+        "adaptationCount": 4,
+        "years": [
+          1915,
+          1926,
+          1930,
+          1959
+        ]
+      },
+      "fascinatingFact": null,
+      "signatureWork": null,
+      "deepDiveTeaser": null,
+      "hasDeepDive": false,
+      "hasPhotoplayEditions": false,
+      "filmsByDecade": {
+        "1910": 10,
+        "1920": 12,
+        "1930": 5,
+        "1940": 2,
+        "1950": 1
+      },
+      "silentFilmCount": 21,
+      "talkieFilmCount": 9
+    },
+    {
+      "id": 25,
+      "name": "Fannie Hurst",
+      "slug": "fannie-hurst",
+      "filmCount": 27,
+      "worksAdapted": 18,
+      "yearStart": 1918,
+      "yearEnd": 1961,
+      "yearSpan": 43,
+      "primaryStudios": [
+        {
+          "studio": "Universal",
+          "count": 5
+        },
+        {
+          "studio": "Cosmopolitan",
+          "count": 5
+        },
+        {
+          "studio": "Warner Bros",
+          "count": 5
+        }
+      ],
+      "genres": [
+        "Drama",
+        "Melodrama",
+        "Society",
+        "with songs",
+        "Domestic"
+      ],
+      "remakeCount": 5,
+      "mostAdaptedWork": {
+        "id": 185,
+        "title": "Back Street",
+        "adaptationCount": 4,
+        "years": [
+          1932,
+          1941,
+          1948,
+          1961
+        ]
+      },
+      "fascinatingFact": null,
+      "signatureWork": null,
+      "deepDiveTeaser": null,
+      "hasDeepDive": false,
+      "hasPhotoplayEditions": false,
+      "filmsByDecade": {
+        "1910": 3,
+        "1920": 9,
+        "1930": 8,
+        "1940": 4,
+        "1950": 2,
+        "1960": 1
+      },
+      "silentFilmCount": 10,
+      "talkieFilmCount": 17
+    },
+    {
+      "id": 40,
+      "name": "Edna Ferber",
+      "slug": "edna-ferber",
+      "filmCount": 24,
+      "worksAdapted": 16,
+      "yearStart": 1918,
+      "yearEnd": 1960,
+      "yearSpan": 42,
+      "primaryStudios": [
+        {
+          "studio": "Warner Bros",
+          "count": 7
+        },
+        {
+          "studio": "Universal",
+          "count": 4
+        },
+        {
+          "studio": "First National",
+          "count": 2
+        }
+      ],
+      "genres": [
+        "Comedy-drama",
+        "Drama",
+        "Comedy",
+        "Domestic",
+        "Romance"
+      ],
+      "remakeCount": 5,
+      "mostAdaptedWork": {
+        "id": 100,
+        "title": "So Big",
+        "adaptationCount": 3,
+        "years": [
+          1924,
+          1932,
+          1953
+        ]
+      },
+      "fascinatingFact": null,
+      "signatureWork": null,
+      "deepDiveTeaser": null,
+      "hasDeepDive": false,
+      "hasPhotoplayEditions": false,
+      "filmsByDecade": {
+        "1910": 2,
+        "1920": 8,
+        "1930": 8,
+        "1940": 1,
+        "1950": 3,
+        "1960": 2
+      },
+      "silentFilmCount": 7,
+      "talkieFilmCount": 17
+    },
+    {
+      "id": 12,
+      "name": "Gene Stratton-Porter",
+      "slug": "gene-strattonporter",
+      "filmCount": 21,
+      "worksAdapted": 8,
+      "yearStart": 1917,
+      "yearEnd": 1960,
+      "yearSpan": 43,
+      "primaryStudios": [
+        {
+          "studio": "Gene Stratton Porter Productions",
+          "count": 5
+        },
+        {
+          "studio": "Monogram",
+          "count": 4
+        },
+        {
+          "studio": "RKO",
+          "count": 3
+        }
+      ],
+      "genres": [
+        "Drama",
+        "Melodrama",
+        "Romance",
+        "Domestic",
+        "Northwest"
+      ],
+      "remakeCount": 6,
+      "mostAdaptedWork": {
+        "id": 19,
+        "title": "Freckles",
+        "adaptationCount": 4,
+        "years": [
+          1917,
+          1928,
+          1935,
+          1960
+        ]
+      },
+      "fascinatingFact": null,
+      "signatureWork": null,
+      "deepDiveTeaser": null,
+      "hasDeepDive": false,
+      "hasPhotoplayEditions": false,
+      "filmsByDecade": {
+        "1910": 1,
+        "1920": 7,
+        "1930": 7,
+        "1940": 5,
+        "1960": 1
+      },
+      "silentFilmCount": 7,
+      "talkieFilmCount": 14
+    },
+    {
+      "id": 24,
+      "name": "Alice Duer Miller",
+      "slug": "alice-duer-miller",
+      "filmCount": 21,
+      "worksAdapted": 13,
+      "yearStart": 1918,
+      "yearEnd": 1952,
+      "yearSpan": 34,
+      "primaryStudios": [
+        {
+          "studio": "Paramount",
+          "count": 8
+        },
+        {
+          "studio": "Famous Players-Lasky",
+          "count": 5
+        },
+        {
+          "studio": "MGM",
+          "count": 3
+        }
+      ],
+      "genres": [
+        "Comedy",
+        "African American",
+        "Drama",
+        "Melodrama",
+        "Society"
+      ],
+      "remakeCount": 4,
+      "mostAdaptedWork": {
+        "id": 74,
+        "title": "The Charm School",
+        "adaptationCount": 5,
+        "years": [
+          1921,
+          1928,
+          1929,
+          1935,
+          1938
+        ]
+      },
+      "fascinatingFact": null,
+      "signatureWork": null,
+      "deepDiveTeaser": null,
+      "hasDeepDive": false,
+      "hasPhotoplayEditions": false,
+      "filmsByDecade": {
+        "1910": 2,
+        "1920": 7,
+        "1930": 9,
+        "1940": 2,
+        "1950": 1
+      },
+      "silentFilmCount": 7,
+      "talkieFilmCount": 14
+    }
+  ],
+  "patterns": {
+    "collectiveStats": {
+      "totalFilms": 123,
+      "averageFilmsPerAuthor": "24.6",
+      "totalYearsCovered": 46,
+      "silentEraDominance": 2,
+      "studioConcentration": [
+        {
+          "studio": "Warner Bros",
+          "count": 12
+        },
+        {
+          "studio": "Universal",
+          "count": 9
+        },
+        {
+          "studio": "Famous Players-Lasky",
+          "count": 8
+        },
+        {
+          "studio": "Paramount",
+          "count": 8
+        },
+        {
+          "studio": "Cosmopolitan",
+          "count": 5
+        },
+        {
+          "studio": "Gene Stratton Porter Productions",
+          "count": 5
+        },
+        {
+          "studio": "Monogram",
+          "count": 4
+        },
+        {
+          "studio": "Famous Players",
+          "count": 3
+        },
+        {
+          "studio": "RKO",
+          "count": 3
+        },
+        {
+          "studio": "MGM",
+          "count": 3
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "year": 1915,
+        "event": "Mary Roberts Rinehart - First Hollywood adaptation",
+        "authorId": 6
+      },
+      {
+        "year": 1917,
+        "event": "Gene Stratton-Porter - First Hollywood adaptation",
+        "authorId": 12
+      },
+      {
+        "year": 1918,
+        "event": "Fannie Hurst - First Hollywood adaptation",
+        "authorId": 25
+      },
+      {
+        "year": 1918,
+        "event": "Edna Ferber - First Hollywood adaptation",
+        "authorId": 40
+      },
+      {
+        "year": 1918,
+        "event": "Alice Duer Miller - First Hollywood adaptation",
+        "authorId": 24
+      },
+      {
+        "year": 1952,
+        "event": "Alice Duer Miller - Final adaptation (after 34 years)",
+        "authorId": 24
+      },
+      {
+        "year": 1959,
+        "event": "Mary Roberts Rinehart - Final adaptation (after 44 years)",
+        "authorId": 6
+      },
+      {
+        "year": 1960,
+        "event": "Edna Ferber - Final adaptation (after 42 years)",
+        "authorId": 40
+      },
+      {
+        "year": 1960,
+        "event": "Gene Stratton-Porter - Final adaptation (after 43 years)",
+        "authorId": 12
+      },
+      {
+        "year": 1961,
+        "event": "Fannie Hurst - Final adaptation (after 43 years)",
+        "authorId": 25
+      }
+    ],
+    "connections": {
+      "sharedStudios": [],
+      "contemporaries": [],
+      "notes": "Connections analysis to be implemented"
+    }
+  }
+}

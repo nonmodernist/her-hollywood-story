@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Twenty-Timers Club - Her Hollywood Story</title>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/base.css">
+    <link rel="stylesheet" href="../css/pages/patterns.css">
+</head>
+<body>
+    <header class="site-header">
+        <h1 class="site-title">Her Hollywood Story</h1>
+        <p class="site-subtitle">A Database of Hollywood Films Adapted from American Women Writers</p>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../database.html">Database</a></li>
+                <li><a href="index.html" class="active">Patterns</a></li>
+                <li><a href="../about.html">About</a></li>
+                <li><a href="../research.html">Research</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Hero Section -->
+        <section class="pattern-hero">
+            <h1 class="pattern-title">The Twenty-Timers Club</h1>
+            <p class="pattern-subtitle">Five American women whose novels Hollywood couldn't stop adapting</p>
+            
+            <div class="hero-intro">
+                <p>Between 1915 and 1961, these five writers saw their works adapted to film at least twenty times each. Together, they account for <strong>123 films</strong> — over 10% of all Hollywood adaptations from American women writers during this period. They weren't just popular; they were Hollywood's most reliable hitmakers.</p>
+            </div>
+
+            <div class="hero-stats">
+                <span class="stat-item">123 films</span>
+                <span class="stat-separator">•</span>
+                <span class="stat-item">46 years</span>
+                <span class="stat-separator">•</span>
+                <span class="stat-item">5 unstoppable authors</span>
+            </div>
+        </section>
+
+        <!-- Members Overview -->
+        <section class="members-overview">
+            <h2>Meet the Twenty-Timers</h2>
+            
+            <div class="member-cards">
+                <article class="member-card" data-author-id="6">
+                    <div class="member-rank">30</div>
+                    <h3>Mary Roberts Rinehart</h3>
+                    <p class="member-years">1915–1959</p>
+                    <p class="member-fact"><!-- Fascinating fact to be added --></p>
+                    <a href="#mary-roberts-rinehart" class="member-link">Read her story →</a>
+                </article>
+
+                <article class="member-card" data-author-id="25">
+                    <div class="member-rank">27</div>
+                    <h3>Fannie Hurst</h3>
+                    <p class="member-years">1918–1961</p>
+                    <p class="member-fact"><!-- Fascinating fact to be added --></p>
+                    <a href="#fannie-hurst" class="member-link">Read her story →</a>
+                </article>
+
+                <article class="member-card" data-author-id="40">
+                    <div class="member-rank">24</div>
+                    <h3>Edna Ferber</h3>
+                    <p class="member-years">1918–1960</p>
+                    <p class="member-fact"><!-- Fascinating fact to be added --></p>
+                    <a href="#edna-ferber" class="member-link">Read her story →</a>
+                </article>
+
+                <article class="member-card" data-author-id="12">
+                    <div class="member-rank">21</div>
+                    <h3>Gene Stratton-Porter</h3>
+                    <p class="member-years">1917–1960</p>
+                    <p class="member-fact">Founded her own film studio</p>
+                    <a href="#gene-stratton-porter" class="member-link">Read her story →</a>
+                </article>
+
+                <article class="member-card" data-author-id="24">
+                    <div class="member-rank">21</div>
+                    <h3>Alice Duer Miller</h3>
+                    <p class="member-years">1918–1952</p>
+                    <p class="member-fact"><!-- Fascinating fact to be added --></p>
+                    <a href="#alice-duer-miller" class="member-link">Read her story →</a>
+                </article>
+            </div>
+        </section>
+
+        <!-- Pattern Analysis -->
+        <section class="pattern-analysis">
+            <h2>The Twenty-Timer Timeline</h2>
+            <div class="timeline-container" id="timelineViz">
+                <!-- Timeline visualization will be inserted here -->
+            </div>
+        </section>
+
+        <!-- What Made a Twenty-Timer -->
+        <section class="pattern-traits">
+            <h2>What Made a Twenty-Timer?</h2>
+            
+            <div class="traits-grid">
+                <div class="trait-card">
+                    <h3>Bestseller Status</h3>
+                    <p>All five dominated bestseller lists before Hollywood came calling. Their pre-existing audiences guaranteed box office appeal.</p>
+                </div>
+
+                <div class="trait-card">
+                    <h3>Genre Mastery</h3>
+                    <p>Each specialized in genres Hollywood loved: mysteries (Rinehart), melodramas (Hurst), epics (Ferber), nature romances (Stratton-Porter), and society comedies (Miller).</p>
+                </div>
+
+                <div class="trait-card">
+                    <h3>Serial Success</h3>
+                    <p>Most published in magazines first, building audiences chapter by chapter before the book — and film — appeared.</p>
+                </div>
+
+                <div class="trait-card">
+                    <h3>Business Savvy</h3>
+                    <p>These women understood contracts and rights. Stratton-Porter even founded her own production company to control adaptations.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Studio Connections -->
+        <section class="studio-analysis">
+            <h2>The Studio System Connection</h2>
+            <div class="studio-viz" id="studioNetwork">
+                <!-- Studio relationship visualization -->
+            </div>
+            
+            <div class="studio-insights">
+                <p>Warner Bros led all studios with 12 adaptations, but individual relationships tell the real story. Gene Stratton-Porter produced 5 films through her own company (GSP Productions). Fannie Hurst spread her works equally among Universal, Cosmopolitan, and Warner Bros. Paramount claimed 8 of Alice Duer Miller's 21 films.</p>
+            </div>
+        </section>
+
+        <!-- Peak Years Analysis -->
+        <section class="peak-years">
+            <h2>Peak Adaptation Years</h2>
+            <div class="decades-chart" id="decadesViz">
+                <!-- Decades visualization -->
+            </div>
+            
+            <div class="era-analysis">
+                <h3>Silent Era Dominance</h3>
+                <p>52 of the 123 films were silent, with Mary Roberts Rinehart leading (21 silent films). The transition to talkies didn't slow them down — it opened new opportunities for remakes.</p>
+                
+                <h3>The 1920s Boom</h3>
+                <p>The roaring twenties saw 43 adaptations, the peak decade. Every member was actively adapted, with multiple films per year common.</p>
+            </div>
+        </section>
+
+        <!-- Fascinating Facts -->
+        <section class="facts-grid">
+            <h2>Did You Know?</h2>
+            
+            <div class="fact-cards">
+                <div class="fact-card">
+                    <h3>Most Adapted Single Work</h3>
+                    <p>Alice Duer Miller's "The Charm School" — 5 versions between 1921 and 1938</p>
+                </div>
+                
+                <div class="fact-card">
+                    <h3>Longest Career Span</h3>
+                    <p>44 years — Mary Roberts Rinehart (1915-1959)</p>
+                </div>
+                
+                <div class="fact-card">
+                    <h3>The 1918 Mystery</h3>
+                    <p>Four of five members had their first adaptation in 1917-1918. What sparked this boom?</p>
+                </div>
+                
+                <div class="fact-card">
+                    <h3>Remake Record</h3>
+                    <p>30 unique works were adapted multiple times, with 13 getting 4+ versions</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Individual Deep Dives Preview -->
+        <section class="member-previews">
+            <h2>Explore Their Stories</h2>
+            
+            <article class="preview-card" id="mary-roberts-rinehart">
+                <div class="preview-header">
+                    <h3>Mary Roberts Rinehart</h3>
+                    <span class="preview-stats">30 films • 23 works • 44 years</span>
+                </div>
+                
+                <div class="preview-content">
+                    <p class="signature-work"><strong>Signature Work:</strong> <!-- To be researched --></p>
+                    <p class="preview-teaser"><!-- Deep dive teaser to be added --></p>
+                    
+                    <div class="preview-highlights">
+                        <h4>Key Achievements</h4>
+                        <ul>
+                            <li>Created the "Had-I-But-Known" mystery genre</li>
+                            <li>21 silent films — more than any other Twenty-Timer</li>
+                            <li>"The Circular Staircase" adapted 4 times</li>
+                        </ul>
+                    </div>
+                    
+                    <!-- <a href="../deep-dive/mary-roberts-rinehart.html" class="button">Explore Mary's Hollywood Empire →</a> -->
+                    <p class="coming-soon">Deep dive coming soon</p>
+                </div>
+            </article>
+
+            <article class="preview-card" id="fannie-hurst">
+                <div class="preview-header">
+                    <h3>Fannie Hurst</h3>
+                    <span class="preview-stats">27 films • 18 works • 43 years</span>
+                </div>
+                
+                <div class="preview-content">
+                    <p class="signature-work"><strong>Signature Work:</strong> <!-- To be researched --></p>
+                    <p class="preview-teaser"><!-- Deep dive teaser to be added --></p>
+                    
+                    <div class="preview-highlights">
+                        <h4>Key Achievements</h4>
+                        <ul>
+                            <li>Equal relationships with 3 major studios</li>
+                            <li>"Back Street" remade across 30 years (1932-1961)</li>
+                            <li>Master of the "women's picture" melodrama</li>
+                        </ul>
+                    </div>
+                    
+                    <!-- <a href="../deep-dive/fannie-hurst.html" class="button">Explore Fannie's Hollywood Empire →</a> -->
+                    <p class="coming-soon">Deep dive coming soon</p>
+                </div>
+            </article>
+
+            <article class="preview-card" id="edna-ferber">
+                <div class="preview-header">
+                    <h3>Edna Ferber</h3>
+                    <span class="preview-stats">24 films • 16 works • 42 years</span>
+                </div>
+                
+                <div class="preview-content">
+                    <p class="signature-work"><strong>Signature Work:</strong> <!-- To be researched --></p>
+                    <p class="preview-teaser"><!-- Deep dive teaser to be added --></p>
+                    
+                    <div class="preview-highlights">
+                        <h4>Key Achievements</h4>
+                        <ul>
+                            <li>Pulitzer Prize winner for "So Big"</li>
+                            <li>Warner Bros' favorite — 7 films</li>
+                            <li>Broadway and Hollywood success</li>
+                        </ul>
+                    </div>
+                    
+                    <!-- <a href="../deep-dive/edna-ferber.html" class="button">Explore Edna's Hollywood Empire →</a> -->
+                    <p class="coming-soon">Deep dive coming soon</p>
+                </div>
+            </article>
+
+            <article class="preview-card" id="gene-stratton-porter">
+                <div class="preview-header">
+                    <h3>Gene Stratton-Porter</h3>
+                    <span class="preview-stats">21 films • 8 works • 43 years</span>
+                </div>
+                
+                <div class="preview-content">
+                    <p class="signature-work"><strong>Signature Work:</strong> <!-- To be researched --></p>
+                    <p class="preview-teaser"><!-- Deep dive teaser to be added --></p>
+                    
+                    <div class="preview-highlights">
+                        <h4>Key Achievements</h4>
+                        <ul>
+                            <li>Founded Gene Stratton Porter Productions</li>
+                            <li>Produced 5 of her own adaptations</li>
+                            <li>"Freckles" adapted 4 times over 43 years</li>
+                        </ul>
+                    </div>
+                    
+                    <!-- <a href="../deep-dive/gene-stratton-porter.html" class="button">Explore Gene's Hollywood Empire →</a> -->
+                    <p class="coming-soon">Deep dive coming soon</p>
+                </div>
+            </article>
+
+            <article class="preview-card" id="alice-duer-miller">
+                <div class="preview-header">
+                    <h3>Alice Duer Miller</h3>
+                    <span class="preview-stats">21 films • 13 works • 34 years</span>
+                </div>
+                
+                <div class="preview-content">
+                    <p class="signature-work"><strong>Signature Work:</strong> <!-- To be researched --></p>
+                    <p class="preview-teaser"><!-- Deep dive teaser to be added --></p>
+                    
+                    <div class="preview-highlights">
+                        <h4>Key Achievements</h4>
+                        <ul>
+                            <li>"The Charm School" — record 5 adaptations</li>
+                            <li>Paramount's go-to writer (8 films)</li>
+                            <li>Suffragist and society wit</li>
+                        </ul>
+                    </div>
+                    
+                    <!-- <a href="../deep-dive/alice-duer-miller.html" class="button">Explore Alice's Hollywood Empire →</a> -->
+                    <p class="coming-soon">Deep dive coming soon</p>
+                </div>
+            </article>
+        </section>
+
+        <!-- Call to Action -->
+        <section class="pattern-cta">
+            <h2>Continue Exploring</h2>
+            <div class="cta-links">
+                <a href="remake-champions.html" class="cta-card">
+                    <h3>Remake Champions</h3>
+                    <p>Which stories did Hollywood adapt again and again?</p>
+                </a>
+                <a href="speed-demons.html" class="cta-card">
+                    <h3>Speed Demons</h3>
+                    <p>From publication to premiere in record time</p>
+                </a>
+                <a href="../database.html" class="cta-card">
+                    <h3>Browse Database</h3>
+                    <p>Explore all 1,119 films</p>
+                </a>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <p>A research project by Alexandra Edwards • Last updated: July 2025</p>
+    </footer>
+
+    <script src="../js/patterns/twenty-timers.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</body>
+</html>

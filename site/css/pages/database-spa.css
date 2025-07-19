@@ -1,0 +1,514 @@
+/* database-spa.css - Styles specific to the SPA version */
+
+/* Tab Navigation */
+.tab-navigation {
+    display: flex;
+    gap: 0;
+    margin: 2rem 0 0;
+    border-bottom: 2px solid var(--border-light);
+    background: var(--background);
+}
+
+.tab-button {
+    flex: 0 0 auto;
+    padding: 1rem 2rem;
+    background: transparent;
+    border: none;
+    border-bottom: 3px solid transparent;
+    cursor: pointer;
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-secondary);
+    transition: all 0.2s ease;
+    position: relative;
+    bottom: -2px;
+}
+
+.tab-button:hover {
+    color: var(--text-primary);
+    background: var(--background-alt);
+}
+
+.tab-button.active {
+    color: var(--text-primary);
+    border-bottom-color: var(--accent);
+    font-weight: 600;
+}
+
+.tab-count {
+    font-weight: 400;
+    opacity: 0.7;
+    font-size: 0.95rem;
+}
+
+/* Dynamic filter row */
+.filter-row {
+    transition: opacity 0.3s ease;
+}
+
+.filter-row.changing {
+    opacity: 0.5;
+}
+
+/* Results container */
+.results-list {
+    min-height: 400px;
+}
+
+/* Film list items */
+.film-entry {
+    padding: 1.5rem 0;
+    border-bottom: 1px solid var(--border-light);
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.film-entry:hover {
+    background-color: var(--background-alt);
+    margin: 0 -1rem;
+    padding: 1.5rem 1rem;
+}
+
+.film-entry:last-child {
+    border-bottom: none;
+}
+
+.entry-title {
+    font-size: 1.3rem;
+    margin-bottom: 0.25rem;
+}
+
+.entry-meta {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+}
+
+/* Author list items */
+.author-entry {
+    padding: 1.5rem 0;
+    border-bottom: 1px solid var(--border-light);
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.author-entry:hover {
+    background-color: var(--background-alt);
+    margin: 0 -1rem;
+    padding: 1.5rem 1rem;
+}
+
+.author-info {
+    flex: 1;
+}
+
+.author-name {
+    font-size: 1.3rem;
+    margin-bottom: 0.25rem;
+}
+
+.author-lifespan {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.95rem;
+    color: var(--text-muted);
+}
+
+.author-stats {
+    text-align: right;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+.author-film-count {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.author-film-label {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* Work list items */
+.work-entry {
+    padding: 1.5rem 0;
+    border-bottom: 1px solid var(--border-light);
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.work-entry:hover {
+    background-color: var(--background-alt);
+    margin: 0 -1rem;
+    padding: 1.5rem 1rem;
+}
+
+.work-title {
+    font-size: 1.3rem;
+    margin-bottom: 0.25rem;
+}
+
+.work-author {
+    font-style: italic;
+    color: var(--text-secondary);
+}
+
+.work-meta {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    margin-top: 0.5rem;
+}
+
+/* Grid view adaptations */
+.author-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+}
+
+.author-card {
+    background: var(--background);
+    border: 1px solid var(--border-light);
+    padding: 2rem;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.author-card:hover {
+    border-color: var(--text-primary);
+    transform: translateY(-2px);
+}
+
+.work-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.work-card {
+    background: var(--background);
+    border: 1px solid var(--border-light);
+    padding: 1.5rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.work-card:hover {
+    border-color: var(--text-primary);
+    transform: translateY(-2px);
+}
+
+/* Pattern badges */
+.pattern-badge {
+    display: inline-block;
+    padding: 0.2rem 0.6rem;
+    background: var(--accent);
+    color: white;
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-radius: 3px;
+    margin-left: 0.5rem;
+}
+
+.pattern-badge.twenty-timer {
+    background: var(--accent);
+}
+
+.pattern-badge.speed-demon {
+    background: #e67e22;
+}
+
+.pattern-badge.remake-champion {
+    background: #8e44ad;
+}
+
+/* Loading states */
+.skeleton {
+    background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+    background-size: 200% 100%;
+    animation: loading 1.5s infinite;
+}
+
+@keyframes loading {
+    0% {
+        background-position: 200% 0;
+    }
+    100% {
+        background-position: -200% 0;
+    }
+}
+
+.skeleton-text {
+    height: 1rem;
+    margin: 0.5rem 0;
+    border-radius: 4px;
+}
+
+.skeleton-title {
+    height: 1.5rem;
+    width: 60%;
+    margin-bottom: 0.5rem;
+    border-radius: 4px;
+}
+
+/* Detail View Styles */
+.detail-view {
+    margin: 2rem 0;
+}
+
+.detail-header {
+    margin-bottom: 2rem;
+}
+
+.back-link {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-secondary);
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    transition: color 0.2s ease;
+}
+
+.back-link:hover {
+    color: var(--text-primary);
+}
+
+/* Film Detail */
+.film-detail h1 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.film-meta {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+    margin-bottom: 2rem;
+}
+
+.detail-sections {
+    display: grid;
+    gap: 2rem;
+}
+
+.detail-section {
+    background: var(--background);
+    border: 1px solid var(--border-light);
+    padding: 2rem;
+}
+
+.detail-section h3 {
+    font-size: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-style: italic;
+}
+
+.detail-section p {
+    margin: 0.75rem 0;
+}
+
+.detail-section strong {
+    font-weight: 500;
+    color: var(--text-primary);
+}
+
+/* Author Detail */
+.author-detail h1 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.author-lifespan {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+    margin-bottom: 2rem;
+}
+
+.author-stats-bar {
+    display: flex;
+    gap: 3rem;
+    margin: 2rem 0;
+    padding: 2rem;
+    background: var(--background-alt);
+    border: 1px solid var(--border-light);
+}
+
+.works-list {
+    display: grid;
+    gap: 1rem;
+}
+
+.work-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--border-light);
+}
+
+.work-item:last-child {
+    border-bottom: none;
+}
+
+.work-meta {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.9rem;
+    color: var(--text-muted);
+}
+
+.films-timeline {
+    display: grid;
+    gap: 1rem;
+}
+
+.timeline-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--border-light);
+}
+
+.timeline-item:last-child {
+    border-bottom: none;
+}
+
+.film-year {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.9rem;
+    color: var(--text-muted);
+}
+
+/* Work Detail */
+.work-detail h1 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.work-meta {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+    margin-bottom: 2rem;
+}
+
+.adaptations-list {
+    display: grid;
+    gap: 1.5rem;
+}
+
+.adaptation-item {
+    display: flex;
+    gap: 1rem;
+    padding: 1rem;
+    background: var(--background-alt);
+    border: 1px solid var(--border-light);
+}
+
+.adaptation-number {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    flex: 0 0 auto;
+    width: 2rem;
+}
+
+.adaptation-info {
+    flex: 1;
+}
+
+.adaptation-details {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    margin-top: 0.25rem;
+}
+
+/* Related items */
+.related-items {
+    display: grid;
+    gap: 1rem;
+}
+
+.related-item {
+    display: block;
+    padding: 1rem;
+    background: var(--background-alt);
+    border: 1px solid var(--border-light);
+    text-decoration: none;
+    color: var(--text-primary);
+    transition: all 0.2s ease;
+}
+
+.related-item:hover {
+    border-color: var(--text-primary);
+    transform: translateY(-1px);
+}
+
+.related-item strong {
+    display: block;
+    margin-bottom: 0.25rem;
+}
+
+/* Media count indicator */
+.media-count {
+    font-family: 'Source Sans 3', sans-serif;
+    padding: 0.75rem;
+    background: var(--background-alt);
+    border: 1px solid var(--border-light);
+    text-align: center;
+}
+
+/* Responsive */
+@media (max-width: 760px) {
+    .tab-navigation {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+    
+    .tab-button {
+        white-space: nowrap;
+        font-size: 1rem;
+        padding: 0.75rem 1.5rem;
+    }
+    
+    .author-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .work-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .author-stats-bar {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+    
+    .detail-section {
+        padding: 1.5rem;
+    }
+    
+    .work-item,
+    .timeline-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}

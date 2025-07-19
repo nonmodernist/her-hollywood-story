@@ -62,9 +62,7 @@ All titles now include three versions:
 - These remain as static HTML for optimal SEO
 
 #### SPA Section (`/database/*`)
-Single entry point at `/database/index.html` that handles:
-- `/database` - Database home with stats
-- `/database/films` - Browse all films
+- `/database/films` - Browse all films - this should be the default place we start. maybe redirect `/database` here?
 - `/database/authors` - Browse all authors  
 - `/database/works` - Browse all source works
 - `/database/film/[slug]` - Individual film page

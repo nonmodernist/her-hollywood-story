@@ -13,10 +13,10 @@ document.addEventListener('DOMContentLoaded', function() {
             
             if (searchTerm) {
                 // Redirect to database page with search query
-                window.location.href = `database.html?search=${encodeURIComponent(searchTerm)}`;
+                window.location.href = `database/?search=${encodeURIComponent(searchTerm)}`;
             } else {
                 // If no search term, just go to database
-                window.location.href = 'database.html';
+                window.location.href = 'database/';
             }
         });
     }

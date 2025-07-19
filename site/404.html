@@ -2,74 +2,71 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Page Not Found - Her Hollywood Story</title>
+    <title>Redirecting...</title>
     <script>
-        // Handle 404s for SPA routing
-        (function() {
-            const path = window.location.pathname;
+        // For GitHub Pages SPA routing
+        // Check if we're on a database route
+        const path = window.location.pathname;
+        
+        if (path.startsWith('/database/') || path === '/database') {
+            // For database routes, we need to load the database SPA
+            // GitHub Pages doesn't support server-side routing, so we'll use a client-side solution
             
-            // If this is a database route, redirect to the database app
-            if (path.startsWith('/database/')) {
-                // Store the intended path
-                sessionStorage.setItem('spa_redirect', path);
-                // Redirect to the database index
+            // Store the intended path
+            sessionStorage.setItem('redirect', location.pathname + location.search);
+            
+            // Redirect to the database index - handle relative paths
+            const pathParts = location.pathname.split('/');
+            const dbIndex = pathParts.indexOf('database');
+            if (dbIndex !== -1) {
+                const basePath = pathParts.slice(0, dbIndex + 1).join('/');
+                window.location.replace(basePath + '/');
+            } else {
                 window.location.replace('/database/');
             }
-        })();
+        } else {
+            // For other 404s, show actual 404 page
+            document.title = 'Page Not Found - Her Hollywood Story';
+            document.addEventListener('DOMContentLoaded', function() {
+                document.body.innerHTML = `
+                    <style>
+                        body {
+                            font-family: 'EB Garamond', Georgia, serif;
+                            max-width: 600px;
+                            margin: 4rem auto;
+                            padding: 0 2rem;
+                            text-align: center;
+                        }
+                        h1 {
+                            font-size: 3rem;
+                            margin-bottom: 1rem;
+                        }
+                        p {
+                            font-size: 1.3rem;
+                            line-height: 1.8;
+                            color: #666;
+                        }
+                        a {
+                            color: #8b0000;
+                            text-decoration: none;
+                        }
+                        a:hover {
+                            text-decoration: underline;
+                        }
+                    </style>
+                    <h1>Page Not Found</h1>
+                    <p>The page you're looking for doesn't exist.</p>
+                    <p><a href="/">Return to Homepage</a> | <a href="/database/">Browse Database</a></p>
+                `;
+            });
+        }
     </script>
-    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/css/base.css">
-    <style>
-        .error-page {
-            text-align: center;
-            padding: 4rem 2rem;
-        }
-        .error-code {
-            font-size: 6rem;
-            color: var(--text-muted);
-            margin-bottom: 1rem;
-        }
-        .error-message {
-            font-size: 2rem;
-            margin-bottom: 2rem;
-        }
-        .error-links {
-            display: flex;
-            gap: 2rem;
-            justify-content: center;
-            margin-top: 3rem;
-        }
-    </style>
 </head>
 <body>
-    <header class="site-header">
-        <h1 class="site-title">Her Hollywood Story</h1>
-        <p class="site-subtitle">A Database of Hollywood Films Adapted from American Women Writers</p>
-        <nav>
-            <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/database">Database</a></li>
-                <li><a href="/patterns/index.html">Patterns</a></li>
-                <li><a href="/about.html">About</a></li>
-                <li><a href="/research.html">Research</a></li>
-            </ul>
-        </nav>
-    </header>
-
-    <main class="error-page">
-        <div class="error-code">404</div>
-        <h2 class="error-message">Page Not Found</h2>
+    <noscript>
+        <h1>Page Not Found</h1>
         <p>The page you're looking for doesn't exist.</p>
-        
-        <div class="error-links">
-            <a href="/" class="button">Go Home</a>
-            <a href="/database" class="button">Browse Database</a>
-        </div>
-    </main>
-
-    <footer class="site-footer">
-        <p>A research project by Alexandra Edwards • Last updated: July 2025</p>
-    </footer>
+        <p><a href="/">Return to Homepage</a></p>
+    </noscript>
 </body>
 </html>

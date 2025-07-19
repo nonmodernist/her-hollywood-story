@@ -1,0 +1,16 @@
+# Enable URL rewriting
+RewriteEngine On
+
+# Handle database routing
+# Redirect /database to /database/ (with trailing slash)
+RewriteRule ^database$ /database/ [R=301,L]
+
+# For database SPA routes, serve the index.html file
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^database/(.*)$ /database/index.html [L]
+
+# Optional: Remove .html extension from other pages
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.html [NC,L]

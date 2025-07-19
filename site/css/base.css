@@ -263,6 +263,17 @@ label {
     margin-right: -12.5%;
 }
 
+/* Footer */
+.site-footer {
+    margin-top: 6rem;
+    padding: 3rem 0 4rem;
+    border-top: 1px solid var(--border-light);
+    text-align: center;
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.95rem;
+    color: var(--text-muted);
+}
+
 /* Mobile adjustments */
 @media (max-width: 760px) {
     body {

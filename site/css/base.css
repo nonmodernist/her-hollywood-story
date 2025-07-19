@@ -274,6 +274,207 @@ label {
     color: var(--text-muted);
 }
 
+/* Images and Figures - Tufte-inspired */
+
+/* Basic image styling */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Figure containers */
+figure {
+    margin: 2.5rem 0;
+    padding: 0;
+}
+
+/* Main column figures */
+figure.main-column {
+    max-width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+/* Full-width figures */
+figure.fullwidth {
+    max-width: none;
+    margin-left: -12.5%;
+    margin-right: -12.5%;
+}
+
+figure.fullwidth img {
+    width: 100%;
+}
+
+/* Margin figures (Tufte-style sidenotes for images) */
+figure.margin {
+    float: right;
+    clear: right;
+    width: 50%;
+    margin-right: -60%;
+    margin-top: 0;
+    margin-bottom: 1.4rem;
+}
+
+/* Figure captions */
+figcaption {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.95rem;
+    line-height: 1.4;
+    color: var(--text-secondary);
+    margin-top: 0.5rem;
+    padding: 0;
+}
+
+/* Numbered captions */
+figcaption .figure-number {
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+/* Caption credits */
+figcaption .credit {
+    display: block;
+    margin-top: 0.25rem;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+/* Inline images */
+.inline-image {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 0.5rem;
+}
+
+/* Portrait images */
+figure.portrait {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Side-by-side figures */
+.figure-pair {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin: 2.5rem 0;
+}
+
+.figure-pair figure {
+    margin: 0;
+}
+
+/* Figure grid for multiple images */
+.figure-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin: 2.5rem 0;
+}
+
+.figure-grid figure {
+    margin: 0;
+}
+
+/* Photoplay edition specific styling */
+figure.photoplay {
+    border: 1px solid var(--border-light);
+    padding: 1rem;
+    background: var(--background-alt);
+}
+
+figure.photoplay img {
+    border: 1px solid var(--border-medium);
+}
+
+/* Film still styling */
+figure.film-still {
+    position: relative;
+}
+
+figure.film-still .play-indicator {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 60px;
+    height: 60px;
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 24px;
+    opacity: 0.8;
+    transition: opacity 0.2s ease;
+}
+
+figure.film-still:hover .play-indicator {
+    opacity: 1;
+}
+
+/* Image galleries */
+.image-gallery {
+    margin: 2.5rem 0;
+}
+
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.gallery-item {
+    cursor: pointer;
+    transition: opacity 0.2s ease;
+}
+
+.gallery-item:hover {
+    opacity: 0.8;
+}
+
+.gallery-caption {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    text-align: center;
+    margin-top: 1rem;
+}
+
+/* Lazy loading placeholder */
+figure.loading img {
+    background: var(--background-alt);
+    min-height: 200px;
+}
+
+/* High resolution image support */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    /* Styles for retina displays if needed */
+}
+
+/* Print styles for images */
+@media print {
+    figure {
+        page-break-inside: avoid;
+    }
+    
+    figure.margin {
+        float: none;
+        width: 100%;
+        margin: 1rem 0;
+    }
+    
+    figcaption {
+        font-size: 0.85rem;
+    }
+}
+
 /* Mobile adjustments */
 @media (max-width: 760px) {
     body {
@@ -317,5 +518,26 @@ label {
     .fullwidth {
         margin-left: 0;
         margin-right: 0;
+    }
+    
+    /* Image and figure mobile adjustments */
+    figure.margin {
+        float: none;
+        width: 100%;
+        margin-right: 0;
+        margin-left: 0;
+    }
+    
+    figure.fullwidth {
+        margin-left: -5%;
+        margin-right: -5%;
+    }
+    
+    .figure-pair {
+        grid-template-columns: 1fr;
+    }
+    
+    .figure-grid {
+        grid-template-columns: 1fr;
     }
 }

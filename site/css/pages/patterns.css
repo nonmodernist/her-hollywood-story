@@ -293,6 +293,35 @@
     color: var(--text-muted);
 }
 
+/* Author portraits in preview cards */
+.preview-card.with-portrait {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 2.5rem;
+    align-items: start;
+}
+
+.author-portrait {
+    width: 100%;
+    height: auto;
+    border: 1px solid var(--border-light);
+    /* Subtle vintage effect using existing color variables */
+    filter: sepia(10%) contrast(1.05);
+}
+
+/* Responsive - reuse existing breakpoint */
+@media (max-width: 760px) {
+    .preview-card.with-portrait {
+        grid-template-columns: 1fr;
+    }
+    
+    .author-portrait {
+        max-width: 150px;
+        margin: 0 auto 1.5rem;
+        display: block;
+    }
+}
+
 .coming-soon {
     font-family: 'Source Sans 3', sans-serif;
     font-style: italic;

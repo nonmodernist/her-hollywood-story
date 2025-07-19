@@ -1,0 +1,83 @@
+{
+  "id": 429,
+  "slug": "the-dawn-of-a-tomorrow-1915",
+  "title": "The Dawn of a Tomorrow",
+  "formatted_title": "The Dawn of a Tomorrow",
+  "html_title": "<span class=\"film-title\">The Dawn of a Tomorrow</span>",
+  "release_year": 1915,
+  "runtime_minutes": null,
+  "country_of_production": null,
+  "genres": [
+    "Drama",
+    "Social"
+  ],
+  "studio": "Famous Players",
+  "production_companies": "Famous Players Film Co.",
+  "distribution_companies": "Paramount Pictures Corp.",
+  "directors": "James Kirkwood",
+  "writers": "Eve Unsell",
+  "cast_members": "Mary Pickford|David Powell|Forrest Robinson|Robert Cain|Margaret Seddon|Blanche Craig|Ogden Childe",
+  "color_info": null,
+  "adaptation_notes": null,
+  "afi_catalog_id": 18171,
+  "source_work": {
+    "id": 360,
+    "slug": "the-dawn-of-a-tomorrow",
+    "title": "The Dawn of a Tomorrow",
+    "formatted_title": "The Dawn of a Tomorrow",
+    "html_title": "<span class=\"work-title\">The Dawn of a Tomorrow</span>",
+    "work_type": "novel",
+    "publication_year": 1906,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 9
+  },
+  "author": {
+    "id": 3,
+    "slug": "frances-hodgson-burnett",
+    "name": "Frances Hodgson Burnett",
+    "birth_year": 1849,
+    "death_year": 1924,
+    "nationality": "United Kingdom of Great Britain and Ireland, United Kingdom, United States",
+    "film_count": 17
+  },
+  "other_adaptations": [
+    {
+      "id": 430,
+      "slug": "the-dawn-of-a-tomorrow-1924",
+      "title": "The Dawn of a Tomorrow",
+      "html_title": "<span class=\"film-title\">The Dawn of a Tomorrow</span>",
+      "year": 1924,
+      "directors": "George Melford",
+      "studio": "Famous Players-Lasky"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 1,
+    "is_first": true,
+    "is_latest": false
+  },
+  "media": [
+    {
+      "id": 1054,
+      "media_type": "production_photo",
+      "title": "Thedawnofatomorrow-photocard-1915.jpg",
+      "caption": "The Dawn of a Tomorrow is a 1915 American silent film starring Mary Pickford, produced by Adolph Zukor's Famous Players Film Company and directed by James Kirkwood. The source link claims copyright but being that this was published in 1915 I think that is a mistakenly selected license.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Thedawnofatomorrow-photocard-1915.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Thedawnofatomorrow-photocard-1915.jpg/300px-Thedawnofatomorrow-photocard-1915.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Thedawnofatomorrow-photocard-1915.jpg",
+      "license": "public_domain",
+      "attribution": "Famous Players Film Company",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

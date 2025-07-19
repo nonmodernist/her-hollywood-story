@@ -1,0 +1,172 @@
+{
+  "id": 8,
+  "slug": "harriet-theresa-comstock",
+  "name": "Harriet Theresa Comstock",
+  "birth_year": 1860,
+  "death_year": 1925,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": "Q5664346",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 4,
+    "first_adaptation": 1916,
+    "last_adaptation": 1924,
+    "year_span": 8,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Melodrama",
+        "count": 2
+      },
+      {
+        "genre": "Rural",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2,
+      "1920": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 16,
+      "slug": "the-place-beyond-the-winds-1916",
+      "title": "The Place Beyond the Winds",
+      "html_title": "<span class=\"film-title\">The Place Beyond the Winds</span>",
+      "year": 1916,
+      "studio": "Universal",
+      "directors": "Joseph De Grasse",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Place Beyond the Winds",
+      "work_html_title": "<span class=\"work-title\">The Place Beyond the Winds</span>",
+      "work_id": 14
+    },
+    {
+      "id": 30,
+      "slug": "a-son-of-the-hills-1917",
+      "title": "A Son of the Hills",
+      "html_title": "<span class=\"film-title\">A Son of the Hills</span>",
+      "year": 1917,
+      "studio": "Vitagraph",
+      "directors": "Harry Davenport",
+      "genres": [
+        "Drama",
+        "Rural"
+      ],
+      "has_media": true,
+      "work_title": "A Son of the Hills",
+      "work_html_title": "<span class=\"work-title\">A Son of the Hills</span>",
+      "work_id": 28
+    },
+    {
+      "id": 81,
+      "slug": "silent-years-1921",
+      "title": "Silent Years",
+      "html_title": "<span class=\"film-title\">Silent Years</span>",
+      "year": 1921,
+      "studio": "Robertson-Cole",
+      "directors": "Louis J. Gasnier",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "Mam'selle Jo",
+      "work_html_title": "<span class=\"work-title\">Mam'selle Jo</span>",
+      "work_id": 78
+    },
+    {
+      "id": 115,
+      "slug": "the-tenth-woman-1924",
+      "title": "The Tenth Woman",
+      "html_title": "<span class=\"film-title\">The Tenth Woman</span>",
+      "year": 1924,
+      "studio": "Warner Bros",
+      "directors": "James Flood",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "The Tenth Woman",
+      "work_html_title": "<span class=\"work-title\">The Tenth Woman</span>",
+      "work_id": 110
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 14,
+      "slug": "the-place-beyond-the-winds",
+      "title": "The Place Beyond the Winds",
+      "formatted_title": "The Place Beyond the Winds",
+      "html_title": "<span class=\"work-title\">The Place Beyond the Winds</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 28,
+      "slug": "a-son-of-the-hills",
+      "title": "A Son of the Hills",
+      "formatted_title": "A Son of the Hills",
+      "html_title": "<span class=\"work-title\">A Son of the Hills</span>",
+      "work_type": "novel",
+      "publication_year": 1913,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 78,
+      "slug": "mamselle-jo",
+      "title": "Mam'selle Jo",
+      "formatted_title": "Mam'selle Jo",
+      "html_title": "<span class=\"work-title\">Mam'selle Jo</span>",
+      "work_type": "novel",
+      "publication_year": 1918,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 110,
+      "slug": "the-tenth-woman",
+      "title": "The Tenth Woman",
+      "formatted_title": "The Tenth Woman",
+      "html_title": "<span class=\"work-title\">The Tenth Woman</span>",
+      "work_type": "novel",
+      "publication_year": 1923,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 14,
+    "slug": "the-place-beyond-the-winds",
+    "title": "The Place Beyond the Winds",
+    "formatted_title": "The Place Beyond the Winds",
+    "html_title": "<span class=\"work-title\">The Place Beyond the Winds</span>",
+    "work_type": "novel",
+    "publication_year": 1914,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:57:51.442308"
+}

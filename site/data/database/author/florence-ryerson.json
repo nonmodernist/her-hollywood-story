@@ -1,0 +1,116 @@
+{
+  "id": 432,
+  "slug": "florence-ryerson",
+  "name": "Florence Ryerson",
+  "birth_year": 1892,
+  "death_year": 1965,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American playwright, screenwriter (1892-1965). Born in Glendale. Died in Mexico City. Occupations: playwright, writer, screenwriter",
+  "author_notes": null,
+  "wikidata_id": "Q5460771",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1927,
+    "last_adaptation": 1930,
+    "year_span": 3,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Western",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1,
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 973,
+      "slug": "love-makes-em-wild-1927",
+      "title": "Love Makes 'em Wild",
+      "html_title": "<span class=\"film-title\">Love Makes 'em Wild</span>",
+      "year": 1927,
+      "studio": "Fox Film",
+      "directors": "Albert Ray",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "Willie the Worm",
+      "work_html_title": "<span class=\"work-title\">Willie the Worm</span>",
+      "work_id": 875
+    },
+    {
+      "id": 974,
+      "slug": "call-of-the-west-1930",
+      "title": "Call of the West",
+      "html_title": "<span class=\"film-title\">Call of the West</span>",
+      "year": 1930,
+      "studio": "Columbia",
+      "directors": "Albert Ray",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "Borrowed Love",
+      "work_html_title": "<span class=\"work-title\">Borrowed Love</span>",
+      "work_id": 876
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 875,
+      "slug": "willie-the-worm",
+      "title": "Willie the Worm",
+      "formatted_title": "Willie the Worm",
+      "html_title": "<span class=\"work-title\">Willie the Worm</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 876,
+      "slug": "borrowed-love",
+      "title": "Borrowed Love",
+      "formatted_title": "Borrowed Love",
+      "html_title": "<span class=\"work-title\">Borrowed Love</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 875,
+    "slug": "willie-the-worm",
+    "title": "Willie the Worm",
+    "formatted_title": "Willie the Worm",
+    "html_title": "<span class=\"work-title\">Willie the Worm</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:25:58.014904"
+}

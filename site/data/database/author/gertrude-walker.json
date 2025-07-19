@@ -1,0 +1,83 @@
+{
+  "id": 93,
+  "slug": "gertrude-walker",
+  "name": "Gertrude Walker",
+  "birth_year": 1902,
+  "death_year": 1995,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American crime writer (1902-1995). Born in Rockwell. Died in Palm Springs. Occupations: crime fiction writer, screenwriter, novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q3104395",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1950,
+    "last_adaptation": 1950,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Crime",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 306,
+      "slug": "the-damned-dont-cry-1950",
+      "title": "The Damned Don't Cry",
+      "html_title": "<span class=\"film-title\">The Damned Don't Cry</span>",
+      "year": 1950,
+      "studio": "Warner Bros",
+      "directors": "Vincent Sherman",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "has_media": true,
+      "work_title": "The Damned Don't Cry; Case History",
+      "work_html_title": "<span class=\"work-title\">The Damned Don't Cry; Case History</span>",
+      "work_id": 256
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 256,
+      "slug": "the-damned-dont-cry-case-history",
+      "title": "The Damned Don't Cry; Case History",
+      "formatted_title": "The Damned Don't Cry; Case History",
+      "html_title": "<span class=\"work-title\">The Damned Don't Cry; Case History</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 256,
+    "slug": "the-damned-dont-cry-case-history",
+    "title": "The Damned Don't Cry; Case History",
+    "formatted_title": "The Damned Don't Cry; Case History",
+    "html_title": "<span class=\"work-title\">The Damned Don't Cry; Case History</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:30.842794"
+}

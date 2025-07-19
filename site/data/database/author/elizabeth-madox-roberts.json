@@ -1,0 +1,83 @@
+{
+  "id": 419,
+  "slug": "elizabeth-madox-roberts",
+  "name": "Elizabeth Madox Roberts",
+  "birth_year": 1881,
+  "death_year": 1941,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "novelist and poet (1881–1941). Born in Perryville. Died in Orlando. Occupations: poet, novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q577565",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1931,
+    "last_adaptation": 1931,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 949,
+      "slug": "the-great-meadow-1931",
+      "title": "The Great Meadow",
+      "html_title": "<span class=\"film-title\">The Great Meadow</span>",
+      "year": 1931,
+      "studio": "MGM",
+      "directors": "Charles Brabin",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "The Great Meadow",
+      "work_html_title": "<span class=\"work-title\">The Great Meadow</span>",
+      "work_id": 851
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 851,
+      "slug": "the-great-meadow",
+      "title": "The Great Meadow",
+      "formatted_title": "The Great Meadow",
+      "html_title": "<span class=\"work-title\">The Great Meadow</span>",
+      "work_type": "novel",
+      "publication_year": 1930,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 851,
+    "slug": "the-great-meadow",
+    "title": "The Great Meadow",
+    "formatted_title": "The Great Meadow",
+    "html_title": "<span class=\"work-title\">The Great Meadow</span>",
+    "work_type": "novel",
+    "publication_year": 1930,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:25:43.721062"
+}

@@ -1,0 +1,88 @@
+{
+  "id": 126,
+  "slug": "catherine-drinker-bowen",
+  "name": "Catherine Drinker Bowen",
+  "birth_year": 1897,
+  "death_year": 1973,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in Haverford. Died in Haverford. Occupations: biographer, writer, historian, violinist, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q2941900",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1952,
+    "last_adaptation": 1952,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Biography",
+        "count": 1
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 380,
+      "slug": "the-magnificent-yankee-1952",
+      "title": "The Magnificent Yankee",
+      "html_title": "<span class=\"film-title\">The Magnificent Yankee</span>",
+      "year": 1952,
+      "studio": "MGM",
+      "directors": "John Sturges",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "Yankee from Olympus",
+      "work_html_title": "<span class=\"work-title\">Yankee from Olympus</span>",
+      "work_id": 317
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 317,
+      "slug": "yankee-from-olympus",
+      "title": "Yankee from Olympus",
+      "formatted_title": "Yankee from Olympus",
+      "html_title": "<span class=\"work-title\">Yankee from Olympus</span>",
+      "work_type": "novel",
+      "publication_year": 1944,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 317,
+    "slug": "yankee-from-olympus",
+    "title": "Yankee from Olympus",
+    "formatted_title": "Yankee from Olympus",
+    "html_title": "<span class=\"work-title\">Yankee from Olympus</span>",
+    "work_type": "novel",
+    "publication_year": 1944,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:52:52.662151"
+}

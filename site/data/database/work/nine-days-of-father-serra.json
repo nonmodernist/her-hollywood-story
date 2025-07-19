@@ -1,0 +1,61 @@
+{
+  "id": 1006,
+  "slug": "nine-days-of-father-serra",
+  "title": "Nine Days of Father Serra",
+  "formatted_title": "Nine Days of Father Serra",
+  "html_title": "<span class=\"work-title\">Nine Days of Father Serra</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 510,
+    "slug": "isabelle-gibson-ziegler",
+    "name": "Isabelle Gibson Ziegler",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1121,
+      "slug": "seven-cities-of-gold-1955",
+      "title": "Seven Cities of Gold",
+      "html_title": "<span class=\"film-title\">Seven Cities of Gold</span>",
+      "year": 1955,
+      "studio": "20th Century Fox",
+      "directors": "Robert D. Webb",
+      "genres": [
+        "Drama",
+        "Historical",
+        "with songs"
+      ],
+      "has_media": false,
+      "years_after_publication": 1955
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T20:35:11.559173"
+}

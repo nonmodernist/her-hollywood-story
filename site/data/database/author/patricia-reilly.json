@@ -1,0 +1,78 @@
+{
+  "id": 410,
+  "slug": "patricia-reilly",
+  "name": "Patricia Reilly",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": "-",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1931,
+    "last_adaptation": 1931,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 911,
+      "slug": "big-business-girl-1931",
+      "title": "Big Business Girl",
+      "html_title": "<span class=\"film-title\">Big Business Girl</span>",
+      "year": 1931,
+      "studio": "First National",
+      "directors": "William A. Seiter",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "Big Business Girl",
+      "work_html_title": "<span class=\"work-title\">Big Business Girl</span>",
+      "work_id": 818
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 818,
+      "slug": "big-business-girl",
+      "title": "Big Business Girl",
+      "formatted_title": "Big Business Girl",
+      "html_title": "<span class=\"work-title\">Big Business Girl</span>",
+      "work_type": "novel",
+      "publication_year": 1930,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 818,
+    "slug": "big-business-girl",
+    "title": "Big Business Girl",
+    "formatted_title": "Big Business Girl",
+    "html_title": "<span class=\"work-title\">Big Business Girl</span>",
+    "work_type": "novel",
+    "publication_year": 1930,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:44:26.763369"
+}

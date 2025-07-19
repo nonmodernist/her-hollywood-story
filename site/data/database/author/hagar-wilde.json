@@ -1,0 +1,78 @@
+{
+  "id": 69,
+  "slug": "hagar-wilde",
+  "name": "Hagar Wilde",
+  "birth_year": 1905,
+  "death_year": 1971,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1905–1971). Born in Toledo. Occupations: screenwriter",
+  "author_notes": null,
+  "wikidata_id": "Q5638549",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1938,
+    "last_adaptation": 1938,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Screwball comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 245,
+      "slug": "bringing-up-baby-1938",
+      "title": "Bringing Up Baby",
+      "html_title": "<span class=\"film-title\">Bringing Up Baby</span>",
+      "year": 1938,
+      "studio": "RKO",
+      "directors": "Howard Hawks",
+      "genres": [
+        "Screwball comedy"
+      ],
+      "has_media": true,
+      "work_title": "\"Bringing Up Baby\"",
+      "work_html_title": "<span class=\"work-title\">\"Bringing Up Baby\"</span>",
+      "work_id": 211
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 211,
+      "slug": "bringing-up-baby",
+      "title": "\"Bringing Up Baby\"",
+      "formatted_title": "\"Bringing Up Baby\"",
+      "html_title": "<span class=\"work-title\">\"Bringing Up Baby\"</span>",
+      "work_type": "novel",
+      "publication_year": 1937,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 211,
+    "slug": "bringing-up-baby",
+    "title": "\"Bringing Up Baby\"",
+    "formatted_title": "\"Bringing Up Baby\"",
+    "html_title": "<span class=\"work-title\">\"Bringing Up Baby\"</span>",
+    "work_type": "novel",
+    "publication_year": 1937,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:01.756321"
+}

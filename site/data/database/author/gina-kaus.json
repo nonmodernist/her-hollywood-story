@@ -1,0 +1,139 @@
+{
+  "id": 291,
+  "slug": "gina-kaus",
+  "name": "Gina Kaus",
+  "birth_year": 1893,
+  "death_year": 1985,
+  "nationality": "Austria",
+  "literary_movement": null,
+  "biographical_notes": "Screenwriter, novelist (1893–1985). Born in Vienna. Died in Los Angeles. Occupations: writer, screenwriter, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q89265",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1933,
+    "last_adaptation": 1946,
+    "year_span": 13,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 2
+      },
+      {
+        "genre": "Romantic comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1,
+      "1940": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 693,
+      "slug": "luxury-liner-1933",
+      "title": "Luxury Liner",
+      "html_title": "<span class=\"film-title\">Luxury Liner</span>",
+      "year": 1933,
+      "studio": "Paramount",
+      "directors": "Lothar Mendes",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Luxury Liner",
+      "work_html_title": "<span class=\"work-title\">Luxury Liner</span>",
+      "work_id": 609
+    },
+    {
+      "id": 694,
+      "slug": "the-night-before-the-divorce-1942",
+      "title": "The Night Before the Divorce",
+      "html_title": "<span class=\"film-title\">The Night Before the Divorce</span>",
+      "year": 1942,
+      "studio": "20th Century Fox",
+      "directors": "Robert Siodmak",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": false,
+      "work_title": "The Night Before the Divorce",
+      "work_html_title": "<span class=\"work-title\">The Night Before the Divorce</span>",
+      "work_id": 610
+    },
+    {
+      "id": 692,
+      "slug": "her-sisters-secret-1946",
+      "title": "Her Sister's Secret",
+      "html_title": "<span class=\"film-title\">Her Sister's Secret</span>",
+      "year": 1946,
+      "studio": "PRC Pictures",
+      "directors": "Edgar G. Ulmer",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Dark Angel",
+      "work_html_title": "<span class=\"work-title\">Dark Angel</span>",
+      "work_id": 608
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 609,
+      "slug": "luxury-liner",
+      "title": "Luxury Liner",
+      "formatted_title": "Luxury Liner",
+      "html_title": "<span class=\"work-title\">Luxury Liner</span>",
+      "work_type": "novel",
+      "publication_year": 1932,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 610,
+      "slug": "the-night-before-the-divorce",
+      "title": "The Night Before the Divorce",
+      "formatted_title": "The Night Before the Divorce",
+      "html_title": "<span class=\"work-title\">The Night Before the Divorce</span>",
+      "work_type": "novel",
+      "publication_year": 1941,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 608,
+      "slug": "dark-angel",
+      "title": "Dark Angel",
+      "formatted_title": "Dark Angel",
+      "html_title": "<span class=\"work-title\">Dark Angel</span>",
+      "work_type": "novel",
+      "publication_year": 1934,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 609,
+    "slug": "luxury-liner",
+    "title": "Luxury Liner",
+    "formatted_title": "Luxury Liner",
+    "html_title": "<span class=\"work-title\">Luxury Liner</span>",
+    "work_type": "novel",
+    "publication_year": 1932,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:54:53.696579"
+}

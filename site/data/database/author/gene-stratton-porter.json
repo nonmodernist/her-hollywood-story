@@ -1,0 +1,520 @@
+{
+  "id": 12,
+  "slug": "gene-stratton-porter",
+  "name": "Gene Stratton-Porter",
+  "birth_year": 1863,
+  "death_year": 1924,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer and naturalist (1863–1924). Born in Wabash County. Died in Los Angeles. Occupations: children's writer, photographer, naturalist, illustrator, architect, writer, ecologist, novelist. Notable works: A Girl of the Limberlost, Freckles",
+  "author_notes": null,
+  "wikidata_id": "Q5531480",
+  "stats": {
+    "total_films": 21,
+    "works_adapted": 8,
+    "first_adaptation": 1917,
+    "last_adaptation": 1960,
+    "year_span": 43,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 9
+      },
+      {
+        "genre": "Melodrama",
+        "count": 7
+      },
+      {
+        "genre": "Rural",
+        "count": 7
+      },
+      {
+        "genre": "Domestic",
+        "count": 4
+      },
+      {
+        "genre": "Romance",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1920": 7,
+      "1930": 7,
+      "1940": 5,
+      "1960": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": true,
+    "twenty_timer_rank": 5
+  },
+  "films": [
+    {
+      "id": 21,
+      "slug": "freckles-1917",
+      "title": "Freckles",
+      "html_title": "<span class=\"film-title\">Freckles</span>",
+      "year": 1917,
+      "studio": "Jesse Lasky",
+      "directors": "Marshall Neilan",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Freckles",
+      "work_html_title": "<span class=\"work-title\">Freckles</span>",
+      "work_id": 19
+    },
+    {
+      "id": 95,
+      "slug": "michael-ohalloran-1923",
+      "title": "Michael O'Halloran",
+      "html_title": "<span class=\"film-title\">Michael O'Halloran</span>",
+      "year": 1923,
+      "studio": "Gene Stratton Porter Productions",
+      "directors": "James Leo Meehan",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Michael O'Halloran",
+      "work_html_title": "<span class=\"work-title\">Michael O'Halloran</span>",
+      "work_id": 91
+    },
+    {
+      "id": 103,
+      "slug": "a-girl-of-the-limberlost-1924",
+      "title": "A Girl of the Limberlost",
+      "html_title": "<span class=\"film-title\">A Girl of the Limberlost</span>",
+      "year": 1924,
+      "studio": "Gene Stratton Porter Productions",
+      "directors": "James Leo Meehan",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "A Girl of the Limberlost",
+      "work_html_title": "<span class=\"work-title\">A Girl of the Limberlost</span>",
+      "work_id": 99
+    },
+    {
+      "id": 116,
+      "slug": "the-keeper-of-the-bees-1925",
+      "title": "The Keeper of the Bees",
+      "html_title": "<span class=\"film-title\">The Keeper of the Bees</span>",
+      "year": 1925,
+      "studio": "Gene Stratton Porter Productions",
+      "directors": "James Leo Meehan",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "The Keeper of the Bees",
+      "work_html_title": "<span class=\"work-title\">The Keeper of the Bees</span>",
+      "work_id": 111
+    },
+    {
+      "id": 126,
+      "slug": "laddie-1926",
+      "title": "Laddie",
+      "html_title": "<span class=\"film-title\">Laddie</span>",
+      "year": 1926,
+      "studio": "Gene Stratton Porter Productions",
+      "directors": "James Leo Meehan",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": true,
+      "work_title": "Laddie",
+      "work_html_title": "<span class=\"work-title\">Laddie</span>",
+      "work_id": 120
+    },
+    {
+      "id": 139,
+      "slug": "the-harvester-1927",
+      "title": "The Harvester",
+      "html_title": "<span class=\"film-title\">The Harvester</span>",
+      "year": 1927,
+      "studio": "Robertson-Cole",
+      "directors": "Leo Meehan",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": true,
+      "work_title": "The Harvester",
+      "work_html_title": "<span class=\"work-title\">The Harvester</span>",
+      "work_id": 132
+    },
+    {
+      "id": 137,
+      "slug": "the-magic-garden-1927",
+      "title": "The Magic Garden",
+      "html_title": "<span class=\"film-title\">The Magic Garden</span>",
+      "year": 1927,
+      "studio": "Gene Stratton Porter Productions",
+      "directors": "J. Leo Meehan",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": true,
+      "work_title": "The Magic Garden",
+      "work_html_title": "<span class=\"work-title\">The Magic Garden</span>",
+      "work_id": 131
+    },
+    {
+      "id": 150,
+      "slug": "freckles-1928",
+      "title": "Freckles",
+      "html_title": "<span class=\"film-title\">Freckles</span>",
+      "year": 1928,
+      "studio": "FBO",
+      "directors": "Leo Meehan",
+      "genres": [
+        "Melodrama",
+        "Northwest"
+      ],
+      "has_media": true,
+      "work_title": "Freckles",
+      "work_html_title": "<span class=\"work-title\">Freckles</span>",
+      "work_id": 19
+    },
+    {
+      "id": 207,
+      "slug": "a-girl-of-the-limberlost-1934",
+      "title": "A Girl of the Limberlost",
+      "html_title": "<span class=\"film-title\">A Girl of the Limberlost</span>",
+      "year": 1934,
+      "studio": "Monogram",
+      "directors": "Christy Cabanne",
+      "genres": [
+        "Drama",
+        "Rural"
+      ],
+      "has_media": true,
+      "work_title": "A Girl of the Limberlost",
+      "work_html_title": "<span class=\"work-title\">A Girl of the Limberlost</span>",
+      "work_id": 99
+    },
+    {
+      "id": 225,
+      "slug": "freckles-1935",
+      "title": "Freckles",
+      "html_title": "<span class=\"film-title\">Freckles</span>",
+      "year": 1935,
+      "studio": "RKO",
+      "directors": "Edward Killy|William Hamilton",
+      "genres": [
+        "Drama",
+        "Gangster",
+        "Rural",
+        "Youth"
+      ],
+      "has_media": false,
+      "work_title": "Freckles",
+      "work_html_title": "<span class=\"work-title\">Freckles</span>",
+      "work_id": 19
+    },
+    {
+      "id": 224,
+      "slug": "laddie-1935",
+      "title": "Laddie",
+      "html_title": "<span class=\"film-title\">Laddie</span>",
+      "year": 1935,
+      "studio": "RKO",
+      "directors": "George Stevens",
+      "genres": [
+        "Comedy-drama",
+        "Domestic",
+        "Historical",
+        "Rural"
+      ],
+      "has_media": true,
+      "work_title": "Laddie",
+      "work_html_title": "<span class=\"work-title\">Laddie</span>",
+      "work_id": 120
+    },
+    {
+      "id": 222,
+      "slug": "the-keeper-of-the-bees-1935",
+      "title": "The Keeper of the Bees",
+      "html_title": "<span class=\"film-title\">The Keeper of the Bees</span>",
+      "year": 1935,
+      "studio": "Monogram",
+      "directors": "Christy Cabanne",
+      "genres": [
+        "Melodrama",
+        "Rural"
+      ],
+      "has_media": true,
+      "work_title": "The Keeper of the Bees",
+      "work_html_title": "<span class=\"work-title\">The Keeper of the Bees</span>",
+      "work_id": 111
+    },
+    {
+      "id": 229,
+      "slug": "the-harvester-1936",
+      "title": "The Harvester",
+      "html_title": "<span class=\"film-title\">The Harvester</span>",
+      "year": 1936,
+      "studio": "Republic",
+      "directors": "Joseph Santley",
+      "genres": [
+        "Comedy-drama",
+        "Rural"
+      ],
+      "has_media": false,
+      "work_title": "The Harvester",
+      "work_html_title": "<span class=\"work-title\">The Harvester</span>",
+      "work_id": 132
+    },
+    {
+      "id": 239,
+      "slug": "michael-ohalloran-1937",
+      "title": "Michael O'Halloran",
+      "html_title": "<span class=\"film-title\">Michael O'Halloran</span>",
+      "year": 1937,
+      "studio": "Republic",
+      "directors": "Karl Brown",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Michael O'Halloran",
+      "work_html_title": "<span class=\"work-title\">Michael O'Halloran</span>",
+      "work_id": 91
+    },
+    {
+      "id": 246,
+      "slug": "romance-of-the-limberlost-1938",
+      "title": "Romance of the Limberlost",
+      "html_title": "<span class=\"film-title\">Romance of the Limberlost</span>",
+      "year": 1938,
+      "studio": "Monogram",
+      "directors": "William Nigh",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "A Girl of the Limberlost",
+      "work_html_title": "<span class=\"work-title\">A Girl of the Limberlost</span>",
+      "work_id": 99
+    },
+    {
+      "id": 256,
+      "slug": "her-first-romance-1940",
+      "title": "Her First Romance",
+      "html_title": "<span class=\"film-title\">Her First Romance</span>",
+      "year": 1940,
+      "studio": "Monogram",
+      "directors": "Edward Dmytryk",
+      "genres": [
+        "Drama",
+        "College"
+      ],
+      "has_media": false,
+      "work_title": "Her Father's Daughter",
+      "work_html_title": "<span class=\"work-title\">Her Father's Daughter</span>",
+      "work_id": 218
+    },
+    {
+      "id": 258,
+      "slug": "laddie-1940",
+      "title": "Laddie",
+      "html_title": "<span class=\"film-title\">Laddie</span>",
+      "year": 1940,
+      "studio": "RKO",
+      "directors": "Jack Hively",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": true,
+      "work_title": "Laddie",
+      "work_html_title": "<span class=\"work-title\">Laddie</span>",
+      "work_id": 120
+    },
+    {
+      "id": 279,
+      "slug": "the-girl-of-the-limberlost-1945",
+      "title": "The Girl of the Limberlost",
+      "html_title": "<span class=\"film-title\">The Girl of the Limberlost</span>",
+      "year": 1945,
+      "studio": "Columbia",
+      "directors": "Melchor Ferrer",
+      "genres": [
+        "Drama",
+        "Rural"
+      ],
+      "has_media": false,
+      "work_title": "A Girl of the Limberlost",
+      "work_html_title": "<span class=\"work-title\">A Girl of the Limberlost</span>",
+      "work_id": 99
+    },
+    {
+      "id": 287,
+      "slug": "keeper-of-the-bees-1947",
+      "title": "Keeper of the Bees",
+      "html_title": "<span class=\"film-title\">Keeper of the Bees</span>",
+      "year": 1947,
+      "studio": "Columbia",
+      "directors": "John Sturges",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Keeper of the Bees",
+      "work_html_title": "<span class=\"work-title\">The Keeper of the Bees</span>",
+      "work_id": 111
+    },
+    {
+      "id": 295,
+      "slug": "michael-ohalloran-1948",
+      "title": "Michael O'Halloran",
+      "html_title": "<span class=\"film-title\">Michael O'Halloran</span>",
+      "year": 1948,
+      "studio": "Monogram/Windsor Pictures Corp.",
+      "directors": "John Rawlins",
+      "genres": [
+        "Drama",
+        "Teenage"
+      ],
+      "has_media": false,
+      "work_title": "Michael O'Halloran",
+      "work_html_title": "<span class=\"work-title\">Michael O'Halloran</span>",
+      "work_id": 91
+    },
+    {
+      "id": 340,
+      "slug": "freckles-1960",
+      "title": "Freckles",
+      "html_title": "<span class=\"film-title\">Freckles</span>",
+      "year": 1960,
+      "studio": "20th Century Fox",
+      "directors": "Andrew V. McLaglen",
+      "genres": [
+        "Adventure",
+        "Rural",
+        "Youth"
+      ],
+      "has_media": false,
+      "work_title": "Freckles",
+      "work_html_title": "<span class=\"work-title\">Freckles</span>",
+      "work_id": 19
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 19,
+      "slug": "freckles",
+      "title": "Freckles",
+      "formatted_title": "Freckles",
+      "html_title": "<span class=\"work-title\">Freckles</span>",
+      "work_type": "novel",
+      "publication_year": 1904,
+      "genre": null,
+      "adaptation_count": 4,
+      "is_remake_champion": true
+    },
+    {
+      "id": 99,
+      "slug": "a-girl-of-the-limberlost",
+      "title": "A Girl of the Limberlost",
+      "formatted_title": "A Girl of the Limberlost",
+      "html_title": "<span class=\"work-title\">A Girl of the Limberlost</span>",
+      "work_type": "novel",
+      "publication_year": 1909,
+      "genre": null,
+      "adaptation_count": 4,
+      "is_remake_champion": true
+    },
+    {
+      "id": 91,
+      "slug": "michael-ohalloran",
+      "title": "Michael O'Halloran",
+      "formatted_title": "Michael O'Halloran",
+      "html_title": "<span class=\"work-title\">Michael O'Halloran</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "genre": null,
+      "adaptation_count": 3,
+      "is_remake_champion": false
+    },
+    {
+      "id": 111,
+      "slug": "the-keeper-of-the-bees",
+      "title": "The Keeper of the Bees",
+      "formatted_title": "The Keeper of the Bees",
+      "html_title": "<span class=\"work-title\">The Keeper of the Bees</span>",
+      "work_type": "novel",
+      "publication_year": 1925,
+      "genre": null,
+      "adaptation_count": 3,
+      "is_remake_champion": false
+    },
+    {
+      "id": 120,
+      "slug": "laddie",
+      "title": "Laddie",
+      "formatted_title": "Laddie",
+      "html_title": "<span class=\"work-title\">Laddie</span>",
+      "work_type": "novel",
+      "publication_year": 1913,
+      "genre": null,
+      "adaptation_count": 3,
+      "is_remake_champion": false
+    },
+    {
+      "id": 132,
+      "slug": "the-harvester",
+      "title": "The Harvester",
+      "formatted_title": "The Harvester",
+      "html_title": "<span class=\"work-title\">The Harvester</span>",
+      "work_type": "novel",
+      "publication_year": 1911,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 131,
+      "slug": "the-magic-garden",
+      "title": "The Magic Garden",
+      "formatted_title": "The Magic Garden",
+      "html_title": "<span class=\"work-title\">The Magic Garden</span>",
+      "work_type": "novel",
+      "publication_year": 1927,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 218,
+      "slug": "her-fathers-daughter",
+      "title": "Her Father's Daughter",
+      "formatted_title": "Her Father's Daughter",
+      "html_title": "<span class=\"work-title\">Her Father's Daughter</span>",
+      "work_type": "novel",
+      "publication_year": 1921,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 19,
+    "slug": "freckles",
+    "title": "Freckles",
+    "formatted_title": "Freckles",
+    "html_title": "<span class=\"work-title\">Freckles</span>",
+    "work_type": "novel",
+    "publication_year": 1904,
+    "genre": null,
+    "adaptation_count": 4,
+    "is_remake_champion": true
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:36:46.044195"
+}

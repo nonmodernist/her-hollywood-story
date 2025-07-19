@@ -1,0 +1,84 @@
+{
+  "id": 112,
+  "slug": "stella-dallas",
+  "title": "Stella Dallas",
+  "formatted_title": "Stella Dallas",
+  "html_title": "<span class=\"work-title\">Stella Dallas</span>",
+  "work_type": "novel",
+  "publication_year": 1923,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 45,
+    "slug": "olive-higgins-prouty",
+    "name": "Olive Higgins Prouty",
+    "birth_year": 1882,
+    "death_year": 1974,
+    "film_count": 3
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 12,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 12
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 117,
+      "slug": "stella-dallas-1925",
+      "title": "Stella Dallas",
+      "html_title": "<span class=\"film-title\">Stella Dallas</span>",
+      "year": 1925,
+      "studio": "Samuel Goldwyn Productions",
+      "directors": "Henry King",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 2
+    },
+    {
+      "id": 241,
+      "slug": "stella-dallas-1937",
+      "title": "Stella Dallas",
+      "html_title": "<span class=\"film-title\">Stella Dallas</span>",
+      "year": 1937,
+      "studio": "United Artists",
+      "directors": "King Vidor",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 14
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1925,
+      "to_year": 1937,
+      "gap_years": 12
+    }
+  ],
+  "photoplay_edition": {
+    "year": 1925,
+    "publisher": "Grosset & Dunlap",
+    "notes": "8 pictures",
+    "count": 0
+  },
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T17:02:06.585346"
+}

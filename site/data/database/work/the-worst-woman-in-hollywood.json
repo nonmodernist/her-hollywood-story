@@ -1,0 +1,59 @@
+{
+  "id": 108,
+  "slug": "the-worst-woman-in-hollywood",
+  "title": "\"The Worst Woman in Hollywood\"",
+  "formatted_title": "\"The Worst Woman in Hollywood\"",
+  "html_title": "<span class=\"work-title\">\"The Worst Woman in Hollywood\"</span>",
+  "work_type": "novel",
+  "publication_year": 1924,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 43,
+    "slug": "adela-rogers-st-johns",
+    "name": "Adela Rogers St. Johns",
+    "birth_year": 1894,
+    "death_year": 1988,
+    "film_count": 12
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 0,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 113,
+      "slug": "inez-from-hollywood-1924",
+      "title": "Inez From Hollywood",
+      "html_title": "<span class=\"film-title\">Inez From Hollywood</span>",
+      "year": 1924,
+      "studio": "Sam E. Rork Productions",
+      "directors": "Alfred E. Green",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 0
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:48:03.914138"
+}

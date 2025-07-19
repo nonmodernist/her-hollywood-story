@@ -1,0 +1,83 @@
+{
+  "id": 91,
+  "slug": "mary-bard",
+  "name": "Mary Bard",
+  "birth_year": 1904,
+  "death_year": 1970,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in Montana. Occupations: children's writer, writer",
+  "author_notes": null,
+  "wikidata_id": "Q12035944",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1950,
+    "last_adaptation": 1950,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 303,
+      "slug": "mother-didnt-tell-me-1950",
+      "title": "Mother Didn't Tell Me",
+      "html_title": "<span class=\"film-title\">Mother Didn't Tell Me</span>",
+      "year": 1950,
+      "studio": "20th Century Fox",
+      "directors": "Claude Binyon",
+      "genres": [
+        "Comedy-drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "The Doctor Wears Three Faces",
+      "work_html_title": "<span class=\"work-title\">The Doctor Wears Three Faces</span>",
+      "work_id": 253
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 253,
+      "slug": "the-doctor-wears-three-faces",
+      "title": "The Doctor Wears Three Faces",
+      "formatted_title": "The Doctor Wears Three Faces",
+      "html_title": "<span class=\"work-title\">The Doctor Wears Three Faces</span>",
+      "work_type": "novel",
+      "publication_year": 1949,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 253,
+    "slug": "the-doctor-wears-three-faces",
+    "title": "The Doctor Wears Three Faces",
+    "formatted_title": "The Doctor Wears Three Faces",
+    "html_title": "<span class=\"work-title\">The Doctor Wears Three Faces</span>",
+    "work_type": "novel",
+    "publication_year": 1949,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:27.653371"
+}

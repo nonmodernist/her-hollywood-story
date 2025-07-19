@@ -1,0 +1,86 @@
+{
+  "id": 263,
+  "slug": "back-street-1941",
+  "title": "Back Street",
+  "formatted_title": "Back Street",
+  "html_title": "<span class=\"film-title\">Back Street</span>",
+  "release_year": 1941,
+  "runtime_minutes": null,
+  "country_of_production": null,
+  "genres": [
+    "Melodrama"
+  ],
+  "studio": "Universal",
+  "production_companies": "Universal Pictures Company, Inc.",
+  "distribution_companies": "Universal Pictures Company, Inc.",
+  "directors": "Robert Stevenson",
+  "writers": "Bruce Manning|Felix Jackson",
+  "cast_members": "Charles Boyer|Margaret Sullavan|Richard Carlson|Frank McHugh|Tim Holt|Frank Jenks|Esther Dale|Samuel S. Hinds|Peggy Stewart|Nell O'Day",
+  "color_info": null,
+  "adaptation_notes": null,
+  "afi_catalog_id": 26603,
+  "source_work": {
+    "id": 185,
+    "slug": "back-street",
+    "title": "Back Street",
+    "formatted_title": "Back Street",
+    "html_title": "<span class=\"work-title\">Back Street</span>",
+    "work_type": "novel",
+    "publication_year": 1931,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 4,
+    "year_to_adaptation": 10
+  },
+  "author": {
+    "id": 25,
+    "slug": "fannie-hurst",
+    "name": "Fannie Hurst",
+    "birth_year": 1889,
+    "death_year": 1968,
+    "nationality": "United States",
+    "film_count": 27
+  },
+  "other_adaptations": [
+    {
+      "id": 202,
+      "slug": "back-street-1932",
+      "title": "Back Street",
+      "html_title": "<span class=\"film-title\">Back Street</span>",
+      "year": 1932,
+      "directors": "John M. Stahl",
+      "studio": "Universal"
+    },
+    {
+      "id": 296,
+      "slug": "back-street-1948",
+      "title": "Back Street",
+      "html_title": "<span class=\"film-title\">Back Street</span>",
+      "year": 1948,
+      "directors": "Esther Eng",
+      "studio": "Silver Light"
+    },
+    {
+      "id": 341,
+      "slug": "back-street-1961",
+      "title": "Back Street",
+      "html_title": "<span class=\"film-title\">Back Street</span>",
+      "year": 1961,
+      "directors": "David Miller",
+      "studio": "Universal-International"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 4,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": false
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

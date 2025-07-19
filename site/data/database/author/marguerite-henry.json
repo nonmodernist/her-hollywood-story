@@ -1,0 +1,78 @@
+{
+  "id": 260,
+  "slug": "marguerite-henry",
+  "name": "Marguerite Henry",
+  "birth_year": 1902,
+  "death_year": 1997,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in Milwaukee. Died in San Diego. Occupations: writer, novelist, children's writer. Notable works: Brighty of the Grand Canyon, Misty of Chincoteague, King of the Wind",
+  "author_notes": null,
+  "wikidata_id": "Q6760787",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1961,
+    "last_adaptation": 1961,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1960": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 636,
+      "slug": "misty-1961",
+      "title": "Misty",
+      "html_title": "<span class=\"film-title\">Misty</span>",
+      "year": 1961,
+      "studio": "20th Century Fox",
+      "directors": "James B. Clark",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Misty of Chincoteague",
+      "work_html_title": "<span class=\"work-title\">Misty of Chincoteague</span>",
+      "work_id": 559
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 559,
+      "slug": "misty-of-chincoteague",
+      "title": "Misty of Chincoteague",
+      "formatted_title": "Misty of Chincoteague",
+      "html_title": "<span class=\"work-title\">Misty of Chincoteague</span>",
+      "work_type": "novel",
+      "publication_year": 1947,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 559,
+    "slug": "misty-of-chincoteague",
+    "title": "Misty of Chincoteague",
+    "formatted_title": "Misty of Chincoteague",
+    "html_title": "<span class=\"work-title\">Misty of Chincoteague</span>",
+    "work_type": "novel",
+    "publication_year": 1947,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:23:10.463908"
+}

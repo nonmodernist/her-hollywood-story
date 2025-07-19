@@ -1,0 +1,29 @@
+{
+  "version": "2.0",
+  "buildDate": "2025-07-19T17:11:49.390Z",
+  "stats": {
+    "films": 1122,
+    "authors": 502,
+    "works": 1006,
+    "media": 1290,
+    "yearsSpanned": "1910-1963"
+  },
+  "patterns": {
+    "twentyTimers": 5,
+    "speedDemons": 219,
+    "remakeChampions": 13
+  },
+  "files": {
+    "database": "data/database/enhanced-database.json",
+    "indexes": [
+      "data/database/films-index.json",
+      "data/database/authors-index.json",
+      "data/database/works-index.json"
+    ],
+    "patterns": [
+      "data/patterns/twenty-timers.json",
+      "data/patterns/speed-demons.json",
+      "data/patterns/remake-champions.json"
+    ]
+  }
+}

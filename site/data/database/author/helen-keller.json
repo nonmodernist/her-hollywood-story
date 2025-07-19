@@ -1,0 +1,78 @@
+{
+  "id": 294,
+  "slug": "helen-keller",
+  "name": "Helen Keller",
+  "birth_year": 1880,
+  "death_year": 1968,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "Deafblind author, political activist, lecturer, scholar",
+  "author_notes": null,
+  "wikidata_id": "Q113307877",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1962,
+    "last_adaptation": 1962,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Biography",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1960": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 697,
+      "slug": "the-miracle-worker-1962",
+      "title": "The Miracle Worker",
+      "html_title": "<span class=\"film-title\">The Miracle Worker</span>",
+      "year": 1962,
+      "studio": "Playfilms Productions",
+      "directors": "Arthur Penn",
+      "genres": [
+        "Biography"
+      ],
+      "has_media": false,
+      "work_title": "The Story of My Life",
+      "work_html_title": "<span class=\"work-title\">The Story of My Life</span>",
+      "work_id": 613
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 613,
+      "slug": "the-story-of-my-life",
+      "title": "The Story of My Life",
+      "formatted_title": "The Story of My Life",
+      "html_title": "<span class=\"work-title\">The Story of My Life</span>",
+      "work_type": "novel",
+      "publication_year": 1904,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 613,
+    "slug": "the-story-of-my-life",
+    "title": "The Story of My Life",
+    "formatted_title": "The Story of My Life",
+    "html_title": "<span class=\"work-title\">The Story of My Life</span>",
+    "work_type": "novel",
+    "publication_year": 1904,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:38:09.979746"
+}

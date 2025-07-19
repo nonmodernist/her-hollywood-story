@@ -1,0 +1,83 @@
+{
+  "id": 277,
+  "slug": "cecilia-viets-jamison",
+  "name": "Cecilia Viets Jamison",
+  "birth_year": 1837,
+  "death_year": 1909,
+  "nationality": "Canada",
+  "literary_movement": null,
+  "biographical_notes": "Canadian writer (1837–1909). Born in Yarmouth. Died in Boston. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q4160150",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1936,
+    "last_adaptation": 1936,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Musical",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 663,
+      "slug": "rainbow-on-the-river-1936",
+      "title": "Rainbow On the River",
+      "html_title": "<span class=\"film-title\">Rainbow On the River</span>",
+      "year": 1936,
+      "studio": "Bobby Breen Productions",
+      "directors": "Kurt Neumann",
+      "genres": [
+        "Musical",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "Toinett's Philip",
+      "work_html_title": "<span class=\"work-title\">Toinett's Philip</span>",
+      "work_id": 581
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 581,
+      "slug": "toinetts-philip",
+      "title": "Toinett's Philip",
+      "formatted_title": "Toinett's Philip",
+      "html_title": "<span class=\"work-title\">Toinett's Philip</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 581,
+    "slug": "toinetts-philip",
+    "title": "Toinett's Philip",
+    "formatted_title": "Toinett's Philip",
+    "html_title": "<span class=\"work-title\">Toinett's Philip</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-06T14:48:29.512678"
+}

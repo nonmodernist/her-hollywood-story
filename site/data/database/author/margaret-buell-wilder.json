@@ -1,0 +1,88 @@
+{
+  "id": 494,
+  "slug": "margaret-buell-wilder",
+  "name": "Margaret Buell Wilder",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1944,
+    "last_adaptation": 1944,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Homefront",
+        "count": 1
+      },
+      {
+        "genre": "World War II",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1085,
+      "slug": "since-you-went-away-1944",
+      "title": "Since You Went Away",
+      "html_title": "<span class=\"film-title\">Since You Went Away</span>",
+      "year": 1944,
+      "studio": "Selznick International",
+      "directors": "John Cromwell|Tay Garnett|Eddie Cline",
+      "genres": [
+        "Drama",
+        "Homefront",
+        "World War II"
+      ],
+      "has_media": false,
+      "work_title": "Together",
+      "work_html_title": "<span class=\"work-title\">Together</span>",
+      "work_id": 973
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 973,
+      "slug": "together",
+      "title": "Together",
+      "formatted_title": "Together",
+      "html_title": "<span class=\"work-title\">Together</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 973,
+    "slug": "together",
+    "title": "Together",
+    "formatted_title": "Together",
+    "html_title": "<span class=\"work-title\">Together</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:53:32.292162"
+}

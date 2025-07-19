@@ -1,0 +1,121 @@
+{
+  "id": 199,
+  "slug": "beulah-marie-dix",
+  "name": "Beulah Marie Dix",
+  "birth_year": 1876,
+  "death_year": 1970,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American screenwriter, children's book author (1876-1970). Born in Kingston. Died in Woodland Hills. Occupations: screenwriter, writer, children's writer, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q3639218",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1919,
+    "last_adaptation": 1923,
+    "year_span": 4,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Rural",
+        "count": 1
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 520,
+      "slug": "the-heart-of-youth-1919",
+      "title": "The Heart of Youth",
+      "html_title": "<span class=\"film-title\">The Heart of Youth</span>",
+      "year": 1919,
+      "studio": "Famous Players-Lasky",
+      "directors": "Robert G. Vignola",
+      "genres": [
+        "Comedy-drama",
+        "Rural"
+      ],
+      "has_media": true,
+      "work_title": "Friends in the End",
+      "work_html_title": "<span class=\"work-title\">Friends in the End</span>",
+      "work_id": 450
+    },
+    {
+      "id": 519,
+      "slug": "the-fighting-blade-1923",
+      "title": "The Fighting Blade",
+      "html_title": "<span class=\"film-title\">The Fighting Blade</span>",
+      "year": 1923,
+      "studio": "Inspiration Pictures ",
+      "directors": "John S. Robertson",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": true,
+      "work_title": "The Fighting Blade",
+      "work_html_title": "<span class=\"work-title\">The Fighting Blade</span>",
+      "work_id": 449
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 450,
+      "slug": "friends-in-the-end",
+      "title": "Friends in the End",
+      "formatted_title": "Friends in the End",
+      "html_title": "<span class=\"work-title\">Friends in the End</span>",
+      "work_type": "novel",
+      "publication_year": 1911,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 449,
+      "slug": "the-fighting-blade",
+      "title": "The Fighting Blade",
+      "formatted_title": "The Fighting Blade",
+      "html_title": "<span class=\"work-title\">The Fighting Blade</span>",
+      "work_type": "novel",
+      "publication_year": 1912,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 450,
+    "slug": "friends-in-the-end",
+    "title": "Friends in the End",
+    "formatted_title": "Friends in the End",
+    "html_title": "<span class=\"work-title\">Friends in the End</span>",
+    "work_type": "novel",
+    "publication_year": 1911,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T01:12:29.087229"
+}

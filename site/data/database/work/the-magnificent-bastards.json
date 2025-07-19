@@ -1,0 +1,60 @@
+{
+  "id": 414,
+  "slug": "the-magnificent-bastards",
+  "title": "The Magnificent Bastards",
+  "formatted_title": "The Magnificent Bastards",
+  "html_title": "<span class=\"work-title\">The Magnificent Bastards</span>",
+  "work_type": "novel",
+  "publication_year": 1954,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 179,
+    "slug": "lucy-herndon-crockett",
+    "name": "Lucy Herndon Crockett",
+    "birth_year": 1914,
+    "death_year": 2002,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 482,
+      "slug": "the-proud-and-profane-1956",
+      "title": "The Proud and Profane",
+      "html_title": "<span class=\"film-title\">The Proud and Profane</span>",
+      "year": 1956,
+      "studio": "Paramount",
+      "directors": "George Seaton",
+      "genres": [
+        "Melodrama",
+        "World War II"
+      ],
+      "has_media": false,
+      "years_after_publication": 2
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T21:02:59.731211"
+}

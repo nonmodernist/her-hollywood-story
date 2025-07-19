@@ -1,0 +1,79 @@
+{
+  "id": 951,
+  "slug": "footlights",
+  "title": "Footlights",
+  "formatted_title": "Footlights",
+  "html_title": "<span class=\"work-title\">Footlights</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 487,
+    "slug": "rita-weiman",
+    "name": "Rita Weiman",
+    "birth_year": 1885,
+    "death_year": 1954,
+    "film_count": 11
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 6,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 6
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1059,
+      "slug": "footlights-1921",
+      "title": "Footlights",
+      "html_title": "<span class=\"film-title\">Footlights</span>",
+      "year": 1921,
+      "studio": "Famous Players-Lasky",
+      "directors": "John S. Robertson",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 1921
+    },
+    {
+      "id": 1060,
+      "slug": "the-spotlight-1927",
+      "title": "The Spotlight",
+      "html_title": "<span class=\"film-title\">The Spotlight</span>",
+      "year": 1927,
+      "studio": "Paramount",
+      "directors": "Frank Tuttle",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "years_after_publication": 1927
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1921,
+      "to_year": 1927,
+      "gap_years": 6
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T20:02:16.109624"
+}

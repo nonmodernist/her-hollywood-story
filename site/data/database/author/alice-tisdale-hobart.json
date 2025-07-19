@@ -1,0 +1,142 @@
+{
+  "id": 266,
+  "slug": "alice-tisdale-hobart",
+  "name": "Alice Tisdale Hobart",
+  "birth_year": 1882,
+  "death_year": 1967,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1882-1967). Born in Lockport. Occupations: writer, historian, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q1594680",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 2,
+    "first_adaptation": 1935,
+    "last_adaptation": 1959,
+    "year_span": 24,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Romance",
+        "count": 1
+      },
+      {
+        "genre": "Jungle",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1,
+      "1940": 1,
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 643,
+      "slug": "oil-for-the-lamps-of-china-1935",
+      "title": "Oil for the Lamps of China",
+      "html_title": "<span class=\"film-title\">Oil for the Lamps of China</span>",
+      "year": 1935,
+      "studio": "First National",
+      "directors": "Mervyn LeRoy",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Oil for the Lamps of China",
+      "work_html_title": "<span class=\"work-title\">Oil for the Lamps of China</span>",
+      "work_id": 566
+    },
+    {
+      "id": 644,
+      "slug": "law-of-the-tropics-1941",
+      "title": "Law of the Tropics",
+      "html_title": "<span class=\"film-title\">Law of the Tropics</span>",
+      "year": 1941,
+      "studio": "Warner Bros",
+      "directors": "Ray Enright",
+      "genres": [
+        "Romance",
+        "Jungle"
+      ],
+      "has_media": false,
+      "work_title": "Oil for the Lamps of China",
+      "work_html_title": "<span class=\"work-title\">Oil for the Lamps of China</span>",
+      "work_id": 566
+    },
+    {
+      "id": 642,
+      "slug": "this-earth-is-mine-1959",
+      "title": "This Earth is Mine",
+      "html_title": "<span class=\"film-title\">This Earth is Mine</span>",
+      "year": 1959,
+      "studio": "Universal-International",
+      "directors": "Henry King",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "The Cup and the Sword",
+      "work_html_title": "<span class=\"work-title\">The Cup and the Sword</span>",
+      "work_id": 565
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 566,
+      "slug": "oil-for-the-lamps-of-china",
+      "title": "Oil for the Lamps of China",
+      "formatted_title": "Oil for the Lamps of China",
+      "html_title": "<span class=\"work-title\">Oil for the Lamps of China</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 565,
+      "slug": "the-cup-and-the-sword",
+      "title": "The Cup and the Sword",
+      "formatted_title": "The Cup and the Sword",
+      "html_title": "<span class=\"work-title\">The Cup and the Sword</span>",
+      "work_type": "novel",
+      "publication_year": 1942,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 566,
+    "slug": "oil-for-the-lamps-of-china",
+    "title": "Oil for the Lamps of China",
+    "formatted_title": "Oil for the Lamps of China",
+    "html_title": "<span class=\"work-title\">Oil for the Lamps of China</span>",
+    "work_type": "novel",
+    "publication_year": 1933,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:23:18.316486"
+}

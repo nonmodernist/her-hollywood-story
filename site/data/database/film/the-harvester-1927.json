@@ -1,0 +1,83 @@
+{
+  "id": 139,
+  "slug": "the-harvester-1927",
+  "title": "The Harvester",
+  "formatted_title": "The Harvester",
+  "html_title": "<span class=\"film-title\">The Harvester</span>",
+  "release_year": 1927,
+  "runtime_minutes": null,
+  "country_of_production": null,
+  "genres": [
+    "Melodrama",
+    "Domestic"
+  ],
+  "studio": "Robertson-Cole",
+  "production_companies": "R-C Pictures Corp.",
+  "distribution_companies": "Film Booking Offices of America ",
+  "directors": "Leo Meehan",
+  "writers": "Dorothy Yost",
+  "cast_members": "Orville Caldwell|Natalie Kingston|William Walling|Jay Hunt|Lola Todd|Edward Hearn|Fanny Midgley",
+  "color_info": null,
+  "adaptation_notes": null,
+  "afi_catalog_id": 9579,
+  "source_work": {
+    "id": 132,
+    "slug": "the-harvester",
+    "title": "The Harvester",
+    "formatted_title": "The Harvester",
+    "html_title": "<span class=\"work-title\">The Harvester</span>",
+    "work_type": "novel",
+    "publication_year": 1911,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 16
+  },
+  "author": {
+    "id": 12,
+    "slug": "gene-stratton-porter",
+    "name": "Gene Stratton-Porter",
+    "birth_year": 1863,
+    "death_year": 1924,
+    "nationality": "United States",
+    "film_count": 21
+  },
+  "other_adaptations": [
+    {
+      "id": 229,
+      "slug": "the-harvester-1936",
+      "title": "The Harvester",
+      "html_title": "<span class=\"film-title\">The Harvester</span>",
+      "year": 1936,
+      "directors": "Joseph Santley",
+      "studio": "Republic"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 1,
+    "is_first": true,
+    "is_latest": false
+  },
+  "media": [
+    {
+      "id": 514,
+      "media_type": "still",
+      "title": "The Harvester (1927 film).jpg",
+      "caption": "Scene from the American film The Harvester (1927)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_Harvester_%281927_film%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Harvester_%281927_film%29.jpg/300px-The_Harvester_%281927_film%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Harvester_(1927_film).jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

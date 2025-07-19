@@ -1,0 +1,181 @@
+{
+  "id": 364,
+  "slug": "margaret-prescott-montague",
+  "name": "Margaret Prescott Montague",
+  "birth_year": 1878,
+  "death_year": 1955,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in White Sulphur Springs. Died in Richmond. Occupations: novelist",
+  "author_notes": null,
+  "wikidata_id": "Q12795675",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 4,
+    "first_adaptation": 1920,
+    "last_adaptation": 1929,
+    "year_span": 9,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Melodrama",
+        "count": 2
+      },
+      {
+        "genre": "Rural",
+        "count": 1
+      },
+      {
+        "genre": "World War I",
+        "count": 1
+      },
+      {
+        "genre": "Mystery",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 4
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 818,
+      "slug": "seeds-of-vengeance-1920",
+      "title": "Seeds of Vengeance",
+      "html_title": "<span class=\"film-title\">Seeds of Vengeance</span>",
+      "year": 1920,
+      "studio": "C. R. Macauley Photoplays",
+      "directors": "Ollie L. Sellers",
+      "genres": [
+        "Drama",
+        "Rural"
+      ],
+      "has_media": false,
+      "work_title": "The Sowing of Alderson Cree",
+      "work_html_title": "<span class=\"work-title\">The Sowing of Alderson Cree</span>",
+      "work_id": 724
+    },
+    {
+      "id": 819,
+      "slug": "uncle-sam-of-freedom-ridge-1920",
+      "title": "Uncle Sam of Freedom Ridge",
+      "html_title": "<span class=\"film-title\">Uncle Sam of Freedom Ridge</span>",
+      "year": 1920,
+      "studio": "Harry Levey Productions",
+      "directors": "George A. Beranger",
+      "genres": [
+        "Drama",
+        "World War I"
+      ],
+      "has_media": false,
+      "work_title": "Uncle Sam of Freedom Ridge",
+      "work_html_title": "<span class=\"work-title\">Uncle Sam of Freedom Ridge</span>",
+      "work_id": 725
+    },
+    {
+      "id": 817,
+      "slug": "calverts-valley-1922",
+      "title": "Calvert's Valley",
+      "html_title": "<span class=\"film-title\">Calvert's Valley</span>",
+      "year": 1922,
+      "studio": "Fox Film",
+      "directors": "Jack Dillon",
+      "genres": [
+        "Melodrama",
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "In Calvert's Valley",
+      "work_html_title": "<span class=\"work-title\">In Calvert's Valley</span>",
+      "work_id": 723
+    },
+    {
+      "id": 816,
+      "slug": "linda-1929",
+      "title": "Linda",
+      "html_title": "<span class=\"film-title\">Linda</span>",
+      "year": 1929,
+      "studio": "Mrs. Wallace Reid Productions",
+      "directors": "Mrs. Wallace Reid",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Linda",
+      "work_html_title": "<span class=\"work-title\">Linda</span>",
+      "work_id": 722
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 724,
+      "slug": "the-sowing-of-alderson-cree",
+      "title": "The Sowing of Alderson Cree",
+      "formatted_title": "The Sowing of Alderson Cree",
+      "html_title": "<span class=\"work-title\">The Sowing of Alderson Cree</span>",
+      "work_type": "novel",
+      "publication_year": 1907,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 725,
+      "slug": "uncle-sam-of-freedom-ridge",
+      "title": "Uncle Sam of Freedom Ridge",
+      "formatted_title": "Uncle Sam of Freedom Ridge",
+      "html_title": "<span class=\"work-title\">Uncle Sam of Freedom Ridge</span>",
+      "work_type": "novel",
+      "publication_year": 1920,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 723,
+      "slug": "in-calverts-valley",
+      "title": "In Calvert's Valley",
+      "formatted_title": "In Calvert's Valley",
+      "html_title": "<span class=\"work-title\">In Calvert's Valley</span>",
+      "work_type": "novel",
+      "publication_year": 1908,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 722,
+      "slug": "linda",
+      "title": "Linda",
+      "formatted_title": "Linda",
+      "html_title": "<span class=\"work-title\">Linda</span>",
+      "work_type": "novel",
+      "publication_year": 1912,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 724,
+    "slug": "the-sowing-of-alderson-cree",
+    "title": "The Sowing of Alderson Cree",
+    "formatted_title": "The Sowing of Alderson Cree",
+    "html_title": "<span class=\"work-title\">The Sowing of Alderson Cree</span>",
+    "work_type": "novel",
+    "publication_year": 1907,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:57:26.559534"
+}

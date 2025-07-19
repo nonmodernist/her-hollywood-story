@@ -1,0 +1,61 @@
+{
+  "id": 518,
+  "slug": "trial-by-terror",
+  "title": "Trial by Terror",
+  "formatted_title": "Trial by Terror",
+  "html_title": "<span class=\"work-title\">Trial by Terror</span>",
+  "work_type": "novel",
+  "publication_year": 1952,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": "co-writer Paul Gallico",
+  "author": {
+    "id": 232,
+    "slug": "pauline-gallico",
+    "name": "Pauline Gallico",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 0,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 591,
+      "slug": "assignment-paris-1952",
+      "title": "Assignment--Paris",
+      "html_title": "<span class=\"film-title\">Assignment--Paris</span>",
+      "year": 1952,
+      "studio": "Columbia",
+      "directors": "Robert Parrish",
+      "genres": [
+        "Drama",
+        "Cold War",
+        "Espionage"
+      ],
+      "has_media": false,
+      "years_after_publication": 0
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T14:13:35.251281"
+}

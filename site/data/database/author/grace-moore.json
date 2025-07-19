@@ -1,0 +1,83 @@
+{
+  "id": 365,
+  "slug": "grace-moore",
+  "name": "Grace Moore",
+  "birth_year": 1898,
+  "death_year": 1947,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": "Q253757",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1953,
+    "last_adaptation": 1953,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Musical",
+        "count": 1
+      },
+      {
+        "genre": "Show business",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 820,
+      "slug": "so-this-is-love-1953",
+      "title": "So This is Love",
+      "html_title": "<span class=\"film-title\">So This is Love</span>",
+      "year": 1953,
+      "studio": "Warner Bros",
+      "directors": "Gordon Douglas",
+      "genres": [
+        "Musical",
+        "Show business"
+      ],
+      "has_media": false,
+      "work_title": "You're Only Human Once",
+      "work_html_title": "<span class=\"work-title\">You're Only Human Once</span>",
+      "work_id": 726
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 726,
+      "slug": "youre-only-human-once",
+      "title": "You're Only Human Once",
+      "formatted_title": "You're Only Human Once",
+      "html_title": "<span class=\"work-title\">You're Only Human Once</span>",
+      "work_type": "novel",
+      "publication_year": 1944,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 726,
+    "slug": "youre-only-human-once",
+    "title": "You're Only Human Once",
+    "formatted_title": "You're Only Human Once",
+    "html_title": "<span class=\"work-title\">You're Only Human Once</span>",
+    "work_type": "novel",
+    "publication_year": 1944,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T18:32:57.466747"
+}

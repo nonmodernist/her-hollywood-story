@@ -1,0 +1,83 @@
+{
+  "id": 333,
+  "slug": "louise-kennedy-mabie",
+  "name": "Louise Kennedy Mabie",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1920,
+    "last_adaptation": 1920,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 758,
+      "slug": "wings-of-pride-1920",
+      "title": "Wings of Pride",
+      "html_title": "<span class=\"film-title\">Wings of Pride</span>",
+      "year": 1920,
+      "studio": "Jans Pictures",
+      "directors": "B. A. Rolfe",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "Wings of Pride",
+      "work_html_title": "<span class=\"work-title\">Wings of Pride</span>",
+      "work_id": 673
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 673,
+      "slug": "wings-of-pride",
+      "title": "Wings of Pride",
+      "formatted_title": "Wings of Pride",
+      "html_title": "<span class=\"work-title\">Wings of Pride</span>",
+      "work_type": "novel",
+      "publication_year": 1913,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 673,
+    "slug": "wings-of-pride",
+    "title": "Wings of Pride",
+    "formatted_title": "Wings of Pride",
+    "html_title": "<span class=\"work-title\">Wings of Pride</span>",
+    "work_type": "novel",
+    "publication_year": 1913,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:18:42.615814"
+}

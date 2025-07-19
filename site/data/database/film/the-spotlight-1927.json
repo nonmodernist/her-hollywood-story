@@ -1,0 +1,68 @@
+{
+  "id": 1060,
+  "slug": "the-spotlight-1927",
+  "title": "The Spotlight",
+  "formatted_title": "The Spotlight",
+  "html_title": "<span class=\"film-title\">The Spotlight</span>",
+  "release_year": 1927,
+  "runtime_minutes": null,
+  "country_of_production": "United States",
+  "genres": [
+    "Romance"
+  ],
+  "studio": "Paramount",
+  "production_companies": "Paramount Famous Lasky Corp.",
+  "distribution_companies": "Paramount Famous Lasky Corp.",
+  "directors": "Frank Tuttle",
+  "writers": "Hope Loring",
+  "cast_members": "Esther Ralston|Neil Hamilton|Nicholas Soussanin|Arlette Marchal|Arthur Housman",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 12371,
+  "source_work": {
+    "id": 951,
+    "slug": "footlights",
+    "title": "Footlights",
+    "formatted_title": "Footlights",
+    "html_title": "<span class=\"work-title\">Footlights</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 1927
+  },
+  "author": {
+    "id": 487,
+    "slug": "rita-weiman",
+    "name": "Rita Weiman",
+    "birth_year": 1885,
+    "death_year": 1954,
+    "nationality": null,
+    "film_count": 11
+  },
+  "other_adaptations": [
+    {
+      "id": 1059,
+      "slug": "footlights-1921",
+      "title": "Footlights",
+      "html_title": "<span class=\"film-title\">Footlights</span>",
+      "year": 1921,
+      "directors": "John S. Robertson",
+      "studio": "Famous Players-Lasky"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

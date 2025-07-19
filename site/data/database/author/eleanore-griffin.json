@@ -1,0 +1,83 @@
+{
+  "id": 246,
+  "slug": "eleanore-griffin",
+  "name": "Eleanore Griffin",
+  "birth_year": 1904,
+  "death_year": 1995,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American screenwriter (1904-1995). Born in Saint Paul. Died in Woodland Hills. Occupations: screenwriter",
+  "author_notes": null,
+  "wikidata_id": "Q1325753",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1937,
+    "last_adaptation": 1937,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Musical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 618,
+      "slug": "when-love-is-young-1937",
+      "title": "When Love is Young",
+      "html_title": "<span class=\"film-title\">When Love is Young</span>",
+      "year": 1937,
+      "studio": "Universal",
+      "directors": "Hal Mohr",
+      "genres": [
+        "Comedy-drama",
+        "Musical"
+      ],
+      "has_media": false,
+      "work_title": "Class Prophecy",
+      "work_html_title": "<span class=\"work-title\">Class Prophecy</span>",
+      "work_id": 541
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 541,
+      "slug": "class-prophecy",
+      "title": "Class Prophecy",
+      "formatted_title": "Class Prophecy",
+      "html_title": "<span class=\"work-title\">Class Prophecy</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 541,
+    "slug": "class-prophecy",
+    "title": "Class Prophecy",
+    "formatted_title": "Class Prophecy",
+    "html_title": "<span class=\"work-title\">Class Prophecy</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-04T03:29:28.265818"
+}

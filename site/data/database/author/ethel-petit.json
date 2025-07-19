@@ -1,0 +1,78 @@
+{
+  "id": 394,
+  "slug": "ethel-petit",
+  "name": "Ethel Petit",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": "aka Mrs. Arthur Somers Roche",
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1932,
+    "last_adaptation": 1932,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 875,
+      "slug": "the-rich-are-always-with-us-1932",
+      "title": "The Rich are Always With Us",
+      "html_title": "<span class=\"film-title\">The Rich are Always With Us</span>",
+      "year": 1932,
+      "studio": "First National",
+      "directors": "Alfred Green",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "The Rich are Always With Us",
+      "work_html_title": "<span class=\"work-title\">The Rich are Always With Us</span>",
+      "work_id": 784
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 784,
+      "slug": "the-rich-are-always-with-us",
+      "title": "The Rich are Always With Us",
+      "formatted_title": "The Rich are Always With Us",
+      "html_title": "<span class=\"work-title\">The Rich are Always With Us</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 784,
+    "slug": "the-rich-are-always-with-us",
+    "title": "The Rich are Always With Us",
+    "formatted_title": "The Rich are Always With Us",
+    "html_title": "<span class=\"work-title\">The Rich are Always With Us</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T17:57:33.053183"
+}

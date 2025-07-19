@@ -1,0 +1,83 @@
+{
+  "id": 258,
+  "slug": "lillian-hellman",
+  "name": "Lillian Hellman",
+  "birth_year": 1905,
+  "death_year": 1984,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American dramatist and screenwriter (1905-1984). Born in New Orleans. Died in Dukes County. Occupations: writer, screenwriter, autobiographer, actor, playwright, librettist",
+  "author_notes": null,
+  "wikidata_id": "Q233701",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1943,
+    "last_adaptation": 1943,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "World War II",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 633,
+      "slug": "the-north-star-1943",
+      "title": "The North Star",
+      "html_title": "<span class=\"film-title\">The North Star</span>",
+      "year": 1943,
+      "studio": "Samuel Goldwyn Productions",
+      "directors": "Lewis Milestone",
+      "genres": [
+        "Drama",
+        "World War II"
+      ],
+      "has_media": true,
+      "work_title": "North Star",
+      "work_html_title": "<span class=\"work-title\">North Star</span>",
+      "work_id": 556
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 556,
+      "slug": "north-star",
+      "title": "North Star",
+      "formatted_title": "North Star",
+      "html_title": "<span class=\"work-title\">North Star</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 556,
+    "slug": "north-star",
+    "title": "North Star",
+    "formatted_title": "North Star",
+    "html_title": "<span class=\"work-title\">North Star</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:23:08.655219"
+}

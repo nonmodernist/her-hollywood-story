@@ -1,0 +1,141 @@
+{
+  "id": 10,
+  "slug": "caroline-lockhart",
+  "name": "Caroline Lockhart",
+  "birth_year": 1871,
+  "death_year": 1962,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": "Q96000546",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1916,
+    "last_adaptation": 1930,
+    "year_span": 14,
+    "top_genres": [
+      {
+        "genre": "Western",
+        "count": 3
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1920": 1,
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 19,
+      "slug": "the-man-from-bitter-roots-1916",
+      "title": "The Man from Bitter Roots",
+      "html_title": "<span class=\"film-title\">The Man from Bitter Roots</span>",
+      "year": 1916,
+      "studio": "Fox Film",
+      "directors": "Oscar C. Apfel",
+      "genres": [
+        "Western"
+      ],
+      "has_media": true,
+      "work_title": "The Man from the Bitter Roots",
+      "work_html_title": "<span class=\"work-title\">The Man from the Bitter Roots</span>",
+      "work_id": 17
+    },
+    {
+      "id": 73,
+      "slug": "the-fighting-shepherdess-1920",
+      "title": "The Fighting Shepherdess",
+      "html_title": "<span class=\"film-title\">The Fighting Shepherdess</span>",
+      "year": 1920,
+      "studio": "Anita Stewart Productions",
+      "directors": "Edward José",
+      "genres": [
+        "Western"
+      ],
+      "has_media": true,
+      "work_title": "The Fighting Sherpherdess",
+      "work_html_title": "<span class=\"work-title\">The Fighting Sherpherdess</span>",
+      "work_id": 70
+    },
+    {
+      "id": 174,
+      "slug": "the-dude-wrangler-1930",
+      "title": "The Dude Wrangler",
+      "html_title": "<span class=\"film-title\">The Dude Wrangler</span>",
+      "year": 1930,
+      "studio": "Sono-Art",
+      "directors": "Richard Thorpe",
+      "genres": [
+        "Comedy",
+        "Western"
+      ],
+      "has_media": true,
+      "work_title": "The Dude Wrangler",
+      "work_html_title": "<span class=\"work-title\">The Dude Wrangler</span>",
+      "work_id": 160
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 17,
+      "slug": "the-man-from-the-bitter-roots",
+      "title": "The Man from the Bitter Roots",
+      "formatted_title": "The Man from the Bitter Roots",
+      "html_title": "<span class=\"work-title\">The Man from the Bitter Roots</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 70,
+      "slug": "the-fighting-sherpherdess",
+      "title": "The Fighting Sherpherdess",
+      "formatted_title": "The Fighting Sherpherdess",
+      "html_title": "<span class=\"work-title\">The Fighting Sherpherdess</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 160,
+      "slug": "the-dude-wrangler",
+      "title": "The Dude Wrangler",
+      "formatted_title": "The Dude Wrangler",
+      "html_title": "<span class=\"work-title\">The Dude Wrangler</span>",
+      "work_type": "novel",
+      "publication_year": 1921,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 17,
+    "slug": "the-man-from-the-bitter-roots",
+    "title": "The Man from the Bitter Roots",
+    "formatted_title": "The Man from the Bitter Roots",
+    "html_title": "<span class=\"work-title\">The Man from the Bitter Roots</span>",
+    "work_type": "novel",
+    "publication_year": 1915,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T18:09:46.488432"
+}

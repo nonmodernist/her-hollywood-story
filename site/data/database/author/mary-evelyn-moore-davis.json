@@ -1,0 +1,83 @@
+{
+  "id": 191,
+  "slug": "mary-evelyn-moore-davis",
+  "name": "Mary Evelyn Moore Davis",
+  "birth_year": 1844,
+  "death_year": 1909,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "novelist, poet. Born in Talladega. Died in New Orleans. Occupations: poet, writer, short story writer, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q24405792",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1917,
+    "last_adaptation": 1917,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 500,
+      "slug": "the-little-chevalier-1917",
+      "title": "The Little Chevalier",
+      "html_title": "<span class=\"film-title\">The Little Chevalier</span>",
+      "year": 1917,
+      "studio": "Edison",
+      "directors": "Alan Crosland",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "The Little Chevalier",
+      "work_html_title": "<span class=\"work-title\">The Little Chevalier</span>",
+      "work_id": 431
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 431,
+      "slug": "the-little-chevalier",
+      "title": "The Little Chevalier",
+      "formatted_title": "The Little Chevalier",
+      "html_title": "<span class=\"work-title\">The Little Chevalier</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 431,
+    "slug": "the-little-chevalier",
+    "title": "The Little Chevalier",
+    "formatted_title": "The Little Chevalier",
+    "html_title": "<span class=\"work-title\">The Little Chevalier</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T01:12:18.339975"
+}

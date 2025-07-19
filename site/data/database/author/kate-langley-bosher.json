@@ -1,0 +1,78 @@
+{
+  "id": 35,
+  "slug": "kate-langley-bosher",
+  "name": "Kate Langley Bosher",
+  "birth_year": 1865,
+  "death_year": 1932,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1865–1932). Born in Norfolk. Died in Richmond. Occupations: suffragist, novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q6375592",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1921,
+    "last_adaptation": 1921,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 83,
+      "slug": "nobodys-kid-1921",
+      "title": "Nobody's Kid",
+      "html_title": "<span class=\"film-title\">Nobody's Kid</span>",
+      "year": 1921,
+      "studio": "Robertson-Cole",
+      "directors": "Howard Hickman",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "Mary Cary",
+      "work_html_title": "<span class=\"work-title\">Mary Cary</span>",
+      "work_id": 80
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 80,
+      "slug": "mary-cary",
+      "title": "Mary Cary",
+      "formatted_title": "Mary Cary",
+      "html_title": "<span class=\"work-title\">Mary Cary</span>",
+      "work_type": "novel",
+      "publication_year": 1910,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 80,
+    "slug": "mary-cary",
+    "title": "Mary Cary",
+    "formatted_title": "Mary Cary",
+    "html_title": "<span class=\"work-title\">Mary Cary</span>",
+    "work_type": "novel",
+    "publication_year": 1910,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:15.009637"
+}

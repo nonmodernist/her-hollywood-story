@@ -1,0 +1,92 @@
+{
+  "id": 563,
+  "slug": "welcome-home-1925",
+  "title": "Welcome Home",
+  "formatted_title": "Welcome Home",
+  "html_title": "<span class=\"film-title\">Welcome Home</span>",
+  "release_year": 1925,
+  "runtime_minutes": null,
+  "country_of_production": "United States",
+  "genres": [
+    "Comedy-drama",
+    "Domestic"
+  ],
+  "studio": "Famous Players-Lasky",
+  "production_companies": "Famous Players-Lasky Corp.",
+  "distribution_companies": "Paramount Pictures Corp.",
+  "directors": "James Cruze",
+  "writers": "Walter Woods|F. McGrew Willis",
+  "cast_members": "Luke Cosgrave|Warner Baxter|Lois Wilson|Ben Hendricks|Margaret Morris|Josephine Crowell|Adele Watson",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 13117,
+  "source_work": {
+    "id": 491,
+    "slug": "old-man-minick",
+    "title": "Old Man Minick",
+    "formatted_title": "\"Old Man Minick\"",
+    "html_title": "<span class=\"work-title short-story\">\"Old Man Minick\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1922,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 3,
+    "year_to_adaptation": 3
+  },
+  "author": {
+    "id": 40,
+    "slug": "edna-ferber",
+    "name": "Edna Ferber",
+    "birth_year": 1885,
+    "death_year": 1968,
+    "nationality": "United States",
+    "film_count": 24
+  },
+  "other_adaptations": [
+    {
+      "id": 564,
+      "slug": "the-expert-1932",
+      "title": "The Expert",
+      "html_title": "<span class=\"film-title\">The Expert</span>",
+      "year": 1932,
+      "directors": "Archie Mayo",
+      "studio": "Warner Bros"
+    },
+    {
+      "id": 553,
+      "slug": "no-place-to-go-1939",
+      "title": "No Place to Go",
+      "html_title": "<span class=\"film-title\">No Place to Go</span>",
+      "year": 1939,
+      "directors": "Terry Morse",
+      "studio": "Warner Bros"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 3,
+    "adaptation_number": 1,
+    "is_first": true,
+    "is_latest": false
+  },
+  "media": [
+    {
+      "id": 1292,
+      "media_type": "still",
+      "title": "Welcome Home (1925) - 1.jpg",
+      "caption": "Still from the American comedy drama film Welcome Home (1925) with Lois Wilson, Luke Cosgrave (1862 – 1949), and Warner Baxter, on page 57 of the July 4, 1925 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Welcome_Home_%281925%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Welcome_Home_%281925%29_-_1.jpg/300px-Welcome_Home_%281925%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Welcome_Home_(1925)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

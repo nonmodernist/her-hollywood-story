@@ -1,0 +1,87 @@
+{
+  "id": 216,
+  "slug": "mrs-wiggs-of-the-cabbage-patch-1934",
+  "title": "Mrs. Wiggs of the Cabbage Patch",
+  "formatted_title": "Mrs. Wiggs of the Cabbage Patch",
+  "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+  "release_year": 1934,
+  "runtime_minutes": 80,
+  "country_of_production": "United States",
+  "genres": [
+    "Melodrama",
+    "Domestic"
+  ],
+  "studio": "Paramount",
+  "production_companies": "Paramount Productions, Inc.",
+  "distribution_companies": "Paramount Productions, Inc.",
+  "directors": "Norman Taurog",
+  "writers": "William Slavens McNutt|Jane Storm",
+  "cast_members": "Pauline Lord|W. C. Fields|ZaSu Pitts|Evelyn Venable|Kent Taylor|Donald Meek|Jimmy Butler|George Breakston|Virginia Weidler|Carmen Johnson",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 5672,
+  "source_work": {
+    "id": 6,
+    "slug": "mrs-wiggs-of-the-cabbage-patch",
+    "title": "Mrs. Wiggs of the Cabbage Patch",
+    "formatted_title": "Mrs. Wiggs of the Cabbage Patch",
+    "html_title": "<span class=\"work-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+    "work_type": "novel",
+    "publication_year": 1901,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 4,
+    "year_to_adaptation": 33
+  },
+  "author": {
+    "id": 5,
+    "slug": "alice-hegan-rice",
+    "name": "Alice Hegan Rice",
+    "birth_year": 1870,
+    "death_year": 1942,
+    "nationality": "United States",
+    "film_count": 9
+  },
+  "other_adaptations": [
+    {
+      "id": 6,
+      "slug": "mrs-wiggs-of-the-cabbage-patch-1914",
+      "title": "Mrs. Wiggs of the Cabbage Patch",
+      "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+      "year": 1914,
+      "directors": "Harold Entwhistle",
+      "studio": "California Motion Picture Corp"
+    },
+    {
+      "id": 54,
+      "slug": "mrs-wiggs-of-the-cabbage-patch-1919",
+      "title": "Mrs. Wiggs of the Cabbage Patch",
+      "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+      "year": 1919,
+      "directors": "Hugh Ford",
+      "studio": "Famous Players-Lasky"
+    },
+    {
+      "id": 266,
+      "slug": "mrs-wiggs-of-the-cabbage-patch-1942",
+      "title": "Mrs. Wiggs of the Cabbage Patch",
+      "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+      "year": 1942,
+      "directors": "Ralph Murphy",
+      "studio": "Paramount"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 4,
+    "adaptation_number": 3,
+    "is_first": false,
+    "is_latest": false
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

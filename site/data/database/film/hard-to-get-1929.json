@@ -1,0 +1,108 @@
+{
+  "id": 552,
+  "slug": "hard-to-get-1929",
+  "title": "Hard to Get",
+  "formatted_title": "Hard to Get",
+  "html_title": "<span class=\"film-title\">Hard to Get</span>",
+  "release_year": 1929,
+  "runtime_minutes": null,
+  "country_of_production": null,
+  "genres": [
+    "Comedy-drama"
+  ],
+  "studio": "First National",
+  "production_companies": "First National Pictures, Inc.",
+  "distribution_companies": "First National Pictures, Inc.",
+  "directors": "William Beaudine",
+  "writers": "James Gruen",
+  "cast_members": "Dorothy Mackaill|Charles Delaney|James Finlayson|Louise Fazenda|Jack Oakie|Edmund Burns|Clarissa Selwynne",
+  "color_info": null,
+  "adaptation_notes": null,
+  "afi_catalog_id": 9572,
+  "source_work": {
+    "id": 481,
+    "slug": "classified",
+    "title": "Classified",
+    "formatted_title": "Classified",
+    "html_title": "<span class=\"work-title\">Classified</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 1929
+  },
+  "author": {
+    "id": 40,
+    "slug": "edna-ferber",
+    "name": "Edna Ferber",
+    "birth_year": 1885,
+    "death_year": 1968,
+    "nationality": "United States",
+    "film_count": 24
+  },
+  "other_adaptations": [
+    {
+      "id": 551,
+      "slug": "classified-1925",
+      "title": "Classified",
+      "html_title": "<span class=\"film-title\">Classified</span>",
+      "year": 1925,
+      "directors": "Alfred Santell",
+      "studio": "Corinne Griffith Productions "
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [
+    {
+      "id": 1264,
+      "media_type": "production_photo",
+      "title": "Photoplay - 1929.11 - 54 - Hard to Get.png",
+      "caption": "Taken from the November, 1929 edition of Photoplay Magazine",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Photoplay_-_1929.11_-_54_-_Hard_to_Get.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Photoplay_-_1929.11_-_54_-_Hard_to_Get.png/300px-Photoplay_-_1929.11_-_54_-_Hard_to_Get.png",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Photoplay_-_1929.11_-_54_-_Hard_to_Get.png",
+      "license": "public_domain",
+      "attribution": "Photoplay",
+      "is_featured": "False"
+    },
+    {
+      "id": 1265,
+      "media_type": "lobby_card",
+      "title": "Hard to Get lobby card.jpg",
+      "caption": "Lobby card from the American comedy film Hard to Get (1929).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hard_to_Get_lobby_card.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hard_to_Get_lobby_card.jpg/300px-Hard_to_Get_lobby_card.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hard_to_Get_lobby_card.jpg",
+      "license": "public_domain",
+      "attribution": "First National Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 1266,
+      "media_type": "production_photo",
+      "title": "Hard to Get (SAYRE 14263).jpg",
+      "caption": "Hard to Get Subjects (LCTGM): motion pictures, actresses",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Hard_to_Get_%28SAYRE_14263%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Hard_to_Get_%28SAYRE_14263%29.jpg/300px-Hard_to_Get_%28SAYRE_14263%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hard_to_Get_(SAYRE_14263).jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

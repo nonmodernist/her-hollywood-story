@@ -1,0 +1,104 @@
+{
+  "id": 492,
+  "slug": "nelia-gardner-white",
+  "name": "Nelia Gardner White",
+  "birth_year": 1894,
+  "death_year": 1957,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Died in New Hartford. Occupations: writer, author",
+  "author_notes": null,
+  "wikidata_id": "Q52156802",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 1,
+    "first_adaptation": 1946,
+    "last_adaptation": 1958,
+    "year_span": 12,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1,
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1075,
+      "slug": "sentimental-journey-1946",
+      "title": "Sentimental Journey",
+      "html_title": "<span class=\"film-title\">Sentimental Journey</span>",
+      "year": 1946,
+      "studio": "20th Century Fox",
+      "directors": "Walter Lang",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "The Little Horse",
+      "work_html_title": "<span class=\"work-title\">The Little Horse</span>",
+      "work_id": 966
+    },
+    {
+      "id": 1076,
+      "slug": "the-gift-of-love-1958",
+      "title": "The Gift of Love",
+      "html_title": "<span class=\"film-title\">The Gift of Love</span>",
+      "year": 1958,
+      "studio": "20th Century Fox",
+      "directors": "Jean Negulesco",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Little Horse",
+      "work_html_title": "<span class=\"work-title\">The Little Horse</span>",
+      "work_id": 966
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 966,
+      "slug": "the-little-horse",
+      "title": "The Little Horse",
+      "formatted_title": "The Little Horse",
+      "html_title": "<span class=\"work-title\">The Little Horse</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 966,
+    "slug": "the-little-horse",
+    "title": "The Little Horse",
+    "formatted_title": "The Little Horse",
+    "html_title": "<span class=\"work-title\">The Little Horse</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:54:57.744943"
+}

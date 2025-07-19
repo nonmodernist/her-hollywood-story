@@ -1,0 +1,138 @@
+{
+  "id": 17,
+  "slug": "margaret-widdemer",
+  "name": "Margaret Widdemer",
+  "birth_year": 1884,
+  "death_year": 1978,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American poet and novelist (1884–1978). Born in United States. Occupations: children's writer, poet, novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q6760023",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1917,
+    "last_adaptation": 1919,
+    "year_span": 2,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 29,
+      "slug": "a-wife-on-trial-1917",
+      "title": "A Wife on Trial",
+      "html_title": "<span class=\"film-title\">A Wife on Trial</span>",
+      "year": 1917,
+      "studio": "Universal",
+      "directors": "Ruth Ann Baldwin",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Rose-Garden Husband",
+      "work_html_title": "<span class=\"work-title\">The Rose-Garden Husband</span>",
+      "work_id": 27
+    },
+    {
+      "id": 45,
+      "slug": "the-dream-lady-1918",
+      "title": "The Dream Lady",
+      "html_title": "<span class=\"film-title\">The Dream Lady</span>",
+      "year": 1918,
+      "studio": "Bluebird Photoplays",
+      "directors": "Elsie Jane Wilson",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "Why Not?",
+      "work_html_title": "<span class=\"work-title\">Why Not?</span>",
+      "work_id": 43
+    },
+    {
+      "id": 57,
+      "slug": "the-wishing-ring-man-1919",
+      "title": "The Wishing Ring Man",
+      "html_title": "<span class=\"film-title\">The Wishing Ring Man</span>",
+      "year": 1919,
+      "studio": "Vitagraph",
+      "directors": "David Smith",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Wishing Ring Man",
+      "work_html_title": "<span class=\"work-title\">The Wishing Ring Man</span>",
+      "work_id": 54
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 27,
+      "slug": "the-rose-garden-husband",
+      "title": "The Rose-Garden Husband",
+      "formatted_title": "The Rose-Garden Husband",
+      "html_title": "<span class=\"work-title\">The Rose-Garden Husband</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 43,
+      "slug": "why-not",
+      "title": "Why Not?",
+      "formatted_title": "Why Not?",
+      "html_title": "<span class=\"work-title\">Why Not?</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 54,
+      "slug": "the-wishing-ring-man",
+      "title": "The Wishing Ring Man",
+      "formatted_title": "The Wishing Ring Man",
+      "html_title": "<span class=\"work-title\">The Wishing Ring Man</span>",
+      "work_type": "novel",
+      "publication_year": 1917,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 27,
+    "slug": "the-rose-garden-husband",
+    "title": "The Rose-Garden Husband",
+    "formatted_title": "The Rose-Garden Husband",
+    "html_title": "<span class=\"work-title\">The Rose-Garden Husband</span>",
+    "work_type": "novel",
+    "publication_year": 1915,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:36:53.621569"
+}

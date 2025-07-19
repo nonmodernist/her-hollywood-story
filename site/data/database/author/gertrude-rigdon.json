@@ -1,0 +1,83 @@
+{
+  "id": 415,
+  "slug": "gertrude-rigdon",
+  "name": "Gertrude Rigdon",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1933,
+    "last_adaptation": 1933,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 918,
+      "slug": "hold-me-tight-1933",
+      "title": "Hold Me Tight",
+      "html_title": "<span class=\"film-title\">Hold Me Tight</span>",
+      "year": 1933,
+      "studio": "Fox Film",
+      "directors": "David Butler",
+      "genres": [
+        "Comedy-drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "The Department Store",
+      "work_html_title": "<span class=\"work-title\">The Department Store</span>",
+      "work_id": 824
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 824,
+      "slug": "the-department-store",
+      "title": "The Department Store",
+      "formatted_title": "The Department Store",
+      "html_title": "<span class=\"work-title\">The Department Store</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 824,
+    "slug": "the-department-store",
+    "title": "The Department Store",
+    "formatted_title": "The Department Store",
+    "html_title": "<span class=\"work-title\">The Department Store</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-11T14:45:25.562884"
+}

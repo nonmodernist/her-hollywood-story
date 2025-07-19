@@ -1,0 +1,78 @@
+{
+  "id": 488,
+  "slug": "carolyn-wells",
+  "name": "Carolyn Wells",
+  "birth_year": 1862,
+  "death_year": 1942,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American humorist, poet, writer of children's works and mystery stories (1862–1942). Born in Rahway. Died in New York City. Occupations: crime fiction writer, poet, novelist, short story writer, children's writer, humorist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q5045486",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1919,
+    "last_adaptation": 1919,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1069,
+      "slug": "the-woman-next-door-1919",
+      "title": "The Woman Next Door",
+      "html_title": "<span class=\"film-title\">The Woman Next Door</span>",
+      "year": 1919,
+      "studio": "Famous Players-Lasky",
+      "directors": "Robert G. Vignola",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Vicky Van",
+      "work_html_title": "<span class=\"work-title\">Vicky Van</span>",
+      "work_id": 960
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 960,
+      "slug": "vicky-van",
+      "title": "Vicky Van",
+      "formatted_title": "Vicky Van",
+      "html_title": "<span class=\"work-title\">Vicky Van</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 960,
+    "slug": "vicky-van",
+    "title": "Vicky Van",
+    "formatted_title": "Vicky Van",
+    "html_title": "<span class=\"work-title\">Vicky Van</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:54:52.958813"
+}

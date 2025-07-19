@@ -1,0 +1,83 @@
+{
+  "id": 469,
+  "slug": "mary-agnes-thompson",
+  "name": "Mary Agnes Thompson",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1957,
+    "last_adaptation": 1957,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Musical",
+        "count": 1
+      },
+      {
+        "genre": "Show business",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1031,
+      "slug": "loving-you-1957",
+      "title": "Loving You",
+      "html_title": "<span class=\"film-title\">Loving You</span>",
+      "year": 1957,
+      "studio": "Paramount",
+      "directors": "Hal Kanter",
+      "genres": [
+        "Musical",
+        "Show business"
+      ],
+      "has_media": false,
+      "work_title": "A Call from Mitch Miller",
+      "work_html_title": "<span class=\"work-title\">A Call from Mitch Miller</span>",
+      "work_id": 924
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 924,
+      "slug": "a-call-from-mitch-miller",
+      "title": "A Call from Mitch Miller",
+      "formatted_title": "A Call from Mitch Miller",
+      "html_title": "<span class=\"work-title\">A Call from Mitch Miller</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 924,
+    "slug": "a-call-from-mitch-miller",
+    "title": "A Call from Mitch Miller",
+    "formatted_title": "A Call from Mitch Miller",
+    "html_title": "<span class=\"work-title\">A Call from Mitch Miller</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T17:49:15.486473"
+}

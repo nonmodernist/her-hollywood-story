@@ -1,0 +1,59 @@
+{
+  "id": 437,
+  "slug": "romance-of-a-million-dollars",
+  "title": "Romance of a Million Dollars",
+  "formatted_title": "Romance of a Million Dollars",
+  "html_title": "<span class=\"work-title\">Romance of a Million Dollars</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 196,
+    "slug": "elizabeth-dejeans",
+    "name": "Elizabeth Dejeans",
+    "birth_year": 1868,
+    "death_year": 1928,
+    "film_count": 3
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 506,
+      "slug": "the-romance-of-a-million-dollars-1926",
+      "title": "The Romance of a Million Dollars",
+      "html_title": "<span class=\"film-title\">The Romance of a Million Dollars</span>",
+      "year": 1926,
+      "studio": "Preferred Pictures",
+      "directors": "Tom Terriss",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "years_after_publication": 1926
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T01:04:47.210496"
+}

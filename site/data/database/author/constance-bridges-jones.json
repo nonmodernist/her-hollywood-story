@@ -1,0 +1,111 @@
+{
+  "id": 286,
+  "slug": "constance-bridges-jones",
+  "name": "Constance Bridges Jones",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1948,
+    "last_adaptation": 1948,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 2
+      },
+      {
+        "genre": "Fantasy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 677,
+      "slug": "mr-peabody-and-the-mermaid-1948",
+      "title": "Mr. Peabody and the Mermaid",
+      "html_title": "<span class=\"film-title\">Mr. Peabody and the Mermaid</span>",
+      "year": 1948,
+      "studio": "Inter-John",
+      "directors": "Irving Pichel",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "Peabody's Mermaid",
+      "work_html_title": "<span class=\"work-title\">Peabody's Mermaid</span>",
+      "work_id": 594
+    },
+    {
+      "id": 678,
+      "slug": "the-luck-of-the-irish-1948",
+      "title": "The Luck of the Irish",
+      "html_title": "<span class=\"film-title\">The Luck of the Irish</span>",
+      "year": 1948,
+      "studio": "20th Century Fox",
+      "directors": "Henry Koster",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "has_media": false,
+      "work_title": "There Was a Little Man",
+      "work_html_title": "<span class=\"work-title\">There Was a Little Man</span>",
+      "work_id": 595
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 594,
+      "slug": "peabodys-mermaid",
+      "title": "Peabody's Mermaid",
+      "formatted_title": "Peabody's Mermaid",
+      "html_title": "<span class=\"work-title\">Peabody's Mermaid</span>",
+      "work_type": "novel",
+      "publication_year": 1946,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 595,
+      "slug": "there-was-a-little-man",
+      "title": "There Was a Little Man",
+      "formatted_title": "There Was a Little Man",
+      "html_title": "<span class=\"work-title\">There Was a Little Man</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 594,
+    "slug": "peabodys-mermaid",
+    "title": "Peabody's Mermaid",
+    "formatted_title": "Peabody's Mermaid",
+    "html_title": "<span class=\"work-title\">Peabody's Mermaid</span>",
+    "work_type": "novel",
+    "publication_year": 1946,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-06T14:38:37.419857"
+}

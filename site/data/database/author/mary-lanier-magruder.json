@@ -1,0 +1,78 @@
+{
+  "id": 340,
+  "slug": "mary-lanier-magruder",
+  "name": "Mary Lanier Magruder",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1928,
+    "last_adaptation": 1928,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 767,
+      "slug": "satan-and-the-woman-1928",
+      "title": "Satan and the Woman",
+      "html_title": "<span class=\"film-title\">Satan and the Woman</span>",
+      "year": 1928,
+      "studio": "Excellent Pictures",
+      "directors": "Burton King",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Courage",
+      "work_html_title": "<span class=\"work-title\">Courage</span>",
+      "work_id": 681
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 681,
+      "slug": "courage",
+      "title": "Courage",
+      "formatted_title": "Courage",
+      "html_title": "<span class=\"work-title\">Courage</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 681,
+    "slug": "courage",
+    "title": "Courage",
+    "formatted_title": "Courage",
+    "html_title": "<span class=\"work-title\">Courage</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:18:42.615814"
+}

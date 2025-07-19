@@ -1,0 +1,59 @@
+{
+  "id": 811,
+  "slug": "when-the-devil-was-sick",
+  "title": "When the Devil was Sick",
+  "formatted_title": "When the Devil was Sick",
+  "html_title": "<span class=\"work-title\">When the Devil was Sick</span>",
+  "work_type": "novel",
+  "publication_year": 1926,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 407,
+    "slug": "ej-rath",
+    "name": "E.J. Rath",
+    "birth_year": 1885,
+    "death_year": 1922,
+    "film_count": 10
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 3,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 904,
+      "slug": "clear-the-decks-1929",
+      "title": "Clear the Decks",
+      "html_title": "<span class=\"film-title\">Clear the Decks</span>",
+      "year": 1929,
+      "studio": "Universal",
+      "directors": "Joseph E. Henabery",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": false,
+      "years_after_publication": 3
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T14:13:34.961875"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 133,
+  "slug": "bessie-breuer",
+  "name": "Bessie Breuer",
+  "birth_year": 1893,
+  "death_year": 1975,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American journalist, novelist and playwright. Born in Cleveland. Occupations: playwright, writer, novelist, journalist",
+  "author_notes": null,
+  "wikidata_id": "Q4896467",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1939,
+    "last_adaptation": 1939,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 391,
+      "slug": "in-name-only-1939",
+      "title": "In Name Only",
+      "html_title": "<span class=\"film-title\">In Name Only</span>",
+      "year": 1939,
+      "studio": "RKO",
+      "directors": "John Cromwell",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Memory of Love",
+      "work_html_title": "<span class=\"work-title\">Memory of Love</span>",
+      "work_id": 328
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 328,
+      "slug": "memory-of-love",
+      "title": "Memory of Love",
+      "formatted_title": "Memory of Love",
+      "html_title": "<span class=\"work-title\">Memory of Love</span>",
+      "work_type": "novel",
+      "publication_year": 1934,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 328,
+    "slug": "memory-of-love",
+    "title": "Memory of Love",
+    "formatted_title": "Memory of Love",
+    "html_title": "<span class=\"work-title\">Memory of Love</span>",
+    "work_type": "novel",
+    "publication_year": 1934,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:03.163849"
+}

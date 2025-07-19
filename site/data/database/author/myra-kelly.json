@@ -1,0 +1,83 @@
+{
+  "id": 298,
+  "slug": "myra-kelly",
+  "name": "Myra Kelly",
+  "birth_year": 1875,
+  "death_year": 1910,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1875–1910). Born in Dublin. Occupations: writer, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q17626906",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1922,
+    "last_adaptation": 1922,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 702,
+      "slug": "little-miss-smiles-1922",
+      "title": "Little Miss Smiles",
+      "html_title": "<span class=\"film-title\">Little Miss Smiles</span>",
+      "year": 1922,
+      "studio": "Fox Film",
+      "directors": "Jack Ford",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Little Aliens",
+      "work_html_title": "<span class=\"work-title\">Little Aliens</span>",
+      "work_id": 618
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 618,
+      "slug": "little-aliens",
+      "title": "Little Aliens",
+      "formatted_title": "Little Aliens",
+      "html_title": "<span class=\"work-title\">Little Aliens</span>",
+      "work_type": "novel",
+      "publication_year": 1910,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 618,
+    "slug": "little-aliens",
+    "title": "Little Aliens",
+    "formatted_title": "Little Aliens",
+    "html_title": "<span class=\"work-title\">Little Aliens</span>",
+    "work_type": "novel",
+    "publication_year": 1910,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:02.931894"
+}

@@ -1,0 +1,144 @@
+{
+  "id": 31,
+  "slug": "pearl-doles-bell",
+  "name": "Pearl Doles Bell",
+  "birth_year": 1883,
+  "death_year": 1968,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1883-1968). Born in St. Joseph. Occupations: screenwriter, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q62901711",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1920,
+    "last_adaptation": 1924,
+    "year_span": 4,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 3
+      },
+      {
+        "genre": "Carnival/Circus",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 62,
+      "slug": "her-elephant-man-1920",
+      "title": "Her Elephant Man",
+      "html_title": "<span class=\"film-title\">Her Elephant Man</span>",
+      "year": 1920,
+      "studio": "Fox Film",
+      "directors": "Scott Dunlap",
+      "genres": [
+        "Drama",
+        "Carnival/Circus"
+      ],
+      "has_media": true,
+      "work_title": "Her Elephant Man",
+      "work_html_title": "<span class=\"work-title\">Her Elephant Man</span>",
+      "work_id": 59
+    },
+    {
+      "id": 61,
+      "slug": "loves-harvest-1920",
+      "title": "Love's Harvest",
+      "html_title": "<span class=\"film-title\">Love's Harvest</span>",
+      "year": 1920,
+      "studio": "Fox Film",
+      "directors": "Howard M. Mitchell",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "His Harvest",
+      "work_html_title": "<span class=\"work-title\">His Harvest</span>",
+      "work_id": 58
+    },
+    {
+      "id": 110,
+      "slug": "sandra-1924",
+      "title": "Sandra",
+      "html_title": "<span class=\"film-title\">Sandra</span>",
+      "year": 1924,
+      "studio": "First National",
+      "directors": "Arthur H. Sawyer|Webster Campbell|George Melford",
+      "genres": [
+        "Drama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "Sandra",
+      "work_html_title": "<span class=\"work-title\">Sandra</span>",
+      "work_id": 105
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 59,
+      "slug": "her-elephant-man",
+      "title": "Her Elephant Man",
+      "formatted_title": "Her Elephant Man",
+      "html_title": "<span class=\"work-title\">Her Elephant Man</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 58,
+      "slug": "his-harvest",
+      "title": "His Harvest",
+      "formatted_title": "His Harvest",
+      "html_title": "<span class=\"work-title\">His Harvest</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 105,
+      "slug": "sandra",
+      "title": "Sandra",
+      "formatted_title": "Sandra",
+      "html_title": "<span class=\"work-title\">Sandra</span>",
+      "work_type": "novel",
+      "publication_year": 1924,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 59,
+    "slug": "her-elephant-man",
+    "title": "Her Elephant Man",
+    "formatted_title": "Her Elephant Man",
+    "html_title": "<span class=\"work-title\">Her Elephant Man</span>",
+    "work_type": "novel",
+    "publication_year": 1919,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:09.223955"
+}

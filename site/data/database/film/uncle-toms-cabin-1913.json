@@ -1,0 +1,114 @@
+{
+  "id": 1009,
+  "slug": "uncle-toms-cabin-1913",
+  "title": "Uncle Tom's Cabin",
+  "formatted_title": "Uncle Tom's Cabin",
+  "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
+  "release_year": 1913,
+  "runtime_minutes": null,
+  "country_of_production": null,
+  "genres": [
+    "Melodrama",
+    "African American"
+  ],
+  "studio": "World Producing",
+  "production_companies": "World Producing Corp.",
+  "distribution_companies": "World Film Corp.",
+  "directors": "William Robert Daly",
+  "writers": null,
+  "cast_members": "Sam Lucas|Walter Hitchcock|Hattie Delaro|Master Abernathy|Teresa Michelena|Irving Cummings|Paul Scardon|Marie Eline|Garfield Thompson|Roy Applegate",
+  "color_info": null,
+  "adaptation_notes": null,
+  "afi_catalog_id": 2113,
+  "source_work": {
+    "id": 3,
+    "slug": "uncle-toms-cabin",
+    "title": "Uncle Tom's Cabin",
+    "formatted_title": "Uncle Tom's Cabin",
+    "html_title": "<span class=\"work-title\">Uncle Tom's Cabin</span>",
+    "work_type": "novel",
+    "publication_year": 1852,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 7,
+    "year_to_adaptation": 61
+  },
+  "author": {
+    "id": 2,
+    "slug": "harriet-beecher-stowe",
+    "name": "Harriet Beecher Stowe",
+    "birth_year": 1811,
+    "death_year": 1896,
+    "nationality": "United States",
+    "film_count": 9
+  },
+  "other_adaptations": [
+    {
+      "id": 2,
+      "slug": "uncle-toms-cabin-1910",
+      "title": "Uncle Tom's Cabin",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
+      "year": 1910,
+      "directors": "Barry O'Neil",
+      "studio": "Thanhauser"
+    },
+    {
+      "id": 3,
+      "slug": "uncle-toms-cabin-part-3-1910",
+      "title": "Uncle Tom's Cabin, Part 3",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin, Part 3</span>",
+      "year": 1910,
+      "directors": "Frederick Thomson",
+      "studio": "Vitagraph"
+    },
+    {
+      "id": 7,
+      "slug": "uncle-toms-cabin-1914",
+      "title": "Uncle Tom's Cabin",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
+      "year": 1914,
+      "directors": "William Robert Daly",
+      "studio": "World Producing"
+    },
+    {
+      "id": 39,
+      "slug": "uncle-toms-cabin-1918",
+      "title": "Uncle Tom's Cabin",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
+      "year": 1918,
+      "directors": "J. Searle Dawley",
+      "studio": "Famous Players-Lasky"
+    },
+    {
+      "id": 147,
+      "slug": "topsy-and-eva-1927",
+      "title": "Topsy and Eva",
+      "html_title": "<span class=\"film-title\">Topsy and Eva</span>",
+      "year": 1927,
+      "directors": "Del Lord",
+      "studio": "Feature Productions"
+    },
+    {
+      "id": 138,
+      "slug": "uncle-toms-cabin-1927",
+      "title": "Uncle Tom's Cabin",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
+      "year": 1927,
+      "directors": "Harry A. Pollard",
+      "studio": "Universal"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 7,
+    "adaptation_number": 3,
+    "is_first": false,
+    "is_latest": false
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

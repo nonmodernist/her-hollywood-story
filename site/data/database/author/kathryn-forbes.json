@@ -1,0 +1,88 @@
+{
+  "id": 88,
+  "slug": "kathryn-forbes",
+  "name": "Kathryn Forbes",
+  "birth_year": 1908,
+  "death_year": 1966,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1908–1966). Born in San Francisco. Died in San Francisco. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q2020013",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1948,
+    "last_adaptation": 1948,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 293,
+      "slug": "i-remember-mama-1948",
+      "title": "I Remember Mama",
+      "html_title": "<span class=\"film-title\">I Remember Mama</span>",
+      "year": 1948,
+      "studio": "RKO",
+      "directors": "George Stevens",
+      "genres": [
+        "Drama",
+        "Domestic",
+        "Historical"
+      ],
+      "has_media": true,
+      "work_title": "Mama's Bank Account",
+      "work_html_title": "<span class=\"work-title\">Mama's Bank Account</span>",
+      "work_id": 245
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 245,
+      "slug": "mamas-bank-account",
+      "title": "Mama's Bank Account",
+      "formatted_title": "Mama's Bank Account",
+      "html_title": "<span class=\"work-title\">Mama's Bank Account</span>",
+      "work_type": "novel",
+      "publication_year": 1934,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 245,
+    "slug": "mamas-bank-account",
+    "title": "Mama's Bank Account",
+    "formatted_title": "Mama's Bank Account",
+    "html_title": "<span class=\"work-title\">Mama's Bank Account</span>",
+    "work_type": "novel",
+    "publication_year": 1934,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:23.215171"
+}

@@ -1,0 +1,83 @@
+{
+  "id": 167,
+  "slug": "martha-cheavans",
+  "name": "Martha Cheavans",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1941,
+    "last_adaptation": 1941,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 467,
+      "slug": "penny-serenade-1941",
+      "title": "Penny Serenade",
+      "html_title": "<span class=\"film-title\">Penny Serenade</span>",
+      "year": 1941,
+      "studio": "Columbia",
+      "directors": "George Stevens",
+      "genres": [
+        "Melodrama",
+        "with songs"
+      ],
+      "has_media": true,
+      "work_title": "Penny Serenade",
+      "work_html_title": "<span class=\"work-title\">Penny Serenade</span>",
+      "work_id": 399
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 399,
+      "slug": "penny-serenade",
+      "title": "Penny Serenade",
+      "formatted_title": "Penny Serenade",
+      "html_title": "<span class=\"work-title\">Penny Serenade</span>",
+      "work_type": "novel",
+      "publication_year": 1940,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 399,
+    "slug": "penny-serenade",
+    "title": "Penny Serenade",
+    "formatted_title": "Penny Serenade",
+    "html_title": "<span class=\"work-title\">Penny Serenade</span>",
+    "work_type": "novel",
+    "publication_year": 1940,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-19T17:55:47.602155"
+}

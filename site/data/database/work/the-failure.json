@@ -1,0 +1,83 @@
+{
+  "id": 914,
+  "slug": "the-failure",
+  "title": "The Failure",
+  "formatted_title": "The Failure",
+  "html_title": "<span class=\"work-title\">The Failure</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 462,
+    "slug": "katherine-haviland-taylor",
+    "name": "Katherine Haviland Taylor",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 3
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 5,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 5
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1018,
+      "slug": "one-mans-journey-1933",
+      "title": "One Man's Journey",
+      "html_title": "<span class=\"film-title\">One Man's Journey</span>",
+      "year": 1933,
+      "studio": "RKO",
+      "directors": "John Robertson",
+      "genres": [
+        "Drama",
+        "Medical",
+        "Rural"
+      ],
+      "has_media": false,
+      "years_after_publication": 1933
+    },
+    {
+      "id": 1019,
+      "slug": "a-man-to-remember-1938",
+      "title": "A Man to Remember",
+      "html_title": "<span class=\"film-title\">A Man to Remember</span>",
+      "year": 1938,
+      "studio": "RKO",
+      "directors": "Garson Kanin",
+      "genres": [
+        "Drama",
+        "Medical",
+        "Rural"
+      ],
+      "has_media": false,
+      "years_after_publication": 1938
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1933,
+      "to_year": 1938,
+      "gap_years": 5
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T17:50:46.150541"
+}

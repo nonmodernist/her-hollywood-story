@@ -1,0 +1,118 @@
+{
+  "id": 293,
+  "slug": "carolyn-keene",
+  "name": "Carolyn Keene",
+  "birth_year": 1892,
+  "death_year": 1982,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American juvenile mystery novelist and publisher. Born in Newark. Died in Tewksbury Township. Occupations: writer, children's writer, novelist. Notable works: Nancy Drew",
+  "author_notes": "pseud of the authors of the Nancy Drew mystery stories produced by the Stratemeyer Syndicate, notably Mildred Wirt Benson and Harriet Stratemeyer Adams",
+  "wikidata_id": "Q3040664",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1938,
+    "last_adaptation": 1939,
+    "year_span": 1,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Detective",
+        "count": 2
+      },
+      {
+        "genre": "Teenage",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1930": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 696,
+      "slug": "nancy-drew-detective-1938",
+      "title": "Nancy Drew, Detective",
+      "html_title": "<span class=\"film-title\">Nancy Drew, Detective</span>",
+      "year": 1938,
+      "studio": "Warner Bros",
+      "directors": "William Clemens",
+      "genres": [
+        "Drama",
+        "Detective",
+        "Teenage"
+      ],
+      "has_media": false,
+      "work_title": "Password to Larkspur Lane",
+      "work_html_title": "<span class=\"work-title\">Password to Larkspur Lane</span>",
+      "work_id": 612
+    },
+    {
+      "id": 695,
+      "slug": "nancy-drew-and-the-hidden-staircase-1939",
+      "title": "Nancy Drew and the Hidden Staircase",
+      "html_title": "<span class=\"film-title\">Nancy Drew and the Hidden Staircase</span>",
+      "year": 1939,
+      "studio": "Warner Bros",
+      "directors": "William Clemens",
+      "genres": [
+        "Drama",
+        "Detective",
+        "Teenage"
+      ],
+      "has_media": false,
+      "work_title": "The Hidden Staircase",
+      "work_html_title": "<span class=\"work-title\">The Hidden Staircase</span>",
+      "work_id": 611
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 612,
+      "slug": "password-to-larkspur-lane",
+      "title": "Password to Larkspur Lane",
+      "formatted_title": "Password to Larkspur Lane",
+      "html_title": "<span class=\"work-title\">Password to Larkspur Lane</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 611,
+      "slug": "the-hidden-staircase",
+      "title": "The Hidden Staircase",
+      "formatted_title": "The Hidden Staircase",
+      "html_title": "<span class=\"work-title\">The Hidden Staircase</span>",
+      "work_type": "novel",
+      "publication_year": 1930,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 612,
+    "slug": "password-to-larkspur-lane",
+    "title": "Password to Larkspur Lane",
+    "formatted_title": "Password to Larkspur Lane",
+    "html_title": "<span class=\"work-title\">Password to Larkspur Lane</span>",
+    "work_type": "novel",
+    "publication_year": 1933,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:54:55.286678"
+}

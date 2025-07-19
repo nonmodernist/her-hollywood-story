@@ -1,0 +1,111 @@
+{
+  "id": 15,
+  "slug": "mary-wilkins-freeman",
+  "name": "Mary Wilkins Freeman",
+  "birth_year": 1852,
+  "death_year": 1930,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American novelist, short story writer, poet, children's author (1852-1930). Born in Randolph. Died in Metuchen. Occupations: children's writer, poet, novelist, writer. Notable works: Collected Ghost Stories, A New England Nun, Pembroke, The Pot of Gold and Other Stories, Young Lucretia and Other Stories",
+  "author_notes": null,
+  "wikidata_id": "Q276421",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1917,
+    "last_adaptation": 1919,
+    "year_span": 2,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Northwest",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 24,
+      "slug": "an-alabaster-box-1917",
+      "title": "An Alabaster Box",
+      "html_title": "<span class=\"film-title\">An Alabaster Box</span>",
+      "year": 1917,
+      "studio": "Vitagraph",
+      "directors": "Chester Withey",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "An Alabaster Box",
+      "work_html_title": "<span class=\"work-title\">An Alabaster Box</span>",
+      "work_id": 22
+    },
+    {
+      "id": 49,
+      "slug": "false-evidence-1919",
+      "title": "False Evidence",
+      "html_title": "<span class=\"film-title\">False Evidence</span>",
+      "year": 1919,
+      "studio": "Metro Pictures",
+      "directors": "Edwin Carew",
+      "genres": [
+        "Drama",
+        "Northwest"
+      ],
+      "has_media": true,
+      "work_title": "Madelon of the Redwoods",
+      "work_html_title": "<span class=\"work-title\">Madelon of the Redwoods</span>",
+      "work_id": 47
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 22,
+      "slug": "an-alabaster-box",
+      "title": "An Alabaster Box",
+      "formatted_title": "An Alabaster Box",
+      "html_title": "<span class=\"work-title\">An Alabaster Box</span>",
+      "work_type": "novel",
+      "publication_year": 1917,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 47,
+      "slug": "madelon-of-the-redwoods",
+      "title": "Madelon of the Redwoods",
+      "formatted_title": "Madelon of the Redwoods",
+      "html_title": "<span class=\"work-title\">Madelon of the Redwoods</span>",
+      "work_type": "novel",
+      "publication_year": 1896,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 22,
+    "slug": "an-alabaster-box",
+    "title": "An Alabaster Box",
+    "formatted_title": "An Alabaster Box",
+    "html_title": "<span class=\"work-title\">An Alabaster Box</span>",
+    "work_type": "novel",
+    "publication_year": 1917,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:36:50.582261"
+}

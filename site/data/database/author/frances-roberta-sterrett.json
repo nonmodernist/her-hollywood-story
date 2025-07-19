@@ -1,0 +1,78 @@
+{
+  "id": 456,
+  "slug": "frances-roberta-sterrett",
+  "name": "Frances Roberta Sterrett",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American writer. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q133458141",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1918,
+    "last_adaptation": 1918,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1004,
+      "slug": "up-the-road-with-sallie-1918",
+      "title": "Up the Road with Sallie",
+      "html_title": "<span class=\"film-title\">Up the Road with Sallie</span>",
+      "year": 1918,
+      "studio": "Select Pictures",
+      "directors": "William D. Taylor",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "Up the Road with Sallie",
+      "work_html_title": "<span class=\"work-title\">Up the Road with Sallie</span>",
+      "work_id": 903
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 903,
+      "slug": "up-the-road-with-sallie",
+      "title": "Up the Road with Sallie",
+      "formatted_title": "Up the Road with Sallie",
+      "html_title": "<span class=\"work-title\">Up the Road with Sallie</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 903,
+    "slug": "up-the-road-with-sallie",
+    "title": "Up the Road with Sallie",
+    "formatted_title": "Up the Road with Sallie",
+    "html_title": "<span class=\"work-title\">Up the Road with Sallie</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:26:23.601964"
+}

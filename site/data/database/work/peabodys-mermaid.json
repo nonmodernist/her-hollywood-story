@@ -1,0 +1,59 @@
+{
+  "id": 594,
+  "slug": "peabodys-mermaid",
+  "title": "Peabody's Mermaid",
+  "formatted_title": "Peabody's Mermaid",
+  "html_title": "<span class=\"work-title\">Peabody's Mermaid</span>",
+  "work_type": "novel",
+  "publication_year": 1946,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": "co-writer Guy Pearce Jones",
+  "author": {
+    "id": 286,
+    "slug": "constance-bridges-jones",
+    "name": "Constance Bridges Jones",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 677,
+      "slug": "mr-peabody-and-the-mermaid-1948",
+      "title": "Mr. Peabody and the Mermaid",
+      "html_title": "<span class=\"film-title\">Mr. Peabody and the Mermaid</span>",
+      "year": 1948,
+      "studio": "Inter-John",
+      "directors": "Irving Pichel",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "years_after_publication": 2
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T14:13:31.094874"
+}

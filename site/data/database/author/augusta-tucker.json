@@ -1,0 +1,83 @@
+{
+  "id": 472,
+  "slug": "augusta-tucker",
+  "name": "Augusta Tucker",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q95730864",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1945,
+    "last_adaptation": 1945,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Medical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1037,
+      "slug": "miss-susie-slagles-1945",
+      "title": "Miss Susie Slagle's",
+      "html_title": "<span class=\"film-title\">Miss Susie Slagle's</span>",
+      "year": 1945,
+      "studio": "Paramount",
+      "directors": "John Berry",
+      "genres": [
+        "Drama",
+        "Medical"
+      ],
+      "has_media": false,
+      "work_title": "Miss Susie Slagle's",
+      "work_html_title": "<span class=\"work-title\">Miss Susie Slagle's</span>",
+      "work_id": 930
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 930,
+      "slug": "miss-susie-slagles",
+      "title": "Miss Susie Slagle's",
+      "formatted_title": "Miss Susie Slagle's",
+      "html_title": "<span class=\"work-title\">Miss Susie Slagle's</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 930,
+    "slug": "miss-susie-slagles",
+    "title": "Miss Susie Slagle's",
+    "formatted_title": "Miss Susie Slagle's",
+    "html_title": "<span class=\"work-title\">Miss Susie Slagle's</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T17:50:06.21094"
+}

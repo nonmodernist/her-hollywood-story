@@ -1,0 +1,199 @@
+{
+  "id": 113,
+  "slug": "vicki-baum",
+  "name": "Vicki Baum",
+  "birth_year": 1888,
+  "death_year": 1960,
+  "nationality": "United States, Austria",
+  "literary_movement": null,
+  "biographical_notes": "Austrian writer (1888–1960). Born in Vienna. Died in Hollywood. Occupations: writer, journalist, musician, screenwriter, harpist",
+  "author_notes": null,
+  "wikidata_id": "Q93444",
+  "stats": {
+    "total_films": 5,
+    "works_adapted": 4,
+    "first_adaptation": 1932,
+    "last_adaptation": 1949,
+    "year_span": 17,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 3
+      },
+      {
+        "genre": "with songs",
+        "count": 3
+      },
+      {
+        "genre": "World War II",
+        "count": 1
+      },
+      {
+        "genre": "Film noir",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1,
+      "1940": 4
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 361,
+      "slug": "grand-hotel-1932",
+      "title": "Grand Hotel",
+      "html_title": "<span class=\"film-title\">Grand Hotel</span>",
+      "year": 1932,
+      "studio": "MGM",
+      "directors": "Edmund Goulding",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Grand Hotel",
+      "work_html_title": "<span class=\"work-title\">Grand Hotel</span>",
+      "work_id": 298
+    },
+    {
+      "id": 359,
+      "slug": "hotel-berlin-1945",
+      "title": "Hotel Berlin",
+      "html_title": "<span class=\"film-title\">Hotel Berlin</span>",
+      "year": 1945,
+      "studio": "Warner Bros",
+      "directors": "Peter Godfrey",
+      "genres": [
+        "Drama",
+        "World War II"
+      ],
+      "has_media": false,
+      "work_title": "Hotel Berlin",
+      "work_html_title": "<span class=\"work-title\">Hotel Berlin</span>",
+      "work_id": 296
+    },
+    {
+      "id": 360,
+      "slug": "the-great-flamarion-1945",
+      "title": "The Great Flamarion",
+      "html_title": "<span class=\"film-title\">The Great Flamarion</span>",
+      "year": 1945,
+      "studio": "Republic",
+      "directors": "Anthony Mann",
+      "genres": [
+        "Film noir",
+        "with songs"
+      ],
+      "has_media": true,
+      "work_title": "Big Shot",
+      "work_html_title": "<span class=\"work-title\">Big Shot</span>",
+      "work_id": 297
+    },
+    {
+      "id": 362,
+      "slug": "week-end-at-the-waldorf-1945",
+      "title": "Week-End at the Waldorf",
+      "html_title": "<span class=\"film-title\">Week-End at the Waldorf</span>",
+      "year": 1945,
+      "studio": "MGM",
+      "directors": "Robert Z. Leonard",
+      "genres": [
+        "Comedy-drama",
+        "with songs"
+      ],
+      "has_media": true,
+      "work_title": "Grand Hotel",
+      "work_html_title": "<span class=\"work-title\">Grand Hotel</span>",
+      "work_id": 298
+    },
+    {
+      "id": 363,
+      "slug": "a-womans-secret-1949",
+      "title": "A Woman's Secret",
+      "html_title": "<span class=\"film-title\">A Woman's Secret</span>",
+      "year": 1949,
+      "studio": "RKO",
+      "directors": "Nicholas Ray",
+      "genres": [
+        "Drama",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Mortgage on Life",
+      "work_html_title": "<span class=\"work-title\">Mortgage on Life</span>",
+      "work_id": 299
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 298,
+      "slug": "grand-hotel",
+      "title": "Grand Hotel",
+      "formatted_title": "Grand Hotel",
+      "html_title": "<span class=\"work-title\">Grand Hotel</span>",
+      "work_type": "novel",
+      "publication_year": 1930,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 296,
+      "slug": "hotel-berlin",
+      "title": "Hotel Berlin",
+      "formatted_title": "Hotel Berlin",
+      "html_title": "<span class=\"work-title\">Hotel Berlin</span>",
+      "work_type": "novel",
+      "publication_year": 1943,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 297,
+      "slug": "big-shot",
+      "title": "Big Shot",
+      "formatted_title": "Big Shot",
+      "html_title": "<span class=\"work-title\">Big Shot</span>",
+      "work_type": "novel",
+      "publication_year": 1936,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 299,
+      "slug": "mortgage-on-life",
+      "title": "Mortgage on Life",
+      "formatted_title": "Mortgage on Life",
+      "html_title": "<span class=\"work-title\">Mortgage on Life</span>",
+      "work_type": "novel",
+      "publication_year": 1946,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 298,
+    "slug": "grand-hotel",
+    "title": "Grand Hotel",
+    "formatted_title": "Grand Hotel",
+    "html_title": "<span class=\"work-title\">Grand Hotel</span>",
+    "work_type": "novel",
+    "publication_year": 1930,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:52:41.207264"
+}

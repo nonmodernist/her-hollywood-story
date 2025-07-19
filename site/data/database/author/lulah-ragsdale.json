@@ -1,0 +1,78 @@
+{
+  "id": 406,
+  "slug": "lulah-ragsdale",
+  "name": "Lulah Ragsdale",
+  "birth_year": 1862,
+  "death_year": 1953,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American poet, novelist, actor (1861-1953). Born in Lawrence County. Died in Philadelphia. Occupations: poet, novelist, actor",
+  "author_notes": null,
+  "wikidata_id": "Q27917035",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1919,
+    "last_adaptation": 1919,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 894,
+      "slug": "miss-dulcie-from-dixie-1919",
+      "title": "Miss Dulcie from Dixie",
+      "html_title": "<span class=\"film-title\">Miss Dulcie from Dixie</span>",
+      "year": 1919,
+      "studio": "Vitagraph",
+      "directors": "Joseph Gleason",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Miss Dulcie from Dixie",
+      "work_html_title": "<span class=\"work-title\">Miss Dulcie from Dixie</span>",
+      "work_id": 802
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 802,
+      "slug": "miss-dulcie-from-dixie",
+      "title": "Miss Dulcie from Dixie",
+      "formatted_title": "Miss Dulcie from Dixie",
+      "html_title": "<span class=\"work-title\">Miss Dulcie from Dixie</span>",
+      "work_type": "novel",
+      "publication_year": 1917,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 802,
+    "slug": "miss-dulcie-from-dixie",
+    "title": "Miss Dulcie from Dixie",
+    "formatted_title": "Miss Dulcie from Dixie",
+    "html_title": "<span class=\"work-title\">Miss Dulcie from Dixie</span>",
+    "work_type": "novel",
+    "publication_year": 1917,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:25:30.587199"
+}

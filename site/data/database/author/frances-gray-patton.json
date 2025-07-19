@@ -1,0 +1,83 @@
+{
+  "id": 392,
+  "slug": "frances-gray-patton",
+  "name": "Frances Gray Patton",
+  "birth_year": 1906,
+  "death_year": 2000,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer of short stories, plays, and novels (1906-2000). Born in Raleigh. Died in Durham. Occupations: novelist, writer. Notable works: Good Morning, Miss Dove",
+  "author_notes": null,
+  "wikidata_id": "Q5478671",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1955,
+    "last_adaptation": 1955,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 871,
+      "slug": "good-morning-miss-dove-1955",
+      "title": "Good Morning, Miss Dove",
+      "html_title": "<span class=\"film-title\">Good Morning, Miss Dove</span>",
+      "year": 1955,
+      "studio": "20th Century Fox",
+      "directors": "Henry Koster",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Good Morning, Miss Dove",
+      "work_html_title": "<span class=\"work-title\">Good Morning, Miss Dove</span>",
+      "work_id": 780
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 780,
+      "slug": "good-morning-miss-dove",
+      "title": "Good Morning, Miss Dove",
+      "formatted_title": "Good Morning, Miss Dove",
+      "html_title": "<span class=\"work-title\">Good Morning, Miss Dove</span>",
+      "work_type": "novel",
+      "publication_year": 1954,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 780,
+    "slug": "good-morning-miss-dove",
+    "title": "Good Morning, Miss Dove",
+    "formatted_title": "Good Morning, Miss Dove",
+    "html_title": "<span class=\"work-title\">Good Morning, Miss Dove</span>",
+    "work_type": "novel",
+    "publication_year": 1954,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T18:25:02.736198"
+}

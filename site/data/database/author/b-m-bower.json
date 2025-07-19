@@ -1,0 +1,268 @@
+{
+  "id": 33,
+  "slug": "b-m-bower",
+  "name": "B. M. Bower",
+  "birth_year": 1871,
+  "death_year": 1940,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1871–1940). Born in Cleveland. Died in Los Angeles. Occupations: screenwriter, novelist, teacher, writer. Notable works: Flying U",
+  "author_notes": null,
+  "wikidata_id": "Q2899250",
+  "stats": {
+    "total_films": 8,
+    "works_adapted": 7,
+    "first_adaptation": 1920,
+    "last_adaptation": 1939,
+    "year_span": 19,
+    "top_genres": [
+      {
+        "genre": "Western",
+        "count": 8
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 7,
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 72,
+      "slug": "the-galloping-devil-1920",
+      "title": "The Galloping Devil",
+      "html_title": "<span class=\"film-title\">The Galloping Devil</span>",
+      "year": 1920,
+      "studio": "Canyon Pictures",
+      "directors": "Nate Watt",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "The Happy Family",
+      "work_html_title": "<span class=\"work-title\">The Happy Family</span>",
+      "work_id": 69
+    },
+    {
+      "id": 1123,
+      "slug": "the-wolverine-1921",
+      "title": "The Wolverine",
+      "html_title": "<span class=\"film-title\">The Wolverine</span>",
+      "year": 1921,
+      "studio": "Spencer Productions, Inc.",
+      "directors": "William Bertram",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "The Ranch at the Wolverine",
+      "work_html_title": "<span class=\"work-title\">The Ranch at the Wolverine</span>",
+      "work_id": 1008
+    },
+    {
+      "id": 1125,
+      "slug": "ridin-thunder-1925",
+      "title": "Ridin' Thunder",
+      "html_title": "<span class=\"film-title\">Ridin' Thunder</span>",
+      "year": 1925,
+      "studio": "Universal Pictures Corp.",
+      "directors": "Clifford S. Smith",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "Jean of the Lazy A",
+      "work_html_title": "<span class=\"work-title\">Jean of the Lazy A</span>",
+      "work_id": 1011
+    },
+    {
+      "id": 1124,
+      "slug": "the-taming-of-the-west-1925",
+      "title": "The Taming of the West",
+      "html_title": "<span class=\"film-title\">The Taming of the West</span>",
+      "year": 1925,
+      "studio": "Universal Pictures Corp.",
+      "directors": "Arthur Rosson",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "The Range Dwellers",
+      "work_html_title": "<span class=\"work-title\">The Range Dwellers</span>",
+      "work_id": 1009
+    },
+    {
+      "id": 658,
+      "slug": "chip-of-the-flying-u-1926",
+      "title": "Chip of the Flying U",
+      "html_title": "<span class=\"film-title\">Chip of the Flying U</span>",
+      "year": 1926,
+      "studio": "Universal",
+      "directors": "Lynn Reynolds",
+      "genres": [
+        "Comedy",
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "Chip of the Flying U",
+      "work_html_title": "<span class=\"work-title\">Chip of the Flying U</span>",
+      "work_id": 319
+    },
+    {
+      "id": 1126,
+      "slug": "the-flying-u-ranch-1927",
+      "title": "The Flying U Ranch",
+      "html_title": "<span class=\"film-title\">The Flying U Ranch</span>",
+      "year": 1927,
+      "studio": "R-C Pictures Corp.",
+      "directors": "Robert De Lacy",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "The Flying U Ranch",
+      "work_html_title": "<span class=\"work-title\">The Flying U Ranch</span>",
+      "work_id": 1012
+    },
+    {
+      "id": 1127,
+      "slug": "points-west-1929",
+      "title": "Points West",
+      "html_title": "<span class=\"film-title\">Points West</span>",
+      "year": 1929,
+      "studio": "Universal Pictures Corp.",
+      "directors": "Arthur Rosson",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "Points West",
+      "work_html_title": "<span class=\"work-title\">Points West</span>",
+      "work_id": 1013
+    },
+    {
+      "id": 381,
+      "slug": "chip-of-the-flying-u-1939",
+      "title": "Chip of the Flying U",
+      "html_title": "<span class=\"film-title\">Chip of the Flying U</span>",
+      "year": 1939,
+      "studio": "Universal",
+      "directors": "Ralph Staub",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "Chip of the Flying U",
+      "work_html_title": "<span class=\"work-title\">Chip of the Flying U</span>",
+      "work_id": 319
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 319,
+      "slug": "chip-of-the-flying-u",
+      "title": "Chip of the Flying U",
+      "formatted_title": "Chip of the Flying U",
+      "html_title": "<span class=\"work-title\">Chip of the Flying U</span>",
+      "work_type": "novel",
+      "publication_year": 1906,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 69,
+      "slug": "the-happy-family",
+      "title": "The Happy Family",
+      "formatted_title": "The Happy Family",
+      "html_title": "<span class=\"work-title\">The Happy Family</span>",
+      "work_type": "novel",
+      "publication_year": 1910,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1008,
+      "slug": "the-ranch-at-the-wolverine",
+      "title": "The Ranch at the Wolverine",
+      "formatted_title": "The Ranch at the Wolverine",
+      "html_title": "<span class=\"work-title\">The Ranch at the Wolverine</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1011,
+      "slug": "jean-of-the-lazy-a",
+      "title": "Jean of the Lazy A",
+      "formatted_title": "Jean of the Lazy A",
+      "html_title": "<span class=\"work-title\">Jean of the Lazy A</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1009,
+      "slug": "the-range-dwellers",
+      "title": "The Range Dwellers",
+      "formatted_title": "The Range Dwellers",
+      "html_title": "<span class=\"work-title\">The Range Dwellers</span>",
+      "work_type": "novel",
+      "publication_year": 1906,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1012,
+      "slug": "the-flying-u-ranch",
+      "title": "The Flying U Ranch",
+      "formatted_title": "The Flying U Ranch",
+      "html_title": "<span class=\"work-title\">The Flying U Ranch</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1013,
+      "slug": "points-west",
+      "title": "Points West",
+      "formatted_title": "Points West",
+      "html_title": "<span class=\"work-title\">Points West</span>",
+      "work_type": "novel",
+      "publication_year": 1928,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 319,
+    "slug": "chip-of-the-flying-u",
+    "title": "Chip of the Flying U",
+    "formatted_title": "Chip of the Flying U",
+    "html_title": "<span class=\"work-title\">Chip of the Flying U</span>",
+    "work_type": "novel",
+    "publication_year": 1906,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:12.122879"
+}

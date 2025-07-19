@@ -1,0 +1,154 @@
+{
+  "id": 80,
+  "slug": "rose-franken",
+  "name": "Rose Franken",
+  "birth_year": 1896,
+  "death_year": 1988,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1895–1988). Born in Gainesville. Died in Tucson. Occupations: short story writer, screenwriter, writer, playwright, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q1242613",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1943,
+    "last_adaptation": 1946,
+    "year_span": 3,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Domestic",
+        "count": 2
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Psychological",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 274,
+      "slug": "claudia-1943",
+      "title": "Claudia",
+      "html_title": "<span class=\"film-title\">Claudia</span>",
+      "year": 1943,
+      "studio": "20th Century Fox",
+      "directors": "Edmund Goulding",
+      "genres": [
+        "Drama",
+        "Domestic",
+        "with songs"
+      ],
+      "has_media": true,
+      "work_title": "Claudia",
+      "work_html_title": "<span class=\"work-title\">Claudia</span>",
+      "work_id": 230
+    },
+    {
+      "id": 285,
+      "slug": "claudia-and-david-1946",
+      "title": "Claudia and David",
+      "html_title": "<span class=\"film-title\">Claudia and David</span>",
+      "year": 1946,
+      "studio": "20th Century Fox",
+      "directors": "Walter Lang",
+      "genres": [
+        "Comedy-drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Claudia and David",
+      "work_html_title": "<span class=\"work-title\">Claudia and David</span>",
+      "work_id": 239
+    },
+    {
+      "id": 579,
+      "slug": "the-secret-heart-1946",
+      "title": "The Secret Heart",
+      "html_title": "<span class=\"film-title\">The Secret Heart</span>",
+      "year": 1946,
+      "studio": "MGM",
+      "directors": "Robert Z. Leonard",
+      "genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "has_media": true,
+      "work_title": "Twenty-Two",
+      "work_html_title": "<span class=\"work-title\">Twenty-Two</span>",
+      "work_id": 507
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 230,
+      "slug": "claudia",
+      "title": "Claudia",
+      "formatted_title": "Claudia",
+      "html_title": "<span class=\"work-title\">Claudia</span>",
+      "work_type": "novel",
+      "publication_year": 1942,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 239,
+      "slug": "claudia-and-david",
+      "title": "Claudia and David",
+      "formatted_title": "Claudia and David",
+      "html_title": "<span class=\"work-title\">Claudia and David</span>",
+      "work_type": "novel",
+      "publication_year": 1940,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 507,
+      "slug": "twenty-two",
+      "title": "Twenty-Two",
+      "formatted_title": "Twenty-Two",
+      "html_title": "<span class=\"work-title\">Twenty-Two</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 230,
+    "slug": "claudia",
+    "title": "Claudia",
+    "formatted_title": "Claudia",
+    "html_title": "<span class=\"work-title\">Claudia</span>",
+    "work_type": "novel",
+    "publication_year": 1942,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:12.982493"
+}

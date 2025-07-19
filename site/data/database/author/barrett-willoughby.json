@@ -1,0 +1,100 @@
+{
+  "id": 496,
+  "slug": "barrett-willoughby",
+  "name": "Barrett Willoughby",
+  "birth_year": 1886,
+  "death_year": 1959,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in Alaska. Died in Berkeley. Occupations: novelist, writer",
+  "author_notes": "aka Florance Barrett",
+  "wikidata_id": "Q4863450",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 1,
+    "first_adaptation": 1938,
+    "last_adaptation": 1953,
+    "year_span": 15,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Sea",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1,
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1088,
+      "slug": "spawn-of-the-north-1938",
+      "title": "Spawn of the North",
+      "html_title": "<span class=\"film-title\">Spawn of the North</span>",
+      "year": 1938,
+      "studio": "Paramount",
+      "directors": "Henry Hathaway",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Spawn of the North",
+      "work_html_title": "<span class=\"work-title\">Spawn of the North</span>",
+      "work_id": 976
+    },
+    {
+      "id": 1089,
+      "slug": "alaska-seas-1953",
+      "title": "Alaska Seas",
+      "html_title": "<span class=\"film-title\">Alaska Seas</span>",
+      "year": 1953,
+      "studio": "Paramount",
+      "directors": "Jerry Hopper",
+      "genres": [
+        "Drama",
+        "Sea"
+      ],
+      "has_media": false,
+      "work_title": "Spawn of the North",
+      "work_html_title": "<span class=\"work-title\">Spawn of the North</span>",
+      "work_id": 976
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 976,
+      "slug": "spawn-of-the-north",
+      "title": "Spawn of the North",
+      "formatted_title": "Spawn of the North",
+      "html_title": "<span class=\"work-title\">Spawn of the North</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 976,
+    "slug": "spawn-of-the-north",
+    "title": "Spawn of the North",
+    "formatted_title": "Spawn of the North",
+    "html_title": "<span class=\"work-title\">Spawn of the North</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:55:02.573505"
+}

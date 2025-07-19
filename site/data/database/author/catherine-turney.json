@@ -1,0 +1,83 @@
+{
+  "id": 475,
+  "slug": "catherine-turney",
+  "name": "Catherine Turney",
+  "birth_year": 1906,
+  "death_year": 1998,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "screenwriter, playwright, novelist. Born in Chicago. Died in Sierra Madre. Occupations: novelist, screenwriter, playwright, writer",
+  "author_notes": null,
+  "wikidata_id": "Q20901121",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1957,
+    "last_adaptation": 1957,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Psychological",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1041,
+      "slug": "back-from-the-dead-1957",
+      "title": "Back from the Dead",
+      "html_title": "<span class=\"film-title\">Back from the Dead</span>",
+      "year": 1957,
+      "studio": "Regal Films, Inc.|Emirau Productions",
+      "directors": "Charles Marquis Warren",
+      "genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "has_media": false,
+      "work_title": "The Other One",
+      "work_html_title": "<span class=\"work-title\">The Other One</span>",
+      "work_id": 934
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 934,
+      "slug": "the-other-one",
+      "title": "The Other One",
+      "formatted_title": "The Other One",
+      "html_title": "<span class=\"work-title\">The Other One</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 934,
+    "slug": "the-other-one",
+    "title": "The Other One",
+    "formatted_title": "The Other One",
+    "html_title": "<span class=\"work-title\">The Other One</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T17:50:10.766108"
+}

@@ -1,0 +1,83 @@
+{
+  "id": 213,
+  "slug": "angna-enters",
+  "name": "Angna Enters",
+  "birth_year": 1897,
+  "death_year": 1989,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American dancer, mime, painter, writer, novelist and playwright (1897-1989). Born in New York City. Died in Tenafly. Occupations: mime artist, dancer, painter, autobiographer, actor",
+  "author_notes": null,
+  "wikidata_id": "Q4763725",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1948,
+    "last_adaptation": 1948,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 544,
+      "slug": "tenth-avenue-angel-1948",
+      "title": "Tenth Avenue Angel",
+      "html_title": "<span class=\"film-title\">Tenth Avenue Angel</span>",
+      "year": 1948,
+      "studio": "MGM",
+      "directors": "Roy Rowland",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Tenth Avenue Angel",
+      "work_html_title": "<span class=\"work-title\">Tenth Avenue Angel</span>",
+      "work_id": 474
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 474,
+      "slug": "tenth-avenue-angel",
+      "title": "Tenth Avenue Angel",
+      "formatted_title": "Tenth Avenue Angel",
+      "html_title": "<span class=\"work-title\">Tenth Avenue Angel</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 474,
+    "slug": "tenth-avenue-angel",
+    "title": "Tenth Avenue Angel",
+    "formatted_title": "Tenth Avenue Angel",
+    "html_title": "<span class=\"work-title\">Tenth Avenue Angel</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-24T14:30:52.44389"
+}

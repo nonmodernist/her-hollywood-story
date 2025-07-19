@@ -1,0 +1,83 @@
+{
+  "id": 423,
+  "slug": "betty-rogers",
+  "name": "Betty Rogers",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": "aka Betty Blake",
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1952,
+    "last_adaptation": 1952,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Biography",
+        "count": 1
+      },
+      {
+        "genre": "Show business",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 961,
+      "slug": "the-story-of-will-rogers-1952",
+      "title": "The Story of Will Rogers",
+      "html_title": "<span class=\"film-title\">The Story of Will Rogers</span>",
+      "year": 1952,
+      "studio": "Warner Bros",
+      "directors": "Michael Curtiz",
+      "genres": [
+        "Biography",
+        "Show business"
+      ],
+      "has_media": false,
+      "work_title": "Will Rogers: His Wife's Story",
+      "work_html_title": "<span class=\"work-title\">Will Rogers: His Wife's Story</span>",
+      "work_id": 863
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 863,
+      "slug": "will-rogers-his-wifes-story",
+      "title": "Will Rogers: His Wife's Story",
+      "formatted_title": "Will Rogers: His Wife's Story",
+      "html_title": "<span class=\"work-title\">Will Rogers: His Wife's Story</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 863,
+    "slug": "will-rogers-his-wifes-story",
+    "title": "Will Rogers: His Wife's Story",
+    "formatted_title": "Will Rogers: His Wife's Story",
+    "html_title": "<span class=\"work-title\">Will Rogers: His Wife's Story</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-11T14:45:25.562884"
+}

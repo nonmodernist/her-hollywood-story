@@ -1,0 +1,83 @@
+{
+  "id": 70,
+  "slug": "margaret-culkin-banning",
+  "name": "Margaret Culkin Banning",
+  "birth_year": 1891,
+  "death_year": 1982,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "novelist. Born in Buffalo. Died in Tryon. Occupations: politician, novelist, short story writer, writer",
+  "author_notes": null,
+  "wikidata_id": "Q6759314",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1938,
+    "last_adaptation": 1938,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 247,
+      "slug": "woman-against-woman-1938",
+      "title": "Woman Against Woman",
+      "html_title": "<span class=\"film-title\">Woman Against Woman</span>",
+      "year": 1938,
+      "studio": "MGM",
+      "directors": "Robert B. Sinclair",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "\"Enemy Territory\"",
+      "work_html_title": "<span class=\"work-title\">\"Enemy Territory\"</span>",
+      "work_id": 212
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 212,
+      "slug": "enemy-territory",
+      "title": "\"Enemy Territory\"",
+      "formatted_title": "\"Enemy Territory\"",
+      "html_title": "<span class=\"work-title\">\"Enemy Territory\"</span>",
+      "work_type": "novel",
+      "publication_year": 1937,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 212,
+    "slug": "enemy-territory",
+    "title": "\"Enemy Territory\"",
+    "formatted_title": "\"Enemy Territory\"",
+    "html_title": "<span class=\"work-title\">\"Enemy Territory\"</span>",
+    "work_type": "novel",
+    "publication_year": 1937,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:03.191455"
+}

@@ -1,0 +1,60 @@
+{
+  "id": 212,
+  "slug": "enemy-territory",
+  "title": "\"Enemy Territory\"",
+  "formatted_title": "\"Enemy Territory\"",
+  "html_title": "<span class=\"work-title\">\"Enemy Territory\"</span>",
+  "work_type": "novel",
+  "publication_year": 1937,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 70,
+    "slug": "margaret-culkin-banning",
+    "name": "Margaret Culkin Banning",
+    "birth_year": 1891,
+    "death_year": 1982,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 247,
+      "slug": "woman-against-woman-1938",
+      "title": "Woman Against Woman",
+      "html_title": "<span class=\"film-title\">Woman Against Woman</span>",
+      "year": 1938,
+      "studio": "MGM",
+      "directors": "Robert B. Sinclair",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T22:51:00.049852"
+}

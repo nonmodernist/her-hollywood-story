@@ -1,0 +1,120 @@
+{
+  "id": 188,
+  "slug": "marcia-davenport",
+  "name": "Marcia Davenport",
+  "birth_year": 1903,
+  "death_year": 1996,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author and music critic. Born in New York City. Died in Monterey. Occupations: journalist, music critic, biographer, novelist, opinion journalist, writer, musicologist",
+  "author_notes": null,
+  "wikidata_id": "Q2908658",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1945,
+    "last_adaptation": 1949,
+    "year_span": 4,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 495,
+      "slug": "the-valley-of-decision-1945",
+      "title": "The Valley of Decision",
+      "html_title": "<span class=\"film-title\">The Valley of Decision</span>",
+      "year": 1945,
+      "studio": "MGM",
+      "directors": "Tay Garnett",
+      "genres": [
+        "Romance",
+        "Historical"
+      ],
+      "has_media": true,
+      "work_title": "The Valley of Decision",
+      "work_html_title": "<span class=\"work-title\">The Valley of Decision</span>",
+      "work_id": 426
+    },
+    {
+      "id": 494,
+      "slug": "east-side-west-side-1949",
+      "title": "East Side, West Side",
+      "html_title": "<span class=\"film-title\">East Side, West Side</span>",
+      "year": 1949,
+      "studio": "MGM",
+      "directors": "Mervyn LeRoy",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": true,
+      "work_title": "East Side, West Side",
+      "work_html_title": "<span class=\"work-title\">East Side, West Side</span>",
+      "work_id": 425
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 426,
+      "slug": "the-valley-of-decision",
+      "title": "The Valley of Decision",
+      "formatted_title": "The Valley of Decision",
+      "html_title": "<span class=\"work-title\">The Valley of Decision</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 425,
+      "slug": "east-side-west-side",
+      "title": "East Side, West Side",
+      "formatted_title": "East Side, West Side",
+      "html_title": "<span class=\"work-title\">East Side, West Side</span>",
+      "work_type": "novel",
+      "publication_year": 1947,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 426,
+    "slug": "the-valley-of-decision",
+    "title": "The Valley of Decision",
+    "formatted_title": "The Valley of Decision",
+    "html_title": "<span class=\"work-title\">The Valley of Decision</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T01:12:15.171082"
+}

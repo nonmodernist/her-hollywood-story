@@ -1,0 +1,59 @@
+{
+  "id": 422,
+  "slug": "dangerous-number",
+  "title": "Dangerous Number",
+  "formatted_title": "Dangerous Number",
+  "html_title": "<span class=\"work-title\">Dangerous Number</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 186,
+    "slug": "leona-dalrymple",
+    "name": "Leona Dalrymple",
+    "birth_year": 1884,
+    "death_year": 1968,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 491,
+      "slug": "dangerous-number-1937",
+      "title": "Dangerous Number",
+      "html_title": "<span class=\"film-title\">Dangerous Number</span>",
+      "year": 1937,
+      "studio": "MGM",
+      "directors": "Richard Thorpe",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "years_after_publication": 1937
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T00:55:14.63533"
+}

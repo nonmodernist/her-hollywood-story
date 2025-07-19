@@ -1,0 +1,82 @@
+{
+  "id": 4,
+  "slug": "a-lady-of-quality-1913",
+  "title": "A Lady of Quality",
+  "formatted_title": "A Lady of Quality",
+  "html_title": "<span class=\"film-title\">A Lady of Quality</span>",
+  "release_year": 1913,
+  "runtime_minutes": 50,
+  "country_of_production": "United States",
+  "genres": [
+    "Drama"
+  ],
+  "studio": "Famous Players",
+  "production_companies": "Famous Players Film Co.",
+  "distribution_companies": "States' rights",
+  "directors": null,
+  "writers": null,
+  "cast_members": "Cecilia Loftus|Geraldine O'Brien|House Peters|Peter Lang|Hal Clarendon|Edna Weick|Roy Pilser|Dave Wall|Alexander Gaden|Henrietta Goodman",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 18163,
+  "source_work": {
+    "id": 4,
+    "slug": "a-lady-of-quality",
+    "title": "A Lady of Quality",
+    "formatted_title": "A Lady of Quality",
+    "html_title": "<span class=\"work-title\">A Lady of Quality</span>",
+    "work_type": "novel",
+    "publication_year": 1896,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 17
+  },
+  "author": {
+    "id": 3,
+    "slug": "frances-hodgson-burnett",
+    "name": "Frances Hodgson Burnett",
+    "birth_year": 1849,
+    "death_year": 1924,
+    "nationality": "United Kingdom of Great Britain and Ireland, United Kingdom, United States",
+    "film_count": 17
+  },
+  "other_adaptations": [
+    {
+      "id": 104,
+      "slug": "a-lady-of-quality-1924",
+      "title": "A Lady of Quality",
+      "html_title": "<span class=\"film-title\">A Lady of Quality</span>",
+      "year": 1924,
+      "directors": "Hobart Henley",
+      "studio": "Universal"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 1,
+    "is_first": true,
+    "is_latest": false
+  },
+  "media": [
+    {
+      "id": 11,
+      "media_type": "poster",
+      "title": "Lady of Quality poster.jpg",
+      "caption": "Poster for the American drama film A Lady of Quality (1913).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lady_of_Quality_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lady_of_Quality_poster.jpg/300px-Lady_of_Quality_poster.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lady_of_Quality_poster.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

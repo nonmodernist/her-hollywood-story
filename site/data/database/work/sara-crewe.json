@@ -1,0 +1,80 @@
+{
+  "id": 362,
+  "slug": "sara-crewe",
+  "title": "Sara Crewe",
+  "formatted_title": "Sara Crewe",
+  "html_title": "<span class=\"work-title\">Sara Crewe</span>",
+  "work_type": "novel",
+  "publication_year": 1891,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 3,
+    "slug": "frances-hodgson-burnett",
+    "name": "Frances Hodgson Burnett",
+    "birth_year": 1849,
+    "death_year": 1924,
+    "film_count": 17
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 22,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 22
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 26,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 426,
+      "slug": "the-little-princess-1917",
+      "title": "The Little Princess",
+      "html_title": "<span class=\"film-title\">The Little Princess</span>",
+      "year": 1917,
+      "studio": "Mary Pickford",
+      "directors": "Marshall Neilan",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 26
+    },
+    {
+      "id": 427,
+      "slug": "the-little-princess-1939",
+      "title": "The Little Princess",
+      "html_title": "<span class=\"film-title\">The Little Princess</span>",
+      "year": 1939,
+      "studio": "20th Century Fox",
+      "directors": "Walter Lang",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": true,
+      "years_after_publication": 48
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1917,
+      "to_year": 1939,
+      "gap_years": 22
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T21:02:58.46668"
+}

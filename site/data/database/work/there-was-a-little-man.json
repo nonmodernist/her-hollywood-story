@@ -1,0 +1,60 @@
+{
+  "id": 595,
+  "slug": "there-was-a-little-man",
+  "title": "There Was a Little Man",
+  "formatted_title": "There Was a Little Man",
+  "html_title": "<span class=\"work-title\">There Was a Little Man</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": "co-writer Guy Pearce Jones",
+  "author": {
+    "id": 286,
+    "slug": "constance-bridges-jones",
+    "name": "Constance Bridges Jones",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 678,
+      "slug": "the-luck-of-the-irish-1948",
+      "title": "The Luck of the Irish",
+      "html_title": "<span class=\"film-title\">The Luck of the Irish</span>",
+      "year": 1948,
+      "studio": "20th Century Fox",
+      "directors": "Henry Koster",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "has_media": false,
+      "years_after_publication": 1948
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-06T15:04:15.381863"
+}

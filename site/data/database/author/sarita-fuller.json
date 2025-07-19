@@ -1,0 +1,78 @@
+{
+  "id": 227,
+  "slug": "sarita-fuller",
+  "name": "Sarita Fuller",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": "pseud of Beulah Marie Dix",
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1929,
+    "last_adaptation": 1929,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 582,
+      "slug": "their-own-desire-1929",
+      "title": "Their Own Desire",
+      "html_title": "<span class=\"film-title\">Their Own Desire</span>",
+      "year": 1929,
+      "studio": "MGM",
+      "directors": "E. Mason Hopper",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": true,
+      "work_title": "Their Own Desire",
+      "work_html_title": "<span class=\"work-title\">Their Own Desire</span>",
+      "work_id": 510
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 510,
+      "slug": "their-own-desire",
+      "title": "Their Own Desire",
+      "formatted_title": "Their Own Desire",
+      "html_title": "<span class=\"work-title\">Their Own Desire</span>",
+      "work_type": "novel",
+      "publication_year": 1929,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 510,
+    "slug": "their-own-desire",
+    "title": "Their Own Desire",
+    "formatted_title": "Their Own Desire",
+    "html_title": "<span class=\"work-title\">Their Own Desire</span>",
+    "work_type": "novel",
+    "publication_year": 1929,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T23:42:40.28474"
+}

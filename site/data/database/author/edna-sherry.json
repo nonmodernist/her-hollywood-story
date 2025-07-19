@@ -1,0 +1,83 @@
+{
+  "id": 443,
+  "slug": "edna-sherry",
+  "name": "Edna Sherry",
+  "birth_year": 1885,
+  "death_year": 1967,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American playwright (1885-1967). Born in Cincinnati. Died in New York City. Occupations: playwright, writer",
+  "author_notes": null,
+  "wikidata_id": "Q16025230",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1952,
+    "last_adaptation": 1952,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 1
+      },
+      {
+        "genre": "Suspense",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 985,
+      "slug": "sudden-fear-1952",
+      "title": "Sudden Fear",
+      "html_title": "<span class=\"film-title\">Sudden Fear</span>",
+      "year": 1952,
+      "studio": "Joseph Kaufman Productions, Inc.|RKO Radio Pictures, Inc.",
+      "directors": "David Miller|Ralph Hoge",
+      "genres": [
+        "Romance",
+        "Suspense"
+      ],
+      "has_media": false,
+      "work_title": "Sudden Fear",
+      "work_html_title": "<span class=\"work-title\">Sudden Fear</span>",
+      "work_id": 887
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 887,
+      "slug": "sudden-fear",
+      "title": "Sudden Fear",
+      "formatted_title": "Sudden Fear",
+      "html_title": "<span class=\"work-title\">Sudden Fear</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 887,
+    "slug": "sudden-fear",
+    "title": "Sudden Fear",
+    "formatted_title": "Sudden Fear",
+    "html_title": "<span class=\"work-title\">Sudden Fear</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:26:08.453258"
+}

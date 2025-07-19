@@ -1,0 +1,79 @@
+{
+  "id": 843,
+  "slug": "what-happened-to-father",
+  "title": "What Happened to Father",
+  "formatted_title": "What Happened to Father",
+  "html_title": "<span class=\"work-title\">What Happened to Father</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 6,
+    "slug": "mary-roberts-rinehart",
+    "name": "Mary Roberts Rinehart",
+    "birth_year": 1876,
+    "death_year": 1958,
+    "film_count": 31
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 12,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 12
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 940,
+      "slug": "what-happened-to-father-1915",
+      "title": "What Happened to Father?",
+      "html_title": "<span class=\"film-title\">What Happened to Father?</span>",
+      "year": 1915,
+      "studio": "Vitagraph",
+      "directors": "C. Jay Williams",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "years_after_publication": 1915
+    },
+    {
+      "id": 941,
+      "slug": "what-happened-to-father-1927",
+      "title": "What Happened to Father",
+      "html_title": "<span class=\"film-title\">What Happened to Father</span>",
+      "year": 1927,
+      "studio": "Warner Bros",
+      "directors": "John G. Adolfi",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "years_after_publication": 1927
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1915,
+      "to_year": 1927,
+      "gap_years": 12
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-11T15:42:10.41529"
+}

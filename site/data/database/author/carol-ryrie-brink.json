@@ -1,0 +1,88 @@
+{
+  "id": 135,
+  "slug": "carol-ryrie-brink",
+  "name": "Carol Ryrie Brink",
+  "birth_year": 1895,
+  "death_year": 1981,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American children's writer. Born in Moscow. Died in La Jolla. Occupations: writer, children's writer, novelist. Notable works: Baby Island, Magical Melons, Caddie Woodlawn",
+  "author_notes": null,
+  "wikidata_id": "Q5044537",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1953,
+    "last_adaptation": 1953,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 394,
+      "slug": "all-i-desire-1953",
+      "title": "All I Desire",
+      "html_title": "<span class=\"film-title\">All I Desire</span>",
+      "year": 1953,
+      "studio": "Universal-International",
+      "directors": "Douglas Sirk",
+      "genres": [
+        "Drama",
+        "Domestic",
+        "Historical"
+      ],
+      "has_media": true,
+      "work_title": "Stopover",
+      "work_html_title": "<span class=\"work-title\">Stopover</span>",
+      "work_id": 331
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 331,
+      "slug": "stopover",
+      "title": "Stopover",
+      "formatted_title": "Stopover",
+      "html_title": "<span class=\"work-title\">Stopover</span>",
+      "work_type": "novel",
+      "publication_year": 1951,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 331,
+    "slug": "stopover",
+    "title": "Stopover",
+    "formatted_title": "Stopover",
+    "html_title": "<span class=\"work-title\">Stopover</span>",
+    "work_type": "novel",
+    "publication_year": 1951,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:06.998295"
+}

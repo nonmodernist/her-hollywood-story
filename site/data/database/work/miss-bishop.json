@@ -1,0 +1,60 @@
+{
+  "id": 221,
+  "slug": "miss-bishop",
+  "title": "Miss Bishop",
+  "formatted_title": "Miss Bishop",
+  "html_title": "<span class=\"work-title\">Miss Bishop</span>",
+  "work_type": "novel",
+  "publication_year": 1933,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 55,
+    "slug": "bess-streeter-aldrich",
+    "name": "Bess Streeter Aldrich",
+    "birth_year": 1881,
+    "death_year": 1954,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 8,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 262,
+      "slug": "cheers-for-miss-bishop-1941",
+      "title": "Cheers for Miss Bishop",
+      "html_title": "<span class=\"film-title\">Cheers for Miss Bishop</span>",
+      "year": 1941,
+      "studio": "United Artists",
+      "directors": "Tay Garnett",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": true,
+      "years_after_publication": 8
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:48:03.914138"
+}

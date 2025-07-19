@@ -1,0 +1,83 @@
+{
+  "id": 398,
+  "slug": "louise-pierson",
+  "name": "Louise Pierson",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1945,
+    "last_adaptation": 1945,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Biography",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 878,
+      "slug": "roughly-speaking-1945",
+      "title": "Roughly Speaking",
+      "html_title": "<span class=\"film-title\">Roughly Speaking</span>",
+      "year": 1945,
+      "studio": "Warner Bros",
+      "directors": "Michael Curtiz",
+      "genres": [
+        "Biography",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Roughly Speaking",
+      "work_html_title": "<span class=\"work-title\">Roughly Speaking</span>",
+      "work_id": 787
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 787,
+      "slug": "roughly-speaking",
+      "title": "Roughly Speaking",
+      "formatted_title": "Roughly Speaking",
+      "html_title": "<span class=\"work-title\">Roughly Speaking</span>",
+      "work_type": "novel",
+      "publication_year": 1943,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 787,
+    "slug": "roughly-speaking",
+    "title": "Roughly Speaking",
+    "formatted_title": "Roughly Speaking",
+    "html_title": "<span class=\"work-title\">Roughly Speaking</span>",
+    "work_type": "novel",
+    "publication_year": 1943,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T17:57:33.053183"
+}

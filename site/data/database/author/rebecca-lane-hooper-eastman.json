@@ -1,0 +1,78 @@
+{
+  "id": 204,
+  "slug": "rebecca-lane-hooper-eastman",
+  "name": "Rebecca Lane Hooper Eastman",
+  "birth_year": 1877,
+  "death_year": 1937,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer and journalist. Born in Walpole. Died in Brooklyn. Occupations: novelist, journalist",
+  "author_notes": null,
+  "wikidata_id": "Q19665055",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1919,
+    "last_adaptation": 1919,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 527,
+      "slug": "the-big-little-person-1919",
+      "title": "The Big Little Person",
+      "html_title": "<span class=\"film-title\">The Big Little Person</span>",
+      "year": 1919,
+      "studio": "Universal",
+      "directors": "Robert Z. Leonard",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Big Little Person",
+      "work_html_title": "<span class=\"work-title\">The Big Little Person</span>",
+      "work_id": 458
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 458,
+      "slug": "the-big-little-person",
+      "title": "The Big Little Person",
+      "formatted_title": "The Big Little Person",
+      "html_title": "<span class=\"work-title\">The Big Little Person</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 458,
+    "slug": "the-big-little-person",
+    "title": "The Big Little Person",
+    "formatted_title": "The Big Little Person",
+    "html_title": "<span class=\"work-title\">The Big Little Person</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-24T14:30:43.211583"
+}

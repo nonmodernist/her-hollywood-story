@@ -1,0 +1,100 @@
+{
+  "id": 128,
+  "slug": "blanche-brace",
+  "name": "Blanche Brace",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 1,
+    "first_adaptation": 1922,
+    "last_adaptation": 1945,
+    "year_span": 23,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 2
+      },
+      {
+        "genre": "Homefront",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1,
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 383,
+      "slug": "dont-write-letters-1922",
+      "title": "Don't Write Letters",
+      "html_title": "<span class=\"film-title\">Don't Write Letters</span>",
+      "year": 1922,
+      "studio": "Metro Pictures",
+      "directors": "George D. Baker",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "The Adventures of a Ready Letter Writer",
+      "work_html_title": "<span class=\"work-title\">The Adventures of a Ready Letter Writer</span>",
+      "work_id": 321
+    },
+    {
+      "id": 384,
+      "slug": "a-letter-for-evie-1945",
+      "title": "A Letter for Evie",
+      "html_title": "<span class=\"film-title\">A Letter for Evie</span>",
+      "year": 1945,
+      "studio": "MGM",
+      "directors": "Jules Dassin",
+      "genres": [
+        "Comedy-drama",
+        "Homefront"
+      ],
+      "has_media": false,
+      "work_title": "The Adventures of a Ready Letter Writer",
+      "work_html_title": "<span class=\"work-title\">The Adventures of a Ready Letter Writer</span>",
+      "work_id": 321
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 321,
+      "slug": "the-adventures-of-a-ready-letter-writer",
+      "title": "The Adventures of a Ready Letter Writer",
+      "formatted_title": "The Adventures of a Ready Letter Writer",
+      "html_title": "<span class=\"work-title\">The Adventures of a Ready Letter Writer</span>",
+      "work_type": "novel",
+      "publication_year": 1920,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 321,
+    "slug": "the-adventures-of-a-ready-letter-writer",
+    "title": "The Adventures of a Ready Letter Writer",
+    "formatted_title": "The Adventures of a Ready Letter Writer",
+    "html_title": "<span class=\"work-title\">The Adventures of a Ready Letter Writer</span>",
+    "work_type": "novel",
+    "publication_year": 1920,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-18T02:42:34.641016"
+}

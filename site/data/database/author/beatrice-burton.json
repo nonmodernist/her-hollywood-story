@@ -1,0 +1,175 @@
+{
+  "id": 49,
+  "slug": "beatrice-burton",
+  "name": "Beatrice Burton",
+  "birth_year": 1894,
+  "death_year": 1983,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1894-1983). Born in Cleveland. Died in Naples. Occupations: novelist, writer, actor",
+  "author_notes": null,
+  "wikidata_id": "Q4877134",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 4,
+    "first_adaptation": 1926,
+    "last_adaptation": 1928,
+    "year_span": 2,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 2
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      },
+      {
+        "genre": "Romance",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 4
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 132,
+      "slug": "footloose-widows-1926",
+      "title": "Footloose Widows",
+      "html_title": "<span class=\"film-title\">Footloose Widows</span>",
+      "year": 1926,
+      "studio": "Warner Bros",
+      "directors": "Roy Del Ruth",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "work_title": "Footloose",
+      "work_html_title": "<span class=\"work-title\">Footloose</span>",
+      "work_id": 126
+    },
+    {
+      "id": 133,
+      "slug": "his-jazz-bride-1926",
+      "title": "His Jazz Bride",
+      "html_title": "<span class=\"film-title\">His Jazz Bride</span>",
+      "year": 1926,
+      "studio": "Warner Bros",
+      "directors": "Herman C. Raymaker",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "The Flapper Wife",
+      "work_html_title": "<span class=\"work-title\">The Flapper Wife</span>",
+      "work_id": 127
+    },
+    {
+      "id": 152,
+      "slug": "sallys-shoulders-1928",
+      "title": "Sally's Shoulders",
+      "html_title": "<span class=\"film-title\">Sally's Shoulders</span>",
+      "year": 1928,
+      "studio": "FBO",
+      "directors": "Lynn Shores",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "Sally's Shoulders",
+      "work_html_title": "<span class=\"work-title\">Sally's Shoulders</span>",
+      "work_id": 141
+    },
+    {
+      "id": 153,
+      "slug": "the-little-yellow-house-1928",
+      "title": "The Little Yellow House",
+      "html_title": "<span class=\"film-title\">The Little Yellow House</span>",
+      "year": 1928,
+      "studio": "FBO",
+      "directors": "James Leo Meehan",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "The Little Yellow House",
+      "work_html_title": "<span class=\"work-title\">The Little Yellow House</span>",
+      "work_id": 142
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 126,
+      "slug": "footloose",
+      "title": "Footloose",
+      "formatted_title": "Footloose",
+      "html_title": "<span class=\"work-title\">Footloose</span>",
+      "work_type": "novel",
+      "publication_year": 1926,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 127,
+      "slug": "the-flapper-wife",
+      "title": "The Flapper Wife",
+      "formatted_title": "The Flapper Wife",
+      "html_title": "<span class=\"work-title\">The Flapper Wife</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 141,
+      "slug": "sallys-shoulders",
+      "title": "Sally's Shoulders",
+      "formatted_title": "Sally's Shoulders",
+      "html_title": "<span class=\"work-title\">Sally's Shoulders</span>",
+      "work_type": "novel",
+      "publication_year": 1927,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 142,
+      "slug": "the-little-yellow-house",
+      "title": "The Little Yellow House",
+      "formatted_title": "The Little Yellow House",
+      "html_title": "<span class=\"work-title\">The Little Yellow House</span>",
+      "work_type": "novel",
+      "publication_year": 1928,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 126,
+    "slug": "footloose",
+    "title": "Footloose",
+    "formatted_title": "Footloose",
+    "html_title": "<span class=\"work-title\">Footloose</span>",
+    "work_type": "novel",
+    "publication_year": 1926,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:35.898943"
+}

@@ -1,0 +1,83 @@
+{
+  "id": 428,
+  "slug": "carolyn-green-rothstein",
+  "name": "Carolyn Green Rothstein",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1934,
+    "last_adaptation": 1934,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Biography",
+        "count": 1
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 967,
+      "slug": "now-ill-tell-1934",
+      "title": "Now I'll Tell",
+      "html_title": "<span class=\"film-title\">Now I'll Tell</span>",
+      "year": 1934,
+      "studio": "Fox Film",
+      "directors": null,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Now I'll Tell",
+      "work_html_title": "<span class=\"work-title\">Now I'll Tell</span>",
+      "work_id": 869
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 869,
+      "slug": "now-ill-tell",
+      "title": "Now I'll Tell",
+      "formatted_title": "Now I'll Tell",
+      "html_title": "<span class=\"work-title\">Now I'll Tell</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 869,
+    "slug": "now-ill-tell",
+    "title": "Now I'll Tell",
+    "formatted_title": "Now I'll Tell",
+    "html_title": "<span class=\"work-title\">Now I'll Tell</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-11T14:45:25.562884"
+}

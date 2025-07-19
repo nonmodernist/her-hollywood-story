@@ -1,0 +1,211 @@
+{
+  "id": 146,
+  "slug": "pearl-s-buck",
+  "name": "Pearl S. Buck",
+  "birth_year": 1892,
+  "death_year": 1973,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1892–1973). Born in Hillsboro. Died in Danby. Occupations: autobiographer, prose writer, writer, journalist, translator, missionary, children's writer, human rights activist, novelist, screenwriter. Notable works: China Sky, Fighting Angel, Sons, Imperial Woman, The Good Earth",
+  "author_notes": null,
+  "wikidata_id": "Q80900",
+  "stats": {
+    "total_films": 5,
+    "works_adapted": 5,
+    "first_adaptation": 1937,
+    "last_adaptation": 1962,
+    "year_span": 25,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 3
+      },
+      {
+        "genre": "War",
+        "count": 1
+      },
+      {
+        "genre": "Medical",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1,
+      "1940": 2,
+      "1960": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 419,
+      "slug": "the-good-earth-1937",
+      "title": "The Good Earth",
+      "html_title": "<span class=\"film-title\">The Good Earth</span>",
+      "year": 1937,
+      "studio": "MGM",
+      "directors": "Sidney Franklin|Victor Fleming|Gustav Machaty",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Good Earth",
+      "work_html_title": "<span class=\"work-title\">The Good Earth</span>",
+      "work_id": 355
+    },
+    {
+      "id": 418,
+      "slug": "dragon-seed-1944",
+      "title": "Dragon Seed",
+      "html_title": "<span class=\"film-title\">Dragon Seed</span>",
+      "year": 1944,
+      "studio": "MGM",
+      "directors": "Jack Conway|Harold S. Bucquet",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "has_media": true,
+      "work_title": "Dragon Seed",
+      "work_html_title": "<span class=\"work-title\">Dragon Seed</span>",
+      "work_id": 354
+    },
+    {
+      "id": 417,
+      "slug": "china-sky-1945",
+      "title": "China Sky",
+      "html_title": "<span class=\"film-title\">China Sky</span>",
+      "year": 1945,
+      "studio": "RKO",
+      "directors": "Ray Enright",
+      "genres": [
+        "Drama",
+        "Medical"
+      ],
+      "has_media": true,
+      "work_title": "China Sky",
+      "work_html_title": "<span class=\"work-title\">China Sky</span>",
+      "work_id": 353
+    },
+    {
+      "id": 420,
+      "slug": "satan-never-sleeps-1962",
+      "title": "Satan Never Sleeps",
+      "html_title": "<span class=\"film-title\">Satan Never Sleeps</span>",
+      "year": 1962,
+      "studio": "20th Century Fox",
+      "directors": "Leo McCarey|Jack Cardiff",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "Satan Never Sleeps",
+      "work_html_title": "<span class=\"work-title\">Satan Never Sleeps</span>",
+      "work_id": 356
+    },
+    {
+      "id": 416,
+      "slug": "the-big-wave-1962",
+      "title": "The Big Wave",
+      "html_title": "<span class=\"film-title\">The Big Wave</span>",
+      "year": 1962,
+      "studio": "Stratton Prod.-Toho Co./Allied Artists",
+      "directors": "Tad Danielewski",
+      "genres": [
+        "Melodrama",
+        "Island"
+      ],
+      "has_media": true,
+      "work_title": "The Big Wave",
+      "work_html_title": "<span class=\"work-title\">The Big Wave</span>",
+      "work_id": 352
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 355,
+      "slug": "the-good-earth",
+      "title": "The Good Earth",
+      "formatted_title": "The Good Earth",
+      "html_title": "<span class=\"work-title\">The Good Earth</span>",
+      "work_type": "novel",
+      "publication_year": 1931,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 354,
+      "slug": "dragon-seed",
+      "title": "Dragon Seed",
+      "formatted_title": "Dragon Seed",
+      "html_title": "<span class=\"work-title\">Dragon Seed</span>",
+      "work_type": "novel",
+      "publication_year": 1942,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 353,
+      "slug": "china-sky",
+      "title": "China Sky",
+      "formatted_title": "China Sky",
+      "html_title": "<span class=\"work-title\">China Sky</span>",
+      "work_type": "novel",
+      "publication_year": 1945,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 356,
+      "slug": "satan-never-sleeps",
+      "title": "Satan Never Sleeps",
+      "formatted_title": "Satan Never Sleeps",
+      "html_title": "<span class=\"work-title\">Satan Never Sleeps</span>",
+      "work_type": "novel",
+      "publication_year": 1962,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 352,
+      "slug": "the-big-wave",
+      "title": "The Big Wave",
+      "formatted_title": "The Big Wave",
+      "html_title": "<span class=\"work-title\">The Big Wave</span>",
+      "work_type": "novel",
+      "publication_year": 1948,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 355,
+    "slug": "the-good-earth",
+    "title": "The Good Earth",
+    "formatted_title": "The Good Earth",
+    "html_title": "<span class=\"work-title\">The Good Earth</span>",
+    "work_type": "novel",
+    "publication_year": 1931,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:19.258586"
+}

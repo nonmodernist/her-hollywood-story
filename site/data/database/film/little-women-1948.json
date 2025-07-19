@@ -1,0 +1,79 @@
+{
+  "id": 292,
+  "slug": "little-women-1948",
+  "title": "Little Women",
+  "formatted_title": "Little Women",
+  "html_title": "<span class=\"film-title\">Little Women</span>",
+  "release_year": 1948,
+  "runtime_minutes": 121,
+  "country_of_production": "United States",
+  "genres": [
+    "Drama",
+    "Domestic",
+    "Historical"
+  ],
+  "studio": "MGM",
+  "production_companies": "Metro-Goldwyn-Mayer Corp.",
+  "distribution_companies": "Loew's Inc.",
+  "directors": "Mervyn LeRoy",
+  "writers": "Andrew Solt|Sarah Y. Mason|Victor Heerman",
+  "cast_members": "June Allyson|Peter Lawford|Margaret O'Brien|Elizabeth Taylor|Janet Leigh|Rossano Brazzi|Mary Astor|Lucile Watson|C. Aubrey Smith|Elizabeth Patterson",
+  "color_info": "color",
+  "adaptation_notes": null,
+  "afi_catalog_id": 26003,
+  "source_work": {
+    "id": 51,
+    "slug": "little-women",
+    "title": "Little Women",
+    "formatted_title": "Little Women",
+    "html_title": "<span class=\"work-title\">Little Women</span>",
+    "work_type": "novel",
+    "publication_year": 1868,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 3,
+    "year_to_adaptation": 80
+  },
+  "author": {
+    "id": 28,
+    "slug": "louisa-may-alcott",
+    "name": "Louisa May Alcott",
+    "birth_year": 1832,
+    "death_year": 1888,
+    "nationality": "United States",
+    "film_count": 6
+  },
+  "other_adaptations": [
+    {
+      "id": 53,
+      "slug": "little-women-1919",
+      "title": "Little Women",
+      "html_title": "<span class=\"film-title\">Little Women</span>",
+      "year": 1919,
+      "directors": "Harley Knoles",
+      "studio": "William A. Brady"
+    },
+    {
+      "id": 204,
+      "slug": "little-women-1933",
+      "title": "Little Women",
+      "html_title": "<span class=\"film-title\">Little Women</span>",
+      "year": 1933,
+      "directors": "George Cukor|John Davis Lodge",
+      "studio": "RKO"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 3,
+    "adaptation_number": 3,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

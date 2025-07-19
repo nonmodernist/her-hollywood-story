@@ -1,0 +1,368 @@
+{
+  "id": 487,
+  "slug": "rita-weiman",
+  "name": "Rita Weiman",
+  "birth_year": 1885,
+  "death_year": 1954,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American screenwriter (1885–1954). Born in Philadelphia. Occupations: screenwriter",
+  "author_notes": null,
+  "wikidata_id": "Q60675479",
+  "stats": {
+    "total_films": 11,
+    "works_adapted": 10,
+    "first_adaptation": 1920,
+    "last_adaptation": 1947,
+    "year_span": 27,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 5
+      },
+      {
+        "genre": "Melodrama",
+        "count": 3
+      },
+      {
+        "genre": "Mystery",
+        "count": 2
+      },
+      {
+        "genre": "Romance",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 7,
+      "1930": 3,
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1058,
+      "slug": "curtain-1920",
+      "title": "Curtain",
+      "html_title": "<span class=\"film-title\">Curtain</span>",
+      "year": 1920,
+      "studio": "Katherine MacDonald Pictures",
+      "directors": "James Young",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Curtain",
+      "work_html_title": "<span class=\"work-title\">Curtain</span>",
+      "work_id": 950
+    },
+    {
+      "id": 1061,
+      "slug": "madame-peacock-1920",
+      "title": "Madame Peacock",
+      "html_title": "<span class=\"film-title\">Madame Peacock</span>",
+      "year": 1920,
+      "studio": "The Nazimova Productions",
+      "directors": "Ray C. Smallwood",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Madame Peacock",
+      "work_html_title": "<span class=\"work-title\">Madame Peacock</span>",
+      "work_id": 952
+    },
+    {
+      "id": 1064,
+      "slug": "after-the-show-1921",
+      "title": "After the Show",
+      "html_title": "<span class=\"film-title\">After the Show</span>",
+      "year": 1921,
+      "studio": "Famous Players-Lasky",
+      "directors": "William de Mille",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "The Stage Door",
+      "work_html_title": "<span class=\"work-title\">The Stage Door</span>",
+      "work_id": 955
+    },
+    {
+      "id": 1059,
+      "slug": "footlights-1921",
+      "title": "Footlights",
+      "html_title": "<span class=\"film-title\">Footlights</span>",
+      "year": 1921,
+      "studio": "Famous Players-Lasky",
+      "directors": "John S. Robertson",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Footlights",
+      "work_html_title": "<span class=\"work-title\">Footlights</span>",
+      "work_id": 951
+    },
+    {
+      "id": 1066,
+      "slug": "rouged-lips-1923",
+      "title": "Rouged Lips",
+      "html_title": "<span class=\"film-title\">Rouged Lips</span>",
+      "year": 1923,
+      "studio": "Metro Pictures",
+      "directors": "Harold Shaw",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Upstage",
+      "work_html_title": "<span class=\"work-title\">Upstage</span>",
+      "work_id": 957
+    },
+    {
+      "id": 1065,
+      "slug": "the-social-code-1923",
+      "title": "The Social Code",
+      "html_title": "<span class=\"film-title\">The Social Code</span>",
+      "year": 1923,
+      "studio": "Metro Pictures",
+      "directors": "Oscar Apfel",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "To Whom it May Concern",
+      "work_html_title": "<span class=\"work-title\">To Whom it May Concern</span>",
+      "work_id": 956
+    },
+    {
+      "id": 1060,
+      "slug": "the-spotlight-1927",
+      "title": "The Spotlight",
+      "html_title": "<span class=\"film-title\">The Spotlight</span>",
+      "year": 1927,
+      "studio": "Paramount",
+      "directors": "Frank Tuttle",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "Footlights",
+      "work_html_title": "<span class=\"work-title\">Footlights</span>",
+      "work_id": 951
+    },
+    {
+      "id": 1062,
+      "slug": "on-your-back-1930",
+      "title": "On Your Back",
+      "html_title": "<span class=\"film-title\">On Your Back</span>",
+      "year": 1930,
+      "studio": "Fox Film",
+      "directors": "Guthrie McClintic",
+      "genres": [
+        "Drama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "On Your Back",
+      "work_html_title": "<span class=\"work-title\">On Your Back</span>",
+      "work_id": 953
+    },
+    {
+      "id": 1068,
+      "slug": "the-presidents-mystery-1936",
+      "title": "The President's Mystery",
+      "html_title": "<span class=\"film-title\">The President's Mystery</span>",
+      "year": 1936,
+      "studio": "Republic",
+      "directors": "Phil Rosen",
+      "genres": [
+        "Mystery",
+        "Social"
+      ],
+      "has_media": false,
+      "work_title": "The President's Mystery",
+      "work_html_title": "<span class=\"work-title\">The President's Mystery</span>",
+      "work_id": 959
+    },
+    {
+      "id": 1067,
+      "slug": "the-witness-chair-1936",
+      "title": "The Witness Chair",
+      "html_title": "<span class=\"film-title\">The Witness Chair</span>",
+      "year": 1936,
+      "studio": "RKO",
+      "directors": "George Nicholls Jr.",
+      "genres": [
+        "Drama",
+        "Legal"
+      ],
+      "has_media": false,
+      "work_title": "The Witness Chair",
+      "work_html_title": "<span class=\"work-title\">The Witness Chair</span>",
+      "work_id": 958
+    },
+    {
+      "id": 1063,
+      "slug": "possessed-1947",
+      "title": "Possessed",
+      "html_title": "<span class=\"film-title\">Possessed</span>",
+      "year": 1947,
+      "studio": "Warner Bros",
+      "directors": "Curtis Bernhardt",
+      "genres": [
+        "Melodrama",
+        "Psychological"
+      ],
+      "has_media": false,
+      "work_title": "One Man's Secret",
+      "work_html_title": "<span class=\"work-title\">One Man's Secret</span>",
+      "work_id": 954
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 951,
+      "slug": "footlights",
+      "title": "Footlights",
+      "formatted_title": "Footlights",
+      "html_title": "<span class=\"work-title\">Footlights</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 950,
+      "slug": "curtain",
+      "title": "Curtain",
+      "formatted_title": "Curtain",
+      "html_title": "<span class=\"work-title\">Curtain</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 952,
+      "slug": "madame-peacock",
+      "title": "Madame Peacock",
+      "formatted_title": "Madame Peacock",
+      "html_title": "<span class=\"work-title\">Madame Peacock</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 955,
+      "slug": "the-stage-door",
+      "title": "The Stage Door",
+      "formatted_title": "The Stage Door",
+      "html_title": "<span class=\"work-title\">The Stage Door</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 957,
+      "slug": "upstage",
+      "title": "Upstage",
+      "formatted_title": "Upstage",
+      "html_title": "<span class=\"work-title\">Upstage</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 956,
+      "slug": "to-whom-it-may-concern",
+      "title": "To Whom it May Concern",
+      "formatted_title": "To Whom it May Concern",
+      "html_title": "<span class=\"work-title\">To Whom it May Concern</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 953,
+      "slug": "on-your-back",
+      "title": "On Your Back",
+      "formatted_title": "On Your Back",
+      "html_title": "<span class=\"work-title\">On Your Back</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 959,
+      "slug": "the-presidents-mystery",
+      "title": "The President's Mystery",
+      "formatted_title": "The President's Mystery",
+      "html_title": "<span class=\"work-title\">The President's Mystery</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 958,
+      "slug": "the-witness-chair",
+      "title": "The Witness Chair",
+      "formatted_title": "The Witness Chair",
+      "html_title": "<span class=\"work-title\">The Witness Chair</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 954,
+      "slug": "one-mans-secret",
+      "title": "One Man's Secret",
+      "formatted_title": "One Man's Secret",
+      "html_title": "<span class=\"work-title\">One Man's Secret</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 951,
+    "slug": "footlights",
+    "title": "Footlights",
+    "formatted_title": "Footlights",
+    "html_title": "<span class=\"work-title\">Footlights</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:54:51.054104"
+}

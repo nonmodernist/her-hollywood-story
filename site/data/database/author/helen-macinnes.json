@@ -1,0 +1,118 @@
+{
+  "id": 79,
+  "slug": "helen-macinnes",
+  "name": "Helen MacInnes",
+  "birth_year": 1907,
+  "death_year": 1985,
+  "nationality": "United Kingdom, United States",
+  "literary_movement": null,
+  "biographical_notes": "20th-century Scottish-American author. Born in Glasgow. Died in New York City. Occupations: librarian, novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q454595",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1943,
+    "last_adaptation": 1943,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Espionage",
+        "count": 2
+      },
+      {
+        "genre": "World War II",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1940": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 272,
+      "slug": "above-suspicion-1943",
+      "title": "Above Suspicion",
+      "html_title": "<span class=\"film-title\">Above Suspicion</span>",
+      "year": 1943,
+      "studio": "MGM",
+      "directors": "Richard Thorpe",
+      "genres": [
+        "Drama",
+        "Espionage",
+        "World War II"
+      ],
+      "has_media": true,
+      "work_title": "Above Suspicion",
+      "work_html_title": "<span class=\"work-title\">Above Suspicion</span>",
+      "work_id": 228
+    },
+    {
+      "id": 273,
+      "slug": "assignment-in-brittany-1943",
+      "title": "Assignment in Brittany",
+      "html_title": "<span class=\"film-title\">Assignment in Brittany</span>",
+      "year": 1943,
+      "studio": "MGM",
+      "directors": "Jack Conway",
+      "genres": [
+        "Drama",
+        "Espionage",
+        "World War II"
+      ],
+      "has_media": true,
+      "work_title": "Assignment in Brittainy",
+      "work_html_title": "<span class=\"work-title\">Assignment in Brittainy</span>",
+      "work_id": 229
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 228,
+      "slug": "above-suspicion",
+      "title": "Above Suspicion",
+      "formatted_title": "Above Suspicion",
+      "html_title": "<span class=\"work-title\">Above Suspicion</span>",
+      "work_type": "novel",
+      "publication_year": 1941,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 229,
+      "slug": "assignment-in-brittainy",
+      "title": "Assignment in Brittainy",
+      "formatted_title": "Assignment in Brittainy",
+      "html_title": "<span class=\"work-title\">Assignment in Brittainy</span>",
+      "work_type": "novel",
+      "publication_year": 1942,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 228,
+    "slug": "above-suspicion",
+    "title": "Above Suspicion",
+    "formatted_title": "Above Suspicion",
+    "html_title": "<span class=\"work-title\">Above Suspicion</span>",
+    "work_type": "novel",
+    "publication_year": 1941,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:11.524392"
+}

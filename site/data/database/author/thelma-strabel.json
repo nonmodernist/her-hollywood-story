@@ -1,0 +1,121 @@
+{
+  "id": 454,
+  "slug": "thelma-strabel",
+  "name": "Thelma Strabel",
+  "birth_year": 1900,
+  "death_year": 1959,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "writer (1900-1959). Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q7781092",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1942,
+    "last_adaptation": 1946,
+    "year_span": 4,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      },
+      {
+        "genre": "Sea",
+        "count": 1
+      },
+      {
+        "genre": "Suspense",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1010,
+      "slug": "reap-the-wild-wind-1942",
+      "title": "Reap the Wild Wind",
+      "html_title": "<span class=\"film-title\">Reap the Wild Wind</span>",
+      "year": 1942,
+      "studio": "Paramount",
+      "directors": "Cecil B. DeMille",
+      "genres": [
+        "Drama",
+        "Historical",
+        "Sea"
+      ],
+      "has_media": false,
+      "work_title": "Reap the Wild Wind",
+      "work_html_title": "<span class=\"work-title\">Reap the Wild Wind</span>",
+      "work_id": 908
+    },
+    {
+      "id": 1002,
+      "slug": "undercurrent-1946",
+      "title": "Undercurrent",
+      "html_title": "<span class=\"film-title\">Undercurrent</span>",
+      "year": 1946,
+      "studio": "MGM",
+      "directors": "Vincente Minnelli",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "has_media": false,
+      "work_title": "You Were There",
+      "work_html_title": "<span class=\"work-title\">You Were There</span>",
+      "work_id": 901
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 908,
+      "slug": "reap-the-wild-wind",
+      "title": "Reap the Wild Wind",
+      "formatted_title": "Reap the Wild Wind",
+      "html_title": "<span class=\"work-title\">Reap the Wild Wind</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 901,
+      "slug": "you-were-there",
+      "title": "You Were There",
+      "formatted_title": "You Were There",
+      "html_title": "<span class=\"work-title\">You Were There</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 908,
+    "slug": "reap-the-wild-wind",
+    "title": "Reap the Wild Wind",
+    "formatted_title": "Reap the Wild Wind",
+    "html_title": "<span class=\"work-title\">Reap the Wild Wind</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:26:21.878225"
+}

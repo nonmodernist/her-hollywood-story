@@ -1,0 +1,595 @@
+{
+  "id": 24,
+  "slug": "alice-duer-miller",
+  "name": "Alice Duer Miller",
+  "birth_year": 1894,
+  "death_year": 1985,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American screenwriter (1894-1985). Born in Milwaukee. Died in Woodland Hills. Occupations: screenwriter",
+  "author_notes": "also wrote under the pseud Clara Bartram",
+  "wikidata_id": "Q3611673",
+  "stats": {
+    "total_films": 22,
+    "works_adapted": 14,
+    "first_adaptation": 1918,
+    "last_adaptation": 1952,
+    "year_span": 34,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 6
+      },
+      {
+        "genre": "Comedy",
+        "count": 4
+      },
+      {
+        "genre": "Musical",
+        "count": 4
+      },
+      {
+        "genre": "Romantic comedy",
+        "count": 3
+      },
+      {
+        "genre": "Melodrama",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2,
+      "1920": 8,
+      "1930": 9,
+      "1940": 2,
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": true,
+    "twenty_timer_rank": 4
+  },
+  "films": [
+    {
+      "id": 42,
+      "slug": "less-than-kin-1918",
+      "title": "Less Than Kin",
+      "html_title": "<span class=\"film-title\">Less Than Kin</span>",
+      "year": 1918,
+      "studio": "Famous Players-Lasky",
+      "directors": "Donald Crisp",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "work_title": "Less Than Kin",
+      "work_html_title": "<span class=\"work-title\">Less Than Kin</span>",
+      "work_id": 40
+    },
+    {
+      "id": 51,
+      "slug": "come-out-of-the-kitchen-1919",
+      "title": "Come Out of the Kitchen",
+      "html_title": "<span class=\"film-title\">Come Out of the Kitchen</span>",
+      "year": 1919,
+      "studio": "Famous Players-Lasky",
+      "directors": "John S. Robertson",
+      "genres": [
+        "Comedy",
+        "African American"
+      ],
+      "has_media": true,
+      "work_title": "Come Out of the Kitchen!",
+      "work_html_title": "<span class=\"work-title\">Come Out of the Kitchen!</span>",
+      "work_id": 49
+    },
+    {
+      "id": 1130,
+      "slug": "her-first-elopement-1920",
+      "title": "Her First Elopement",
+      "html_title": "<span class=\"film-title\">Her First Elopement</span>",
+      "year": 1920,
+      "studio": "Realart",
+      "directors": "Sam Wood",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Her First Elopement",
+      "work_html_title": "<span class=\"work-title\">Her First Elopement</span>",
+      "work_id": 1015
+    },
+    {
+      "id": 65,
+      "slug": "something-different-1920",
+      "title": "Something Different",
+      "html_title": "<span class=\"film-title\">Something Different</span>",
+      "year": 1920,
+      "studio": "Realart",
+      "directors": "R. William Neill",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Calderon's Prisoner",
+      "work_html_title": "<span class=\"work-title\">Calderon's Prisoner</span>",
+      "work_id": 62
+    },
+    {
+      "id": 75,
+      "slug": "ladies-must-live-1921",
+      "title": "Ladies Must Live",
+      "html_title": "<span class=\"film-title\">Ladies Must Live</span>",
+      "year": 1921,
+      "studio": "Mayflower",
+      "directors": "George Loane Tucker",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "Ladies Must Live",
+      "work_html_title": "<span class=\"work-title\">Ladies Must Live</span>",
+      "work_id": 72
+    },
+    {
+      "id": 77,
+      "slug": "the-charm-school-1921",
+      "title": "The Charm School",
+      "html_title": "<span class=\"film-title\">The Charm School</span>",
+      "year": 1921,
+      "studio": "Famous Players-Lasky",
+      "directors": "James Cruze",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "work_title": "The Charm School",
+      "work_html_title": "<span class=\"work-title\">The Charm School</span>",
+      "work_id": 74
+    },
+    {
+      "id": 89,
+      "slug": "manslaughter-1922",
+      "title": "Manslaughter",
+      "html_title": "<span class=\"film-title\">Manslaughter</span>",
+      "year": 1922,
+      "studio": "Famous Players-Lasky",
+      "directors": "Cecil B. DeMille",
+      "genres": [
+        "Drama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "Manslaughter",
+      "work_html_title": "<span class=\"work-title\">Manslaughter</span>",
+      "work_id": 85
+    },
+    {
+      "id": 119,
+      "slug": "are-parents-people-1925",
+      "title": "Are Parents People?",
+      "html_title": "<span class=\"film-title\">Are Parents People?</span>",
+      "year": 1925,
+      "studio": "Famous Players-Lasky",
+      "directors": "Malcolm St. Clair",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "work_title": "Are Parents People?",
+      "work_html_title": "<span class=\"work-title\">Are Parents People?</span>",
+      "work_id": 114
+    },
+    {
+      "id": 149,
+      "slug": "someone-to-love-1928",
+      "title": "Someone To Love",
+      "html_title": "<span class=\"film-title\">Someone To Love</span>",
+      "year": 1928,
+      "studio": "Paramount",
+      "directors": "F. Richard Jones",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": true,
+      "work_title": "The Charm School",
+      "work_html_title": "<span class=\"work-title\">The Charm School</span>",
+      "work_id": 74
+    },
+    {
+      "id": 810,
+      "slug": "sweetie-1929",
+      "title": "Sweetie",
+      "html_title": "<span class=\"film-title\">Sweetie</span>",
+      "year": 1929,
+      "studio": "Paramount",
+      "directors": "Frank Tuttle",
+      "genres": [
+        "Musical",
+        "College"
+      ],
+      "has_media": false,
+      "work_title": "The Charm School",
+      "work_html_title": "<span class=\"work-title\">The Charm School</span>",
+      "work_id": 74
+    },
+    {
+      "id": 162,
+      "slug": "honey-1930",
+      "title": "Honey",
+      "html_title": "<span class=\"film-title\">Honey</span>",
+      "year": 1930,
+      "studio": "Paramount",
+      "directors": "Wesley Ruggles",
+      "genres": [
+        "Musical comedy"
+      ],
+      "has_media": false,
+      "work_title": "Come Out of the Kitchen!",
+      "work_html_title": "<span class=\"work-title\">Come Out of the Kitchen!</span>",
+      "work_id": 49
+    },
+    {
+      "id": 168,
+      "slug": "manslaughter-1930",
+      "title": "Manslaughter",
+      "html_title": "<span class=\"film-title\">Manslaughter</span>",
+      "year": 1930,
+      "studio": "Paramount",
+      "directors": "George Abbott",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "Manslaughter",
+      "work_html_title": "<span class=\"work-title\">Manslaughter</span>",
+      "work_id": 85
+    },
+    {
+      "id": 167,
+      "slug": "the-princess-and-the-plumber-1930",
+      "title": "The Princess and the Plumber",
+      "html_title": "<span class=\"film-title\">The Princess and the Plumber</span>",
+      "year": 1930,
+      "studio": "Fox Film",
+      "directors": "Alexander Korda",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": true,
+      "work_title": "The Princess and the Plumber",
+      "work_html_title": "<span class=\"work-title\">The Princess and the Plumber</span>",
+      "work_id": 155
+    },
+    {
+      "id": 203,
+      "slug": "big-executive-1933",
+      "title": "Big Executive",
+      "html_title": "<span class=\"film-title\">Big Executive</span>",
+      "year": 1933,
+      "studio": "Paramount",
+      "directors": "Erle C. Kenton",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Big Executive",
+      "work_html_title": "<span class=\"work-title\">Big Executive</span>",
+      "work_id": 186
+    },
+    {
+      "id": 808,
+      "slug": "the-keyhole-1933",
+      "title": "The Keyhole",
+      "html_title": "<span class=\"film-title\">The Keyhole</span>",
+      "year": 1933,
+      "studio": "Warner Bros",
+      "directors": "Michael Curtiz",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "The Adventuress",
+      "work_html_title": "<span class=\"work-title\">The Adventuress</span>",
+      "work_id": 718
+    },
+    {
+      "id": 220,
+      "slug": "collegiate-1935",
+      "title": "Collegiate",
+      "html_title": "<span class=\"film-title\">Collegiate</span>",
+      "year": 1935,
+      "studio": "Paramount",
+      "directors": "Ralph Murphy",
+      "genres": [
+        "Musical"
+      ],
+      "has_media": false,
+      "work_title": "The Charm School",
+      "work_html_title": "<span class=\"work-title\">The Charm School</span>",
+      "work_id": 74
+    },
+    {
+      "id": 223,
+      "slug": "roberta-1935",
+      "title": "Roberta",
+      "html_title": "<span class=\"film-title\">Roberta</span>",
+      "year": 1935,
+      "studio": "RKO",
+      "directors": "William A. Seiter",
+      "genres": [
+        "Musical",
+        "Romantic comedy"
+      ],
+      "has_media": true,
+      "work_title": "Gowns By Roberta",
+      "work_html_title": "<span class=\"work-title\">Gowns By Roberta</span>",
+      "work_id": 198
+    },
+    {
+      "id": 812,
+      "slug": "and-sudden-death-1936",
+      "title": "And Sudden Death",
+      "html_title": "<span class=\"film-title\">And Sudden Death</span>",
+      "year": 1936,
+      "studio": "Paramount",
+      "directors": "Charles Barton",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Manslaughter",
+      "work_html_title": "<span class=\"work-title\">Manslaughter</span>",
+      "work_id": 85
+    },
+    {
+      "id": 811,
+      "slug": "college-swing-1938",
+      "title": "College Swing",
+      "html_title": "<span class=\"film-title\">College Swing</span>",
+      "year": 1938,
+      "studio": "Paramount",
+      "directors": "Raoul Walsh",
+      "genres": [
+        "Musical"
+      ],
+      "has_media": false,
+      "work_title": "The Charm School",
+      "work_html_title": "<span class=\"work-title\">The Charm School</span>",
+      "work_id": 74
+    },
+    {
+      "id": 809,
+      "slug": "and-one-was-beautiful-1940",
+      "title": "And One was Beautiful",
+      "html_title": "<span class=\"film-title\">And One was Beautiful</span>",
+      "year": 1940,
+      "studio": "MGM",
+      "directors": "Robert B. Sinclair",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "And One was Beautiful",
+      "work_html_title": "<span class=\"work-title\">And One was Beautiful</span>",
+      "work_id": 719
+    },
+    {
+      "id": 275,
+      "slug": "the-white-cliffs-of-dover-1944",
+      "title": "The White Cliffs of Dover",
+      "html_title": "<span class=\"film-title\">The White Cliffs of Dover</span>",
+      "year": 1944,
+      "studio": "MGM",
+      "directors": "Clarence Brown",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The White Cliffs",
+      "work_html_title": "<span class=\"work-title\">The White Cliffs</span>",
+      "work_id": 231
+    },
+    {
+      "id": 317,
+      "slug": "lovely-to-look-at-1952",
+      "title": "Lovely To Look At",
+      "html_title": "<span class=\"film-title\">Lovely To Look At</span>",
+      "year": 1952,
+      "studio": "MGM",
+      "directors": "Mervyn LeRoy",
+      "genres": [
+        "Musical comedy"
+      ],
+      "has_media": false,
+      "work_title": "Gowns By Roberta",
+      "work_html_title": "<span class=\"work-title\">Gowns By Roberta</span>",
+      "work_id": 198
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 74,
+      "slug": "the-charm-school",
+      "title": "The Charm School",
+      "formatted_title": "The Charm School",
+      "html_title": "<span class=\"work-title\">The Charm School</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "genre": null,
+      "adaptation_count": 5,
+      "is_remake_champion": true
+    },
+    {
+      "id": 85,
+      "slug": "manslaughter",
+      "title": "Manslaughter",
+      "formatted_title": "Manslaughter",
+      "html_title": "<span class=\"work-title\">Manslaughter</span>",
+      "work_type": "novel",
+      "publication_year": 1921,
+      "genre": null,
+      "adaptation_count": 3,
+      "is_remake_champion": false
+    },
+    {
+      "id": 49,
+      "slug": "come-out-of-the-kitchen",
+      "title": "Come Out of the Kitchen!",
+      "formatted_title": "Come Out of the Kitchen!",
+      "html_title": "<span class=\"work-title\">Come Out of the Kitchen!</span>",
+      "work_type": "novel",
+      "publication_year": 1916,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 198,
+      "slug": "gowns-by-roberta",
+      "title": "Gowns By Roberta",
+      "formatted_title": "Gowns By Roberta",
+      "html_title": "<span class=\"work-title\">Gowns By Roberta</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 40,
+      "slug": "less-than-kin",
+      "title": "Less Than Kin",
+      "formatted_title": "Less Than Kin",
+      "html_title": "<span class=\"work-title\">Less Than Kin</span>",
+      "work_type": "novel",
+      "publication_year": 1909,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1015,
+      "slug": "her-first-elopement",
+      "title": "Her First Elopement",
+      "formatted_title": "Her First Elopement",
+      "html_title": "<span class=\"work-title\">Her First Elopement</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 62,
+      "slug": "calderons-prisoner",
+      "title": "Calderon's Prisoner",
+      "formatted_title": "Calderon's Prisoner",
+      "html_title": "<span class=\"work-title\">Calderon's Prisoner</span>",
+      "work_type": "novel",
+      "publication_year": 1903,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 72,
+      "slug": "ladies-must-live",
+      "title": "Ladies Must Live",
+      "formatted_title": "Ladies Must Live",
+      "html_title": "<span class=\"work-title\">Ladies Must Live</span>",
+      "work_type": "novel",
+      "publication_year": 1917,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 114,
+      "slug": "are-parents-people",
+      "title": "Are Parents People?",
+      "formatted_title": "Are Parents People?",
+      "html_title": "<span class=\"work-title\">Are Parents People?</span>",
+      "work_type": "novel",
+      "publication_year": 1923,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 155,
+      "slug": "the-princess-and-the-plumber",
+      "title": "The Princess and the Plumber",
+      "formatted_title": "The Princess and the Plumber",
+      "html_title": "<span class=\"work-title\">The Princess and the Plumber</span>",
+      "work_type": "novel",
+      "publication_year": 1929,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 186,
+      "slug": "big-executive",
+      "title": "Big Executive",
+      "formatted_title": "Big Executive",
+      "html_title": "<span class=\"work-title\">Big Executive</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 718,
+      "slug": "the-adventuress",
+      "title": "The Adventuress",
+      "formatted_title": "The Adventuress",
+      "html_title": "<span class=\"work-title\">The Adventuress</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 719,
+      "slug": "and-one-was-beautiful",
+      "title": "And One was Beautiful",
+      "formatted_title": "And One was Beautiful",
+      "html_title": "<span class=\"work-title\">And One was Beautiful</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 231,
+      "slug": "the-white-cliffs",
+      "title": "The White Cliffs",
+      "formatted_title": "The White Cliffs",
+      "html_title": "<span class=\"work-title\">The White Cliffs</span>",
+      "work_type": "novel",
+      "publication_year": 1940,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 74,
+    "slug": "the-charm-school",
+    "title": "The Charm School",
+    "formatted_title": "The Charm School",
+    "html_title": "<span class=\"work-title\">The Charm School</span>",
+    "work_type": "novel",
+    "publication_year": 1919,
+    "genre": null,
+    "adaptation_count": 5,
+    "is_remake_champion": true
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-18T02:04:20.604794"
+}

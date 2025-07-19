@@ -1,0 +1,83 @@
+{
+  "id": 261,
+  "slug": "maibelle-heikes-justice",
+  "name": "Maibelle Heikes Justice",
+  "birth_year": 1871,
+  "death_year": 1926,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American screenwriter (1871-1926). Born in Logansport. Occupations: writer, screenwriter",
+  "author_notes": null,
+  "wikidata_id": "Q21197444",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1916,
+    "last_adaptation": 1916,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Northwest",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 637,
+      "slug": "the-end-of-the-trail-1916",
+      "title": "The End of the Trail",
+      "html_title": "<span class=\"film-title\">The End of the Trail</span>",
+      "year": 1916,
+      "studio": "Fox Film",
+      "directors": "Oscar C. Apfel",
+      "genres": [
+        "Drama",
+        "Northwest"
+      ],
+      "has_media": true,
+      "work_title": "Hope Rides with Me",
+      "work_html_title": "<span class=\"work-title\">Hope Rides with Me</span>",
+      "work_id": 560
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 560,
+      "slug": "hope-rides-with-me",
+      "title": "Hope Rides with Me",
+      "formatted_title": "Hope Rides with Me",
+      "html_title": "<span class=\"work-title\">Hope Rides with Me</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 560,
+    "slug": "hope-rides-with-me",
+    "title": "Hope Rides with Me",
+    "formatted_title": "Hope Rides with Me",
+    "html_title": "<span class=\"work-title\">Hope Rides with Me</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:23:12.212997"
+}

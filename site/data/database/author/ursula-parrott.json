@@ -1,0 +1,238 @@
+{
+  "id": 56,
+  "slug": "ursula-parrott",
+  "name": "Ursula Parrott",
+  "birth_year": 1900,
+  "death_year": 1957,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1900-1957). Born in Dorchester. Died in New York City. Occupations: screenwriter, novelist. Notable works: Ex-Wife",
+  "author_notes": null,
+  "wikidata_id": "Q7901271",
+  "stats": {
+    "total_films": 6,
+    "works_adapted": 6,
+    "first_adaptation": 1930,
+    "last_adaptation": 1956,
+    "year_span": 26,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 3
+      },
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Melodrama",
+        "count": 2
+      },
+      {
+        "genre": "Aviation",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 5,
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 165,
+      "slug": "the-divorce-1930",
+      "title": "The Divorcée",
+      "html_title": "<span class=\"film-title\">The Divorcée</span>",
+      "year": 1930,
+      "studio": "MGM",
+      "directors": "Robert Z. Leonard",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": true,
+      "work_title": "Ex-Wife",
+      "work_html_title": "<span class=\"work-title\">Ex-Wife</span>",
+      "work_id": 153
+    },
+    {
+      "id": 178,
+      "slug": "strangers-may-kiss-1931",
+      "title": "Strangers May Kiss",
+      "html_title": "<span class=\"film-title\">Strangers May Kiss</span>",
+      "year": 1931,
+      "studio": "MGM",
+      "directors": "George Fitzmaurice",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "Strangers May Kiss",
+      "work_html_title": "<span class=\"work-title\">Strangers May Kiss</span>",
+      "work_id": 164
+    },
+    {
+      "id": 198,
+      "slug": "love-affair-1932",
+      "title": "Love Affair",
+      "html_title": "<span class=\"film-title\">Love Affair</span>",
+      "year": 1932,
+      "studio": "Columbia",
+      "directors": "Thornton Freeland",
+      "genres": [
+        "Drama",
+        "Aviation"
+      ],
+      "has_media": false,
+      "work_title": "\"Love Affair\"",
+      "work_html_title": "<span class=\"work-title\">\"Love Affair\"</span>",
+      "work_id": 181
+    },
+    {
+      "id": 870,
+      "slug": "brilliant-marriage-1936",
+      "title": "Brilliant Marriage",
+      "html_title": "<span class=\"film-title\">Brilliant Marriage</span>",
+      "year": 1936,
+      "studio": "Invincible Pictures",
+      "directors": "Phil Rosen",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "Brilliant Marriage",
+      "work_html_title": "<span class=\"work-title\">Brilliant Marriage</span>",
+      "work_id": 779
+    },
+    {
+      "id": 234,
+      "slug": "next-time-we-love-1936",
+      "title": "Next Time We Love",
+      "html_title": "<span class=\"film-title\">Next Time We Love</span>",
+      "year": 1936,
+      "studio": "Universal",
+      "directors": "Edward H. Griffith",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Next Time We Live",
+      "work_html_title": "<span class=\"work-title\">Next Time We Live</span>",
+      "work_id": 203
+    },
+    {
+      "id": 331,
+      "slug": "theres-always-tomorrow-1956",
+      "title": "There's Always Tomorrow",
+      "html_title": "<span class=\"film-title\">There's Always Tomorrow</span>",
+      "year": 1956,
+      "studio": "Universal-International",
+      "directors": "Douglas Sirk",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": true,
+      "work_title": "There's Always Tomorrow",
+      "work_html_title": "<span class=\"work-title\">There's Always Tomorrow</span>",
+      "work_id": 274
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 153,
+      "slug": "ex-wife",
+      "title": "Ex-Wife",
+      "formatted_title": "Ex-Wife",
+      "html_title": "<span class=\"work-title\">Ex-Wife</span>",
+      "work_type": "novel",
+      "publication_year": 1929,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 164,
+      "slug": "strangers-may-kiss",
+      "title": "Strangers May Kiss",
+      "formatted_title": "Strangers May Kiss",
+      "html_title": "<span class=\"work-title\">Strangers May Kiss</span>",
+      "work_type": "novel",
+      "publication_year": 1930,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 181,
+      "slug": "love-affair",
+      "title": "\"Love Affair\"",
+      "formatted_title": "\"Love Affair\"",
+      "html_title": "<span class=\"work-title\">\"Love Affair\"</span>",
+      "work_type": "novel",
+      "publication_year": 1930,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 779,
+      "slug": "brilliant-marriage",
+      "title": "Brilliant Marriage",
+      "formatted_title": "Brilliant Marriage",
+      "html_title": "<span class=\"work-title\">Brilliant Marriage</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 203,
+      "slug": "next-time-we-live",
+      "title": "Next Time We Live",
+      "formatted_title": "Next Time We Live",
+      "html_title": "<span class=\"work-title\">Next Time We Live</span>",
+      "work_type": "novel",
+      "publication_year": 1935,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 274,
+      "slug": "theres-always-tomorrow",
+      "title": "There's Always Tomorrow",
+      "formatted_title": "There's Always Tomorrow",
+      "html_title": "<span class=\"work-title\">There's Always Tomorrow</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 153,
+    "slug": "ex-wife",
+    "title": "Ex-Wife",
+    "formatted_title": "Ex-Wife",
+    "html_title": "<span class=\"work-title\">Ex-Wife</span>",
+    "work_type": "novel",
+    "publication_year": 1929,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:44.865788"
+}

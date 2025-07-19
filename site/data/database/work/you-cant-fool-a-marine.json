@@ -1,0 +1,60 @@
+{
+  "id": 687,
+  "slug": "you-cant-fool-a-marine",
+  "title": "You Can't Fool a Marine",
+  "formatted_title": "You Can't Fool a Marine",
+  "html_title": "<span class=\"work-title\">You Can't Fool a Marine</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 344,
+    "slug": "natalie-marcin",
+    "name": "Natalie Marcin",
+    "birth_year": 1880,
+    "death_year": 1999,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 773,
+      "slug": "anchors-aweigh-1945",
+      "title": "Anchors Aweigh",
+      "html_title": "<span class=\"film-title\">Anchors Aweigh</span>",
+      "year": 1945,
+      "studio": "MGM",
+      "directors": "George Sidney",
+      "genres": [
+        "Musical",
+        "Romantic comedy"
+      ],
+      "has_media": false,
+      "years_after_publication": 1945
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T00:46:50.156582"
+}

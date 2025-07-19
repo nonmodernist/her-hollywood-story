@@ -1,0 +1,64 @@
+{
+  "id": 110,
+  "slug": "the-tenth-woman",
+  "title": "The Tenth Woman",
+  "formatted_title": "The Tenth Woman",
+  "html_title": "<span class=\"work-title\">The Tenth Woman</span>",
+  "work_type": "novel",
+  "publication_year": 1923,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 8,
+    "slug": "harriet-theresa-comstock",
+    "name": "Harriet Theresa Comstock",
+    "birth_year": 1860,
+    "death_year": 1925,
+    "film_count": 4
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 115,
+      "slug": "the-tenth-woman-1924",
+      "title": "The Tenth Woman",
+      "html_title": "<span class=\"film-title\">The Tenth Woman</span>",
+      "year": 1924,
+      "studio": "Warner Bros",
+      "directors": "James Flood",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": {
+    "year": 1924,
+    "publisher": "unknown",
+    "notes": null,
+    "count": 0
+  },
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T17:04:03.357291"
+}

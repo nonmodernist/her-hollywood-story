@@ -1,0 +1,78 @@
+{
+  "id": 290,
+  "slug": "jeanne-judson",
+  "name": "Jeanne Judson",
+  "birth_year": 1888,
+  "death_year": 1981,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American journalist. Born in Michigan. Died in New York City. Occupations: children's writer, journalist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q16025031",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1919,
+    "last_adaptation": 1919,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 691,
+      "slug": "beckoning-roads-1919",
+      "title": "Beckoning Roads",
+      "html_title": "<span class=\"film-title\">Beckoning Roads</span>",
+      "year": 1919,
+      "studio": "B. B. Features ",
+      "directors": "Howard Hickman",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Call of Life",
+      "work_html_title": "<span class=\"work-title\">The Call of Life</span>",
+      "work_id": 607
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 607,
+      "slug": "the-call-of-life",
+      "title": "The Call of Life",
+      "formatted_title": "The Call of Life",
+      "html_title": "<span class=\"work-title\">The Call of Life</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 607,
+    "slug": "the-call-of-life",
+    "title": "The Call of Life",
+    "formatted_title": "The Call of Life",
+    "html_title": "<span class=\"work-title\">The Call of Life</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-06T14:48:46.569636"
+}

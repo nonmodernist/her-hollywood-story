@@ -1,0 +1,59 @@
+{
+  "id": 423,
+  "slug": "diane-of-the-green-van",
+  "title": "Diane of the Green Van",
+  "formatted_title": "Diane of the Green Van",
+  "html_title": "<span class=\"work-title\">Diane of the Green Van</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 186,
+    "slug": "leona-dalrymple",
+    "name": "Leona Dalrymple",
+    "birth_year": 1884,
+    "death_year": 1968,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 492,
+      "slug": "diane-of-the-green-van-1919",
+      "title": "Diane of the Green Van",
+      "html_title": "<span class=\"film-title\">Diane of the Green Van</span>",
+      "year": 1919,
+      "studio": "Winsome Stars",
+      "directors": "Wallace Worsley",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 1919
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T00:55:14.63533"
+}

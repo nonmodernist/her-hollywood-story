@@ -1,0 +1,102 @@
+{
+  "id": 120,
+  "slug": "laddie",
+  "title": "Laddie",
+  "formatted_title": "Laddie",
+  "html_title": "<span class=\"work-title\">Laddie</span>",
+  "work_type": "novel",
+  "publication_year": 1913,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 12,
+    "slug": "gene-stratton-porter",
+    "name": "Gene Stratton-Porter",
+    "birth_year": 1863,
+    "death_year": 1924,
+    "film_count": 21
+  },
+  "stats": {
+    "adaptation_count": 3,
+    "year_span": 14,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 7
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 13,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 126,
+      "slug": "laddie-1926",
+      "title": "Laddie",
+      "html_title": "<span class=\"film-title\">Laddie</span>",
+      "year": 1926,
+      "studio": "Gene Stratton Porter Productions",
+      "directors": "James Leo Meehan",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": true,
+      "years_after_publication": 13
+    },
+    {
+      "id": 224,
+      "slug": "laddie-1935",
+      "title": "Laddie",
+      "html_title": "<span class=\"film-title\">Laddie</span>",
+      "year": 1935,
+      "studio": "RKO",
+      "directors": "George Stevens",
+      "genres": [
+        "Comedy-drama",
+        "Domestic",
+        "Historical",
+        "Rural"
+      ],
+      "has_media": true,
+      "years_after_publication": 22
+    },
+    {
+      "id": 258,
+      "slug": "laddie-1940",
+      "title": "Laddie",
+      "html_title": "<span class=\"film-title\">Laddie</span>",
+      "year": 1940,
+      "studio": "RKO",
+      "directors": "Jack Hively",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": true,
+      "years_after_publication": 27
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1926,
+      "to_year": 1935,
+      "gap_years": 9
+    },
+    {
+      "from_year": 1935,
+      "to_year": 1940,
+      "gap_years": 5
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:48:03.914138"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 391,
+  "slug": "anne-parrish",
+  "name": "Anne Parrish",
+  "birth_year": 1888,
+  "death_year": 1957,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American children's writer (1888–1957). Born in Colorado Springs. Died in Danbury. Occupations: novelist, writer, art collector, children's writer. Notable works: The Dream Coach",
+  "author_notes": null,
+  "wikidata_id": "Q565684",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1950,
+    "last_adaptation": 1950,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 869,
+      "slug": "born-to-be-bad-1950",
+      "title": "Born to be Bad",
+      "html_title": "<span class=\"film-title\">Born to be Bad</span>",
+      "year": 1950,
+      "studio": "RKO",
+      "directors": "Nicholas Ray",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "All Kneeling",
+      "work_html_title": "<span class=\"work-title\">All Kneeling</span>",
+      "work_id": 778
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 778,
+      "slug": "all-kneeling",
+      "title": "All Kneeling",
+      "formatted_title": "All Kneeling",
+      "html_title": "<span class=\"work-title\">All Kneeling</span>",
+      "work_type": "novel",
+      "publication_year": 1928,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 778,
+    "slug": "all-kneeling",
+    "title": "All Kneeling",
+    "formatted_title": "All Kneeling",
+    "html_title": "<span class=\"work-title\">All Kneeling</span>",
+    "work_type": "novel",
+    "publication_year": 1928,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T18:25:01.051949"
+}

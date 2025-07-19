@@ -1,0 +1,93 @@
+{
+  "id": 106,
+  "slug": "helen-aberson",
+  "name": "Helen Aberson",
+  "birth_year": 1907,
+  "death_year": 1999,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1907–1999). Born in Syracuse. Died in New York City. Occupations: writer, children's writer. Notable works: Dumbo, the Flying Elephant",
+  "author_notes": null,
+  "wikidata_id": "Q3129587",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1941,
+    "last_adaptation": 1941,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Childrens works",
+        "count": 1
+      },
+      {
+        "genre": "Animal",
+        "count": 1
+      },
+      {
+        "genre": "Animation",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 342,
+      "slug": "dumbo-1941",
+      "title": "Dumbo",
+      "html_title": "<span class=\"film-title\">Dumbo</span>",
+      "year": 1941,
+      "studio": "Walt Disney/RKO",
+      "directors": null,
+      "genres": [
+        "Childrens works",
+        "Animal",
+        "Animation",
+        "with songs"
+      ],
+      "has_media": true,
+      "work_title": "Dumbo, the Flying Elephant",
+      "work_html_title": "<span class=\"work-title\">Dumbo, the Flying Elephant</span>",
+      "work_id": 279
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 279,
+      "slug": "dumbo-the-flying-elephant",
+      "title": "Dumbo, the Flying Elephant",
+      "formatted_title": "Dumbo, the Flying Elephant",
+      "html_title": "<span class=\"work-title\">Dumbo, the Flying Elephant</span>",
+      "work_type": "novel",
+      "publication_year": 1939,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 279,
+    "slug": "dumbo-the-flying-elephant",
+    "title": "Dumbo, the Flying Elephant",
+    "formatted_title": "Dumbo, the Flying Elephant",
+    "html_title": "<span class=\"work-title\">Dumbo, the Flying Elephant</span>",
+    "work_type": "novel",
+    "publication_year": 1939,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:52:32.178942"
+}

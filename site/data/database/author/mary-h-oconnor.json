@@ -1,0 +1,78 @@
+{
+  "id": 377,
+  "slug": "mary-h-oconnor",
+  "name": "Mary H. O'Connor",
+  "birth_year": 1872,
+  "death_year": 1959,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American screenwriter (1872-1959). Born in Saint Paul. Died in Los Angeles. Occupations: film editor, writer, screenwriter",
+  "author_notes": null,
+  "wikidata_id": "Q18419189",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1917,
+    "last_adaptation": 1917,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 851,
+      "slug": "souls-triumphant-1917",
+      "title": "Souls Triumphant",
+      "html_title": "<span class=\"film-title\">Souls Triumphant</span>",
+      "year": 1917,
+      "studio": "Fine Arts Film",
+      "directors": "John O'Brien",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Little Savior",
+      "work_html_title": "<span class=\"work-title\">The Little Savior</span>",
+      "work_id": 760
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 760,
+      "slug": "the-little-savior",
+      "title": "The Little Savior",
+      "formatted_title": "The Little Savior",
+      "html_title": "<span class=\"work-title\">The Little Savior</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 760,
+    "slug": "the-little-savior",
+    "title": "The Little Savior",
+    "formatted_title": "The Little Savior",
+    "html_title": "<span class=\"work-title\">The Little Savior</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T14:48:38.720562"
+}

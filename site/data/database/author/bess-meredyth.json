@@ -1,0 +1,83 @@
+{
+  "id": 358,
+  "slug": "bess-meredyth",
+  "name": "Bess Meredyth",
+  "birth_year": 1890,
+  "death_year": 1969,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "Film actress, Film writer (1890-1969). Born in Buffalo. Died in Woodland Hills. Occupations: screenwriter, writer, actor, film actor, film director",
+  "author_notes": null,
+  "wikidata_id": "Q458801",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1931,
+    "last_adaptation": 1931,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 802,
+      "slug": "the-prodigal-1931",
+      "title": "The Prodigal",
+      "html_title": "<span class=\"film-title\">The Prodigal</span>",
+      "year": 1931,
+      "studio": "MGM",
+      "directors": "Harry A. Pollard",
+      "genres": [
+        "Drama",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "The Southerner",
+      "work_html_title": "<span class=\"work-title\">The Southerner</span>",
+      "work_id": 713
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 713,
+      "slug": "the-southerner",
+      "title": "The Southerner",
+      "formatted_title": "The Southerner",
+      "html_title": "<span class=\"work-title\">The Southerner</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 713,
+    "slug": "the-southerner",
+    "title": "The Southerner",
+    "formatted_title": "The Southerner",
+    "html_title": "<span class=\"work-title\">The Southerner</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:57:16.958053"
+}

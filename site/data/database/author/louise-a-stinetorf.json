@@ -1,0 +1,83 @@
+{
+  "id": 458,
+  "slug": "louise-a-stinetorf",
+  "name": "Louise A. Stinetorf",
+  "birth_year": 1900,
+  "death_year": 1992,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1900-1992). Born in Randolph County. Died in Richmond. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q87114941",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1953,
+    "last_adaptation": 1953,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Adventure",
+        "count": 1
+      },
+      {
+        "genre": "Jungle",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1006,
+      "slug": "white-witch-doctor-1953",
+      "title": "White Witch Doctor",
+      "html_title": "<span class=\"film-title\">White Witch Doctor</span>",
+      "year": 1953,
+      "studio": "20th Century Fox",
+      "directors": "Henry Hathaway",
+      "genres": [
+        "Adventure",
+        "Jungle"
+      ],
+      "has_media": false,
+      "work_title": "White Witch Doctor",
+      "work_html_title": "<span class=\"work-title\">White Witch Doctor</span>",
+      "work_id": 905
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 905,
+      "slug": "white-witch-doctor",
+      "title": "White Witch Doctor",
+      "formatted_title": "White Witch Doctor",
+      "html_title": "<span class=\"work-title\">White Witch Doctor</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 905,
+    "slug": "white-witch-doctor",
+    "title": "White Witch Doctor",
+    "formatted_title": "White Witch Doctor",
+    "html_title": "<span class=\"work-title\">White Witch Doctor</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:26:26.469858"
+}

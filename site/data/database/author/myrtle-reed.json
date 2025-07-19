@@ -1,0 +1,199 @@
+{
+  "id": 408,
+  "slug": "myrtle-reed",
+  "name": "Myrtle Reed",
+  "birth_year": 1874,
+  "death_year": 1911,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American novelist and poet (1874-1911). Born in Chicago. Died in Chicago. Occupations: author, novelist, journalist, writer. Notable works: Lavender and Old Lace",
+  "author_notes": null,
+  "wikidata_id": "Q536012",
+  "stats": {
+    "total_films": 5,
+    "works_adapted": 5,
+    "first_adaptation": 1918,
+    "last_adaptation": 1922,
+    "year_span": 4,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 3
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2,
+      "1920": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 909,
+      "slug": "a-weaver-of-dreams-1918",
+      "title": "A Weaver of Dreams",
+      "html_title": "<span class=\"film-title\">A Weaver of Dreams</span>",
+      "year": 1918,
+      "studio": "Metro Pictures",
+      "directors": "John H. Collins",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "A Weaver of Dreams",
+      "work_html_title": "<span class=\"work-title\">A Weaver of Dreams</span>",
+      "work_id": 816
+    },
+    {
+      "id": 906,
+      "slug": "flower-of-the-dusk-1918",
+      "title": "Flower of the Dusk",
+      "html_title": "<span class=\"film-title\">Flower of the Dusk</span>",
+      "year": 1918,
+      "studio": "Metro Pictures",
+      "directors": "John H. Collins",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Flower of the Dusk",
+      "work_html_title": "<span class=\"work-title\">Flower of the Dusk</span>",
+      "work_id": 813
+    },
+    {
+      "id": 907,
+      "slug": "lavender-and-old-lace-1921",
+      "title": "Lavender and Old Lace",
+      "html_title": "<span class=\"film-title\">Lavender and Old Lace</span>",
+      "year": 1921,
+      "studio": "Renco Film",
+      "directors": "Lloyd Ingraham",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Lavender and Old Lace",
+      "work_html_title": "<span class=\"work-title\">Lavender and Old Lace</span>",
+      "work_id": 814
+    },
+    {
+      "id": 905,
+      "slug": "at-the-sign-of-the-jack-olantern-1922",
+      "title": "At the Sign of the Jack O'Lantern",
+      "html_title": "<span class=\"film-title\">At the Sign of the Jack O'Lantern</span>",
+      "year": 1922,
+      "studio": "Renco Film",
+      "directors": "Lloyd Ingraham",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "At the Sign of the Jack 0'Lantern",
+      "work_html_title": "<span class=\"work-title\">At the Sign of the Jack 0'Lantern</span>",
+      "work_id": 812
+    },
+    {
+      "id": 908,
+      "slug": "the-veiled-woman-1922",
+      "title": "The Veiled Woman",
+      "html_title": "<span class=\"film-title\">The Veiled Woman</span>",
+      "year": 1922,
+      "studio": "Renco Film",
+      "directors": "Lloyd Ingraham",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Spinner in the Sun",
+      "work_html_title": "<span class=\"work-title\">Spinner in the Sun</span>",
+      "work_id": 815
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 816,
+      "slug": "a-weaver-of-dreams",
+      "title": "A Weaver of Dreams",
+      "formatted_title": "A Weaver of Dreams",
+      "html_title": "<span class=\"work-title\">A Weaver of Dreams</span>",
+      "work_type": "novel",
+      "publication_year": 1911,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 813,
+      "slug": "flower-of-the-dusk",
+      "title": "Flower of the Dusk",
+      "formatted_title": "Flower of the Dusk",
+      "html_title": "<span class=\"work-title\">Flower of the Dusk</span>",
+      "work_type": "novel",
+      "publication_year": 1908,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 814,
+      "slug": "lavender-and-old-lace",
+      "title": "Lavender and Old Lace",
+      "formatted_title": "Lavender and Old Lace",
+      "html_title": "<span class=\"work-title\">Lavender and Old Lace</span>",
+      "work_type": "novel",
+      "publication_year": 1902,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 812,
+      "slug": "at-the-sign-of-the-jack-0lantern",
+      "title": "At the Sign of the Jack 0'Lantern",
+      "formatted_title": "At the Sign of the Jack 0'Lantern",
+      "html_title": "<span class=\"work-title\">At the Sign of the Jack 0'Lantern</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 815,
+      "slug": "spinner-in-the-sun",
+      "title": "Spinner in the Sun",
+      "formatted_title": "Spinner in the Sun",
+      "html_title": "<span class=\"work-title\">Spinner in the Sun</span>",
+      "work_type": "novel",
+      "publication_year": 1906,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 816,
+    "slug": "a-weaver-of-dreams",
+    "title": "A Weaver of Dreams",
+    "formatted_title": "A Weaver of Dreams",
+    "html_title": "<span class=\"work-title\">A Weaver of Dreams</span>",
+    "work_type": "novel",
+    "publication_year": 1911,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:25:32.390001"
+}

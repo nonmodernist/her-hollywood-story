@@ -1,0 +1,106 @@
+{
+  "id": 219,
+  "slug": "medora-field",
+  "name": "Medora Field",
+  "birth_year": 1892,
+  "death_year": 1960,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "author, journalist, and editor (1892-1960). Born in Lindale. Died in Atlanta. Occupations: journalist, editor, author",
+  "author_notes": "aka Medora Field Perkerson",
+  "wikidata_id": "Q93768640",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1940,
+    "last_adaptation": 1944,
+    "year_span": 4,
+    "top_genres": [
+      {
+        "genre": "Mystery",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1940": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 566,
+      "slug": "who-killed-aunt-maggie-1940",
+      "title": "Who Killed Aunt Maggie?",
+      "html_title": "<span class=\"film-title\">Who Killed Aunt Maggie?</span>",
+      "year": 1940,
+      "studio": "Republic",
+      "directors": "Arthur Lubin",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "Who Killed Aunt Maggie?",
+      "work_html_title": "<span class=\"work-title\">Who Killed Aunt Maggie?</span>",
+      "work_id": 494
+    },
+    {
+      "id": 565,
+      "slug": "the-girl-who-dared-1944",
+      "title": "The Girl Who Dared",
+      "html_title": "<span class=\"film-title\">The Girl Who Dared</span>",
+      "year": 1944,
+      "studio": "Republic",
+      "directors": "Howard Bretherton",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "Blood On Her Shoe",
+      "work_html_title": "<span class=\"work-title\">Blood On Her Shoe</span>",
+      "work_id": 493
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 494,
+      "slug": "who-killed-aunt-maggie",
+      "title": "Who Killed Aunt Maggie?",
+      "formatted_title": "Who Killed Aunt Maggie?",
+      "html_title": "<span class=\"work-title\">Who Killed Aunt Maggie?</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 493,
+      "slug": "blood-on-her-shoe",
+      "title": "Blood On Her Shoe",
+      "formatted_title": "Blood On Her Shoe",
+      "html_title": "<span class=\"work-title\">Blood On Her Shoe</span>",
+      "work_type": "novel",
+      "publication_year": 1943,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 494,
+    "slug": "who-killed-aunt-maggie",
+    "title": "Who Killed Aunt Maggie?",
+    "formatted_title": "Who Killed Aunt Maggie?",
+    "html_title": "<span class=\"work-title\">Who Killed Aunt Maggie?</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-03T00:46:26.19855"
+}

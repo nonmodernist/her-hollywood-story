@@ -1,0 +1,95 @@
+{
+  "id": 414,
+  "slug": "railroaded-1923",
+  "title": "Railroaded",
+  "formatted_title": "Railroaded",
+  "html_title": "<span class=\"film-title\">Railroaded</span>",
+  "release_year": 1923,
+  "runtime_minutes": null,
+  "country_of_production": null,
+  "genres": [
+    "Melodrama"
+  ],
+  "studio": "Universal",
+  "production_companies": "Universal Pictures ",
+  "distribution_companies": null,
+  "directors": "Edmund Mortimer",
+  "writers": "Charles Kenyon",
+  "cast_members": "Herbert Rawlinson|Esther Ralston|Alfred Fisher|David Torrence|Lionel Belmore|Mike Donlin|Herbert Fortier",
+  "color_info": null,
+  "adaptation_notes": null,
+  "afi_catalog_id": 11531,
+  "source_work": {
+    "id": 351,
+    "slug": "richard",
+    "title": "Richard",
+    "formatted_title": "Richard",
+    "html_title": "<span class=\"work-title\">Richard</span>",
+    "work_type": "novel",
+    "publication_year": 1922,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 1
+  },
+  "author": {
+    "id": 145,
+    "slug": "marguerite-bryant",
+    "name": "Marguerite Bryant",
+    "birth_year": 1870,
+    "death_year": 1965,
+    "nationality": "United Kingdom of Great Britain and Ireland",
+    "film_count": 2
+  },
+  "other_adaptations": [
+    {
+      "id": 415,
+      "slug": "the-breathless-moment-1924",
+      "title": "The Breathless Moment",
+      "html_title": "<span class=\"film-title\">The Breathless Moment</span>",
+      "year": 1924,
+      "directors": "Robert F. Hill",
+      "studio": "Universal"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 1,
+    "is_first": true,
+    "is_latest": false
+  },
+  "media": [
+    {
+      "id": 1020,
+      "media_type": "advertisement",
+      "title": "Railroaded (1923) - 1.jpg",
+      "caption": "Advertisement for the American drama film Railroaded (1923) with Herbert Rawlinson, on page 32 of the August 4, 1923 Universal Weekly.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Railroaded_%281923%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Railroaded_%281923%29_-_1.jpg/300px-Railroaded_%281923%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Railroaded_(1923)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 1021,
+      "media_type": "poster",
+      "title": "Railroaded (film).jpg",
+      "caption": "Poster for the 1923 film Railroaded",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Railroaded_%28film%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Railroaded_%28film%29.jpg/300px-Railroaded_%28film%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Railroaded_(film).jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

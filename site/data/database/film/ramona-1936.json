@@ -1,0 +1,87 @@
+{
+  "id": 230,
+  "slug": "ramona-1936",
+  "title": "Ramona",
+  "formatted_title": "Ramona",
+  "html_title": "<span class=\"film-title\">Ramona</span>",
+  "release_year": 1936,
+  "runtime_minutes": 84,
+  "country_of_production": "United States",
+  "genres": [
+    "Drama",
+    "Historical"
+  ],
+  "studio": "20th Century Fox",
+  "production_companies": "Twentieth Century-Fox Film Corp.",
+  "distribution_companies": "Twentieth Century-Fox Film Corp.",
+  "directors": "Henry King",
+  "writers": "Lamar Trotti",
+  "cast_members": "Loretta Young|Don Ameche|Kent Taylor|Pauline Frederick|Jane Darwell|Katherine de Mille|Victor Kilian|John Carradine|J. Carrol Naish|Pedro de Cordoba",
+  "color_info": "color",
+  "adaptation_notes": null,
+  "afi_catalog_id": 1087,
+  "source_work": {
+    "id": 1,
+    "slug": "ramona",
+    "title": "Ramona",
+    "formatted_title": "Ramona",
+    "html_title": "<span class=\"work-title\">Ramona</span>",
+    "work_type": "novel",
+    "publication_year": 1884,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 4,
+    "year_to_adaptation": 52
+  },
+  "author": {
+    "id": 1,
+    "slug": "helen-hunt-jackson",
+    "name": "Helen Hunt Jackson",
+    "birth_year": 1830,
+    "death_year": 1885,
+    "nationality": "United States",
+    "film_count": 4
+  },
+  "other_adaptations": [
+    {
+      "id": 1,
+      "slug": "ramona-1910",
+      "title": "Ramona",
+      "html_title": "<span class=\"film-title\">Ramona</span>",
+      "year": 1910,
+      "directors": "D. W. Griffith",
+      "studio": "Biograph"
+    },
+    {
+      "id": 11,
+      "slug": "ramona-1916",
+      "title": "Ramona",
+      "html_title": "<span class=\"film-title\">Ramona</span>",
+      "year": 1916,
+      "directors": "Donald Crisp",
+      "studio": "Clune Film"
+    },
+    {
+      "id": 148,
+      "slug": "ramona-1928",
+      "title": "Ramona",
+      "html_title": "<span class=\"film-title\">Ramona</span>",
+      "year": 1928,
+      "directors": "Edwin Carewe",
+      "studio": "United Artists"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 4,
+    "adaptation_number": 4,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

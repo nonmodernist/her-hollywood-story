@@ -1,0 +1,114 @@
+{
+  "id": 150,
+  "slug": "freckles-1928",
+  "title": "Freckles",
+  "formatted_title": "Freckles",
+  "html_title": "<span class=\"film-title\">Freckles</span>",
+  "release_year": 1928,
+  "runtime_minutes": null,
+  "country_of_production": null,
+  "genres": [
+    "Melodrama",
+    "Northwest"
+  ],
+  "studio": "FBO",
+  "production_companies": "F.B.O. Productions, Inc.",
+  "distribution_companies": "F.B.O. Productions, Inc.",
+  "directors": "Leo Meehan",
+  "writers": "Dorothy Yost",
+  "cast_members": "John Fox Jr.|Gene Stratton|Hobart Bosworth|Eulalie Jensen|William Scott|Lafe McKee",
+  "color_info": null,
+  "adaptation_notes": null,
+  "afi_catalog_id": 9236,
+  "source_work": {
+    "id": 19,
+    "slug": "freckles",
+    "title": "Freckles",
+    "formatted_title": "Freckles",
+    "html_title": "<span class=\"work-title\">Freckles</span>",
+    "work_type": "novel",
+    "publication_year": 1904,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 4,
+    "year_to_adaptation": 24
+  },
+  "author": {
+    "id": 12,
+    "slug": "gene-stratton-porter",
+    "name": "Gene Stratton-Porter",
+    "birth_year": 1863,
+    "death_year": 1924,
+    "nationality": "United States",
+    "film_count": 21
+  },
+  "other_adaptations": [
+    {
+      "id": 21,
+      "slug": "freckles-1917",
+      "title": "Freckles",
+      "html_title": "<span class=\"film-title\">Freckles</span>",
+      "year": 1917,
+      "directors": "Marshall Neilan",
+      "studio": "Jesse Lasky"
+    },
+    {
+      "id": 225,
+      "slug": "freckles-1935",
+      "title": "Freckles",
+      "html_title": "<span class=\"film-title\">Freckles</span>",
+      "year": 1935,
+      "directors": "Edward Killy|William Hamilton",
+      "studio": "RKO"
+    },
+    {
+      "id": 340,
+      "slug": "freckles-1960",
+      "title": "Freckles",
+      "html_title": "<span class=\"film-title\">Freckles</span>",
+      "year": 1960,
+      "directors": "Andrew V. McLaglen",
+      "studio": "20th Century Fox"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 4,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": false
+  },
+  "media": [
+    {
+      "id": 534,
+      "media_type": "production_photo",
+      "title": "Silent film juvenile John Fox in \"Freckles\" (SAYRE 16).jpg",
+      "caption": "Silent film juvenile actor John Fox (1909-1997) in the American comedy film Freckles (1928). Subjects (LCTGM): children as actors, motion pictures",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Silent_film_juvenile_John_Fox_in_%22Freckles%22_%28SAYRE_16%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Silent_film_juvenile_John_Fox_in_%22Freckles%22_%28SAYRE_16%29.jpg/300px-Silent_film_juvenile_John_Fox_in_%22Freckles%22_%28SAYRE_16%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Silent_film_juvenile_John_Fox_in_\"Freckles\"_(SAYRE_16).jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    },
+    {
+      "id": 535,
+      "media_type": "production_photo",
+      "title": "Freckles (SAYRE 14376).jpg",
+      "caption": "Freckles Subjects (LCTGM): motion pictures, actors",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Freckles_%28SAYRE_14376%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Freckles_%28SAYRE_14376%29.jpg/300px-Freckles_%28SAYRE_14376%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Freckles_(SAYRE_14376).jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

@@ -1,0 +1,88 @@
+{
+  "id": 117,
+  "slug": "elisa-bialk",
+  "name": "Elisa Bialk",
+  "birth_year": 1908,
+  "death_year": 1990,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Died in Hilton Head Island. Occupations: short story writer, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q115924808",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1948,
+    "last_adaptation": 1948,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Crime",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 370,
+      "slug": "the-sainted-sisters-1948",
+      "title": "The Sainted Sisters",
+      "html_title": "<span class=\"film-title\">The Sainted Sisters</span>",
+      "year": 1948,
+      "studio": "Paramount",
+      "directors": "William D. Russell",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "The Sainted Sisters of Sandy Creek",
+      "work_html_title": "<span class=\"work-title\">The Sainted Sisters of Sandy Creek</span>",
+      "work_id": 306
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 306,
+      "slug": "the-sainted-sisters-of-sandy-creek",
+      "title": "The Sainted Sisters of Sandy Creek",
+      "formatted_title": "The Sainted Sisters of Sandy Creek",
+      "html_title": "<span class=\"work-title\">The Sainted Sisters of Sandy Creek</span>",
+      "work_type": "novel",
+      "publication_year": 1935,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 306,
+    "slug": "the-sainted-sisters-of-sandy-creek",
+    "title": "The Sainted Sisters of Sandy Creek",
+    "formatted_title": "The Sainted Sisters of Sandy Creek",
+    "html_title": "<span class=\"work-title\">The Sainted Sisters of Sandy Creek</span>",
+    "work_type": "novel",
+    "publication_year": 1935,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:52:44.956192"
+}

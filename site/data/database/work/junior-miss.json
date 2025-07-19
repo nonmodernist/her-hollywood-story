@@ -1,0 +1,61 @@
+{
+  "id": 302,
+  "slug": "junior-miss",
+  "title": "Junior Miss",
+  "formatted_title": "Junior Miss",
+  "html_title": "<span class=\"work-title\">Junior Miss</span>",
+  "work_type": "novel",
+  "publication_year": 1941,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 115,
+    "slug": "sally-benson",
+    "name": "Sally Benson",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 4,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 366,
+      "slug": "junior-miss-1945",
+      "title": "Junior Miss",
+      "html_title": "<span class=\"film-title\">Junior Miss</span>",
+      "year": 1945,
+      "studio": "20th Century Fox",
+      "directors": "George Seaton",
+      "genres": [
+        "Comedy",
+        "Domestic",
+        "Teenage"
+      ],
+      "has_media": false,
+      "years_after_publication": 4
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T21:02:56.521769"
+}

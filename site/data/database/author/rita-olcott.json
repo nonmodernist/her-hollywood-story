@@ -1,0 +1,83 @@
+{
+  "id": 380,
+  "slug": "rita-olcott",
+  "name": "Rita Olcott",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1947,
+    "last_adaptation": 1947,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Biography",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 856,
+      "slug": "my-wild-irish-rose-1947",
+      "title": "My Wild Irish Rose",
+      "html_title": "<span class=\"film-title\">My Wild Irish Rose</span>",
+      "year": 1947,
+      "studio": "Warner Bros",
+      "directors": "David Butler",
+      "genres": [
+        "Biography",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Song in His Heart",
+      "work_html_title": "<span class=\"work-title\">Song in His Heart</span>",
+      "work_id": 765
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 765,
+      "slug": "song-in-his-heart",
+      "title": "Song in His Heart",
+      "formatted_title": "Song in His Heart",
+      "html_title": "<span class=\"work-title\">Song in His Heart</span>",
+      "work_type": "novel",
+      "publication_year": 1939,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 765,
+    "slug": "song-in-his-heart",
+    "title": "Song in His Heart",
+    "formatted_title": "Song in His Heart",
+    "html_title": "<span class=\"work-title\">Song in His Heart</span>",
+    "work_type": "novel",
+    "publication_year": 1939,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T14:45:05.973542"
+}

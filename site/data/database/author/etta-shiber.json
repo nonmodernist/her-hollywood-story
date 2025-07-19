@@ -1,0 +1,83 @@
+{
+  "id": 444,
+  "slug": "etta-shiber",
+  "name": "Etta Shiber",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": "aka Etta Kahn Shiber",
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1945,
+    "last_adaptation": 1945,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "World War II",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 986,
+      "slug": "paris-underground-1945",
+      "title": "Paris--Underground",
+      "html_title": "<span class=\"film-title\">Paris--Underground</span>",
+      "year": 1945,
+      "studio": "Constance Bennett Productions, Inc.",
+      "directors": "Gregory Ratoff",
+      "genres": [
+        "Drama",
+        "World War II"
+      ],
+      "has_media": false,
+      "work_title": "Paris-Underground",
+      "work_html_title": "<span class=\"work-title\">Paris-Underground</span>",
+      "work_id": 888
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 888,
+      "slug": "paris-underground",
+      "title": "Paris-Underground",
+      "formatted_title": "Paris-Underground",
+      "html_title": "<span class=\"work-title\">Paris-Underground</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 888,
+    "slug": "paris-underground",
+    "title": "Paris-Underground",
+    "formatted_title": "Paris-Underground",
+    "html_title": "<span class=\"work-title\">Paris-Underground</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:22:05.085796"
+}

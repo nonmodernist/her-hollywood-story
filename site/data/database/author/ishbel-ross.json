@@ -1,0 +1,83 @@
+{
+  "id": 426,
+  "slug": "ishbel-ross",
+  "name": "Ishbel Ross",
+  "birth_year": 1895,
+  "death_year": 1975,
+  "nationality": "United Kingdom, United Kingdom of Great Britain and Ireland",
+  "literary_movement": null,
+  "biographical_notes": "Scottish-American newspaper reporter and writer (1895-1975). Born in Bonar Bridge. Died in New York City. Occupations: journalist, biographer, novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q23932702",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1934,
+    "last_adaptation": 1934,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Sea",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 965,
+      "slug": "3-on-a-honeymoon-1934",
+      "title": "3 on a Honeymoon",
+      "html_title": "<span class=\"film-title\">3 on a Honeymoon</span>",
+      "year": 1934,
+      "studio": "Fox Film",
+      "directors": "James Tinling",
+      "genres": [
+        "Comedy-drama",
+        "Sea"
+      ],
+      "has_media": false,
+      "work_title": "Promenade Deck",
+      "work_html_title": "<span class=\"work-title\">Promenade Deck</span>",
+      "work_id": 867
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 867,
+      "slug": "promenade-deck",
+      "title": "Promenade Deck",
+      "formatted_title": "Promenade Deck",
+      "html_title": "<span class=\"work-title\">Promenade Deck</span>",
+      "work_type": "novel",
+      "publication_year": 1932,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 867,
+    "slug": "promenade-deck",
+    "title": "Promenade Deck",
+    "formatted_title": "Promenade Deck",
+    "html_title": "<span class=\"work-title\">Promenade Deck</span>",
+    "work_type": "novel",
+    "publication_year": 1932,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:25:50.712458"
+}

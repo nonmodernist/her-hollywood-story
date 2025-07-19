@@ -1,0 +1,145 @@
+{
+  "id": 232,
+  "slug": "show-boat-1936",
+  "title": "Show Boat",
+  "formatted_title": "Show Boat",
+  "html_title": "<span class=\"film-title\">Show Boat</span>",
+  "release_year": 1936,
+  "runtime_minutes": 115,
+  "country_of_production": "United States",
+  "genres": [
+    "Comedy-drama",
+    "Historical",
+    "Show business"
+  ],
+  "studio": "Universal",
+  "production_companies": "Universal Productions, Inc.",
+  "distribution_companies": "Universal Productions, Inc.",
+  "directors": "James Whale",
+  "writers": "Billie Burke",
+  "cast_members": "Irene Dunne|Allan Jones|Charles Winninger|Paul Robeson|Helen Morgan|Helen Westley|Queenie Smith|Sammy White|Donald Cook|Hattie McDaniel",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 1033,
+  "source_work": {
+    "id": 145,
+    "slug": "show-boat",
+    "title": "Show Boat",
+    "formatted_title": "Show Boat",
+    "html_title": "<span class=\"work-title\">Show Boat</span>",
+    "work_type": "novel",
+    "publication_year": 1926,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 3,
+    "year_to_adaptation": 10
+  },
+  "author": {
+    "id": 40,
+    "slug": "edna-ferber",
+    "name": "Edna Ferber",
+    "birth_year": 1885,
+    "death_year": 1968,
+    "nationality": "United States",
+    "film_count": 24
+  },
+  "other_adaptations": [
+    {
+      "id": 156,
+      "slug": "show-boat-1929",
+      "title": "Show Boat",
+      "html_title": "<span class=\"film-title\">Show Boat</span>",
+      "year": 1929,
+      "directors": "Harry Pollard",
+      "studio": "Universal"
+    },
+    {
+      "id": 313,
+      "slug": "show-boat-1951",
+      "title": "Show Boat",
+      "html_title": "<span class=\"film-title\">Show Boat</span>",
+      "year": 1951,
+      "directors": "George Sidney",
+      "studio": "MGM"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 3,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": false
+  },
+  "media": [
+    {
+      "id": 663,
+      "media_type": "production_photo",
+      "title": "Gaylord and Magnolia's first meeting in Show Boat (1936).jpg",
+      "caption": "Promotional photo of Allan Jones and Irene Dunne acting in Show Boat (1936)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Gaylord_and_Magnolia%27s_first_meeting_in_Show_Boat_%281936%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gaylord_and_Magnolia%27s_first_meeting_in_Show_Boat_%281936%29.jpg/300px-Gaylord_and_Magnolia%27s_first_meeting_in_Show_Boat_%281936%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Gaylord_and_Magnolia's_first_meeting_in_Show_Boat_(1936).jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    },
+    {
+      "id": 664,
+      "media_type": "advertisement",
+      "title": "Irene Dunne and Allan Jones in 'Show Boat', 1936.jpg",
+      "caption": "Irene Dunne and Allan Jones in Show Boat, 1936",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Irene_Dunne_and_Allan_Jones_in_%27Show_Boat%27%2C_1936.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Irene_Dunne_and_Allan_Jones_in_%27Show_Boat%27%2C_1936.jpg/300px-Irene_Dunne_and_Allan_Jones_in_%27Show_Boat%27%2C_1936.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Irene_Dunne_and_Allan_Jones_in_'Show_Boat',_1936.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Studios",
+      "is_featured": "False"
+    },
+    {
+      "id": 665,
+      "media_type": "poster",
+      "title": "Show Boat (1936 film poster).jpg",
+      "caption": "Theatrical poster for the American release of the 1936 film Show Boat, based on the musical of the same name.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Show_Boat_%281936_film_poster%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Show_Boat_%281936_film_poster%29.jpg/300px-Show_Boat_%281936_film_poster%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Show_Boat_(1936_film_poster).jpg",
+      "license": "public_domain",
+      "attribution": "\"Copyrighted 1936, Universal Pictures Corporation\"",
+      "is_featured": "False"
+    },
+    {
+      "id": 666,
+      "media_type": "still",
+      "title": "Show Boat (1936) still 1.jpg",
+      "caption": "L. to R.: Queenie Smith, Sammy White &amp; Helen Westley in Show Boat - publicity still (cropped)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Show_Boat_%281936%29_still_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Show_Boat_%281936%29_still_1.jpg/300px-Show_Boat_%281936%29_still_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Show_Boat_(1936)_still_1.jpg",
+      "license": "public_domain",
+      "attribution": "unknown (Universal Pictures)",
+      "is_featured": "False"
+    },
+    {
+      "id": 667,
+      "media_type": "still",
+      "title": "Irene Dunne-John Mescall in Show Boat.jpg",
+      "caption": "Irene Dunne and John J. Mescall (cinematographer) on the set of Show Boat (1936) - publicity still",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Irene_Dunne-John_Mescall_in_Show_Boat.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Irene_Dunne-John_Mescall_in_Show_Boat.jpg/300px-Irene_Dunne-John_Mescall_in_Show_Boat.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Irene_Dunne-John_Mescall_in_Show_Boat.jpg",
+      "license": "public_domain",
+      "attribution": "unknown (Universal Pictures)",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

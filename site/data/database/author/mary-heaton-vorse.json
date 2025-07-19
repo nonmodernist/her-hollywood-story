@@ -1,0 +1,78 @@
+{
+  "id": 51,
+  "slug": "mary-heaton-vorse",
+  "name": "Mary Heaton Vorse",
+  "birth_year": 1874,
+  "death_year": 1966,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American journalist. Born in New York City. Occupations: novelist, journalist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q6779749",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1927,
+    "last_adaptation": 1927,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 144,
+      "slug": "the-sea-tiger-1927",
+      "title": "The Sea Tiger",
+      "html_title": "<span class=\"film-title\">The Sea Tiger</span>",
+      "year": 1927,
+      "studio": "First National",
+      "directors": "John Francis Dillon",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "\"A Runaway Enchantress\"",
+      "work_html_title": "<span class=\"work-title\">\"A Runaway Enchantress\"</span>",
+      "work_id": 137
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 137,
+      "slug": "a-runaway-enchantress",
+      "title": "\"A Runaway Enchantress\"",
+      "formatted_title": "\"A Runaway Enchantress\"",
+      "html_title": "<span class=\"work-title\">\"A Runaway Enchantress\"</span>",
+      "work_type": "novel",
+      "publication_year": 1926,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 137,
+    "slug": "a-runaway-enchantress",
+    "title": "\"A Runaway Enchantress\"",
+    "formatted_title": "\"A Runaway Enchantress\"",
+    "html_title": "<span class=\"work-title\">\"A Runaway Enchantress\"</span>",
+    "work_type": "novel",
+    "publication_year": 1926,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:38.816222"
+}

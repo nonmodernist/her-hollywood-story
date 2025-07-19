@@ -1,0 +1,111 @@
+{
+  "id": 502,
+  "slug": "winifred-wolfe",
+  "name": "Winifred Wolfe",
+  "birth_year": 1923,
+  "death_year": 1981,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer, screenwriter and playwright (1923-1981). Born in Boston. Died in Manhattan. Occupations: screenwriter, writer, playwright",
+  "author_notes": null,
+  "wikidata_id": "Q87286823",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1959,
+    "last_adaptation": 1962,
+    "year_span": 3,
+    "top_genres": [
+      {
+        "genre": "Romantic comedy",
+        "count": 1
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1,
+      "1960": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1105,
+      "slug": "ask-any-girl-1959",
+      "title": "Ask Any Girl",
+      "html_title": "<span class=\"film-title\">Ask Any Girl</span>",
+      "year": 1959,
+      "studio": "MGM",
+      "directors": "Charles Walters",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": false,
+      "work_title": "Ask Any Girl",
+      "work_html_title": "<span class=\"work-title\">Ask Any Girl</span>",
+      "work_id": 992
+    },
+    {
+      "id": 1106,
+      "slug": "if-a-man-answers-1962",
+      "title": "If a Man Answers",
+      "html_title": "<span class=\"film-title\">If a Man Answers</span>",
+      "year": 1962,
+      "studio": "Ross Hunter Productions",
+      "directors": "Henry Levin",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "If a Man Answers",
+      "work_html_title": "<span class=\"work-title\">If a Man Answers</span>",
+      "work_id": 993
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 992,
+      "slug": "ask-any-girl",
+      "title": "Ask Any Girl",
+      "formatted_title": "Ask Any Girl",
+      "html_title": "<span class=\"work-title\">Ask Any Girl</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 993,
+      "slug": "if-a-man-answers",
+      "title": "If a Man Answers",
+      "formatted_title": "If a Man Answers",
+      "html_title": "<span class=\"work-title\">If a Man Answers</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 992,
+    "slug": "ask-any-girl",
+    "title": "Ask Any Girl",
+    "formatted_title": "Ask Any Girl",
+    "html_title": "<span class=\"work-title\">Ask Any Girl</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:55:11.606751"
+}

@@ -1,0 +1,112 @@
+{
+  "id": 55,
+  "slug": "bess-streeter-aldrich",
+  "name": "Bess Streeter Aldrich",
+  "birth_year": 1881,
+  "death_year": 1954,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author (1881–1954). Born in Cedar Falls. Died in Lincoln. Occupations: novelist, writer. Notable works: A Lantern in Her Hand",
+  "author_notes": null,
+  "wikidata_id": "Q4896373",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1930,
+    "last_adaptation": 1941,
+    "year_span": 11,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1,
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 164,
+      "slug": "the-woman-who-was-forgotten-1930",
+      "title": "The Woman Who Was Forgotten",
+      "html_title": "<span class=\"film-title\">The Woman Who Was Forgotten</span>",
+      "year": 1930,
+      "studio": "States Cinema",
+      "directors": "Richard Thomas",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "\"The Woman Who Was Forgotten\"",
+      "work_html_title": "<span class=\"work-title\">\"The Woman Who Was Forgotten\"</span>",
+      "work_id": 152
+    },
+    {
+      "id": 262,
+      "slug": "cheers-for-miss-bishop-1941",
+      "title": "Cheers for Miss Bishop",
+      "html_title": "<span class=\"film-title\">Cheers for Miss Bishop</span>",
+      "year": 1941,
+      "studio": "United Artists",
+      "directors": "Tay Garnett",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": true,
+      "work_title": "Miss Bishop",
+      "work_html_title": "<span class=\"work-title\">Miss Bishop</span>",
+      "work_id": 221
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 152,
+      "slug": "the-woman-who-was-forgotten",
+      "title": "\"The Woman Who Was Forgotten\"",
+      "formatted_title": "\"The Woman Who Was Forgotten\"",
+      "html_title": "<span class=\"work-title\">\"The Woman Who Was Forgotten\"</span>",
+      "work_type": "novel",
+      "publication_year": 1926,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 221,
+      "slug": "miss-bishop",
+      "title": "Miss Bishop",
+      "formatted_title": "Miss Bishop",
+      "html_title": "<span class=\"work-title\">Miss Bishop</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 152,
+    "slug": "the-woman-who-was-forgotten",
+    "title": "\"The Woman Who Was Forgotten\"",
+    "formatted_title": "\"The Woman Who Was Forgotten\"",
+    "html_title": "<span class=\"work-title\">\"The Woman Who Was Forgotten\"</span>",
+    "work_type": "novel",
+    "publication_year": 1926,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:43.302418"
+}

@@ -1,0 +1,68 @@
+{
+  "id": 210,
+  "slug": "a-lost-lady-1934",
+  "title": "A Lost Lady",
+  "formatted_title": "A Lost Lady",
+  "html_title": "<span class=\"film-title\">A Lost Lady</span>",
+  "release_year": 1934,
+  "runtime_minutes": 61,
+  "country_of_production": "United States",
+  "genres": [
+    "Melodrama"
+  ],
+  "studio": "Warner Bros",
+  "production_companies": "Warner Bros. Productions Corp.",
+  "distribution_companies": "First National Pictures, Inc.|The Vitaphone Corp.",
+  "directors": "Alfred E. Green",
+  "writers": "Gene Markey|Kathryn Scola",
+  "cast_members": "Barbara Stanwyck|Frank Morgan|Ricardo Cortez|Lyle Talbot|Philip Reed|Hobart Cavanaugh|Rafaela Ottiano|Henry Kolker|Willie Fung|Walter Walter",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 7152,
+  "source_work": {
+    "id": 104,
+    "slug": "a-lost-lady",
+    "title": "A Lost Lady",
+    "formatted_title": "A Lost Lady",
+    "html_title": "<span class=\"work-title\">A Lost Lady</span>",
+    "work_type": "novel",
+    "publication_year": 1923,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 11
+  },
+  "author": {
+    "id": 42,
+    "slug": "willa-cather",
+    "name": "Willa Cather",
+    "birth_year": 1873,
+    "death_year": 1947,
+    "nationality": "United States",
+    "film_count": 2
+  },
+  "other_adaptations": [
+    {
+      "id": 109,
+      "slug": "a-lost-lady-1924",
+      "title": "A Lost Lady",
+      "html_title": "<span class=\"film-title\">A Lost Lady</span>",
+      "year": 1924,
+      "directors": "Harry Beaumont",
+      "studio": "Warner Bros"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

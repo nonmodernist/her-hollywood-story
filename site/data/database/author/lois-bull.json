@@ -1,0 +1,88 @@
+{
+  "id": 148,
+  "slug": "lois-bull",
+  "name": "Lois Bull",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": "aka Lois Buel, aka Lois Milburn Bull",
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1935,
+    "last_adaptation": 1935,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Newspaper",
+        "count": 1
+      },
+      {
+        "genre": "Show business",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 422,
+      "slug": "manhattan-butterfly-1935",
+      "title": "Manhattan Butterfly",
+      "html_title": "<span class=\"film-title\">Manhattan Butterfly</span>",
+      "year": 1935,
+      "studio": "Imperial",
+      "directors": "Lewis D. Collins",
+      "genres": [
+        "Drama",
+        "Newspaper",
+        "Show business"
+      ],
+      "has_media": false,
+      "work_title": "Broadway Virgin",
+      "work_html_title": "<span class=\"work-title\">Broadway Virgin</span>",
+      "work_id": 358
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 358,
+      "slug": "broadway-virgin",
+      "title": "Broadway Virgin",
+      "formatted_title": "Broadway Virgin",
+      "html_title": "<span class=\"work-title\">Broadway Virgin</span>",
+      "work_type": "novel",
+      "publication_year": 1931,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 358,
+    "slug": "broadway-virgin",
+    "title": "Broadway Virgin",
+    "formatted_title": "Broadway Virgin",
+    "html_title": "<span class=\"work-title\">Broadway Virgin</span>",
+    "work_type": "novel",
+    "publication_year": 1931,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-18T03:29:17.897053"
+}

@@ -1,0 +1,107 @@
+{
+  "id": 164,
+  "slug": "lucia-chamberlain",
+  "name": "Lucia Chamberlain",
+  "birth_year": 1882,
+  "death_year": 1978,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "US novelist (1882-1978). Born in San Francisco. Died in Santa Cruz. Occupations: novelist",
+  "author_notes": null,
+  "wikidata_id": "Q21546570",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1916,
+    "last_adaptation": 1920,
+    "year_span": 4,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 462,
+      "slug": "the-other-side-of-the-door-1916",
+      "title": "The Other Side of the Door",
+      "html_title": "<span class=\"film-title\">The Other Side of the Door</span>",
+      "year": 1916,
+      "studio": "American Film",
+      "directors": "Thomas Ricketts",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Other Side of the Door",
+      "work_html_title": "<span class=\"work-title\">The Other Side of the Door</span>",
+      "work_id": 394
+    },
+    {
+      "id": 461,
+      "slug": "blackmail-1920",
+      "title": "Blackmail",
+      "html_title": "<span class=\"film-title\">Blackmail</span>",
+      "year": 1920,
+      "studio": "Screen Classics",
+      "directors": "Dallas M. Fitzgerald",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "\"The Underside\"",
+      "work_html_title": "<span class=\"work-title\">\"The Underside\"</span>",
+      "work_id": 393
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 394,
+      "slug": "the-other-side-of-the-door",
+      "title": "The Other Side of the Door",
+      "formatted_title": "The Other Side of the Door",
+      "html_title": "<span class=\"work-title\">The Other Side of the Door</span>",
+      "work_type": "novel",
+      "publication_year": 1909,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 393,
+      "slug": "the-underside",
+      "title": "\"The Underside\"",
+      "formatted_title": "\"The Underside\"",
+      "html_title": "<span class=\"work-title\">\"The Underside\"</span>",
+      "work_type": "novel",
+      "publication_year": 1917,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 394,
+    "slug": "the-other-side-of-the-door",
+    "title": "The Other Side of the Door",
+    "formatted_title": "The Other Side of the Door",
+    "html_title": "<span class=\"work-title\">The Other Side of the Door</span>",
+    "work_type": "novel",
+    "publication_year": 1909,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:45.285122"
+}

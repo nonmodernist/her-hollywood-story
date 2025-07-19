@@ -1,0 +1,69 @@
+{
+  "id": 1079,
+  "slug": "summer-magic-1963",
+  "title": "Summer Magic",
+  "formatted_title": "Summer Magic",
+  "html_title": "<span class=\"film-title\">Summer Magic</span>",
+  "release_year": 1963,
+  "runtime_minutes": 100,
+  "country_of_production": "United States",
+  "genres": [
+    "Comedy",
+    "with songs"
+  ],
+  "studio": "Walt Disney",
+  "production_companies": "Walt Disney Productions ",
+  "distribution_companies": "Buena Vista Distribution Co., Inc.",
+  "directors": "James Neilson",
+  "writers": "Sally Benson",
+  "cast_members": "Hayley Mills|Burl Ives|Dorothy McGuire|Deborah Walley|Eddie Hodges|Jimmy Mathers|Michael J. Pollard|Wendy Turner|Una Merkel|Peter Brown",
+  "color_info": "color",
+  "adaptation_notes": null,
+  "afi_catalog_id": 23791,
+  "source_work": {
+    "id": 968,
+    "slug": "mother-careys-chickens",
+    "title": "Mother Carey's Chickens",
+    "formatted_title": "Mother Carey's Chickens",
+    "html_title": "<span class=\"work-title\">Mother Carey's Chickens</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 1963
+  },
+  "author": {
+    "id": 13,
+    "slug": "kate-douglas-wiggin",
+    "name": "Kate Douglas Wiggin",
+    "birth_year": 1856,
+    "death_year": 1923,
+    "nationality": "United States",
+    "film_count": 9
+  },
+  "other_adaptations": [
+    {
+      "id": 1078,
+      "slug": "mother-careys-chickens-1938",
+      "title": "Mother Carey's Chickens",
+      "html_title": "<span class=\"film-title\">Mother Carey's Chickens</span>",
+      "year": 1938,
+      "directors": "Rowland V. Lee",
+      "studio": "RKO"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

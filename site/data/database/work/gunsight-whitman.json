@@ -1,0 +1,60 @@
+{
+  "id": 823,
+  "slug": "gunsight-whitman",
+  "title": "Gunsight Whitman",
+  "formatted_title": "Gunsight Whitman",
+  "html_title": "<span class=\"work-title\">Gunsight Whitman</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 414,
+    "slug": "silvia-richards",
+    "name": "Silvia Richards",
+    "birth_year": 1916,
+    "death_year": 1999,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 917,
+      "slug": "rancho-notorious-1952",
+      "title": "Rancho Notorious",
+      "html_title": "<span class=\"film-title\">Rancho Notorious</span>",
+      "year": 1952,
+      "studio": "Fidelity Pictures",
+      "directors": "Fritz Lang",
+      "genres": [
+        "Western",
+        "with songs"
+      ],
+      "has_media": false,
+      "years_after_publication": 1952
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-11T15:36:05.714449"
+}

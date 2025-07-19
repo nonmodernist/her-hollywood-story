@@ -1,0 +1,78 @@
+{
+  "id": 209,
+  "slug": "olive-edens",
+  "name": "Olive Edens",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1932,
+    "last_adaptation": 1932,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 540,
+      "slug": "a-house-divided-1932",
+      "title": "A House Divided",
+      "html_title": "<span class=\"film-title\">A House Divided</span>",
+      "year": 1932,
+      "studio": "Universal",
+      "directors": "William Wyler",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Hearts and Hands",
+      "work_html_title": "<span class=\"work-title\">Hearts and Hands</span>",
+      "work_id": 470
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 470,
+      "slug": "hearts-and-hands",
+      "title": "Hearts and Hands",
+      "formatted_title": "Hearts and Hands",
+      "html_title": "<span class=\"work-title\">Hearts and Hands</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 470,
+    "slug": "hearts-and-hands",
+    "title": "Hearts and Hands",
+    "formatted_title": "Hearts and Hands",
+    "html_title": "<span class=\"work-title\">Hearts and Hands</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-24T13:48:25.835294"
+}

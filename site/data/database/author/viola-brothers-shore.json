@@ -1,0 +1,147 @@
+{
+  "id": 445,
+  "slug": "viola-brothers-shore",
+  "name": "Viola Brothers Shore",
+  "birth_year": 1890,
+  "death_year": 1970,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author, screenwriter, playwright, poet. Born in New York City. Died in New York City. Occupations: poet, novelist, writer, screenwriter",
+  "author_notes": null,
+  "wikidata_id": "Q18910691",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1925,
+    "last_adaptation": 1928,
+    "year_span": 3,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 988,
+      "slug": "let-women-alone-1925",
+      "title": "Let Women Alone",
+      "html_title": "<span class=\"film-title\">Let Women Alone</span>",
+      "year": 1925,
+      "studio": "Peninsula Studios",
+      "directors": "Paul Powell",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "On the Shelf",
+      "work_html_title": "<span class=\"work-title\">On the Shelf</span>",
+      "work_id": 890
+    },
+    {
+      "id": 989,
+      "slug": "the-prince-of-headwaiters-1927",
+      "title": "The Prince of Headwaiters",
+      "html_title": "<span class=\"film-title\">The Prince of Headwaiters</span>",
+      "year": 1927,
+      "studio": "Sam E. Rork Productions",
+      "directors": "John Francis Dillon",
+      "genres": [
+        "Drama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "The Prince of Headwaiters",
+      "work_html_title": "<span class=\"work-title\">The Prince of Headwaiters</span>",
+      "work_id": 891
+    },
+    {
+      "id": 987,
+      "slug": "hit-of-the-show-1928",
+      "title": "Hit of the Show",
+      "html_title": "<span class=\"film-title\">Hit of the Show</span>",
+      "year": 1928,
+      "studio": "FBO",
+      "directors": "Ralph Ince",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Notices",
+      "work_html_title": "<span class=\"work-title\">Notices</span>",
+      "work_id": 889
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 890,
+      "slug": "on-the-shelf",
+      "title": "On the Shelf",
+      "formatted_title": "On the Shelf",
+      "html_title": "<span class=\"work-title\">On the Shelf</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 891,
+      "slug": "the-prince-of-headwaiters",
+      "title": "The Prince of Headwaiters",
+      "formatted_title": "The Prince of Headwaiters",
+      "html_title": "<span class=\"work-title\">The Prince of Headwaiters</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 889,
+      "slug": "notices",
+      "title": "Notices",
+      "formatted_title": "Notices",
+      "html_title": "<span class=\"work-title\">Notices</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 890,
+    "slug": "on-the-shelf",
+    "title": "On the Shelf",
+    "formatted_title": "On the Shelf",
+    "html_title": "<span class=\"work-title\">On the Shelf</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:26:10.257354"
+}

@@ -1,0 +1,85 @@
+{
+  "id": 198,
+  "slug": "gowns-by-roberta",
+  "title": "Gowns By Roberta",
+  "formatted_title": "Gowns By Roberta",
+  "html_title": "<span class=\"work-title\">Gowns By Roberta</span>",
+  "work_type": "novel",
+  "publication_year": 1933,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 24,
+    "slug": "alice-duer-miller",
+    "name": "Alice Duer Miller",
+    "birth_year": 1894,
+    "death_year": 1985,
+    "film_count": 22
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 17,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 17
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 223,
+      "slug": "roberta-1935",
+      "title": "Roberta",
+      "html_title": "<span class=\"film-title\">Roberta</span>",
+      "year": 1935,
+      "studio": "RKO",
+      "directors": "William A. Seiter",
+      "genres": [
+        "Musical",
+        "Romantic comedy"
+      ],
+      "has_media": true,
+      "years_after_publication": 2
+    },
+    {
+      "id": 317,
+      "slug": "lovely-to-look-at-1952",
+      "title": "Lovely To Look At",
+      "html_title": "<span class=\"film-title\">Lovely To Look At</span>",
+      "year": 1952,
+      "studio": "MGM",
+      "directors": "Mervyn LeRoy",
+      "genres": [
+        "Musical comedy"
+      ],
+      "has_media": false,
+      "years_after_publication": 19
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1935,
+      "to_year": 1952,
+      "gap_years": 17
+    }
+  ],
+  "photoplay_edition": {
+    "year": 1935,
+    "publisher": "Grosset & Dunlap",
+    "notes": "Dust jacket",
+    "count": 0
+  },
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T17:46:12.892211"
+}

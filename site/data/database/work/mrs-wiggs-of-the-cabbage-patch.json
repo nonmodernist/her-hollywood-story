@@ -1,0 +1,127 @@
+{
+  "id": 6,
+  "slug": "mrs-wiggs-of-the-cabbage-patch",
+  "title": "Mrs. Wiggs of the Cabbage Patch",
+  "formatted_title": "Mrs. Wiggs of the Cabbage Patch",
+  "html_title": "<span class=\"work-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+  "work_type": "novel",
+  "publication_year": 1901,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 5,
+    "slug": "alice-hegan-rice",
+    "name": "Alice Hegan Rice",
+    "birth_year": 1870,
+    "death_year": 1942,
+    "film_count": 9
+  },
+  "stats": {
+    "adaptation_count": 4,
+    "year_span": 28,
+    "is_remake_champion": true,
+    "average_gap_between_adaptations": 9
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 13,
+    "is_remake_champion": true,
+    "remake_champion_rank": 9
+  },
+  "adaptations": [
+    {
+      "id": 6,
+      "slug": "mrs-wiggs-of-the-cabbage-patch-1914",
+      "title": "Mrs. Wiggs of the Cabbage Patch",
+      "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+      "year": 1914,
+      "studio": "California Motion Picture Corp",
+      "directors": "Harold Entwhistle",
+      "genres": [
+        "Comedy",
+        "Melodrama",
+        "Carnival/Circus"
+      ],
+      "has_media": true,
+      "years_after_publication": 13
+    },
+    {
+      "id": 54,
+      "slug": "mrs-wiggs-of-the-cabbage-patch-1919",
+      "title": "Mrs. Wiggs of the Cabbage Patch",
+      "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+      "year": 1919,
+      "studio": "Famous Players-Lasky",
+      "directors": "Hugh Ford",
+      "genres": [
+        "Comedy",
+        "Social"
+      ],
+      "has_media": true,
+      "years_after_publication": 18
+    },
+    {
+      "id": 216,
+      "slug": "mrs-wiggs-of-the-cabbage-patch-1934",
+      "title": "Mrs. Wiggs of the Cabbage Patch",
+      "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+      "year": 1934,
+      "studio": "Paramount",
+      "directors": "Norman Taurog",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "years_after_publication": 33
+    },
+    {
+      "id": 266,
+      "slug": "mrs-wiggs-of-the-cabbage-patch-1942",
+      "title": "Mrs. Wiggs of the Cabbage Patch",
+      "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+      "year": 1942,
+      "studio": "Paramount",
+      "directors": "Ralph Murphy",
+      "genres": [
+        "Comedy-drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "years_after_publication": 41
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1914,
+      "to_year": 1919,
+      "gap_years": 5
+    },
+    {
+      "from_year": 1919,
+      "to_year": 1934,
+      "gap_years": 15
+    },
+    {
+      "from_year": 1934,
+      "to_year": 1942,
+      "gap_years": 8
+    }
+  ],
+  "photoplay_edition": {
+    "year": 1928,
+    "publisher": "Grosset & Dunlap",
+    "notes": "16 pictures on end papers",
+    "count": 0
+  },
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T16:47:52.391791"
+}

@@ -1,0 +1,83 @@
+{
+  "id": 92,
+  "slug": "dorothy-baker",
+  "name": "Dorothy Baker",
+  "birth_year": 1907,
+  "death_year": 1968,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American novelist (1907-1968). Born in Missoula. Died in Terra Bella. Occupations: screenwriter, novelist, short story writer, writer. Notable works: Young Man with a Horn",
+  "author_notes": null,
+  "wikidata_id": "Q5298302",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1950,
+    "last_adaptation": 1950,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 304,
+      "slug": "young-man-with-a-horn-1950",
+      "title": "Young Man with a Horn",
+      "html_title": "<span class=\"film-title\">Young Man with a Horn</span>",
+      "year": 1950,
+      "studio": "Warner Bros",
+      "directors": "Michael Curtiz",
+      "genres": [
+        "Drama",
+        "with songs"
+      ],
+      "has_media": true,
+      "work_title": "Young Man With a Horn",
+      "work_html_title": "<span class=\"work-title\">Young Man With a Horn</span>",
+      "work_id": 254
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 254,
+      "slug": "young-man-with-a-horn",
+      "title": "Young Man With a Horn",
+      "formatted_title": "Young Man With a Horn",
+      "html_title": "<span class=\"work-title\">Young Man With a Horn</span>",
+      "work_type": "novel",
+      "publication_year": 1949,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 254,
+    "slug": "young-man-with-a-horn",
+    "title": "Young Man With a Horn",
+    "formatted_title": "Young Man With a Horn",
+    "html_title": "<span class=\"work-title\">Young Man With a Horn</span>",
+    "work_type": "novel",
+    "publication_year": 1949,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:29.175389"
+}

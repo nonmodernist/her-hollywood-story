@@ -1,0 +1,60 @@
+{
+  "id": 262,
+  "slug": "goodbye-my-fancy",
+  "title": "\"Goodbye, My Fancy\"",
+  "formatted_title": "\"Goodbye, My Fancy\"",
+  "html_title": "<span class=\"work-title\">\"Goodbye, My Fancy\"</span>",
+  "work_type": "novel",
+  "publication_year": 1948,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 97,
+    "slug": "fay-kanin",
+    "name": "Fay Kanin",
+    "birth_year": 1917,
+    "death_year": 2013,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 3,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 312,
+      "slug": "goodbye-my-fancy-1951",
+      "title": "Goodbye, My Fancy",
+      "html_title": "<span class=\"film-title\">Goodbye, My Fancy</span>",
+      "year": 1951,
+      "studio": "Warner Bros",
+      "directors": "Vincent Sherman|Frank Mattison",
+      "genres": [
+        "Comedy-drama",
+        "Romance"
+      ],
+      "has_media": false,
+      "years_after_publication": 3
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T23:23:27.459719"
+}

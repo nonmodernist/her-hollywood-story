@@ -1,0 +1,83 @@
+{
+  "id": 421,
+  "slug": "sarah-elizabeth-rodger",
+  "name": "Sarah Elizabeth Rodger",
+  "birth_year": 1912,
+  "death_year": null,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in United States. Occupations: poet, novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q10368407",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1937,
+    "last_adaptation": 1937,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Mystery",
+        "count": 1
+      },
+      {
+        "genre": "Romance",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 952,
+      "slug": "girl-overboard-1937",
+      "title": "Girl Overboard",
+      "html_title": "<span class=\"film-title\">Girl Overboard</span>",
+      "year": 1937,
+      "studio": "Universal",
+      "directors": "Sidney Salkow",
+      "genres": [
+        "Mystery",
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "Person-To-Person Call",
+      "work_html_title": "<span class=\"work-title\">Person-To-Person Call</span>",
+      "work_id": 854
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 854,
+      "slug": "person-to-person-call",
+      "title": "Person-To-Person Call",
+      "formatted_title": "Person-To-Person Call",
+      "html_title": "<span class=\"work-title\">Person-To-Person Call</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 854,
+    "slug": "person-to-person-call",
+    "title": "Person-To-Person Call",
+    "formatted_title": "Person-To-Person Call",
+    "html_title": "<span class=\"work-title\">Person-To-Person Call</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:25:46.773215"
+}

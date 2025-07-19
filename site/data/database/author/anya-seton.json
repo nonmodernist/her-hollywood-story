@@ -1,0 +1,122 @@
+{
+  "id": 438,
+  "slug": "anya-seton",
+  "name": "Anya Seton",
+  "birth_year": 1904,
+  "death_year": 1990,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author of historical fiction (1904-1990). Born in New York City. Died in Old Greenwich. Occupations: novelist, writer, screenwriter. Notable works: Green Darkness, The Winthrop Woman, Katherine, My Theodosia, Dragonwyck",
+  "author_notes": null,
+  "wikidata_id": "Q2857861",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1946,
+    "last_adaptation": 1955,
+    "year_span": 9,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      },
+      {
+        "genre": "Suspense",
+        "count": 1
+      },
+      {
+        "genre": "Social",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1,
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 979,
+      "slug": "dragonwyck-1946",
+      "title": "Dragonwyck",
+      "html_title": "<span class=\"film-title\">Dragonwyck</span>",
+      "year": 1946,
+      "studio": "20th Century Fox",
+      "directors": "Joseph L. Mankiewicz",
+      "genres": [
+        "Drama",
+        "Historical",
+        "Suspense"
+      ],
+      "has_media": false,
+      "work_title": "Dragonwyck",
+      "work_html_title": "<span class=\"work-title\">Dragonwyck</span>",
+      "work_id": 881
+    },
+    {
+      "id": 980,
+      "slug": "foxfire-1955",
+      "title": "Foxfire",
+      "html_title": "<span class=\"film-title\">Foxfire</span>",
+      "year": 1955,
+      "studio": "Universal-International",
+      "directors": "Joseph Pevney",
+      "genres": [
+        "Drama",
+        "Social"
+      ],
+      "has_media": false,
+      "work_title": "Foxfire",
+      "work_html_title": "<span class=\"work-title\">Foxfire</span>",
+      "work_id": 882
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 881,
+      "slug": "dragonwyck",
+      "title": "Dragonwyck",
+      "formatted_title": "Dragonwyck",
+      "html_title": "<span class=\"work-title\">Dragonwyck</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 882,
+      "slug": "foxfire",
+      "title": "Foxfire",
+      "formatted_title": "Foxfire",
+      "html_title": "<span class=\"work-title\">Foxfire</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 881,
+    "slug": "dragonwyck",
+    "title": "Dragonwyck",
+    "formatted_title": "Dragonwyck",
+    "html_title": "<span class=\"work-title\">Dragonwyck</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:26:04.613009"
+}

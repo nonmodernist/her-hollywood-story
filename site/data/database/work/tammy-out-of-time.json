@@ -1,0 +1,80 @@
+{
+  "id": 276,
+  "slug": "tammy-out-of-time",
+  "title": "Tammy Out of Time",
+  "formatted_title": "Tammy Out of Time",
+  "html_title": "<span class=\"work-title\">Tammy Out of Time</span>",
+  "work_type": "novel",
+  "publication_year": 1948,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 90,
+    "slug": "cid-ricketts-sumner",
+    "name": "Cid Ricketts Sumner",
+    "birth_year": 1890,
+    "death_year": 1970,
+    "film_count": 4
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 6,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 6
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 9,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 333,
+      "slug": "tammy-and-the-bachelor-1957",
+      "title": "Tammy and the Bachelor",
+      "html_title": "<span class=\"film-title\">Tammy and the Bachelor</span>",
+      "year": 1957,
+      "studio": "Universal-International",
+      "directors": "Joseph Pevney",
+      "genres": [
+        "Romance",
+        "Rural"
+      ],
+      "has_media": true,
+      "years_after_publication": 9
+    },
+    {
+      "id": 1012,
+      "slug": "tammy-and-the-doctor-1963",
+      "title": "Tammy and the Doctor",
+      "html_title": "<span class=\"film-title\">Tammy and the Doctor</span>",
+      "year": 1963,
+      "studio": "Ross Hunter Productions",
+      "directors": "Harry Keller",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": false,
+      "years_after_publication": 15
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1957,
+      "to_year": 1963,
+      "gap_years": 6
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:48:03.914138"
+}

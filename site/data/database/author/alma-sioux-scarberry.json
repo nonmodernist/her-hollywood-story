@@ -1,0 +1,78 @@
+{
+  "id": 434,
+  "slug": "alma-sioux-scarberry",
+  "name": "Alma Sioux Scarberry",
+  "birth_year": 1899,
+  "death_year": 1990,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "[occupation:script-writer; radio producer; author] [dates:1925-1930] [archive:American Biographical Archive]. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q110284489",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1934,
+    "last_adaptation": 1934,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 976,
+      "slug": "hired-wife-1934",
+      "title": "Hired Wife",
+      "html_title": "<span class=\"film-title\">Hired Wife</span>",
+      "year": 1934,
+      "studio": "Pinnacle Productions",
+      "directors": "George Melford",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Flat Tire",
+      "work_html_title": "<span class=\"work-title\">The Flat Tire</span>",
+      "work_id": 878
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 878,
+      "slug": "the-flat-tire",
+      "title": "The Flat Tire",
+      "formatted_title": "The Flat Tire",
+      "html_title": "<span class=\"work-title\">The Flat Tire</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 878,
+    "slug": "the-flat-tire",
+    "title": "The Flat Tire",
+    "formatted_title": "The Flat Tire",
+    "html_title": "<span class=\"work-title\">The Flat Tire</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:26:01.196977"
+}

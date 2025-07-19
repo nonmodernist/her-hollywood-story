@@ -1,0 +1,83 @@
+{
+  "id": 96,
+  "slug": "agnes-newton-keith",
+  "name": "Agnes Newton Keith",
+  "birth_year": 1901,
+  "death_year": 1982,
+  "nationality": "United States, Malaysia",
+  "literary_movement": null,
+  "biographical_notes": "American novelist and memoirist (1901—1982). Occupations: novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q4693095",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1950,
+    "last_adaptation": 1950,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "World War II",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 311,
+      "slug": "three-came-home-1950",
+      "title": "Three Came Home",
+      "html_title": "<span class=\"film-title\">Three Came Home</span>",
+      "year": 1950,
+      "studio": "20th Century Fox",
+      "directors": "Jean Negulesco",
+      "genres": [
+        "Drama",
+        "World War II"
+      ],
+      "has_media": true,
+      "work_title": "Three Came Home",
+      "work_html_title": "<span class=\"work-title\">Three Came Home</span>",
+      "work_id": 261
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 261,
+      "slug": "three-came-home",
+      "title": "Three Came Home",
+      "formatted_title": "Three Came Home",
+      "html_title": "<span class=\"work-title\">Three Came Home</span>",
+      "work_type": "novel",
+      "publication_year": 1948,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 261,
+    "slug": "three-came-home",
+    "title": "Three Came Home",
+    "formatted_title": "Three Came Home",
+    "html_title": "<span class=\"work-title\">Three Came Home</span>",
+    "work_type": "novel",
+    "publication_year": 1948,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:34.1973"
+}

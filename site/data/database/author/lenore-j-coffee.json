@@ -1,0 +1,149 @@
+{
+  "id": 172,
+  "slug": "lenore-j-coffee",
+  "name": "Lenore J. Coffee",
+  "birth_year": 1896,
+  "death_year": 1984,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American screenwriter, playwright, novelist (1896-1984). Born in San Francisco. Died in Woodland Hills. Occupations: playwright, writer, screenwriter, script",
+  "author_notes": null,
+  "wikidata_id": "Q1818206",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1920,
+    "last_adaptation": 1958,
+    "year_span": 38,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "World War II",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1,
+      "1930": 1,
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 473,
+      "slug": "the-forbidden-woman-1920",
+      "title": "The Forbidden Woman",
+      "html_title": "<span class=\"film-title\">The Forbidden Woman</span>",
+      "year": 1920,
+      "studio": "Garson Studios",
+      "directors": "Harry Garson",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Forbidden Woman",
+      "work_html_title": "<span class=\"work-title\">The Forbidden Woman</span>",
+      "work_id": 405
+    },
+    {
+      "id": 475,
+      "slug": "good-girls-go-to-paris-1939",
+      "title": "Good Girls Go to Paris",
+      "html_title": "<span class=\"film-title\">Good Girls Go to Paris</span>",
+      "year": 1939,
+      "studio": "Columbia",
+      "directors": "Alexander Hall",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "Miss Aesop Butters Her Bread",
+      "work_html_title": "<span class=\"work-title\">Miss Aesop Butters Her Bread</span>",
+      "work_id": 407
+    },
+    {
+      "id": 474,
+      "slug": "another-time-another-place-1958",
+      "title": "Another Time, Another Place",
+      "html_title": "<span class=\"film-title\">Another Time, Another Place</span>",
+      "year": 1958,
+      "studio": "Lanturn Productions",
+      "directors": "Lewis Allen",
+      "genres": [
+        "Melodrama",
+        "World War II"
+      ],
+      "has_media": false,
+      "work_title": "Weep No More",
+      "work_html_title": "<span class=\"work-title\">Weep No More</span>",
+      "work_id": 406
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 405,
+      "slug": "the-forbidden-woman",
+      "title": "The Forbidden Woman",
+      "formatted_title": "The Forbidden Woman",
+      "html_title": "<span class=\"work-title\">The Forbidden Woman</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 407,
+      "slug": "miss-aesop-butters-her-bread",
+      "title": "Miss Aesop Butters Her Bread",
+      "formatted_title": "Miss Aesop Butters Her Bread",
+      "html_title": "<span class=\"work-title\">Miss Aesop Butters Her Bread</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 406,
+      "slug": "weep-no-more",
+      "title": "Weep No More",
+      "formatted_title": "Weep No More",
+      "html_title": "<span class=\"work-title\">Weep No More</span>",
+      "work_type": "novel",
+      "publication_year": 1955,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 405,
+    "slug": "the-forbidden-woman",
+    "title": "The Forbidden Woman",
+    "formatted_title": "The Forbidden Woman",
+    "html_title": "<span class=\"work-title\">The Forbidden Woman</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:52.555093"
+}

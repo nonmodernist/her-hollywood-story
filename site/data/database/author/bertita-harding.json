@@ -1,0 +1,121 @@
+{
+  "id": 252,
+  "slug": "bertita-harding",
+  "name": "Bertita Harding",
+  "birth_year": 1902,
+  "death_year": 1971,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in Nuremberg. Died in Mexico City. Occupations: pianist, writer, biographer",
+  "author_notes": null,
+  "wikidata_id": "Q16007025",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1939,
+    "last_adaptation": 1956,
+    "year_span": 17,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      },
+      {
+        "genre": "Biography",
+        "count": 1
+      },
+      {
+        "genre": "Musical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1,
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 625,
+      "slug": "juarez-1939",
+      "title": "Juarez",
+      "html_title": "<span class=\"film-title\">Juarez</span>",
+      "year": 1939,
+      "studio": "Warner Bros",
+      "directors": "William Dieterle",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": true,
+      "work_title": "Phantom Crown: The Story of Maximilian and Carlotta of Mexico",
+      "work_html_title": "<span class=\"work-title\">Phantom Crown: The Story of Maximilian and Carlotta of Mexico</span>",
+      "work_id": 548
+    },
+    {
+      "id": 624,
+      "slug": "magic-fire-1956",
+      "title": "Magic Fire",
+      "html_title": "<span class=\"film-title\">Magic Fire</span>",
+      "year": 1956,
+      "studio": "Republic",
+      "directors": "William Dieterle",
+      "genres": [
+        "Biography",
+        "Musical"
+      ],
+      "has_media": false,
+      "work_title": "Magic Fire",
+      "work_html_title": "<span class=\"work-title\">Magic Fire</span>",
+      "work_id": 547
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 548,
+      "slug": "phantom-crown-the-story-of-maximilian-and-carlotta-of-mexico",
+      "title": "Phantom Crown: The Story of Maximilian and Carlotta of Mexico",
+      "formatted_title": "Phantom Crown: The Story of Maximilian and Carlotta of Mexico",
+      "html_title": "<span class=\"work-title\">Phantom Crown: The Story of Maximilian and Carlotta of Mexico</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 547,
+      "slug": "magic-fire",
+      "title": "Magic Fire",
+      "formatted_title": "Magic Fire",
+      "html_title": "<span class=\"work-title\">Magic Fire</span>",
+      "work_type": "novel",
+      "publication_year": 1953,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 548,
+    "slug": "phantom-crown-the-story-of-maximilian-and-carlotta-of-mexico",
+    "title": "Phantom Crown: The Story of Maximilian and Carlotta of Mexico",
+    "formatted_title": "Phantom Crown: The Story of Maximilian and Carlotta of Mexico",
+    "html_title": "<span class=\"work-title\">Phantom Crown: The Story of Maximilian and Carlotta of Mexico</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:23:00.892305"
+}

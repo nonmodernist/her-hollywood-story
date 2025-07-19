@@ -1,0 +1,78 @@
+{
+  "id": 176,
+  "slug": "allene-corliss",
+  "name": "Allene Corliss",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1938,
+    "last_adaptation": 1938,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 479,
+      "slug": "i-met-my-love-again-1938",
+      "title": "I Met My Love Again",
+      "html_title": "<span class=\"film-title\">I Met My Love Again</span>",
+      "year": 1938,
+      "studio": "Walter Wanger Productions",
+      "directors": "Arthur Ripley|Joshua Logan",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Summer Lightning",
+      "work_html_title": "<span class=\"work-title\">Summer Lightning</span>",
+      "work_id": 411
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 411,
+      "slug": "summer-lightning",
+      "title": "Summer Lightning",
+      "formatted_title": "Summer Lightning",
+      "html_title": "<span class=\"work-title\">Summer Lightning</span>",
+      "work_type": "novel",
+      "publication_year": 1936,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 411,
+    "slug": "summer-lightning",
+    "title": "Summer Lightning",
+    "formatted_title": "Summer Lightning",
+    "html_title": "<span class=\"work-title\">Summer Lightning</span>",
+    "work_type": "novel",
+    "publication_year": 1936,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-19T17:55:47.602155"
+}

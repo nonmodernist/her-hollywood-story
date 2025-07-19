@@ -1,0 +1,104 @@
+{
+  "id": 85,
+  "slug": "manslaughter",
+  "title": "Manslaughter",
+  "formatted_title": "Manslaughter",
+  "html_title": "<span class=\"work-title\">Manslaughter</span>",
+  "work_type": "novel",
+  "publication_year": 1921,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 24,
+    "slug": "alice-duer-miller",
+    "name": "Alice Duer Miller",
+    "birth_year": 1894,
+    "death_year": 1985,
+    "film_count": 22
+  },
+  "stats": {
+    "adaptation_count": 3,
+    "year_span": 14,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 7
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 89,
+      "slug": "manslaughter-1922",
+      "title": "Manslaughter",
+      "html_title": "<span class=\"film-title\">Manslaughter</span>",
+      "year": 1922,
+      "studio": "Famous Players-Lasky",
+      "directors": "Cecil B. DeMille",
+      "genres": [
+        "Drama",
+        "Society"
+      ],
+      "has_media": true,
+      "years_after_publication": 1
+    },
+    {
+      "id": 168,
+      "slug": "manslaughter-1930",
+      "title": "Manslaughter",
+      "html_title": "<span class=\"film-title\">Manslaughter</span>",
+      "year": 1930,
+      "studio": "Paramount",
+      "directors": "George Abbott",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "years_after_publication": 9
+    },
+    {
+      "id": 812,
+      "slug": "and-sudden-death-1936",
+      "title": "And Sudden Death",
+      "html_title": "<span class=\"film-title\">And Sudden Death</span>",
+      "year": 1936,
+      "studio": "Paramount",
+      "directors": "Charles Barton",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "years_after_publication": 15
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1922,
+      "to_year": 1930,
+      "gap_years": 8
+    },
+    {
+      "from_year": 1930,
+      "to_year": 1936,
+      "gap_years": 6
+    }
+  ],
+  "photoplay_edition": {
+    "year": 1932,
+    "publisher": "Grosset & Dunlap",
+    "notes": "8 pictures",
+    "count": 0
+  },
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T16:45:33.510483"
+}

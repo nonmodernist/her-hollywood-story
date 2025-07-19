@@ -1,0 +1,100 @@
+{
+  "id": 89,
+  "slug": "eleanor-atkinson",
+  "name": "Eleanor Atkinson",
+  "birth_year": 1863,
+  "death_year": 1942,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author, journalist and teacher.. Born in Rensselaer. Occupations: novelist, journalist, teacher, writer",
+  "author_notes": null,
+  "wikidata_id": "Q5354396",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 1,
+    "first_adaptation": 1949,
+    "last_adaptation": 1961,
+    "year_span": 12,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 2
+      },
+      {
+        "genre": "Animal",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1,
+      "1960": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 298,
+      "slug": "challenge-to-lassie-1949",
+      "title": "Challenge to Lassie",
+      "html_title": "<span class=\"film-title\">Challenge to Lassie</span>",
+      "year": 1949,
+      "studio": "MGM",
+      "directors": "Richard Thorpe",
+      "genres": [
+        "Comedy-drama",
+        "Animal"
+      ],
+      "has_media": false,
+      "work_title": "Greyfriars Bobby",
+      "work_html_title": "<span class=\"work-title\">Greyfriars Bobby</span>",
+      "work_id": 248
+    },
+    {
+      "id": 351,
+      "slug": "greyfriars-bobby-1961",
+      "title": "Greyfriars Bobby",
+      "html_title": "<span class=\"film-title\">Greyfriars Bobby</span>",
+      "year": 1961,
+      "studio": "Walt Disney",
+      "directors": "Don Chaffey",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "Greyfriars Bobby",
+      "work_html_title": "<span class=\"work-title\">Greyfriars Bobby</span>",
+      "work_id": 248
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 248,
+      "slug": "greyfriars-bobby",
+      "title": "Greyfriars Bobby",
+      "formatted_title": "Greyfriars Bobby",
+      "html_title": "<span class=\"work-title\">Greyfriars Bobby</span>",
+      "work_type": "novel",
+      "publication_year": 1912,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 248,
+    "slug": "greyfriars-bobby",
+    "title": "Greyfriars Bobby",
+    "formatted_title": "Greyfriars Bobby",
+    "html_title": "<span class=\"work-title\">Greyfriars Bobby</span>",
+    "work_type": "novel",
+    "publication_year": 1912,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:24.747263"
+}

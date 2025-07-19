@@ -1,0 +1,80 @@
+{
+  "id": 566,
+  "slug": "oil-for-the-lamps-of-china",
+  "title": "Oil for the Lamps of China",
+  "formatted_title": "Oil for the Lamps of China",
+  "html_title": "<span class=\"work-title\">Oil for the Lamps of China</span>",
+  "work_type": "novel",
+  "publication_year": 1933,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 266,
+    "slug": "alice-tisdale-hobart",
+    "name": "Alice Tisdale Hobart",
+    "birth_year": 1882,
+    "death_year": 1967,
+    "film_count": 3
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 6,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 6
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 643,
+      "slug": "oil-for-the-lamps-of-china-1935",
+      "title": "Oil for the Lamps of China",
+      "html_title": "<span class=\"film-title\">Oil for the Lamps of China</span>",
+      "year": 1935,
+      "studio": "First National",
+      "directors": "Mervyn LeRoy",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 2
+    },
+    {
+      "id": 644,
+      "slug": "law-of-the-tropics-1941",
+      "title": "Law of the Tropics",
+      "html_title": "<span class=\"film-title\">Law of the Tropics</span>",
+      "year": 1941,
+      "studio": "Warner Bros",
+      "directors": "Ray Enright",
+      "genres": [
+        "Romance",
+        "Jungle"
+      ],
+      "has_media": false,
+      "years_after_publication": 8
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1935,
+      "to_year": 1941,
+      "gap_years": 6
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T14:15:19.44188"
+}

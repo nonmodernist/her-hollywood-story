@@ -1,0 +1,104 @@
+{
+  "id": 466,
+  "slug": "lucy-stone-terrill",
+  "name": "Lucy Stone Terrill",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1924,
+    "last_adaptation": 1929,
+    "year_span": 5,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1026,
+      "slug": "unguarded-women-1924",
+      "title": "Unguarded Women",
+      "html_title": "<span class=\"film-title\">Unguarded Women</span>",
+      "year": 1924,
+      "studio": "Famous Players-Lasky",
+      "directors": "Alan Crosland",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Face",
+      "work_html_title": "<span class=\"work-title\">Face</span>",
+      "work_id": 920
+    },
+    {
+      "id": 1025,
+      "slug": "clothes-1929",
+      "title": "Clothes",
+      "html_title": "<span class=\"film-title\">Clothes</span>",
+      "year": 1929,
+      "studio": null,
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "Clothes",
+      "work_html_title": "<span class=\"work-title\">Clothes</span>",
+      "work_id": 919
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 920,
+      "slug": "face",
+      "title": "Face",
+      "formatted_title": "Face",
+      "html_title": "<span class=\"work-title\">Face</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 919,
+      "slug": "clothes",
+      "title": "Clothes",
+      "formatted_title": "Clothes",
+      "html_title": "<span class=\"work-title\">Clothes</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 920,
+    "slug": "face",
+    "title": "Face",
+    "formatted_title": "Face",
+    "html_title": "<span class=\"work-title\">Face</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T17:49:15.486473"
+}

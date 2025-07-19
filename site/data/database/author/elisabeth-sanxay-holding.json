@@ -1,0 +1,116 @@
+{
+  "id": 67,
+  "slug": "elisabeth-sanxay-holding",
+  "name": "Elisabeth Sanxay Holding",
+  "birth_year": 1889,
+  "death_year": 1955,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author. Born in Brooklyn. Died in The Bronx. Occupations: novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q3051104",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1936,
+    "last_adaptation": 1949,
+    "year_span": 13,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Suspense",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1,
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 231,
+      "slug": "the-bride-comes-home-1936",
+      "title": "The Bride Comes Home",
+      "html_title": "<span class=\"film-title\">The Bride Comes Home</span>",
+      "year": 1936,
+      "studio": "Paramount",
+      "directors": "Wesley Ruggles",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "\"The Bride Comes Home\"",
+      "work_html_title": "<span class=\"work-title\">\"The Bride Comes Home\"</span>",
+      "work_id": 201
+    },
+    {
+      "id": 299,
+      "slug": "the-reckless-moment-1949",
+      "title": "The Reckless Moment",
+      "html_title": "<span class=\"film-title\">The Reckless Moment</span>",
+      "year": 1949,
+      "studio": "Columbia",
+      "directors": "Max Opuls",
+      "genres": [
+        "Melodrama",
+        "Suspense"
+      ],
+      "has_media": false,
+      "work_title": "The Blank Wall",
+      "work_html_title": "<span class=\"work-title\">The Blank Wall</span>",
+      "work_id": 249
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 201,
+      "slug": "the-bride-comes-home",
+      "title": "\"The Bride Comes Home\"",
+      "formatted_title": "\"The Bride Comes Home\"",
+      "html_title": "<span class=\"work-title\">\"The Bride Comes Home\"</span>",
+      "work_type": "novel",
+      "publication_year": 1935,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 249,
+      "slug": "the-blank-wall",
+      "title": "The Blank Wall",
+      "formatted_title": "The Blank Wall",
+      "html_title": "<span class=\"work-title\">The Blank Wall</span>",
+      "work_type": "novel",
+      "publication_year": 1947,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 201,
+    "slug": "the-bride-comes-home",
+    "title": "\"The Bride Comes Home\"",
+    "formatted_title": "\"The Bride Comes Home\"",
+    "html_title": "<span class=\"work-title\">\"The Bride Comes Home\"</span>",
+    "work_type": "novel",
+    "publication_year": 1935,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:00.075432"
+}

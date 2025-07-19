@@ -1,0 +1,176 @@
+{
+  "id": 39,
+  "slug": "elizabeth-alexander",
+  "name": "Elizabeth Alexander",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": "-",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 4,
+    "first_adaptation": 1923,
+    "last_adaptation": 1934,
+    "year_span": 11,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 2
+      },
+      {
+        "genre": "Romantic comedy",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 2,
+      "1930": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 99,
+      "slug": "the-self-made-wife-1923",
+      "title": "The Self-Made Wife",
+      "html_title": "<span class=\"film-title\">The Self-Made Wife</span>",
+      "year": 1923,
+      "studio": "Universal",
+      "directors": "Jack Dillon",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "\"The Self-Made Wife\"",
+      "work_html_title": "<span class=\"work-title\">\"The Self-Made Wife\"</span>",
+      "work_id": 95
+    },
+    {
+      "id": 108,
+      "slug": "changing-husbands-1924",
+      "title": "Changing Husbands",
+      "html_title": "<span class=\"film-title\">Changing Husbands</span>",
+      "year": 1924,
+      "studio": "Famous Players-Lasky",
+      "directors": "Frank Urson|Paul Iribe",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": true,
+      "work_title": "Roles",
+      "work_html_title": "<span class=\"work-title\">Roles</span>",
+      "work_id": 103
+    },
+    {
+      "id": 170,
+      "slug": "second-choice-1930",
+      "title": "Second Choice",
+      "html_title": "<span class=\"film-title\">Second Choice</span>",
+      "year": 1930,
+      "studio": "Warner Bros",
+      "directors": "Howard Bretherton",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "Second Choice",
+      "work_html_title": "<span class=\"work-title\">Second Choice</span>",
+      "work_id": 157
+    },
+    {
+      "id": 213,
+      "slug": "you-belong-to-me-1934",
+      "title": "You Belong to Me",
+      "html_title": "<span class=\"film-title\">You Belong to Me</span>",
+      "year": 1934,
+      "studio": "Paramount",
+      "directors": "Alfred Werker",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "\"Fifty-Two Weeks for Florette\"",
+      "work_html_title": "<span class=\"work-title\">\"Fifty-Two Weeks for Florette\"</span>",
+      "work_id": 192
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 95,
+      "slug": "the-self-made-wife",
+      "title": "\"The Self-Made Wife\"",
+      "formatted_title": "\"The Self-Made Wife\"",
+      "html_title": "<span class=\"work-title\">\"The Self-Made Wife\"</span>",
+      "work_type": "novel",
+      "publication_year": 1922,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 103,
+      "slug": "roles",
+      "title": "Roles",
+      "formatted_title": "Roles",
+      "html_title": "<span class=\"work-title\">Roles</span>",
+      "work_type": "novel",
+      "publication_year": 1924,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 157,
+      "slug": "second-choice",
+      "title": "Second Choice",
+      "formatted_title": "Second Choice",
+      "html_title": "<span class=\"work-title\">Second Choice</span>",
+      "work_type": "novel",
+      "publication_year": 1928,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 192,
+      "slug": "fifty-two-weeks-for-florette",
+      "title": "\"Fifty-Two Weeks for Florette\"",
+      "formatted_title": "\"Fifty-Two Weeks for Florette\"",
+      "html_title": "<span class=\"work-title\">\"Fifty-Two Weeks for Florette\"</span>",
+      "work_type": "novel",
+      "publication_year": 1921,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 95,
+    "slug": "the-self-made-wife",
+    "title": "\"The Self-Made Wife\"",
+    "formatted_title": "\"The Self-Made Wife\"",
+    "html_title": "<span class=\"work-title\">\"The Self-Made Wife\"</span>",
+    "work_type": "novel",
+    "publication_year": 1922,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:41:59.785723"
+}

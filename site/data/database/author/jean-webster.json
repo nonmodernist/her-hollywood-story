@@ -1,0 +1,147 @@
+{
+  "id": 27,
+  "slug": "jean-webster",
+  "name": "Jean Webster",
+  "birth_year": 1876,
+  "death_year": 1916,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American novelist (1876-1916). Born in Fredonia. Died in New York City. Occupations: children's writer, journalist, short story writer, screenwriter, humorist, writer, playwright, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q238140",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 1,
+    "first_adaptation": 1919,
+    "last_adaptation": 1955,
+    "year_span": 36,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 2
+      },
+      {
+        "genre": "Youth",
+        "count": 2
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Musical",
+        "count": 1
+      },
+      {
+        "genre": "Romance",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1930": 2,
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 52,
+      "slug": "daddy-long-legs-1919",
+      "title": "Daddy-Long-Legs",
+      "html_title": "<span class=\"film-title\">Daddy-Long-Legs</span>",
+      "year": 1919,
+      "studio": "Mary Pickford",
+      "directors": "Marshall A. Neilan",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "work_title": "Daddy-Long-Legs",
+      "work_html_title": "<span class=\"work-title\">Daddy-Long-Legs</span>",
+      "work_id": 50
+    },
+    {
+      "id": 184,
+      "slug": "daddy-long-legs-1931",
+      "title": "Daddy Long Legs",
+      "html_title": "<span class=\"film-title\">Daddy Long Legs</span>",
+      "year": 1931,
+      "studio": "Fox Film",
+      "directors": "Alfred Santell",
+      "genres": [
+        "Comedy-drama",
+        "Youth"
+      ],
+      "has_media": true,
+      "work_title": "Daddy-Long-Legs",
+      "work_html_title": "<span class=\"work-title\">Daddy-Long-Legs</span>",
+      "work_id": 50
+    },
+    {
+      "id": 228,
+      "slug": "curly-top-1935",
+      "title": "Curly Top",
+      "html_title": "<span class=\"film-title\">Curly Top</span>",
+      "year": 1935,
+      "studio": "Fox Film",
+      "directors": "Irving Cummings",
+      "genres": [
+        "Comedy-drama",
+        "Youth"
+      ],
+      "has_media": false,
+      "work_title": "Daddy-Long-Legs",
+      "work_html_title": "<span class=\"work-title\">Daddy-Long-Legs</span>",
+      "work_id": 50
+    },
+    {
+      "id": 330,
+      "slug": "daddy-long-legs-1955",
+      "title": "Daddy Long Legs",
+      "html_title": "<span class=\"film-title\">Daddy Long Legs</span>",
+      "year": 1955,
+      "studio": "20th Century Fox",
+      "directors": "Jean Negulesco",
+      "genres": [
+        "Musical",
+        "Romance"
+      ],
+      "has_media": true,
+      "work_title": "Daddy-Long-Legs",
+      "work_html_title": "<span class=\"work-title\">Daddy-Long-Legs</span>",
+      "work_id": 50
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 50,
+      "slug": "daddy-long-legs",
+      "title": "Daddy-Long-Legs",
+      "formatted_title": "Daddy-Long-Legs",
+      "html_title": "<span class=\"work-title\">Daddy-Long-Legs</span>",
+      "work_type": "novel",
+      "publication_year": 1912,
+      "genre": null,
+      "adaptation_count": 4,
+      "is_remake_champion": true
+    }
+  ],
+  "most_adapted_work": {
+    "id": 50,
+    "slug": "daddy-long-legs",
+    "title": "Daddy-Long-Legs",
+    "formatted_title": "Daddy-Long-Legs",
+    "html_title": "<span class=\"work-title\">Daddy-Long-Legs</span>",
+    "work_type": "novel",
+    "publication_year": 1912,
+    "genre": null,
+    "adaptation_count": 4,
+    "is_remake_champion": true
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:05.925261"
+}

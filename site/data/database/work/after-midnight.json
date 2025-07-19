@@ -1,0 +1,60 @@
+{
+  "id": 284,
+  "slug": "after-midnight",
+  "title": "After Midnight",
+  "formatted_title": "After Midnight",
+  "html_title": "<span class=\"work-title\">After Midnight</span>",
+  "work_type": "novel",
+  "publication_year": 1948,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 108,
+    "slug": "martha-albrand",
+    "name": "Martha Albrand",
+    "birth_year": 1914,
+    "death_year": 1981,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 347,
+      "slug": "captain-carey-usa-1950",
+      "title": "Captain Carey, U.S.A.",
+      "html_title": "<span class=\"film-title\">Captain Carey, U.S.A.</span>",
+      "year": 1950,
+      "studio": "Paramount",
+      "directors": "Mitchell Leisen",
+      "genres": [
+        "Drama",
+        "Postwar life"
+      ],
+      "has_media": false,
+      "years_after_publication": 2
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T21:02:55.923828"
+}

@@ -1,0 +1,59 @@
+{
+  "id": 403,
+  "slug": "she-was-a-lady",
+  "title": "She Was a Lady",
+  "formatted_title": "She Was a Lady",
+  "html_title": "<span class=\"work-title\">She Was a Lady</span>",
+  "work_type": "novel",
+  "publication_year": 1934,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 170,
+    "slug": "elisabeth-cobb",
+    "name": "Elisabeth Cobb",
+    "birth_year": 1902,
+    "death_year": 1959,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 0,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 471,
+      "slug": "she-was-a-lady-1934",
+      "title": "She Was a Lady",
+      "html_title": "<span class=\"film-title\">She Was a Lady</span>",
+      "year": 1934,
+      "studio": "Fox Film",
+      "directors": "Hamilton MacFadden",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "years_after_publication": 0
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T21:03:01.656616"
+}

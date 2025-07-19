@@ -1,0 +1,111 @@
+{
+  "id": 46,
+  "slug": "elenore-meherin",
+  "name": "Elenore Meherin",
+  "birth_year": 1887,
+  "death_year": 1963,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in San Francisco. Died in San Francisco. Occupations: journalist, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q110769674",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1925,
+    "last_adaptation": 1926,
+    "year_span": 1,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 2
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 120,
+      "slug": "chickie-1925",
+      "title": "Chickie",
+      "html_title": "<span class=\"film-title\">Chickie</span>",
+      "year": 1925,
+      "studio": "First National",
+      "directors": "John Francis Dillon",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "Chickie",
+      "work_html_title": "<span class=\"work-title\">Chickie</span>",
+      "work_id": 115
+    },
+    {
+      "id": 131,
+      "slug": "sandy-1926",
+      "title": "Sandy",
+      "html_title": "<span class=\"film-title\">Sandy</span>",
+      "year": 1926,
+      "studio": "Fox Film",
+      "directors": "Harry Beaumont",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "Sandy",
+      "work_html_title": "<span class=\"work-title\">Sandy</span>",
+      "work_id": 125
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 115,
+      "slug": "chickie",
+      "title": "Chickie",
+      "formatted_title": "Chickie",
+      "html_title": "<span class=\"work-title\">Chickie</span>",
+      "work_type": "novel",
+      "publication_year": 1925,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 125,
+      "slug": "sandy",
+      "title": "Sandy",
+      "formatted_title": "Sandy",
+      "html_title": "<span class=\"work-title\">Sandy</span>",
+      "work_type": "novel",
+      "publication_year": 1926,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 115,
+    "slug": "chickie",
+    "title": "Chickie",
+    "formatted_title": "Chickie",
+    "html_title": "<span class=\"work-title\">Chickie</span>",
+    "work_type": "novel",
+    "publication_year": 1925,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:31.623451"
+}

@@ -1,0 +1,59 @@
+{
+  "id": 932,
+  "slug": "whispering-pines",
+  "title": "Whispering Pines",
+  "formatted_title": "Whispering Pines",
+  "html_title": "<span class=\"work-title\">Whispering Pines</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 473,
+    "slug": "edith-sessions-tupper",
+    "name": "Edith Sessions Tupper",
+    "birth_year": 1855,
+    "death_year": 1927,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1039,
+      "slug": "wilful-youth-1927",
+      "title": "Wilful Youth",
+      "html_title": "<span class=\"film-title\">Wilful Youth</span>",
+      "year": 1927,
+      "studio": "Dallas M. Fitzgerald Productions",
+      "directors": "Dallas M. Fitzgerald",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "years_after_publication": 1927
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T17:59:14.80611"
+}

@@ -1,0 +1,115 @@
+{
+  "id": 330,
+  "slug": "grace-livingston-hill",
+  "name": "Grace Livingston Hill",
+  "birth_year": 1865,
+  "death_year": 1947,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer, novelist, and short story writer (1865–1947). Born in Wellsville. Occupations: writer, short story writer, novelist",
+  "author_notes": "aka Marcia Macdonald",
+  "wikidata_id": "Q4497585",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1919,
+    "last_adaptation": 1919,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Adventure",
+        "count": 1
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 754,
+      "slug": "the-best-man-1919",
+      "title": "The Best Man",
+      "html_title": "<span class=\"film-title\">The Best Man</span>",
+      "year": 1919,
+      "studio": "Jesse D. Hampton Productions",
+      "directors": "Thomas N. Heffron",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "The Best Man",
+      "work_html_title": "<span class=\"work-title\">The Best Man</span>",
+      "work_id": 669
+    },
+    {
+      "id": 755,
+      "slug": "the-enchanted-barn-1919",
+      "title": "The Enchanted Barn",
+      "html_title": "<span class=\"film-title\">The Enchanted Barn</span>",
+      "year": 1919,
+      "studio": "Vitagraph",
+      "directors": "David Smith",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Enchanted Barn",
+      "work_html_title": "<span class=\"work-title\">The Enchanted Barn</span>",
+      "work_id": 670
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 669,
+      "slug": "the-best-man",
+      "title": "The Best Man",
+      "formatted_title": "The Best Man",
+      "html_title": "<span class=\"work-title\">The Best Man</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 670,
+      "slug": "the-enchanted-barn",
+      "title": "The Enchanted Barn",
+      "formatted_title": "The Enchanted Barn",
+      "html_title": "<span class=\"work-title\">The Enchanted Barn</span>",
+      "work_type": "novel",
+      "publication_year": 1918,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 669,
+    "slug": "the-best-man",
+    "title": "The Best Man",
+    "formatted_title": "The Best Man",
+    "html_title": "<span class=\"work-title\">The Best Man</span>",
+    "work_type": "novel",
+    "publication_year": 1914,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:41.544632"
+}

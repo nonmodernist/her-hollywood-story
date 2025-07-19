@@ -1,0 +1,59 @@
+{
+  "id": 667,
+  "slug": "the-book-of-jack-london",
+  "title": "The Book of Jack London",
+  "formatted_title": "The Book of Jack London",
+  "html_title": "<span class=\"work-title\">The Book of Jack London</span>",
+  "work_type": "novel",
+  "publication_year": 1921,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 328,
+    "slug": "charmian-london",
+    "name": "Charmian London",
+    "birth_year": 1871,
+    "death_year": 1955,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 22,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 752,
+      "slug": "jack-london-1943",
+      "title": "Jack London",
+      "html_title": "<span class=\"film-title\">Jack London</span>",
+      "year": 1943,
+      "studio": "Samuel Bronston Pictures",
+      "directors": "Alfred Santell",
+      "genres": [
+        "Biography"
+      ],
+      "has_media": false,
+      "years_after_publication": 22
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T14:15:20.192149"
+}

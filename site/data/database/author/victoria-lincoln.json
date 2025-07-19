@@ -1,0 +1,83 @@
+{
+  "id": 325,
+  "slug": "victoria-lincoln",
+  "name": "Victoria Lincoln",
+  "birth_year": 1904,
+  "death_year": 1981,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American author. Born in Fall River. Died in Baltimore. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q55720721",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1940,
+    "last_adaptation": 1940,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 748,
+      "slug": "primrose-path-1940",
+      "title": "Primrose Path",
+      "html_title": "<span class=\"film-title\">Primrose Path</span>",
+      "year": 1940,
+      "studio": "RKO",
+      "directors": "Gregory La Cava",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "February Hill",
+      "work_html_title": "<span class=\"work-title\">February Hill</span>",
+      "work_id": 663
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 663,
+      "slug": "february-hill",
+      "title": "February Hill",
+      "formatted_title": "February Hill",
+      "html_title": "<span class=\"work-title\">February Hill</span>",
+      "work_type": "novel",
+      "publication_year": 1934,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 663,
+    "slug": "february-hill",
+    "title": "February Hill",
+    "formatted_title": "February Hill",
+    "html_title": "<span class=\"work-title\">February Hill</span>",
+    "work_type": "novel",
+    "publication_year": 1934,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:35.248485"
+}

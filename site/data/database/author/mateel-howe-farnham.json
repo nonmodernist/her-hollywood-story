@@ -1,0 +1,83 @@
+{
+  "id": 217,
+  "slug": "mateel-howe-farnham",
+  "name": "Mateel Howe Farnham",
+  "birth_year": 1883,
+  "death_year": 1957,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American novelist. Born in Atchison. Died in Norwalk. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q110270441",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1932,
+    "last_adaptation": 1932,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 549,
+      "slug": "wayward-1932",
+      "title": "Wayward",
+      "html_title": "<span class=\"film-title\">Wayward</span>",
+      "year": 1932,
+      "studio": "Paramount",
+      "directors": "Edward Sloman",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Wild Beauty",
+      "work_html_title": "<span class=\"work-title\">Wild Beauty</span>",
+      "work_id": 479
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 479,
+      "slug": "wild-beauty",
+      "title": "Wild Beauty",
+      "formatted_title": "Wild Beauty",
+      "html_title": "<span class=\"work-title\">Wild Beauty</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 479,
+    "slug": "wild-beauty",
+    "title": "Wild Beauty",
+    "formatted_title": "Wild Beauty",
+    "html_title": "<span class=\"work-title\">Wild Beauty</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-03T00:46:23.167091"
+}

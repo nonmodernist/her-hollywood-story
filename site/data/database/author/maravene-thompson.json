@@ -1,0 +1,127 @@
+{
+  "id": 468,
+  "slug": "maravene-thompson",
+  "name": "Maravene Thompson",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 2,
+    "first_adaptation": 1916,
+    "last_adaptation": 1923,
+    "year_span": 7,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 2
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2,
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1029,
+      "slug": "the-womans-law-1916",
+      "title": "The Woman's Law",
+      "html_title": "<span class=\"film-title\">The Woman's Law</span>",
+      "year": 1916,
+      "studio": "Arrow Film",
+      "directors": "Lawrence B. McGill",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "The Woman's Law",
+      "work_html_title": "<span class=\"work-title\">The Woman's Law</span>",
+      "work_id": 923
+    },
+    {
+      "id": 1028,
+      "slug": "persuasive-peggy-1917",
+      "title": "Persuasive Peggy",
+      "html_title": "<span class=\"film-title\">Persuasive Peggy</span>",
+      "year": 1917,
+      "studio": "Mayfair Film Corp.",
+      "directors": "Charles J. Brabin",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Persuasive Peggy",
+      "work_html_title": "<span class=\"work-title\">Persuasive Peggy</span>",
+      "work_id": 922
+    },
+    {
+      "id": 1030,
+      "slug": "the-net-1923",
+      "title": "The Net",
+      "html_title": "<span class=\"film-title\">The Net</span>",
+      "year": 1923,
+      "studio": "Fox Film",
+      "directors": "J. Gordon Edwards",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "The Woman's Law",
+      "work_html_title": "<span class=\"work-title\">The Woman's Law</span>",
+      "work_id": 923
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 923,
+      "slug": "the-womans-law",
+      "title": "The Woman's Law",
+      "formatted_title": "The Woman's Law",
+      "html_title": "<span class=\"work-title\">The Woman's Law</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 922,
+      "slug": "persuasive-peggy",
+      "title": "Persuasive Peggy",
+      "formatted_title": "Persuasive Peggy",
+      "html_title": "<span class=\"work-title\">Persuasive Peggy</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 923,
+    "slug": "the-womans-law",
+    "title": "The Woman's Law",
+    "formatted_title": "The Woman's Law",
+    "html_title": "<span class=\"work-title\">The Woman's Law</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T17:49:15.486473"
+}

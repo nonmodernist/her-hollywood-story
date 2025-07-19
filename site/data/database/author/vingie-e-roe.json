@@ -1,0 +1,297 @@
+{
+  "id": 422,
+  "slug": "vingie-e-roe",
+  "name": "Vingie E. Roe",
+  "birth_year": 1879,
+  "death_year": 1958,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "screenwriter. Occupations: novelist, writer, screenwriter",
+  "author_notes": null,
+  "wikidata_id": "Q30126148",
+  "stats": {
+    "total_films": 8,
+    "works_adapted": 8,
+    "first_adaptation": 1916,
+    "last_adaptation": 1953,
+    "year_span": 37,
+    "top_genres": [
+      {
+        "genre": "Western",
+        "count": 4
+      },
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Northwest",
+        "count": 1
+      },
+      {
+        "genre": "Rural",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 3,
+      "1920": 4,
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 956,
+      "slug": "the-primal-lure-1916",
+      "title": "The Primal Lure",
+      "html_title": "<span class=\"film-title\">The Primal Lure</span>",
+      "year": 1916,
+      "studio": "New York Motion Picture Corp.",
+      "directors": "William S. Hart",
+      "genres": [
+        "Drama",
+        "Northwest"
+      ],
+      "has_media": false,
+      "work_title": "The Primal Lure: a Romance of Fort Lu Cerne",
+      "work_html_title": "<span class=\"work-title\">The Primal Lure: a Romance of Fort Lu Cerne</span>",
+      "work_id": 858
+    },
+    {
+      "id": 960,
+      "slug": "wild-honey-1918",
+      "title": "Wild Honey",
+      "html_title": "<span class=\"film-title\">Wild Honey</span>",
+      "year": 1918,
+      "studio": "De Luxe Pictures",
+      "directors": "Francis J. Grandon",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "Wild Honey",
+      "work_html_title": "<span class=\"work-title\">Wild Honey</span>",
+      "work_id": 862
+    },
+    {
+      "id": 953,
+      "slug": "twilight-1919",
+      "title": "Twilight",
+      "html_title": "<span class=\"film-title\">Twilight</span>",
+      "year": 1919,
+      "studio": "De Luxe Pictures",
+      "directors": "J. Searle Dawley",
+      "genres": [
+        "Drama",
+        "Rural"
+      ],
+      "has_media": false,
+      "work_title": "The Alchemy of Love",
+      "work_html_title": "<span class=\"work-title\">The Alchemy of Love</span>",
+      "work_id": 855
+    },
+    {
+      "id": 959,
+      "slug": "north-of-the-rio-grande-1922",
+      "title": "North of the Rio Grande",
+      "html_title": "<span class=\"film-title\">North of the Rio Grande</span>",
+      "year": 1922,
+      "studio": "Famous Players-Lasky",
+      "directors": "Rollin Sturgeon|Joseph Henabery",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "Val of Paradise",
+      "work_html_title": "<span class=\"work-title\">Val of Paradise</span>",
+      "work_id": 861
+    },
+    {
+      "id": 958,
+      "slug": "the-crimson-challenge-1922",
+      "title": "The Crimson Challenge",
+      "html_title": "<span class=\"film-title\">The Crimson Challenge</span>",
+      "year": 1922,
+      "studio": "Famous Players-Lasky",
+      "directors": "Paul Powell",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "Tharon of Lost Valley",
+      "work_html_title": "<span class=\"work-title\">Tharon of Lost Valley</span>",
+      "work_id": 860
+    },
+    {
+      "id": 955,
+      "slug": "big-timber-1924",
+      "title": "Big Timber",
+      "html_title": "<span class=\"film-title\">Big Timber</span>",
+      "year": 1924,
+      "studio": "Universal",
+      "directors": "William J. Craft",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "The Heart of the Night Wind",
+      "work_html_title": "<span class=\"work-title\">The Heart of the Night Wind</span>",
+      "work_id": 857
+    },
+    {
+      "id": 957,
+      "slug": "the-splendid-road-1925",
+      "title": "The Splendid Road",
+      "html_title": "<span class=\"film-title\">The Splendid Road</span>",
+      "year": 1925,
+      "studio": "Frank Lloyd Productions ",
+      "directors": null,
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "The Splendid Road",
+      "work_html_title": "<span class=\"work-title\">The Splendid Road</span>",
+      "work_id": 859
+    },
+    {
+      "id": 954,
+      "slug": "a-perilous-journey-1953",
+      "title": "A Perilous Journey",
+      "html_title": "<span class=\"film-title\">A Perilous Journey</span>",
+      "year": 1953,
+      "studio": "Republic",
+      "directors": "R. G. Springsteen",
+      "genres": [
+        "Adventure",
+        "Historical",
+        "Sea",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "The Golden Tide",
+      "work_html_title": "<span class=\"work-title\">The Golden Tide</span>",
+      "work_id": 856
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 858,
+      "slug": "the-primal-lure-a-romance-of-fort-lu-cerne",
+      "title": "The Primal Lure: a Romance of Fort Lu Cerne",
+      "formatted_title": "The Primal Lure: a Romance of Fort Lu Cerne",
+      "html_title": "<span class=\"work-title\">The Primal Lure: a Romance of Fort Lu Cerne</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 862,
+      "slug": "wild-honey",
+      "title": "Wild Honey",
+      "formatted_title": "Wild Honey",
+      "html_title": "<span class=\"work-title\">Wild Honey</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 855,
+      "slug": "the-alchemy-of-love",
+      "title": "The Alchemy of Love",
+      "formatted_title": "The Alchemy of Love",
+      "html_title": "<span class=\"work-title\">The Alchemy of Love</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 861,
+      "slug": "val-of-paradise",
+      "title": "Val of Paradise",
+      "formatted_title": "Val of Paradise",
+      "html_title": "<span class=\"work-title\">Val of Paradise</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 860,
+      "slug": "tharon-of-lost-valley",
+      "title": "Tharon of Lost Valley",
+      "formatted_title": "Tharon of Lost Valley",
+      "html_title": "<span class=\"work-title\">Tharon of Lost Valley</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 857,
+      "slug": "the-heart-of-the-night-wind",
+      "title": "The Heart of the Night Wind",
+      "formatted_title": "The Heart of the Night Wind",
+      "html_title": "<span class=\"work-title\">The Heart of the Night Wind</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 859,
+      "slug": "the-splendid-road",
+      "title": "The Splendid Road",
+      "formatted_title": "The Splendid Road",
+      "html_title": "<span class=\"work-title\">The Splendid Road</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 856,
+      "slug": "the-golden-tide",
+      "title": "The Golden Tide",
+      "formatted_title": "The Golden Tide",
+      "html_title": "<span class=\"work-title\">The Golden Tide</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 858,
+    "slug": "the-primal-lure-a-romance-of-fort-lu-cerne",
+    "title": "The Primal Lure: a Romance of Fort Lu Cerne",
+    "formatted_title": "The Primal Lure: a Romance of Fort Lu Cerne",
+    "html_title": "<span class=\"work-title\">The Primal Lure: a Romance of Fort Lu Cerne</span>",
+    "work_type": "novel",
+    "publication_year": 1915,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:25:48.211799"
+}

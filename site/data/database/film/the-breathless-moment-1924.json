@@ -1,0 +1,82 @@
+{
+  "id": 415,
+  "slug": "the-breathless-moment-1924",
+  "title": "The Breathless Moment",
+  "formatted_title": "The Breathless Moment",
+  "html_title": "<span class=\"film-title\">The Breathless Moment</span>",
+  "release_year": 1924,
+  "runtime_minutes": null,
+  "country_of_production": null,
+  "genres": [
+    "Comedy-drama"
+  ],
+  "studio": "Universal",
+  "production_companies": "Universal Pictures ",
+  "distribution_companies": "Universal Pictures Corporation",
+  "directors": "Robert F. Hill",
+  "writers": "William E. Wing|William E. Wing|Raymond L. Schrock|Harvey Gates",
+  "cast_members": "William Desmond|Charlotte Merriam|Alfred Fisher|Robert Homans|Lucille Hutton|John Steppling|Margaret Cullington|Harry Von Meter|Albert Hart",
+  "color_info": null,
+  "adaptation_notes": null,
+  "afi_catalog_id": 3020,
+  "source_work": {
+    "id": 351,
+    "slug": "richard",
+    "title": "Richard",
+    "formatted_title": "Richard",
+    "html_title": "<span class=\"work-title\">Richard</span>",
+    "work_type": "novel",
+    "publication_year": 1922,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 2
+  },
+  "author": {
+    "id": 145,
+    "slug": "marguerite-bryant",
+    "name": "Marguerite Bryant",
+    "birth_year": 1870,
+    "death_year": 1965,
+    "nationality": "United Kingdom of Great Britain and Ireland",
+    "film_count": 2
+  },
+  "other_adaptations": [
+    {
+      "id": 414,
+      "slug": "railroaded-1923",
+      "title": "Railroaded",
+      "html_title": "<span class=\"film-title\">Railroaded</span>",
+      "year": 1923,
+      "directors": "Edmund Mortimer",
+      "studio": "Universal"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [
+    {
+      "id": 1022,
+      "media_type": "lobby_card",
+      "title": "The Breathless Moment (1924) lobby card.jpg",
+      "caption": "This is a lobby card for the American silent comedy crime film The Breathless Moment (1924).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/The_Breathless_Moment_%281924%29_lobby_card.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/The_Breathless_Moment_%281924%29_lobby_card.jpg/300px-The_Breathless_Moment_%281924%29_lobby_card.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Breathless_Moment_(1924)_lobby_card.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

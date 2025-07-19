@@ -1,0 +1,123 @@
+{
+  "id": 5,
+  "slug": "tess-of-the-storm-country",
+  "title": "Tess of the Storm Country",
+  "formatted_title": "Tess of the Storm Country",
+  "html_title": "<span class=\"work-title\">Tess of the Storm Country</span>",
+  "work_type": "novel",
+  "publication_year": 1909,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 4,
+    "slug": "grace-miller-white",
+    "name": "Grace Miller White",
+    "birth_year": 1868,
+    "death_year": 1957,
+    "film_count": 9
+  },
+  "stats": {
+    "adaptation_count": 4,
+    "year_span": 46,
+    "is_remake_champion": true,
+    "average_gap_between_adaptations": 15
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 5,
+    "is_remake_champion": true,
+    "remake_champion_rank": 12
+  },
+  "adaptations": [
+    {
+      "id": 5,
+      "slug": "tess-of-the-storm-country-1914",
+      "title": "Tess of the Storm Country",
+      "html_title": "<span class=\"film-title\">Tess of the Storm Country</span>",
+      "year": 1914,
+      "studio": "Famous Players",
+      "directors": null,
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 5
+    },
+    {
+      "id": 88,
+      "slug": "tess-of-the-storm-country-1922",
+      "title": "Tess of the Storm Country",
+      "html_title": "<span class=\"film-title\">Tess of the Storm Country</span>",
+      "year": 1922,
+      "studio": "Mary Pickford",
+      "directors": "John S. Robertson",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "years_after_publication": 13
+    },
+    {
+      "id": 185,
+      "slug": "tess-of-the-storm-country-1932",
+      "title": "Tess of the Storm Country",
+      "html_title": "<span class=\"film-title\">Tess of the Storm Country</span>",
+      "year": 1932,
+      "studio": "Fox Film",
+      "directors": "Alfred Santell",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "years_after_publication": 23
+    },
+    {
+      "id": 338,
+      "slug": "tess-of-the-storm-country-1960",
+      "title": "Tess of the Storm Country",
+      "html_title": "<span class=\"film-title\">Tess of the Storm Country</span>",
+      "year": 1960,
+      "studio": "20th Century Fox",
+      "directors": "Paul Guilfoyle",
+      "genres": [
+        "Drama",
+        "Rural"
+      ],
+      "has_media": false,
+      "years_after_publication": 51
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1914,
+      "to_year": 1922,
+      "gap_years": 8
+    },
+    {
+      "from_year": 1922,
+      "to_year": 1932,
+      "gap_years": 10
+    },
+    {
+      "from_year": 1932,
+      "to_year": 1960,
+      "gap_years": 28
+    }
+  ],
+  "photoplay_edition": {
+    "year": 1932,
+    "publisher": "Grosset & Dunlap",
+    "notes": "Endpapers with photos.",
+    "count": 0
+  },
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T17:27:12.070488"
+}

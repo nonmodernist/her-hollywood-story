@@ -1,0 +1,92 @@
+{
+  "id": 222,
+  "slug": "the-keeper-of-the-bees-1935",
+  "title": "The Keeper of the Bees",
+  "formatted_title": "The Keeper of the Bees",
+  "html_title": "<span class=\"film-title\">The Keeper of the Bees</span>",
+  "release_year": 1935,
+  "runtime_minutes": 75,
+  "country_of_production": "United States",
+  "genres": [
+    "Melodrama",
+    "Rural"
+  ],
+  "studio": "Monogram",
+  "production_companies": "Monogram Pictures Corp.",
+  "distribution_companies": "Republic Pictures Corp.|Monogram Pictures Corp.",
+  "directors": "Christy Cabanne",
+  "writers": "Adele Buffington",
+  "cast_members": "Neil Hamilton|Betty Furness|Emma Dunn|Edith Fellowes|Hobart Bosworth|Helen Jerome Eddy|Marion Shilling|James Burtis|Barbara Bedford|Lafe McKee",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 7497,
+  "source_work": {
+    "id": 111,
+    "slug": "the-keeper-of-the-bees",
+    "title": "The Keeper of the Bees",
+    "formatted_title": "The Keeper of the Bees",
+    "html_title": "<span class=\"work-title\">The Keeper of the Bees</span>",
+    "work_type": "novel",
+    "publication_year": 1925,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 3,
+    "year_to_adaptation": 10
+  },
+  "author": {
+    "id": 12,
+    "slug": "gene-stratton-porter",
+    "name": "Gene Stratton-Porter",
+    "birth_year": 1863,
+    "death_year": 1924,
+    "nationality": "United States",
+    "film_count": 21
+  },
+  "other_adaptations": [
+    {
+      "id": 116,
+      "slug": "the-keeper-of-the-bees-1925",
+      "title": "The Keeper of the Bees",
+      "html_title": "<span class=\"film-title\">The Keeper of the Bees</span>",
+      "year": 1925,
+      "directors": "James Leo Meehan",
+      "studio": "Gene Stratton Porter Productions"
+    },
+    {
+      "id": 287,
+      "slug": "keeper-of-the-bees-1947",
+      "title": "Keeper of the Bees",
+      "html_title": "<span class=\"film-title\">Keeper of the Bees</span>",
+      "year": 1947,
+      "directors": "John Sturges",
+      "studio": "Columbia"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 3,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": false
+  },
+  "media": [
+    {
+      "id": 656,
+      "media_type": "still",
+      "title": "KeeperOfTheBeesStill.png",
+      "caption": "A still from \"The Keeper of the Bees\" (public domain) depicting Jamie, the protagonist, and his impromptu wife Molly",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/KeeperOfTheBeesStill.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/KeeperOfTheBeesStill.png/300px-KeeperOfTheBeesStill.png",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:KeeperOfTheBeesStill.png",
+      "license": "other",
+      "attribution": "Rinzlersdisks2",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

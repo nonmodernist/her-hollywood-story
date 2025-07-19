@@ -1,0 +1,61 @@
+{
+  "id": 228,
+  "slug": "above-suspicion",
+  "title": "Above Suspicion",
+  "formatted_title": "Above Suspicion",
+  "html_title": "<span class=\"work-title\">Above Suspicion</span>",
+  "work_type": "novel",
+  "publication_year": 1941,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 79,
+    "slug": "helen-macinnes",
+    "name": "Helen MacInnes",
+    "birth_year": 1907,
+    "death_year": 1985,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 272,
+      "slug": "above-suspicion-1943",
+      "title": "Above Suspicion",
+      "html_title": "<span class=\"film-title\">Above Suspicion</span>",
+      "year": 1943,
+      "studio": "MGM",
+      "directors": "Richard Thorpe",
+      "genres": [
+        "Drama",
+        "Espionage",
+        "World War II"
+      ],
+      "has_media": true,
+      "years_after_publication": 2
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:48:03.914138"
+}

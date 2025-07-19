@@ -1,0 +1,111 @@
+{
+  "id": 359,
+  "slug": "grace-metalious",
+  "name": "Grace Metalious",
+  "birth_year": 1924,
+  "death_year": 1964,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American-French writer. Born in Manchester. Died in New Hampshire. Occupations: writer, novelist. Notable works: Peyton Place",
+  "author_notes": null,
+  "wikidata_id": "Q456336",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1957,
+    "last_adaptation": 1961,
+    "year_span": 4,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1,
+      "1960": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 803,
+      "slug": "peyton-place-1957",
+      "title": "Peyton Place",
+      "html_title": "<span class=\"film-title\">Peyton Place</span>",
+      "year": 1957,
+      "studio": "20th Century Fox",
+      "directors": "Mark Robson",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Peyton Place",
+      "work_html_title": "<span class=\"work-title\">Peyton Place</span>",
+      "work_id": 714
+    },
+    {
+      "id": 804,
+      "slug": "return-to-peyton-place-1961",
+      "title": "Return to Peyton Place",
+      "html_title": "<span class=\"film-title\">Return to Peyton Place</span>",
+      "year": 1961,
+      "studio": "Associated Producers",
+      "directors": "José Ferrer",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Return to Peyton Place",
+      "work_html_title": "<span class=\"work-title\">Return to Peyton Place</span>",
+      "work_id": 715
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 714,
+      "slug": "peyton-place",
+      "title": "Peyton Place",
+      "formatted_title": "Peyton Place",
+      "html_title": "<span class=\"work-title\">Peyton Place</span>",
+      "work_type": "novel",
+      "publication_year": 1957,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 715,
+      "slug": "return-to-peyton-place",
+      "title": "Return to Peyton Place",
+      "formatted_title": "Return to Peyton Place",
+      "html_title": "<span class=\"work-title\">Return to Peyton Place</span>",
+      "work_type": "novel",
+      "publication_year": 1961,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 714,
+    "slug": "peyton-place",
+    "title": "Peyton Place",
+    "formatted_title": "Peyton Place",
+    "html_title": "<span class=\"work-title\">Peyton Place</span>",
+    "work_type": "novel",
+    "publication_year": 1957,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:57:18.632715"
+}

@@ -1,0 +1,83 @@
+{
+  "id": 247,
+  "slug": "cornelia-baird-gross",
+  "name": "Cornelia Baird Gross",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1957,
+    "last_adaptation": 1957,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 619,
+      "slug": "this-could-be-the-night-1957",
+      "title": "This Could be the Night",
+      "html_title": "<span class=\"film-title\">This Could be the Night</span>",
+      "year": 1957,
+      "studio": "MGM",
+      "directors": "Robert Wise",
+      "genres": [
+        "Drama",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Protection for a Tough Racket",
+      "work_html_title": "<span class=\"work-title\">Protection for a Tough Racket</span>",
+      "work_id": 542
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 542,
+      "slug": "protection-for-a-tough-racket",
+      "title": "Protection for a Tough Racket",
+      "formatted_title": "Protection for a Tough Racket",
+      "html_title": "<span class=\"work-title\">Protection for a Tough Racket</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 542,
+    "slug": "protection-for-a-tough-racket",
+    "title": "Protection for a Tough Racket",
+    "formatted_title": "Protection for a Tough Racket",
+    "html_title": "<span class=\"work-title\">Protection for a Tough Racket</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-04T00:53:10.886851"
+}

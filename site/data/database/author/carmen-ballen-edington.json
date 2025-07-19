@@ -1,0 +1,83 @@
+{
+  "id": 210,
+  "slug": "carmen-ballen-edington",
+  "name": "Carmen Ballen Edington",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": "see https://archive.ph/qQI1D",
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1929,
+    "last_adaptation": 1929,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Mystery",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 541,
+      "slug": "the-studio-murder-mystery-1929",
+      "title": "The Studio Murder Mystery",
+      "html_title": "<span class=\"film-title\">The Studio Murder Mystery</span>",
+      "year": 1929,
+      "studio": "Paramount",
+      "directors": "Frank Tuttle",
+      "genres": [
+        "Melodrama",
+        "Mystery"
+      ],
+      "has_media": true,
+      "work_title": "The Studio Murder Mystery",
+      "work_html_title": "<span class=\"work-title\">The Studio Murder Mystery</span>",
+      "work_id": 471
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 471,
+      "slug": "the-studio-murder-mystery",
+      "title": "The Studio Murder Mystery",
+      "formatted_title": "The Studio Murder Mystery",
+      "html_title": "<span class=\"work-title\">The Studio Murder Mystery</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 471,
+    "slug": "the-studio-murder-mystery",
+    "title": "The Studio Murder Mystery",
+    "formatted_title": "The Studio Murder Mystery",
+    "html_title": "<span class=\"work-title\">The Studio Murder Mystery</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-24T13:48:25.835294"
+}

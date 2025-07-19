@@ -1,0 +1,78 @@
+{
+  "id": 326,
+  "slug": "julie-m-lippmann",
+  "name": "Julie M. Lippmann",
+  "birth_year": 1864,
+  "death_year": 1952,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer and dramatist. Born in Brooklyn. Died in Cincinnati. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q21039727",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1919,
+    "last_adaptation": 1919,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 749,
+      "slug": "the-hoodlum-1919",
+      "title": "The Hoodlum",
+      "html_title": "<span class=\"film-title\">The Hoodlum</span>",
+      "year": 1919,
+      "studio": "Mary Pickford",
+      "directors": "Sidney A. Franklin",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "Burkeses Amy",
+      "work_html_title": "<span class=\"work-title\">Burkeses Amy</span>",
+      "work_id": 664
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 664,
+      "slug": "burkeses-amy",
+      "title": "Burkeses Amy",
+      "formatted_title": "Burkeses Amy",
+      "html_title": "<span class=\"work-title\">Burkeses Amy</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 664,
+    "slug": "burkeses-amy",
+    "title": "Burkeses Amy",
+    "formatted_title": "Burkeses Amy",
+    "html_title": "<span class=\"work-title\">Burkeses Amy</span>",
+    "work_type": "novel",
+    "publication_year": 1915,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:36.664577"
+}

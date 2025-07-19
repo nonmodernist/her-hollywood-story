@@ -1,0 +1,83 @@
+{
+  "id": 202,
+  "slug": "theo-durrant",
+  "name": "Theo Durrant",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": "group pseud of 12 authors, including Eunice Mays Boyd, Florence Ostern Faulkner, Dana Lyon, Lenore Glen Offord, and Virginia Rath",
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1958,
+    "last_adaptation": 1958,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Suspense",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 525,
+      "slug": "macabre-1958",
+      "title": "Macabre",
+      "html_title": "<span class=\"film-title\">Macabre</span>",
+      "year": 1958,
+      "studio": "Susina Associates ",
+      "directors": "William Castle",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "has_media": false,
+      "work_title": "The Marble Forest",
+      "work_html_title": "<span class=\"work-title\">The Marble Forest</span>",
+      "work_id": 455
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 455,
+      "slug": "the-marble-forest",
+      "title": "The Marble Forest",
+      "formatted_title": "The Marble Forest",
+      "html_title": "<span class=\"work-title\">The Marble Forest</span>",
+      "work_type": "novel",
+      "publication_year": 1951,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 455,
+    "slug": "the-marble-forest",
+    "title": "The Marble Forest",
+    "formatted_title": "The Marble Forest",
+    "html_title": "<span class=\"work-title\">The Marble Forest</span>",
+    "work_type": "novel",
+    "publication_year": 1951,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T00:49:56.759267"
+}

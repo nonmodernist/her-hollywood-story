@@ -1,0 +1,78 @@
+{
+  "id": 263,
+  "slug": "alexine-heyland",
+  "name": "Alexine Heyland",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1919,
+    "last_adaptation": 1919,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 639,
+      "slug": "the-gold-cure-1919",
+      "title": "The Gold Cure",
+      "html_title": "<span class=\"film-title\">The Gold Cure</span>",
+      "year": 1919,
+      "studio": "Metro Pictures",
+      "directors": "John H. Collins",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "Oh, Annice!",
+      "work_html_title": "<span class=\"work-title\">Oh, Annice!</span>",
+      "work_id": 562
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 562,
+      "slug": "oh-annice",
+      "title": "Oh, Annice!",
+      "formatted_title": "Oh, Annice!",
+      "html_title": "<span class=\"work-title\">Oh, Annice!</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 562,
+    "slug": "oh-annice",
+    "title": "Oh, Annice!",
+    "formatted_title": "Oh, Annice!",
+    "html_title": "<span class=\"work-title\">Oh, Annice!</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:18:25.74318"
+}

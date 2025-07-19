@@ -1,0 +1,143 @@
+{
+  "id": 497,
+  "slug": "dixie-willson",
+  "name": "Dixie Willson",
+  "birth_year": 1890,
+  "death_year": 1974,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer, screenwriter (1890-1974). Born in Estherville. Died in New Jersey. Occupations: screenwriter, writer, children's writer",
+  "author_notes": null,
+  "wikidata_id": "Q1231725",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1926,
+    "last_adaptation": 1928,
+    "year_span": 2,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 2
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Carnival/Circus",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1090,
+      "slug": "god-gave-me-twenty-cents-1926",
+      "title": "God Gave Me Twenty Cents",
+      "html_title": "<span class=\"film-title\">God Gave Me Twenty Cents</span>",
+      "year": 1926,
+      "studio": "Famous Players-Lasky",
+      "directors": "Herbert Brenon",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "God Gave me Twenty Cents",
+      "work_html_title": "<span class=\"work-title\">God Gave me Twenty Cents</span>",
+      "work_id": 977
+    },
+    {
+      "id": 1092,
+      "slug": "an-affair-of-the-follies-1927",
+      "title": "An Affair of the Follies",
+      "html_title": "<span class=\"film-title\">An Affair of the Follies</span>",
+      "year": 1927,
+      "studio": "Al Rockett Productions",
+      "directors": "Millard Webb",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Here Y'Are Brother",
+      "work_html_title": "<span class=\"work-title\">Here Y'Are Brother</span>",
+      "work_id": 979
+    },
+    {
+      "id": 1091,
+      "slug": "3-ring-marriage-1928",
+      "title": "3-Ring Marriage",
+      "html_title": "<span class=\"film-title\">3-Ring Marriage</span>",
+      "year": 1928,
+      "studio": "First National",
+      "directors": "Marshall Neilan",
+      "genres": [
+        "Melodrama",
+        "Carnival/Circus"
+      ],
+      "has_media": false,
+      "work_title": "Help Yourself to Hay",
+      "work_html_title": "<span class=\"work-title\">Help Yourself to Hay</span>",
+      "work_id": 978
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 977,
+      "slug": "god-gave-me-twenty-cents",
+      "title": "God Gave me Twenty Cents",
+      "formatted_title": "God Gave me Twenty Cents",
+      "html_title": "<span class=\"work-title\">God Gave me Twenty Cents</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 979,
+      "slug": "here-yare-brother",
+      "title": "Here Y'Are Brother",
+      "formatted_title": "Here Y'Are Brother",
+      "html_title": "<span class=\"work-title\">Here Y'Are Brother</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 978,
+      "slug": "help-yourself-to-hay",
+      "title": "Help Yourself to Hay",
+      "formatted_title": "Help Yourself to Hay",
+      "html_title": "<span class=\"work-title\">Help Yourself to Hay</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 977,
+    "slug": "god-gave-me-twenty-cents",
+    "title": "God Gave me Twenty Cents",
+    "formatted_title": "God Gave me Twenty Cents",
+    "html_title": "<span class=\"work-title\">God Gave me Twenty Cents</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:55:04.044476"
+}

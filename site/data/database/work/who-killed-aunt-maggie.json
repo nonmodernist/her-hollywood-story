@@ -1,0 +1,59 @@
+{
+  "id": 494,
+  "slug": "who-killed-aunt-maggie",
+  "title": "Who Killed Aunt Maggie?",
+  "formatted_title": "Who Killed Aunt Maggie?",
+  "html_title": "<span class=\"work-title\">Who Killed Aunt Maggie?</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 219,
+    "slug": "medora-field",
+    "name": "Medora Field",
+    "birth_year": 1892,
+    "death_year": 1960,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 566,
+      "slug": "who-killed-aunt-maggie-1940",
+      "title": "Who Killed Aunt Maggie?",
+      "html_title": "<span class=\"film-title\">Who Killed Aunt Maggie?</span>",
+      "year": 1940,
+      "studio": "Republic",
+      "directors": "Arthur Lubin",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": false,
+      "years_after_publication": 1940
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T23:52:09.375946"
+}

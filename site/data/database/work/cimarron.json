@@ -1,0 +1,80 @@
+{
+  "id": 165,
+  "slug": "cimarron",
+  "title": "Cimarron",
+  "formatted_title": "Cimarron",
+  "html_title": "<span class=\"work-title\">Cimarron</span>",
+  "work_type": "novel",
+  "publication_year": 1929,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 40,
+    "slug": "edna-ferber",
+    "name": "Edna Ferber",
+    "birth_year": 1885,
+    "death_year": 1968,
+    "film_count": 24
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 29,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 29
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 179,
+      "slug": "cimarron-1931",
+      "title": "Cimarron",
+      "html_title": "<span class=\"film-title\">Cimarron</span>",
+      "year": 1931,
+      "studio": "RKO",
+      "directors": "Wesley Ruggles",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": true,
+      "years_after_publication": 2
+    },
+    {
+      "id": 339,
+      "slug": "cimarron-1960",
+      "title": "Cimarron",
+      "html_title": "<span class=\"film-title\">Cimarron</span>",
+      "year": 1960,
+      "studio": "MGM",
+      "directors": "Anthony Mann",
+      "genres": [
+        "Western"
+      ],
+      "has_media": true,
+      "years_after_publication": 31
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1931,
+      "to_year": 1960,
+      "gap_years": 29
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:48:03.914138"
+}

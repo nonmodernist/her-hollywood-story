@@ -1,0 +1,147 @@
+{
+  "id": 200,
+  "slug": "ethel-smith-dorrance",
+  "name": "Ethel Smith Dorrance",
+  "birth_year": 1880,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "1880-; E. S. Dorrance. Born in Pennsylvania. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q120815424",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1917,
+    "last_adaptation": 1919,
+    "year_span": 2,
+    "top_genres": [
+      {
+        "genre": "Western",
+        "count": 1
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Crime",
+        "count": 1
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 523,
+      "slug": "who-knows-1917",
+      "title": "Who Knows?",
+      "html_title": "<span class=\"film-title\">Who Knows?</span>",
+      "year": 1917,
+      "studio": "Bernstein Film Productions",
+      "directors": "Jack Pratt",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "Who Knows?",
+      "work_html_title": "<span class=\"work-title\">Who Knows?</span>",
+      "work_id": 453
+    },
+    {
+      "id": 521,
+      "slug": "his-robe-of-honor-1918",
+      "title": "His Robe of Honor",
+      "html_title": "<span class=\"film-title\">His Robe of Honor</span>",
+      "year": 1918,
+      "studio": "Paralta Plays",
+      "directors": "Rex Ingram",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "has_media": true,
+      "work_title": "His Robe of Honor",
+      "work_html_title": "<span class=\"work-title\">His Robe of Honor</span>",
+      "work_id": 451
+    },
+    {
+      "id": 522,
+      "slug": "whitewashed-walls-1919",
+      "title": "Whitewashed Walls",
+      "html_title": "<span class=\"film-title\">Whitewashed Walls</span>",
+      "year": 1919,
+      "studio": "Jesse D. Hampton Productions",
+      "directors": "Park Frame",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "work_title": "Whitewashed Walls",
+      "work_html_title": "<span class=\"work-title\">Whitewashed Walls</span>",
+      "work_id": 452
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 453,
+      "slug": "who-knows",
+      "title": "Who Knows?",
+      "formatted_title": "Who Knows?",
+      "html_title": "<span class=\"work-title\">Who Knows?</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 451,
+      "slug": "his-robe-of-honor",
+      "title": "His Robe of Honor",
+      "formatted_title": "His Robe of Honor",
+      "html_title": "<span class=\"work-title\">His Robe of Honor</span>",
+      "work_type": "novel",
+      "publication_year": 1916,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 452,
+      "slug": "whitewashed-walls",
+      "title": "Whitewashed Walls",
+      "formatted_title": "Whitewashed Walls",
+      "html_title": "<span class=\"work-title\">Whitewashed Walls</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 453,
+    "slug": "who-knows",
+    "title": "Who Knows?",
+    "formatted_title": "Who Knows?",
+    "html_title": "<span class=\"work-title\">Who Knows?</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T01:12:30.550903"
+}

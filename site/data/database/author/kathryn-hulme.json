@@ -1,0 +1,83 @@
+{
+  "id": 271,
+  "slug": "kathryn-hulme",
+  "name": "Kathryn Hulme",
+  "birth_year": 1900,
+  "death_year": 1981,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in San Francisco. Died in Līhuʻe. Occupations: writer, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q6377059",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1959,
+    "last_adaptation": 1959,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Religious",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 654,
+      "slug": "the-nuns-story-1959",
+      "title": "The Nun's Story",
+      "html_title": "<span class=\"film-title\">The Nun's Story</span>",
+      "year": 1959,
+      "studio": "Warner Bros",
+      "directors": "Fred Zinnemann",
+      "genres": [
+        "Drama",
+        "Religious"
+      ],
+      "has_media": true,
+      "work_title": "The Nun's Story",
+      "work_html_title": "<span class=\"work-title\">The Nun's Story</span>",
+      "work_id": 573
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 573,
+      "slug": "the-nuns-story",
+      "title": "The Nun's Story",
+      "formatted_title": "The Nun's Story",
+      "html_title": "<span class=\"work-title\">The Nun's Story</span>",
+      "work_type": "novel",
+      "publication_year": 1956,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 573,
+    "slug": "the-nuns-story",
+    "title": "The Nun's Story",
+    "formatted_title": "The Nun's Story",
+    "html_title": "<span class=\"work-title\">The Nun's Story</span>",
+    "work_type": "novel",
+    "publication_year": 1956,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:23:25.622057"
+}

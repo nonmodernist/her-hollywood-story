@@ -1,0 +1,93 @@
+{
+  "id": 284,
+  "slug": "annie-fellows-johnston",
+  "name": "Annie Fellows Johnston",
+  "birth_year": 1863,
+  "death_year": 1931,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in Evansville. Died in Pewee Valley. Occupations: children's writer, novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q4769278",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1935,
+    "last_adaptation": 1935,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Civil War",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      },
+      {
+        "genre": "Youth",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 672,
+      "slug": "the-little-colonel-1935",
+      "title": "The Little Colonel",
+      "html_title": "<span class=\"film-title\">The Little Colonel</span>",
+      "year": 1935,
+      "studio": "Fox Film",
+      "directors": "David Butler",
+      "genres": [
+        "Comedy-drama",
+        "Civil War",
+        "with songs",
+        "Youth"
+      ],
+      "has_media": false,
+      "work_title": "Little Colonel",
+      "work_html_title": "<span class=\"work-title\">Little Colonel</span>",
+      "work_id": 590
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 590,
+      "slug": "little-colonel",
+      "title": "Little Colonel",
+      "formatted_title": "Little Colonel",
+      "html_title": "<span class=\"work-title\">Little Colonel</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 590,
+    "slug": "little-colonel",
+    "title": "Little Colonel",
+    "formatted_title": "Little Colonel",
+    "html_title": "<span class=\"work-title\">Little Colonel</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-06T14:48:38.954208"
+}

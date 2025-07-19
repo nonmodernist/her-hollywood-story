@@ -1,0 +1,147 @@
+{
+  "id": 351,
+  "slug": "grace-sartwell-mason",
+  "name": "Grace Sartwell Mason",
+  "birth_year": 1876,
+  "death_year": 1966,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American journalist, critic, and writer. Born in Port Allegany. Occupations: writer, journalist",
+  "author_notes": null,
+  "wikidata_id": "Q50366984",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1920,
+    "last_adaptation": 1927,
+    "year_span": 7,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 788,
+      "slug": "the-shadow-of-rosalie-byrnes-1920",
+      "title": "The Shadow of Rosalie Byrnes",
+      "html_title": "<span class=\"film-title\">The Shadow of Rosalie Byrnes</span>",
+      "year": 1920,
+      "studio": "Selznick Pictures",
+      "directors": "George Archainbaud",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Shadow of Rosalie Byrnes",
+      "work_html_title": "<span class=\"work-title\">The Shadow of Rosalie Byrnes</span>",
+      "work_id": 702
+    },
+    {
+      "id": 789,
+      "slug": "speed-1925",
+      "title": "Speed",
+      "html_title": "<span class=\"film-title\">Speed</span>",
+      "year": 1925,
+      "studio": "Banner Productions",
+      "directors": "Edward J. Le Saint",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Speed",
+      "work_html_title": "<span class=\"work-title\">Speed</span>",
+      "work_id": 703
+    },
+    {
+      "id": 787,
+      "slug": "man-crazy-1927",
+      "title": "Man Crazy",
+      "html_title": "<span class=\"film-title\">Man Crazy</span>",
+      "year": 1927,
+      "studio": "Charles R. Rogers Productions ",
+      "directors": "John Francis Dillon",
+      "genres": [
+        "Comedy-drama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "Clarissa and the Post Road",
+      "work_html_title": "<span class=\"work-title\">Clarissa and the Post Road</span>",
+      "work_id": 701
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 702,
+      "slug": "the-shadow-of-rosalie-byrnes",
+      "title": "The Shadow of Rosalie Byrnes",
+      "formatted_title": "The Shadow of Rosalie Byrnes",
+      "html_title": "<span class=\"work-title\">The Shadow of Rosalie Byrnes</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 703,
+      "slug": "speed",
+      "title": "Speed",
+      "formatted_title": "Speed",
+      "html_title": "<span class=\"work-title\">Speed</span>",
+      "work_type": "novel",
+      "publication_year": 1924,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 701,
+      "slug": "clarissa-and-the-post-road",
+      "title": "Clarissa and the Post Road",
+      "formatted_title": "Clarissa and the Post Road",
+      "html_title": "<span class=\"work-title\">Clarissa and the Post Road</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 702,
+    "slug": "the-shadow-of-rosalie-byrnes",
+    "title": "The Shadow of Rosalie Byrnes",
+    "formatted_title": "The Shadow of Rosalie Byrnes",
+    "html_title": "<span class=\"work-title\">The Shadow of Rosalie Byrnes</span>",
+    "work_type": "novel",
+    "publication_year": 1919,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:57:08.416125"
+}

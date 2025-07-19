@@ -1,0 +1,59 @@
+{
+  "id": 122,
+  "slug": "sadie-of-the-desert",
+  "title": "\"Sadie of the Desert\"",
+  "formatted_title": "\"Sadie of the Desert\"",
+  "html_title": "<span class=\"work-title\">\"Sadie of the Desert\"</span>",
+  "work_type": "novel",
+  "publication_year": 1925,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 48,
+    "slug": "mildred-cram",
+    "name": "Mildred Cram",
+    "birth_year": 1889,
+    "death_year": 1985,
+    "film_count": 9
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 128,
+      "slug": "subway-sadie-1926",
+      "title": "Subway Sadie",
+      "html_title": "<span class=\"film-title\">Subway Sadie</span>",
+      "year": 1926,
+      "studio": "Al Rockett Productions",
+      "directors": "Alfred Santell",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:48:03.914138"
+}

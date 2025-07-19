@@ -1,0 +1,60 @@
+{
+  "id": 787,
+  "slug": "roughly-speaking",
+  "title": "Roughly Speaking",
+  "formatted_title": "Roughly Speaking",
+  "html_title": "<span class=\"work-title\">Roughly Speaking</span>",
+  "work_type": "novel",
+  "publication_year": 1943,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 398,
+    "slug": "louise-pierson",
+    "name": "Louise Pierson",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 878,
+      "slug": "roughly-speaking-1945",
+      "title": "Roughly Speaking",
+      "html_title": "<span class=\"film-title\">Roughly Speaking</span>",
+      "year": 1945,
+      "studio": "Warner Bros",
+      "directors": "Michael Curtiz",
+      "genres": [
+        "Biography",
+        "with songs"
+      ],
+      "has_media": false,
+      "years_after_publication": 2
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T14:13:36.460995"
+}

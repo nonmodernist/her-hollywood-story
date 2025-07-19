@@ -1,0 +1,83 @@
+{
+  "id": 278,
+  "slug": "elizabeth-janeway",
+  "name": "Elizabeth Janeway",
+  "birth_year": 1913,
+  "death_year": 2005,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American novelist, critic, activist. Born in Brooklyn. Died in Rye. Occupations: literary critic, historian, novelist, women's rights activist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q5363029",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1947,
+    "last_adaptation": 1947,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 664,
+      "slug": "daisy-kenyon-1947",
+      "title": "Daisy Kenyon",
+      "html_title": "<span class=\"film-title\">Daisy Kenyon</span>",
+      "year": 1947,
+      "studio": "20th Century Fox",
+      "directors": "Otto Preminger",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Daisy Kenyon",
+      "work_html_title": "<span class=\"work-title\">Daisy Kenyon</span>",
+      "work_id": 582
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 582,
+      "slug": "daisy-kenyon",
+      "title": "Daisy Kenyon",
+      "formatted_title": "Daisy Kenyon",
+      "html_title": "<span class=\"work-title\">Daisy Kenyon</span>",
+      "work_type": "novel",
+      "publication_year": 1945,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 582,
+    "slug": "daisy-kenyon",
+    "title": "Daisy Kenyon",
+    "formatted_title": "Daisy Kenyon",
+    "html_title": "<span class=\"work-title\">Daisy Kenyon</span>",
+    "work_type": "novel",
+    "publication_year": 1945,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-06T14:48:30.890453"
+}

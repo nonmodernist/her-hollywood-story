@@ -1,0 +1,83 @@
+{
+  "id": 18,
+  "slug": "ruth-sawyer",
+  "name": "Ruth Sawyer",
+  "birth_year": 1880,
+  "death_year": 1970,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American children's writer and storyteller. Born in Boston. Died in Lexington. Occupations: children's writer, writer. Notable works: Roller Skates",
+  "author_notes": null,
+  "wikidata_id": "Q4977173",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1917,
+    "last_adaptation": 1917,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Fantasy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 31,
+      "slug": "the-primrose-ring-1917",
+      "title": "The Primrose Ring",
+      "html_title": "<span class=\"film-title\">The Primrose Ring</span>",
+      "year": 1917,
+      "studio": "Jesse Lasky",
+      "directors": "Robert Leonard",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "has_media": true,
+      "work_title": "The Primrose Ring",
+      "work_html_title": "<span class=\"work-title\">The Primrose Ring</span>",
+      "work_id": 29
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 29,
+      "slug": "the-primrose-ring",
+      "title": "The Primrose Ring",
+      "formatted_title": "The Primrose Ring",
+      "html_title": "<span class=\"work-title\">The Primrose Ring</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 29,
+    "slug": "the-primrose-ring",
+    "title": "The Primrose Ring",
+    "formatted_title": "The Primrose Ring",
+    "html_title": "<span class=\"work-title\">The Primrose Ring</span>",
+    "work_type": "novel",
+    "publication_year": 1915,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:36:55.626703"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 137,
+  "slug": "mrs-owen-bronson",
+  "name": "Mrs. Owen Bronson",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1916,
+    "last_adaptation": 1916,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 398,
+      "slug": "the-hidden-scar-1916",
+      "title": "The Hidden Scar",
+      "html_title": "<span class=\"film-title\">The Hidden Scar</span>",
+      "year": 1916,
+      "studio": "Peerless/World Film Corp",
+      "directors": "Barry O'Neil",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Scorching Way",
+      "work_html_title": "<span class=\"work-title\">The Scorching Way</span>",
+      "work_id": 335
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 335,
+      "slug": "the-scorching-way",
+      "title": "The Scorching Way",
+      "formatted_title": "The Scorching Way",
+      "html_title": "<span class=\"work-title\">The Scorching Way</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 335,
+    "slug": "the-scorching-way",
+    "title": "The Scorching Way",
+    "formatted_title": "The Scorching Way",
+    "html_title": "<span class=\"work-title\">The Scorching Way</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-18T02:54:32.433797"
+}

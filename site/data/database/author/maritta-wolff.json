@@ -1,0 +1,106 @@
+{
+  "id": 503,
+  "slug": "maritta-wolff",
+  "name": "Maritta Wolff",
+  "birth_year": 1918,
+  "death_year": 2002,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in Grass Lake. Died in Los Angeles. Occupations: novelist",
+  "author_notes": null,
+  "wikidata_id": "Q6765916",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1946,
+    "last_adaptation": 1946,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1940": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1107,
+      "slug": "the-man-i-love-1946",
+      "title": "The Man I Love",
+      "html_title": "<span class=\"film-title\">The Man I Love</span>",
+      "year": 1946,
+      "studio": "Warner Bros",
+      "directors": "Raoul Walsh",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Night Shift",
+      "work_html_title": "<span class=\"work-title\">Night Shift</span>",
+      "work_id": 994
+    },
+    {
+      "id": 1108,
+      "slug": "whistle-stop-1946",
+      "title": "Whistle Stop",
+      "html_title": "<span class=\"film-title\">Whistle Stop</span>",
+      "year": 1946,
+      "studio": "Nero Films",
+      "directors": "Leonide Moguy",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Whistle Stop",
+      "work_html_title": "<span class=\"work-title\">Whistle Stop</span>",
+      "work_id": 995
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 994,
+      "slug": "night-shift",
+      "title": "Night Shift",
+      "formatted_title": "Night Shift",
+      "html_title": "<span class=\"work-title\">Night Shift</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 995,
+      "slug": "whistle-stop",
+      "title": "Whistle Stop",
+      "formatted_title": "Whistle Stop",
+      "html_title": "<span class=\"work-title\">Whistle Stop</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 994,
+    "slug": "night-shift",
+    "title": "Night Shift",
+    "formatted_title": "Night Shift",
+    "html_title": "<span class=\"work-title\">Night Shift</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:55:13.06529"
+}

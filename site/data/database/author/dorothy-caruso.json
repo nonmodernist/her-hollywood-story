@@ -1,0 +1,83 @@
+{
+  "id": 162,
+  "slug": "dorothy-caruso",
+  "name": "Dorothy Caruso",
+  "birth_year": 1893,
+  "death_year": 1955,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "wife of Enrico Caruso (1893–1955). Born in New York City. Died in New York City. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q1250275",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1951,
+    "last_adaptation": 1951,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Biography",
+        "count": 1
+      },
+      {
+        "genre": "Musical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 456,
+      "slug": "the-great-caruso-1951",
+      "title": "The Great Caruso",
+      "html_title": "<span class=\"film-title\">The Great Caruso</span>",
+      "year": 1951,
+      "studio": "MGM",
+      "directors": "Richard Thorpe",
+      "genres": [
+        "Biography",
+        "Musical"
+      ],
+      "has_media": false,
+      "work_title": "Enrico Caruso, His Life and Death",
+      "work_html_title": "<span class=\"work-title\">Enrico Caruso, His Life and Death</span>",
+      "work_id": 387
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 387,
+      "slug": "enrico-caruso-his-life-and-death",
+      "title": "Enrico Caruso, His Life and Death",
+      "formatted_title": "Enrico Caruso, His Life and Death",
+      "html_title": "<span class=\"work-title\">Enrico Caruso, His Life and Death</span>",
+      "work_type": "novel",
+      "publication_year": 1945,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 387,
+    "slug": "enrico-caruso-his-life-and-death",
+    "title": "Enrico Caruso, His Life and Death",
+    "formatted_title": "Enrico Caruso, His Life and Death",
+    "html_title": "<span class=\"work-title\">Enrico Caruso, His Life and Death</span>",
+    "work_type": "novel",
+    "publication_year": 1945,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:41.313436"
+}

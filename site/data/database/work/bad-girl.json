@@ -1,0 +1,86 @@
+{
+  "id": 162,
+  "slug": "bad-girl",
+  "title": "Bad Girl",
+  "formatted_title": "Bad Girl",
+  "html_title": "<span class=\"work-title\">Bad Girl</span>",
+  "work_type": "novel",
+  "publication_year": 1928,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 53,
+    "slug": "vina-delmar",
+    "name": "Vina Delmar",
+    "birth_year": 1903,
+    "death_year": 1990,
+    "film_count": 15
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 9,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 9
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 3,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 176,
+      "slug": "bad-girl-1931",
+      "title": "Bad Girl",
+      "html_title": "<span class=\"film-title\">Bad Girl</span>",
+      "year": 1931,
+      "studio": "Fox Film",
+      "directors": "Frank Borzage",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": true,
+      "years_after_publication": 3
+    },
+    {
+      "id": 255,
+      "slug": "manhattan-heartbeat-1940",
+      "title": "Manhattan Heartbeat",
+      "html_title": "<span class=\"film-title\">Manhattan Heartbeat</span>",
+      "year": 1940,
+      "studio": "20th Century Fox",
+      "directors": "David Burton",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "years_after_publication": 12
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1931,
+      "to_year": 1940,
+      "gap_years": 9
+    }
+  ],
+  "photoplay_edition": {
+    "year": 1931,
+    "publisher": "Grosset & Dunlap",
+    "notes": null,
+    "count": 0
+  },
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T16:22:32.071866"
+}

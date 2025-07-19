@@ -1,0 +1,78 @@
+{
+  "id": 479,
+  "slug": "lucille-baldwin-van-slyke",
+  "name": "Lucille Baldwin Van Slyke",
+  "birth_year": 1879,
+  "death_year": 1966,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American writer. Occupations: short story writer, writer",
+  "author_notes": null,
+  "wikidata_id": "Q108497049",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1920,
+    "last_adaptation": 1920,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1047,
+      "slug": "the-stolen-kiss-1920",
+      "title": "The Stolen Kiss",
+      "html_title": "<span class=\"film-title\">The Stolen Kiss</span>",
+      "year": 1920,
+      "studio": "Realart",
+      "directors": "Kenneth Webb",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Little Miss By-the-Day",
+      "work_html_title": "<span class=\"work-title\">Little Miss By-the-Day</span>",
+      "work_id": 940
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 940,
+      "slug": "little-miss-by-the-day",
+      "title": "Little Miss By-the-Day",
+      "formatted_title": "Little Miss By-the-Day",
+      "html_title": "<span class=\"work-title\">Little Miss By-the-Day</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 940,
+    "slug": "little-miss-by-the-day",
+    "title": "Little Miss By-the-Day",
+    "formatted_title": "Little Miss By-the-Day",
+    "html_title": "<span class=\"work-title\">Little Miss By-the-Day</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:54:42.665335"
+}

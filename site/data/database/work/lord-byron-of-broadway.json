@@ -1,0 +1,61 @@
+{
+  "id": 700,
+  "slug": "lord-byron-of-broadway",
+  "title": "Lord Byron of Broadway",
+  "formatted_title": "Lord Byron of Broadway",
+  "html_title": "<span class=\"work-title\">Lord Byron of Broadway</span>",
+  "work_type": "novel",
+  "publication_year": 1928,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 350,
+    "slug": "nell-martin",
+    "name": "Nell Martin",
+    "birth_year": 1887,
+    "death_year": 1961,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 786,
+      "slug": "lord-byron-of-broadway-1930",
+      "title": "Lord Byron of Broadway",
+      "html_title": "<span class=\"film-title\">Lord Byron of Broadway</span>",
+      "year": 1930,
+      "studio": "MGM",
+      "directors": "William Nigh|Harry Beaumont",
+      "genres": [
+        "Romance",
+        "Show business",
+        "with songs"
+      ],
+      "has_media": false,
+      "years_after_publication": 2
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T14:15:18.911513"
+}

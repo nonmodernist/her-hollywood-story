@@ -1,0 +1,80 @@
+{
+  "id": 803,
+  "slug": "the-dark-chapter-a-comedy-of-class-distinctions",
+  "title": "The Dark Chapter, a Comedy of Class Distinctions",
+  "formatted_title": "The Dark Chapter, a Comedy of Class Distinctions",
+  "html_title": "<span class=\"work-title\">The Dark Chapter, a Comedy of Class Distinctions</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 407,
+    "slug": "ej-rath",
+    "name": "E.J. Rath",
+    "birth_year": 1885,
+    "death_year": 1922,
+    "film_count": 10
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 0
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 895,
+      "slug": "as-es-la-vida-1930",
+      "title": "Así es la vida",
+      "html_title": "<span class=\"film-title\">Así es la vida</span>",
+      "year": 1930,
+      "studio": "Sono-Art",
+      "directors": "George J. Crone",
+      "genres": [
+        "Comedy",
+        "with songs"
+      ],
+      "has_media": false,
+      "years_after_publication": 1930
+    },
+    {
+      "id": 896,
+      "slug": "what-a-man-1930",
+      "title": "What a Man",
+      "html_title": "<span class=\"film-title\">What a Man</span>",
+      "year": 1930,
+      "studio": "Sono-Art",
+      "directors": "George J. Crone",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "years_after_publication": 1930
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1930,
+      "to_year": 1930,
+      "gap_years": 0
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-11T15:02:26.266047"
+}

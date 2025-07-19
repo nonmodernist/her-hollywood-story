@@ -1,0 +1,149 @@
+{
+  "id": 136,
+  "slug": "gwen-bristow",
+  "name": "Gwen Bristow",
+  "birth_year": 1903,
+  "death_year": 1980,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author and journalist (1903–1980). Born in Marion. Died in New Orleans. Occupations: journalist, writer, novelist, screenwriter. Notable works: The Invisible Host, Jubilee Trail",
+  "author_notes": "aka Mrs. Bruce Manning",
+  "wikidata_id": "Q447244",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1934,
+    "last_adaptation": 1954,
+    "year_span": 20,
+    "top_genres": [
+      {
+        "genre": "Mystery",
+        "count": 1
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Western",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1,
+      "1940": 1,
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 397,
+      "slug": "the-ninth-guest-1934",
+      "title": "The Ninth Guest",
+      "html_title": "<span class=\"film-title\">The Ninth Guest</span>",
+      "year": 1934,
+      "studio": "Columbia",
+      "directors": "R. William Neill",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": true,
+      "work_title": "The Invisible Host",
+      "work_html_title": "<span class=\"work-title\">The Invisible Host</span>",
+      "work_id": 334
+    },
+    {
+      "id": 396,
+      "slug": "tomorrow-is-forever-1946",
+      "title": "Tomorrow Is Forever",
+      "html_title": "<span class=\"film-title\">Tomorrow Is Forever</span>",
+      "year": 1946,
+      "studio": "RKO",
+      "directors": "Irving Pichel",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Tomorrow is Forever",
+      "work_html_title": "<span class=\"work-title\">Tomorrow is Forever</span>",
+      "work_id": 333
+    },
+    {
+      "id": 395,
+      "slug": "jubilee-trail-1954",
+      "title": "Jubilee Trail",
+      "html_title": "<span class=\"film-title\">Jubilee Trail</span>",
+      "year": 1954,
+      "studio": "Republic",
+      "directors": "Joseph Inman Kane",
+      "genres": [
+        "Western",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Jubilee Trail",
+      "work_html_title": "<span class=\"work-title\">Jubilee Trail</span>",
+      "work_id": 332
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 334,
+      "slug": "the-invisible-host",
+      "title": "The Invisible Host",
+      "formatted_title": "The Invisible Host",
+      "html_title": "<span class=\"work-title\">The Invisible Host</span>",
+      "work_type": "novel",
+      "publication_year": 1930,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 333,
+      "slug": "tomorrow-is-forever",
+      "title": "Tomorrow is Forever",
+      "formatted_title": "Tomorrow is Forever",
+      "html_title": "<span class=\"work-title\">Tomorrow is Forever</span>",
+      "work_type": "novel",
+      "publication_year": 1943,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 332,
+      "slug": "jubilee-trail",
+      "title": "Jubilee Trail",
+      "formatted_title": "Jubilee Trail",
+      "html_title": "<span class=\"work-title\">Jubilee Trail</span>",
+      "work_type": "novel",
+      "publication_year": 1950,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 334,
+    "slug": "the-invisible-host",
+    "title": "The Invisible Host",
+    "formatted_title": "The Invisible Host",
+    "html_title": "<span class=\"work-title\">The Invisible Host</span>",
+    "work_type": "novel",
+    "publication_year": 1930,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:08.564795"
+}

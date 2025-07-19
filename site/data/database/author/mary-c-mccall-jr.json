@@ -1,0 +1,149 @@
+{
+  "id": 355,
+  "slug": "mary-c-mccall-jr",
+  "name": "Mary C. McCall Jr.",
+  "birth_year": 1904,
+  "death_year": 1986,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American screenwriter (1904–1986). Born in New York City. Died in Los Angeles. Occupations: magazine writer, screenwriter",
+  "author_notes": null,
+  "wikidata_id": "Q956838",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1932,
+    "last_adaptation": 1941,
+    "year_span": 9,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 2
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      },
+      {
+        "genre": "Youth",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 2,
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 795,
+      "slug": "its-tough-to-be-famous-1932",
+      "title": "It's Tough to be Famous",
+      "html_title": "<span class=\"film-title\">It's Tough to be Famous</span>",
+      "year": 1932,
+      "studio": "First National",
+      "directors": "Alfred E. Green",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "The Goldfish Bowl",
+      "work_html_title": "<span class=\"work-title\">The Goldfish Bowl</span>",
+      "work_id": 737
+    },
+    {
+      "id": 796,
+      "slug": "scarlet-dawn-1932",
+      "title": "Scarlet Dawn",
+      "html_title": "<span class=\"film-title\">Scarlet Dawn</span>",
+      "year": 1932,
+      "studio": "Warner Bros",
+      "directors": "William Dieterle",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "Revolt",
+      "work_html_title": "<span class=\"work-title\">Revolt</span>",
+      "work_id": 738
+    },
+    {
+      "id": 794,
+      "slug": "on-the-sunny-side-1941",
+      "title": "On the Sunny Side",
+      "html_title": "<span class=\"film-title\">On the Sunny Side</span>",
+      "year": 1941,
+      "studio": "20th Century Fox",
+      "directors": "Harold Schuster",
+      "genres": [
+        "Comedy-drama",
+        "Youth"
+      ],
+      "has_media": false,
+      "work_title": "Fraternity",
+      "work_html_title": "<span class=\"work-title\">Fraternity</span>",
+      "work_id": 736
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 737,
+      "slug": "the-goldfish-bowl",
+      "title": "The Goldfish Bowl",
+      "formatted_title": "The Goldfish Bowl",
+      "html_title": "<span class=\"work-title\">The Goldfish Bowl</span>",
+      "work_type": "novel",
+      "publication_year": 1932,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 738,
+      "slug": "revolt",
+      "title": "Revolt",
+      "formatted_title": "Revolt",
+      "html_title": "<span class=\"work-title\">Revolt</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 736,
+      "slug": "fraternity",
+      "title": "Fraternity",
+      "formatted_title": "Fraternity",
+      "html_title": "<span class=\"work-title\">Fraternity</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 737,
+    "slug": "the-goldfish-bowl",
+    "title": "The Goldfish Bowl",
+    "formatted_title": "The Goldfish Bowl",
+    "html_title": "<span class=\"work-title\">The Goldfish Bowl</span>",
+    "work_type": "novel",
+    "publication_year": 1932,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:57:13.679804"
+}

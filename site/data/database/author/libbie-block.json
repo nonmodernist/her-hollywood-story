@@ -1,0 +1,149 @@
+{
+  "id": 122,
+  "slug": "libbie-block",
+  "name": "Libbie Block",
+  "birth_year": 1910,
+  "death_year": 1972,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Occupations: writer, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q6540396",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1934,
+    "last_adaptation": 1949,
+    "year_span": 15,
+    "top_genres": [
+      {
+        "genre": "Romantic comedy",
+        "count": 2
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      },
+      {
+        "genre": "Homefront",
+        "count": 1
+      },
+      {
+        "genre": "Film noir",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1,
+      "1940": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 374,
+      "slug": "one-hour-late-1934",
+      "title": "One Hour Late",
+      "html_title": "<span class=\"film-title\">One Hour Late</span>",
+      "year": 1934,
+      "studio": "Paramount",
+      "directors": "Ralph Murphy",
+      "genres": [
+        "Romantic comedy",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "One Hour Late",
+      "work_html_title": "<span class=\"work-title\">One Hour Late</span>",
+      "work_id": 310
+    },
+    {
+      "id": 375,
+      "slug": "pin-up-girl-1944",
+      "title": "Pin Up Girl",
+      "html_title": "<span class=\"film-title\">Pin Up Girl</span>",
+      "year": 1944,
+      "studio": "20th Century Fox",
+      "directors": "Bruce Humberstone",
+      "genres": [
+        "Romantic comedy",
+        "Homefront"
+      ],
+      "has_media": false,
+      "work_title": "Pin-Up Girl",
+      "work_html_title": "<span class=\"work-title\">Pin-Up Girl</span>",
+      "work_id": 311
+    },
+    {
+      "id": 376,
+      "slug": "caught-1949",
+      "title": "Caught",
+      "html_title": "<span class=\"film-title\">Caught</span>",
+      "year": 1949,
+      "studio": "MGM",
+      "directors": "Max Opuls",
+      "genres": [
+        "Film noir"
+      ],
+      "has_media": false,
+      "work_title": "Wild Calendar",
+      "work_html_title": "<span class=\"work-title\">Wild Calendar</span>",
+      "work_id": 312
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 310,
+      "slug": "one-hour-late",
+      "title": "One Hour Late",
+      "formatted_title": "One Hour Late",
+      "html_title": "<span class=\"work-title\">One Hour Late</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 311,
+      "slug": "pin-up-girl",
+      "title": "Pin-Up Girl",
+      "formatted_title": "Pin-Up Girl",
+      "html_title": "<span class=\"work-title\">Pin-Up Girl</span>",
+      "work_type": "novel",
+      "publication_year": 1943,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 312,
+      "slug": "wild-calendar",
+      "title": "Wild Calendar",
+      "formatted_title": "Wild Calendar",
+      "html_title": "<span class=\"work-title\">Wild Calendar</span>",
+      "work_type": "novel",
+      "publication_year": 1946,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 310,
+    "slug": "one-hour-late",
+    "title": "One Hour Late",
+    "formatted_title": "One Hour Late",
+    "html_title": "<span class=\"work-title\">One Hour Late</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:52:47.29957"
+}

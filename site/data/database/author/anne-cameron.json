@@ -1,0 +1,83 @@
+{
+  "id": 153,
+  "slug": "anne-cameron",
+  "name": "Anne Cameron",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": "-",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1933,
+    "last_adaptation": 1933,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Social",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 439,
+      "slug": "mr-skitch-1933",
+      "title": "Mr. Skitch",
+      "html_title": "<span class=\"film-title\">Mr. Skitch</span>",
+      "year": 1933,
+      "studio": "Fox Film",
+      "directors": "James Cruze",
+      "genres": [
+        "Comedy",
+        "Social"
+      ],
+      "has_media": false,
+      "work_title": "Green Dice",
+      "work_html_title": "<span class=\"work-title\">Green Dice</span>",
+      "work_id": 371
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 371,
+      "slug": "green-dice",
+      "title": "Green Dice",
+      "formatted_title": "Green Dice",
+      "html_title": "<span class=\"work-title\">Green Dice</span>",
+      "work_type": "novel",
+      "publication_year": 1926,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 371,
+    "slug": "green-dice",
+    "title": "Green Dice",
+    "formatted_title": "Green Dice",
+    "html_title": "<span class=\"work-title\">Green Dice</span>",
+    "work_type": "novel",
+    "publication_year": 1926,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T03:47:50.882438"
+}

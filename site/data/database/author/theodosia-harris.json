@@ -1,0 +1,83 @@
+{
+  "id": 254,
+  "slug": "theodosia-harris",
+  "name": "Theodosia Harris",
+  "birth_year": 1877,
+  "death_year": 1938,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1877-1938). Born in Virginia City. Died in San Antonio. Occupations: writer, screenwriter",
+  "author_notes": null,
+  "wikidata_id": "Q16615582",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1915,
+    "last_adaptation": 1915,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 628,
+      "slug": "the-martyrs-of-the-alamo-1915",
+      "title": "The Martyrs of the Alamo",
+      "html_title": "<span class=\"film-title\">The Martyrs of the Alamo</span>",
+      "year": 1915,
+      "studio": "Fine Arts Film",
+      "directors": "W. Christy Cabanne",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": true,
+      "work_title": "Martyrs of the Alamo",
+      "work_html_title": "<span class=\"work-title\">Martyrs of the Alamo</span>",
+      "work_id": 551
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 551,
+      "slug": "martyrs-of-the-alamo",
+      "title": "Martyrs of the Alamo",
+      "formatted_title": "Martyrs of the Alamo",
+      "html_title": "<span class=\"work-title\">Martyrs of the Alamo</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 551,
+    "slug": "martyrs-of-the-alamo",
+    "title": "Martyrs of the Alamo",
+    "formatted_title": "Martyrs of the Alamo",
+    "html_title": "<span class=\"work-title\">Martyrs of the Alamo</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:23:04.011867"
+}

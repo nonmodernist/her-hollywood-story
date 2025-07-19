@@ -1,0 +1,60 @@
+{
+  "id": 36,
+  "slug": "the-three-things",
+  "title": "The Three Things",
+  "formatted_title": "The Three Things",
+  "html_title": "<span class=\"work-title\">The Three Things</span>",
+  "work_type": "novel",
+  "publication_year": 1917,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 14,
+    "slug": "mary-raymond-shipman-andrews",
+    "name": "Mary Raymond Shipman Andrews",
+    "birth_year": 1860,
+    "death_year": 1936,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 38,
+      "slug": "the-unbeliever-1918",
+      "title": "The Unbeliever",
+      "html_title": "<span class=\"film-title\">The Unbeliever</span>",
+      "year": 1918,
+      "studio": "Edison",
+      "directors": "Alan Crosland",
+      "genres": [
+        "Drama",
+        "World War I"
+      ],
+      "has_media": true,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T21:02:52.758366"
+}

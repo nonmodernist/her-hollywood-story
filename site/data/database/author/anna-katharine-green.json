@@ -1,0 +1,171 @@
+{
+  "id": 243,
+  "slug": "anna-katharine-green",
+  "name": "Anna Katharine Green",
+  "birth_year": 1846,
+  "death_year": 1935,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "novelist (1846-1935). Born in Brooklyn. Died in Buffalo. Occupations: novelist, poet, writer. Notable works: The Leavenworth Case",
+  "author_notes": null,
+  "wikidata_id": "Q442130",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 3,
+    "first_adaptation": 1915,
+    "last_adaptation": 1936,
+    "year_span": 21,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 2
+      },
+      {
+        "genre": "Mystery",
+        "count": 2
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1920": 2,
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 614,
+      "slug": "the-millionaire-baby-1915",
+      "title": "The Millionaire Baby",
+      "html_title": "<span class=\"film-title\">The Millionaire Baby</span>",
+      "year": 1915,
+      "studio": "Selig Polyscope",
+      "directors": "Lawrence Marston",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Millionaire Baby",
+      "work_html_title": "<span class=\"work-title\">The Millionaire Baby</span>",
+      "work_id": 537
+    },
+    {
+      "id": 613,
+      "slug": "his-wifes-husband-1922",
+      "title": "His Wife's Husband",
+      "html_title": "<span class=\"film-title\">His Wife's Husband</span>",
+      "year": 1922,
+      "studio": "Pyramid Pictures ",
+      "directors": "Kenneth Webb",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "The Mayor's Wife",
+      "work_html_title": "<span class=\"work-title\">The Mayor's Wife</span>",
+      "work_id": 536
+    },
+    {
+      "id": 611,
+      "slug": "the-leavenworth-case-1923",
+      "title": "The Leavenworth Case",
+      "html_title": "<span class=\"film-title\">The Leavenworth Case</span>",
+      "year": 1923,
+      "studio": "Whitman Bennett Productions",
+      "directors": "Charles Giblyn",
+      "genres": [
+        "Melodrama",
+        "Mystery"
+      ],
+      "has_media": true,
+      "work_title": "The Leavenworth Case",
+      "work_html_title": "<span class=\"work-title\">The Leavenworth Case</span>",
+      "work_id": 535
+    },
+    {
+      "id": 612,
+      "slug": "the-leavenworth-case-1936",
+      "title": "The Leavenworth Case",
+      "html_title": "<span class=\"film-title\">The Leavenworth Case</span>",
+      "year": 1936,
+      "studio": "Republic",
+      "directors": "Lewis D. Collins",
+      "genres": [
+        "Comedy-drama",
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "The Leavenworth Case",
+      "work_html_title": "<span class=\"work-title\">The Leavenworth Case</span>",
+      "work_id": 535
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 535,
+      "slug": "the-leavenworth-case",
+      "title": "The Leavenworth Case",
+      "formatted_title": "The Leavenworth Case",
+      "html_title": "<span class=\"work-title\">The Leavenworth Case</span>",
+      "work_type": "novel",
+      "publication_year": 1878,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 537,
+      "slug": "the-millionaire-baby",
+      "title": "The Millionaire Baby",
+      "formatted_title": "The Millionaire Baby",
+      "html_title": "<span class=\"work-title\">The Millionaire Baby</span>",
+      "work_type": "novel",
+      "publication_year": 1905,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 536,
+      "slug": "the-mayors-wife",
+      "title": "The Mayor's Wife",
+      "formatted_title": "The Mayor's Wife",
+      "html_title": "<span class=\"work-title\">The Mayor's Wife</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 535,
+    "slug": "the-leavenworth-case",
+    "title": "The Leavenworth Case",
+    "formatted_title": "The Leavenworth Case",
+    "html_title": "<span class=\"work-title\">The Leavenworth Case</span>",
+    "work_type": "novel",
+    "publication_year": 1878,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-04T03:29:23.879218"
+}

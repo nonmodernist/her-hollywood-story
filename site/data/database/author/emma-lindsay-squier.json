@@ -1,0 +1,121 @@
+{
+  "id": 453,
+  "slug": "emma-lindsay-squier",
+  "name": "Emma-Lindsay Squier",
+  "birth_year": 1892,
+  "death_year": 1941,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "1892-. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q110941576",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1936,
+    "last_adaptation": 1948,
+    "year_span": 12,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      },
+      {
+        "genre": "Fantasy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1,
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1001,
+      "slug": "dancing-pirate-1936",
+      "title": "Dancing Pirate",
+      "html_title": "<span class=\"film-title\">Dancing Pirate</span>",
+      "year": 1936,
+      "studio": "Pioneer Pictures",
+      "directors": "Lloyd Corrigan",
+      "genres": [
+        "Comedy",
+        "Historical",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Glorious Buccaneer",
+      "work_html_title": "<span class=\"work-title\">Glorious Buccaneer</span>",
+      "work_id": 900
+    },
+    {
+      "id": 1000,
+      "slug": "the-angry-god-1948",
+      "title": "The Angry God",
+      "html_title": "<span class=\"film-title\">The Angry God</span>",
+      "year": 1948,
+      "studio": "Carlyle Productions",
+      "directors": "Van Campen Heilner",
+      "genres": [
+        "Fantasy"
+      ],
+      "has_media": false,
+      "work_title": "The Angry God and the People of Corn",
+      "work_html_title": "<span class=\"work-title\">The Angry God and the People of Corn</span>",
+      "work_id": 899
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 900,
+      "slug": "glorious-buccaneer",
+      "title": "Glorious Buccaneer",
+      "formatted_title": "Glorious Buccaneer",
+      "html_title": "<span class=\"work-title\">Glorious Buccaneer</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 899,
+      "slug": "the-angry-god-and-the-people-of-corn",
+      "title": "The Angry God and the People of Corn",
+      "formatted_title": "The Angry God and the People of Corn",
+      "html_title": "<span class=\"work-title\">The Angry God and the People of Corn</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 900,
+    "slug": "glorious-buccaneer",
+    "title": "Glorious Buccaneer",
+    "formatted_title": "Glorious Buccaneer",
+    "html_title": "<span class=\"work-title\">Glorious Buccaneer</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:26:20.201823"
+}

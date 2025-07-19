@@ -1,0 +1,85 @@
+{
+  "id": 298,
+  "slug": "grand-hotel",
+  "title": "Grand Hotel",
+  "formatted_title": "Grand Hotel",
+  "html_title": "<span class=\"work-title\">Grand Hotel</span>",
+  "work_type": "novel",
+  "publication_year": 1930,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 113,
+    "slug": "vicki-baum",
+    "name": "Vicki Baum",
+    "birth_year": 1888,
+    "death_year": 1960,
+    "film_count": 5
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 13,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 13
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 361,
+      "slug": "grand-hotel-1932",
+      "title": "Grand Hotel",
+      "html_title": "<span class=\"film-title\">Grand Hotel</span>",
+      "year": 1932,
+      "studio": "MGM",
+      "directors": "Edmund Goulding",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 2
+    },
+    {
+      "id": 362,
+      "slug": "week-end-at-the-waldorf-1945",
+      "title": "Week-End at the Waldorf",
+      "html_title": "<span class=\"film-title\">Week-End at the Waldorf</span>",
+      "year": 1945,
+      "studio": "MGM",
+      "directors": "Robert Z. Leonard",
+      "genres": [
+        "Comedy-drama",
+        "with songs"
+      ],
+      "has_media": true,
+      "years_after_publication": 15
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1932,
+      "to_year": 1945,
+      "gap_years": 13
+    }
+  ],
+  "photoplay_edition": {
+    "year": 1932,
+    "publisher": "Grosset & Dunlap",
+    "notes": "1933: Grand Hotel, credited to Vicki Baum; dust jacket. 1945: Weekend at the Waldorf; possibly a novelization of the 1945 film adaptation of Grand Hotel, rather than a translation of the novel itself? Credited to Charles Lee.",
+    "count": 0
+  },
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T18:11:19.812419"
+}

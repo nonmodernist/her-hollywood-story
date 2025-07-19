@@ -1,0 +1,142 @@
+{
+  "id": 300,
+  "slug": "fannie-kilbourn",
+  "name": "Fannie Kilbourn",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q95742159",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 2,
+    "first_adaptation": 1924,
+    "last_adaptation": 1955,
+    "year_span": 31,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Romantic comedy",
+        "count": 1
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Crime",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1,
+      "1940": 1,
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 712,
+      "slug": "girls-men-forget-1924",
+      "title": "Girls Men Forget",
+      "html_title": "<span class=\"film-title\">Girls Men Forget</span>",
+      "year": 1924,
+      "studio": "Principal Pictures ",
+      "directors": "Maurice Campbell",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "The Girl who was the Life of the Party",
+      "work_html_title": "<span class=\"work-title\">The Girl who was the Life of the Party</span>",
+      "work_id": 628
+    },
+    {
+      "id": 713,
+      "slug": "the-major-and-the-minor-1942",
+      "title": "The Major and the Minor",
+      "html_title": "<span class=\"film-title\">The Major and the Minor</span>",
+      "year": 1942,
+      "studio": "Paramount",
+      "directors": "Billy Wilder|C. C. Coleman",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": false,
+      "work_title": "Sunny Goes Home",
+      "work_html_title": "<span class=\"work-title\">Sunny Goes Home</span>",
+      "work_id": 629
+    },
+    {
+      "id": 714,
+      "slug": "youre-never-too-young-1955",
+      "title": "You're Never Too Young",
+      "html_title": "<span class=\"film-title\">You're Never Too Young</span>",
+      "year": 1955,
+      "studio": "Paramount",
+      "directors": "Norman Taurog",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Sunny Goes Home",
+      "work_html_title": "<span class=\"work-title\">Sunny Goes Home</span>",
+      "work_id": 629
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 629,
+      "slug": "sunny-goes-home",
+      "title": "Sunny Goes Home",
+      "formatted_title": "Sunny Goes Home",
+      "html_title": "<span class=\"work-title\">Sunny Goes Home</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 628,
+      "slug": "the-girl-who-was-the-life-of-the-party",
+      "title": "The Girl who was the Life of the Party",
+      "formatted_title": "The Girl who was the Life of the Party",
+      "html_title": "<span class=\"work-title\">The Girl who was the Life of the Party</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 629,
+    "slug": "sunny-goes-home",
+    "title": "Sunny Goes Home",
+    "formatted_title": "Sunny Goes Home",
+    "html_title": "<span class=\"work-title\">Sunny Goes Home</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:06.021786"
+}

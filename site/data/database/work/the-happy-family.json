@@ -1,0 +1,59 @@
+{
+  "id": 69,
+  "slug": "the-happy-family",
+  "title": "The Happy Family",
+  "formatted_title": "The Happy Family",
+  "html_title": "<span class=\"work-title\">The Happy Family</span>",
+  "work_type": "novel",
+  "publication_year": 1910,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 33,
+    "slug": "b-m-bower",
+    "name": "B. M. Bower",
+    "birth_year": 1871,
+    "death_year": 1940,
+    "film_count": 8
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 10,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 72,
+      "slug": "the-galloping-devil-1920",
+      "title": "The Galloping Devil",
+      "html_title": "<span class=\"film-title\">The Galloping Devil</span>",
+      "year": 1920,
+      "studio": "Canyon Pictures",
+      "directors": "Nate Watt",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "years_after_publication": 10
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:48:03.914138"
+}

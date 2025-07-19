@@ -1,0 +1,106 @@
+{
+  "id": 9,
+  "slug": "margaret-deland",
+  "name": "Margaret Deland",
+  "birth_year": 1857,
+  "death_year": 1945,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer and poet (1857–1945). Born in Allegheny. Died in Boston. Occupations: short story writer, university teacher, writer, autobiographer, novelist, poet. Notable works: Sidney, The Rising Tide, The Iron Woman, Philip and His Wife, The Awakening of Helena Richie",
+  "author_notes": null,
+  "wikidata_id": "Q1894814",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1916,
+    "last_adaptation": 1916,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 18,
+      "slug": "the-awakening-of-helena-richie-1916",
+      "title": "The Awakening of Helena Richie",
+      "html_title": "<span class=\"film-title\">The Awakening of Helena Richie</span>",
+      "year": 1916,
+      "studio": "Rolfe Photoplays",
+      "directors": "John W. Noble",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Awakening of Helena Richie",
+      "work_html_title": "<span class=\"work-title\">The Awakening of Helena Richie</span>",
+      "work_id": 16
+    },
+    {
+      "id": 17,
+      "slug": "the-iron-woman-1916",
+      "title": "The Iron Woman",
+      "html_title": "<span class=\"film-title\">The Iron Woman</span>",
+      "year": 1916,
+      "studio": "Popular Plays and Players",
+      "directors": "Carl Harbaugh",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Iron Woman",
+      "work_html_title": "<span class=\"work-title\">The Iron Woman</span>",
+      "work_id": 15
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 16,
+      "slug": "the-awakening-of-helena-richie",
+      "title": "The Awakening of Helena Richie",
+      "formatted_title": "The Awakening of Helena Richie",
+      "html_title": "<span class=\"work-title\">The Awakening of Helena Richie</span>",
+      "work_type": "novel",
+      "publication_year": 1906,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 15,
+      "slug": "the-iron-woman",
+      "title": "The Iron Woman",
+      "formatted_title": "The Iron Woman",
+      "html_title": "<span class=\"work-title\">The Iron Woman</span>",
+      "work_type": "novel",
+      "publication_year": 1911,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 16,
+    "slug": "the-awakening-of-helena-richie",
+    "title": "The Awakening of Helena Richie",
+    "formatted_title": "The Awakening of Helena Richie",
+    "html_title": "<span class=\"work-title\">The Awakening of Helena Richie</span>",
+    "work_type": "novel",
+    "publication_year": 1906,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:36:41.326397"
+}

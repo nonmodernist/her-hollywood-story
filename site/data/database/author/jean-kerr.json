@@ -1,0 +1,88 @@
+{
+  "id": 299,
+  "slug": "jean-kerr",
+  "name": "Jean Kerr",
+  "birth_year": 1922,
+  "death_year": 2003,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "Irish-American author and playwright. Born in Scranton. Died in White Plains. Occupations: writer, playwright",
+  "author_notes": null,
+  "wikidata_id": "Q10306550",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1960,
+    "last_adaptation": 1960,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1960": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 703,
+      "slug": "please-dont-eat-the-daisies-1960",
+      "title": "Please Don't Eat the Daisies",
+      "html_title": "<span class=\"film-title\">Please Don't Eat the Daisies</span>",
+      "year": 1960,
+      "studio": "MGM",
+      "directors": "Charles Walters",
+      "genres": [
+        "Comedy-drama",
+        "Domestic",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Please Don't Eat the Daisies",
+      "work_html_title": "<span class=\"work-title\">Please Don't Eat the Daisies</span>",
+      "work_id": 619
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 619,
+      "slug": "please-dont-eat-the-daisies",
+      "title": "Please Don't Eat the Daisies",
+      "formatted_title": "Please Don't Eat the Daisies",
+      "html_title": "<span class=\"work-title\">Please Don't Eat the Daisies</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 619,
+    "slug": "please-dont-eat-the-daisies",
+    "title": "Please Don't Eat the Daisies",
+    "formatted_title": "Please Don't Eat the Daisies",
+    "html_title": "<span class=\"work-title\">Please Don't Eat the Daisies</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:04.453456"
+}

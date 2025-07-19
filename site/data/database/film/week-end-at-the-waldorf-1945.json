@@ -1,0 +1,83 @@
+{
+  "id": 362,
+  "slug": "week-end-at-the-waldorf-1945",
+  "title": "Week-End at the Waldorf",
+  "formatted_title": "Week-End at the Waldorf",
+  "html_title": "<span class=\"film-title\">Week-End at the Waldorf</span>",
+  "release_year": 1945,
+  "runtime_minutes": 130,
+  "country_of_production": "United States",
+  "genres": [
+    "Comedy-drama",
+    "with songs"
+  ],
+  "studio": "MGM",
+  "production_companies": "Metro-Goldwyn-Mayer Corp.",
+  "distribution_companies": "Loew's Inc.",
+  "directors": "Robert Z. Leonard",
+  "writers": "Sam Spewack|Bella Spewack|Guy Bolton",
+  "cast_members": "Ginger Rogers|Lana Turner|Walter Pidgeon|Van Johnson|Edward Arnold|Keenan Wynn|Robert Benchley|Phyllis Thaxter|Leon Ames|Lina Romay",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 24652,
+  "source_work": {
+    "id": 298,
+    "slug": "grand-hotel",
+    "title": "Grand Hotel",
+    "formatted_title": "Grand Hotel",
+    "html_title": "<span class=\"work-title\">Grand Hotel</span>",
+    "work_type": "novel",
+    "publication_year": 1930,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 15
+  },
+  "author": {
+    "id": 113,
+    "slug": "vicki-baum",
+    "name": "Vicki Baum",
+    "birth_year": 1888,
+    "death_year": 1960,
+    "nationality": "United States, Austria",
+    "film_count": 5
+  },
+  "other_adaptations": [
+    {
+      "id": 361,
+      "slug": "grand-hotel-1932",
+      "title": "Grand Hotel",
+      "html_title": "<span class=\"film-title\">Grand Hotel</span>",
+      "year": 1932,
+      "directors": "Edmund Goulding",
+      "studio": "MGM"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [
+    {
+      "id": 928,
+      "media_type": "still",
+      "title": "Lana Turner - Weekend at the Waldorf publicity still.jpg",
+      "caption": "Lana Turner in 1945 publicity still for Weekend at the Waldorf",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Lana_Turner_-_Weekend_at_the_Waldorf_publicity_still.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lana_Turner_-_Weekend_at_the_Waldorf_publicity_still.jpg/300px-Lana_Turner_-_Weekend_at_the_Waldorf_publicity_still.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lana_Turner_-_Weekend_at_the_Waldorf_publicity_still.jpg",
+      "license": "public_domain",
+      "attribution": "Eric Carpenter, for MGM",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 373,
+  "slug": "audrey-munson",
+  "name": "Audrey Munson",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1921,
+    "last_adaptation": 1921,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 829,
+      "slug": "heedless-moths-1921",
+      "title": "Heedless Moths",
+      "html_title": "<span class=\"film-title\">Heedless Moths</span>",
+      "year": 1921,
+      "studio": "Perry Plays",
+      "directors": "Robert Z. Leonard",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Life Story",
+      "work_html_title": "<span class=\"work-title\">Life Story</span>",
+      "work_id": 735
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 735,
+      "slug": "life-story",
+      "title": "Life Story",
+      "formatted_title": "Life Story",
+      "html_title": "<span class=\"work-title\">Life Story</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 735,
+    "slug": "life-story",
+    "title": "Life Story",
+    "formatted_title": "Life Story",
+    "html_title": "<span class=\"work-title\">Life Story</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:18:42.615814"
+}

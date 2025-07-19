@@ -1,0 +1,87 @@
+{
+  "id": 993,
+  "slug": "out-west-with-the-peppers-1940",
+  "title": "Out West with the Peppers",
+  "formatted_title": "Out West with the Peppers",
+  "html_title": "<span class=\"film-title\">Out West with the Peppers</span>",
+  "release_year": 1940,
+  "runtime_minutes": 62,
+  "country_of_production": "United States",
+  "genres": [
+    "Comedy-drama",
+    "Domestic"
+  ],
+  "studio": "Columbia",
+  "production_companies": "Columbia Pictures Corp.",
+  "distribution_companies": "Columbia Pictures Corp.",
+  "directors": "Charles Barton",
+  "writers": "Harry Rebuas",
+  "cast_members": "Edith Fellows|Dorothy Ann Seese|Dorothy Peterson|Charles Peck|Tommy Bond|Bobby Larson|Victor Kilian|Helen Brown|Emory Parnell|Pierre Watkin",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 6111,
+  "source_work": {
+    "id": 892,
+    "slug": "five-little-peppers-and-how-they-grew",
+    "title": "Five Little Peppers and How they Grew",
+    "formatted_title": "Five Little Peppers and How they Grew",
+    "html_title": "<span class=\"work-title\">Five Little Peppers and How they Grew</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 4,
+    "year_to_adaptation": 1940
+  },
+  "author": {
+    "id": 446,
+    "slug": "margaret-sidney",
+    "name": "Margaret Sidney",
+    "birth_year": 1844,
+    "death_year": 1924,
+    "nationality": "United States",
+    "film_count": 4
+  },
+  "other_adaptations": [
+    {
+      "id": 990,
+      "slug": "five-little-peppers-and-how-they-grew-1939",
+      "title": "Five Little Peppers and How They Grew",
+      "html_title": "<span class=\"film-title\">Five Little Peppers and How They Grew</span>",
+      "year": 1939,
+      "directors": "Charles Barton",
+      "studio": "Columbia"
+    },
+    {
+      "id": 991,
+      "slug": "five-little-peppers-at-home-1940",
+      "title": "Five Little Peppers at Home",
+      "html_title": "<span class=\"film-title\">Five Little Peppers at Home</span>",
+      "year": 1940,
+      "directors": "Charles Barton",
+      "studio": "Columbia"
+    },
+    {
+      "id": 992,
+      "slug": "five-little-peppers-in-trouble-1940",
+      "title": "Five Little Peppers in Trouble",
+      "html_title": "<span class=\"film-title\">Five Little Peppers in Trouble</span>",
+      "year": 1940,
+      "directors": "Charles Barton",
+      "studio": "Columbia"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 4,
+    "adaptation_number": 4,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

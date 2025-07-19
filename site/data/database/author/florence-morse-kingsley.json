@@ -1,0 +1,143 @@
+{
+  "id": 302,
+  "slug": "florence-morse-kingsley",
+  "name": "Florence Morse Kingsley",
+  "birth_year": 1859,
+  "death_year": 1937,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1859–1937). Born in Medina County. Died in Staten Island. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q19897825",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1917,
+    "last_adaptation": 1919,
+    "year_span": 2,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "World War I",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 717,
+      "slug": "sloth-1917",
+      "title": "Sloth",
+      "html_title": "<span class=\"film-title\">Sloth</span>",
+      "year": 1917,
+      "studio": "McClure Pictures",
+      "directors": "Theodore Marston",
+      "genres": [
+        "Melodrama",
+        "World War I"
+      ],
+      "has_media": false,
+      "work_title": "Sloth",
+      "work_html_title": "<span class=\"work-title\">Sloth</span>",
+      "work_id": 632
+    },
+    {
+      "id": 718,
+      "slug": "to-the-highest-bidder-1918",
+      "title": "To the Highest Bidder",
+      "html_title": "<span class=\"film-title\">To the Highest Bidder</span>",
+      "year": 1918,
+      "studio": "Vitagraph",
+      "directors": "Tom Terriss",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "To the Highest Bidder",
+      "work_html_title": "<span class=\"work-title\">To the Highest Bidder</span>",
+      "work_id": 633
+    },
+    {
+      "id": 716,
+      "slug": "cupid-forecloses-1919",
+      "title": "Cupid Forecloses",
+      "html_title": "<span class=\"film-title\">Cupid Forecloses</span>",
+      "year": 1919,
+      "studio": "Vitagraph",
+      "directors": "David Smith",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Hurrying Fate and Geraldine",
+      "work_html_title": "<span class=\"work-title\">Hurrying Fate and Geraldine</span>",
+      "work_id": 631
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 632,
+      "slug": "sloth",
+      "title": "Sloth",
+      "formatted_title": "Sloth",
+      "html_title": "<span class=\"work-title\">Sloth</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 633,
+      "slug": "to-the-highest-bidder",
+      "title": "To the Highest Bidder",
+      "formatted_title": "To the Highest Bidder",
+      "html_title": "<span class=\"work-title\">To the Highest Bidder</span>",
+      "work_type": "novel",
+      "publication_year": 1911,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 631,
+      "slug": "hurrying-fate-and-geraldine",
+      "title": "Hurrying Fate and Geraldine",
+      "formatted_title": "Hurrying Fate and Geraldine",
+      "html_title": "<span class=\"work-title\">Hurrying Fate and Geraldine</span>",
+      "work_type": "novel",
+      "publication_year": 1913,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 632,
+    "slug": "sloth",
+    "title": "Sloth",
+    "formatted_title": "Sloth",
+    "html_title": "<span class=\"work-title\">Sloth</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:07.991243"
+}

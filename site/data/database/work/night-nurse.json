@@ -1,0 +1,60 @@
+{
+  "id": 680,
+  "slug": "night-nurse",
+  "title": "Night Nurse",
+  "formatted_title": "Night Nurse",
+  "html_title": "<span class=\"work-title\">Night Nurse</span>",
+  "work_type": "novel",
+  "publication_year": 1930,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": "published under Perkins' pseud Dora Macy",
+  "author": {
+    "id": 339,
+    "slug": "grace-perkins",
+    "name": "Grace Perkins",
+    "birth_year": 1900,
+    "death_year": 1955,
+    "film_count": 4
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 766,
+      "slug": "night-nurse-1931",
+      "title": "Night Nurse",
+      "html_title": "<span class=\"film-title\">Night Nurse</span>",
+      "year": 1931,
+      "studio": "Warner Bros",
+      "directors": "William A. Wellman",
+      "genres": [
+        "Drama",
+        "Medical"
+      ],
+      "has_media": false,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T14:13:37.42466"
+}

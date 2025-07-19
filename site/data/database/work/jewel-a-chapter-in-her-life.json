@@ -1,0 +1,79 @@
+{
+  "id": 368,
+  "slug": "jewel-a-chapter-in-her-life",
+  "title": "Jewel: A Chapter in Her Life",
+  "formatted_title": "Jewel: A Chapter in Her Life",
+  "html_title": "<span class=\"work-title\">Jewel: A Chapter in Her Life</span>",
+  "work_type": "novel",
+  "publication_year": 1903,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 150,
+    "slug": "clara-louise-burnham",
+    "name": "Clara Louise Burnham",
+    "birth_year": 1854,
+    "death_year": 1927,
+    "film_count": 4
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 8,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 8
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 12,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 435,
+      "slug": "jewel-1915",
+      "title": "Jewel",
+      "html_title": "<span class=\"film-title\">Jewel</span>",
+      "year": 1915,
+      "studio": "Universal",
+      "directors": "Phillips Smalley",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 12
+    },
+    {
+      "id": 436,
+      "slug": "a-chapter-in-her-life-1923",
+      "title": "A Chapter in Her Life",
+      "html_title": "<span class=\"film-title\">A Chapter in Her Life</span>",
+      "year": 1923,
+      "studio": "Universal",
+      "directors": "Lois Weber",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 20
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1915,
+      "to_year": 1923,
+      "gap_years": 8
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T21:03:00.045227"
+}

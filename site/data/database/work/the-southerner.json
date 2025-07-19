@@ -1,0 +1,60 @@
+{
+  "id": 713,
+  "slug": "the-southerner",
+  "title": "The Southerner",
+  "formatted_title": "The Southerner",
+  "html_title": "<span class=\"work-title\">The Southerner</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": "co-writer Wells Root",
+  "author": {
+    "id": 358,
+    "slug": "bess-meredyth",
+    "name": "Bess Meredyth",
+    "birth_year": 1890,
+    "death_year": 1969,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 802,
+      "slug": "the-prodigal-1931",
+      "title": "The Prodigal",
+      "html_title": "<span class=\"film-title\">The Prodigal</span>",
+      "year": 1931,
+      "studio": "MGM",
+      "directors": "Harry A. Pollard",
+      "genres": [
+        "Drama",
+        "with songs"
+      ],
+      "has_media": false,
+      "years_after_publication": 1931
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T01:01:38.051124"
+}

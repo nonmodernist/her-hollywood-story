@@ -1,0 +1,106 @@
+{
+  "id": 197,
+  "slug": "edith-barnard-delano",
+  "name": "Edith Barnard Delano",
+  "birth_year": 1874,
+  "death_year": 1946,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "writer. Born in Washington, D.C.. Died in Deerfield. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q106943814",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1918,
+    "last_adaptation": 1918,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 509,
+      "slug": "all-woman-1918",
+      "title": "All Woman",
+      "html_title": "<span class=\"film-title\">All Woman</span>",
+      "year": 1918,
+      "studio": "Goldwyn Pictures",
+      "directors": "Hobart Henley",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "When Carey Came to Town",
+      "work_html_title": "<span class=\"work-title\">When Carey Came to Town</span>",
+      "work_id": 440
+    },
+    {
+      "id": 508,
+      "slug": "the-prodigal-wife-1918",
+      "title": "The Prodigal Wife",
+      "html_title": "<span class=\"film-title\">The Prodigal Wife</span>",
+      "year": 1918,
+      "studio": "Screencraft Pictures ",
+      "directors": "Frank Reicher",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Flaming Ramparts",
+      "work_html_title": "<span class=\"work-title\">Flaming Ramparts</span>",
+      "work_id": 439
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 440,
+      "slug": "when-carey-came-to-town",
+      "title": "When Carey Came to Town",
+      "formatted_title": "When Carey Came to Town",
+      "html_title": "<span class=\"work-title\">When Carey Came to Town</span>",
+      "work_type": "novel",
+      "publication_year": 1916,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 439,
+      "slug": "flaming-ramparts",
+      "title": "Flaming Ramparts",
+      "formatted_title": "Flaming Ramparts",
+      "html_title": "<span class=\"work-title\">Flaming Ramparts</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 440,
+    "slug": "when-carey-came-to-town",
+    "title": "When Carey Came to Town",
+    "formatted_title": "When Carey Came to Town",
+    "html_title": "<span class=\"work-title\">When Carey Came to Town</span>",
+    "work_type": "novel",
+    "publication_year": 1916,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T01:12:25.972945"
+}

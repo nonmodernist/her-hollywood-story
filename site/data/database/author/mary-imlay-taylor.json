@@ -1,0 +1,110 @@
+{
+  "id": 463,
+  "slug": "mary-imlay-taylor",
+  "name": "Mary Imlay Taylor",
+  "birth_year": 1878,
+  "death_year": 1938,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American novelist. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q63485870",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1920,
+    "last_adaptation": 1929,
+    "year_span": 9,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1021,
+      "slug": "the-good-bad-wife-1920",
+      "title": "The Good-Bad Wife",
+      "html_title": "<span class=\"film-title\">The Good-Bad Wife</span>",
+      "year": 1920,
+      "studio": "Vera McCord Productions",
+      "directors": "Chester DeVonde",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Wild Fawn",
+      "work_html_title": "<span class=\"work-title\">The Wild Fawn</span>",
+      "work_id": 916
+    },
+    {
+      "id": 1020,
+      "slug": "conquest-1929",
+      "title": "Conquest",
+      "html_title": "<span class=\"film-title\">Conquest</span>",
+      "year": 1929,
+      "studio": "Warner Bros",
+      "directors": "Roy Del Ruth",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Candle in the Wind",
+      "work_html_title": "<span class=\"work-title\">Candle in the Wind</span>",
+      "work_id": 915
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 916,
+      "slug": "the-wild-fawn",
+      "title": "The Wild Fawn",
+      "formatted_title": "The Wild Fawn",
+      "html_title": "<span class=\"work-title\">The Wild Fawn</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 915,
+      "slug": "candle-in-the-wind",
+      "title": "Candle in the Wind",
+      "formatted_title": "Candle in the Wind",
+      "html_title": "<span class=\"work-title\">Candle in the Wind</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 916,
+    "slug": "the-wild-fawn",
+    "title": "The Wild Fawn",
+    "formatted_title": "The Wild Fawn",
+    "html_title": "<span class=\"work-title\">The Wild Fawn</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T17:49:58.654581"
+}

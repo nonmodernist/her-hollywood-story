@@ -1,0 +1,101 @@
+{
+  "id": 1,
+  "slug": "ramona-1910",
+  "title": "Ramona",
+  "formatted_title": "Ramona",
+  "html_title": "<span class=\"film-title\">Ramona</span>",
+  "release_year": 1910,
+  "runtime_minutes": 17,
+  "country_of_production": "United States",
+  "genres": [
+    "Drama",
+    "Historical"
+  ],
+  "studio": "Biograph",
+  "production_companies": "Biograph Co.",
+  "distribution_companies": "Biograph Co.",
+  "directors": "D. W. Griffith",
+  "writers": null,
+  "cast_members": "Mary Pickford|H. B. Walthall|Francis J. Grandon|Kate Bruce|W. Chrystie Miller|Charles West|Dorothy West|Frank Opperman|Gertrude Claire",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 40029,
+  "source_work": {
+    "id": 1,
+    "slug": "ramona",
+    "title": "Ramona",
+    "formatted_title": "Ramona",
+    "html_title": "<span class=\"work-title\">Ramona</span>",
+    "work_type": "novel",
+    "publication_year": 1884,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 4,
+    "year_to_adaptation": 26
+  },
+  "author": {
+    "id": 1,
+    "slug": "helen-hunt-jackson",
+    "name": "Helen Hunt Jackson",
+    "birth_year": 1830,
+    "death_year": 1885,
+    "nationality": "United States",
+    "film_count": 4
+  },
+  "other_adaptations": [
+    {
+      "id": 11,
+      "slug": "ramona-1916",
+      "title": "Ramona",
+      "html_title": "<span class=\"film-title\">Ramona</span>",
+      "year": 1916,
+      "directors": "Donald Crisp",
+      "studio": "Clune Film"
+    },
+    {
+      "id": 148,
+      "slug": "ramona-1928",
+      "title": "Ramona",
+      "html_title": "<span class=\"film-title\">Ramona</span>",
+      "year": 1928,
+      "directors": "Edwin Carewe",
+      "studio": "United Artists"
+    },
+    {
+      "id": 230,
+      "slug": "ramona-1936",
+      "title": "Ramona",
+      "html_title": "<span class=\"film-title\">Ramona</span>",
+      "year": 1936,
+      "directors": "Henry King",
+      "studio": "20th Century Fox"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 4,
+    "adaptation_number": 1,
+    "is_first": true,
+    "is_latest": false
+  },
+  "media": [
+    {
+      "id": 4,
+      "media_type": "other",
+      "title": "Ramona (1910).webm",
+      "caption": "American short silent drama film.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ramona_%281910%29.webm",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ramona_%281910%29.webm?width=300",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ramona (1910).webm",
+      "license": "public_domain",
+      "attribution": "D. W. Griffith",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

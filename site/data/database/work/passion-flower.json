@@ -1,0 +1,59 @@
+{
+  "id": 754,
+  "slug": "passion-flower",
+  "title": "Passion Flower",
+  "formatted_title": "Passion Flower",
+  "html_title": "<span class=\"work-title\">Passion Flower</span>",
+  "work_type": "novel",
+  "publication_year": 1930,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 376,
+    "slug": "kathleen-norris",
+    "name": "Kathleen Norris",
+    "birth_year": 1880,
+    "death_year": 1966,
+    "film_count": 19
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 0,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 845,
+      "slug": "passion-flower-1930",
+      "title": "Passion Flower",
+      "html_title": "<span class=\"film-title\">Passion Flower</span>",
+      "year": 1930,
+      "studio": "MGM",
+      "directors": "William de Mille",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 0
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T14:13:36.29736"
+}

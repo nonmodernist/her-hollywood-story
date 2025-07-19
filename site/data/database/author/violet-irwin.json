@@ -1,0 +1,78 @@
+{
+  "id": 275,
+  "slug": "violet-irwin",
+  "name": "Violet Irwin",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1919,
+    "last_adaptation": 1919,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 661,
+      "slug": "human-desire-1919",
+      "title": "Human Desire",
+      "html_title": "<span class=\"film-title\">Human Desire</span>",
+      "year": 1919,
+      "studio": "Anita Stewart Productions ",
+      "directors": "Wilfrid North",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Human Desire",
+      "work_html_title": "<span class=\"work-title\">Human Desire</span>",
+      "work_id": 579
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 579,
+      "slug": "human-desire",
+      "title": "Human Desire",
+      "formatted_title": "Human Desire",
+      "html_title": "<span class=\"work-title\">Human Desire</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 579,
+    "slug": "human-desire",
+    "title": "Human Desire",
+    "formatted_title": "Human Desire",
+    "html_title": "<span class=\"work-title\">Human Desire</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-06T14:38:37.419857"
+}

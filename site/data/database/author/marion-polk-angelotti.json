@@ -1,0 +1,88 @@
+{
+  "id": 23,
+  "slug": "marion-polk-angelotti",
+  "name": "Marion Polk Angelotti",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1918,
+    "last_adaptation": 1918,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Espionage",
+        "count": 1
+      },
+      {
+        "genre": "World War I",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 41,
+      "slug": "the-firefly-of-france-1918",
+      "title": "The Firefly of France",
+      "html_title": "<span class=\"film-title\">The Firefly of France</span>",
+      "year": 1918,
+      "studio": "Famous Players-Lasky",
+      "directors": "Donald Crisp",
+      "genres": [
+        "Drama",
+        "Espionage",
+        "World War I"
+      ],
+      "has_media": false,
+      "work_title": "The Firefly of France",
+      "work_html_title": "<span class=\"work-title\">The Firefly of France</span>",
+      "work_id": 39
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 39,
+      "slug": "the-firefly-of-france",
+      "title": "The Firefly of France",
+      "formatted_title": "The Firefly of France",
+      "html_title": "<span class=\"work-title\">The Firefly of France</span>",
+      "work_type": "novel",
+      "publication_year": 1918,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 39,
+    "slug": "the-firefly-of-france",
+    "title": "The Firefly of France",
+    "formatted_title": "The Firefly of France",
+    "html_title": "<span class=\"work-title\">The Firefly of France</span>",
+    "work_type": "novel",
+    "publication_year": 1918,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:44:44.513472"
+}

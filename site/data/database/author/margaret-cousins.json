@@ -1,0 +1,78 @@
+{
+  "id": 103,
+  "slug": "margaret-cousins",
+  "name": "Margaret Cousins",
+  "birth_year": 1905,
+  "death_year": 1996,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer and editor. Born in Munday. Died in San Antonio. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q63068786",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1955,
+    "last_adaptation": 1955,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 327,
+      "slug": "lucy-gallant-1955",
+      "title": "Lucy Gallant",
+      "html_title": "<span class=\"film-title\">Lucy Gallant</span>",
+      "year": 1955,
+      "studio": "Paramount",
+      "directors": "Robert Parrish",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "\"The Life of Lucy Gallant/\"\"The Longest Day of the Year\"\"\"",
+      "work_html_title": "<span class=\"work-title\">\"The Life of Lucy Gallant/\"\"The Longest Day of the Year\"\"\"</span>",
+      "work_id": 272
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 272,
+      "slug": "the-life-of-lucy-gallantthe-longest-day-of-the-year",
+      "title": "\"The Life of Lucy Gallant/\"\"The Longest Day of the Year\"\"\"",
+      "formatted_title": "\"The Life of Lucy Gallant/\"\"The Longest Day of the Year\"\"\"",
+      "html_title": "<span class=\"work-title\">\"The Life of Lucy Gallant/\"\"The Longest Day of the Year\"\"\"</span>",
+      "work_type": "novel",
+      "publication_year": 1953,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 272,
+    "slug": "the-life-of-lucy-gallantthe-longest-day-of-the-year",
+    "title": "\"The Life of Lucy Gallant/\"\"The Longest Day of the Year\"\"\"",
+    "formatted_title": "\"The Life of Lucy Gallant/\"\"The Longest Day of the Year\"\"\"",
+    "html_title": "<span class=\"work-title\">\"The Life of Lucy Gallant/\"\"The Longest Day of the Year\"\"\"</span>",
+    "work_type": "novel",
+    "publication_year": 1953,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:42.787076"
+}

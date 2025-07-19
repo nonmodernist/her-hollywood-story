@@ -1,0 +1,181 @@
+{
+  "id": 339,
+  "slug": "grace-perkins",
+  "name": "Grace Perkins",
+  "birth_year": 1900,
+  "death_year": 1955,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American screenwriter. Born in Boston. Occupations: screenwriter",
+  "author_notes": "also wrote under the pseud Dora Macy",
+  "wikidata_id": "Q62059369",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 4,
+    "first_adaptation": 1931,
+    "last_adaptation": 1932,
+    "year_span": 1,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 2
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 2
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Medical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 4
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 765,
+      "slug": "my-past-1931",
+      "title": "My Past",
+      "html_title": "<span class=\"film-title\">My Past</span>",
+      "year": 1931,
+      "studio": "Warner Bros",
+      "directors": "Roy Del Ruth",
+      "genres": [
+        "Melodrama",
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "Ex-Mistress",
+      "work_html_title": "<span class=\"work-title\">Ex-Mistress</span>",
+      "work_id": 679
+    },
+    {
+      "id": 766,
+      "slug": "night-nurse-1931",
+      "title": "Night Nurse",
+      "html_title": "<span class=\"film-title\">Night Nurse</span>",
+      "year": 1931,
+      "studio": "Warner Bros",
+      "directors": "William A. Wellman",
+      "genres": [
+        "Drama",
+        "Medical"
+      ],
+      "has_media": false,
+      "work_title": "Night Nurse",
+      "work_html_title": "<span class=\"work-title\">Night Nurse</span>",
+      "work_id": 680
+    },
+    {
+      "id": 874,
+      "slug": "personal-maid-1931",
+      "title": "Personal Maid",
+      "html_title": "<span class=\"film-title\">Personal Maid</span>",
+      "year": 1931,
+      "studio": "Paramount",
+      "directors": "Monta Bell",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "Personal Maid",
+      "work_html_title": "<span class=\"work-title\">Personal Maid</span>",
+      "work_id": 783
+    },
+    {
+      "id": 873,
+      "slug": "no-more-orchids-1932",
+      "title": "No More Orchids",
+      "html_title": "<span class=\"film-title\">No More Orchids</span>",
+      "year": 1932,
+      "studio": "Columbia",
+      "directors": "Walter Lang",
+      "genres": [
+        "Comedy-drama",
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "No More Orchids",
+      "work_html_title": "<span class=\"work-title\">No More Orchids</span>",
+      "work_id": 782
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 679,
+      "slug": "ex-mistress",
+      "title": "Ex-Mistress",
+      "formatted_title": "Ex-Mistress",
+      "html_title": "<span class=\"work-title\">Ex-Mistress</span>",
+      "work_type": "novel",
+      "publication_year": 1930,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 680,
+      "slug": "night-nurse",
+      "title": "Night Nurse",
+      "formatted_title": "Night Nurse",
+      "html_title": "<span class=\"work-title\">Night Nurse</span>",
+      "work_type": "novel",
+      "publication_year": 1930,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 783,
+      "slug": "personal-maid",
+      "title": "Personal Maid",
+      "formatted_title": "Personal Maid",
+      "html_title": "<span class=\"work-title\">Personal Maid</span>",
+      "work_type": "novel",
+      "publication_year": 1931,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 782,
+      "slug": "no-more-orchids",
+      "title": "No More Orchids",
+      "formatted_title": "No More Orchids",
+      "html_title": "<span class=\"work-title\">No More Orchids</span>",
+      "work_type": "novel",
+      "publication_year": 1932,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 679,
+    "slug": "ex-mistress",
+    "title": "Ex-Mistress",
+    "formatted_title": "Ex-Mistress",
+    "html_title": "<span class=\"work-title\">Ex-Mistress</span>",
+    "work_type": "novel",
+    "publication_year": 1930,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:56:53.282951"
+}

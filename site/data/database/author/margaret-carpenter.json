@@ -1,0 +1,83 @@
+{
+  "id": 158,
+  "slug": "margaret-carpenter",
+  "name": "Margaret Carpenter",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": "-",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1944,
+    "last_adaptation": 1944,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Psychological",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 452,
+      "slug": "experiment-perilous-1944",
+      "title": "Experiment Perilous",
+      "html_title": "<span class=\"film-title\">Experiment Perilous</span>",
+      "year": 1944,
+      "studio": "RKO",
+      "directors": "Jacques Tourneur",
+      "genres": [
+        "Melodrama",
+        "Psychological"
+      ],
+      "has_media": true,
+      "work_title": "Experiment Perilous",
+      "work_html_title": "<span class=\"work-title\">Experiment Perilous</span>",
+      "work_id": 383
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 383,
+      "slug": "experiment-perilous",
+      "title": "Experiment Perilous",
+      "formatted_title": "Experiment Perilous",
+      "html_title": "<span class=\"work-title\">Experiment Perilous</span>",
+      "work_type": "novel",
+      "publication_year": 1943,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 383,
+    "slug": "experiment-perilous",
+    "title": "Experiment Perilous",
+    "formatted_title": "Experiment Perilous",
+    "html_title": "<span class=\"work-title\">Experiment Perilous</span>",
+    "work_type": "novel",
+    "publication_year": 1943,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T03:51:22.523831"
+}

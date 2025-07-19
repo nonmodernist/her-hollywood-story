@@ -1,0 +1,88 @@
+{
+  "id": 120,
+  "slug": "tats-blain",
+  "name": "Tats Blain",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": "pseud of Mary D. Blain",
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1956,
+    "last_adaptation": 1956,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Military",
+        "count": 1
+      },
+      {
+        "genre": "Postwar life",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 372,
+      "slug": "navy-wife-1956",
+      "title": "Navy Wife",
+      "html_title": "<span class=\"film-title\">Navy Wife</span>",
+      "year": 1956,
+      "studio": "Allied Artists",
+      "directors": "Edward L. Bernds",
+      "genres": [
+        "Comedy-drama",
+        "Military",
+        "Postwar life"
+      ],
+      "has_media": false,
+      "work_title": "Mother, Sir!",
+      "work_html_title": "<span class=\"work-title\">Mother, Sir!</span>",
+      "work_id": 308
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 308,
+      "slug": "mother-sir",
+      "title": "Mother, Sir!",
+      "formatted_title": "Mother, Sir!",
+      "html_title": "<span class=\"work-title\">Mother, Sir!</span>",
+      "work_type": "novel",
+      "publication_year": 1953,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 308,
+    "slug": "mother-sir",
+    "title": "Mother, Sir!",
+    "formatted_title": "Mother, Sir!",
+    "html_title": "<span class=\"work-title\">Mother, Sir!</span>",
+    "work_type": "novel",
+    "publication_year": 1953,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-18T02:28:07.622332"
+}

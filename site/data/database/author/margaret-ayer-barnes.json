@@ -1,0 +1,83 @@
+{
+  "id": 62,
+  "slug": "margaret-ayer-barnes",
+  "name": "Margaret Ayer Barnes",
+  "birth_year": 1886,
+  "death_year": 1967,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American playwright, novelist, short story writer (1886–1967). Born in Chicago. Died in Cambridge. Occupations: short story writer, screenwriter, writer, playwright, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q768296",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1932,
+    "last_adaptation": 1932,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 189,
+      "slug": "westward-passage-1932",
+      "title": "Westward Passage",
+      "html_title": "<span class=\"film-title\">Westward Passage</span>",
+      "year": 1932,
+      "studio": "RKO",
+      "directors": "Robert Milton",
+      "genres": [
+        "Romance",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Westward Passage",
+      "work_html_title": "<span class=\"work-title\">Westward Passage</span>",
+      "work_id": 174
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 174,
+      "slug": "westward-passage",
+      "title": "Westward Passage",
+      "formatted_title": "Westward Passage",
+      "html_title": "<span class=\"work-title\">Westward Passage</span>",
+      "work_type": "novel",
+      "publication_year": 1931,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 174,
+    "slug": "westward-passage",
+    "title": "Westward Passage",
+    "formatted_title": "Westward Passage",
+    "html_title": "<span class=\"work-title\">Westward Passage</span>",
+    "work_type": "novel",
+    "publication_year": 1931,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:52.620402"
+}

@@ -1,0 +1,665 @@
+{
+  "id": 40,
+  "slug": "edna-ferber",
+  "name": "Edna Ferber",
+  "birth_year": 1885,
+  "death_year": 1968,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American novelist, short story writer and playwright (1885–1968). Born in Kalamazoo. Occupations: journalist, short story writer, screenwriter, writer, playwright, novelist, poet. Notable works: Saratoga Trunk, Personality Plus, Show Boat, Cimarron, So Big",
+  "author_notes": null,
+  "wikidata_id": "Q283496",
+  "stats": {
+    "total_films": 24,
+    "works_adapted": 16,
+    "first_adaptation": 1918,
+    "last_adaptation": 1960,
+    "year_span": 42,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 11
+      },
+      {
+        "genre": "Historical",
+        "count": 9
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 5
+      },
+      {
+        "genre": "Domestic",
+        "count": 3
+      },
+      {
+        "genre": "Show business",
+        "count": 3
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2,
+      "1920": 8,
+      "1930": 8,
+      "1940": 1,
+      "1950": 3,
+      "1960": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": true,
+    "twenty_timer_rank": 3
+  },
+  "films": [
+    {
+      "id": 555,
+      "slug": "our-mrs-mcchesney-1918",
+      "title": "Our Mrs. McChesney",
+      "html_title": "<span class=\"film-title\">Our Mrs. McChesney</span>",
+      "year": 1918,
+      "studio": "Metro Pictures",
+      "directors": "Ralph W. Ince",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "Emma McChesney & Co.",
+      "work_html_title": "<span class=\"work-title\">Emma McChesney & Co.</span>",
+      "work_id": 483
+    },
+    {
+      "id": 557,
+      "slug": "the-gay-old-dog-1919",
+      "title": "The Gay Old Dog",
+      "html_title": "<span class=\"film-title\">The Gay Old Dog</span>",
+      "year": 1919,
+      "studio": "Hobart Henley Productions",
+      "directors": "Hobart Henley",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Gay Old Dog",
+      "work_html_title": "<span class=\"work-title\">The Gay Old Dog</span>",
+      "work_id": 485
+    },
+    {
+      "id": 556,
+      "slug": "no-woman-knows-1921",
+      "title": "No Woman Knows",
+      "html_title": "<span class=\"film-title\">No Woman Knows</span>",
+      "year": 1921,
+      "studio": "Universal",
+      "directors": "Tod Browning",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Fanny Herself",
+      "work_html_title": "<span class=\"work-title\">Fanny Herself</span>",
+      "work_id": 484
+    },
+    {
+      "id": 105,
+      "slug": "so-big-1924",
+      "title": "So Big",
+      "html_title": "<span class=\"film-title\">So Big</span>",
+      "year": 1924,
+      "studio": "First National",
+      "directors": "Charles Brabin",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "So Big",
+      "work_html_title": "<span class=\"work-title\">So Big</span>",
+      "work_id": 100
+    },
+    {
+      "id": 551,
+      "slug": "classified-1925",
+      "title": "Classified",
+      "html_title": "<span class=\"film-title\">Classified</span>",
+      "year": 1925,
+      "studio": "Corinne Griffith Productions ",
+      "directors": "Alfred Santell",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "work_title": "Classified",
+      "work_html_title": "<span class=\"work-title\">Classified</span>",
+      "work_id": 481
+    },
+    {
+      "id": 563,
+      "slug": "welcome-home-1925",
+      "title": "Welcome Home",
+      "html_title": "<span class=\"film-title\">Welcome Home</span>",
+      "year": 1925,
+      "studio": "Famous Players-Lasky",
+      "directors": "James Cruze",
+      "genres": [
+        "Comedy-drama",
+        "Domestic"
+      ],
+      "has_media": true,
+      "work_title": "Old Man Minick",
+      "work_html_title": "<span class=\"work-title short-story\">\"Old Man Minick\"</span>",
+      "work_id": 491
+    },
+    {
+      "id": 558,
+      "slug": "gigolo-1926",
+      "title": "Gigolo",
+      "html_title": "<span class=\"film-title\">Gigolo</span>",
+      "year": 1926,
+      "studio": "De Mille Pictures",
+      "directors": "William K. Howard",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": true,
+      "work_title": "Gigolo",
+      "work_html_title": "<span class=\"work-title\">Gigolo</span>",
+      "work_id": 486
+    },
+    {
+      "id": 561,
+      "slug": "mother-knows-best-1928",
+      "title": "Mother Knows Best",
+      "html_title": "<span class=\"film-title\">Mother Knows Best</span>",
+      "year": 1928,
+      "studio": "Fox Film",
+      "directors": "John Blystone",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Mother Knows Best",
+      "work_html_title": "<span class=\"work-title\">Mother Knows Best</span>",
+      "work_id": 489
+    },
+    {
+      "id": 552,
+      "slug": "hard-to-get-1929",
+      "title": "Hard to Get",
+      "html_title": "<span class=\"film-title\">Hard to Get</span>",
+      "year": 1929,
+      "studio": "First National",
+      "directors": "William Beaudine",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "Classified",
+      "work_html_title": "<span class=\"work-title\">Classified</span>",
+      "work_id": 481
+    },
+    {
+      "id": 156,
+      "slug": "show-boat-1929",
+      "title": "Show Boat",
+      "html_title": "<span class=\"film-title\">Show Boat</span>",
+      "year": 1929,
+      "studio": "Universal",
+      "directors": "Harry Pollard",
+      "genres": [
+        "Musical",
+        "Historical",
+        "Show business"
+      ],
+      "has_media": true,
+      "work_title": "Show Boat",
+      "work_html_title": "<span class=\"work-title\">Show Boat</span>",
+      "work_id": 145
+    },
+    {
+      "id": 179,
+      "slug": "cimarron-1931",
+      "title": "Cimarron",
+      "html_title": "<span class=\"film-title\">Cimarron</span>",
+      "year": 1931,
+      "studio": "RKO",
+      "directors": "Wesley Ruggles",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": true,
+      "work_title": "Cimarron",
+      "work_html_title": "<span class=\"work-title\">Cimarron</span>",
+      "work_id": 165
+    },
+    {
+      "id": 196,
+      "slug": "so-big-1932",
+      "title": "So Big",
+      "html_title": "<span class=\"film-title\">So Big</span>",
+      "year": 1932,
+      "studio": "Warner Bros",
+      "directors": "William A. Wellman",
+      "genres": [
+        "Drama",
+        "Historical",
+        "Rural"
+      ],
+      "has_media": false,
+      "work_title": "So Big",
+      "work_html_title": "<span class=\"work-title\">So Big</span>",
+      "work_id": 100
+    },
+    {
+      "id": 562,
+      "slug": "summer-resort-1932",
+      "title": "Summer Resort",
+      "html_title": "<span class=\"film-title\">Summer Resort</span>",
+      "year": 1932,
+      "studio": "World Wide",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "Not A Day Over Twenty-One",
+      "work_html_title": "<span class=\"work-title\">Not A Day Over Twenty-One</span>",
+      "work_id": 490
+    },
+    {
+      "id": 564,
+      "slug": "the-expert-1932",
+      "title": "The Expert",
+      "html_title": "<span class=\"film-title\">The Expert</span>",
+      "year": 1932,
+      "studio": "Warner Bros",
+      "directors": "Archie Mayo",
+      "genres": [
+        "Comedy-drama",
+        "Domestic",
+        "Elderly"
+      ],
+      "has_media": false,
+      "work_title": "Old Man Minick",
+      "work_html_title": "<span class=\"work-title short-story\">\"Old Man Minick\"</span>",
+      "work_id": 491
+    },
+    {
+      "id": 559,
+      "slug": "glamour-1934",
+      "title": "Glamour",
+      "html_title": "<span class=\"film-title\">Glamour</span>",
+      "year": 1934,
+      "studio": "Universal",
+      "directors": "William Wyler",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Glamour",
+      "work_html_title": "<span class=\"work-title\">Glamour</span>",
+      "work_id": 487
+    },
+    {
+      "id": 554,
+      "slug": "come-and-get-it-1936",
+      "title": "Come and Get It",
+      "html_title": "<span class=\"film-title\">Come and Get It</span>",
+      "year": 1936,
+      "studio": "Howard Productions",
+      "directors": "Howard Hawks|William Wyler",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Come and Get It",
+      "work_html_title": "<span class=\"work-title\">Come and Get It</span>",
+      "work_id": 482
+    },
+    {
+      "id": 232,
+      "slug": "show-boat-1936",
+      "title": "Show Boat",
+      "html_title": "<span class=\"film-title\">Show Boat</span>",
+      "year": 1936,
+      "studio": "Universal",
+      "directors": "James Whale",
+      "genres": [
+        "Comedy-drama",
+        "Historical",
+        "Show business"
+      ],
+      "has_media": true,
+      "work_title": "Show Boat",
+      "work_html_title": "<span class=\"work-title\">Show Boat</span>",
+      "work_id": 145
+    },
+    {
+      "id": 553,
+      "slug": "no-place-to-go-1939",
+      "title": "No Place to Go",
+      "html_title": "<span class=\"film-title\">No Place to Go</span>",
+      "year": 1939,
+      "studio": "Warner Bros",
+      "directors": "Terry Morse",
+      "genres": [
+        "Drama",
+        "Domestic",
+        "Elderly"
+      ],
+      "has_media": true,
+      "work_title": "Old Man Minick",
+      "work_html_title": "<span class=\"work-title short-story\">\"Old Man Minick\"</span>",
+      "work_id": 491
+    },
+    {
+      "id": 282,
+      "slug": "saratoga-trunk-1945",
+      "title": "Saratoga Trunk",
+      "html_title": "<span class=\"film-title\">Saratoga Trunk</span>",
+      "year": 1945,
+      "studio": "Warner Bros",
+      "directors": "Sam Wood",
+      "genres": [
+        "Romance",
+        "Historical"
+      ],
+      "has_media": true,
+      "work_title": "Saratoga Trunk",
+      "work_html_title": "<span class=\"work-title\">Saratoga Trunk</span>",
+      "work_id": 237
+    },
+    {
+      "id": 313,
+      "slug": "show-boat-1951",
+      "title": "Show Boat",
+      "html_title": "<span class=\"film-title\">Show Boat</span>",
+      "year": 1951,
+      "studio": "MGM",
+      "directors": "George Sidney",
+      "genres": [
+        "Musical",
+        "Historical",
+        "Show business"
+      ],
+      "has_media": true,
+      "work_title": "Show Boat",
+      "work_html_title": "<span class=\"work-title\">Show Boat</span>",
+      "work_id": 145
+    },
+    {
+      "id": 321,
+      "slug": "so-big-1953",
+      "title": "So Big",
+      "html_title": "<span class=\"film-title\">So Big</span>",
+      "year": 1953,
+      "studio": "Warner Bros",
+      "directors": "Robert Wise",
+      "genres": [
+        "Drama",
+        "Historical",
+        "Rural"
+      ],
+      "has_media": false,
+      "work_title": "So Big",
+      "work_html_title": "<span class=\"work-title\">So Big</span>",
+      "work_id": 100
+    },
+    {
+      "id": 332,
+      "slug": "giant-1956",
+      "title": "Giant",
+      "html_title": "<span class=\"film-title\">Giant</span>",
+      "year": 1956,
+      "studio": "Warner Bros",
+      "directors": "George Stevens",
+      "genres": [
+        "Drama",
+        "Historical",
+        "with songs"
+      ],
+      "has_media": true,
+      "work_title": "Giant",
+      "work_html_title": "<span class=\"work-title\">Giant</span>",
+      "work_id": 275
+    },
+    {
+      "id": 339,
+      "slug": "cimarron-1960",
+      "title": "Cimarron",
+      "html_title": "<span class=\"film-title\">Cimarron</span>",
+      "year": 1960,
+      "studio": "MGM",
+      "directors": "Anthony Mann",
+      "genres": [
+        "Western"
+      ],
+      "has_media": true,
+      "work_title": "Cimarron",
+      "work_html_title": "<span class=\"work-title\">Cimarron</span>",
+      "work_id": 165
+    },
+    {
+      "id": 560,
+      "slug": "ice-palace-1960",
+      "title": "Ice Palace",
+      "html_title": "<span class=\"film-title\">Ice Palace</span>",
+      "year": 1960,
+      "studio": "Warner Bros",
+      "directors": "Vincent Sherman",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "Ice Palace",
+      "work_html_title": "<span class=\"work-title\">Ice Palace</span>",
+      "work_id": 488
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 100,
+      "slug": "so-big",
+      "title": "So Big",
+      "formatted_title": "So Big",
+      "html_title": "<span class=\"work-title\">So Big</span>",
+      "work_type": "novel",
+      "publication_year": 1924,
+      "genre": null,
+      "adaptation_count": 3,
+      "is_remake_champion": false
+    },
+    {
+      "id": 491,
+      "slug": "old-man-minick",
+      "title": "Old Man Minick",
+      "formatted_title": "\"Old Man Minick\"",
+      "html_title": "<span class=\"work-title short-story\">\"Old Man Minick\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1922,
+      "genre": null,
+      "adaptation_count": 3,
+      "is_remake_champion": false
+    },
+    {
+      "id": 145,
+      "slug": "show-boat",
+      "title": "Show Boat",
+      "formatted_title": "Show Boat",
+      "html_title": "<span class=\"work-title\">Show Boat</span>",
+      "work_type": "novel",
+      "publication_year": 1926,
+      "genre": null,
+      "adaptation_count": 3,
+      "is_remake_champion": false
+    },
+    {
+      "id": 481,
+      "slug": "classified",
+      "title": "Classified",
+      "formatted_title": "Classified",
+      "html_title": "<span class=\"work-title\">Classified</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 165,
+      "slug": "cimarron",
+      "title": "Cimarron",
+      "formatted_title": "Cimarron",
+      "html_title": "<span class=\"work-title\">Cimarron</span>",
+      "work_type": "novel",
+      "publication_year": 1929,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 483,
+      "slug": "emma-mcchesney-co",
+      "title": "Emma McChesney & Co.",
+      "formatted_title": "Emma McChesney & Co.",
+      "html_title": "<span class=\"work-title\">Emma McChesney & Co.</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 485,
+      "slug": "the-gay-old-dog",
+      "title": "The Gay Old Dog",
+      "formatted_title": "The Gay Old Dog",
+      "html_title": "<span class=\"work-title\">The Gay Old Dog</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 484,
+      "slug": "fanny-herself",
+      "title": "Fanny Herself",
+      "formatted_title": "Fanny Herself",
+      "html_title": "<span class=\"work-title\">Fanny Herself</span>",
+      "work_type": "novel",
+      "publication_year": 1917,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 486,
+      "slug": "gigolo",
+      "title": "Gigolo",
+      "formatted_title": "Gigolo",
+      "html_title": "<span class=\"work-title\">Gigolo</span>",
+      "work_type": "novel",
+      "publication_year": 1922,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 489,
+      "slug": "mother-knows-best",
+      "title": "Mother Knows Best",
+      "formatted_title": "Mother Knows Best",
+      "html_title": "<span class=\"work-title\">Mother Knows Best</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 490,
+      "slug": "not-a-day-over-twenty-one",
+      "title": "Not A Day Over Twenty-One",
+      "formatted_title": "Not A Day Over Twenty-One",
+      "html_title": "<span class=\"work-title\">Not A Day Over Twenty-One</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 487,
+      "slug": "glamour",
+      "title": "Glamour",
+      "formatted_title": "Glamour",
+      "html_title": "<span class=\"work-title\">Glamour</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 482,
+      "slug": "come-and-get-it",
+      "title": "Come and Get It",
+      "formatted_title": "Come and Get It",
+      "html_title": "<span class=\"work-title\">Come and Get It</span>",
+      "work_type": "novel",
+      "publication_year": 1935,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 237,
+      "slug": "saratoga-trunk",
+      "title": "Saratoga Trunk",
+      "formatted_title": "Saratoga Trunk",
+      "html_title": "<span class=\"work-title\">Saratoga Trunk</span>",
+      "work_type": "novel",
+      "publication_year": 1941,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 275,
+      "slug": "giant",
+      "title": "Giant",
+      "formatted_title": "Giant",
+      "html_title": "<span class=\"work-title\">Giant</span>",
+      "work_type": "novel",
+      "publication_year": 1952,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 488,
+      "slug": "ice-palace",
+      "title": "Ice Palace",
+      "formatted_title": "Ice Palace",
+      "html_title": "<span class=\"work-title\">Ice Palace</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 100,
+    "slug": "so-big",
+    "title": "So Big",
+    "formatted_title": "So Big",
+    "html_title": "<span class=\"work-title\">So Big</span>",
+    "work_type": "novel",
+    "publication_year": 1924,
+    "genre": null,
+    "adaptation_count": 3,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:22.887241"
+}

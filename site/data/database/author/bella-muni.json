@@ -1,0 +1,83 @@
+{
+  "id": 372,
+  "slug": "bella-muni",
+  "name": "Bella Muni",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1931,
+    "last_adaptation": 1931,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Mystery",
+        "count": 1
+      },
+      {
+        "genre": "Show business",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 828,
+      "slug": "the-deceiver-1931",
+      "title": "The Deceiver",
+      "html_title": "<span class=\"film-title\">The Deceiver</span>",
+      "year": 1931,
+      "studio": "Columbia",
+      "directors": "Louis King",
+      "genres": [
+        "Mystery",
+        "Show business"
+      ],
+      "has_media": false,
+      "work_title": "Unwanted",
+      "work_html_title": "<span class=\"work-title\">Unwanted</span>",
+      "work_id": 734
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 734,
+      "slug": "unwanted",
+      "title": "Unwanted",
+      "formatted_title": "Unwanted",
+      "html_title": "<span class=\"work-title\">Unwanted</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 734,
+    "slug": "unwanted",
+    "title": "Unwanted",
+    "formatted_title": "Unwanted",
+    "html_title": "<span class=\"work-title\">Unwanted</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:18:42.615814"
+}

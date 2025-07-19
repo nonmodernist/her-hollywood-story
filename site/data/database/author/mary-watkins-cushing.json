@@ -1,0 +1,83 @@
+{
+  "id": 485,
+  "slug": "mary-watkins-cushing",
+  "name": "Mary Watkins Cushing",
+  "birth_year": 1889,
+  "death_year": 1974,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American dance critic (1889–1974). Born in New Haven. Died in Upper East Side. Occupations: writer, dance critic",
+  "author_notes": null,
+  "wikidata_id": "Q131699617",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1930,
+    "last_adaptation": 1930,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1055,
+      "slug": "oh-for-a-man-1930",
+      "title": "Oh, for a Man!",
+      "html_title": "<span class=\"film-title\">Oh, for a Man!</span>",
+      "year": 1930,
+      "studio": "Fox Film",
+      "directors": "Hamilton MacFadden",
+      "genres": [
+        "Comedy-drama",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Stolen Thunder",
+      "work_html_title": "<span class=\"work-title\">Stolen Thunder</span>",
+      "work_id": 947
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 947,
+      "slug": "stolen-thunder",
+      "title": "Stolen Thunder",
+      "formatted_title": "Stolen Thunder",
+      "html_title": "<span class=\"work-title\">Stolen Thunder</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 947,
+    "slug": "stolen-thunder",
+    "title": "Stolen Thunder",
+    "formatted_title": "Stolen Thunder",
+    "html_title": "<span class=\"work-title\">Stolen Thunder</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:54:49.26544"
+}

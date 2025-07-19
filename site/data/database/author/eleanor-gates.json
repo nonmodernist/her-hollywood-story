@@ -1,0 +1,228 @@
+{
+  "id": 234,
+  "slug": "eleanor-gates",
+  "name": "Eleanor Gates",
+  "birth_year": 1875,
+  "death_year": 1951,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American playwright (1875-1951). Born in Shakopee. Died in Los Angeles. Occupations: playwright, writer. Notable works: Good-Night (Buenas Noches)",
+  "author_notes": null,
+  "wikidata_id": "Q3721233",
+  "stats": {
+    "total_films": 6,
+    "works_adapted": 5,
+    "first_adaptation": 1914,
+    "last_adaptation": 1936,
+    "year_span": 22,
+    "top_genres": [
+      {
+        "genre": "Western",
+        "count": 3
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 3
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Show business",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 3,
+      "1920": 1,
+      "1930": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 594,
+      "slug": "doc-1914",
+      "title": "Doc",
+      "html_title": "<span class=\"film-title\">Doc</span>",
+      "year": 1914,
+      "studio": "The Eleanor Gates Photo-Play Company|Bosburn Photo Play",
+      "directors": "Richard Garrick",
+      "genres": [
+        "Western"
+      ],
+      "has_media": true,
+      "work_title": "Doc",
+      "work_html_title": "<span class=\"work-title\">Doc</span>",
+      "work_id": 521
+    },
+    {
+      "id": 595,
+      "slug": "the-plow-woman-1917",
+      "title": "The Plow Woman",
+      "html_title": "<span class=\"film-title\">The Plow Woman</span>",
+      "year": 1917,
+      "studio": "Universal",
+      "directors": "Charles Swickard",
+      "genres": [
+        "Melodrama",
+        "Western"
+      ],
+      "has_media": true,
+      "work_title": "The Plow Woman",
+      "work_html_title": "<span class=\"work-title\">The Plow Woman</span>",
+      "work_id": 522
+    },
+    {
+      "id": 596,
+      "slug": "the-poor-little-rich-girl-1917",
+      "title": "The Poor Little Rich Girl",
+      "html_title": "<span class=\"film-title\">The Poor Little Rich Girl</span>",
+      "year": 1917,
+      "studio": "Artcraft",
+      "directors": "Maurice Tourneur",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "The Poor Little Rich Girl",
+      "work_html_title": "<span class=\"work-title\">The Poor Little Rich Girl</span>",
+      "work_id": 523
+    },
+    {
+      "id": 593,
+      "slug": "cupid-the-cowpuncher-1920",
+      "title": "Cupid, the Cowpuncher",
+      "html_title": "<span class=\"film-title\">Cupid, the Cowpuncher</span>",
+      "year": 1920,
+      "studio": "Goldwyn Pictures",
+      "directors": "Clarence G. Badger",
+      "genres": [
+        "Comedy",
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "Cupid: The Cow-Punch",
+      "work_html_title": "<span class=\"work-title\">Cupid: The Cow-Punch</span>",
+      "work_id": 520
+    },
+    {
+      "id": 598,
+      "slug": "once-to-every-bachelor-1934",
+      "title": "Once to Every Bachelor",
+      "html_title": "<span class=\"film-title\">Once to Every Bachelor</span>",
+      "year": 1934,
+      "studio": "Liberty Pictures",
+      "directors": "William Nigh",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "Search for the Spring",
+      "work_html_title": "<span class=\"work-title\">Search for the Spring</span>",
+      "work_id": 524
+    },
+    {
+      "id": 597,
+      "slug": "poor-little-rich-girl-1936",
+      "title": "Poor Little Rich Girl",
+      "html_title": "<span class=\"film-title\">Poor Little Rich Girl</span>",
+      "year": 1936,
+      "studio": "20th Century Fox",
+      "directors": "Irving Cummings",
+      "genres": [
+        "Comedy-drama",
+        "Show business",
+        "Youth"
+      ],
+      "has_media": false,
+      "work_title": "The Poor Little Rich Girl",
+      "work_html_title": "<span class=\"work-title\">The Poor Little Rich Girl</span>",
+      "work_id": 523
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 523,
+      "slug": "the-poor-little-rich-girl",
+      "title": "The Poor Little Rich Girl",
+      "formatted_title": "The Poor Little Rich Girl",
+      "html_title": "<span class=\"work-title\">The Poor Little Rich Girl</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 521,
+      "slug": "doc",
+      "title": "Doc",
+      "formatted_title": "Doc",
+      "html_title": "<span class=\"work-title\">Doc</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 522,
+      "slug": "the-plow-woman",
+      "title": "The Plow Woman",
+      "formatted_title": "The Plow Woman",
+      "html_title": "<span class=\"work-title\">The Plow Woman</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 520,
+      "slug": "cupid-the-cow-punch",
+      "title": "Cupid: The Cow-Punch",
+      "formatted_title": "Cupid: The Cow-Punch",
+      "html_title": "<span class=\"work-title\">Cupid: The Cow-Punch</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 524,
+      "slug": "search-for-the-spring",
+      "title": "Search for the Spring",
+      "formatted_title": "Search for the Spring",
+      "html_title": "<span class=\"work-title\">Search for the Spring</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 523,
+    "slug": "the-poor-little-rich-girl",
+    "title": "The Poor Little Rich Girl",
+    "formatted_title": "The Poor Little Rich Girl",
+    "html_title": "<span class=\"work-title\">The Poor Little Rich Girl</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-04T03:29:15.725098"
+}

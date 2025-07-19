@@ -1,0 +1,78 @@
+{
+  "id": 132,
+  "slug": "beta-breuil",
+  "name": "Beta Breuil",
+  "birth_year": 1876,
+  "death_year": null,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "script editor and screenwriter. Born in New York City. Occupations: film producer, film editor, screenwriter, film director",
+  "author_notes": "pseud of Elizabeth Donner Vanderveer",
+  "wikidata_id": "Q28047982",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1918,
+    "last_adaptation": 1918,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 392,
+      "slug": "when-a-woman-sins-1918",
+      "title": "When a Woman Sins",
+      "html_title": "<span class=\"film-title\">When a Woman Sins</span>",
+      "year": 1918,
+      "studio": "Fox Film",
+      "directors": "J. Gordon Edwards",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Message of the Lilies",
+      "work_html_title": "<span class=\"work-title\">The Message of the Lilies</span>",
+      "work_id": 329
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 329,
+      "slug": "the-message-of-the-lilies",
+      "title": "The Message of the Lilies",
+      "formatted_title": "The Message of the Lilies",
+      "html_title": "<span class=\"work-title\">The Message of the Lilies</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 329,
+    "slug": "the-message-of-the-lilies",
+    "title": "The Message of the Lilies",
+    "formatted_title": "The Message of the Lilies",
+    "html_title": "<span class=\"work-title\">The Message of the Lilies</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:01.555387"
+}

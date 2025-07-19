@@ -1,0 +1,322 @@
+{
+  "id": 38,
+  "slug": "sophie-kerr",
+  "name": "Sophie Kerr",
+  "birth_year": 1880,
+  "death_year": 1965,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1880–1965). Occupations: poet, novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q7563023",
+  "stats": {
+    "total_films": 9,
+    "works_adapted": 9,
+    "first_adaptation": 1916,
+    "last_adaptation": 1935,
+    "year_span": 19,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 3
+      },
+      {
+        "genre": "Domestic",
+        "count": 3
+      },
+      {
+        "genre": "Melodrama",
+        "count": 2
+      },
+      {
+        "genre": "Comedy",
+        "count": 2
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2,
+      "1920": 5,
+      "1930": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 704,
+      "slug": "the-blue-envelope-mystery-1916",
+      "title": "The Blue Envelope Mystery",
+      "html_title": "<span class=\"film-title\">The Blue Envelope Mystery</span>",
+      "year": 1916,
+      "studio": "Vitagraph",
+      "directors": "Wilfrid North",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "The Blue Envelope",
+      "work_html_title": "<span class=\"work-title\">The Blue Envelope</span>",
+      "work_id": 620
+    },
+    {
+      "id": 708,
+      "slug": "the-invisible-bond-1919",
+      "title": "The Invisible Bond",
+      "html_title": "<span class=\"film-title\">The Invisible Bond</span>",
+      "year": 1919,
+      "studio": "Famous Players-Lasky",
+      "directors": "Charles Maigne",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The See-Saw: a Story of Today",
+      "work_html_title": "<span class=\"work-title\">The See-Saw: a Story of Today</span>",
+      "work_id": 624
+    },
+    {
+      "id": 709,
+      "slug": "fickle-women-1920",
+      "title": "Fickle Women",
+      "html_title": "<span class=\"film-title\">Fickle Women</span>",
+      "year": 1920,
+      "studio": "D. N. Schwab Productions",
+      "directors": "Frederick J. Butler|Hugh McClung",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Sitting on the World",
+      "work_html_title": "<span class=\"work-title\">Sitting on the World</span>",
+      "work_id": 625
+    },
+    {
+      "id": 710,
+      "slug": "the-house-that-jazz-built-1921",
+      "title": "The House That Jazz Built",
+      "html_title": "<span class=\"film-title\">The House That Jazz Built</span>",
+      "year": 1921,
+      "studio": "Realart ",
+      "directors": "Penrhyn Stanlaws",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Sweetie Peach",
+      "work_html_title": "<span class=\"work-title\">Sweetie Peach</span>",
+      "work_id": 626
+    },
+    {
+      "id": 93,
+      "slug": "beautys-worth-1922",
+      "title": "Beauty's Worth",
+      "html_title": "<span class=\"film-title\">Beauty's Worth</span>",
+      "year": 1922,
+      "studio": "Cosmopolitan",
+      "directors": "Robert G. Vignola",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "\"Beauty's Worth\"",
+      "work_html_title": "<span class=\"work-title\">\"Beauty's Worth\"</span>",
+      "work_id": 89
+    },
+    {
+      "id": 711,
+      "slug": "worldly-goods-1924",
+      "title": "Worldly Goods",
+      "html_title": "<span class=\"film-title\">Worldly Goods</span>",
+      "year": 1924,
+      "studio": "Famous Players-Lasky",
+      "directors": "Paul Bern",
+      "genres": [
+        "Comedy-drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Worldly Goods",
+      "work_html_title": "<span class=\"work-title\">Worldly Goods</span>",
+      "work_id": 627
+    },
+    {
+      "id": 707,
+      "slug": "young-ideas-1924",
+      "title": "Young Ideas",
+      "html_title": "<span class=\"film-title\">Young Ideas</span>",
+      "year": 1924,
+      "studio": "Universal",
+      "directors": "Robert F. Hill",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "Relative Values",
+      "work_html_title": "<span class=\"work-title\">Relative Values</span>",
+      "work_id": 623
+    },
+    {
+      "id": 706,
+      "slug": "mareea-maria-1930",
+      "title": "Mareea Maria",
+      "html_title": "<span class=\"film-title\">Mareea Maria</span>",
+      "year": 1930,
+      "studio": "Tiffany Pictures",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "Mareea Maria",
+      "work_html_title": "<span class=\"work-title\">Mareea Maria</span>",
+      "work_id": 622
+    },
+    {
+      "id": 705,
+      "slug": "people-will-talk-1935",
+      "title": "People Will Talk",
+      "html_title": "<span class=\"film-title\">People Will Talk</span>",
+      "year": 1935,
+      "studio": "Paramount",
+      "directors": "Alfred Santell",
+      "genres": [
+        "Comedy",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Kayo, Oke",
+      "work_html_title": "<span class=\"work-title\">Kayo, Oke</span>",
+      "work_id": 621
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 620,
+      "slug": "the-blue-envelope",
+      "title": "The Blue Envelope",
+      "formatted_title": "The Blue Envelope",
+      "html_title": "<span class=\"work-title\">The Blue Envelope</span>",
+      "work_type": "novel",
+      "publication_year": 1916,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 624,
+      "slug": "the-see-saw-a-story-of-today",
+      "title": "The See-Saw: a Story of Today",
+      "formatted_title": "The See-Saw: a Story of Today",
+      "html_title": "<span class=\"work-title\">The See-Saw: a Story of Today</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 625,
+      "slug": "sitting-on-the-world",
+      "title": "Sitting on the World",
+      "formatted_title": "Sitting on the World",
+      "html_title": "<span class=\"work-title\">Sitting on the World</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 626,
+      "slug": "sweetie-peach",
+      "title": "Sweetie Peach",
+      "formatted_title": "Sweetie Peach",
+      "html_title": "<span class=\"work-title\">Sweetie Peach</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 89,
+      "slug": "beautys-worth",
+      "title": "\"Beauty's Worth\"",
+      "formatted_title": "\"Beauty's Worth\"",
+      "html_title": "<span class=\"work-title\">\"Beauty's Worth\"</span>",
+      "work_type": "novel",
+      "publication_year": 1920,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 627,
+      "slug": "worldly-goods",
+      "title": "Worldly Goods",
+      "formatted_title": "Worldly Goods",
+      "html_title": "<span class=\"work-title\">Worldly Goods</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 623,
+      "slug": "relative-values",
+      "title": "Relative Values",
+      "formatted_title": "Relative Values",
+      "html_title": "<span class=\"work-title\">Relative Values</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 622,
+      "slug": "mareea-maria",
+      "title": "Mareea Maria",
+      "formatted_title": "Mareea Maria",
+      "html_title": "<span class=\"work-title\">Mareea Maria</span>",
+      "work_type": "novel",
+      "publication_year": 1929,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 621,
+      "slug": "kayo-oke",
+      "title": "Kayo, Oke",
+      "formatted_title": "Kayo, Oke",
+      "html_title": "<span class=\"work-title\">Kayo, Oke</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 620,
+    "slug": "the-blue-envelope",
+    "title": "The Blue Envelope",
+    "formatted_title": "The Blue Envelope",
+    "html_title": "<span class=\"work-title\">The Blue Envelope</span>",
+    "work_type": "novel",
+    "publication_year": 1916,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:19.550342"
+}

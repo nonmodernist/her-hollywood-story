@@ -1,0 +1,83 @@
+{
+  "id": 99,
+  "slug": "emily-dunning-barringer",
+  "name": "Emily Dunning Barringer",
+  "birth_year": 1876,
+  "death_year": 1961,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1952,
+    "last_adaptation": 1952,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Medical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 319,
+      "slug": "the-girl-in-white-1952",
+      "title": "The Girl in White",
+      "html_title": "<span class=\"film-title\">The Girl in White</span>",
+      "year": 1952,
+      "studio": "MGM",
+      "directors": "John Sturges",
+      "genres": [
+        "Drama",
+        "Medical"
+      ],
+      "has_media": false,
+      "work_title": "Bowery to Bellvue",
+      "work_html_title": "<span class=\"work-title\">Bowery to Bellvue</span>",
+      "work_id": 267
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 267,
+      "slug": "bowery-to-bellvue",
+      "title": "Bowery to Bellvue",
+      "formatted_title": "Bowery to Bellvue",
+      "html_title": "<span class=\"work-title\">Bowery to Bellvue</span>",
+      "work_type": "novel",
+      "publication_year": 1950,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 267,
+    "slug": "bowery-to-bellvue",
+    "title": "Bowery to Bellvue",
+    "formatted_title": "Bowery to Bellvue",
+    "html_title": "<span class=\"work-title\">Bowery to Bellvue</span>",
+    "work_type": "novel",
+    "publication_year": 1950,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T22:05:32.804088"
+}

@@ -1,0 +1,83 @@
+{
+  "id": 179,
+  "slug": "lucy-herndon-crockett",
+  "name": "Lucy Herndon Crockett",
+  "birth_year": 1914,
+  "death_year": 2002,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American novelist. Occupations: novelist",
+  "author_notes": null,
+  "wikidata_id": "Q40142472",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1956,
+    "last_adaptation": 1956,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "World War II",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 482,
+      "slug": "the-proud-and-profane-1956",
+      "title": "The Proud and Profane",
+      "html_title": "<span class=\"film-title\">The Proud and Profane</span>",
+      "year": 1956,
+      "studio": "Paramount",
+      "directors": "George Seaton",
+      "genres": [
+        "Melodrama",
+        "World War II"
+      ],
+      "has_media": false,
+      "work_title": "The Magnificent Bastards",
+      "work_html_title": "<span class=\"work-title\">The Magnificent Bastards</span>",
+      "work_id": 414
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 414,
+      "slug": "the-magnificent-bastards",
+      "title": "The Magnificent Bastards",
+      "formatted_title": "The Magnificent Bastards",
+      "html_title": "<span class=\"work-title\">The Magnificent Bastards</span>",
+      "work_type": "novel",
+      "publication_year": 1954,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 414,
+    "slug": "the-magnificent-bastards",
+    "title": "The Magnificent Bastards",
+    "formatted_title": "The Magnificent Bastards",
+    "html_title": "<span class=\"work-title\">The Magnificent Bastards</span>",
+    "work_type": "novel",
+    "publication_year": 1954,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:54:00.928305"
+}

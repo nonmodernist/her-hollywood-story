@@ -1,0 +1,81 @@
+{
+  "id": 373,
+  "slug": "nobodys-bride",
+  "title": "Nobody's Bride",
+  "formatted_title": "Nobody's Bride",
+  "html_title": "<span class=\"work-title\">Nobody's Bride</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 41,
+    "slug": "evelyn-campbell",
+    "name": "Evelyn Campbell",
+    "birth_year": 1874,
+    "death_year": 1961,
+    "film_count": 7
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 5,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 5
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 441,
+      "slug": "which-woman-1918",
+      "title": "Which Woman?",
+      "html_title": "<span class=\"film-title\">Which Woman?</span>",
+      "year": 1918,
+      "studio": "Bluebird Photoplays",
+      "directors": "Tod Browning|Harry Pollard",
+      "genres": [
+        "Comedy-drama",
+        "Crime"
+      ],
+      "has_media": false,
+      "years_after_publication": 1918
+    },
+    {
+      "id": 442,
+      "slug": "nobodys-bride-1923",
+      "title": "Nobody's Bride",
+      "html_title": "<span class=\"film-title\">Nobody's Bride</span>",
+      "year": 1923,
+      "studio": "Universal",
+      "directors": "Herbert Blaché",
+      "genres": [
+        "Melodrama",
+        "Crime"
+      ],
+      "has_media": true,
+      "years_after_publication": 1923
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1918,
+      "to_year": 1923,
+      "gap_years": 5
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-19T17:59:57.574093"
+}

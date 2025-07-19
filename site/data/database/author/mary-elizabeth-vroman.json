@@ -1,0 +1,88 @@
+{
+  "id": 100,
+  "slug": "mary-elizabeth-vroman",
+  "name": "Mary Elizabeth Vroman",
+  "birth_year": 1924,
+  "death_year": 1967,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "1924-1967 American writer and schoolteacher. Born in Buffalo. Died in New York City. Occupations: teacher, writer",
+  "author_notes": null,
+  "wikidata_id": "Q20737799",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1953,
+    "last_adaptation": 1953,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "African American",
+        "count": 1
+      },
+      {
+        "genre": "Youth",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 323,
+      "slug": "bright-road-1953",
+      "title": "Bright Road",
+      "html_title": "<span class=\"film-title\">Bright Road</span>",
+      "year": 1953,
+      "studio": "MGM",
+      "directors": "Gerald Mayer",
+      "genres": [
+        "Drama",
+        "African American",
+        "Youth"
+      ],
+      "has_media": false,
+      "work_title": "See How They Run",
+      "work_html_title": "<span class=\"work-title\">See How They Run</span>",
+      "work_id": 269
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 269,
+      "slug": "see-how-they-run",
+      "title": "See How They Run",
+      "formatted_title": "See How They Run",
+      "html_title": "<span class=\"work-title\">See How They Run</span>",
+      "work_type": "novel",
+      "publication_year": 1951,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 269,
+    "slug": "see-how-they-run",
+    "title": "See How They Run",
+    "formatted_title": "See How They Run",
+    "html_title": "<span class=\"work-title\">See How They Run</span>",
+    "work_type": "novel",
+    "publication_year": 1951,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:39.63225"
+}

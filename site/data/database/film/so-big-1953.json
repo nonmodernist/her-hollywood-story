@@ -1,0 +1,79 @@
+{
+  "id": 321,
+  "slug": "so-big-1953",
+  "title": "So Big",
+  "formatted_title": "So Big",
+  "html_title": "<span class=\"film-title\">So Big</span>",
+  "release_year": 1953,
+  "runtime_minutes": 101,
+  "country_of_production": "United States",
+  "genres": [
+    "Drama",
+    "Historical",
+    "Rural"
+  ],
+  "studio": "Warner Bros",
+  "production_companies": "Warner Bros. Pictures, Inc.",
+  "distribution_companies": "Warner Bros. Pictures, Inc.",
+  "directors": "Robert Wise",
+  "writers": "John Twist",
+  "cast_members": "Jane Wyman|Sterling Hayden|Nancy Olson|Steve Forrest|Elisabeth Fraser|Martha Hyer|Walter Coy|Richard Beymer|Tommy Rettig|Roland Winters",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 53422,
+  "source_work": {
+    "id": 100,
+    "slug": "so-big",
+    "title": "So Big",
+    "formatted_title": "So Big",
+    "html_title": "<span class=\"work-title\">So Big</span>",
+    "work_type": "novel",
+    "publication_year": 1924,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 3,
+    "year_to_adaptation": 29
+  },
+  "author": {
+    "id": 40,
+    "slug": "edna-ferber",
+    "name": "Edna Ferber",
+    "birth_year": 1885,
+    "death_year": 1968,
+    "nationality": "United States",
+    "film_count": 24
+  },
+  "other_adaptations": [
+    {
+      "id": 105,
+      "slug": "so-big-1924",
+      "title": "So Big",
+      "html_title": "<span class=\"film-title\">So Big</span>",
+      "year": 1924,
+      "directors": "Charles Brabin",
+      "studio": "First National"
+    },
+    {
+      "id": 196,
+      "slug": "so-big-1932",
+      "title": "So Big",
+      "html_title": "<span class=\"film-title\">So Big</span>",
+      "year": 1932,
+      "directors": "William A. Wellman",
+      "studio": "Warner Bros"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 3,
+    "adaptation_number": 3,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

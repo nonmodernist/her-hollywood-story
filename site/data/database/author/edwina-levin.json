@@ -1,0 +1,171 @@
+{
+  "id": 321,
+  "slug": "edwina-levin",
+  "name": "Edwina LeVin",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "screenwriter in the silent film era. Occupations: screenwriter",
+  "author_notes": "aka Edwina Levin MacDonald",
+  "wikidata_id": "Q118188067",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 4,
+    "first_adaptation": 1919,
+    "last_adaptation": 1921,
+    "year_span": 2,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 2
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1920": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 743,
+      "slug": "happiness-la-mode-1919",
+      "title": "Happiness À La Mode",
+      "html_title": "<span class=\"film-title\">Happiness À La Mode</span>",
+      "year": 1919,
+      "studio": "Select Pictures",
+      "directors": "Walter Edwards",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "Happiness a La Mode",
+      "work_html_title": "<span class=\"work-title\">Happiness a La Mode</span>",
+      "work_id": 658
+    },
+    {
+      "id": 744,
+      "slug": "help-wanted-xxx-male-1920",
+      "title": "Help Wanted -Xxx  Male",
+      "html_title": "<span class=\"film-title\">Help Wanted -Xxx  Male</span>",
+      "year": 1920,
+      "studio": "Jesse D. Hampton Productions",
+      "directors": "Henry King",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "Leona Goes A-Hunting",
+      "work_html_title": "<span class=\"work-title\">Leona Goes A-Hunting</span>",
+      "work_id": 659
+    },
+    {
+      "id": 741,
+      "slug": "the-devils-riddle-1920",
+      "title": "The Devil's Riddle",
+      "html_title": "<span class=\"film-title\">The Devil's Riddle</span>",
+      "year": 1920,
+      "studio": "Fox Film",
+      "directors": "Frank Beal",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Devil's Riddle",
+      "work_html_title": "<span class=\"work-title\">The Devil's Riddle</span>",
+      "work_id": 656
+    },
+    {
+      "id": 742,
+      "slug": "reputation-1921",
+      "title": "Reputation",
+      "html_title": "<span class=\"film-title\">Reputation</span>",
+      "year": 1921,
+      "studio": "Universal",
+      "directors": "Stuart Paton",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "False Gods",
+      "work_html_title": "<span class=\"work-title\">False Gods</span>",
+      "work_id": 657
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 658,
+      "slug": "happiness-a-la-mode",
+      "title": "Happiness a La Mode",
+      "formatted_title": "Happiness a La Mode",
+      "html_title": "<span class=\"work-title\">Happiness a La Mode</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 659,
+      "slug": "leona-goes-a-hunting",
+      "title": "Leona Goes A-Hunting",
+      "formatted_title": "Leona Goes A-Hunting",
+      "html_title": "<span class=\"work-title\">Leona Goes A-Hunting</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 656,
+      "slug": "the-devils-riddle",
+      "title": "The Devil's Riddle",
+      "formatted_title": "The Devil's Riddle",
+      "html_title": "<span class=\"work-title\">The Devil's Riddle</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 657,
+      "slug": "false-gods",
+      "title": "False Gods",
+      "formatted_title": "False Gods",
+      "html_title": "<span class=\"work-title\">False Gods</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 658,
+    "slug": "happiness-a-la-mode",
+    "title": "Happiness a La Mode",
+    "formatted_title": "Happiness a La Mode",
+    "html_title": "<span class=\"work-title\">Happiness a La Mode</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:30.755228"
+}

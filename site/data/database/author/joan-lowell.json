@@ -1,0 +1,83 @@
+{
+  "id": 329,
+  "slug": "joan-lowell",
+  "name": "Joan Lowell",
+  "birth_year": 1902,
+  "death_year": 1967,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American actress (1902-1967). Born in California. Died in Brasília. Occupations: writer, film actor, actor",
+  "author_notes": null,
+  "wikidata_id": "Q1690761",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1934,
+    "last_adaptation": 1934,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Adventure",
+        "count": 1
+      },
+      {
+        "genre": "Documentary",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 753,
+      "slug": "adventure-girl-1934",
+      "title": "Adventure Girl",
+      "html_title": "<span class=\"film-title\">Adventure Girl</span>",
+      "year": 1934,
+      "studio": "The Van Beuren Corp",
+      "directors": "Herman Raymaker",
+      "genres": [
+        "Adventure",
+        "Documentary"
+      ],
+      "has_media": false,
+      "work_title": "Adventure Girl",
+      "work_html_title": "<span class=\"work-title\">Adventure Girl</span>",
+      "work_id": 668
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 668,
+      "slug": "adventure-girl",
+      "title": "Adventure Girl",
+      "formatted_title": "Adventure Girl",
+      "html_title": "<span class=\"work-title\">Adventure Girl</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 668,
+    "slug": "adventure-girl",
+    "title": "Adventure Girl",
+    "formatted_title": "Adventure Girl",
+    "html_title": "<span class=\"work-title\">Adventure Girl</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:40.108264"
+}

@@ -1,0 +1,88 @@
+{
+  "id": 251,
+  "slug": "alberta-pierson-hannum",
+  "name": "Alberta Pierson Hannum",
+  "birth_year": 1906,
+  "death_year": 1985,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "writer. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q105375750",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1949,
+    "last_adaptation": 1949,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      },
+      {
+        "genre": "Rural",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 623,
+      "slug": "roseanna-mccoy-1949",
+      "title": "Roseanna McCoy",
+      "html_title": "<span class=\"film-title\">Roseanna McCoy</span>",
+      "year": 1949,
+      "studio": "Samuel Goldwyn Productions",
+      "directors": "Irving Reis|Nicholas Ray",
+      "genres": [
+        "Romance",
+        "Historical",
+        "Rural"
+      ],
+      "has_media": false,
+      "work_title": "Roseanna McCoy",
+      "work_html_title": "<span class=\"work-title\">Roseanna McCoy</span>",
+      "work_id": 546
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 546,
+      "slug": "roseanna-mccoy",
+      "title": "Roseanna McCoy",
+      "formatted_title": "Roseanna McCoy",
+      "html_title": "<span class=\"work-title\">Roseanna McCoy</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 546,
+    "slug": "roseanna-mccoy",
+    "title": "Roseanna McCoy",
+    "formatted_title": "Roseanna McCoy",
+    "html_title": "<span class=\"work-title\">Roseanna McCoy</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:22:59.314213"
+}

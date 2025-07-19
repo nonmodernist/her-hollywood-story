@@ -1,0 +1,178 @@
+{
+  "id": 349,
+  "slug": "helen-reimensnyder-martin",
+  "name": "Helen Reimensnyder Martin",
+  "birth_year": 1868,
+  "death_year": 1939,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1868–1939). Born in Lancaster. Died in New Canaan. Occupations: writer, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q5703041",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 4,
+    "first_adaptation": 1919,
+    "last_adaptation": 1925,
+    "year_span": 6,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 3
+      },
+      {
+        "genre": "Rural",
+        "count": 2
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1920": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 782,
+      "slug": "erstwhile-susan-1919",
+      "title": "Erstwhile Susan",
+      "html_title": "<span class=\"film-title\">Erstwhile Susan</span>",
+      "year": 1919,
+      "studio": "Realart",
+      "directors": "John S. Robertson",
+      "genres": [
+        "Drama",
+        "Rural"
+      ],
+      "has_media": false,
+      "work_title": "Barnabetta",
+      "work_html_title": "<span class=\"work-title\">Barnabetta</span>",
+      "work_id": 696
+    },
+    {
+      "id": 785,
+      "slug": "tillie-1922",
+      "title": "Tillie",
+      "html_title": "<span class=\"film-title\">Tillie</span>",
+      "year": 1922,
+      "studio": "Realart ",
+      "directors": "Frank Urson",
+      "genres": [
+        "Drama",
+        "Rural"
+      ],
+      "has_media": false,
+      "work_title": "Tillie, a Mennonite Maid",
+      "work_html_title": "<span class=\"work-title\">Tillie, a Mennonite Maid</span>",
+      "work_id": 699
+    },
+    {
+      "id": 784,
+      "slug": "the-snob-1924",
+      "title": "The Snob",
+      "html_title": "<span class=\"film-title\">The Snob</span>",
+      "year": 1924,
+      "studio": "MGM",
+      "directors": "Monta Bell",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Snob",
+      "work_html_title": "<span class=\"work-title\">The Snob</span>",
+      "work_id": 698
+    },
+    {
+      "id": 783,
+      "slug": "the-parasite-1925",
+      "title": "The Parasite",
+      "html_title": "<span class=\"film-title\">The Parasite</span>",
+      "year": 1925,
+      "studio": "B. P. Schulberg Productions",
+      "directors": "Louis Gasnier",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "The Parasite",
+      "work_html_title": "<span class=\"work-title\">The Parasite</span>",
+      "work_id": 697
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 696,
+      "slug": "barnabetta",
+      "title": "Barnabetta",
+      "formatted_title": "Barnabetta",
+      "html_title": "<span class=\"work-title\">Barnabetta</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 699,
+      "slug": "tillie-a-mennonite-maid",
+      "title": "Tillie, a Mennonite Maid",
+      "formatted_title": "Tillie, a Mennonite Maid",
+      "html_title": "<span class=\"work-title\">Tillie, a Mennonite Maid</span>",
+      "work_type": "novel",
+      "publication_year": 1904,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 698,
+      "slug": "the-snob",
+      "title": "The Snob",
+      "formatted_title": "The Snob",
+      "html_title": "<span class=\"work-title\">The Snob</span>",
+      "work_type": "novel",
+      "publication_year": 1924,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 697,
+      "slug": "the-parasite",
+      "title": "The Parasite",
+      "formatted_title": "The Parasite",
+      "html_title": "<span class=\"work-title\">The Parasite</span>",
+      "work_type": "novel",
+      "publication_year": 1913,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 696,
+    "slug": "barnabetta",
+    "title": "Barnabetta",
+    "formatted_title": "Barnabetta",
+    "html_title": "<span class=\"work-title\">Barnabetta</span>",
+    "work_type": "novel",
+    "publication_year": 1914,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:57:05.298605"
+}

@@ -1,0 +1,126 @@
+{
+  "id": 253,
+  "slug": "corra-mae-harris",
+  "name": "Corra Mae Harris",
+  "birth_year": 1869,
+  "death_year": 1935,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in Elbert County. Died in Atlanta. Occupations: writer, journalist, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q5172696",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1920,
+    "last_adaptation": 1951,
+    "year_span": 31,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Religious",
+        "count": 1
+      },
+      {
+        "genre": "Rural",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1,
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 627,
+      "slug": "husbands-and-wives-1920",
+      "title": "Husbands and Wives",
+      "html_title": "<span class=\"film-title\">Husbands and Wives</span>",
+      "year": 1920,
+      "studio": "Gaumont",
+      "directors": "Joseph Levering",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Making Her His Wife",
+      "work_html_title": "<span class=\"work-title\">Making Her His Wife</span>",
+      "work_id": 550
+    },
+    {
+      "id": 626,
+      "slug": "id-climb-the-highest-mountain-1951",
+      "title": "I'd Climb the Highest Mountain",
+      "html_title": "<span class=\"film-title\">I'd Climb the Highest Mountain</span>",
+      "year": 1951,
+      "studio": "20th Century Fox",
+      "directors": "Henry King",
+      "genres": [
+        "Comedy-drama",
+        "Religious",
+        "Rural",
+        "with songs"
+      ],
+      "has_media": true,
+      "work_title": "Circuit Rider's Wife",
+      "work_html_title": "<span class=\"work-title\">Circuit Rider's Wife</span>",
+      "work_id": 549
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 550,
+      "slug": "making-her-his-wife",
+      "title": "Making Her His Wife",
+      "formatted_title": "Making Her His Wife",
+      "html_title": "<span class=\"work-title\">Making Her His Wife</span>",
+      "work_type": "novel",
+      "publication_year": 1918,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 549,
+      "slug": "circuit-riders-wife",
+      "title": "Circuit Rider's Wife",
+      "formatted_title": "Circuit Rider's Wife",
+      "html_title": "<span class=\"work-title\">Circuit Rider's Wife</span>",
+      "work_type": "novel",
+      "publication_year": 1911,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 550,
+    "slug": "making-her-his-wife",
+    "title": "Making Her His Wife",
+    "formatted_title": "Making Her His Wife",
+    "html_title": "<span class=\"work-title\">Making Her His Wife</span>",
+    "work_type": "novel",
+    "publication_year": 1918,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:23:02.567744"
+}

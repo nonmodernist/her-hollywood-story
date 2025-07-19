@@ -1,0 +1,110 @@
+{
+  "id": 473,
+  "slug": "edith-sessions-tupper",
+  "name": "Edith Sessions Tupper",
+  "birth_year": 1855,
+  "death_year": 1927,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "Tupper, Edith Katharine Sessions. birth place: -. birth date: 1855-00-00. death date: 1927-00-00.. Born in Panama. Died in Fredonia. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q126900458",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1920,
+    "last_adaptation": 1927,
+    "year_span": 7,
+    "top_genres": [
+      {
+        "genre": "Mystery",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1038,
+      "slug": "the-house-of-the-tolling-bell-1920",
+      "title": "The House of the Tolling Bell",
+      "html_title": "<span class=\"film-title\">The House of the Tolling Bell</span>",
+      "year": 1920,
+      "studio": "J. Stuart Blackton",
+      "directors": "J. Stuart Blackton",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "The House of the Tolling Bell",
+      "work_html_title": "<span class=\"work-title\">The House of the Tolling Bell</span>",
+      "work_id": 931
+    },
+    {
+      "id": 1039,
+      "slug": "wilful-youth-1927",
+      "title": "Wilful Youth",
+      "html_title": "<span class=\"film-title\">Wilful Youth</span>",
+      "year": 1927,
+      "studio": "Dallas M. Fitzgerald Productions",
+      "directors": "Dallas M. Fitzgerald",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Whispering Pines",
+      "work_html_title": "<span class=\"work-title\">Whispering Pines</span>",
+      "work_id": 932
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 931,
+      "slug": "the-house-of-the-tolling-bell",
+      "title": "The House of the Tolling Bell",
+      "formatted_title": "The House of the Tolling Bell",
+      "html_title": "<span class=\"work-title\">The House of the Tolling Bell</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 932,
+      "slug": "whispering-pines",
+      "title": "Whispering Pines",
+      "formatted_title": "Whispering Pines",
+      "html_title": "<span class=\"work-title\">Whispering Pines</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 931,
+    "slug": "the-house-of-the-tolling-bell",
+    "title": "The House of the Tolling Bell",
+    "formatted_title": "The House of the Tolling Bell",
+    "html_title": "<span class=\"work-title\">The House of the Tolling Bell</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T17:50:07.698612"
+}

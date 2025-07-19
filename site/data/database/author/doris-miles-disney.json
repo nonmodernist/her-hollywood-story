@@ -1,0 +1,115 @@
+{
+  "id": 198,
+  "slug": "doris-miles-disney",
+  "name": "Doris Miles Disney",
+  "birth_year": 1907,
+  "death_year": 1976,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American mystery writer (1907-1976). Born in Glastonbury. Died in Fredericksburg. Occupations: writer, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q3037070",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1950,
+    "last_adaptation": 1951,
+    "year_span": 1,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 517,
+      "slug": "stella-1950",
+      "title": "Stella",
+      "html_title": "<span class=\"film-title\">Stella</span>",
+      "year": 1950,
+      "studio": "20th Century Fox",
+      "directors": "Claude Binyon",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "work_title": "Family Skeleton",
+      "work_html_title": "<span class=\"work-title\">Family Skeleton</span>",
+      "work_id": 447
+    },
+    {
+      "id": 518,
+      "slug": "fugitive-lady-1951",
+      "title": "Fugitive Lady",
+      "html_title": "<span class=\"film-title\">Fugitive Lady</span>",
+      "year": 1951,
+      "studio": "Republic",
+      "directors": "Sidney Salkow",
+      "genres": [
+        "Melodrama",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Fugitive Lady",
+      "work_html_title": "<span class=\"work-title\">Fugitive Lady</span>",
+      "work_id": 448
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 447,
+      "slug": "family-skeleton",
+      "title": "Family Skeleton",
+      "formatted_title": "Family Skeleton",
+      "html_title": "<span class=\"work-title\">Family Skeleton</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 448,
+      "slug": "fugitive-lady",
+      "title": "Fugitive Lady",
+      "formatted_title": "Fugitive Lady",
+      "html_title": "<span class=\"work-title\">Fugitive Lady</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 447,
+    "slug": "family-skeleton",
+    "title": "Family Skeleton",
+    "formatted_title": "Family Skeleton",
+    "html_title": "<span class=\"work-title\">Family Skeleton</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T01:12:27.667532"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 305,
+  "slug": "janie",
+  "title": "Janie",
+  "formatted_title": "Janie",
+  "html_title": "<span class=\"work-title\">Janie</span>",
+  "work_type": "novel",
+  "publication_year": 1940,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 116,
+    "slug": "josephine-bentham",
+    "name": "Josephine Bentham",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 4,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 369,
+      "slug": "janie-1944",
+      "title": "Janie",
+      "html_title": "<span class=\"film-title\">Janie</span>",
+      "year": 1944,
+      "studio": "Warner Bros",
+      "directors": "Michael Curtiz",
+      "genres": [
+        "Comedy",
+        "Domestic",
+        "Teenage"
+      ],
+      "has_media": false,
+      "years_after_publication": 4
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T21:02:56.673473"
+}

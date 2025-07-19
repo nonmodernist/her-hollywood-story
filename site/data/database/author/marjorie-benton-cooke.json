@@ -1,0 +1,204 @@
+{
+  "id": 29,
+  "slug": "marjorie-benton-cooke",
+  "name": "Marjorie Benton Cooke",
+  "birth_year": 1876,
+  "death_year": 1920,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American monologist, playwright, novelist (1876-1920). Occupations: suffragist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q18911708",
+  "stats": {
+    "total_films": 5,
+    "works_adapted": 5,
+    "first_adaptation": 1919,
+    "last_adaptation": 1926,
+    "year_span": 7,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Melodrama",
+        "count": 2
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Western",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1920": 4
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 58,
+      "slug": "the-love-call-1919",
+      "title": "The Love Call",
+      "html_title": "<span class=\"film-title\">The Love Call</span>",
+      "year": 1919,
+      "studio": "National Film Corp",
+      "directors": "Louis William Chaudet",
+      "genres": [
+        "Comedy-drama",
+        "Western"
+      ],
+      "has_media": true,
+      "work_title": "\"The Love Call\"",
+      "work_html_title": "<span class=\"work-title\">\"The Love Call\"</span>",
+      "work_id": 55
+    },
+    {
+      "id": 70,
+      "slug": "her-husbands-friend-1920",
+      "title": "Her Husband's Friend",
+      "html_title": "<span class=\"film-title\">Her Husband's Friend</span>",
+      "year": 1920,
+      "studio": "Thoman Ince",
+      "directors": "Fred Niblo",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Incubus",
+      "work_html_title": "<span class=\"work-title\">The Incubus</span>",
+      "work_id": 67
+    },
+    {
+      "id": 69,
+      "slug": "the-little-fraid-lady-1920",
+      "title": "The Little 'Fraid Lady",
+      "html_title": "<span class=\"film-title\">The Little 'Fraid Lady</span>",
+      "year": 1920,
+      "studio": "Robertson-Cole",
+      "directors": "John G. Adolfi",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Girl Who Lived in the Woods",
+      "work_html_title": "<span class=\"work-title\">The Girl Who Lived in the Woods</span>",
+      "work_id": 66
+    },
+    {
+      "id": 82,
+      "slug": "the-mad-marriage-1921",
+      "title": "The Mad Marriage",
+      "html_title": "<span class=\"film-title\">The Mad Marriage</span>",
+      "year": 1921,
+      "studio": "Universal",
+      "directors": "Rollin Sturgeon",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "Cinderella Jane",
+      "work_html_title": "<span class=\"work-title\">Cinderella Jane</span>",
+      "work_id": 79
+    },
+    {
+      "id": 134,
+      "slug": "married-1926",
+      "title": "Married?",
+      "html_title": "<span class=\"film-title\">Married?</span>",
+      "year": 1926,
+      "studio": "Jans Productions",
+      "directors": "George Terwilliger",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Married?",
+      "work_html_title": "<span class=\"work-title\">Married?</span>",
+      "work_id": 128
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 55,
+      "slug": "the-love-call",
+      "title": "\"The Love Call\"",
+      "formatted_title": "\"The Love Call\"",
+      "html_title": "<span class=\"work-title\">\"The Love Call\"</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 67,
+      "slug": "the-incubus",
+      "title": "The Incubus",
+      "formatted_title": "The Incubus",
+      "html_title": "<span class=\"work-title\">The Incubus</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 66,
+      "slug": "the-girl-who-lived-in-the-woods",
+      "title": "The Girl Who Lived in the Woods",
+      "formatted_title": "The Girl Who Lived in the Woods",
+      "html_title": "<span class=\"work-title\">The Girl Who Lived in the Woods</span>",
+      "work_type": "novel",
+      "publication_year": 1910,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 79,
+      "slug": "cinderella-jane",
+      "title": "Cinderella Jane",
+      "formatted_title": "Cinderella Jane",
+      "html_title": "<span class=\"work-title\">Cinderella Jane</span>",
+      "work_type": "novel",
+      "publication_year": 1917,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 128,
+      "slug": "married",
+      "title": "Married?",
+      "formatted_title": "Married?",
+      "html_title": "<span class=\"work-title\">Married?</span>",
+      "work_type": "novel",
+      "publication_year": 1926,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 55,
+    "slug": "the-love-call",
+    "title": "\"The Love Call\"",
+    "formatted_title": "\"The Love Call\"",
+    "html_title": "<span class=\"work-title\">\"The Love Call\"</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:07.703851"
+}

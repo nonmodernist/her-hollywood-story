@@ -1,0 +1,150 @@
+{
+  "id": 241,
+  "slug": "mildred-nixon-gordon",
+  "name": "Mildred Nixon Gordon",
+  "birth_year": 1905,
+  "death_year": 1979,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "writer (1912-1979). Born in Kansas. Died in Tucson. Occupations: novelist, magazine editor, writer",
+  "author_notes": null,
+  "wikidata_id": "Q28658703",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1954,
+    "last_adaptation": 1962,
+    "year_span": 8,
+    "top_genres": [
+      {
+        "genre": "Crime",
+        "count": 2
+      },
+      {
+        "genre": "Melodrama",
+        "count": 2
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Suspense",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 2,
+      "1960": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 606,
+      "slug": "down-three-dark-streets-1954",
+      "title": "Down Three Dark Streets",
+      "html_title": "<span class=\"film-title\">Down Three Dark Streets</span>",
+      "year": 1954,
+      "studio": "Challenge Pictures",
+      "directors": "Arnold Laven",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "has_media": false,
+      "work_title": "Case File: FBI",
+      "work_html_title": "<span class=\"work-title\">Case File: FBI</span>",
+      "work_id": 530
+    },
+    {
+      "id": 607,
+      "slug": "make-haste-to-live-1954",
+      "title": "Make Haste to Live",
+      "html_title": "<span class=\"film-title\">Make Haste to Live</span>",
+      "year": 1954,
+      "studio": "Republic",
+      "directors": "William A. Seiter",
+      "genres": [
+        "Melodrama",
+        "Suspense"
+      ],
+      "has_media": true,
+      "work_title": "Make Haste to Live",
+      "work_html_title": "<span class=\"work-title\">Make Haste to Live</span>",
+      "work_id": 531
+    },
+    {
+      "id": 608,
+      "slug": "experiment-in-terror-1962",
+      "title": "Experiment in Terror",
+      "html_title": "<span class=\"film-title\">Experiment in Terror</span>",
+      "year": 1962,
+      "studio": "Geoffrey--Kate Productions",
+      "directors": "Blake Edwards",
+      "genres": [
+        "Melodrama",
+        "Crime"
+      ],
+      "has_media": true,
+      "work_title": "Operation Terror",
+      "work_html_title": "<span class=\"work-title\">Operation Terror</span>",
+      "work_id": 532
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 530,
+      "slug": "case-file-fbi",
+      "title": "Case File: FBI",
+      "formatted_title": "Case File: FBI",
+      "html_title": "<span class=\"work-title\">Case File: FBI</span>",
+      "work_type": "novel",
+      "publication_year": 1953,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 531,
+      "slug": "make-haste-to-live",
+      "title": "Make Haste to Live",
+      "formatted_title": "Make Haste to Live",
+      "html_title": "<span class=\"work-title\">Make Haste to Live</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 532,
+      "slug": "operation-terror",
+      "title": "Operation Terror",
+      "formatted_title": "Operation Terror",
+      "html_title": "<span class=\"work-title\">Operation Terror</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 530,
+    "slug": "case-file-fbi",
+    "title": "Case File: FBI",
+    "formatted_title": "Case File: FBI",
+    "html_title": "<span class=\"work-title\">Case File: FBI</span>",
+    "work_type": "novel",
+    "publication_year": 1953,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-04T03:29:20.70611"
+}

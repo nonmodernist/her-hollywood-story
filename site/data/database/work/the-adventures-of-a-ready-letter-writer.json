@@ -1,0 +1,80 @@
+{
+  "id": 321,
+  "slug": "the-adventures-of-a-ready-letter-writer",
+  "title": "The Adventures of a Ready Letter Writer",
+  "formatted_title": "The Adventures of a Ready Letter Writer",
+  "html_title": "<span class=\"work-title\">The Adventures of a Ready Letter Writer</span>",
+  "work_type": "novel",
+  "publication_year": 1920,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 128,
+    "slug": "blanche-brace",
+    "name": "Blanche Brace",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 23,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 23
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 383,
+      "slug": "dont-write-letters-1922",
+      "title": "Don't Write Letters",
+      "html_title": "<span class=\"film-title\">Don't Write Letters</span>",
+      "year": 1922,
+      "studio": "Metro Pictures",
+      "directors": "George D. Baker",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 2
+    },
+    {
+      "id": 384,
+      "slug": "a-letter-for-evie-1945",
+      "title": "A Letter for Evie",
+      "html_title": "<span class=\"film-title\">A Letter for Evie</span>",
+      "year": 1945,
+      "studio": "MGM",
+      "directors": "Jules Dassin",
+      "genres": [
+        "Comedy-drama",
+        "Homefront"
+      ],
+      "has_media": false,
+      "years_after_publication": 25
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1922,
+      "to_year": 1945,
+      "gap_years": 23
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T23:53:16.2832"
+}

@@ -1,0 +1,106 @@
+{
+  "id": 274,
+  "slug": "eleanor-marie-ingram",
+  "name": "Eleanor Marie Ingram",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1915,
+    "last_adaptation": 1917,
+    "year_span": 2,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 660,
+      "slug": "the-unafraid-1915",
+      "title": "The Unafraid",
+      "html_title": "<span class=\"film-title\">The Unafraid</span>",
+      "year": 1915,
+      "studio": "Jesse Lasky",
+      "directors": "Cecil B. DeMille",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Unafraid",
+      "work_html_title": "<span class=\"work-title\">The Unafraid</span>",
+      "work_id": 578
+    },
+    {
+      "id": 659,
+      "slug": "little-shoes-1917",
+      "title": "Little Shoes",
+      "html_title": "<span class=\"film-title\">Little Shoes</span>",
+      "year": 1917,
+      "studio": "Essanay Film",
+      "directors": "Arthur Berthelet",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The House of Little Shoes",
+      "work_html_title": "<span class=\"work-title\">The House of Little Shoes</span>",
+      "work_id": 577
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 578,
+      "slug": "the-unafraid",
+      "title": "The Unafraid",
+      "formatted_title": "The Unafraid",
+      "html_title": "<span class=\"work-title\">The Unafraid</span>",
+      "work_type": "novel",
+      "publication_year": 1913,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 577,
+      "slug": "the-house-of-little-shoes",
+      "title": "The House of Little Shoes",
+      "formatted_title": "The House of Little Shoes",
+      "html_title": "<span class=\"work-title\">The House of Little Shoes</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 578,
+    "slug": "the-unafraid",
+    "title": "The Unafraid",
+    "formatted_title": "The Unafraid",
+    "html_title": "<span class=\"work-title\">The Unafraid</span>",
+    "work_type": "novel",
+    "publication_year": 1913,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-06T14:38:37.419857"
+}

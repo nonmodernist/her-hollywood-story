@@ -1,0 +1,101 @@
+{
+  "id": 54,
+  "slug": "mrs-wiggs-of-the-cabbage-patch-1919",
+  "title": "Mrs. Wiggs of the Cabbage Patch",
+  "formatted_title": "Mrs. Wiggs of the Cabbage Patch",
+  "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+  "release_year": 1919,
+  "runtime_minutes": 59,
+  "country_of_production": "United States",
+  "genres": [
+    "Comedy",
+    "Social"
+  ],
+  "studio": "Famous Players-Lasky",
+  "production_companies": "Famous Players-Lasky Corp.",
+  "distribution_companies": "Famous Players-Lasky Corp.; Paramount Pictures",
+  "directors": "Hugh Ford",
+  "writers": "Eve Unsell",
+  "cast_members": "Marguerite Clark|Mary Carr|Vivia Ogden|Gladys Valerie|Gareth Hughes|Jack MacLean|Robert Milash|Maud Hosford|Mary Davis|Anita Brown",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 18124,
+  "source_work": {
+    "id": 6,
+    "slug": "mrs-wiggs-of-the-cabbage-patch",
+    "title": "Mrs. Wiggs of the Cabbage Patch",
+    "formatted_title": "Mrs. Wiggs of the Cabbage Patch",
+    "html_title": "<span class=\"work-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+    "work_type": "novel",
+    "publication_year": 1901,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 4,
+    "year_to_adaptation": 18
+  },
+  "author": {
+    "id": 5,
+    "slug": "alice-hegan-rice",
+    "name": "Alice Hegan Rice",
+    "birth_year": 1870,
+    "death_year": 1942,
+    "nationality": "United States",
+    "film_count": 9
+  },
+  "other_adaptations": [
+    {
+      "id": 6,
+      "slug": "mrs-wiggs-of-the-cabbage-patch-1914",
+      "title": "Mrs. Wiggs of the Cabbage Patch",
+      "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+      "year": 1914,
+      "directors": "Harold Entwhistle",
+      "studio": "California Motion Picture Corp"
+    },
+    {
+      "id": 216,
+      "slug": "mrs-wiggs-of-the-cabbage-patch-1934",
+      "title": "Mrs. Wiggs of the Cabbage Patch",
+      "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+      "year": 1934,
+      "directors": "Norman Taurog",
+      "studio": "Paramount"
+    },
+    {
+      "id": 266,
+      "slug": "mrs-wiggs-of-the-cabbage-patch-1942",
+      "title": "Mrs. Wiggs of the Cabbage Patch",
+      "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+      "year": 1942,
+      "directors": "Ralph Murphy",
+      "studio": "Paramount"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 4,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": false
+  },
+  "media": [
+    {
+      "id": 109,
+      "media_type": "still",
+      "title": "A scene from \"Mrs. Wiggs of the Cabbage Patch\" (SAYRE 13639).jpg",
+      "caption": "Includes Marguerite Clark Subjects: motion pictures, actresses, actors",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/A_scene_from_%22Mrs._Wiggs_of_the_Cabbage_Patch%22_%28SAYRE_13639%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/A_scene_from_%22Mrs._Wiggs_of_the_Cabbage_Patch%22_%28SAYRE_13639%29.jpg/300px-A_scene_from_%22Mrs._Wiggs_of_the_Cabbage_Patch%22_%28SAYRE_13639%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:A_scene_from_\"Mrs._Wiggs_of_the_Cabbage_Patch\"_(SAYRE_13639).jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

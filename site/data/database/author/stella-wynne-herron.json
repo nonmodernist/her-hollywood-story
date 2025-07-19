@@ -1,0 +1,78 @@
+{
+  "id": 262,
+  "slug": "stella-wynne-herron",
+  "name": "Stella Wynne Herron",
+  "birth_year": 1885,
+  "death_year": 1966,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer and suffragette. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q65801552",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1916,
+    "last_adaptation": 1916,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 638,
+      "slug": "shoes-1916",
+      "title": "Shoes",
+      "html_title": "<span class=\"film-title\">Shoes</span>",
+      "year": 1916,
+      "studio": "Bluebird Photoplays",
+      "directors": "Lois Weber",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Shoes",
+      "work_html_title": "<span class=\"work-title\">Shoes</span>",
+      "work_id": 561
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 561,
+      "slug": "shoes",
+      "title": "Shoes",
+      "formatted_title": "Shoes",
+      "html_title": "<span class=\"work-title\">Shoes</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 561,
+    "slug": "shoes",
+    "title": "Shoes",
+    "formatted_title": "Shoes",
+    "html_title": "<span class=\"work-title\">Shoes</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:23:13.649614"
+}

@@ -1,0 +1,168 @@
+{
+  "id": 218,
+  "slug": "sidney-mccall",
+  "name": "Sidney McCall",
+  "birth_year": 1865,
+  "death_year": 1954,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American novelist and poet (1865–1954). Born in Wilcox County. Died in Montrose. Occupations: writer. Notable works: The Dragon Painter, The Breath of the Gods",
+  "author_notes": "pseud of Mary McNeil Fenollosa",
+  "wikidata_id": "Q6003187",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 4,
+    "first_adaptation": 1917,
+    "last_adaptation": 1920,
+    "year_span": 3,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 4
+      },
+      {
+        "genre": "Social",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 3,
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 798,
+      "slug": "the-eternal-mother-1917",
+      "title": "The Eternal Mother",
+      "html_title": "<span class=\"film-title\">The Eternal Mother</span>",
+      "year": 1917,
+      "studio": "Metro Pictures",
+      "directors": "Frank Reicher",
+      "genres": [
+        "Drama",
+        "Social"
+      ],
+      "has_media": false,
+      "work_title": "Red Horse Hill",
+      "work_html_title": "<span class=\"work-title\">Red Horse Hill</span>",
+      "work_id": 709
+    },
+    {
+      "id": 799,
+      "slug": "the-strange-woman-1918",
+      "title": "The Strange Woman",
+      "html_title": "<span class=\"film-title\">The Strange Woman</span>",
+      "year": 1918,
+      "studio": "Victory Pictures ",
+      "directors": "Edward J. Le Saint",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Strange Woman",
+      "work_html_title": "<span class=\"work-title\">The Strange Woman</span>",
+      "work_id": 710
+    },
+    {
+      "id": 550,
+      "slug": "the-dragon-painter-1919",
+      "title": "The Dragon Painter",
+      "html_title": "<span class=\"film-title\">The Dragon Painter</span>",
+      "year": 1919,
+      "studio": "Haworth Pictures",
+      "directors": "William Worthington",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Dragon Painter",
+      "work_html_title": "<span class=\"work-title\">The Dragon Painter</span>",
+      "work_id": 480
+    },
+    {
+      "id": 797,
+      "slug": "the-breath-of-the-gods-1920",
+      "title": "The Breath of the Gods",
+      "html_title": "<span class=\"film-title\">The Breath of the Gods</span>",
+      "year": 1920,
+      "studio": "Universal",
+      "directors": "Rollin Sturgeon",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Breath of God",
+      "work_html_title": "<span class=\"work-title\">The Breath of God</span>",
+      "work_id": 708
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 709,
+      "slug": "red-horse-hill",
+      "title": "Red Horse Hill",
+      "formatted_title": "Red Horse Hill",
+      "html_title": "<span class=\"work-title\">Red Horse Hill</span>",
+      "work_type": "novel",
+      "publication_year": 1909,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 710,
+      "slug": "the-strange-woman",
+      "title": "The Strange Woman",
+      "formatted_title": "The Strange Woman",
+      "html_title": "<span class=\"work-title\">The Strange Woman</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 480,
+      "slug": "the-dragon-painter",
+      "title": "The Dragon Painter",
+      "formatted_title": "The Dragon Painter",
+      "html_title": "<span class=\"work-title\">The Dragon Painter</span>",
+      "work_type": "novel",
+      "publication_year": 1906,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 708,
+      "slug": "the-breath-of-god",
+      "title": "The Breath of God",
+      "formatted_title": "The Breath of God",
+      "html_title": "<span class=\"work-title\">The Breath of God</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 709,
+    "slug": "red-horse-hill",
+    "title": "Red Horse Hill",
+    "formatted_title": "Red Horse Hill",
+    "html_title": "<span class=\"work-title\">Red Horse Hill</span>",
+    "work_type": "novel",
+    "publication_year": 1909,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-03T00:46:24.679383"
+}

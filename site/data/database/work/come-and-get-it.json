@@ -1,0 +1,59 @@
+{
+  "id": 482,
+  "slug": "come-and-get-it",
+  "title": "Come and Get It",
+  "formatted_title": "Come and Get It",
+  "html_title": "<span class=\"work-title\">Come and Get It</span>",
+  "work_type": "novel",
+  "publication_year": 1935,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 40,
+    "slug": "edna-ferber",
+    "name": "Edna Ferber",
+    "birth_year": 1885,
+    "death_year": 1968,
+    "film_count": 24
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 554,
+      "slug": "come-and-get-it-1936",
+      "title": "Come and Get It",
+      "html_title": "<span class=\"film-title\">Come and Get It</span>",
+      "year": 1936,
+      "studio": "Howard Productions",
+      "directors": "Howard Hawks|William Wyler",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T16:50:06.729947"
+}

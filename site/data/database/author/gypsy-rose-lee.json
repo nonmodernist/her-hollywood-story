@@ -1,0 +1,116 @@
+{
+  "id": 314,
+  "slug": "gypsy-rose-lee",
+  "name": "Gypsy Rose Lee",
+  "birth_year": 1911,
+  "death_year": 1970,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American burlesque performer, actress and author (1911–1970). Born in Seattle. Died in Los Angeles. Occupations: screenwriter, actor, film actor, stripper, television actor, novelist, stage actor",
+  "author_notes": null,
+  "wikidata_id": "Q267186",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1943,
+    "last_adaptation": 1962,
+    "year_span": 19,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Mystery",
+        "count": 1
+      },
+      {
+        "genre": "Musical comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1,
+      "1960": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 734,
+      "slug": "lady-of-burlesque-1943",
+      "title": "Lady of Burlesque",
+      "html_title": "<span class=\"film-title\">Lady of Burlesque</span>",
+      "year": 1943,
+      "studio": "Hunt Stromberg Productions",
+      "directors": "William A. Wellman",
+      "genres": [
+        "Comedy-drama",
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "G-String Murders",
+      "work_html_title": "<span class=\"work-title\">G-String Murders</span>",
+      "work_id": 648
+    },
+    {
+      "id": 735,
+      "slug": "gypsy-1962",
+      "title": "Gypsy",
+      "html_title": "<span class=\"film-title\">Gypsy</span>",
+      "year": 1962,
+      "studio": "Warner Bros",
+      "directors": "Mervyn LeRoy",
+      "genres": [
+        "Musical comedy"
+      ],
+      "has_media": false,
+      "work_title": "Gypsy, a Memoir",
+      "work_html_title": "<span class=\"work-title\">Gypsy, a Memoir</span>",
+      "work_id": 649
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 648,
+      "slug": "g-string-murders",
+      "title": "G-String Murders",
+      "formatted_title": "G-String Murders",
+      "html_title": "<span class=\"work-title\">G-String Murders</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 649,
+      "slug": "gypsy-a-memoir",
+      "title": "Gypsy, a Memoir",
+      "formatted_title": "Gypsy, a Memoir",
+      "html_title": "<span class=\"work-title\">Gypsy, a Memoir</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 648,
+    "slug": "g-string-murders",
+    "title": "G-String Murders",
+    "formatted_title": "G-String Murders",
+    "html_title": "<span class=\"work-title\">G-String Murders</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:21.973542"
+}

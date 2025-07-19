@@ -1,0 +1,77 @@
+{
+  "id": 168,
+  "slug": "manslaughter-1930",
+  "title": "Manslaughter",
+  "formatted_title": "Manslaughter",
+  "html_title": "<span class=\"film-title\">Manslaughter</span>",
+  "release_year": 1930,
+  "runtime_minutes": 85,
+  "country_of_production": "United States",
+  "genres": [
+    "Romance"
+  ],
+  "studio": "Paramount",
+  "production_companies": "Paramount Publix Corp.",
+  "distribution_companies": "Paramount Publix Corp.",
+  "directors": "George Abbott",
+  "writers": "George Abbott",
+  "cast_members": "Claudette Colbert|Fredric March|Emma Dunn|Natalie Moorhead|Richard Tucker|Hilda Vaughn|G. Pat Collins|Gaylord Pendleton|Stanley Fields|Arnold Lucy",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 10639,
+  "source_work": {
+    "id": 85,
+    "slug": "manslaughter",
+    "title": "Manslaughter",
+    "formatted_title": "Manslaughter",
+    "html_title": "<span class=\"work-title\">Manslaughter</span>",
+    "work_type": "novel",
+    "publication_year": 1921,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 3,
+    "year_to_adaptation": 9
+  },
+  "author": {
+    "id": 24,
+    "slug": "alice-duer-miller",
+    "name": "Alice Duer Miller",
+    "birth_year": 1894,
+    "death_year": 1985,
+    "nationality": "United States",
+    "film_count": 22
+  },
+  "other_adaptations": [
+    {
+      "id": 89,
+      "slug": "manslaughter-1922",
+      "title": "Manslaughter",
+      "html_title": "<span class=\"film-title\">Manslaughter</span>",
+      "year": 1922,
+      "directors": "Cecil B. DeMille",
+      "studio": "Famous Players-Lasky"
+    },
+    {
+      "id": 812,
+      "slug": "and-sudden-death-1936",
+      "title": "And Sudden Death",
+      "html_title": "<span class=\"film-title\">And Sudden Death</span>",
+      "year": 1936,
+      "directors": "Charles Barton",
+      "studio": "Paramount"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 3,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": false
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

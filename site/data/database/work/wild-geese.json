@@ -1,0 +1,77 @@
+{
+  "id": 768,
+  "slug": "wild-geese",
+  "title": "Wild Geese",
+  "formatted_title": "Wild Geese",
+  "html_title": "<span class=\"work-title\">Wild Geese</span>",
+  "work_type": "novel",
+  "publication_year": 1925,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 383,
+    "slug": "martha-ostenso",
+    "name": "Martha Ostenso",
+    "birth_year": 1900,
+    "death_year": 1963,
+    "film_count": 3
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 6,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 6
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 859,
+      "slug": "wild-geese-1927",
+      "title": "Wild Geese",
+      "html_title": "<span class=\"film-title\">Wild Geese</span>",
+      "year": 1927,
+      "studio": "Tiffany-Stahl Productions",
+      "directors": "Phil Stone",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "years_after_publication": 2
+    },
+    {
+      "id": 860,
+      "slug": "wild-geese-1933",
+      "title": "Wild Geese",
+      "html_title": "<span class=\"film-title\">Wild Geese</span>",
+      "year": 1933,
+      "studio": "Majestic Pictures",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "years_after_publication": 8
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1927,
+      "to_year": 1933,
+      "gap_years": 6
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T14:13:34.119511"
+}

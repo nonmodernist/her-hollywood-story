@@ -1,0 +1,205 @@
+{
+  "id": 223,
+  "slug": "izola-forrester",
+  "name": "Izola Forrester",
+  "birth_year": 1878,
+  "death_year": 1944,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Occupations: journalist, screenwriter",
+  "author_notes": null,
+  "wikidata_id": "Q6102108",
+  "stats": {
+    "total_films": 5,
+    "works_adapted": 5,
+    "first_adaptation": 1922,
+    "last_adaptation": 1925,
+    "year_span": 3,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 4
+      },
+      {
+        "genre": "Society",
+        "count": 2
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 5
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 574,
+      "slug": "how-women-love-1922",
+      "title": "How Women Love",
+      "html_title": "<span class=\"film-title\">How Women Love</span>",
+      "year": 1922,
+      "studio": "B. B. Productions",
+      "directors": "Kenneth Webb",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "The Dangerous Inheritance; or, the Mystery of the Tittani\nRubies",
+      "work_html_title": "<span class=\"work-title\">The Dangerous Inheritance; or, the Mystery of the Tittani\nRubies</span>",
+      "work_id": 502
+    },
+    {
+      "id": 573,
+      "slug": "a-cafe-in-cairo-1924",
+      "title": "A Cafe in Cairo",
+      "html_title": "<span class=\"film-title\">A Cafe in Cairo</span>",
+      "year": 1924,
+      "studio": "Hunt Stromberg Productions ",
+      "directors": "Chet Withey",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "A Cafe in Cairo",
+      "work_html_title": "<span class=\"work-title\">A Cafe in Cairo</span>",
+      "work_id": 501
+    },
+    {
+      "id": 576,
+      "slug": "restless-wives-1924",
+      "title": "Restless Wives",
+      "html_title": "<span class=\"film-title\">Restless Wives</span>",
+      "year": 1924,
+      "studio": "C. C. Burr Pictures",
+      "directors": "Gregory La Cava",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Restless Wives",
+      "work_html_title": "<span class=\"work-title\">Restless Wives</span>",
+      "work_id": 504
+    },
+    {
+      "id": 575,
+      "slug": "youth-for-sale-1924",
+      "title": "Youth For Sale",
+      "html_title": "<span class=\"film-title\">Youth For Sale</span>",
+      "year": 1924,
+      "studio": "C. C. Burr Pictures",
+      "directors": "William Christy Cabanne",
+      "genres": [
+        "Drama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "The Gray Path",
+      "work_html_title": "<span class=\"work-title\">The Gray Path</span>",
+      "work_id": 503
+    },
+    {
+      "id": 577,
+      "slug": "wreckage-1925",
+      "title": "Wreckage",
+      "html_title": "<span class=\"film-title\">Wreckage</span>",
+      "year": 1925,
+      "studio": "Banner Productions",
+      "directors": "Scott R. Dunlap",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "Salvage",
+      "work_html_title": "<span class=\"work-title\">Salvage</span>",
+      "work_id": 505
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 502,
+      "slug": "the-dangerous-inheritance-or-the-mystery-of-the-tittani-rubies",
+      "title": "The Dangerous Inheritance; or, the Mystery of the Tittani\nRubies",
+      "formatted_title": "The Dangerous Inheritance; or, the Mystery of the Tittani\nRubies",
+      "html_title": "<span class=\"work-title\">The Dangerous Inheritance; or, the Mystery of the Tittani\nRubies</span>",
+      "work_type": "novel",
+      "publication_year": 1920,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 501,
+      "slug": "a-cafe-in-cairo",
+      "title": "A Cafe in Cairo",
+      "formatted_title": "A Cafe in Cairo",
+      "html_title": "<span class=\"work-title\">A Cafe in Cairo</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 504,
+      "slug": "restless-wives",
+      "title": "Restless Wives",
+      "formatted_title": "Restless Wives",
+      "html_title": "<span class=\"work-title\">Restless Wives</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 503,
+      "slug": "the-gray-path",
+      "title": "The Gray Path",
+      "formatted_title": "The Gray Path",
+      "html_title": "<span class=\"work-title\">The Gray Path</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 505,
+      "slug": "salvage",
+      "title": "Salvage",
+      "formatted_title": "Salvage",
+      "html_title": "<span class=\"work-title\">Salvage</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 502,
+    "slug": "the-dangerous-inheritance-or-the-mystery-of-the-tittani-rubies",
+    "title": "The Dangerous Inheritance; or, the Mystery of the Tittani\nRubies",
+    "formatted_title": "The Dangerous Inheritance; or, the Mystery of the Tittani\nRubies",
+    "html_title": "<span class=\"work-title\">The Dangerous Inheritance; or, the Mystery of the Tittani\nRubies</span>",
+    "work_type": "novel",
+    "publication_year": 1920,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-03T00:46:30.867566"
+}

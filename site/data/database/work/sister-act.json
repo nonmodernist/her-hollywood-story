@@ -1,0 +1,122 @@
+{
+  "id": 213,
+  "slug": "sister-act",
+  "title": "\"Sister Act\"",
+  "formatted_title": "\"Sister Act\"",
+  "html_title": "<span class=\"work-title\">\"Sister Act\"</span>",
+  "work_type": "novel",
+  "publication_year": 1937,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 25,
+    "slug": "fannie-hurst",
+    "name": "Fannie Hurst",
+    "birth_year": 1889,
+    "death_year": 1968,
+    "film_count": 27
+  },
+  "stats": {
+    "adaptation_count": 4,
+    "year_span": 17,
+    "is_remake_champion": true,
+    "average_gap_between_adaptations": 6
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": true,
+    "remake_champion_rank": 11
+  },
+  "adaptations": [
+    {
+      "id": 248,
+      "slug": "four-daughters-1938",
+      "title": "Four Daughters",
+      "html_title": "<span class=\"film-title\">Four Daughters</span>",
+      "year": 1938,
+      "studio": "Warner Bros",
+      "directors": "Michael Curtiz",
+      "genres": [
+        "Romance",
+        "Domestic"
+      ],
+      "has_media": true,
+      "years_after_publication": 1
+    },
+    {
+      "id": 254,
+      "slug": "four-wives-1939",
+      "title": "Four Wives",
+      "html_title": "<span class=\"film-title\">Four Wives</span>",
+      "year": 1939,
+      "studio": "Warner Bros",
+      "directors": "Michael Curtiz",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 2
+    },
+    {
+      "id": 264,
+      "slug": "four-mothers-1941",
+      "title": "Four Mothers",
+      "html_title": "<span class=\"film-title\">Four Mothers</span>",
+      "year": 1941,
+      "studio": "Warner Bros",
+      "directors": "William Keighley",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "years_after_publication": 4
+    },
+    {
+      "id": 329,
+      "slug": "young-at-heart-1955",
+      "title": "Young at Heart",
+      "html_title": "<span class=\"film-title\">Young at Heart</span>",
+      "year": 1955,
+      "studio": "Warner Bros",
+      "directors": "Gordon Douglas",
+      "genres": [
+        "Musical",
+        "Romance",
+        "Domestic",
+        "Show business"
+      ],
+      "has_media": true,
+      "years_after_publication": 18
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1938,
+      "to_year": 1939,
+      "gap_years": 1
+    },
+    {
+      "from_year": 1939,
+      "to_year": 1941,
+      "gap_years": 2
+    },
+    {
+      "from_year": 1941,
+      "to_year": 1955,
+      "gap_years": 14
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:48:03.914138"
+}

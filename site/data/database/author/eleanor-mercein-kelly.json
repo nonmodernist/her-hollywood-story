@@ -1,0 +1,137 @@
+{
+  "id": 20,
+  "slug": "eleanor-mercein-kelly",
+  "name": "Eleanor Mercein Kelly",
+  "birth_year": 1880,
+  "death_year": 1968,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in Milwaukee. Died in Louisville. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q17308995",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 2,
+    "first_adaptation": 1918,
+    "last_adaptation": 1941,
+    "year_span": 23,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Romance",
+        "count": 1
+      },
+      {
+        "genre": "Romantic comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1930": 1,
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 33,
+      "slug": "kildare-of-storm-1918",
+      "title": "Kildare of Storm",
+      "html_title": "<span class=\"film-title\">Kildare of Storm</span>",
+      "year": 1918,
+      "studio": "Metro Pictures",
+      "directors": "Harry L. Franklin",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "\"Kildares of Storm\"",
+      "work_html_title": "<span class=\"work-title\">\"Kildares of Storm\"</span>",
+      "work_id": 31
+    },
+    {
+      "id": 177,
+      "slug": "their-mad-moment-1931",
+      "title": "Their Mad Moment",
+      "html_title": "<span class=\"film-title\">Their Mad Moment</span>",
+      "year": 1931,
+      "studio": "Fox Film",
+      "directors": "Chandler Sprague|Hamilton MacFadden",
+      "genres": [
+        "Melodrama",
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "Basquerie",
+      "work_html_title": "<span class=\"work-title\">Basquerie</span>",
+      "work_id": 163
+    },
+    {
+      "id": 259,
+      "slug": "the-perfect-snob-1941",
+      "title": "The Perfect Snob",
+      "html_title": "<span class=\"film-title\">The Perfect Snob</span>",
+      "year": 1941,
+      "studio": "20th Century Fox",
+      "directors": "Ray McCarey",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": false,
+      "work_title": "Basquerie",
+      "work_html_title": "<span class=\"work-title\">Basquerie</span>",
+      "work_id": 163
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 163,
+      "slug": "basquerie",
+      "title": "Basquerie",
+      "formatted_title": "Basquerie",
+      "html_title": "<span class=\"work-title\">Basquerie</span>",
+      "work_type": "novel",
+      "publication_year": 1927,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 31,
+      "slug": "kildares-of-storm",
+      "title": "\"Kildares of Storm\"",
+      "formatted_title": "\"Kildares of Storm\"",
+      "html_title": "<span class=\"work-title\">\"Kildares of Storm\"</span>",
+      "work_type": "novel",
+      "publication_year": 1916,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 163,
+    "slug": "basquerie",
+    "title": "Basquerie",
+    "formatted_title": "Basquerie",
+    "html_title": "<span class=\"work-title\">Basquerie</span>",
+    "work_type": "novel",
+    "publication_year": 1927,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:36:57.86482"
+}

@@ -1,0 +1,325 @@
+{
+  "id": 48,
+  "slug": "mildred-cram",
+  "name": "Mildred Cram",
+  "birth_year": 1889,
+  "death_year": 1985,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1889-1985). Born in Washington, D.C.. Died in Santa Barbara. Occupations: screenwriter, writer",
+  "author_notes": null,
+  "wikidata_id": "Q4260292",
+  "stats": {
+    "total_films": 9,
+    "works_adapted": 9,
+    "first_adaptation": 1926,
+    "last_adaptation": 1937,
+    "year_span": 11,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 3
+      },
+      {
+        "genre": "Drama",
+        "count": 3
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 2
+      },
+      {
+        "genre": "with songs",
+        "count": 2
+      },
+      {
+        "genre": "Military",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1,
+      "1930": 8
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 128,
+      "slug": "subway-sadie-1926",
+      "title": "Subway Sadie",
+      "html_title": "<span class=\"film-title\">Subway Sadie</span>",
+      "year": 1926,
+      "studio": "Al Rockett Productions",
+      "directors": "Alfred Santell",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "\"Sadie of the Desert\"",
+      "work_html_title": "<span class=\"work-title\">\"Sadie of the Desert\"</span>",
+      "work_id": 122
+    },
+    {
+      "id": 172,
+      "slug": "behind-the-make-up-1930",
+      "title": "Behind the Make-Up",
+      "html_title": "<span class=\"film-title\">Behind the Make-Up</span>",
+      "year": 1930,
+      "studio": "Paramount",
+      "directors": "Robert Milton",
+      "genres": [
+        "Romance",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "\"The Feeder\"",
+      "work_html_title": "<span class=\"work-title\">\"The Feeder\"</span>",
+      "work_id": 159
+    },
+    {
+      "id": 180,
+      "slug": "this-modern-age-1931",
+      "title": "This Modern Age",
+      "html_title": "<span class=\"film-title\">This Modern Age</span>",
+      "year": 1931,
+      "studio": "MGM",
+      "directors": "Nicholas Grindé",
+      "genres": [
+        "Romance",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "\"Girls Together\"",
+      "work_html_title": "<span class=\"work-title\">\"Girls Together\"</span>",
+      "work_id": 166
+    },
+    {
+      "id": 201,
+      "slug": "amateur-daddy-1932",
+      "title": "Amateur Daddy",
+      "html_title": "<span class=\"film-title\">Amateur Daddy</span>",
+      "year": 1932,
+      "studio": "Fox Film",
+      "directors": "John Blystone",
+      "genres": [
+        "Drama",
+        "Rural"
+      ],
+      "has_media": false,
+      "work_title": "Scotch Valley",
+      "work_html_title": "<span class=\"work-title\">Scotch Valley</span>",
+      "work_id": 184
+    },
+    {
+      "id": 199,
+      "slug": "faithless-1932",
+      "title": "Faithless",
+      "html_title": "<span class=\"film-title\">Faithless</span>",
+      "year": 1932,
+      "studio": "MGM",
+      "directors": "Harry Beaumont",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "Tinfoil",
+      "work_html_title": "<span class=\"work-title\">Tinfoil</span>",
+      "work_id": 182
+    },
+    {
+      "id": 200,
+      "slug": "sinners-in-the-sun-1932",
+      "title": "Sinners in the Sun",
+      "html_title": "<span class=\"film-title\">Sinners in the Sun</span>",
+      "year": 1932,
+      "studio": "Paramount",
+      "directors": "Alexander Hall|William C. de Mille",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "\"The Beachcomber\"",
+      "work_html_title": "<span class=\"work-title\">\"The Beachcomber\"</span>",
+      "work_id": 183
+    },
+    {
+      "id": 226,
+      "slug": "stars-over-broadway-1935",
+      "title": "Stars over Broadway",
+      "html_title": "<span class=\"film-title\">Stars over Broadway</span>",
+      "year": 1935,
+      "studio": "Warner Bros",
+      "directors": "William Keighley",
+      "genres": [
+        "Drama",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "\"Thin Air\"",
+      "work_html_title": "<span class=\"work-title\">\"Thin Air\"</span>",
+      "work_id": 199
+    },
+    {
+      "id": 481,
+      "slug": "navy-born-1936",
+      "title": "Navy Born",
+      "html_title": "<span class=\"film-title\">Navy Born</span>",
+      "year": 1936,
+      "studio": "Republic",
+      "directors": "Nate Watt",
+      "genres": [
+        "Comedy-drama",
+        "Military"
+      ],
+      "has_media": false,
+      "work_title": "Navy Born",
+      "work_html_title": "<span class=\"work-title\">Navy Born</span>",
+      "work_id": 413
+    },
+    {
+      "id": 242,
+      "slug": "wings-over-honolulu-1937",
+      "title": "Wings over Honolulu",
+      "html_title": "<span class=\"film-title\">Wings over Honolulu</span>",
+      "year": 1937,
+      "studio": "Universal",
+      "directors": "H. C. Potter",
+      "genres": [
+        "Drama",
+        "Military"
+      ],
+      "has_media": false,
+      "work_title": "short story in Red Book Magazine, possibly titled \"Wings Over Honolulu\"",
+      "work_html_title": "<span class=\"work-title\">short story in Red Book Magazine, possibly titled \"Wings Over Honolulu\"</span>",
+      "work_id": 208
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 122,
+      "slug": "sadie-of-the-desert",
+      "title": "\"Sadie of the Desert\"",
+      "formatted_title": "\"Sadie of the Desert\"",
+      "html_title": "<span class=\"work-title\">\"Sadie of the Desert\"</span>",
+      "work_type": "novel",
+      "publication_year": 1925,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 159,
+      "slug": "the-feeder",
+      "title": "\"The Feeder\"",
+      "formatted_title": "\"The Feeder\"",
+      "html_title": "<span class=\"work-title\">\"The Feeder\"</span>",
+      "work_type": "novel",
+      "publication_year": 1926,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 166,
+      "slug": "girls-together",
+      "title": "\"Girls Together\"",
+      "formatted_title": "\"Girls Together\"",
+      "html_title": "<span class=\"work-title\">\"Girls Together\"</span>",
+      "work_type": "novel",
+      "publication_year": 1931,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 184,
+      "slug": "scotch-valley",
+      "title": "Scotch Valley",
+      "formatted_title": "Scotch Valley",
+      "html_title": "<span class=\"work-title\">Scotch Valley</span>",
+      "work_type": "novel",
+      "publication_year": 1927,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 182,
+      "slug": "tinfoil",
+      "title": "Tinfoil",
+      "formatted_title": "Tinfoil",
+      "html_title": "<span class=\"work-title\">Tinfoil</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 183,
+      "slug": "the-beachcomber",
+      "title": "\"The Beachcomber\"",
+      "formatted_title": "\"The Beachcomber\"",
+      "html_title": "<span class=\"work-title\">\"The Beachcomber\"</span>",
+      "work_type": "novel",
+      "publication_year": 1932,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 199,
+      "slug": "thin-air",
+      "title": "\"Thin Air\"",
+      "formatted_title": "\"Thin Air\"",
+      "html_title": "<span class=\"work-title\">\"Thin Air\"</span>",
+      "work_type": "novel",
+      "publication_year": 1934,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 413,
+      "slug": "navy-born",
+      "title": "Navy Born",
+      "formatted_title": "Navy Born",
+      "html_title": "<span class=\"work-title\">Navy Born</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 208,
+      "slug": "short-story-in-red-book-magazine-possibly-titled-wings-over-honolulu",
+      "title": "short story in Red Book Magazine, possibly titled \"Wings Over Honolulu\"",
+      "formatted_title": "short story in Red Book Magazine, possibly titled \"Wings Over Honolulu\"",
+      "html_title": "<span class=\"work-title\">short story in Red Book Magazine, possibly titled \"Wings Over Honolulu\"</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 122,
+    "slug": "sadie-of-the-desert",
+    "title": "\"Sadie of the Desert\"",
+    "formatted_title": "\"Sadie of the Desert\"",
+    "html_title": "<span class=\"work-title\">\"Sadie of the Desert\"</span>",
+    "work_type": "novel",
+    "publication_year": 1925,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:34.492846"
+}

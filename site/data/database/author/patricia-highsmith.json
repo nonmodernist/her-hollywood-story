@@ -1,0 +1,83 @@
+{
+  "id": 264,
+  "slug": "patricia-highsmith",
+  "name": "Patricia Highsmith",
+  "birth_year": 1921,
+  "death_year": 1995,
+  "nationality": "United States",
+  "literary_movement": "modernist literature",
+  "biographical_notes": "American novelist and short story writer (1921–1995). Born in Fort Worth. Died in Locarno. Occupations: writer, novelist, screenwriter, comics writer. Notable works: Deep Water, Little Tales of Misogyny, The Tremor of Forgery, Small g: a Summer Idyll, The Price of Salt",
+  "author_notes": null,
+  "wikidata_id": "Q270635",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1951,
+    "last_adaptation": 1951,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Suspense",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 640,
+      "slug": "strangers-on-a-train-1951",
+      "title": "Strangers on a Train",
+      "html_title": "<span class=\"film-title\">Strangers on a Train</span>",
+      "year": 1951,
+      "studio": "Warner Bros",
+      "directors": "Alfred Hitchcock",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "has_media": true,
+      "work_title": "Strangers on a Train",
+      "work_html_title": "<span class=\"work-title\">Strangers on a Train</span>",
+      "work_id": 563
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 563,
+      "slug": "strangers-on-a-train",
+      "title": "Strangers on a Train",
+      "formatted_title": "Strangers on a Train",
+      "html_title": "<span class=\"work-title\">Strangers on a Train</span>",
+      "work_type": "novel",
+      "publication_year": 1950,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 563,
+    "slug": "strangers-on-a-train",
+    "title": "Strangers on a Train",
+    "formatted_title": "Strangers on a Train",
+    "html_title": "<span class=\"work-title\">Strangers on a Train</span>",
+    "work_type": "novel",
+    "publication_year": 1950,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:23:15.415126"
+}

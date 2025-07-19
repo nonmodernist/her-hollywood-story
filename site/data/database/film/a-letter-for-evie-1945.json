@@ -1,0 +1,69 @@
+{
+  "id": 384,
+  "slug": "a-letter-for-evie-1945",
+  "title": "A Letter for Evie",
+  "formatted_title": "A Letter for Evie",
+  "html_title": "<span class=\"film-title\">A Letter for Evie</span>",
+  "release_year": 1945,
+  "runtime_minutes": null,
+  "country_of_production": null,
+  "genres": [
+    "Comedy-drama",
+    "Homefront"
+  ],
+  "studio": "MGM",
+  "production_companies": "Metro-Goldwyn-Mayer Corp.",
+  "distribution_companies": "Loew's Inc.",
+  "directors": "Jules Dassin",
+  "writers": "De Vallon Scott|Alan Friedman",
+  "cast_members": "Marsha Hunt|John Carroll|Hume Cronyn|Spring Byington|Pamela Britton|Norman Lloyd|Percival Vivian|Donald Curtis|Esther Howard|Robin Raymond",
+  "color_info": null,
+  "adaptation_notes": null,
+  "afi_catalog_id": 24482,
+  "source_work": {
+    "id": 321,
+    "slug": "the-adventures-of-a-ready-letter-writer",
+    "title": "The Adventures of a Ready Letter Writer",
+    "formatted_title": "The Adventures of a Ready Letter Writer",
+    "html_title": "<span class=\"work-title\">The Adventures of a Ready Letter Writer</span>",
+    "work_type": "novel",
+    "publication_year": 1920,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 25
+  },
+  "author": {
+    "id": 128,
+    "slug": "blanche-brace",
+    "name": "Blanche Brace",
+    "birth_year": null,
+    "death_year": null,
+    "nationality": null,
+    "film_count": 2
+  },
+  "other_adaptations": [
+    {
+      "id": 383,
+      "slug": "dont-write-letters-1922",
+      "title": "Don't Write Letters",
+      "html_title": "<span class=\"film-title\">Don't Write Letters</span>",
+      "year": 1922,
+      "directors": "George D. Baker",
+      "studio": "Metro Pictures"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

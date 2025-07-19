@@ -1,0 +1,83 @@
+{
+  "id": 425,
+  "slug": "anna-perrott-rose",
+  "name": "Anna Perrott Rose",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": "pseud of Anna Maria Rose Wright",
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1952,
+    "last_adaptation": 1952,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 964,
+      "slug": "room-for-one-more-1952",
+      "title": "Room for One More",
+      "html_title": "<span class=\"film-title\">Room for One More</span>",
+      "year": 1952,
+      "studio": "Warner Bros",
+      "directors": "Norman Taurog",
+      "genres": [
+        "Comedy-drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Room for One More",
+      "work_html_title": "<span class=\"work-title\">Room for One More</span>",
+      "work_id": 866
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 866,
+      "slug": "room-for-one-more",
+      "title": "Room for One More",
+      "formatted_title": "Room for One More",
+      "html_title": "<span class=\"work-title\">Room for One More</span>",
+      "work_type": "novel",
+      "publication_year": 1951,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 866,
+    "slug": "room-for-one-more",
+    "title": "Room for One More",
+    "formatted_title": "Room for One More",
+    "html_title": "<span class=\"work-title\">Room for One More</span>",
+    "work_type": "novel",
+    "publication_year": 1951,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-11T14:45:25.562884"
+}

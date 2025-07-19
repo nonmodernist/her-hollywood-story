@@ -1,0 +1,69 @@
+{
+  "id": 215,
+  "slug": "little-men-1934",
+  "title": "Little Men",
+  "formatted_title": "Little Men",
+  "html_title": "<span class=\"film-title\">Little Men</span>",
+  "release_year": 1934,
+  "runtime_minutes": null,
+  "country_of_production": "United States",
+  "genres": [
+    "Drama",
+    "Historical"
+  ],
+  "studio": "Mascot Pictures",
+  "production_companies": "Mascot Pictures Corp.",
+  "distribution_companies": "Mascot Pictures Corp.",
+  "directors": "Phil Rosen",
+  "writers": "Gertrude Orr",
+  "cast_members": "Ralph Morgan|Erin O'Brien-Moore|Junior Durkin|Cora Sue Collins|Phyllis Fraser|Robert Carlton|Finis Barton|Frankie Darro|Dave Durand|Dickie Moore",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 6402,
+  "source_work": {
+    "id": 193,
+    "slug": "little-men",
+    "title": "Little Men",
+    "formatted_title": "Little Men",
+    "html_title": "<span class=\"work-title\">Little Men</span>",
+    "work_type": "novel",
+    "publication_year": 1872,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 62
+  },
+  "author": {
+    "id": 28,
+    "slug": "louisa-may-alcott",
+    "name": "Louisa May Alcott",
+    "birth_year": 1832,
+    "death_year": 1888,
+    "nationality": "United States",
+    "film_count": 6
+  },
+  "other_adaptations": [
+    {
+      "id": 257,
+      "slug": "little-men-1940",
+      "title": "Little Men",
+      "html_title": "<span class=\"film-title\">Little Men</span>",
+      "year": 1940,
+      "directors": "Norman Z. McLeod",
+      "studio": "RKO"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 1,
+    "is_first": true,
+    "is_latest": false
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

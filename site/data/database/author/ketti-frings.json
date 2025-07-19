@@ -1,0 +1,78 @@
+{
+  "id": 226,
+  "slug": "ketti-frings",
+  "name": "Ketti Frings",
+  "birth_year": 1909,
+  "death_year": 1981,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American dramatist and screenwriter (1909–1981). Born in Columbus. Died in Los Angeles. Occupations: writer, screenwriter",
+  "author_notes": "aka Katherine Hartley",
+  "wikidata_id": "Q1739986",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1941,
+    "last_adaptation": 1941,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 581,
+      "slug": "hold-back-the-dawn-1941",
+      "title": "Hold Back the Dawn",
+      "html_title": "<span class=\"film-title\">Hold Back the Dawn</span>",
+      "year": 1941,
+      "studio": "Paramount",
+      "directors": "Mitchell Leisen",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "Hold Back the Dawn",
+      "work_html_title": "<span class=\"work-title\">Hold Back the Dawn</span>",
+      "work_id": 509
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 509,
+      "slug": "hold-back-the-dawn",
+      "title": "Hold Back the Dawn",
+      "formatted_title": "Hold Back the Dawn",
+      "html_title": "<span class=\"work-title\">Hold Back the Dawn</span>",
+      "work_type": "novel",
+      "publication_year": 1940,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 509,
+    "slug": "hold-back-the-dawn",
+    "title": "Hold Back the Dawn",
+    "formatted_title": "Hold Back the Dawn",
+    "html_title": "<span class=\"work-title\">Hold Back the Dawn</span>",
+    "work_type": "novel",
+    "publication_year": 1940,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-03T00:46:35.099003"
+}

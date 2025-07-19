@@ -1,0 +1,83 @@
+{
+  "id": 341,
+  "slug": "doris-malloy-and-gertrude-orr",
+  "name": "Doris Malloy and Gertrude Orr",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1931,
+    "last_adaptation": 1931,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "World War I",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 768,
+      "slug": "the-mad-parade-1931",
+      "title": "The Mad Parade",
+      "html_title": "<span class=\"film-title\">The Mad Parade</span>",
+      "year": 1931,
+      "studio": "Liberty Productions",
+      "directors": "William Beaudine",
+      "genres": [
+        "Drama",
+        "World War I"
+      ],
+      "has_media": false,
+      "work_title": "Women Like Men",
+      "work_html_title": "<span class=\"work-title\">Women Like Men</span>",
+      "work_id": 682
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 682,
+      "slug": "women-like-men",
+      "title": "Women Like Men",
+      "formatted_title": "Women Like Men",
+      "html_title": "<span class=\"work-title\">Women Like Men</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 682,
+    "slug": "women-like-men",
+    "title": "Women Like Men",
+    "formatted_title": "Women Like Men",
+    "html_title": "<span class=\"work-title\">Women Like Men</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:18:42.615814"
+}

@@ -1,0 +1,153 @@
+{
+  "id": 402,
+  "slug": "beulah-poynter",
+  "name": "Beulah Poynter",
+  "birth_year": 1883,
+  "death_year": 1960,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American actor, writer and playwright. Born in Eagleville. Died in Nassau County. Occupations: novelist, stage actor, actor",
+  "author_notes": null,
+  "wikidata_id": "Q17009628",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1920,
+    "last_adaptation": 1934,
+    "year_span": 14,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Show business",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Mystery",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1,
+      "1930": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 885,
+      "slug": "the-miracle-of-money-1920",
+      "title": "The Miracle of Money",
+      "html_title": "<span class=\"film-title\">The Miracle of Money</span>",
+      "year": 1920,
+      "studio": "Hobart Henley Productions ",
+      "directors": "Hobart Henley",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Marrying of Emmy",
+      "work_html_title": "<span class=\"work-title\">The Marrying of Emmy</span>",
+      "work_id": 793
+    },
+    {
+      "id": 886,
+      "slug": "her-splendid-folly-1933",
+      "title": "Her Splendid Folly",
+      "html_title": "<span class=\"film-title\">Her Splendid Folly</span>",
+      "year": 1933,
+      "studio": "Progressive Pictures",
+      "directors": "William O'Connor",
+      "genres": [
+        "Comedy-drama",
+        "Show business"
+      ],
+      "has_media": false,
+      "work_title": "unidentified novel",
+      "work_html_title": "<span class=\"work-title\">unidentified novel</span>",
+      "work_id": 794
+    },
+    {
+      "id": 884,
+      "slug": "dancing-man-1934",
+      "title": "Dancing Man",
+      "html_title": "<span class=\"film-title\">Dancing Man</span>",
+      "year": 1934,
+      "studio": "Pyramid Productions",
+      "directors": "Albert Ray",
+      "genres": [
+        "Melodrama",
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "Dancing Man",
+      "work_html_title": "<span class=\"work-title\">Dancing Man</span>",
+      "work_id": 792
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 793,
+      "slug": "the-marrying-of-emmy",
+      "title": "The Marrying of Emmy",
+      "formatted_title": "The Marrying of Emmy",
+      "html_title": "<span class=\"work-title\">The Marrying of Emmy</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 794,
+      "slug": "unidentified-novel",
+      "title": "unidentified novel",
+      "formatted_title": "unidentified novel",
+      "html_title": "<span class=\"work-title\">unidentified novel</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 792,
+      "slug": "dancing-man",
+      "title": "Dancing Man",
+      "formatted_title": "Dancing Man",
+      "html_title": "<span class=\"work-title\">Dancing Man</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 793,
+    "slug": "the-marrying-of-emmy",
+    "title": "The Marrying of Emmy",
+    "formatted_title": "The Marrying of Emmy",
+    "html_title": "<span class=\"work-title\">The Marrying of Emmy</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T18:25:12.047256"
+}

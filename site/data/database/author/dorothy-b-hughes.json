@@ -1,0 +1,144 @@
+{
+  "id": 78,
+  "slug": "dorothy-b-hughes",
+  "name": "Dorothy B. Hughes",
+  "birth_year": 1904,
+  "death_year": 1993,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1904-1993). Born in Kansas City. Died in Ashland. Occupations: science fiction writer, journalist, screenwriter, writer, novelist, literary critic, poet. Notable works: In a Lonely Place",
+  "author_notes": null,
+  "wikidata_id": "Q1778440",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1943,
+    "last_adaptation": 1950,
+    "year_span": 7,
+    "top_genres": [
+      {
+        "genre": "Film noir",
+        "count": 2
+      },
+      {
+        "genre": "Mystery",
+        "count": 1
+      },
+      {
+        "genre": "Espionage",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 2,
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 271,
+      "slug": "the-fallen-sparrow-1943",
+      "title": "The Fallen Sparrow",
+      "html_title": "<span class=\"film-title\">The Fallen Sparrow</span>",
+      "year": 1943,
+      "studio": "RKO",
+      "directors": "Richard Wallace",
+      "genres": [
+        "Mystery",
+        "Espionage"
+      ],
+      "has_media": true,
+      "work_title": "The Fallen Sparrow",
+      "work_html_title": "<span class=\"work-title\">The Fallen Sparrow</span>",
+      "work_id": 227
+    },
+    {
+      "id": 289,
+      "slug": "ride-the-pink-horse-1947",
+      "title": "Ride the Pink Horse",
+      "html_title": "<span class=\"film-title\">Ride the Pink Horse</span>",
+      "year": 1947,
+      "studio": "Universal-International",
+      "directors": "Robert Montgomery",
+      "genres": [
+        "Film noir"
+      ],
+      "has_media": true,
+      "work_title": "Ride the Pink Horse",
+      "work_html_title": "<span class=\"work-title\">Ride the Pink Horse</span>",
+      "work_id": 242
+    },
+    {
+      "id": 308,
+      "slug": "in-a-lonely-place-1950",
+      "title": "In a Lonely Place",
+      "html_title": "<span class=\"film-title\">In a Lonely Place</span>",
+      "year": 1950,
+      "studio": "Columbia",
+      "directors": "Nicholas Ray",
+      "genres": [
+        "Film noir"
+      ],
+      "has_media": true,
+      "work_title": "In A Lonely Place",
+      "work_html_title": "<span class=\"work-title\">In A Lonely Place</span>",
+      "work_id": 258
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 227,
+      "slug": "the-fallen-sparrow",
+      "title": "The Fallen Sparrow",
+      "formatted_title": "The Fallen Sparrow",
+      "html_title": "<span class=\"work-title\">The Fallen Sparrow</span>",
+      "work_type": "novel",
+      "publication_year": 1942,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 242,
+      "slug": "ride-the-pink-horse",
+      "title": "Ride the Pink Horse",
+      "formatted_title": "Ride the Pink Horse",
+      "html_title": "<span class=\"work-title\">Ride the Pink Horse</span>",
+      "work_type": "novel",
+      "publication_year": 1946,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 258,
+      "slug": "in-a-lonely-place",
+      "title": "In A Lonely Place",
+      "formatted_title": "In A Lonely Place",
+      "html_title": "<span class=\"work-title\">In A Lonely Place</span>",
+      "work_type": "novel",
+      "publication_year": 1947,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 227,
+    "slug": "the-fallen-sparrow",
+    "title": "The Fallen Sparrow",
+    "formatted_title": "The Fallen Sparrow",
+    "html_title": "<span class=\"work-title\">The Fallen Sparrow</span>",
+    "work_type": "novel",
+    "publication_year": 1942,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:10.12442"
+}

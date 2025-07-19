@@ -1,0 +1,116 @@
+{
+  "id": 305,
+  "slug": "reita-lambert",
+  "name": "Reita Lambert",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1930,
+    "last_adaptation": 1932,
+    "year_span": 2,
+    "top_genres": [
+      {
+        "genre": "Society",
+        "count": 2
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 721,
+      "slug": "hello-sister-1930",
+      "title": "Hello Sister",
+      "html_title": "<span class=\"film-title\">Hello Sister</span>",
+      "year": 1930,
+      "studio": "James Cruze",
+      "directors": "Walter Lang",
+      "genres": [
+        "Drama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "Clipped Wings",
+      "work_html_title": "<span class=\"work-title\">Clipped Wings</span>",
+      "work_id": 636
+    },
+    {
+      "id": 722,
+      "slug": "careless-lady-1932",
+      "title": "Careless Lady",
+      "html_title": "<span class=\"film-title\">Careless Lady</span>",
+      "year": 1932,
+      "studio": "Fox Film",
+      "directors": "Kenneth MacKenna",
+      "genres": [
+        "Comedy-drama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "Widow's Night",
+      "work_html_title": "<span class=\"work-title\">Widow's Night</span>",
+      "work_id": 637
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 636,
+      "slug": "clipped-wings",
+      "title": "Clipped Wings",
+      "formatted_title": "Clipped Wings",
+      "html_title": "<span class=\"work-title\">Clipped Wings</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 637,
+      "slug": "widows-night",
+      "title": "Widow's Night",
+      "formatted_title": "Widow's Night",
+      "html_title": "<span class=\"work-title\">Widow's Night</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 636,
+    "slug": "clipped-wings",
+    "title": "Clipped Wings",
+    "formatted_title": "Clipped Wings",
+    "html_title": "<span class=\"work-title\">Clipped Wings</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:54:06.660067"
+}

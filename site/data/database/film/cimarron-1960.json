@@ -1,0 +1,82 @@
+{
+  "id": 339,
+  "slug": "cimarron-1960",
+  "title": "Cimarron",
+  "formatted_title": "Cimarron",
+  "html_title": "<span class=\"film-title\">Cimarron</span>",
+  "release_year": 1960,
+  "runtime_minutes": 147,
+  "country_of_production": "United States",
+  "genres": [
+    "Western"
+  ],
+  "studio": "MGM",
+  "production_companies": "Metro-Goldwyn-Mayer Corp.",
+  "distribution_companies": "Loew's Inc.",
+  "directors": "Anthony Mann",
+  "writers": "Arnold Schulman",
+  "cast_members": "Glenn Ford|Maria Schell|Anne Baxter|Arthur O'Connell|Russ Tamblyn|Mercedes McCambridge|Vic Morrow|Robert Keith|Charles McGraw|Henry [\"Harry\"] Morgan",
+  "color_info": "color",
+  "adaptation_notes": null,
+  "afi_catalog_id": 53484,
+  "source_work": {
+    "id": 165,
+    "slug": "cimarron",
+    "title": "Cimarron",
+    "formatted_title": "Cimarron",
+    "html_title": "<span class=\"work-title\">Cimarron</span>",
+    "work_type": "novel",
+    "publication_year": 1929,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 31
+  },
+  "author": {
+    "id": 40,
+    "slug": "edna-ferber",
+    "name": "Edna Ferber",
+    "birth_year": 1885,
+    "death_year": 1968,
+    "nationality": "United States",
+    "film_count": 24
+  },
+  "other_adaptations": [
+    {
+      "id": 179,
+      "slug": "cimarron-1931",
+      "title": "Cimarron",
+      "html_title": "<span class=\"film-title\">Cimarron</span>",
+      "year": 1931,
+      "directors": "Wesley Ruggles",
+      "studio": "RKO"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [
+    {
+      "id": 884,
+      "media_type": "poster",
+      "title": "Cimarron1960.jpg",
+      "caption": "Poster for the film Cimarron (1960).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Cimarron1960.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cimarron1960.jpg/300px-Cimarron1960.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cimarron1960.jpg",
+      "license": "public_domain",
+      "attribution": "Reynold Brown",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

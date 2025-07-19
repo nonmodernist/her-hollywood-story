@@ -1,0 +1,88 @@
+{
+  "id": 178,
+  "slug": "virginia-spencer-cowles",
+  "name": "Virginia Spencer Cowles",
+  "birth_year": 1910,
+  "death_year": 1983,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "Journalist, war correspondent (1910–1983). Born in Brattleboro. Died in France. Occupations: journalist, writer, novelist, historian",
+  "author_notes": null,
+  "wikidata_id": "Q1479296",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1944,
+    "last_adaptation": 1944,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Homefront",
+        "count": 1
+      },
+      {
+        "genre": "World War II",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 480,
+      "slug": "ladies-courageous-1944",
+      "title": "Ladies Courageous",
+      "html_title": "<span class=\"film-title\">Ladies Courageous</span>",
+      "year": 1944,
+      "studio": "Universal",
+      "directors": "John Rawlins",
+      "genres": [
+        "Drama",
+        "Homefront",
+        "World War II"
+      ],
+      "has_media": false,
+      "work_title": "Looking for Trouble",
+      "work_html_title": "<span class=\"work-title\">Looking for Trouble</span>",
+      "work_id": 412
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 412,
+      "slug": "looking-for-trouble",
+      "title": "Looking for Trouble",
+      "formatted_title": "Looking for Trouble",
+      "html_title": "<span class=\"work-title\">Looking for Trouble</span>",
+      "work_type": "novel",
+      "publication_year": 1941,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 412,
+    "slug": "looking-for-trouble",
+    "title": "Looking for Trouble",
+    "formatted_title": "Looking for Trouble",
+    "html_title": "<span class=\"work-title\">Looking for Trouble</span>",
+    "work_type": "novel",
+    "publication_year": 1941,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:59.401148"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 194,
+  "slug": "rebecca-of-sunnybrook-farm-1932",
+  "title": "Rebecca of Sunnybrook Farm",
+  "formatted_title": "Rebecca of Sunnybrook Farm",
+  "html_title": "<span class=\"film-title\">Rebecca of Sunnybrook Farm</span>",
+  "release_year": 1932,
+  "runtime_minutes": 75,
+  "country_of_production": "United States",
+  "genres": [
+    "Melodrama",
+    "Rural"
+  ],
+  "studio": "Fox Film",
+  "production_companies": "Fox Film Corp.",
+  "distribution_companies": "Fox Film Corp.",
+  "directors": "Alfred Santell",
+  "writers": "S. N. Behrman|Sonya Levien",
+  "cast_members": "Marian Nixon|Ralph Bellamy|Mae Marsh|Louise Closser Hale|Alan Hale|Sarah Padden|Alphonse Ethier|Eula Guy|Ronald Harris|Willis Marks",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 7327,
+  "source_work": {
+    "id": 20,
+    "slug": "rebecca-of-sunnybrook-farm",
+    "title": "Rebecca of Sunnybrook Farm",
+    "formatted_title": "Rebecca of Sunnybrook Farm",
+    "html_title": "<span class=\"work-title\">Rebecca of Sunnybrook Farm</span>",
+    "work_type": "novel",
+    "publication_year": 1903,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 3,
+    "year_to_adaptation": 29
+  },
+  "author": {
+    "id": 13,
+    "slug": "kate-douglas-wiggin",
+    "name": "Kate Douglas Wiggin",
+    "birth_year": 1856,
+    "death_year": 1923,
+    "nationality": "United States",
+    "film_count": 9
+  },
+  "other_adaptations": [
+    {
+      "id": 22,
+      "slug": "rebecca-of-sunnybrook-farm-1917",
+      "title": "Rebecca of Sunnybrook Farm",
+      "html_title": "<span class=\"film-title\">Rebecca of Sunnybrook Farm</span>",
+      "year": 1917,
+      "directors": "Marshall Neilan",
+      "studio": "Mary Pickford"
+    },
+    {
+      "id": 250,
+      "slug": "rebecca-of-sunnybrook-farm-1938",
+      "title": "Rebecca of Sunnybrook Farm",
+      "html_title": "<span class=\"film-title\">Rebecca of Sunnybrook Farm</span>",
+      "year": 1938,
+      "directors": "Allan Dwan",
+      "studio": "20th Century Fox"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 3,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": false
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

@@ -1,0 +1,88 @@
+{
+  "id": 308,
+  "slug": "jean-lee-latham",
+  "name": "Jean Lee Latham",
+  "birth_year": 1902,
+  "death_year": 1995,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American children's writer (1902–1995). Born in Buckhannon. Occupations: writer, children's writer, biographer",
+  "author_notes": null,
+  "wikidata_id": "Q6171019",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1947,
+    "last_adaptation": 1947,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Childrens works",
+        "count": 1
+      },
+      {
+        "genre": "Animation",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 726,
+      "slug": "fun-and-fancy-free-1947",
+      "title": "Fun and Fancy Free",
+      "html_title": "<span class=\"film-title\">Fun and Fancy Free</span>",
+      "year": 1947,
+      "studio": "Walt Disney ",
+      "directors": "Jack Kinney|Bill Roberts|Hamilton Luske",
+      "genres": [
+        "Childrens works",
+        "Animation",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Jack and the Beanstalk",
+      "work_html_title": "<span class=\"work-title\">Jack and the Beanstalk</span>",
+      "work_id": 640
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 640,
+      "slug": "jack-and-the-beanstalk",
+      "title": "Jack and the Beanstalk",
+      "formatted_title": "Jack and the Beanstalk",
+      "html_title": "<span class=\"work-title\">Jack and the Beanstalk</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 640,
+    "slug": "jack-and-the-beanstalk",
+    "title": "Jack and the Beanstalk",
+    "formatted_title": "Jack and the Beanstalk",
+    "html_title": "<span class=\"work-title\">Jack and the Beanstalk</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:14.216986"
+}

@@ -1,0 +1,59 @@
+{
+  "id": 142,
+  "slug": "the-little-yellow-house",
+  "title": "The Little Yellow House",
+  "formatted_title": "The Little Yellow House",
+  "html_title": "<span class=\"work-title\">The Little Yellow House</span>",
+  "work_type": "novel",
+  "publication_year": 1928,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 49,
+    "slug": "beatrice-burton",
+    "name": "Beatrice Burton",
+    "birth_year": 1894,
+    "death_year": 1983,
+    "film_count": 4
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 0,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 153,
+      "slug": "the-little-yellow-house-1928",
+      "title": "The Little Yellow House",
+      "html_title": "<span class=\"film-title\">The Little Yellow House</span>",
+      "year": 1928,
+      "studio": "FBO",
+      "directors": "James Leo Meehan",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "years_after_publication": 0
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:48:03.914138"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 399,
+  "slug": "katherine-pinkerton",
+  "name": "Katherine Pinkerton",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1922,
+    "last_adaptation": 1922,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 879,
+      "slug": "nancy-from-nowhere-1922",
+      "title": "Nancy From Nowhere",
+      "html_title": "<span class=\"film-title\">Nancy From Nowhere</span>",
+      "year": 1922,
+      "studio": "Realart ",
+      "directors": "Chester M. Franklin",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "Spring Fever",
+      "work_html_title": "<span class=\"work-title\">Spring Fever</span>",
+      "work_id": 788
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 788,
+      "slug": "spring-fever",
+      "title": "Spring Fever",
+      "formatted_title": "Spring Fever",
+      "html_title": "<span class=\"work-title\">Spring Fever</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 788,
+    "slug": "spring-fever",
+    "title": "Spring Fever",
+    "formatted_title": "Spring Fever",
+    "html_title": "<span class=\"work-title\">Spring Fever</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T17:57:33.053183"
+}

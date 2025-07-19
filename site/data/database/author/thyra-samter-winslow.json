@@ -1,0 +1,78 @@
+{
+  "id": 66,
+  "slug": "thyra-samter-winslow",
+  "name": "Thyra Samter Winslow",
+  "birth_year": 1885,
+  "death_year": 1961,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer and screenwriter. Born in Fort Smith. Died in Los Angeles. Occupations: journalist, actor, short story writer, screenwriter, writer, non-fiction writer, dancer",
+  "author_notes": null,
+  "wikidata_id": "Q51883022",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1935,
+    "last_adaptation": 1935,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 227,
+      "slug": "she-married-her-boss-1935",
+      "title": "She Married Her Boss",
+      "html_title": "<span class=\"film-title\">She Married Her Boss</span>",
+      "year": 1935,
+      "studio": "Columbia",
+      "directors": "Gregory La Cava",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "\"She Married Her Boss\"",
+      "work_html_title": "<span class=\"work-title\">\"She Married Her Boss\"</span>",
+      "work_id": 200
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 200,
+      "slug": "she-married-her-boss",
+      "title": "\"She Married Her Boss\"",
+      "formatted_title": "\"She Married Her Boss\"",
+      "html_title": "<span class=\"work-title\">\"She Married Her Boss\"</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 200,
+    "slug": "she-married-her-boss",
+    "title": "\"She Married Her Boss\"",
+    "formatted_title": "\"She Married Her Boss\"",
+    "html_title": "<span class=\"work-title\">\"She Married Her Boss\"</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:58.571288"
+}

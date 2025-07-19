@@ -1,0 +1,59 @@
+{
+  "id": 974,
+  "slug": "may-the-best-man-win",
+  "title": "May the Best Man Win",
+  "formatted_title": "May the Best Man Win",
+  "html_title": "<span class=\"work-title\">May the Best Man Win</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 495,
+    "slug": "mona-williams",
+    "name": "Mona Williams",
+    "birth_year": 1905,
+    "death_year": 1991,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1086,
+      "slug": "womans-world-1954",
+      "title": "Woman's World",
+      "html_title": "<span class=\"film-title\">Woman's World</span>",
+      "year": 1954,
+      "studio": "20th Century Fox",
+      "directors": "Jean Negulesco",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 1954
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T20:18:51.71862"
+}

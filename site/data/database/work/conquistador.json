@@ -1,0 +1,98 @@
+{
+  "id": 526,
+  "slug": "conquistador",
+  "title": "Conquistador",
+  "formatted_title": "Conquistador",
+  "html_title": "<span class=\"work-title\">Conquistador</span>",
+  "work_type": "novel",
+  "publication_year": 1923,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 237,
+    "slug": "katharine-fullerton-gerould",
+    "name": "Katharine Fullerton Gerould",
+    "birth_year": 1879,
+    "death_year": 1944,
+    "film_count": 3
+  },
+  "stats": {
+    "adaptation_count": 3,
+    "year_span": 15,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 8
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 3,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 600,
+      "slug": "the-yankee-seor-1926",
+      "title": "The Yankee Señor",
+      "html_title": "<span class=\"film-title\">The Yankee Señor</span>",
+      "year": 1926,
+      "studio": "Fox Film",
+      "directors": "Emmett Flynn",
+      "genres": [
+        "Western"
+      ],
+      "has_media": true,
+      "years_after_publication": 3
+    },
+    {
+      "id": 601,
+      "slug": "romance-of-the-rio-grande-1929",
+      "title": "Romance of the Rio Grande",
+      "html_title": "<span class=\"film-title\">Romance of the Rio Grande</span>",
+      "year": 1929,
+      "studio": "Fox Film",
+      "directors": "Alfred Santell",
+      "genres": [
+        "Western"
+      ],
+      "has_media": true,
+      "years_after_publication": 6
+    },
+    {
+      "id": 602,
+      "slug": "romance-of-the-rio-grande-1941",
+      "title": "Romance of the Rio Grande",
+      "html_title": "<span class=\"film-title\">Romance of the Rio Grande</span>",
+      "year": 1941,
+      "studio": "20th Century Fox",
+      "directors": "Herbert I. Leeds",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "years_after_publication": 18
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1926,
+      "to_year": 1929,
+      "gap_years": 3
+    },
+    {
+      "from_year": 1929,
+      "to_year": 1941,
+      "gap_years": 12
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T14:15:16.281213"
+}

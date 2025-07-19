@@ -1,0 +1,59 @@
+{
+  "id": 304,
+  "slug": "a-bride-for-henry",
+  "title": "A Bride for Henry",
+  "formatted_title": "A Bride for Henry",
+  "html_title": "<span class=\"work-title\">A Bride for Henry</span>",
+  "work_type": "novel",
+  "publication_year": 1937,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 116,
+    "slug": "josephine-bentham",
+    "name": "Josephine Bentham",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 0,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 368,
+      "slug": "a-bride-for-henry-1937",
+      "title": "A Bride for Henry",
+      "html_title": "<span class=\"film-title\">A Bride for Henry</span>",
+      "year": 1937,
+      "studio": "Monogram",
+      "directors": "William Nigh",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "years_after_publication": 0
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T23:48:19.757038"
+}

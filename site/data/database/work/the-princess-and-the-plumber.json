@@ -1,0 +1,59 @@
+{
+  "id": 155,
+  "slug": "the-princess-and-the-plumber",
+  "title": "The Princess and the Plumber",
+  "formatted_title": "The Princess and the Plumber",
+  "html_title": "<span class=\"work-title\">The Princess and the Plumber</span>",
+  "work_type": "novel",
+  "publication_year": 1929,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 24,
+    "slug": "alice-duer-miller",
+    "name": "Alice Duer Miller",
+    "birth_year": 1894,
+    "death_year": 1985,
+    "film_count": 22
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 167,
+      "slug": "the-princess-and-the-plumber-1930",
+      "title": "The Princess and the Plumber",
+      "html_title": "<span class=\"film-title\">The Princess and the Plumber</span>",
+      "year": 1930,
+      "studio": "Fox Film",
+      "directors": "Alexander Korda",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": true,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:48:03.914138"
+}

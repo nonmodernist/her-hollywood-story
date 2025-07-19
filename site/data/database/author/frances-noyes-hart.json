@@ -1,0 +1,83 @@
+{
+  "id": 255,
+  "slug": "frances-noyes-hart",
+  "name": "Frances Noyes Hart",
+  "birth_year": 1890,
+  "death_year": 1943,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1890-1943). Born in Washington, D.C.. Died in New Canaan. Occupations: writer, crime fiction writer",
+  "author_notes": null,
+  "wikidata_id": "Q5478872",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1929,
+    "last_adaptation": 1929,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Crime",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 629,
+      "slug": "the-bellamy-trial-1929",
+      "title": "The Bellamy Trial",
+      "html_title": "<span class=\"film-title\">The Bellamy Trial</span>",
+      "year": 1929,
+      "studio": "MGM",
+      "directors": "Monta Bell",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "has_media": true,
+      "work_title": "The Bellamy Trial",
+      "work_html_title": "<span class=\"work-title\">The Bellamy Trial</span>",
+      "work_id": 552
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 552,
+      "slug": "the-bellamy-trial",
+      "title": "The Bellamy Trial",
+      "formatted_title": "The Bellamy Trial",
+      "html_title": "<span class=\"work-title\">The Bellamy Trial</span>",
+      "work_type": "novel",
+      "publication_year": 1927,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 552,
+    "slug": "the-bellamy-trial",
+    "title": "The Bellamy Trial",
+    "formatted_title": "The Bellamy Trial",
+    "html_title": "<span class=\"work-title\">The Bellamy Trial</span>",
+    "work_type": "novel",
+    "publication_year": 1927,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:23:05.409577"
+}

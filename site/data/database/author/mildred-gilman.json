@@ -1,0 +1,83 @@
+{
+  "id": 238,
+  "slug": "mildred-gilman",
+  "name": "Mildred Gilman",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1931,
+    "last_adaptation": 1931,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Newspaper",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 603,
+      "slug": "sob-sister-1931",
+      "title": "Sob Sister",
+      "html_title": "<span class=\"film-title\">Sob Sister</span>",
+      "year": 1931,
+      "studio": "Fox Film",
+      "directors": "Alfred Santell",
+      "genres": [
+        "Comedy-drama",
+        "Newspaper"
+      ],
+      "has_media": false,
+      "work_title": "Sob Sister",
+      "work_html_title": "<span class=\"work-title\">Sob Sister</span>",
+      "work_id": 527
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 527,
+      "slug": "sob-sister",
+      "title": "Sob Sister",
+      "formatted_title": "Sob Sister",
+      "html_title": "<span class=\"work-title\">Sob Sister</span>",
+      "work_type": "novel",
+      "publication_year": 1931,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 527,
+    "slug": "sob-sister",
+    "title": "Sob Sister",
+    "formatted_title": "Sob Sister",
+    "html_title": "<span class=\"work-title\">Sob Sister</span>",
+    "work_type": "novel",
+    "publication_year": 1931,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-04T00:53:10.886851"
+}

@@ -1,0 +1,179 @@
+{
+  "id": 498,
+  "slug": "cherry-wilson",
+  "name": "Cherry Wilson",
+  "birth_year": 1893,
+  "death_year": 1976,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American novelist (1893-1976). Born in Pennsylvania. Occupations: writer",
+  "author_notes": "aka Rosemary Jeanne Burdick",
+  "wikidata_id": "Q62070979",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 4,
+    "first_adaptation": 1928,
+    "last_adaptation": 1937,
+    "year_span": 9,
+    "top_genres": [
+      {
+        "genre": "Western",
+        "count": 4
+      },
+      {
+        "genre": "with songs",
+        "count": 2
+      },
+      {
+        "genre": "Animal",
+        "count": 1
+      },
+      {
+        "genre": "Youth",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1,
+      "1930": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1095,
+      "slug": "the-branded-sombrero-1928",
+      "title": "The Branded Sombrero",
+      "html_title": "<span class=\"film-title\">The Branded Sombrero</span>",
+      "year": 1928,
+      "studio": "Fox Film",
+      "directors": "Lambert Hillyer",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "The Branded Sombrero",
+      "work_html_title": "<span class=\"work-title\">The Branded Sombrero</span>",
+      "work_id": 982
+    },
+    {
+      "id": 1098,
+      "slug": "stormy-1935",
+      "title": "Stormy",
+      "html_title": "<span class=\"film-title\">Stormy</span>",
+      "year": 1935,
+      "studio": "Universal",
+      "directors": "Louis Friedlander",
+      "genres": [
+        "Western",
+        "Animal",
+        "with songs",
+        "Youth"
+      ],
+      "has_media": false,
+      "work_title": "Stormy",
+      "work_html_title": "<span class=\"work-title\">Stormy</span>",
+      "work_id": 985
+    },
+    {
+      "id": 1096,
+      "slug": "empty-saddles-1936",
+      "title": "Empty Saddles",
+      "html_title": "<span class=\"film-title\">Empty Saddles</span>",
+      "year": 1936,
+      "studio": "Buck Jones Productions",
+      "directors": "Lesley Selander",
+      "genres": [
+        "Western",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Empty Saddles",
+      "work_html_title": "<span class=\"work-title\">Empty Saddles</span>",
+      "work_id": 983
+    },
+    {
+      "id": 1097,
+      "slug": "sandflow-1937",
+      "title": "Sandflow",
+      "html_title": "<span class=\"film-title\">Sandflow</span>",
+      "year": 1937,
+      "studio": "Universal",
+      "directors": "Lesley Selander",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "Starr of the Southwest",
+      "work_html_title": "<span class=\"work-title\">Starr of the Southwest</span>",
+      "work_id": 984
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 982,
+      "slug": "the-branded-sombrero",
+      "title": "The Branded Sombrero",
+      "formatted_title": "The Branded Sombrero",
+      "html_title": "<span class=\"work-title\">The Branded Sombrero</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 985,
+      "slug": "stormy",
+      "title": "Stormy",
+      "formatted_title": "Stormy",
+      "html_title": "<span class=\"work-title\">Stormy</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 983,
+      "slug": "empty-saddles",
+      "title": "Empty Saddles",
+      "formatted_title": "Empty Saddles",
+      "html_title": "<span class=\"work-title\">Empty Saddles</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 984,
+      "slug": "starr-of-the-southwest",
+      "title": "Starr of the Southwest",
+      "formatted_title": "Starr of the Southwest",
+      "html_title": "<span class=\"work-title\">Starr of the Southwest</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 982,
+    "slug": "the-branded-sombrero",
+    "title": "The Branded Sombrero",
+    "formatted_title": "The Branded Sombrero",
+    "html_title": "<span class=\"work-title\">The Branded Sombrero</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:55:05.475825"
+}

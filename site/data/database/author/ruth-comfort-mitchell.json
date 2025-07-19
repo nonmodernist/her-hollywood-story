@@ -1,0 +1,78 @@
+{
+  "id": 363,
+  "slug": "ruth-comfort-mitchell",
+  "name": "Ruth Comfort Mitchell",
+  "birth_year": 1882,
+  "death_year": 1954,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in San Francisco. Died in Los Gatos. Occupations: writer, poet, novelist",
+  "author_notes": "aka Ruth Comfort Mitchell Young and Mrs. Sanborn Young",
+  "wikidata_id": "Q7382928",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1926,
+    "last_adaptation": 1926,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 815,
+      "slug": "into-her-kingdom-1926",
+      "title": "Into Her Kingdom",
+      "html_title": "<span class=\"film-title\">Into Her Kingdom</span>",
+      "year": 1926,
+      "studio": "Corinne Griffith Productions",
+      "directors": "Svend Gade",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "Into Her Kingdom",
+      "work_html_title": "<span class=\"work-title\">Into Her Kingdom</span>",
+      "work_id": 721
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 721,
+      "slug": "into-her-kingdom",
+      "title": "Into Her Kingdom",
+      "formatted_title": "Into Her Kingdom",
+      "html_title": "<span class=\"work-title\">Into Her Kingdom</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 721,
+    "slug": "into-her-kingdom",
+    "title": "Into Her Kingdom",
+    "formatted_title": "Into Her Kingdom",
+    "html_title": "<span class=\"work-title\">Into Her Kingdom</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:57:25.129119"
+}

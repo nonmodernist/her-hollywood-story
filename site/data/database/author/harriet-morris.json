@@ -1,0 +1,78 @@
+{
+  "id": 369,
+  "slug": "harriet-morris",
+  "name": "Harriet Morris",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1917,
+    "last_adaptation": 1917,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 824,
+      "slug": "the-dancers-peril-1917",
+      "title": "The Dancer's Peril",
+      "html_title": "<span class=\"film-title\">The Dancer's Peril</span>",
+      "year": 1917,
+      "studio": "World Film",
+      "directors": "Travers Vale",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Snowbird",
+      "work_html_title": "<span class=\"work-title\">The Snowbird</span>",
+      "work_id": 730
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 730,
+      "slug": "the-snowbird",
+      "title": "The Snowbird",
+      "formatted_title": "The Snowbird",
+      "html_title": "<span class=\"work-title\">The Snowbird</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 730,
+    "slug": "the-snowbird",
+    "title": "The Snowbird",
+    "formatted_title": "The Snowbird",
+    "html_title": "<span class=\"work-title\">The Snowbird</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:18:42.615814"
+}

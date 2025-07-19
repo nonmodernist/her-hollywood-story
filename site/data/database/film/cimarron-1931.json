@@ -1,0 +1,96 @@
+{
+  "id": 179,
+  "slug": "cimarron-1931",
+  "title": "Cimarron",
+  "formatted_title": "Cimarron",
+  "html_title": "<span class=\"film-title\">Cimarron</span>",
+  "release_year": 1931,
+  "runtime_minutes": 131,
+  "country_of_production": "United States",
+  "genres": [
+    "Drama",
+    "Historical"
+  ],
+  "studio": "RKO",
+  "production_companies": "RKO Radio Pictures, Inc.",
+  "distribution_companies": "RKO Radio Pictures, Inc.",
+  "directors": "Wesley Ruggles",
+  "writers": "Howard Estabrook",
+  "cast_members": "Richard Dix|Irene Dunne|Estelle Taylor|Nance O'Neil|William Collier Jr.|Roscoe Ates|George Stone|Stanley Fields|Robert McWade|Edna May Oliver",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 899,
+  "source_work": {
+    "id": 165,
+    "slug": "cimarron",
+    "title": "Cimarron",
+    "formatted_title": "Cimarron",
+    "html_title": "<span class=\"work-title\">Cimarron</span>",
+    "work_type": "novel",
+    "publication_year": 1929,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 2
+  },
+  "author": {
+    "id": 40,
+    "slug": "edna-ferber",
+    "name": "Edna Ferber",
+    "birth_year": 1885,
+    "death_year": 1968,
+    "nationality": "United States",
+    "film_count": 24
+  },
+  "other_adaptations": [
+    {
+      "id": 339,
+      "slug": "cimarron-1960",
+      "title": "Cimarron",
+      "html_title": "<span class=\"film-title\">Cimarron</span>",
+      "year": 1960,
+      "directors": "Anthony Mann",
+      "studio": "MGM"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 1,
+    "is_first": true,
+    "is_latest": false
+  },
+  "media": [
+    {
+      "id": 601,
+      "media_type": "poster",
+      "title": "Cimarron 1931 Swedish Film Poster.png",
+      "caption": "Filmaffisch för filmen Cimarron från 1931.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Cimarron_1931_Swedish_Film_Poster.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cimarron_1931_Swedish_Film_Poster.png/300px-Cimarron_1931_Swedish_Film_Poster.png",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cimarron_1931_Swedish_Film_Poster.png",
+      "license": "other",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    },
+    {
+      "id": 602,
+      "media_type": "advertisement",
+      "title": "1931 - Embassy and Strand Theaters Ad - 1 Mar MC - Allentown PA.jpg",
+      "caption": "Embassy and Strand Theaters advertisement for the American western film Cimarron (1931) - 1 Mar. 1931 Morning Call, Allentown PA",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/1931_-_Embassy_and_Strand_Theaters_Ad_-_1_Mar_MC_-_Allentown_PA.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/1931_-_Embassy_and_Strand_Theaters_Ad_-_1_Mar_MC_-_Allentown_PA.jpg/300px-1931_-_Embassy_and_Strand_Theaters_Ad_-_1_Mar_MC_-_Allentown_PA.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1931_-_Embassy_and_Strand_Theaters_Ad_-_1_Mar_MC_-_Allentown_PA.jpg",
+      "license": "public_domain",
+      "attribution": "RKO Radio Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

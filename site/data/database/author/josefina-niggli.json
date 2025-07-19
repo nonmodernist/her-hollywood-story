@@ -1,0 +1,83 @@
+{
+  "id": 374,
+  "slug": "josefina-niggli",
+  "name": "Josefina Niggli",
+  "birth_year": 1910,
+  "death_year": 1983,
+  "nationality": "Mexico",
+  "literary_movement": null,
+  "biographical_notes": "Anglo-American playwright and novelist. Born in Monterrey. Died in Cullowhee. Occupations: novelist, poet, writer",
+  "author_notes": null,
+  "wikidata_id": "Q6280347",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1953,
+    "last_adaptation": 1953,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 830,
+      "slug": "sombrero-1953",
+      "title": "Sombrero",
+      "html_title": "<span class=\"film-title\">Sombrero</span>",
+      "year": 1953,
+      "studio": "MGM",
+      "directors": "Norman Foster",
+      "genres": [
+        "Romance",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "A Mexican Village",
+      "work_html_title": "<span class=\"work-title\">A Mexican Village</span>",
+      "work_id": 740
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 740,
+      "slug": "a-mexican-village",
+      "title": "A Mexican Village",
+      "formatted_title": "A Mexican Village",
+      "html_title": "<span class=\"work-title\">A Mexican Village</span>",
+      "work_type": "novel",
+      "publication_year": 1945,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 740,
+    "slug": "a-mexican-village",
+    "title": "A Mexican Village",
+    "formatted_title": "A Mexican Village",
+    "html_title": "<span class=\"work-title\">A Mexican Village</span>",
+    "work_type": "novel",
+    "publication_year": 1945,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T14:48:34.648751"
+}

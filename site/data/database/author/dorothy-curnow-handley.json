@@ -1,0 +1,88 @@
+{
+  "id": 249,
+  "slug": "dorothy-curnow-handley",
+  "name": "Dorothy Curnow Handley",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1944,
+    "last_adaptation": 1944,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Homefront",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 621,
+      "slug": "rosie-the-riveter-1944",
+      "title": "Rosie, the Riveter",
+      "html_title": "<span class=\"film-title\">Rosie, the Riveter</span>",
+      "year": 1944,
+      "studio": "Republic",
+      "directors": "Joseph Santley",
+      "genres": [
+        "Comedy",
+        "Homefront",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Room for Two",
+      "work_html_title": "<span class=\"work-title\">Room for Two</span>",
+      "work_id": 544
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 544,
+      "slug": "room-for-two",
+      "title": "Room for Two",
+      "formatted_title": "Room for Two",
+      "html_title": "<span class=\"work-title\">Room for Two</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 544,
+    "slug": "room-for-two",
+    "title": "Room for Two",
+    "formatted_title": "Room for Two",
+    "html_title": "<span class=\"work-title\">Room for Two</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:18:25.74318"
+}

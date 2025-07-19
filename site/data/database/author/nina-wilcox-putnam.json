@@ -1,0 +1,204 @@
+{
+  "id": 405,
+  "slug": "nina-wilcox-putnam",
+  "name": "Nina Wilcox Putnam",
+  "birth_year": 1888,
+  "death_year": 1962,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American novelist, screenwriter and playwright (1888-1962). Born in New Haven. Died in Cuernavaca. Occupations: humorist, playwright, writer, novelist, children's writer, screenwriter",
+  "author_notes": null,
+  "wikidata_id": "Q7038163",
+  "stats": {
+    "total_films": 5,
+    "works_adapted": 5,
+    "first_adaptation": 1918,
+    "last_adaptation": 1927,
+    "year_span": 9,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 3
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "World War I",
+        "count": 1
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2,
+      "1920": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 893,
+      "slug": "the-price-of-applause-1918",
+      "title": "The Price of Applause",
+      "html_title": "<span class=\"film-title\">The Price of Applause</span>",
+      "year": 1918,
+      "studio": "Triangle Film",
+      "directors": "Thomas N. Heffron",
+      "genres": [
+        "Drama",
+        "World War I"
+      ],
+      "has_media": false,
+      "work_title": "The Price of Applause",
+      "work_html_title": "<span class=\"work-title\">The Price of Applause</span>",
+      "work_id": 801
+    },
+    {
+      "id": 891,
+      "slug": "in-search-of-arcady-1919",
+      "title": "In Search of Arcady",
+      "html_title": "<span class=\"film-title\">In Search of Arcady</span>",
+      "year": 1919,
+      "studio": "National Film Corp",
+      "directors": "Bertram Bracken",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "In Search of Arcady",
+      "work_html_title": "<span class=\"work-title\">In Search of Arcady</span>",
+      "work_id": 799
+    },
+    {
+      "id": 892,
+      "slug": "two-weeks-with-pay-1921",
+      "title": "Two Weeks with Pay",
+      "html_title": "<span class=\"film-title\">Two Weeks with Pay</span>",
+      "year": 1921,
+      "studio": "Realart ",
+      "directors": "Maurice Campbell",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "Two Weeks with Pay",
+      "work_html_title": "<span class=\"work-title\">Two Weeks with Pay</span>",
+      "work_id": 800
+    },
+    {
+      "id": 889,
+      "slug": "the-beautiful-cheat-1926",
+      "title": "The Beautiful Cheat",
+      "html_title": "<span class=\"film-title\">The Beautiful Cheat</span>",
+      "year": 1926,
+      "studio": "Universal",
+      "directors": "Edward Sloman",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "Doubling for Cupid",
+      "work_html_title": "<span class=\"work-title\">Doubling for Cupid</span>",
+      "work_id": 797
+    },
+    {
+      "id": 890,
+      "slug": "slaves-of-beauty-1927",
+      "title": "Slaves of Beauty",
+      "html_title": "<span class=\"film-title\">Slaves of Beauty</span>",
+      "year": 1927,
+      "studio": "Fox Film",
+      "directors": "J. G. Blystone",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "The Grandflapper",
+      "work_html_title": "<span class=\"work-title\">The Grandflapper</span>",
+      "work_id": 798
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 801,
+      "slug": "the-price-of-applause",
+      "title": "The Price of Applause",
+      "formatted_title": "The Price of Applause",
+      "html_title": "<span class=\"work-title\">The Price of Applause</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 799,
+      "slug": "in-search-of-arcady",
+      "title": "In Search of Arcady",
+      "formatted_title": "In Search of Arcady",
+      "html_title": "<span class=\"work-title\">In Search of Arcady</span>",
+      "work_type": "novel",
+      "publication_year": 1912,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 800,
+      "slug": "two-weeks-with-pay",
+      "title": "Two Weeks with Pay",
+      "formatted_title": "Two Weeks with Pay",
+      "html_title": "<span class=\"work-title\">Two Weeks with Pay</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 797,
+      "slug": "doubling-for-cupid",
+      "title": "Doubling for Cupid",
+      "formatted_title": "Doubling for Cupid",
+      "html_title": "<span class=\"work-title\">Doubling for Cupid</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 798,
+      "slug": "the-grandflapper",
+      "title": "The Grandflapper",
+      "formatted_title": "The Grandflapper",
+      "html_title": "<span class=\"work-title\">The Grandflapper</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 801,
+    "slug": "the-price-of-applause",
+    "title": "The Price of Applause",
+    "formatted_title": "The Price of Applause",
+    "html_title": "<span class=\"work-title\">The Price of Applause</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T18:25:15.735643"
+}

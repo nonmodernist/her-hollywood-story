@@ -1,0 +1,61 @@
+{
+  "id": 264,
+  "slug": "the-member-of-the-wedding",
+  "title": "The Member of the Wedding",
+  "formatted_title": "The Member of the Wedding",
+  "html_title": "<span class=\"work-title\">The Member of the Wedding</span>",
+  "work_type": "novel",
+  "publication_year": 1946,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 98,
+    "slug": "carson-mccullers",
+    "name": "Carson McCullers",
+    "birth_year": 1917,
+    "death_year": 1967,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 6,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 315,
+      "slug": "the-member-of-the-wedding-1952",
+      "title": "The Member of the Wedding",
+      "html_title": "<span class=\"film-title\">The Member of the Wedding</span>",
+      "year": 1952,
+      "studio": "Columbia",
+      "directors": "Fred Zinnemann",
+      "genres": [
+        "Drama",
+        "Domestic",
+        "Teenage"
+      ],
+      "has_media": false,
+      "years_after_publication": 6
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:48:03.914138"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 242,
+  "slug": "sheilah-graham",
+  "name": "Sheilah Graham",
+  "birth_year": 1904,
+  "death_year": 1988,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American gossip columnist (1904–1988). Born in Leeds. Died in Palm Beach. Occupations: columnist",
+  "author_notes": null,
+  "wikidata_id": "Q7493182",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1960,
+    "last_adaptation": 1960,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Biography",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1960": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 610,
+      "slug": "beloved-infidel-1960",
+      "title": "Beloved Infidel",
+      "html_title": "<span class=\"film-title\">Beloved Infidel</span>",
+      "year": 1960,
+      "studio": "Company of Artists",
+      "directors": "Henry King",
+      "genres": [
+        "Biography"
+      ],
+      "has_media": false,
+      "work_title": "Beloved Infidel",
+      "work_html_title": "<span class=\"work-title\">Beloved Infidel</span>",
+      "work_id": 534
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 534,
+      "slug": "beloved-infidel",
+      "title": "Beloved Infidel",
+      "formatted_title": "Beloved Infidel",
+      "html_title": "<span class=\"work-title\">Beloved Infidel</span>",
+      "work_type": "novel",
+      "publication_year": 1958,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 534,
+    "slug": "beloved-infidel",
+    "title": "Beloved Infidel",
+    "formatted_title": "Beloved Infidel",
+    "html_title": "<span class=\"work-title\">Beloved Infidel</span>",
+    "work_type": "novel",
+    "publication_year": 1958,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-04T03:29:22.368159"
+}

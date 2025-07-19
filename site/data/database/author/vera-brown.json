@@ -1,0 +1,99 @@
+{
+  "id": 142,
+  "slug": "vera-brown",
+  "name": "Vera Brown",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 1,
+    "first_adaptation": 1933,
+    "last_adaptation": 1941,
+    "year_span": 8,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1,
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 404,
+      "slug": "redhead-1933",
+      "title": "Redhead",
+      "html_title": "<span class=\"film-title\">Redhead</span>",
+      "year": 1933,
+      "studio": "Monogram",
+      "directors": "Melville Brown",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Redhead",
+      "work_html_title": "<span class=\"work-title\">Redhead</span>",
+      "work_id": 341
+    },
+    {
+      "id": 405,
+      "slug": "redhead-1941",
+      "title": "Redhead",
+      "html_title": "<span class=\"film-title\">Redhead</span>",
+      "year": 1941,
+      "studio": "Monogram",
+      "directors": "Edward Cahn",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "Redhead",
+      "work_html_title": "<span class=\"work-title\">Redhead</span>",
+      "work_id": 341
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 341,
+      "slug": "redhead",
+      "title": "Redhead",
+      "formatted_title": "Redhead",
+      "html_title": "<span class=\"work-title\">Redhead</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 341,
+    "slug": "redhead",
+    "title": "Redhead",
+    "formatted_title": "Redhead",
+    "html_title": "<span class=\"work-title\">Redhead</span>",
+    "work_type": "novel",
+    "publication_year": 1933,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-18T03:01:30.931046"
+}

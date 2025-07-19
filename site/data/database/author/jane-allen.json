@@ -1,0 +1,111 @@
+{
+  "id": 73,
+  "slug": "jane-allen",
+  "name": "Jane Allen",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": "group pseud of Silvia Schulman and Jane Shore, and later Jane Shore and ???",
+  "wikidata_id": "-",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1941,
+    "last_adaptation": 1946,
+    "year_span": 5,
+    "top_genres": [
+      {
+        "genre": "Romantic comedy",
+        "count": 2
+      },
+      {
+        "genre": "Road",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 260,
+      "slug": "she-knew-all-the-answers-1941",
+      "title": "She Knew All the Answers",
+      "html_title": "<span class=\"film-title\">She Knew All the Answers</span>",
+      "year": 1941,
+      "studio": "Columbia",
+      "directors": "Richard Wallace",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": false,
+      "work_title": "\"A Girl's Best Friend is Wall Street\"",
+      "work_html_title": "<span class=\"work-title\">\"A Girl's Best Friend is Wall Street\"</span>",
+      "work_id": 219
+    },
+    {
+      "id": 348,
+      "slug": "without-reservations-1946",
+      "title": "Without Reservations",
+      "html_title": "<span class=\"film-title\">Without Reservations</span>",
+      "year": 1946,
+      "studio": "RKO",
+      "directors": "Mervyn LeRoy",
+      "genres": [
+        "Romantic comedy",
+        "Road"
+      ],
+      "has_media": false,
+      "work_title": "Thanks God! I'll Take It From Here",
+      "work_html_title": "<span class=\"work-title\">Thanks God! I'll Take It From Here</span>",
+      "work_id": 285
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 219,
+      "slug": "a-girls-best-friend-is-wall-street",
+      "title": "\"A Girl's Best Friend is Wall Street\"",
+      "formatted_title": "\"A Girl's Best Friend is Wall Street\"",
+      "html_title": "<span class=\"work-title\">\"A Girl's Best Friend is Wall Street\"</span>",
+      "work_type": "novel",
+      "publication_year": 1938,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 285,
+      "slug": "thanks-god-ill-take-it-from-here",
+      "title": "Thanks God! I'll Take It From Here",
+      "formatted_title": "Thanks God! I'll Take It From Here",
+      "html_title": "<span class=\"work-title\">Thanks God! I'll Take It From Here</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 219,
+    "slug": "a-girls-best-friend-is-wall-street",
+    "title": "\"A Girl's Best Friend is Wall Street\"",
+    "formatted_title": "\"A Girl's Best Friend is Wall Street\"",
+    "html_title": "<span class=\"work-title\">\"A Girl's Best Friend is Wall Street\"</span>",
+    "work_type": "novel",
+    "publication_year": 1938,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T03:50:49.396576"
+}

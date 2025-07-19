@@ -1,0 +1,100 @@
+{
+  "id": 5,
+  "slug": "tess-of-the-storm-country-1914",
+  "title": "Tess of the Storm Country",
+  "formatted_title": "Tess of the Storm Country",
+  "html_title": "<span class=\"film-title\">Tess of the Storm Country</span>",
+  "release_year": 1914,
+  "runtime_minutes": 80,
+  "country_of_production": "United States",
+  "genres": [
+    "Drama"
+  ],
+  "studio": "Famous Players",
+  "production_companies": "Famous Players Film Co.",
+  "distribution_companies": "State Rights",
+  "directors": null,
+  "writers": "B. P. Schulberg",
+  "cast_members": "Mary Pickford|Harold Lockwood|Olive Carey|David M. Hartford|Louise Dunlap|W. R. Walters|Richard Garrick|Eugene Walter|Lorraine Thompson|Jack Henry",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 16453,
+  "source_work": {
+    "id": 5,
+    "slug": "tess-of-the-storm-country",
+    "title": "Tess of the Storm Country",
+    "formatted_title": "Tess of the Storm Country",
+    "html_title": "<span class=\"work-title\">Tess of the Storm Country</span>",
+    "work_type": "novel",
+    "publication_year": 1909,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 4,
+    "year_to_adaptation": 5
+  },
+  "author": {
+    "id": 4,
+    "slug": "grace-miller-white",
+    "name": "Grace Miller White",
+    "birth_year": 1868,
+    "death_year": 1957,
+    "nationality": "United States",
+    "film_count": 9
+  },
+  "other_adaptations": [
+    {
+      "id": 88,
+      "slug": "tess-of-the-storm-country-1922",
+      "title": "Tess of the Storm Country",
+      "html_title": "<span class=\"film-title\">Tess of the Storm Country</span>",
+      "year": 1922,
+      "directors": "John S. Robertson",
+      "studio": "Mary Pickford"
+    },
+    {
+      "id": 185,
+      "slug": "tess-of-the-storm-country-1932",
+      "title": "Tess of the Storm Country",
+      "html_title": "<span class=\"film-title\">Tess of the Storm Country</span>",
+      "year": 1932,
+      "directors": "Alfred Santell",
+      "studio": "Fox Film"
+    },
+    {
+      "id": 338,
+      "slug": "tess-of-the-storm-country-1960",
+      "title": "Tess of the Storm Country",
+      "html_title": "<span class=\"film-title\">Tess of the Storm Country</span>",
+      "year": 1960,
+      "directors": "Paul Guilfoyle",
+      "studio": "20th Century Fox"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 4,
+    "adaptation_number": 1,
+    "is_first": true,
+    "is_latest": false
+  },
+  "media": [
+    {
+      "id": 12,
+      "media_type": "advertisement",
+      "title": "Tess of the Storm Country-lanternslide-1914.jpg",
+      "caption": "Tess of the Storm Country is a 1914 silent drama, based on the 1909 novel of the same name by Grace Miller White. This is a lantern slide for the film.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Tess_of_the_Storm_Country-lanternslide-1914.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Tess_of_the_Storm_Country-lanternslide-1914.jpg/300px-Tess_of_the_Storm_Country-lanternslide-1914.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tess_of_the_Storm_Country-lanternslide-1914.jpg",
+      "license": "public_domain",
+      "attribution": "famous players",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

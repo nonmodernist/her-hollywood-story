@@ -1,0 +1,78 @@
+{
+  "id": 272,
+  "slug": "doris-hume",
+  "name": "Doris Hume",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1961,
+    "last_adaptation": 1961,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1960": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 655,
+      "slug": "susan-slade-1961",
+      "title": "Susan Slade",
+      "html_title": "<span class=\"film-title\">Susan Slade</span>",
+      "year": 1961,
+      "studio": "Warner Bros",
+      "directors": "Delmer Daves",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "The Sin of Susan Slade",
+      "work_html_title": "<span class=\"work-title\">The Sin of Susan Slade</span>",
+      "work_id": 574
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 574,
+      "slug": "the-sin-of-susan-slade",
+      "title": "The Sin of Susan Slade",
+      "formatted_title": "The Sin of Susan Slade",
+      "html_title": "<span class=\"work-title\">The Sin of Susan Slade</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 574,
+    "slug": "the-sin-of-susan-slade",
+    "title": "The Sin of Susan Slade",
+    "formatted_title": "The Sin of Susan Slade",
+    "html_title": "<span class=\"work-title\">The Sin of Susan Slade</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:18:25.74318"
+}

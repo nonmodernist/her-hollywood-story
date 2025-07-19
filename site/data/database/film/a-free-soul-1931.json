@@ -1,0 +1,96 @@
+{
+  "id": 182,
+  "slug": "a-free-soul-1931",
+  "title": "A Free Soul",
+  "formatted_title": "A Free Soul",
+  "html_title": "<span class=\"film-title\">A Free Soul</span>",
+  "release_year": 1931,
+  "runtime_minutes": 93,
+  "country_of_production": "United States",
+  "genres": [
+    "Drama",
+    "Legal"
+  ],
+  "studio": "MGM",
+  "production_companies": "Metro-Goldwyn-Mayer Corp.",
+  "distribution_companies": "Metro-Goldwyn-Mayer Distributing Corp.",
+  "directors": "Clarence Brown",
+  "writers": "Becky Gardiner",
+  "cast_members": "Norma Shearer|Leslie Howard|Lionel Barrymore|Clark Gable|James Gleason|Lucy Beaumont|Claire Whitney|Frank Sheridan|E. Alyn Warren|George Irving",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 7362,
+  "source_work": {
+    "id": 168,
+    "slug": "a-free-soul",
+    "title": "A Free Soul",
+    "formatted_title": "A Free Soul",
+    "html_title": "<span class=\"work-title\">A Free Soul</span>",
+    "work_type": "novel",
+    "publication_year": 1927,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 4
+  },
+  "author": {
+    "id": 43,
+    "slug": "adela-rogers-st-johns",
+    "name": "Adela Rogers St. Johns",
+    "birth_year": 1894,
+    "death_year": 1988,
+    "nationality": "United States",
+    "film_count": 12
+  },
+  "other_adaptations": [
+    {
+      "id": 324,
+      "slug": "the-girl-who-had-everything-1953",
+      "title": "The Girl Who Had Everything",
+      "html_title": "<span class=\"film-title\">The Girl Who Had Everything</span>",
+      "year": 1953,
+      "directors": "Richard Thorpe",
+      "studio": "MGM"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 1,
+    "is_first": true,
+    "is_latest": false
+  },
+  "media": [
+    {
+      "id": 603,
+      "media_type": "poster",
+      "title": "A Free Soul (1931) film poster.jpg",
+      "caption": "A Free Soul (1931) film poster",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/A_Free_Soul_%281931%29_film_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/A_Free_Soul_%281931%29_film_poster.jpg/300px-A_Free_Soul_%281931%29_film_poster.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:A_Free_Soul_(1931)_film_poster.jpg",
+      "license": "public_domain",
+      "attribution": "Metro-Goldwyn-Mayer",
+      "is_featured": "False"
+    },
+    {
+      "id": 604,
+      "media_type": "lobby_card",
+      "title": "Free Soul lobby card.jpg",
+      "caption": "Lobby card for the American pre-Code drama film A Free Soul (1931).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Free_Soul_lobby_card.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Free_Soul_lobby_card.jpg/300px-Free_Soul_lobby_card.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Free_Soul_lobby_card.jpg",
+      "license": "public_domain",
+      "attribution": "Metro-Goldwyn-Mayer (MGM)",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

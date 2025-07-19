@@ -1,0 +1,83 @@
+{
+  "id": 265,
+  "slug": "katherine-hill",
+  "name": "Katherine Hill",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": "-",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1922,
+    "last_adaptation": 1922,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Fantasy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 641,
+      "slug": "dusk-to-dawn-1922",
+      "title": "Dusk to Dawn",
+      "html_title": "<span class=\"film-title\">Dusk to Dawn</span>",
+      "year": 1922,
+      "studio": "Florence Vidor Productions",
+      "directors": "King Vidor",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "has_media": true,
+      "work_title": "The Shuttle Soul",
+      "work_html_title": "<span class=\"work-title\">The Shuttle Soul</span>",
+      "work_id": 564
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 564,
+      "slug": "the-shuttle-soul",
+      "title": "The Shuttle Soul",
+      "formatted_title": "The Shuttle Soul",
+      "html_title": "<span class=\"work-title\">The Shuttle Soul</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 564,
+    "slug": "the-shuttle-soul",
+    "title": "The Shuttle Soul",
+    "formatted_title": "The Shuttle Soul",
+    "html_title": "<span class=\"work-title\">The Shuttle Soul</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:24:29.873349"
+}

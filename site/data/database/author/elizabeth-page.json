@@ -1,0 +1,83 @@
+{
+  "id": 386,
+  "slug": "elizabeth-page",
+  "name": "Elizabeth Page",
+  "birth_year": 1889,
+  "death_year": 1969,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American novelist (1889-1969). Occupations: novelist, writer, screenwriter",
+  "author_notes": "aka Elizabeth Merwin Page Harris",
+  "wikidata_id": "Q18155691",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1940,
+    "last_adaptation": 1940,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 865,
+      "slug": "the-howards-of-virginia-1940",
+      "title": "The Howards of Virginia",
+      "html_title": "<span class=\"film-title\">The Howards of Virginia</span>",
+      "year": 1940,
+      "studio": "Columbia",
+      "directors": "Frank Lloyd",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "Tree of Liberty",
+      "work_html_title": "<span class=\"work-title\">Tree of Liberty</span>",
+      "work_id": 773
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 773,
+      "slug": "tree-of-liberty",
+      "title": "Tree of Liberty",
+      "formatted_title": "Tree of Liberty",
+      "html_title": "<span class=\"work-title\">Tree of Liberty</span>",
+      "work_type": "novel",
+      "publication_year": 1939,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 773,
+    "slug": "tree-of-liberty",
+    "title": "Tree of Liberty",
+    "formatted_title": "Tree of Liberty",
+    "html_title": "<span class=\"work-title\">Tree of Liberty</span>",
+    "work_type": "novel",
+    "publication_year": 1939,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T18:24:55.599383"
+}

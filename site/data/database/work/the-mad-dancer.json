@@ -1,0 +1,60 @@
+{
+  "id": 988,
+  "slug": "the-mad-dancer",
+  "title": "The Mad Dancer",
+  "formatted_title": "The Mad Dancer",
+  "html_title": "<span class=\"work-title\">The Mad Dancer</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 501,
+    "slug": "louise-winter",
+    "name": "Louise Winter",
+    "birth_year": 1959,
+    "death_year": null,
+    "film_count": 4
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1101,
+      "slug": "the-mad-dancer-1925",
+      "title": "The Mad Dancer",
+      "html_title": "<span class=\"film-title\">The Mad Dancer</span>",
+      "year": 1925,
+      "studio": "Jans Productions",
+      "directors": "Burton King",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": false,
+      "years_after_publication": 1925
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T20:27:25.475525"
+}

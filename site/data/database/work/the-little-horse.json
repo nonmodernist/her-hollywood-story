@@ -1,0 +1,80 @@
+{
+  "id": 966,
+  "slug": "the-little-horse",
+  "title": "The Little Horse",
+  "formatted_title": "The Little Horse",
+  "html_title": "<span class=\"work-title\">The Little Horse</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 492,
+    "slug": "nelia-gardner-white",
+    "name": "Nelia Gardner White",
+    "birth_year": 1894,
+    "death_year": 1957,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 12,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 12
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1075,
+      "slug": "sentimental-journey-1946",
+      "title": "Sentimental Journey",
+      "html_title": "<span class=\"film-title\">Sentimental Journey</span>",
+      "year": 1946,
+      "studio": "20th Century Fox",
+      "directors": "Walter Lang",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "years_after_publication": 1946
+    },
+    {
+      "id": 1076,
+      "slug": "the-gift-of-love-1958",
+      "title": "The Gift of Love",
+      "html_title": "<span class=\"film-title\">The Gift of Love</span>",
+      "year": 1958,
+      "studio": "20th Century Fox",
+      "directors": "Jean Negulesco",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 1958
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1946,
+      "to_year": 1958,
+      "gap_years": 12
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T20:13:50.819056"
+}

@@ -1,0 +1,59 @@
+{
+  "id": 78,
+  "slug": "mamselle-jo",
+  "title": "Mam'selle Jo",
+  "formatted_title": "Mam'selle Jo",
+  "html_title": "<span class=\"work-title\">Mam'selle Jo</span>",
+  "work_type": "novel",
+  "publication_year": 1918,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 8,
+    "slug": "harriet-theresa-comstock",
+    "name": "Harriet Theresa Comstock",
+    "birth_year": 1860,
+    "death_year": 1925,
+    "film_count": 4
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 3,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 81,
+      "slug": "silent-years-1921",
+      "title": "Silent Years",
+      "html_title": "<span class=\"film-title\">Silent Years</span>",
+      "year": 1921,
+      "studio": "Robertson-Cole",
+      "directors": "Louis J. Gasnier",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "years_after_publication": 3
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:48:03.914138"
+}

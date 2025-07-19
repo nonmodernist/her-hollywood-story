@@ -1,0 +1,732 @@
+{
+  "id": 25,
+  "slug": "fannie-hurst",
+  "name": "Fannie Hurst",
+  "birth_year": 1889,
+  "death_year": 1968,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American novelist (1889–1968). Born in Hamilton. Died in New York City. Occupations: novelist, writer. Notable works: Back Street",
+  "author_notes": null,
+  "wikidata_id": "Q275719",
+  "stats": {
+    "total_films": 27,
+    "works_adapted": 18,
+    "first_adaptation": 1918,
+    "last_adaptation": 1961,
+    "year_span": 43,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 14
+      },
+      {
+        "genre": "Drama",
+        "count": 9
+      },
+      {
+        "genre": "Society",
+        "count": 5
+      },
+      {
+        "genre": "Domestic",
+        "count": 4
+      },
+      {
+        "genre": "with songs",
+        "count": 3
+      }
+    ],
+    "films_by_decade": {
+      "1910": 3,
+      "1920": 9,
+      "1930": 8,
+      "1940": 4,
+      "1950": 2,
+      "1960": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": true,
+    "twenty_timer_rank": 2
+  },
+  "films": [
+    {
+      "id": 44,
+      "slug": "her-great-chance-1918",
+      "title": "Her Great Chance",
+      "html_title": "<span class=\"film-title\">Her Great Chance</span>",
+      "year": 1918,
+      "studio": "Select Pictures",
+      "directors": "Charles Maigne",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "\"Golden Fleece\"",
+      "work_html_title": "<span class=\"work-title\">\"Golden Fleece\"</span>",
+      "work_id": 42
+    },
+    {
+      "id": 55,
+      "slug": "the-day-she-paid-1919",
+      "title": "The Day She Paid",
+      "html_title": "<span class=\"film-title\">The Day She Paid</span>",
+      "year": 1919,
+      "studio": "Universal",
+      "directors": "Rex Ingram",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "\"Oats for the Woman\"",
+      "work_html_title": "<span class=\"work-title\">\"Oats for the Woman\"</span>",
+      "work_id": 52
+    },
+    {
+      "id": 56,
+      "slug": "the-petal-on-the-current-1919",
+      "title": "The Petal on the Current",
+      "html_title": "<span class=\"film-title\">The Petal on the Current</span>",
+      "year": 1919,
+      "studio": "Universal",
+      "directors": "Tod Browning",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "\"The Petal on the Current\"",
+      "work_html_title": "<span class=\"work-title\">\"The Petal on the Current\"</span>",
+      "work_id": 53
+    },
+    {
+      "id": 63,
+      "slug": "humoresque-1920",
+      "title": "Humoresque",
+      "html_title": "<span class=\"film-title\">Humoresque</span>",
+      "year": 1920,
+      "studio": "Cosmopolitan",
+      "directors": "Frank Borzage",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Humoresque",
+      "work_html_title": "<span class=\"work-title\">Humoresque</span>",
+      "work_id": 60
+    },
+    {
+      "id": 78,
+      "slug": "just-around-the-corner-1921",
+      "title": "Just Around the Corner",
+      "html_title": "<span class=\"film-title\">Just Around the Corner</span>",
+      "year": 1921,
+      "studio": "Cosmopolitan",
+      "directors": "Frances Marion",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "\"Just Around the Corner\"",
+      "work_html_title": "<span class=\"work-title\">\"Just Around the Corner\"</span>",
+      "work_id": 75
+    },
+    {
+      "id": 79,
+      "slug": "stardust-1921",
+      "title": "Stardust",
+      "html_title": "<span class=\"film-title\">Stardust</span>",
+      "year": 1921,
+      "studio": "Hobart Henley Productions",
+      "directors": "Hobart Henley",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "Star-Dust",
+      "work_html_title": "<span class=\"work-title\">Star-Dust</span>",
+      "work_id": 76
+    },
+    {
+      "id": 91,
+      "slug": "back-pay-1922",
+      "title": "Back Pay",
+      "html_title": "<span class=\"film-title\">Back Pay</span>",
+      "year": 1922,
+      "studio": "Cosmopolitan",
+      "directors": "Frank Borzage",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "\"Back Pay\"",
+      "work_html_title": "<span class=\"work-title\">\"Back Pay\"</span>",
+      "work_id": 87
+    },
+    {
+      "id": 90,
+      "slug": "the-good-provider-1922",
+      "title": "The Good Provider",
+      "html_title": "<span class=\"film-title\">The Good Provider</span>",
+      "year": 1922,
+      "studio": "Cosmopolitan",
+      "directors": "Frank Borzage",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "\"The Good Provider\"",
+      "work_html_title": "<span class=\"work-title\">\"The Good Provider\"</span>",
+      "work_id": 86
+    },
+    {
+      "id": 101,
+      "slug": "the-nth-commandment-1923",
+      "title": "The Nth Commandment",
+      "html_title": "<span class=\"film-title\">The Nth Commandment</span>",
+      "year": 1923,
+      "studio": "Cosmopolitan",
+      "directors": "Frank Borzage",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "\"The Nth Commandment\"",
+      "work_html_title": "<span class=\"work-title\">\"The Nth Commandment\"</span>",
+      "work_id": 97
+    },
+    {
+      "id": 130,
+      "slug": "mannequin-1926",
+      "title": "Mannequin",
+      "html_title": "<span class=\"film-title\">Mannequin</span>",
+      "year": 1926,
+      "studio": "Famous Players-Lasky",
+      "directors": "James Cruze",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Mannequin",
+      "work_html_title": "<span class=\"work-title\">Mannequin</span>",
+      "work_id": 124
+    },
+    {
+      "id": 154,
+      "slug": "wheel-of-chance-1928",
+      "title": "Wheel of Chance",
+      "html_title": "<span class=\"film-title\">Wheel of Chance</span>",
+      "year": 1928,
+      "studio": "First National",
+      "directors": "Alfred Santell",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "\"Roulette\"",
+      "work_html_title": "<span class=\"work-title\">\"Roulette\"</span>",
+      "work_id": 143
+    },
+    {
+      "id": 159,
+      "slug": "the-painted-angel-1929",
+      "title": "The Painted Angel",
+      "html_title": "<span class=\"film-title\">The Painted Angel</span>",
+      "year": 1929,
+      "studio": "First National",
+      "directors": "Millard Webb",
+      "genres": [
+        "Melodrama",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "\"Give the Little Girl a Hand\"",
+      "work_html_title": "<span class=\"work-title\">\"Give the Little Girl a Hand\"</span>",
+      "work_id": 148
+    },
+    {
+      "id": 173,
+      "slug": "back-pay-1930",
+      "title": "Back Pay",
+      "html_title": "<span class=\"film-title\">Back Pay</span>",
+      "year": 1930,
+      "studio": "First National",
+      "directors": null,
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "\"Back Pay\"",
+      "work_html_title": "<span class=\"work-title\">\"Back Pay\"</span>",
+      "work_id": 87
+    },
+    {
+      "id": 171,
+      "slug": "lummox-1930",
+      "title": "Lummox",
+      "html_title": "<span class=\"film-title\">Lummox</span>",
+      "year": 1930,
+      "studio": "United Artists",
+      "directors": "Herbert Brenon",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "Lummox",
+      "work_html_title": "<span class=\"work-title\">Lummox</span>",
+      "work_id": 158
+    },
+    {
+      "id": 183,
+      "slug": "five-and-ten-1931",
+      "title": "Five and Ten",
+      "html_title": "<span class=\"film-title\">Five and Ten</span>",
+      "year": 1931,
+      "studio": "MGM",
+      "directors": null,
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Five and Ten",
+      "work_html_title": "<span class=\"work-title\">Five and Ten</span>",
+      "work_id": 169
+    },
+    {
+      "id": 202,
+      "slug": "back-street-1932",
+      "title": "Back Street",
+      "html_title": "<span class=\"film-title\">Back Street</span>",
+      "year": 1932,
+      "studio": "Universal",
+      "directors": "John M. Stahl",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "Back Street",
+      "work_html_title": "<span class=\"work-title\">Back Street</span>",
+      "work_id": 185
+    },
+    {
+      "id": 195,
+      "slug": "symphony-of-six-million-1932",
+      "title": "Symphony of Six Million",
+      "html_title": "<span class=\"film-title\">Symphony of Six Million</span>",
+      "year": 1932,
+      "studio": "RKO",
+      "directors": "Gregory La Cava",
+      "genres": [
+        "Drama",
+        "Domestic",
+        "Medical"
+      ],
+      "has_media": true,
+      "work_title": "Night Bell",
+      "work_html_title": "<span class=\"work-title\">Night Bell</span>",
+      "work_id": 179
+    },
+    {
+      "id": 212,
+      "slug": "imitation-of-life-1934",
+      "title": "Imitation of Life",
+      "html_title": "<span class=\"film-title\">Imitation of Life</span>",
+      "year": 1934,
+      "studio": "Universal",
+      "directors": "John M. Stahl",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "Imitation of Life",
+      "work_html_title": "<span class=\"work-title\">Imitation of Life</span>",
+      "work_id": 191
+    },
+    {
+      "id": 248,
+      "slug": "four-daughters-1938",
+      "title": "Four Daughters",
+      "html_title": "<span class=\"film-title\">Four Daughters</span>",
+      "year": 1938,
+      "studio": "Warner Bros",
+      "directors": "Michael Curtiz",
+      "genres": [
+        "Romance",
+        "Domestic"
+      ],
+      "has_media": true,
+      "work_title": "\"Sister Act\"",
+      "work_html_title": "<span class=\"work-title\">\"Sister Act\"</span>",
+      "work_id": 213
+    },
+    {
+      "id": 254,
+      "slug": "four-wives-1939",
+      "title": "Four Wives",
+      "html_title": "<span class=\"film-title\">Four Wives</span>",
+      "year": 1939,
+      "studio": "Warner Bros",
+      "directors": "Michael Curtiz",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "\"Sister Act\"",
+      "work_html_title": "<span class=\"work-title\">\"Sister Act\"</span>",
+      "work_id": 213
+    },
+    {
+      "id": 263,
+      "slug": "back-street-1941",
+      "title": "Back Street",
+      "html_title": "<span class=\"film-title\">Back Street</span>",
+      "year": 1941,
+      "studio": "Universal",
+      "directors": "Robert Stevenson",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Back Street",
+      "work_html_title": "<span class=\"work-title\">Back Street</span>",
+      "work_id": 185
+    },
+    {
+      "id": 264,
+      "slug": "four-mothers-1941",
+      "title": "Four Mothers",
+      "html_title": "<span class=\"film-title\">Four Mothers</span>",
+      "year": 1941,
+      "studio": "Warner Bros",
+      "directors": "William Keighley",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "\"Sister Act\"",
+      "work_html_title": "<span class=\"work-title\">\"Sister Act\"</span>",
+      "work_id": 213
+    },
+    {
+      "id": 283,
+      "slug": "humoresque-1946",
+      "title": "Humoresque",
+      "html_title": "<span class=\"film-title\">Humoresque</span>",
+      "year": 1946,
+      "studio": "Warner Bros",
+      "directors": "Jean Negulesco",
+      "genres": [
+        "Melodrama",
+        "with songs"
+      ],
+      "has_media": true,
+      "work_title": "Humoresque",
+      "work_html_title": "<span class=\"work-title\">Humoresque</span>",
+      "work_id": 60
+    },
+    {
+      "id": 296,
+      "slug": "back-street-1948",
+      "title": "Back Street",
+      "html_title": "<span class=\"film-title\">Back Street</span>",
+      "year": 1948,
+      "studio": "Silver Light",
+      "directors": "Esther Eng",
+      "genres": [],
+      "has_media": false,
+      "work_title": "Back Street",
+      "work_html_title": "<span class=\"work-title\">Back Street</span>",
+      "work_id": 185
+    },
+    {
+      "id": 329,
+      "slug": "young-at-heart-1955",
+      "title": "Young at Heart",
+      "html_title": "<span class=\"film-title\">Young at Heart</span>",
+      "year": 1955,
+      "studio": "Warner Bros",
+      "directors": "Gordon Douglas",
+      "genres": [
+        "Musical",
+        "Romance",
+        "Domestic",
+        "Show business"
+      ],
+      "has_media": true,
+      "work_title": "\"Sister Act\"",
+      "work_html_title": "<span class=\"work-title\">\"Sister Act\"</span>",
+      "work_id": 213
+    },
+    {
+      "id": 335,
+      "slug": "imitation-of-life-1959",
+      "title": "Imitation of Life",
+      "html_title": "<span class=\"film-title\">Imitation of Life</span>",
+      "year": 1959,
+      "studio": "Universal-International",
+      "directors": "Douglas Sirk",
+      "genres": [
+        "Melodrama",
+        "with songs"
+      ],
+      "has_media": true,
+      "work_title": "Imitation of Life",
+      "work_html_title": "<span class=\"work-title\">Imitation of Life</span>",
+      "work_id": 191
+    },
+    {
+      "id": 341,
+      "slug": "back-street-1961",
+      "title": "Back Street",
+      "html_title": "<span class=\"film-title\">Back Street</span>",
+      "year": 1961,
+      "studio": "Universal-International",
+      "directors": "David Miller",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "Back Street",
+      "work_html_title": "<span class=\"work-title\">Back Street</span>",
+      "work_id": 185
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 185,
+      "slug": "back-street",
+      "title": "Back Street",
+      "formatted_title": "Back Street",
+      "html_title": "<span class=\"work-title\">Back Street</span>",
+      "work_type": "novel",
+      "publication_year": 1931,
+      "genre": null,
+      "adaptation_count": 4,
+      "is_remake_champion": true
+    },
+    {
+      "id": 213,
+      "slug": "sister-act",
+      "title": "\"Sister Act\"",
+      "formatted_title": "\"Sister Act\"",
+      "html_title": "<span class=\"work-title\">\"Sister Act\"</span>",
+      "work_type": "novel",
+      "publication_year": 1937,
+      "genre": null,
+      "adaptation_count": 4,
+      "is_remake_champion": true
+    },
+    {
+      "id": 60,
+      "slug": "humoresque",
+      "title": "Humoresque",
+      "formatted_title": "Humoresque",
+      "html_title": "<span class=\"work-title\">Humoresque</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 87,
+      "slug": "back-pay",
+      "title": "\"Back Pay\"",
+      "formatted_title": "\"Back Pay\"",
+      "html_title": "<span class=\"work-title\">\"Back Pay\"</span>",
+      "work_type": "novel",
+      "publication_year": 1922,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 191,
+      "slug": "imitation-of-life",
+      "title": "Imitation of Life",
+      "formatted_title": "Imitation of Life",
+      "html_title": "<span class=\"work-title\">Imitation of Life</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 42,
+      "slug": "golden-fleece",
+      "title": "\"Golden Fleece\"",
+      "formatted_title": "\"Golden Fleece\"",
+      "html_title": "<span class=\"work-title\">\"Golden Fleece\"</span>",
+      "work_type": "novel",
+      "publication_year": 1917,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 52,
+      "slug": "oats-for-the-woman",
+      "title": "\"Oats for the Woman\"",
+      "formatted_title": "\"Oats for the Woman\"",
+      "html_title": "<span class=\"work-title\">\"Oats for the Woman\"</span>",
+      "work_type": "novel",
+      "publication_year": 1917,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 53,
+      "slug": "the-petal-on-the-current",
+      "title": "\"The Petal on the Current\"",
+      "formatted_title": "\"The Petal on the Current\"",
+      "html_title": "<span class=\"work-title\">\"The Petal on the Current\"</span>",
+      "work_type": "novel",
+      "publication_year": 1918,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 75,
+      "slug": "just-around-the-corner",
+      "title": "\"Just Around the Corner\"",
+      "formatted_title": "\"Just Around the Corner\"",
+      "html_title": "<span class=\"work-title\">\"Just Around the Corner\"</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 76,
+      "slug": "star-dust",
+      "title": "Star-Dust",
+      "formatted_title": "Star-Dust",
+      "html_title": "<span class=\"work-title\">Star-Dust</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 86,
+      "slug": "the-good-provider",
+      "title": "\"The Good Provider\"",
+      "formatted_title": "\"The Good Provider\"",
+      "html_title": "<span class=\"work-title\">\"The Good Provider\"</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 97,
+      "slug": "the-nth-commandment",
+      "title": "\"The Nth Commandment\"",
+      "formatted_title": "\"The Nth Commandment\"",
+      "html_title": "<span class=\"work-title\">\"The Nth Commandment\"</span>",
+      "work_type": "novel",
+      "publication_year": 1916,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 124,
+      "slug": "mannequin",
+      "title": "Mannequin",
+      "formatted_title": "Mannequin",
+      "html_title": "<span class=\"work-title\">Mannequin</span>",
+      "work_type": "novel",
+      "publication_year": 1926,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 143,
+      "slug": "roulette",
+      "title": "\"Roulette\"",
+      "formatted_title": "\"Roulette\"",
+      "html_title": "<span class=\"work-title\">\"Roulette\"</span>",
+      "work_type": "novel",
+      "publication_year": 1922,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 148,
+      "slug": "give-the-little-girl-a-hand",
+      "title": "\"Give the Little Girl a Hand\"",
+      "formatted_title": "\"Give the Little Girl a Hand\"",
+      "html_title": "<span class=\"work-title\">\"Give the Little Girl a Hand\"</span>",
+      "work_type": "novel",
+      "publication_year": 1928,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 158,
+      "slug": "lummox",
+      "title": "Lummox",
+      "formatted_title": "Lummox",
+      "html_title": "<span class=\"work-title\">Lummox</span>",
+      "work_type": "novel",
+      "publication_year": 1924,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 169,
+      "slug": "five-and-ten",
+      "title": "Five and Ten",
+      "formatted_title": "Five and Ten",
+      "html_title": "<span class=\"work-title\">Five and Ten</span>",
+      "work_type": "novel",
+      "publication_year": 1929,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 179,
+      "slug": "night-bell",
+      "title": "Night Bell",
+      "formatted_title": "Night Bell",
+      "html_title": "<span class=\"work-title\">Night Bell</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 185,
+    "slug": "back-street",
+    "title": "Back Street",
+    "formatted_title": "Back Street",
+    "html_title": "<span class=\"work-title\">Back Street</span>",
+    "work_type": "novel",
+    "publication_year": 1931,
+    "genre": null,
+    "adaptation_count": 4,
+    "is_remake_champion": true
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:04.294215"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 313,
+  "slug": "edna-henry-lee-turpin",
+  "name": "Edna Henry Lee Turpin",
+  "birth_year": 1867,
+  "death_year": 1952,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American author. Born in Mecklenburg County. Died in Richmond. Occupations: writer, children's writer",
+  "author_notes": null,
+  "wikidata_id": "Q5340052",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1955,
+    "last_adaptation": 1955,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 733,
+      "slug": "queen-bee-1955",
+      "title": "Queen Bee",
+      "html_title": "<span class=\"film-title\">Queen Bee</span>",
+      "year": 1955,
+      "studio": "Columbia",
+      "directors": "Ranald MacDougall",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Queen Bee",
+      "work_html_title": "<span class=\"work-title\">Queen Bee</span>",
+      "work_id": 647
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 647,
+      "slug": "queen-bee",
+      "title": "Queen Bee",
+      "formatted_title": "Queen Bee",
+      "html_title": "<span class=\"work-title\">Queen Bee</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 647,
+    "slug": "queen-bee",
+    "title": "Queen Bee",
+    "formatted_title": "Queen Bee",
+    "html_title": "<span class=\"work-title\">Queen Bee</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:20.539261"
+}

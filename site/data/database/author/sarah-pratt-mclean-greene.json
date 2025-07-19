@@ -1,0 +1,78 @@
+{
+  "id": 245,
+  "slug": "sarah-pratt-mclean-greene",
+  "name": "Sarah Pratt McLean Greene",
+  "birth_year": 1856,
+  "death_year": 1935,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in Simsbury. Occupations: novelist, writer",
+  "author_notes": "aka Sarah P. McLean",
+  "wikidata_id": "Q23815297",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1924,
+    "last_adaptation": 1924,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 617,
+      "slug": "women-who-give-1924",
+      "title": "Women Who Give",
+      "html_title": "<span class=\"film-title\">Women Who Give</span>",
+      "year": 1924,
+      "studio": "Louis B. Mayer Productions ",
+      "directors": "Reginald Barker",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Cape Cod Folks",
+      "work_html_title": "<span class=\"work-title\">Cape Cod Folks</span>",
+      "work_id": 540
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 540,
+      "slug": "cape-cod-folks",
+      "title": "Cape Cod Folks",
+      "formatted_title": "Cape Cod Folks",
+      "html_title": "<span class=\"work-title\">Cape Cod Folks</span>",
+      "work_type": "novel",
+      "publication_year": 1881,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 540,
+    "slug": "cape-cod-folks",
+    "title": "Cape Cod Folks",
+    "formatted_title": "Cape Cod Folks",
+    "html_title": "<span class=\"work-title\">Cape Cod Folks</span>",
+    "work_type": "novel",
+    "publication_year": 1881,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-04T03:29:26.79137"
+}

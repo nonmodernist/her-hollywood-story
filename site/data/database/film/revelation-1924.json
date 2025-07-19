@@ -1,0 +1,68 @@
+{
+  "id": 1052,
+  "slug": "revelation-1924",
+  "title": "Revelation",
+  "formatted_title": "Revelation",
+  "html_title": "<span class=\"film-title\">Revelation</span>",
+  "release_year": 1924,
+  "runtime_minutes": 90,
+  "country_of_production": "United States",
+  "genres": [
+    "Drama"
+  ],
+  "studio": "Metro-Goldwyn",
+  "production_companies": "Metro-Goldwyn Pictures Corp.",
+  "distribution_companies": null,
+  "directors": "George D. Baker",
+  "writers": "George D. Baker",
+  "cast_members": "Viola Dana|Monte Blue|Marjorie Daw|Lew Cody|Frank Currier|Edward J. Connelly|Kathleen Key|Ethel Wales|George A. Siegmann|Otto Matiesen",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 11647,
+  "source_work": {
+    "id": 944,
+    "slug": "the-rosebush-of-a-thousand-years",
+    "title": "The Rosebush of a Thousand Years",
+    "formatted_title": "The Rosebush of a Thousand Years",
+    "html_title": "<span class=\"work-title\">The Rosebush of a Thousand Years</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 1924
+  },
+  "author": {
+    "id": 482,
+    "slug": "mabel-wagnalls",
+    "name": "Mabel Wagnalls",
+    "birth_year": 1871,
+    "death_year": 1946,
+    "nationality": "United States",
+    "film_count": 2
+  },
+  "other_adaptations": [
+    {
+      "id": 1051,
+      "slug": "revelation-1918",
+      "title": "Revelation",
+      "html_title": "<span class=\"film-title\">Revelation</span>",
+      "year": 1918,
+      "directors": "George D. Baker",
+      "studio": "Metro Pictures"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

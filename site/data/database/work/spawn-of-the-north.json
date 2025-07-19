@@ -1,0 +1,80 @@
+{
+  "id": 976,
+  "slug": "spawn-of-the-north",
+  "title": "Spawn of the North",
+  "formatted_title": "Spawn of the North",
+  "html_title": "<span class=\"work-title\">Spawn of the North</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 496,
+    "slug": "barrett-willoughby",
+    "name": "Barrett Willoughby",
+    "birth_year": 1886,
+    "death_year": 1959,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 15,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 15
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1088,
+      "slug": "spawn-of-the-north-1938",
+      "title": "Spawn of the North",
+      "html_title": "<span class=\"film-title\">Spawn of the North</span>",
+      "year": 1938,
+      "studio": "Paramount",
+      "directors": "Henry Hathaway",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 1938
+    },
+    {
+      "id": 1089,
+      "slug": "alaska-seas-1953",
+      "title": "Alaska Seas",
+      "html_title": "<span class=\"film-title\">Alaska Seas</span>",
+      "year": 1953,
+      "studio": "Paramount",
+      "directors": "Jerry Hopper",
+      "genres": [
+        "Drama",
+        "Sea"
+      ],
+      "has_media": false,
+      "years_after_publication": 1953
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1938,
+      "to_year": 1953,
+      "gap_years": 15
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T20:21:51.215699"
+}

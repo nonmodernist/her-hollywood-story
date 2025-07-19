@@ -1,0 +1,135 @@
+{
+  "id": 462,
+  "slug": "katherine-haviland-taylor",
+  "name": "Katherine Haviland Taylor",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 2,
+    "first_adaptation": 1918,
+    "last_adaptation": 1938,
+    "year_span": 20,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 3
+      },
+      {
+        "genre": "Medical",
+        "count": 2
+      },
+      {
+        "genre": "Rural",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1930": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1017,
+      "slug": "cecilia-of-the-pink-roses-1918",
+      "title": "Cecilia of the Pink Roses",
+      "html_title": "<span class=\"film-title\">Cecilia of the Pink Roses</span>",
+      "year": 1918,
+      "studio": "Marion Davies Film Co. ",
+      "directors": "Julius Steger",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Cecilia of the Pink Roses",
+      "work_html_title": "<span class=\"work-title\">Cecilia of the Pink Roses</span>",
+      "work_id": 913
+    },
+    {
+      "id": 1018,
+      "slug": "one-mans-journey-1933",
+      "title": "One Man's Journey",
+      "html_title": "<span class=\"film-title\">One Man's Journey</span>",
+      "year": 1933,
+      "studio": "RKO",
+      "directors": "John Robertson",
+      "genres": [
+        "Drama",
+        "Medical",
+        "Rural"
+      ],
+      "has_media": false,
+      "work_title": "The Failure",
+      "work_html_title": "<span class=\"work-title\">The Failure</span>",
+      "work_id": 914
+    },
+    {
+      "id": 1019,
+      "slug": "a-man-to-remember-1938",
+      "title": "A Man to Remember",
+      "html_title": "<span class=\"film-title\">A Man to Remember</span>",
+      "year": 1938,
+      "studio": "RKO",
+      "directors": "Garson Kanin",
+      "genres": [
+        "Drama",
+        "Medical",
+        "Rural"
+      ],
+      "has_media": false,
+      "work_title": "The Failure",
+      "work_html_title": "<span class=\"work-title\">The Failure</span>",
+      "work_id": 914
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 914,
+      "slug": "the-failure",
+      "title": "The Failure",
+      "formatted_title": "The Failure",
+      "html_title": "<span class=\"work-title\">The Failure</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 913,
+      "slug": "cecilia-of-the-pink-roses",
+      "title": "Cecilia of the Pink Roses",
+      "formatted_title": "Cecilia of the Pink Roses",
+      "html_title": "<span class=\"work-title\">Cecilia of the Pink Roses</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 914,
+    "slug": "the-failure",
+    "title": "The Failure",
+    "formatted_title": "The Failure",
+    "html_title": "<span class=\"work-title\">The Failure</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T17:49:15.486473"
+}

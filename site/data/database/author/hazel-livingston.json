@@ -1,0 +1,110 @@
+{
+  "id": 327,
+  "slug": "hazel-livingston",
+  "name": "Hazel Livingston",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1927,
+    "last_adaptation": 1928,
+    "year_span": 1,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 750,
+      "slug": "the-secret-studio-1927",
+      "title": "The Secret Studio",
+      "html_title": "<span class=\"film-title\">The Secret Studio</span>",
+      "year": 1927,
+      "studio": "Fox Film",
+      "directors": "Victor Schertzinger",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "Rosemary",
+      "work_html_title": "<span class=\"work-title\">Rosemary</span>",
+      "work_id": 665
+    },
+    {
+      "id": 751,
+      "slug": "stolen-love-1928",
+      "title": "Stolen Love",
+      "html_title": "<span class=\"film-title\">Stolen Love</span>",
+      "year": 1928,
+      "studio": "FBO",
+      "directors": "Lynn Shores",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Stolen Love",
+      "work_html_title": "<span class=\"work-title\">Stolen Love</span>",
+      "work_id": 666
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 665,
+      "slug": "rosemary",
+      "title": "Rosemary",
+      "formatted_title": "Rosemary",
+      "html_title": "<span class=\"work-title\">Rosemary</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 666,
+      "slug": "stolen-love",
+      "title": "Stolen Love",
+      "formatted_title": "Stolen Love",
+      "html_title": "<span class=\"work-title\">Stolen Love</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 665,
+    "slug": "rosemary",
+    "title": "Rosemary",
+    "formatted_title": "Rosemary",
+    "html_title": "<span class=\"work-title\">Rosemary</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:54:06.660067"
+}

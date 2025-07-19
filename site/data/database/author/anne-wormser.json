@@ -1,0 +1,78 @@
+{
+  "id": 506,
+  "slug": "anne-wormser",
+  "name": "Anne Wormser",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q95753824",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1941,
+    "last_adaptation": 1941,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1114,
+      "slug": "west-point-widow-1941",
+      "title": "West Point Widow",
+      "html_title": "<span class=\"film-title\">West Point Widow</span>",
+      "year": 1941,
+      "studio": "Paramount",
+      "directors": "Robert Siodmak",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Baby's had a Hard Day",
+      "work_html_title": "<span class=\"work-title\">The Baby's had a Hard Day</span>",
+      "work_id": 1001
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 1001,
+      "slug": "the-babys-had-a-hard-day",
+      "title": "The Baby's had a Hard Day",
+      "formatted_title": "The Baby's had a Hard Day",
+      "html_title": "<span class=\"work-title\">The Baby's had a Hard Day</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 1001,
+    "slug": "the-babys-had-a-hard-day",
+    "title": "The Baby's had a Hard Day",
+    "formatted_title": "The Baby's had a Hard Day",
+    "html_title": "<span class=\"work-title\">The Baby's had a Hard Day</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:55:16.53078"
+}

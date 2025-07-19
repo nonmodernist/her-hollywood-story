@@ -1,0 +1,112 @@
+{
+  "id": 420,
+  "slug": "elizabeth-robins",
+  "name": "Elizabeth Robins",
+  "birth_year": 1862,
+  "death_year": 1952,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "actor, producer, playwright, novelist and feminist (1862-1952). Born in Louisville. Died in Brighton. Occupations: novelist, suffragette, playwright, actor, writer, librarian",
+  "author_notes": null,
+  "wikidata_id": "Q3723416",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1919,
+    "last_adaptation": 1920,
+    "year_span": 1,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Social",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 951,
+      "slug": "my-little-sister-1919",
+      "title": "My Little Sister",
+      "html_title": "<span class=\"film-title\">My Little Sister</span>",
+      "year": 1919,
+      "studio": "Fox Film",
+      "directors": "Kenean Buel",
+      "genres": [
+        "Drama",
+        "Social"
+      ],
+      "has_media": false,
+      "work_title": "My Little Sister",
+      "work_html_title": "<span class=\"work-title\">My Little Sister</span>",
+      "work_id": 853
+    },
+    {
+      "id": 950,
+      "slug": "a-dark-lantern-1920",
+      "title": "A Dark Lantern",
+      "html_title": "<span class=\"film-title\">A Dark Lantern</span>",
+      "year": 1920,
+      "studio": "Realart",
+      "directors": "John S. Robertson",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "A Dark Lantern",
+      "work_html_title": "<span class=\"work-title\">A Dark Lantern</span>",
+      "work_id": 852
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 853,
+      "slug": "my-little-sister",
+      "title": "My Little Sister",
+      "formatted_title": "My Little Sister",
+      "html_title": "<span class=\"work-title\">My Little Sister</span>",
+      "work_type": "novel",
+      "publication_year": 1913,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 852,
+      "slug": "a-dark-lantern",
+      "title": "A Dark Lantern",
+      "formatted_title": "A Dark Lantern",
+      "html_title": "<span class=\"work-title\">A Dark Lantern</span>",
+      "work_type": "novel",
+      "publication_year": 1905,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 853,
+    "slug": "my-little-sister",
+    "title": "My Little Sister",
+    "formatted_title": "My Little Sister",
+    "html_title": "<span class=\"work-title\">My Little Sister</span>",
+    "work_type": "novel",
+    "publication_year": 1913,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:25:45.340693"
+}

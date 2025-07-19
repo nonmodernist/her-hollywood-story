@@ -1,0 +1,78 @@
+{
+  "id": 507,
+  "slug": "xantippe",
+  "name": "Xantippe",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": "pseud of Edith Meiser",
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1938,
+    "last_adaptation": 1938,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Mystery",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1115,
+      "slug": "danger-on-the-air-1938",
+      "title": "Danger on the Air",
+      "html_title": "<span class=\"film-title\">Danger on the Air</span>",
+      "year": 1938,
+      "studio": "Crime Club Productions",
+      "directors": "Otis Garrett",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "Death Catches Up with Mr. Kluck",
+      "work_html_title": "<span class=\"work-title\">Death Catches Up with Mr. Kluck</span>",
+      "work_id": 1002
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 1002,
+      "slug": "death-catches-up-with-mr-kluck",
+      "title": "Death Catches Up with Mr. Kluck",
+      "formatted_title": "Death Catches Up with Mr. Kluck",
+      "html_title": "<span class=\"work-title\">Death Catches Up with Mr. Kluck</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 1002,
+    "slug": "death-catches-up-with-mr-kluck",
+    "title": "Death Catches Up with Mr. Kluck",
+    "formatted_title": "Death Catches Up with Mr. Kluck",
+    "html_title": "<span class=\"work-title\">Death Catches Up with Mr. Kluck</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:53:32.292162"
+}

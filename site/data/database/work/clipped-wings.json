@@ -1,0 +1,60 @@
+{
+  "id": 636,
+  "slug": "clipped-wings",
+  "title": "Clipped Wings",
+  "formatted_title": "Clipped Wings",
+  "html_title": "<span class=\"work-title\">Clipped Wings</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 305,
+    "slug": "reita-lambert",
+    "name": "Reita Lambert",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 721,
+      "slug": "hello-sister-1930",
+      "title": "Hello Sister",
+      "html_title": "<span class=\"film-title\">Hello Sister</span>",
+      "year": 1930,
+      "studio": "James Cruze",
+      "directors": "Walter Lang",
+      "genres": [
+        "Drama",
+        "Society"
+      ],
+      "has_media": false,
+      "years_after_publication": 1930
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T02:13:48.884094"
+}

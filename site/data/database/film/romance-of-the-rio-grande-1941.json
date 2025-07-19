@@ -1,0 +1,77 @@
+{
+  "id": 602,
+  "slug": "romance-of-the-rio-grande-1941",
+  "title": "Romance of the Rio Grande",
+  "formatted_title": "Romance of the Rio Grande",
+  "html_title": "<span class=\"film-title\">Romance of the Rio Grande</span>",
+  "release_year": 1941,
+  "runtime_minutes": null,
+  "country_of_production": "United States",
+  "genres": [
+    "Western"
+  ],
+  "studio": "20th Century Fox",
+  "production_companies": "Twentieth Century-Fox Film Corp.",
+  "distribution_companies": "Twentieth Century-Fox Film Corp.",
+  "directors": "Herbert I. Leeds",
+  "writers": "Harold Buchman|Samuel G. Engel",
+  "cast_members": "Cesar Romero|Patricia Morison|Lynne Roberts|Ricardo Cortez|Chris-Pin Martin|Aldrich Bowker|Joseph McDonald|Pedro de Cordoba|Inez Palange|Ray Bennett",
+  "color_info": "color",
+  "adaptation_notes": null,
+  "afi_catalog_id": 946,
+  "source_work": {
+    "id": 526,
+    "slug": "conquistador",
+    "title": "Conquistador",
+    "formatted_title": "Conquistador",
+    "html_title": "<span class=\"work-title\">Conquistador</span>",
+    "work_type": "novel",
+    "publication_year": 1923,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 3,
+    "year_to_adaptation": 18
+  },
+  "author": {
+    "id": 237,
+    "slug": "katharine-fullerton-gerould",
+    "name": "Katharine Fullerton Gerould",
+    "birth_year": 1879,
+    "death_year": 1944,
+    "nationality": "United States",
+    "film_count": 3
+  },
+  "other_adaptations": [
+    {
+      "id": 600,
+      "slug": "the-yankee-seor-1926",
+      "title": "The Yankee Señor",
+      "html_title": "<span class=\"film-title\">The Yankee Señor</span>",
+      "year": 1926,
+      "directors": "Emmett Flynn",
+      "studio": "Fox Film"
+    },
+    {
+      "id": 601,
+      "slug": "romance-of-the-rio-grande-1929",
+      "title": "Romance of the Rio Grande",
+      "html_title": "<span class=\"film-title\">Romance of the Rio Grande</span>",
+      "year": 1929,
+      "directors": "Alfred Santell",
+      "studio": "Fox Film"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 3,
+    "adaptation_number": 3,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

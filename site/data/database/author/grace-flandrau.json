@@ -1,0 +1,83 @@
+{
+  "id": 229,
+  "slug": "grace-flandrau",
+  "name": "Grace Flandrau",
+  "birth_year": 1886,
+  "death_year": 1971,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1886-1971). Born in Saint Paul. Died in Farmington. Occupations: journalist",
+  "author_notes": "aka Grace Hodgson Flandrau. Sometimes incorrectly credited as \"Grace Landrau.\"",
+  "wikidata_id": "Q5591171",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1924,
+    "last_adaptation": 1924,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 586,
+      "slug": "being-respectable-1924",
+      "title": "Being Respectable",
+      "html_title": "<span class=\"film-title\">Being Respectable</span>",
+      "year": 1924,
+      "studio": "Warner Bros",
+      "directors": "Philip Rosen",
+      "genres": [
+        "Drama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "Being Respectable",
+      "work_html_title": "<span class=\"work-title\">Being Respectable</span>",
+      "work_id": 513
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 513,
+      "slug": "being-respectable",
+      "title": "Being Respectable",
+      "formatted_title": "Being Respectable",
+      "html_title": "<span class=\"work-title\">Being Respectable</span>",
+      "work_type": "novel",
+      "publication_year": 1923,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 513,
+    "slug": "being-respectable",
+    "title": "Being Respectable",
+    "formatted_title": "Being Respectable",
+    "html_title": "<span class=\"work-title\">Being Respectable</span>",
+    "work_type": "novel",
+    "publication_year": 1923,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-04T03:29:12.259668"
+}

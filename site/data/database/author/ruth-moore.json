@@ -1,0 +1,88 @@
+{
+  "id": 368,
+  "slug": "ruth-moore",
+  "name": "Ruth Moore",
+  "birth_year": 1903,
+  "death_year": 1989,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American fiction writer (1903-1989). Born in Tremont. Died in Bar Harbor. Occupations: writer, poet, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q7383136",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1948,
+    "last_adaptation": 1948,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Sea",
+        "count": 1
+      },
+      {
+        "genre": "Youth",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 823,
+      "slug": "deep-waters-1948",
+      "title": "Deep Waters",
+      "html_title": "<span class=\"film-title\">Deep Waters</span>",
+      "year": 1948,
+      "studio": "20th Century Fox",
+      "directors": "Henry King",
+      "genres": [
+        "Drama",
+        "Sea",
+        "Youth"
+      ],
+      "has_media": false,
+      "work_title": "Spoonhandle",
+      "work_html_title": "<span class=\"work-title\">Spoonhandle</span>",
+      "work_id": 729
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 729,
+      "slug": "spoonhandle",
+      "title": "Spoonhandle",
+      "formatted_title": "Spoonhandle",
+      "html_title": "<span class=\"work-title\">Spoonhandle</span>",
+      "work_type": "novel",
+      "publication_year": 1946,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 729,
+    "slug": "spoonhandle",
+    "title": "Spoonhandle",
+    "formatted_title": "Spoonhandle",
+    "html_title": "<span class=\"work-title\">Spoonhandle</span>",
+    "work_type": "novel",
+    "publication_year": 1946,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:57:30.932676"
+}

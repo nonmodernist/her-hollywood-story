@@ -1,0 +1,78 @@
+{
+  "id": 138,
+  "slug": "virginia-brooks",
+  "name": "Virginia Brooks",
+  "birth_year": 1886,
+  "death_year": 1929,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author (1886-1929). Born in Chicago. Died in Portland. Occupations: suffragette, writer",
+  "author_notes": null,
+  "wikidata_id": "Q2527760",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1917,
+    "last_adaptation": 1917,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 399,
+      "slug": "little-lost-sister-1917",
+      "title": "Little Lost Sister",
+      "html_title": "<span class=\"film-title\">Little Lost Sister</span>",
+      "year": 1917,
+      "studio": "Selig Polyscope",
+      "directors": "Alfred Green",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Little Lost Sister",
+      "work_html_title": "<span class=\"work-title\">Little Lost Sister</span>",
+      "work_id": 336
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 336,
+      "slug": "little-lost-sister",
+      "title": "Little Lost Sister",
+      "formatted_title": "Little Lost Sister",
+      "html_title": "<span class=\"work-title\">Little Lost Sister</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 336,
+    "slug": "little-lost-sister",
+    "title": "Little Lost Sister",
+    "formatted_title": "Little Lost Sister",
+    "html_title": "<span class=\"work-title\">Little Lost Sister</span>",
+    "work_type": "novel",
+    "publication_year": 1914,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:10.436511"
+}

@@ -1,0 +1,162 @@
+{
+  "id": 285,
+  "slug": "mary-johnston",
+  "name": "Mary Johnston",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": "-",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 3,
+    "first_adaptation": 1916,
+    "last_adaptation": 1923,
+    "year_span": 7,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 3
+      },
+      {
+        "genre": "Historical",
+        "count": 3
+      },
+      {
+        "genre": "Romance",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2,
+      "1920": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 673,
+      "slug": "audrey-1916",
+      "title": "Audrey",
+      "html_title": "<span class=\"film-title\">Audrey</span>",
+      "year": 1916,
+      "studio": "Famous Players",
+      "directors": "Robert Vignola",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Audrey",
+      "work_html_title": "<span class=\"work-title\">Audrey</span>",
+      "work_id": 591
+    },
+    {
+      "id": 675,
+      "slug": "to-have-and-to-hold-1916",
+      "title": "To Have and to Hold",
+      "html_title": "<span class=\"film-title\">To Have and to Hold</span>",
+      "year": 1916,
+      "studio": "Jesse Lasky",
+      "directors": "George H. Melford",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "To Have and to Hold",
+      "work_html_title": "<span class=\"work-title\">To Have and to Hold</span>",
+      "work_id": 593
+    },
+    {
+      "id": 676,
+      "slug": "to-have-and-to-hold-1922",
+      "title": "To Have and to Hold",
+      "html_title": "<span class=\"film-title\">To Have and to Hold</span>",
+      "year": 1922,
+      "studio": "Famous Players-Lasky",
+      "directors": "George Fitzmaurice",
+      "genres": [
+        "Romance",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "To Have and to Hold",
+      "work_html_title": "<span class=\"work-title\">To Have and to Hold</span>",
+      "work_id": 593
+    },
+    {
+      "id": 674,
+      "slug": "jamestown-1923",
+      "title": "Jamestown",
+      "html_title": "<span class=\"film-title\">Jamestown</span>",
+      "year": 1923,
+      "studio": "The Chronicles of America Pictures Corp",
+      "directors": "Edwin L. Hollywood",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "Pioneers of the Old South; A Chronicle of English Colonial Beginnings",
+      "work_html_title": "<span class=\"work-title\">Pioneers of the Old South; A Chronicle of English Colonial Beginnings</span>",
+      "work_id": 592
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 593,
+      "slug": "to-have-and-to-hold",
+      "title": "To Have and to Hold",
+      "formatted_title": "To Have and to Hold",
+      "html_title": "<span class=\"work-title\">To Have and to Hold</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 591,
+      "slug": "audrey",
+      "title": "Audrey",
+      "formatted_title": "Audrey",
+      "html_title": "<span class=\"work-title\">Audrey</span>",
+      "work_type": "novel",
+      "publication_year": 1902,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 592,
+      "slug": "pioneers-of-the-old-south-a-chronicle-of-english-colonial-beginnings",
+      "title": "Pioneers of the Old South; A Chronicle of English Colonial Beginnings",
+      "formatted_title": "Pioneers of the Old South; A Chronicle of English Colonial Beginnings",
+      "html_title": "<span class=\"work-title\">Pioneers of the Old South; A Chronicle of English Colonial Beginnings</span>",
+      "work_type": "novel",
+      "publication_year": 1921,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 593,
+    "slug": "to-have-and-to-hold",
+    "title": "To Have and to Hold",
+    "formatted_title": "To Have and to Hold",
+    "html_title": "<span class=\"work-title\">To Have and to Hold</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-06T16:31:27.056375"
+}

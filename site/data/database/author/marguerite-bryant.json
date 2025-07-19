@@ -1,0 +1,98 @@
+{
+  "id": 145,
+  "slug": "marguerite-bryant",
+  "name": "Marguerite Bryant",
+  "birth_year": 1870,
+  "death_year": 1965,
+  "nationality": "United Kingdom of Great Britain and Ireland",
+  "literary_movement": null,
+  "biographical_notes": "British novelist. Occupations: novelist",
+  "author_notes": null,
+  "wikidata_id": "Q64685558",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 1,
+    "first_adaptation": 1923,
+    "last_adaptation": 1924,
+    "year_span": 1,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 414,
+      "slug": "railroaded-1923",
+      "title": "Railroaded",
+      "html_title": "<span class=\"film-title\">Railroaded</span>",
+      "year": 1923,
+      "studio": "Universal",
+      "directors": "Edmund Mortimer",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "Richard",
+      "work_html_title": "<span class=\"work-title\">Richard</span>",
+      "work_id": 351
+    },
+    {
+      "id": 415,
+      "slug": "the-breathless-moment-1924",
+      "title": "The Breathless Moment",
+      "html_title": "<span class=\"film-title\">The Breathless Moment</span>",
+      "year": 1924,
+      "studio": "Universal",
+      "directors": "Robert F. Hill",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "Richard",
+      "work_html_title": "<span class=\"work-title\">Richard</span>",
+      "work_id": 351
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 351,
+      "slug": "richard",
+      "title": "Richard",
+      "formatted_title": "Richard",
+      "html_title": "<span class=\"work-title\">Richard</span>",
+      "work_type": "novel",
+      "publication_year": 1922,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 351,
+    "slug": "richard",
+    "title": "Richard",
+    "formatted_title": "Richard",
+    "html_title": "<span class=\"work-title\">Richard</span>",
+    "work_type": "novel",
+    "publication_year": 1922,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:16.500141"
+}

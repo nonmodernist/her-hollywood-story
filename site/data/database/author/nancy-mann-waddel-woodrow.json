@@ -1,0 +1,170 @@
+{
+  "id": 504,
+  "slug": "nancy-mann-waddel-woodrow",
+  "name": "Nancy Mann Waddel Woodrow",
+  "birth_year": 1867,
+  "death_year": 1935,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author. Born in Chillicothe. Died in New York City. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q18912275",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 4,
+    "first_adaptation": 1919,
+    "last_adaptation": 1929,
+    "year_span": 10,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 2
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Mystery",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1920": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1111,
+      "slug": "the-hornets-nest-1919",
+      "title": "The Hornet's Nest",
+      "html_title": "<span class=\"film-title\">The Hornet's Nest</span>",
+      "year": 1919,
+      "studio": "Vitagraph",
+      "directors": "James Young",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Hornet's Nest",
+      "work_html_title": "<span class=\"work-title\">The Hornet's Nest</span>",
+      "work_id": 998
+    },
+    {
+      "id": 1112,
+      "slug": "her-second-chance-1926",
+      "title": "Her Second Chance",
+      "html_title": "<span class=\"film-title\">Her Second Chance</span>",
+      "year": 1926,
+      "studio": "First National",
+      "directors": "Lambert Hillyer",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "The Second Chance",
+      "work_html_title": "<span class=\"work-title\">The Second Chance</span>",
+      "work_id": 999
+    },
+    {
+      "id": 1109,
+      "slug": "the-black-pearl-1928",
+      "title": "The Black Pearl",
+      "html_title": "<span class=\"film-title\">The Black Pearl</span>",
+      "year": 1928,
+      "studio": "Trem Carr Productions",
+      "directors": "Scott Pembroke",
+      "genres": [
+        "Melodrama",
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "The Black Pearl",
+      "work_html_title": "<span class=\"work-title\">The Black Pearl</span>",
+      "work_id": 996
+    },
+    {
+      "id": 1110,
+      "slug": "burned-evidence-1929",
+      "title": "Burned Evidence",
+      "html_title": "<span class=\"film-title\">Burned Evidence</span>",
+      "year": 1929,
+      "studio": null,
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "Burned Evidence",
+      "work_html_title": "<span class=\"work-title\">Burned Evidence</span>",
+      "work_id": 997
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 998,
+      "slug": "the-hornets-nest",
+      "title": "The Hornet's Nest",
+      "formatted_title": "The Hornet's Nest",
+      "html_title": "<span class=\"work-title\">The Hornet's Nest</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 999,
+      "slug": "the-second-chance",
+      "title": "The Second Chance",
+      "formatted_title": "The Second Chance",
+      "html_title": "<span class=\"work-title\">The Second Chance</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 996,
+      "slug": "the-black-pearl",
+      "title": "The Black Pearl",
+      "formatted_title": "The Black Pearl",
+      "html_title": "<span class=\"work-title\">The Black Pearl</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 997,
+      "slug": "burned-evidence",
+      "title": "Burned Evidence",
+      "formatted_title": "Burned Evidence",
+      "html_title": "<span class=\"work-title\">Burned Evidence</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 998,
+    "slug": "the-hornets-nest",
+    "title": "The Hornet's Nest",
+    "formatted_title": "The Hornet's Nest",
+    "html_title": "<span class=\"work-title\">The Hornet's Nest</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:55:14.702997"
+}

@@ -1,0 +1,83 @@
+{
+  "id": 61,
+  "slug": "cleo-lucas",
+  "name": "Cleo Lucas",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1932,
+    "last_adaptation": 1932,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 188,
+      "slug": "merrily-we-go-to-hell-1932",
+      "title": "Merrily We Go to Hell",
+      "html_title": "<span class=\"film-title\">Merrily We Go to Hell</span>",
+      "year": 1932,
+      "studio": "Paramount",
+      "directors": "Dorothy Arzner",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "I Jerry Take Thee Joan",
+      "work_html_title": "<span class=\"work-title\">I Jerry Take Thee Joan</span>",
+      "work_id": 173
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 173,
+      "slug": "i-jerry-take-thee-joan",
+      "title": "I Jerry Take Thee Joan",
+      "formatted_title": "I Jerry Take Thee Joan",
+      "html_title": "<span class=\"work-title\">I Jerry Take Thee Joan</span>",
+      "work_type": "novel",
+      "publication_year": 1931,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 173,
+    "slug": "i-jerry-take-thee-joan",
+    "title": "I Jerry Take Thee Joan",
+    "formatted_title": "I Jerry Take Thee Joan",
+    "html_title": "<span class=\"work-title\">I Jerry Take Thee Joan</span>",
+    "work_type": "novel",
+    "publication_year": 1931,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:44:44.513472"
+}

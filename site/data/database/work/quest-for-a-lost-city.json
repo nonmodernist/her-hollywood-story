@@ -1,0 +1,60 @@
+{
+  "id": 635,
+  "slug": "quest-for-a-lost-city",
+  "title": "Quest for a Lost City",
+  "formatted_title": "Quest for a Lost City",
+  "html_title": "<span class=\"work-title\">Quest for a Lost City</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 304,
+    "slug": "ginger-lamb",
+    "name": "Ginger Lamb",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 720,
+      "slug": "quest-for-the-lost-city-1955",
+      "title": "Quest for the Lost City",
+      "html_title": "<span class=\"film-title\">Quest for the Lost City</span>",
+      "year": 1955,
+      "studio": "Sol Lesser Productions",
+      "directors": null,
+      "genres": [
+        "Documentary",
+        "Jungle"
+      ],
+      "has_media": false,
+      "years_after_publication": 1955
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T02:11:46.310365"
+}

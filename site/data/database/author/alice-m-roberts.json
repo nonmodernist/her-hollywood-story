@@ -1,0 +1,78 @@
+{
+  "id": 418,
+  "slug": "alice-m-roberts",
+  "name": "Alice M. Roberts",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": "-",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1914,
+    "last_adaptation": 1914,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 948,
+      "slug": "when-fate-leads-trump-1914",
+      "title": "When Fate Leads Trump",
+      "html_title": "<span class=\"film-title\">When Fate Leads Trump</span>",
+      "year": 1914,
+      "studio": "Excelsior Feature Film Co.",
+      "directors": "Harry Handworth",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "When Fate Leads Trump",
+      "work_html_title": "<span class=\"work-title\">When Fate Leads Trump</span>",
+      "work_id": 850
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 850,
+      "slug": "when-fate-leads-trump",
+      "title": "When Fate Leads Trump",
+      "formatted_title": "When Fate Leads Trump",
+      "html_title": "<span class=\"work-title\">When Fate Leads Trump</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 850,
+    "slug": "when-fate-leads-trump",
+    "title": "When Fate Leads Trump",
+    "formatted_title": "When Fate Leads Trump",
+    "html_title": "<span class=\"work-title\">When Fate Leads Trump</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:40:14.046681"
+}

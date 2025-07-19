@@ -1,0 +1,88 @@
+{
+  "id": 375,
+  "slug": "jeanette-nolan",
+  "name": "Jeanette Nolan",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1948,
+    "last_adaptation": 1948,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 831,
+      "slug": "isnt-it-romantic-1948",
+      "title": "Isn't it Romantic",
+      "html_title": "<span class=\"film-title\">Isn't it Romantic</span>",
+      "year": 1948,
+      "studio": "Paramount",
+      "directors": "Norman Z. McLeod",
+      "genres": [
+        "Comedy-drama",
+        "Historical",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Gather Ye Rosebuds",
+      "work_html_title": "<span class=\"work-title\">Gather Ye Rosebuds</span>",
+      "work_id": 741
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 741,
+      "slug": "gather-ye-rosebuds",
+      "title": "Gather Ye Rosebuds",
+      "formatted_title": "Gather Ye Rosebuds",
+      "html_title": "<span class=\"work-title\">Gather Ye Rosebuds</span>",
+      "work_type": "novel",
+      "publication_year": 1946,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 741,
+    "slug": "gather-ye-rosebuds",
+    "title": "Gather Ye Rosebuds",
+    "formatted_title": "Gather Ye Rosebuds",
+    "html_title": "<span class=\"work-title\">Gather Ye Rosebuds</span>",
+    "work_type": "novel",
+    "publication_year": 1946,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T14:45:05.973542"
+}

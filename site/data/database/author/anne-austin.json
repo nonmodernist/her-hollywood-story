@@ -1,0 +1,83 @@
+{
+  "id": 65,
+  "slug": "anne-austin",
+  "name": "Anne Austin",
+  "birth_year": 1895,
+  "death_year": 1975,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American crime writer (1895-1975). Born in Waco. Died in Los Angeles. Occupations: crime fiction writer",
+  "author_notes": null,
+  "wikidata_id": "Q19606547",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1934,
+    "last_adaptation": 1934,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 217,
+      "slug": "a-wicked-woman-1934",
+      "title": "A Wicked Woman",
+      "html_title": "<span class=\"film-title\">A Wicked Woman</span>",
+      "year": 1934,
+      "studio": "MGM",
+      "directors": "Charles Brabin",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Wicked Woman",
+      "work_html_title": "<span class=\"work-title\">Wicked Woman</span>",
+      "work_id": 194
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 194,
+      "slug": "wicked-woman",
+      "title": "Wicked Woman",
+      "formatted_title": "Wicked Woman",
+      "html_title": "<span class=\"work-title\">Wicked Woman</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 194,
+    "slug": "wicked-woman",
+    "title": "Wicked Woman",
+    "formatted_title": "Wicked Woman",
+    "html_title": "<span class=\"work-title\">Wicked Woman</span>",
+    "work_type": "novel",
+    "publication_year": 1933,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:57.049976"
+}

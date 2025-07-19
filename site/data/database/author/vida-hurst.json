@@ -1,0 +1,111 @@
+{
+  "id": 273,
+  "slug": "vida-hurst",
+  "name": "Vida Hurst",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1934,
+    "last_adaptation": 1936,
+    "year_span": 2,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 2
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 656,
+      "slug": "blind-date-1934",
+      "title": "Blind Date",
+      "html_title": "<span class=\"film-title\">Blind Date</span>",
+      "year": 1934,
+      "studio": "Columbia",
+      "directors": "Roy William Neill",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "Blind Date",
+      "work_html_title": "<span class=\"work-title\">Blind Date</span>",
+      "work_id": 575
+    },
+    {
+      "id": 657,
+      "slug": "tango-1936",
+      "title": "Tango",
+      "html_title": "<span class=\"film-title\">Tango</span>",
+      "year": 1936,
+      "studio": "Invincible Pictures",
+      "directors": "Phil Rosen",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "has_media": true,
+      "work_title": "Tango",
+      "work_html_title": "<span class=\"work-title\">Tango</span>",
+      "work_id": 576
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 575,
+      "slug": "blind-date",
+      "title": "Blind Date",
+      "formatted_title": "Blind Date",
+      "html_title": "<span class=\"work-title\">Blind Date</span>",
+      "work_type": "novel",
+      "publication_year": 1931,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 576,
+      "slug": "tango",
+      "title": "Tango",
+      "formatted_title": "Tango",
+      "html_title": "<span class=\"work-title\">Tango</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 575,
+    "slug": "blind-date",
+    "title": "Blind Date",
+    "formatted_title": "Blind Date",
+    "html_title": "<span class=\"work-title\">Blind Date</span>",
+    "work_type": "novel",
+    "publication_year": 1931,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:18:25.74318"
+}

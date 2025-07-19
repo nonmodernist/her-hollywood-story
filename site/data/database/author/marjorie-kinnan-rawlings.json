@@ -1,0 +1,127 @@
+{
+  "id": 84,
+  "slug": "marjorie-kinnan-rawlings",
+  "name": "Marjorie Kinnan Rawlings",
+  "birth_year": 1896,
+  "death_year": 1953,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American novelist (1896–1953). Born in Washington, D.C.. Died in St. Augustine. Occupations: children's writer, screenwriter, university teacher, writer, novelist. Notable works: The Yearling",
+  "author_notes": null,
+  "wikidata_id": "Q465237",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1946,
+    "last_adaptation": 1949,
+    "year_span": 3,
+    "top_genres": [
+      {
+        "genre": "Animal",
+        "count": 2
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      },
+      {
+        "genre": "Youth",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 286,
+      "slug": "the-yearling-1946",
+      "title": "The Yearling",
+      "html_title": "<span class=\"film-title\">The Yearling</span>",
+      "year": 1946,
+      "studio": "MGM",
+      "directors": "Clarence Brown|Victor Fleming",
+      "genres": [
+        "Drama",
+        "Animal",
+        "Historical",
+        "Youth"
+      ],
+      "has_media": true,
+      "work_title": "The Yearling",
+      "work_html_title": "<span class=\"work-title\">The Yearling</span>",
+      "work_id": 240
+    },
+    {
+      "id": 301,
+      "slug": "the-sun-comes-up-1949",
+      "title": "The Sun Comes Up",
+      "html_title": "<span class=\"film-title\">The Sun Comes Up</span>",
+      "year": 1949,
+      "studio": "MGM",
+      "directors": "Richard Thorpe",
+      "genres": [
+        "Comedy-drama",
+        "Animal",
+        "with songs"
+      ],
+      "has_media": true,
+      "work_title": "Mountain Prelude",
+      "work_html_title": "<span class=\"work-title\">Mountain Prelude</span>",
+      "work_id": 251
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 240,
+      "slug": "the-yearling",
+      "title": "The Yearling",
+      "formatted_title": "The Yearling",
+      "html_title": "<span class=\"work-title\">The Yearling</span>",
+      "work_type": "novel",
+      "publication_year": 1938,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 251,
+      "slug": "mountain-prelude",
+      "title": "Mountain Prelude",
+      "formatted_title": "Mountain Prelude",
+      "html_title": "<span class=\"work-title\">Mountain Prelude</span>",
+      "work_type": "novel",
+      "publication_year": 1947,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 240,
+    "slug": "the-yearling",
+    "title": "The Yearling",
+    "formatted_title": "The Yearling",
+    "html_title": "<span class=\"work-title\">The Yearling</span>",
+    "work_type": "novel",
+    "publication_year": 1938,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:18.210039"
+}

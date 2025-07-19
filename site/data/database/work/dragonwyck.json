@@ -1,0 +1,61 @@
+{
+  "id": 881,
+  "slug": "dragonwyck",
+  "title": "Dragonwyck",
+  "formatted_title": "Dragonwyck",
+  "html_title": "<span class=\"work-title\">Dragonwyck</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 438,
+    "slug": "anya-seton",
+    "name": "Anya Seton",
+    "birth_year": 1904,
+    "death_year": 1990,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 979,
+      "slug": "dragonwyck-1946",
+      "title": "Dragonwyck",
+      "html_title": "<span class=\"film-title\">Dragonwyck</span>",
+      "year": 1946,
+      "studio": "20th Century Fox",
+      "directors": "Joseph L. Mankiewicz",
+      "genres": [
+        "Drama",
+        "Historical",
+        "Suspense"
+      ],
+      "has_media": false,
+      "years_after_publication": 1946
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T15:00:33.151891"
+}

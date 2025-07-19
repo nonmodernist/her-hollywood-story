@@ -1,0 +1,60 @@
+{
+  "id": 548,
+  "slug": "phantom-crown-the-story-of-maximilian-and-carlotta-of-mexico",
+  "title": "Phantom Crown: The Story of Maximilian and Carlotta of Mexico",
+  "formatted_title": "Phantom Crown: The Story of Maximilian and Carlotta of Mexico",
+  "html_title": "<span class=\"work-title\">Phantom Crown: The Story of Maximilian and Carlotta of Mexico</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 252,
+    "slug": "bertita-harding",
+    "name": "Bertita Harding",
+    "birth_year": 1902,
+    "death_year": 1971,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 625,
+      "slug": "juarez-1939",
+      "title": "Juarez",
+      "html_title": "<span class=\"film-title\">Juarez</span>",
+      "year": 1939,
+      "studio": "Warner Bros",
+      "directors": "William Dieterle",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": true,
+      "years_after_publication": 1939
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:28:56.062405"
+}

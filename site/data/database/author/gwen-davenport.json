@@ -1,0 +1,83 @@
+{
+  "id": 187,
+  "slug": "gwen-davenport",
+  "name": "Gwen Davenport",
+  "birth_year": 1909,
+  "death_year": 2002,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "novelist. Born in Colón City. Died in Louisville. Occupations: playwright, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q106648905",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1948,
+    "last_adaptation": 1948,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 493,
+      "slug": "sitting-pretty-1948",
+      "title": "Sitting Pretty",
+      "html_title": "<span class=\"film-title\">Sitting Pretty</span>",
+      "year": 1948,
+      "studio": "20th Century Fox",
+      "directors": "Walter Lang",
+      "genres": [
+        "Comedy",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Belvedere",
+      "work_html_title": "<span class=\"work-title\">Belvedere</span>",
+      "work_id": 424
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 424,
+      "slug": "belvedere",
+      "title": "Belvedere",
+      "formatted_title": "Belvedere",
+      "html_title": "<span class=\"work-title\">Belvedere</span>",
+      "work_type": "novel",
+      "publication_year": 1947,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 424,
+    "slug": "belvedere",
+    "title": "Belvedere",
+    "formatted_title": "Belvedere",
+    "html_title": "<span class=\"work-title\">Belvedere</span>",
+    "work_type": "novel",
+    "publication_year": 1947,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T01:12:13.399309"
+}

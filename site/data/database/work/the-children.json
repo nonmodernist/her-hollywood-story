@@ -1,0 +1,60 @@
+{
+  "id": 963,
+  "slug": "the-children",
+  "title": "The Children",
+  "formatted_title": "The Children",
+  "html_title": "<span class=\"work-title\">The Children</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 22,
+    "slug": "edith-wharton",
+    "name": "Edith Wharton",
+    "birth_year": 1862,
+    "death_year": 1937,
+    "film_count": 7
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1072,
+      "slug": "the-marriage-playground-1929",
+      "title": "The Marriage Playground",
+      "html_title": "<span class=\"film-title\">The Marriage Playground</span>",
+      "year": 1929,
+      "studio": "Paramount",
+      "directors": "Lothar Mendes",
+      "genres": [
+        "Drama",
+        "Society"
+      ],
+      "has_media": false,
+      "years_after_publication": 1929
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T20:06:07.147458"
+}

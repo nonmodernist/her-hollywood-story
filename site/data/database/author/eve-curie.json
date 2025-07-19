@@ -1,0 +1,78 @@
+{
+  "id": 182,
+  "slug": "eve-curie",
+  "name": "Eve Curie",
+  "birth_year": 1904,
+  "death_year": 2007,
+  "nationality": "United States, France",
+  "literary_movement": null,
+  "biographical_notes": "writer, journalist and pianist, younger daughter of Marie and Pierre Curie. Born in 13th arrondissement of Paris. Died in Manhattan. Occupations: war correspondent, biographer, writer, pianist, journalist, diplomat, French resistance fighter, music critic, screenwriter. Notable works: Journey Among Warriors, Madame Curie",
+  "author_notes": null,
+  "wikidata_id": "Q230068",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1943,
+    "last_adaptation": 1943,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Biography",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 486,
+      "slug": "madame-curie-1943",
+      "title": "Madame Curie",
+      "html_title": "<span class=\"film-title\">Madame Curie</span>",
+      "year": 1943,
+      "studio": "MGM",
+      "directors": "Mervyn LeRoy|Albert Lewin",
+      "genres": [
+        "Biography"
+      ],
+      "has_media": true,
+      "work_title": "Madam Curie",
+      "work_html_title": "<span class=\"work-title\">Madam Curie</span>",
+      "work_id": 418
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 418,
+      "slug": "madam-curie",
+      "title": "Madam Curie",
+      "formatted_title": "Madam Curie",
+      "html_title": "<span class=\"work-title\">Madam Curie</span>",
+      "work_type": "novel",
+      "publication_year": 1938,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 418,
+    "slug": "madam-curie",
+    "title": "Madam Curie",
+    "formatted_title": "Madam Curie",
+    "html_title": "<span class=\"work-title\">Madam Curie</span>",
+    "work_type": "novel",
+    "publication_year": 1938,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:54:05.026577"
+}

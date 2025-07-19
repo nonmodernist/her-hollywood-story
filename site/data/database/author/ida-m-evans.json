@@ -1,0 +1,106 @@
+{
+  "id": 216,
+  "slug": "ida-m-evans",
+  "name": "Ida M. Evans",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American writer. Occupations: short story writer, writer",
+  "author_notes": null,
+  "wikidata_id": "Q108450876",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1918,
+    "last_adaptation": 1918,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 547,
+      "slug": "limousine-life-1918",
+      "title": "Limousine Life",
+      "html_title": "<span class=\"film-title\">Limousine Life</span>",
+      "year": 1918,
+      "studio": "Triangle Film",
+      "directors": "Jack Dillon",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "work_title": "Limousine Life",
+      "work_html_title": "<span class=\"work-title\">Limousine Life</span>",
+      "work_id": 477
+    },
+    {
+      "id": 548,
+      "slug": "the-way-of-a-man-with-a-maid-1918",
+      "title": "The Way of a Man with a Maid",
+      "html_title": "<span class=\"film-title\">The Way of a Man with a Maid</span>",
+      "year": 1918,
+      "studio": "Famous Players-Lasky",
+      "directors": "Donald Crisp",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "work_title": "The Way of a Maid with a Man",
+      "work_html_title": "<span class=\"work-title\">The Way of a Maid with a Man</span>",
+      "work_id": 478
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 477,
+      "slug": "limousine-life",
+      "title": "Limousine Life",
+      "formatted_title": "Limousine Life",
+      "html_title": "<span class=\"work-title\">Limousine Life</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 478,
+      "slug": "the-way-of-a-maid-with-a-man",
+      "title": "The Way of a Maid with a Man",
+      "formatted_title": "The Way of a Maid with a Man",
+      "html_title": "<span class=\"work-title\">The Way of a Maid with a Man</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 477,
+    "slug": "limousine-life",
+    "title": "Limousine Life",
+    "formatted_title": "Limousine Life",
+    "html_title": "<span class=\"work-title\">Limousine Life</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-24T14:30:56.700036"
+}

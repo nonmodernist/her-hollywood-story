@@ -1,0 +1,522 @@
+{
+  "id": 57,
+  "slug": "faith-baldwin",
+  "name": "Faith Baldwin",
+  "birth_year": 1893,
+  "death_year": 1978,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author of romance and fiction. Born in New Rochelle. Died in Norwalk. Occupations: novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q5431144",
+  "stats": {
+    "total_films": 16,
+    "works_adapted": 16,
+    "first_adaptation": 1930,
+    "last_adaptation": 1951,
+    "year_span": 21,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 4
+      },
+      {
+        "genre": "Drama",
+        "count": 4
+      },
+      {
+        "genre": "Melodrama",
+        "count": 3
+      },
+      {
+        "genre": "Romantic comedy",
+        "count": 3
+      },
+      {
+        "genre": "Romance",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1930": 12,
+      "1940": 2,
+      "1950": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 166,
+      "slug": "the-office-wife-1930",
+      "title": "The Office Wife",
+      "html_title": "<span class=\"film-title\">The Office Wife</span>",
+      "year": 1930,
+      "studio": "Warner Bros",
+      "directors": "Lloyd Bacon",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "The Office Wife",
+      "work_html_title": "<span class=\"work-title\">The Office Wife</span>",
+      "work_id": 154
+    },
+    {
+      "id": 197,
+      "slug": "skyscraper-souls-1932",
+      "title": "Skyscraper Souls",
+      "html_title": "<span class=\"film-title\">Skyscraper Souls</span>",
+      "year": 1932,
+      "studio": "MGM",
+      "directors": "Edgar Selwyn",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Skyscraper",
+      "work_html_title": "<span class=\"work-title\">Skyscraper</span>",
+      "work_id": 180
+    },
+    {
+      "id": 1128,
+      "slug": "the-way-of-all-women-1932",
+      "title": "The Way of All Women",
+      "html_title": "<span class=\"film-title\">The Way of All Women</span>",
+      "year": 1932,
+      "studio": null,
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "Rosalie's Career",
+      "work_html_title": "<span class=\"work-title\">Rosalie's Career</span>",
+      "work_id": 292
+    },
+    {
+      "id": 186,
+      "slug": "week-end-marriage-1932",
+      "title": "Week-end Marriage",
+      "html_title": "<span class=\"film-title\">Week-end Marriage</span>",
+      "year": 1932,
+      "studio": "First National",
+      "directors": "Thornton Freeland",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Weekend Marriage",
+      "work_html_title": "<span class=\"work-title\">Weekend Marriage</span>",
+      "work_id": 171
+    },
+    {
+      "id": 190,
+      "slug": "beauty-for-sale-1933",
+      "title": "Beauty for Sale",
+      "html_title": "<span class=\"film-title\">Beauty for Sale</span>",
+      "year": 1933,
+      "studio": "MGM",
+      "directors": "Richard Boleslavsky",
+      "genres": [
+        "Comedy-drama",
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "Beauty",
+      "work_html_title": "<span class=\"work-title\">Beauty</span>",
+      "work_id": 175
+    },
+    {
+      "id": 221,
+      "slug": "wife-vs-secretary-1935",
+      "title": "Wife Vs. Secretary",
+      "html_title": "<span class=\"film-title\">Wife Vs. Secretary</span>",
+      "year": 1935,
+      "studio": "MGM",
+      "directors": "Clarence Brown",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "\"Wife vs. Secretary\"",
+      "work_html_title": "<span class=\"work-title\">\"Wife vs. Secretary\"</span>",
+      "work_id": 197
+    },
+    {
+      "id": 236,
+      "slug": "august-week-end-1936",
+      "title": "August Week-end",
+      "html_title": "<span class=\"film-title\">August Week-end</span>",
+      "year": 1936,
+      "studio": "Chesterfield",
+      "directors": "Charles Lamont",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "has_media": false,
+      "work_title": "\"August Week-end\"",
+      "work_html_title": "<span class=\"work-title\">\"August Week-end\"</span>",
+      "work_id": 204
+    },
+    {
+      "id": 233,
+      "slug": "love-before-breakfast-1936",
+      "title": "Love Before Breakfast",
+      "html_title": "<span class=\"film-title\">Love Before Breakfast</span>",
+      "year": 1936,
+      "studio": "Universal",
+      "directors": "Walter Lang",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": true,
+      "work_title": "\"Spinster Dinner\"",
+      "work_html_title": "<span class=\"work-title\">\"Spinster Dinner\"</span>",
+      "work_id": 202
+    },
+    {
+      "id": 237,
+      "slug": "the-moons-our-home-1936",
+      "title": "The Moon's Our Home",
+      "html_title": "<span class=\"film-title\">The Moon's Our Home</span>",
+      "year": 1936,
+      "studio": "Paramount",
+      "directors": "William A. Seiter",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": false,
+      "work_title": "The Moon's Our Home",
+      "work_html_title": "<span class=\"work-title\">The Moon's Our Home</span>",
+      "work_id": 205
+    },
+    {
+      "id": 353,
+      "slug": "portia-on-trial-1937",
+      "title": "Portia on Trial",
+      "html_title": "<span class=\"film-title\">Portia on Trial</span>",
+      "year": 1937,
+      "studio": "Republic",
+      "directors": "George Nicholls Jr.",
+      "genres": [
+        "Drama",
+        "Legal"
+      ],
+      "has_media": false,
+      "work_title": "Portia on Trial",
+      "work_html_title": "<span class=\"work-title\">Portia on Trial</span>",
+      "work_id": 291
+    },
+    {
+      "id": 244,
+      "slug": "comet-over-broadway-1938",
+      "title": "Comet over Broadway",
+      "html_title": "<span class=\"film-title\">Comet over Broadway</span>",
+      "year": 1938,
+      "studio": "Warner Bros",
+      "directors": "Busby Berkeley",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Comet Over Broadway",
+      "work_html_title": "<span class=\"work-title\">Comet Over Broadway</span>",
+      "work_id": 210
+    },
+    {
+      "id": 249,
+      "slug": "men-are-such-fools-1938",
+      "title": "Men Are Such Fools",
+      "html_title": "<span class=\"film-title\">Men Are Such Fools</span>",
+      "year": 1938,
+      "studio": "Warner Bros",
+      "directors": "Busby Berkeley",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": false,
+      "work_title": "Men Are Such Fools",
+      "work_html_title": "<span class=\"work-title\">Men Are Such Fools</span>",
+      "work_id": 214
+    },
+    {
+      "id": 294,
+      "slug": "apartment-for-peggy-1948",
+      "title": "Apartment for Peggy",
+      "html_title": "<span class=\"film-title\">Apartment for Peggy</span>",
+      "year": 1948,
+      "studio": "20th Century Fox",
+      "directors": "George Seaton",
+      "genres": [
+        "Comedy-drama",
+        "Domestic",
+        "Postwar life"
+      ],
+      "has_media": true,
+      "work_title": "An Apartment for Jenny",
+      "work_html_title": "<span class=\"work-title\">An Apartment for Jenny</span>",
+      "work_id": 246
+    },
+    {
+      "id": 490,
+      "slug": "i-jane-doe-1948",
+      "title": "I, Jane Doe",
+      "html_title": "<span class=\"film-title\">I, Jane Doe</span>",
+      "year": 1948,
+      "studio": "Republic",
+      "directors": "John H. Auer",
+      "genres": [
+        "Drama",
+        "Legal"
+      ],
+      "has_media": false,
+      "work_title": "a story",
+      "work_html_title": "<span class=\"work-title\">a story</span>",
+      "work_id": 456
+    },
+    {
+      "id": 305,
+      "slug": "second-chance-1950",
+      "title": "Second Chance",
+      "html_title": "<span class=\"film-title\">Second Chance</span>",
+      "year": 1950,
+      "studio": "Protestant Film Commission",
+      "directors": "William Beaudine",
+      "genres": [
+        "Drama",
+        "Religious"
+      ],
+      "has_media": false,
+      "work_title": "\"Second Chance\"",
+      "work_html_title": "<span class=\"work-title\">\"Second Chance\"</span>",
+      "work_id": 255
+    },
+    {
+      "id": 355,
+      "slug": "queen-for-a-day-1951",
+      "title": "Queen for a Day",
+      "html_title": "<span class=\"film-title\">Queen for a Day</span>",
+      "year": 1951,
+      "studio": "United Artists",
+      "directors": "Arthur Lubin",
+      "genres": [
+        "Comedy-drama",
+        "Social"
+      ],
+      "has_media": true,
+      "work_title": "The Gossamer World",
+      "work_html_title": "<span class=\"work-title\">The Gossamer World</span>",
+      "work_id": 290
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 154,
+      "slug": "the-office-wife",
+      "title": "The Office Wife",
+      "formatted_title": "The Office Wife",
+      "html_title": "<span class=\"work-title\">The Office Wife</span>",
+      "work_type": "novel",
+      "publication_year": 1929,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 180,
+      "slug": "skyscraper",
+      "title": "Skyscraper",
+      "formatted_title": "Skyscraper",
+      "html_title": "<span class=\"work-title\">Skyscraper</span>",
+      "work_type": "novel",
+      "publication_year": 1931,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 292,
+      "slug": "rosalies-career",
+      "title": "Rosalie's Career",
+      "formatted_title": "Rosalie's Career",
+      "html_title": "<span class=\"work-title\">Rosalie's Career</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 171,
+      "slug": "weekend-marriage",
+      "title": "Weekend Marriage",
+      "formatted_title": "Weekend Marriage",
+      "html_title": "<span class=\"work-title\">Weekend Marriage</span>",
+      "work_type": "novel",
+      "publication_year": 1932,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 175,
+      "slug": "beauty",
+      "title": "Beauty",
+      "formatted_title": "Beauty",
+      "html_title": "<span class=\"work-title\">Beauty</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 197,
+      "slug": "wife-vs-secretary",
+      "title": "\"Wife vs. Secretary\"",
+      "formatted_title": "\"Wife vs. Secretary\"",
+      "html_title": "<span class=\"work-title\">\"Wife vs. Secretary\"</span>",
+      "work_type": "novel",
+      "publication_year": 1935,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 204,
+      "slug": "august-week-end",
+      "title": "\"August Week-end\"",
+      "formatted_title": "\"August Week-end\"",
+      "html_title": "<span class=\"work-title\">\"August Week-end\"</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 202,
+      "slug": "spinster-dinner",
+      "title": "\"Spinster Dinner\"",
+      "formatted_title": "\"Spinster Dinner\"",
+      "html_title": "<span class=\"work-title\">\"Spinster Dinner\"</span>",
+      "work_type": "novel",
+      "publication_year": 1934,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 205,
+      "slug": "the-moons-our-home",
+      "title": "The Moon's Our Home",
+      "formatted_title": "The Moon's Our Home",
+      "html_title": "<span class=\"work-title\">The Moon's Our Home</span>",
+      "work_type": "novel",
+      "publication_year": 1936,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 291,
+      "slug": "portia-on-trial",
+      "title": "Portia on Trial",
+      "formatted_title": "Portia on Trial",
+      "html_title": "<span class=\"work-title\">Portia on Trial</span>",
+      "work_type": "novel",
+      "publication_year": 1937,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 210,
+      "slug": "comet-over-broadway",
+      "title": "Comet Over Broadway",
+      "formatted_title": "Comet Over Broadway",
+      "html_title": "<span class=\"work-title\">Comet Over Broadway</span>",
+      "work_type": "novel",
+      "publication_year": 1938,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 214,
+      "slug": "men-are-such-fools",
+      "title": "Men Are Such Fools",
+      "formatted_title": "Men Are Such Fools",
+      "html_title": "<span class=\"work-title\">Men Are Such Fools</span>",
+      "work_type": "novel",
+      "publication_year": 1936,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 246,
+      "slug": "an-apartment-for-jenny",
+      "title": "An Apartment for Jenny",
+      "formatted_title": "An Apartment for Jenny",
+      "html_title": "<span class=\"work-title\">An Apartment for Jenny</span>",
+      "work_type": "novel",
+      "publication_year": 1947,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 456,
+      "slug": "a-story",
+      "title": "a story",
+      "formatted_title": "a story",
+      "html_title": "<span class=\"work-title\">a story</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 255,
+      "slug": "second-chance",
+      "title": "\"Second Chance\"",
+      "formatted_title": "\"Second Chance\"",
+      "html_title": "<span class=\"work-title\">\"Second Chance\"</span>",
+      "work_type": "novel",
+      "publication_year": 1948,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 290,
+      "slug": "the-gossamer-world",
+      "title": "The Gossamer World",
+      "formatted_title": "The Gossamer World",
+      "html_title": "<span class=\"work-title\">The Gossamer World</span>",
+      "work_type": "novel",
+      "publication_year": 1948,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 154,
+    "slug": "the-office-wife",
+    "title": "The Office Wife",
+    "formatted_title": "The Office Wife",
+    "html_title": "<span class=\"work-title\">The Office Wife</span>",
+    "work_type": "novel",
+    "publication_year": 1929,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:46.358561"
+}

@@ -1,0 +1,137 @@
+{
+  "id": 74,
+  "slug": "the-charm-school",
+  "title": "The Charm School",
+  "formatted_title": "The Charm School",
+  "html_title": "<span class=\"work-title\">The Charm School</span>",
+  "work_type": "novel",
+  "publication_year": 1919,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 24,
+    "slug": "alice-duer-miller",
+    "name": "Alice Duer Miller",
+    "birth_year": 1894,
+    "death_year": 1985,
+    "film_count": 22
+  },
+  "stats": {
+    "adaptation_count": 5,
+    "year_span": 17,
+    "is_remake_champion": true,
+    "average_gap_between_adaptations": 4
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
+    "is_remake_champion": true,
+    "remake_champion_rank": 3
+  },
+  "adaptations": [
+    {
+      "id": 77,
+      "slug": "the-charm-school-1921",
+      "title": "The Charm School",
+      "html_title": "<span class=\"film-title\">The Charm School</span>",
+      "year": 1921,
+      "studio": "Famous Players-Lasky",
+      "directors": "James Cruze",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "years_after_publication": 2
+    },
+    {
+      "id": 149,
+      "slug": "someone-to-love-1928",
+      "title": "Someone To Love",
+      "html_title": "<span class=\"film-title\">Someone To Love</span>",
+      "year": 1928,
+      "studio": "Paramount",
+      "directors": "F. Richard Jones",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": true,
+      "years_after_publication": 9
+    },
+    {
+      "id": 810,
+      "slug": "sweetie-1929",
+      "title": "Sweetie",
+      "html_title": "<span class=\"film-title\">Sweetie</span>",
+      "year": 1929,
+      "studio": "Paramount",
+      "directors": "Frank Tuttle",
+      "genres": [
+        "Musical",
+        "College"
+      ],
+      "has_media": false,
+      "years_after_publication": 10
+    },
+    {
+      "id": 220,
+      "slug": "collegiate-1935",
+      "title": "Collegiate",
+      "html_title": "<span class=\"film-title\">Collegiate</span>",
+      "year": 1935,
+      "studio": "Paramount",
+      "directors": "Ralph Murphy",
+      "genres": [
+        "Musical"
+      ],
+      "has_media": false,
+      "years_after_publication": 16
+    },
+    {
+      "id": 811,
+      "slug": "college-swing-1938",
+      "title": "College Swing",
+      "html_title": "<span class=\"film-title\">College Swing</span>",
+      "year": 1938,
+      "studio": "Paramount",
+      "directors": "Raoul Walsh",
+      "genres": [
+        "Musical"
+      ],
+      "has_media": false,
+      "years_after_publication": 19
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1921,
+      "to_year": 1928,
+      "gap_years": 7
+    },
+    {
+      "from_year": 1928,
+      "to_year": 1929,
+      "gap_years": 1
+    },
+    {
+      "from_year": 1929,
+      "to_year": 1935,
+      "gap_years": 6
+    },
+    {
+      "from_year": 1935,
+      "to_year": 1938,
+      "gap_years": 3
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:48:03.914138"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 403,
+  "slug": "agnes-louise-provost",
+  "name": "Agnes Louise Provost",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American writer. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q114665346",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1919,
+    "last_adaptation": 1919,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 887,
+      "slug": "her-kingdom-of-dreams-1919",
+      "title": "Her Kingdom of Dreams",
+      "html_title": "<span class=\"film-title\">Her Kingdom of Dreams</span>",
+      "year": 1919,
+      "studio": "Anita Stewart Productions",
+      "directors": "Marshall Neilan",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Her Kingdom of Dreams",
+      "work_html_title": "<span class=\"work-title\">Her Kingdom of Dreams</span>",
+      "work_id": 795
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 795,
+      "slug": "her-kingdom-of-dreams",
+      "title": "Her Kingdom of Dreams",
+      "formatted_title": "Her Kingdom of Dreams",
+      "html_title": "<span class=\"work-title\">Her Kingdom of Dreams</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 795,
+    "slug": "her-kingdom-of-dreams",
+    "title": "Her Kingdom of Dreams",
+    "formatted_title": "Her Kingdom of Dreams",
+    "html_title": "<span class=\"work-title\">Her Kingdom of Dreams</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T18:25:13.726175"
+}

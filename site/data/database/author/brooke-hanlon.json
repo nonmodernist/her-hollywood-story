@@ -1,0 +1,78 @@
+{
+  "id": 250,
+  "slug": "brooke-hanlon",
+  "name": "Brooke Hanlon",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1926,
+    "last_adaptation": 1926,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 622,
+      "slug": "it-must-be-love-1926",
+      "title": "It Must be Love",
+      "html_title": "<span class=\"film-title\">It Must be Love</span>",
+      "year": 1926,
+      "studio": "John McCormick Productions",
+      "directors": "Alfred E. Green",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "Delicatessen",
+      "work_html_title": "<span class=\"work-title\">Delicatessen</span>",
+      "work_id": 545
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 545,
+      "slug": "delicatessen",
+      "title": "Delicatessen",
+      "formatted_title": "Delicatessen",
+      "html_title": "<span class=\"work-title\">Delicatessen</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 545,
+    "slug": "delicatessen",
+    "title": "Delicatessen",
+    "formatted_title": "Delicatessen",
+    "html_title": "<span class=\"work-title\">Delicatessen</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:18:25.74318"
+}

@@ -1,0 +1,83 @@
+{
+  "id": 500,
+  "slug": "kathleen-winsor",
+  "name": "Kathleen Winsor",
+  "birth_year": 1919,
+  "death_year": 2003,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author (1919-2003). Born in Olivia. Died in New York City. Occupations: novelist, screenwriter, writer, prose writer. Notable works: Forever Amber",
+  "author_notes": null,
+  "wikidata_id": "Q2342652",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1947,
+    "last_adaptation": 1947,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1100,
+      "slug": "forever-amber-1947",
+      "title": "Forever Amber",
+      "html_title": "<span class=\"film-title\">Forever Amber</span>",
+      "year": 1947,
+      "studio": "20th Century Fox",
+      "directors": "Otto Preminger",
+      "genres": [
+        "Melodrama",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "Forever Amber",
+      "work_html_title": "<span class=\"work-title\">Forever Amber</span>",
+      "work_id": 987
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 987,
+      "slug": "forever-amber",
+      "title": "Forever Amber",
+      "formatted_title": "Forever Amber",
+      "html_title": "<span class=\"work-title\">Forever Amber</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 987,
+    "slug": "forever-amber",
+    "title": "Forever Amber",
+    "formatted_title": "Forever Amber",
+    "html_title": "<span class=\"work-title\">Forever Amber</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:55:08.549646"
+}

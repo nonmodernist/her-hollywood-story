@@ -1,0 +1,121 @@
+{
+  "id": 194,
+  "slug": "lillian-day",
+  "name": "Lillian Day",
+  "birth_year": 1893,
+  "death_year": 1991,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American novelist and playwright. Born in New York City. Died in New York City. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q110215708",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1935,
+    "last_adaptation": 1943,
+    "year_span": 8,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Teenage",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1,
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 503,
+      "slug": "personal-maids-secret-1935",
+      "title": "Personal Maid's Secret",
+      "html_title": "<span class=\"film-title\">Personal Maid's Secret</span>",
+      "year": 1935,
+      "studio": "Warner Bros",
+      "directors": "Arthur Greville Collins",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Living Up to Lizzie",
+      "work_html_title": "<span class=\"work-title\">Living Up to Lizzie</span>",
+      "work_id": 434
+    },
+    {
+      "id": 504,
+      "slug": "the-youngest-profession-1943",
+      "title": "The Youngest Profession",
+      "html_title": "<span class=\"film-title\">The Youngest Profession</span>",
+      "year": 1943,
+      "studio": "MGM",
+      "directors": "Edward Buzzell",
+      "genres": [
+        "Comedy",
+        "Teenage"
+      ],
+      "has_media": true,
+      "work_title": "The Youngest Profession",
+      "work_html_title": "<span class=\"work-title\">The Youngest Profession</span>",
+      "work_id": 435
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 434,
+      "slug": "living-up-to-lizzie",
+      "title": "Living Up to Lizzie",
+      "formatted_title": "Living Up to Lizzie",
+      "html_title": "<span class=\"work-title\">Living Up to Lizzie</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 435,
+      "slug": "the-youngest-profession",
+      "title": "The Youngest Profession",
+      "formatted_title": "The Youngest Profession",
+      "html_title": "<span class=\"work-title\">The Youngest Profession</span>",
+      "work_type": "novel",
+      "publication_year": 1940,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 434,
+    "slug": "living-up-to-lizzie",
+    "title": "Living Up to Lizzie",
+    "formatted_title": "Living Up to Lizzie",
+    "html_title": "<span class=\"work-title\">Living Up to Lizzie</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T01:12:22.822749"
+}

@@ -1,0 +1,88 @@
+{
+  "id": 68,
+  "slug": "edna-may-baker",
+  "name": "Edna May Baker",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1937,
+    "last_adaptation": 1937,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "African American",
+        "count": 1
+      },
+      {
+        "genre": "Crime",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 240,
+      "slug": "underworld-1937",
+      "title": "Underworld",
+      "html_title": "<span class=\"film-title\">Underworld</span>",
+      "year": 1937,
+      "studio": "Micheaux Pictures Corp",
+      "directors": "Oscar Micheaux",
+      "genres": [
+        "Drama",
+        "African American",
+        "Crime"
+      ],
+      "has_media": false,
+      "work_title": "Chicago After Midnight",
+      "work_html_title": "<span class=\"work-title\">Chicago After Midnight</span>",
+      "work_id": 207
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 207,
+      "slug": "chicago-after-midnight",
+      "title": "Chicago After Midnight",
+      "formatted_title": "Chicago After Midnight",
+      "html_title": "<span class=\"work-title\">Chicago After Midnight</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 207,
+    "slug": "chicago-after-midnight",
+    "title": "Chicago After Midnight",
+    "formatted_title": "Chicago After Midnight",
+    "html_title": "<span class=\"work-title\">Chicago After Midnight</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:44:44.513472"
+}

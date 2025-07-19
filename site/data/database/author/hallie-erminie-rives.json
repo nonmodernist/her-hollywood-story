@@ -1,0 +1,144 @@
+{
+  "id": 417,
+  "slug": "hallie-erminie-rives",
+  "name": "Hallie Erminie Rives",
+  "birth_year": 1874,
+  "death_year": 1956,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1874-1956). Born in Hopkinsville. Died in New York City. Occupations: novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q5642970",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1915,
+    "last_adaptation": 1919,
+    "year_span": 4,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 3
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      },
+      {
+        "genre": "Social",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 943,
+      "slug": "satan-sanderson-1915",
+      "title": "Satan Sanderson",
+      "html_title": "<span class=\"film-title\">Satan Sanderson</span>",
+      "year": 1915,
+      "studio": "Rolfe Photoplays",
+      "directors": "John W. Noble",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Satan Sanderson",
+      "work_html_title": "<span class=\"work-title\">Satan Sanderson</span>",
+      "work_id": 845
+    },
+    {
+      "id": 944,
+      "slug": "the-valiants-of-virginia-1916",
+      "title": "The Valiants of Virginia",
+      "html_title": "<span class=\"film-title\">The Valiants of Virginia</span>",
+      "year": 1916,
+      "studio": "Selig Polyscope",
+      "directors": "T. N. Heffron",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "The Valiants of Virginia",
+      "work_html_title": "<span class=\"work-title\">The Valiants of Virginia</span>",
+      "work_id": 846
+    },
+    {
+      "id": 942,
+      "slug": "the-long-lanes-turning-1919",
+      "title": "The Long Lane's Turning",
+      "html_title": "<span class=\"film-title\">The Long Lane's Turning</span>",
+      "year": 1919,
+      "studio": "National Film Corp",
+      "directors": "Louis William Chaudet",
+      "genres": [
+        "Drama",
+        "Social"
+      ],
+      "has_media": false,
+      "work_title": "The Long Lane's Turning",
+      "work_html_title": "<span class=\"work-title\">The Long Lane's Turning</span>",
+      "work_id": 844
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 845,
+      "slug": "satan-sanderson",
+      "title": "Satan Sanderson",
+      "formatted_title": "Satan Sanderson",
+      "html_title": "<span class=\"work-title\">Satan Sanderson</span>",
+      "work_type": "novel",
+      "publication_year": 1907,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 846,
+      "slug": "the-valiants-of-virginia",
+      "title": "The Valiants of Virginia",
+      "formatted_title": "The Valiants of Virginia",
+      "html_title": "<span class=\"work-title\">The Valiants of Virginia</span>",
+      "work_type": "novel",
+      "publication_year": 1912,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 844,
+      "slug": "the-long-lanes-turning",
+      "title": "The Long Lane's Turning",
+      "formatted_title": "The Long Lane's Turning",
+      "html_title": "<span class=\"work-title\">The Long Lane's Turning</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 845,
+    "slug": "satan-sanderson",
+    "title": "Satan Sanderson",
+    "formatted_title": "Satan Sanderson",
+    "html_title": "<span class=\"work-title\">Satan Sanderson</span>",
+    "work_type": "novel",
+    "publication_year": 1907,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:25:40.614354"
+}

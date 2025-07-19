@@ -1,0 +1,78 @@
+{
+  "id": 64,
+  "slug": "harriette-ashbrook",
+  "name": "Harriette Ashbrook",
+  "birth_year": 1898,
+  "death_year": 1946,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "US-american crime writer. Occupations: crime fiction writer",
+  "author_notes": null,
+  "wikidata_id": "Q28007662",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1934,
+    "last_adaptation": 1934,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Mystery",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 211,
+      "slug": "green-eyes-1934",
+      "title": "Green Eyes",
+      "html_title": "<span class=\"film-title\">Green Eyes</span>",
+      "year": 1934,
+      "studio": "Chesterfield",
+      "directors": "Richard Thorpe",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": true,
+      "work_title": "The Murder of Steven Kester",
+      "work_html_title": "<span class=\"work-title\">The Murder of Steven Kester</span>",
+      "work_id": 190
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 190,
+      "slug": "the-murder-of-steven-kester",
+      "title": "The Murder of Steven Kester",
+      "formatted_title": "The Murder of Steven Kester",
+      "html_title": "<span class=\"work-title\">The Murder of Steven Kester</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 190,
+    "slug": "the-murder-of-steven-kester",
+    "title": "The Murder of Steven Kester",
+    "formatted_title": "The Murder of Steven Kester",
+    "html_title": "<span class=\"work-title\">The Murder of Steven Kester</span>",
+    "work_type": "novel",
+    "publication_year": 1933,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:55.591227"
+}

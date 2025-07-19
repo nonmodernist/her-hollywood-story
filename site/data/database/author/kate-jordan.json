@@ -1,0 +1,282 @@
+{
+  "id": 289,
+  "slug": "kate-jordan",
+  "name": "Kate Jordan",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": "-",
+  "stats": {
+    "total_films": 8,
+    "works_adapted": 7,
+    "first_adaptation": 1917,
+    "last_adaptation": 1931,
+    "year_span": 14,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 4
+      },
+      {
+        "genre": "Melodrama",
+        "count": 3
+      },
+      {
+        "genre": "Crime",
+        "count": 1
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 3,
+      "1920": 4,
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 684,
+      "slug": "the-tides-of-fate-1917",
+      "title": "The Tides of Fate",
+      "html_title": "<span class=\"film-title\">The Tides of Fate</span>",
+      "year": 1917,
+      "studio": "Equitable Motion Pictures",
+      "directors": "Marshall Farnum",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Creeping Tides: a Romance of an Old Neighborhood",
+      "work_html_title": "<span class=\"work-title\">The Creeping Tides: a Romance of an Old Neighborhood</span>",
+      "work_id": 601
+    },
+    {
+      "id": 688,
+      "slug": "secret-strings-1918",
+      "title": "Secret Strings",
+      "html_title": "<span class=\"film-title\">Secret Strings</span>",
+      "year": 1918,
+      "studio": "Metro Pictures",
+      "directors": "John Ince",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "has_media": false,
+      "work_title": "Secret Strings",
+      "work_html_title": "<span class=\"work-title\">Secret Strings</span>",
+      "work_id": 604
+    },
+    {
+      "id": 687,
+      "slug": "castles-in-the-air-1919",
+      "title": "Castles in the Air",
+      "html_title": "<span class=\"film-title\">Castles in the Air</span>",
+      "year": 1919,
+      "studio": "Metro Pictures",
+      "directors": "George D. Baker",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "Orchestra D-2",
+      "work_html_title": "<span class=\"work-title\">Orchestra D-2</span>",
+      "work_id": 603
+    },
+    {
+      "id": 683,
+      "slug": "a-city-sparrow-1920",
+      "title": "A City Sparrow",
+      "html_title": "<span class=\"film-title\">A City Sparrow</span>",
+      "year": 1920,
+      "studio": "Famous Players-Lasky",
+      "directors": "Sam Wood",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "A City Sparrow",
+      "work_html_title": "<span class=\"work-title\">A City Sparrow</span>",
+      "work_id": 600
+    },
+    {
+      "id": 689,
+      "slug": "in-search-of-a-thrill-1923",
+      "title": "In Search of a Thrill",
+      "html_title": "<span class=\"film-title\">In Search of a Thrill</span>",
+      "year": 1923,
+      "studio": "Metro Pictures",
+      "directors": "Oscar Apfel",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "The Spirit of the Road",
+      "work_html_title": "<span class=\"work-title\">The Spirit of the Road</span>",
+      "work_id": 605
+    },
+    {
+      "id": 685,
+      "slug": "the-next-corner-1924",
+      "title": "The Next Corner",
+      "html_title": "<span class=\"film-title\">The Next Corner</span>",
+      "year": 1924,
+      "studio": "Famous Players-Lasky",
+      "directors": "Sam Wood",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "The Next Corner",
+      "work_html_title": "<span class=\"work-title\">The Next Corner</span>",
+      "work_id": 602
+    },
+    {
+      "id": 690,
+      "slug": "time-the-comedian-1925",
+      "title": "Time, the Comedian",
+      "html_title": "<span class=\"film-title\">Time, the Comedian</span>",
+      "year": 1925,
+      "studio": "MGM",
+      "directors": "Robert Z. Leonard",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Time, the Comedian",
+      "work_html_title": "<span class=\"work-title\">Time, the Comedian</span>",
+      "work_id": 606
+    },
+    {
+      "id": 686,
+      "slug": "transgression-1931",
+      "title": "Transgression",
+      "html_title": "<span class=\"film-title\">Transgression</span>",
+      "year": 1931,
+      "studio": "RKO",
+      "directors": "Herbert Brenon",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "The Next Corner",
+      "work_html_title": "<span class=\"work-title\">The Next Corner</span>",
+      "work_id": 602
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 602,
+      "slug": "the-next-corner",
+      "title": "The Next Corner",
+      "formatted_title": "The Next Corner",
+      "html_title": "<span class=\"work-title\">The Next Corner</span>",
+      "work_type": "novel",
+      "publication_year": 1921,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 601,
+      "slug": "the-creeping-tides-a-romance-of-an-old-neighborhood",
+      "title": "The Creeping Tides: a Romance of an Old Neighborhood",
+      "formatted_title": "The Creeping Tides: a Romance of an Old Neighborhood",
+      "html_title": "<span class=\"work-title\">The Creeping Tides: a Romance of an Old Neighborhood</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 604,
+      "slug": "secret-strings",
+      "title": "Secret Strings",
+      "formatted_title": "Secret Strings",
+      "html_title": "<span class=\"work-title\">Secret Strings</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 603,
+      "slug": "orchestra-d-2",
+      "title": "Orchestra D-2",
+      "formatted_title": "Orchestra D-2",
+      "html_title": "<span class=\"work-title\">Orchestra D-2</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 600,
+      "slug": "a-city-sparrow",
+      "title": "A City Sparrow",
+      "formatted_title": "A City Sparrow",
+      "html_title": "<span class=\"work-title\">A City Sparrow</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 605,
+      "slug": "the-spirit-of-the-road",
+      "title": "The Spirit of the Road",
+      "formatted_title": "The Spirit of the Road",
+      "html_title": "<span class=\"work-title\">The Spirit of the Road</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 606,
+      "slug": "time-the-comedian",
+      "title": "Time, the Comedian",
+      "formatted_title": "Time, the Comedian",
+      "html_title": "<span class=\"work-title\">Time, the Comedian</span>",
+      "work_type": "novel",
+      "publication_year": 1905,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 602,
+    "slug": "the-next-corner",
+    "title": "The Next Corner",
+    "formatted_title": "The Next Corner",
+    "html_title": "<span class=\"work-title\">The Next Corner</span>",
+    "work_type": "novel",
+    "publication_year": 1921,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-06T16:31:39.188986"
+}

@@ -1,0 +1,83 @@
+{
+  "id": 378,
+  "slug": "marie-conway-oemler",
+  "name": "Marie Conway Oemler",
+  "birth_year": 1879,
+  "death_year": 1932,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American author (1879-1932). Born in Savannah. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q96007487",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1947,
+    "last_adaptation": 1947,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Gangster",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 852,
+      "slug": "slippy-mcgee-1947",
+      "title": "Slippy McGee",
+      "html_title": "<span class=\"film-title\">Slippy McGee</span>",
+      "year": 1947,
+      "studio": "Republic",
+      "directors": "Albert Kelley",
+      "genres": [
+        "Drama",
+        "Gangster"
+      ],
+      "has_media": false,
+      "work_title": "Slippy McGee; Sometimes Known as the Butterfly Man",
+      "work_html_title": "<span class=\"work-title\">Slippy McGee; Sometimes Known as the Butterfly Man</span>",
+      "work_id": 761
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 761,
+      "slug": "slippy-mcgee-sometimes-known-as-the-butterfly-man",
+      "title": "Slippy McGee; Sometimes Known as the Butterfly Man",
+      "formatted_title": "Slippy McGee; Sometimes Known as the Butterfly Man",
+      "html_title": "<span class=\"work-title\">Slippy McGee; Sometimes Known as the Butterfly Man</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 761,
+    "slug": "slippy-mcgee-sometimes-known-as-the-butterfly-man",
+    "title": "Slippy McGee; Sometimes Known as the Butterfly Man",
+    "formatted_title": "Slippy McGee; Sometimes Known as the Butterfly Man",
+    "html_title": "<span class=\"work-title\">Slippy McGee; Sometimes Known as the Butterfly Man</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T14:48:40.22961"
+}

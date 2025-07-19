@@ -1,0 +1,78 @@
+{
+  "id": 361,
+  "slug": "mary-ashe-miller",
+  "name": "Mary Ashe Miller",
+  "birth_year": 1874,
+  "death_year": 1953,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "writer. Died in Las Vegas. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q127947146",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1922,
+    "last_adaptation": 1922,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 813,
+      "slug": "the-man-who-married-his-own-wife-1922",
+      "title": "The Man Who Married His Own Wife",
+      "html_title": "<span class=\"film-title\">The Man Who Married His Own Wife</span>",
+      "year": 1922,
+      "studio": "Universal",
+      "directors": "Stuart Paton",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "The Man Who Married His Own Wife",
+      "work_html_title": "<span class=\"work-title\">The Man Who Married His Own Wife</span>",
+      "work_id": 720
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 720,
+      "slug": "the-man-who-married-his-own-wife",
+      "title": "The Man Who Married His Own Wife",
+      "formatted_title": "The Man Who Married His Own Wife",
+      "html_title": "<span class=\"work-title\">The Man Who Married His Own Wife</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 720,
+    "slug": "the-man-who-married-his-own-wife",
+    "title": "The Man Who Married His Own Wife",
+    "formatted_title": "The Man Who Married His Own Wife",
+    "html_title": "<span class=\"work-title\">The Man Who Married His Own Wife</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:57:21.938381"
+}

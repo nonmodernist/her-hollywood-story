@@ -1,0 +1,83 @@
+{
+  "id": 344,
+  "slug": "natalie-marcin",
+  "name": "Natalie Marcin",
+  "birth_year": 1880,
+  "death_year": 1999,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer and editor. Occupations: journalist, screenwriter",
+  "author_notes": null,
+  "wikidata_id": "Q15453287",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1945,
+    "last_adaptation": 1945,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Musical",
+        "count": 1
+      },
+      {
+        "genre": "Romantic comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 773,
+      "slug": "anchors-aweigh-1945",
+      "title": "Anchors Aweigh",
+      "html_title": "<span class=\"film-title\">Anchors Aweigh</span>",
+      "year": 1945,
+      "studio": "MGM",
+      "directors": "George Sidney",
+      "genres": [
+        "Musical",
+        "Romantic comedy"
+      ],
+      "has_media": false,
+      "work_title": "You Can't Fool a Marine",
+      "work_html_title": "<span class=\"work-title\">You Can't Fool a Marine</span>",
+      "work_id": 687
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 687,
+      "slug": "you-cant-fool-a-marine",
+      "title": "You Can't Fool a Marine",
+      "formatted_title": "You Can't Fool a Marine",
+      "html_title": "<span class=\"work-title\">You Can't Fool a Marine</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 687,
+    "slug": "you-cant-fool-a-marine",
+    "title": "You Can't Fool a Marine",
+    "formatted_title": "You Can't Fool a Marine",
+    "html_title": "<span class=\"work-title\">You Can't Fool a Marine</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:37:20.045548"
+}

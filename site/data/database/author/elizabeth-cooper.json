@@ -1,0 +1,78 @@
+{
+  "id": 175,
+  "slug": "elizabeth-cooper",
+  "name": "Elizabeth Cooper",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": "-",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1925,
+    "last_adaptation": 1925,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 478,
+      "slug": "drusilla-with-a-million-1925",
+      "title": "Drusilla With a Million",
+      "html_title": "<span class=\"film-title\">Drusilla With a Million</span>",
+      "year": 1925,
+      "studio": "Associated Arts",
+      "directors": "F. Harmon Weight",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Drusilla with a Million",
+      "work_html_title": "<span class=\"work-title\">Drusilla with a Million</span>",
+      "work_id": 410
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 410,
+      "slug": "drusilla-with-a-million",
+      "title": "Drusilla with a Million",
+      "formatted_title": "Drusilla with a Million",
+      "html_title": "<span class=\"work-title\">Drusilla with a Million</span>",
+      "work_type": "novel",
+      "publication_year": 1916,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 410,
+    "slug": "drusilla-with-a-million",
+    "title": "Drusilla with a Million",
+    "formatted_title": "Drusilla with a Million",
+    "html_title": "<span class=\"work-title\">Drusilla with a Million</span>",
+    "work_type": "novel",
+    "publication_year": 1916,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T03:51:53.499112"
+}

@@ -1,0 +1,83 @@
+{
+  "id": 206,
+  "slug": "lois-christine-eby",
+  "name": "Lois Christine Eby",
+  "birth_year": 1908,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "1908-. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q120432115",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1948,
+    "last_adaptation": 1948,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Crime",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 536,
+      "slug": "larceny-1948",
+      "title": "Larceny",
+      "html_title": "<span class=\"film-title\">Larceny</span>",
+      "year": 1948,
+      "studio": "Universal-International",
+      "directors": "George Sherman",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "has_media": false,
+      "work_title": "The Velvet Fleece",
+      "work_html_title": "<span class=\"work-title\">The Velvet Fleece</span>",
+      "work_id": 466
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 466,
+      "slug": "the-velvet-fleece",
+      "title": "The Velvet Fleece",
+      "formatted_title": "The Velvet Fleece",
+      "html_title": "<span class=\"work-title\">The Velvet Fleece</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 466,
+    "slug": "the-velvet-fleece",
+    "title": "The Velvet Fleece",
+    "formatted_title": "The Velvet Fleece",
+    "html_title": "<span class=\"work-title\">The Velvet Fleece</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-24T14:30:46.215075"
+}

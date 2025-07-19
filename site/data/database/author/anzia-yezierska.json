@@ -1,0 +1,106 @@
+{
+  "id": 36,
+  "slug": "anzia-yezierska",
+  "name": "Anzia Yezierska",
+  "birth_year": 1880,
+  "death_year": 1970,
+  "nationality": "United States, Poland",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1880–1970). Born in Płońsk. Died in Ontario. Occupations: novelist, author, writer. Notable works: Hungry Hearts, Bread Givers",
+  "author_notes": null,
+  "wikidata_id": "Q535396",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1922,
+    "last_adaptation": 1925,
+    "year_span": 3,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1920": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 85,
+      "slug": "hungry-hearts-1922",
+      "title": "Hungry Hearts",
+      "html_title": "<span class=\"film-title\">Hungry Hearts</span>",
+      "year": 1922,
+      "studio": "Goldwyn Pictures",
+      "directors": "E. Mason Hopper",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Hungry Hearts",
+      "work_html_title": "<span class=\"work-title\">Hungry Hearts</span>",
+      "work_id": 82
+    },
+    {
+      "id": 118,
+      "slug": "salome-of-the-tenements-1925",
+      "title": "Salome of the Tenements",
+      "html_title": "<span class=\"film-title\">Salome of the Tenements</span>",
+      "year": 1925,
+      "studio": "Famous Players-Lasky",
+      "directors": "Sidney Olcott",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Salome of the Tenements",
+      "work_html_title": "<span class=\"work-title\">Salome of the Tenements</span>",
+      "work_id": 113
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 82,
+      "slug": "hungry-hearts",
+      "title": "Hungry Hearts",
+      "formatted_title": "Hungry Hearts",
+      "html_title": "<span class=\"work-title\">Hungry Hearts</span>",
+      "work_type": "novel",
+      "publication_year": 1920,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 113,
+      "slug": "salome-of-the-tenements",
+      "title": "Salome of the Tenements",
+      "formatted_title": "Salome of the Tenements",
+      "html_title": "<span class=\"work-title\">Salome of the Tenements</span>",
+      "work_type": "novel",
+      "publication_year": 1923,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 82,
+    "slug": "hungry-hearts",
+    "title": "Hungry Hearts",
+    "formatted_title": "Hungry Hearts",
+    "html_title": "<span class=\"work-title\">Hungry Hearts</span>",
+    "work_type": "novel",
+    "publication_year": 1920,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:16.601812"
+}

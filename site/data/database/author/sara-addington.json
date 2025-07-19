@@ -1,0 +1,120 @@
+{
+  "id": 60,
+  "slug": "sara-addington",
+  "name": "Sara Addington",
+  "birth_year": 1891,
+  "death_year": 1940,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "journalist and children's writer. Born in Cincinnati. Died in New York City. Occupations: children's writer, journalist",
+  "author_notes": null,
+  "wikidata_id": "Q22958129",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1932,
+    "last_adaptation": 1936,
+    "year_span": 4,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Show business",
+        "count": 1
+      },
+      {
+        "genre": "Romantic comedy",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 187,
+      "slug": "dance-team-1932",
+      "title": "Dance Team",
+      "html_title": "<span class=\"film-title\">Dance Team</span>",
+      "year": 1932,
+      "studio": "Fox Film",
+      "directors": "Sidney Lanfield",
+      "genres": [
+        "Comedy-drama",
+        "Show business"
+      ],
+      "has_media": true,
+      "work_title": "Dance Team",
+      "work_html_title": "<span class=\"work-title\">Dance Team</span>",
+      "work_id": 172
+    },
+    {
+      "id": 238,
+      "slug": "and-so-they-were-married-1936",
+      "title": "And So They Were Married",
+      "html_title": "<span class=\"film-title\">And So They Were Married</span>",
+      "year": 1936,
+      "studio": "Columbia",
+      "directors": "Elliott Nugent",
+      "genres": [
+        "Romantic comedy",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "\"Bless Their Hearts\"",
+      "work_html_title": "<span class=\"work-title\">\"Bless Their Hearts\"</span>",
+      "work_id": 206
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 172,
+      "slug": "dance-team",
+      "title": "Dance Team",
+      "formatted_title": "Dance Team",
+      "html_title": "<span class=\"work-title\">Dance Team</span>",
+      "work_type": "novel",
+      "publication_year": 1931,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 206,
+      "slug": "bless-their-hearts",
+      "title": "\"Bless Their Hearts\"",
+      "formatted_title": "\"Bless Their Hearts\"",
+      "html_title": "<span class=\"work-title\">\"Bless Their Hearts\"</span>",
+      "work_type": "novel",
+      "publication_year": 1936,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 172,
+    "slug": "dance-team",
+    "title": "Dance Team",
+    "formatted_title": "Dance Team",
+    "html_title": "<span class=\"work-title\">Dance Team</span>",
+    "work_type": "novel",
+    "publication_year": 1931,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:50.955292"
+}

@@ -1,0 +1,278 @@
+{
+  "id": 4,
+  "slug": "grace-miller-white",
+  "name": "Grace Miller White",
+  "birth_year": 1868,
+  "death_year": 1957,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1868-1957). Occupations: novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q5591308",
+  "stats": {
+    "total_films": 9,
+    "works_adapted": 6,
+    "first_adaptation": 1914,
+    "last_adaptation": 1960,
+    "year_span": 46,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 6
+      },
+      {
+        "genre": "Melodrama",
+        "count": 3
+      },
+      {
+        "genre": "Rural",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 4,
+      "1920": 3,
+      "1930": 1,
+      "1960": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 5,
+      "slug": "tess-of-the-storm-country-1914",
+      "title": "Tess of the Storm Country",
+      "html_title": "<span class=\"film-title\">Tess of the Storm Country</span>",
+      "year": 1914,
+      "studio": "Famous Players",
+      "directors": null,
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Tess of the Storm Country",
+      "work_html_title": "<span class=\"work-title\">Tess of the Storm Country</span>",
+      "work_id": 5
+    },
+    {
+      "id": 584,
+      "slug": "from-the-valley-of-the-missing-1915",
+      "title": "From the Valley of the Missing",
+      "html_title": "<span class=\"film-title\">From the Valley of the Missing</span>",
+      "year": 1915,
+      "studio": "Fox Film",
+      "directors": "Frank Powell",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "From the Valley of the Missing",
+      "work_html_title": "<span class=\"work-title\">From the Valley of the Missing</span>",
+      "work_id": 512
+    },
+    {
+      "id": 26,
+      "slug": "the-secret-of-the-storm-country-1917",
+      "title": "The Secret of the Storm Country",
+      "html_title": "<span class=\"film-title\">The Secret of the Storm Country</span>",
+      "year": 1917,
+      "studio": "Norma Talmadge",
+      "directors": "Charles Miller",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Continuation of Tess of the Storm Country",
+      "work_html_title": "<span class=\"work-title\">Continuation of Tess of the Storm Country</span>",
+      "work_id": 24
+    },
+    {
+      "id": 1074,
+      "slug": "rose-o-paradise-1918",
+      "title": "Rose O' Paradise",
+      "html_title": "<span class=\"film-title\">Rose O' Paradise</span>",
+      "year": 1918,
+      "studio": "Paralta Plays",
+      "directors": "James Young",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Rose O' Paradise",
+      "work_html_title": "<span class=\"work-title\">Rose O' Paradise</span>",
+      "work_id": 965
+    },
+    {
+      "id": 64,
+      "slug": "judy-of-rogues-harbor-1920",
+      "title": "Judy of Rogue's Harbor",
+      "html_title": "<span class=\"film-title\">Judy of Rogue's Harbor</span>",
+      "year": 1920,
+      "studio": "Realart",
+      "directors": "William D. Taylor",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Judy of Rogue's Harbor",
+      "work_html_title": "<span class=\"work-title\">Judy of Rogue's Harbor</span>",
+      "work_id": 61
+    },
+    {
+      "id": 60,
+      "slug": "polly-of-the-storm-country-1920",
+      "title": "Polly of the Storm Country",
+      "html_title": "<span class=\"film-title\">Polly of the Storm Country</span>",
+      "year": 1920,
+      "studio": "Chaplin-Mayer Pictures",
+      "directors": "Arthur H. Rosson",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Storm Country Polly",
+      "work_html_title": "<span class=\"work-title\">Storm Country Polly</span>",
+      "work_id": 57
+    },
+    {
+      "id": 88,
+      "slug": "tess-of-the-storm-country-1922",
+      "title": "Tess of the Storm Country",
+      "html_title": "<span class=\"film-title\">Tess of the Storm Country</span>",
+      "year": 1922,
+      "studio": "Mary Pickford",
+      "directors": "John S. Robertson",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "Tess of the Storm Country",
+      "work_html_title": "<span class=\"work-title\">Tess of the Storm Country</span>",
+      "work_id": 5
+    },
+    {
+      "id": 185,
+      "slug": "tess-of-the-storm-country-1932",
+      "title": "Tess of the Storm Country",
+      "html_title": "<span class=\"film-title\">Tess of the Storm Country</span>",
+      "year": 1932,
+      "studio": "Fox Film",
+      "directors": "Alfred Santell",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Tess of the Storm Country",
+      "work_html_title": "<span class=\"work-title\">Tess of the Storm Country</span>",
+      "work_id": 5
+    },
+    {
+      "id": 338,
+      "slug": "tess-of-the-storm-country-1960",
+      "title": "Tess of the Storm Country",
+      "html_title": "<span class=\"film-title\">Tess of the Storm Country</span>",
+      "year": 1960,
+      "studio": "20th Century Fox",
+      "directors": "Paul Guilfoyle",
+      "genres": [
+        "Drama",
+        "Rural"
+      ],
+      "has_media": false,
+      "work_title": "Tess of the Storm Country",
+      "work_html_title": "<span class=\"work-title\">Tess of the Storm Country</span>",
+      "work_id": 5
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 5,
+      "slug": "tess-of-the-storm-country",
+      "title": "Tess of the Storm Country",
+      "formatted_title": "Tess of the Storm Country",
+      "html_title": "<span class=\"work-title\">Tess of the Storm Country</span>",
+      "work_type": "novel",
+      "publication_year": 1909,
+      "genre": null,
+      "adaptation_count": 4,
+      "is_remake_champion": true
+    },
+    {
+      "id": 512,
+      "slug": "from-the-valley-of-the-missing",
+      "title": "From the Valley of the Missing",
+      "formatted_title": "From the Valley of the Missing",
+      "html_title": "<span class=\"work-title\">From the Valley of the Missing</span>",
+      "work_type": "novel",
+      "publication_year": 1911,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 24,
+      "slug": "continuation-of-tess-of-the-storm-country",
+      "title": "Continuation of Tess of the Storm Country",
+      "formatted_title": "Continuation of Tess of the Storm Country",
+      "html_title": "<span class=\"work-title\">Continuation of Tess of the Storm Country</span>",
+      "work_type": "novel",
+      "publication_year": 1909,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 965,
+      "slug": "rose-o-paradise",
+      "title": "Rose O' Paradise",
+      "formatted_title": "Rose O' Paradise",
+      "html_title": "<span class=\"work-title\">Rose O' Paradise</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 61,
+      "slug": "judy-of-rogues-harbor",
+      "title": "Judy of Rogue's Harbor",
+      "formatted_title": "Judy of Rogue's Harbor",
+      "html_title": "<span class=\"work-title\">Judy of Rogue's Harbor</span>",
+      "work_type": "novel",
+      "publication_year": 1918,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 57,
+      "slug": "storm-country-polly",
+      "title": "Storm Country Polly",
+      "formatted_title": "Storm Country Polly",
+      "html_title": "<span class=\"work-title\">Storm Country Polly</span>",
+      "work_type": "novel",
+      "publication_year": 1920,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 5,
+    "slug": "tess-of-the-storm-country",
+    "title": "Tess of the Storm Country",
+    "formatted_title": "Tess of the Storm Country",
+    "html_title": "<span class=\"work-title\">Tess of the Storm Country</span>",
+    "work_type": "novel",
+    "publication_year": 1909,
+    "genre": null,
+    "adaptation_count": 4,
+    "is_remake_champion": true
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:36:34.700562"
+}

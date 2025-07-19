@@ -1,0 +1,80 @@
+{
+  "id": 602,
+  "slug": "the-next-corner",
+  "title": "The Next Corner",
+  "formatted_title": "The Next Corner",
+  "html_title": "<span class=\"work-title\">The Next Corner</span>",
+  "work_type": "novel",
+  "publication_year": 1921,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 289,
+    "slug": "kate-jordan",
+    "name": "Kate Jordan",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 8
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 7,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 7
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 3,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 685,
+      "slug": "the-next-corner-1924",
+      "title": "The Next Corner",
+      "html_title": "<span class=\"film-title\">The Next Corner</span>",
+      "year": 1924,
+      "studio": "Famous Players-Lasky",
+      "directors": "Sam Wood",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "years_after_publication": 3
+    },
+    {
+      "id": 686,
+      "slug": "transgression-1931",
+      "title": "Transgression",
+      "html_title": "<span class=\"film-title\">Transgression</span>",
+      "year": 1931,
+      "studio": "RKO",
+      "directors": "Herbert Brenon",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "years_after_publication": 10
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1924,
+      "to_year": 1931,
+      "gap_years": 7
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T14:15:20.837232"
+}

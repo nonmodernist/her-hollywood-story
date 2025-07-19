@@ -1,0 +1,88 @@
+{
+  "id": 340,
+  "slug": "freckles-1960",
+  "title": "Freckles",
+  "formatted_title": "Freckles",
+  "html_title": "<span class=\"film-title\">Freckles</span>",
+  "release_year": 1960,
+  "runtime_minutes": null,
+  "country_of_production": "United States",
+  "genres": [
+    "Adventure",
+    "Rural",
+    "Youth"
+  ],
+  "studio": "20th Century Fox",
+  "production_companies": "Associated Producers, Inc.",
+  "distribution_companies": "Twentieth Century-Fox Film Corp.",
+  "directors": "Andrew V. McLaglen",
+  "writers": "Harry Spalding",
+  "cast_members": "Martin West|Carol Christensen|Jack Lambert|Steven Peck|Roy Barcroft|Lorna Thayer|Ken Curtis|John Eldredge",
+  "color_info": null,
+  "adaptation_notes": null,
+  "afi_catalog_id": 53149,
+  "source_work": {
+    "id": 19,
+    "slug": "freckles",
+    "title": "Freckles",
+    "formatted_title": "Freckles",
+    "html_title": "<span class=\"work-title\">Freckles</span>",
+    "work_type": "novel",
+    "publication_year": 1904,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 4,
+    "year_to_adaptation": 56
+  },
+  "author": {
+    "id": 12,
+    "slug": "gene-stratton-porter",
+    "name": "Gene Stratton-Porter",
+    "birth_year": 1863,
+    "death_year": 1924,
+    "nationality": "United States",
+    "film_count": 21
+  },
+  "other_adaptations": [
+    {
+      "id": 21,
+      "slug": "freckles-1917",
+      "title": "Freckles",
+      "html_title": "<span class=\"film-title\">Freckles</span>",
+      "year": 1917,
+      "directors": "Marshall Neilan",
+      "studio": "Jesse Lasky"
+    },
+    {
+      "id": 150,
+      "slug": "freckles-1928",
+      "title": "Freckles",
+      "html_title": "<span class=\"film-title\">Freckles</span>",
+      "year": 1928,
+      "directors": "Leo Meehan",
+      "studio": "FBO"
+    },
+    {
+      "id": 225,
+      "slug": "freckles-1935",
+      "title": "Freckles",
+      "html_title": "<span class=\"film-title\">Freckles</span>",
+      "year": 1935,
+      "directors": "Edward Killy|William Hamilton",
+      "studio": "RKO"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 4,
+    "adaptation_number": 4,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

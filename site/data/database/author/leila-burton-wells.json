@@ -1,0 +1,78 @@
+{
+  "id": 489,
+  "slug": "leila-burton-wells",
+  "name": "Leila Burton Wells",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American writer in the silent film era. Occupations: screenwriter, author",
+  "author_notes": null,
+  "wikidata_id": "Q117303713",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1919,
+    "last_adaptation": 1919,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1070,
+      "slug": "the-perfect-lover-1919",
+      "title": "The Perfect Lover",
+      "html_title": "<span class=\"film-title\">The Perfect Lover</span>",
+      "year": 1919,
+      "studio": "Selznick Pictures",
+      "directors": "Ralph Ince",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Naked Truth",
+      "work_html_title": "<span class=\"work-title\">The Naked Truth</span>",
+      "work_id": 961
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 961,
+      "slug": "the-naked-truth",
+      "title": "The Naked Truth",
+      "formatted_title": "The Naked Truth",
+      "html_title": "<span class=\"work-title\">The Naked Truth</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 961,
+    "slug": "the-naked-truth",
+    "title": "The Naked Truth",
+    "formatted_title": "The Naked Truth",
+    "html_title": "<span class=\"work-title\">The Naked Truth</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:54:54.46914"
+}

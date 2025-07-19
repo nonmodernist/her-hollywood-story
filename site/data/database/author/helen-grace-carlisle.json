@@ -1,0 +1,83 @@
+{
+  "id": 157,
+  "slug": "helen-grace-carlisle",
+  "name": "Helen Grace Carlisle",
+  "birth_year": 1898,
+  "death_year": 1968,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in New York City. Occupations: writer, screenwriter",
+  "author_notes": null,
+  "wikidata_id": "Q12019397",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1930,
+    "last_adaptation": 1930,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 451,
+      "slug": "mothers-cry-1930",
+      "title": "Mother's Cry",
+      "html_title": "<span class=\"film-title\">Mother's Cry</span>",
+      "year": 1930,
+      "studio": "First National",
+      "directors": "Hobart Henley",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Mother's Cry",
+      "work_html_title": "<span class=\"work-title\">Mother's Cry</span>",
+      "work_id": 382
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 382,
+      "slug": "mothers-cry",
+      "title": "Mother's Cry",
+      "formatted_title": "Mother's Cry",
+      "html_title": "<span class=\"work-title\">Mother's Cry</span>",
+      "work_type": "novel",
+      "publication_year": 1930,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 382,
+    "slug": "mothers-cry",
+    "title": "Mother's Cry",
+    "formatted_title": "Mother's Cry",
+    "html_title": "<span class=\"work-title\">Mother's Cry</span>",
+    "work_type": "novel",
+    "publication_year": 1930,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:32.700245"
+}

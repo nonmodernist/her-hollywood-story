@@ -1,0 +1,83 @@
+{
+  "id": 499,
+  "slug": "dorothy-clarke-wilson",
+  "name": "Dorothy Clarke Wilson",
+  "birth_year": 1904,
+  "death_year": 2003,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1904-2003). Born in Gardiner. Died in Orono. Occupations: novelist",
+  "author_notes": null,
+  "wikidata_id": "Q5298351",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1956,
+    "last_adaptation": 1956,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Epic",
+        "count": 1
+      },
+      {
+        "genre": "Biblical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1099,
+      "slug": "the-ten-commandments-1956",
+      "title": "The Ten Commandments",
+      "html_title": "<span class=\"film-title\">The Ten Commandments</span>",
+      "year": 1956,
+      "studio": "Paramount",
+      "directors": "Cecil B. DeMille",
+      "genres": [
+        "Epic",
+        "Biblical"
+      ],
+      "has_media": false,
+      "work_title": "The Prince of Egypt",
+      "work_html_title": "<span class=\"work-title\">The Prince of Egypt</span>",
+      "work_id": 986
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 986,
+      "slug": "the-prince-of-egypt",
+      "title": "The Prince of Egypt",
+      "formatted_title": "The Prince of Egypt",
+      "html_title": "<span class=\"work-title\">The Prince of Egypt</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 986,
+    "slug": "the-prince-of-egypt",
+    "title": "The Prince of Egypt",
+    "formatted_title": "The Prince of Egypt",
+    "html_title": "<span class=\"work-title\">The Prince of Egypt</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:55:07.068804"
+}

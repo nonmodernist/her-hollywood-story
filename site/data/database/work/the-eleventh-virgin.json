@@ -1,0 +1,59 @@
+{
+  "id": 433,
+  "slug": "the-eleventh-virgin",
+  "title": "The Eleventh Virgin",
+  "formatted_title": "The Eleventh Virgin",
+  "html_title": "<span class=\"work-title\">The Eleventh Virgin</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 193,
+    "slug": "dorothy-day",
+    "name": "Dorothy Day",
+    "birth_year": 1897,
+    "death_year": 1980,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 502,
+      "slug": "the-woman-hater-1925",
+      "title": "The Woman Hater",
+      "html_title": "<span class=\"film-title\">The Woman Hater</span>",
+      "year": 1925,
+      "studio": "Warner Bros",
+      "directors": "James Flood",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "years_after_publication": 1925
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T01:02:15.470205"
+}

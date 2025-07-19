@@ -1,0 +1,83 @@
+{
+  "id": 72,
+  "slug": "margaret-mitchell",
+  "name": "Margaret Mitchell",
+  "birth_year": 1900,
+  "death_year": 1949,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": "Q173540",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1939,
+    "last_adaptation": 1939,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 1
+      },
+      {
+        "genre": "Civil War",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 252,
+      "slug": "gone-with-the-wind-1939",
+      "title": "Gone with the Wind",
+      "html_title": "<span class=\"film-title\">Gone with the Wind</span>",
+      "year": 1939,
+      "studio": "Selznick International",
+      "directors": "Victor Fleming|Sam Wood|George Cukor|Chester Franklin|James Fitzpatrick",
+      "genres": [
+        "Romance",
+        "Civil War"
+      ],
+      "has_media": true,
+      "work_title": "Gone With the Wind",
+      "work_html_title": "<span class=\"work-title\">Gone With the Wind</span>",
+      "work_id": 216
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 216,
+      "slug": "gone-with-the-wind",
+      "title": "Gone With the Wind",
+      "formatted_title": "Gone With the Wind",
+      "html_title": "<span class=\"work-title\">Gone With the Wind</span>",
+      "work_type": "novel",
+      "publication_year": 1936,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 216,
+    "slug": "gone-with-the-wind",
+    "title": "Gone With the Wind",
+    "formatted_title": "Gone With the Wind",
+    "html_title": "<span class=\"work-title\">Gone With the Wind</span>",
+    "work_type": "novel",
+    "publication_year": 1936,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T14:52:34.472778"
+}

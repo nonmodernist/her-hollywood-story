@@ -1,0 +1,88 @@
+{
+  "id": 125,
+  "slug": "diana-bourbon",
+  "name": "Diana Bourbon",
+  "birth_year": 1900,
+  "death_year": 1978,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American writer, actress. Occupations: actor, journalist, screenwriter, radio producer",
+  "author_notes": null,
+  "wikidata_id": "Q108387417",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1936,
+    "last_adaptation": 1936,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Aviation",
+        "count": 1
+      },
+      {
+        "genre": "Crime",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 379,
+      "slug": "roaming-lady-1936",
+      "title": "Roaming Lady",
+      "html_title": "<span class=\"film-title\">Roaming Lady</span>",
+      "year": 1936,
+      "studio": "Columbia",
+      "directors": "Albert S. Rogell",
+      "genres": [
+        "Drama",
+        "Aviation",
+        "Crime"
+      ],
+      "has_media": false,
+      "work_title": "Roaming Lady",
+      "work_html_title": "<span class=\"work-title\">Roaming Lady</span>",
+      "work_id": 316
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 316,
+      "slug": "roaming-lady",
+      "title": "Roaming Lady",
+      "formatted_title": "Roaming Lady",
+      "html_title": "<span class=\"work-title\">Roaming Lady</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 316,
+    "slug": "roaming-lady",
+    "title": "Roaming Lady",
+    "formatted_title": "Roaming Lady",
+    "html_title": "<span class=\"work-title\">Roaming Lady</span>",
+    "work_type": "novel",
+    "publication_year": 1933,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:52:51.086863"
+}

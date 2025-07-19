@@ -1,0 +1,78 @@
+{
+  "id": 257,
+  "slug": "marrijane-hayes",
+  "name": "Marrijane Hayes",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1962,
+    "last_adaptation": 1962,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1960": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 632,
+      "slug": "bon-voyage-1962",
+      "title": "Bon Voyage!",
+      "html_title": "<span class=\"film-title\">Bon Voyage!</span>",
+      "year": 1962,
+      "studio": "Walt Disney ",
+      "directors": "James Neilson",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "Bonvoyage",
+      "work_html_title": "<span class=\"work-title\">Bonvoyage</span>",
+      "work_id": 555
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 555,
+      "slug": "bonvoyage",
+      "title": "Bonvoyage",
+      "formatted_title": "Bonvoyage",
+      "html_title": "<span class=\"work-title\">Bonvoyage</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 555,
+    "slug": "bonvoyage",
+    "title": "Bonvoyage",
+    "formatted_title": "Bonvoyage",
+    "html_title": "<span class=\"work-title\">Bonvoyage</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:18:25.74318"
+}

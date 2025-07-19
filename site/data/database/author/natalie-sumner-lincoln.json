@@ -1,0 +1,78 @@
+{
+  "id": 324,
+  "slug": "natalie-sumner-lincoln",
+  "name": "Natalie Sumner Lincoln",
+  "birth_year": 1881,
+  "death_year": 1935,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American crime writer (1881-1935). Born in Washington, D.C.. Died in Washington, D.C.. Occupations: writer, crime fiction writer, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q16028173",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1916,
+    "last_adaptation": 1916,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 747,
+      "slug": "the-man-inside-1916",
+      "title": "The Man Inside",
+      "html_title": "<span class=\"film-title\">The Man Inside</span>",
+      "year": 1916,
+      "studio": "Universal",
+      "directors": "John G. Adolfi",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Man Inside",
+      "work_html_title": "<span class=\"work-title\">The Man Inside</span>",
+      "work_id": 662
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 662,
+      "slug": "the-man-inside",
+      "title": "The Man Inside",
+      "formatted_title": "The Man Inside",
+      "html_title": "<span class=\"work-title\">The Man Inside</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 662,
+    "slug": "the-man-inside",
+    "title": "The Man Inside",
+    "formatted_title": "The Man Inside",
+    "html_title": "<span class=\"work-title\">The Man Inside</span>",
+    "work_type": "novel",
+    "publication_year": 1914,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:33.830186"
+}

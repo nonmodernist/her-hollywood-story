@@ -1,0 +1,83 @@
+{
+  "id": 94,
+  "slug": "edna-anhalt",
+  "name": "Edna Anhalt",
+  "birth_year": 1914,
+  "death_year": 1987,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "screenwriter (1914–1987). Born in New York City. Occupations: film producer, screenwriter",
+  "author_notes": null,
+  "wikidata_id": "Q911247",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1950,
+    "last_adaptation": 1950,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Disaster",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 307,
+      "slug": "panic-in-the-streets-1950",
+      "title": "Panic in the Streets",
+      "html_title": "<span class=\"film-title\">Panic in the Streets</span>",
+      "year": 1950,
+      "studio": "20th Century Fox",
+      "directors": "Elia Kazan",
+      "genres": [
+        "Drama",
+        "Disaster"
+      ],
+      "has_media": true,
+      "work_title": "\"Quarantine\" and \"Some Like Em Cold\"",
+      "work_html_title": "<span class=\"work-title\">\"Quarantine\" and \"Some Like Em Cold\"</span>",
+      "work_id": 257
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 257,
+      "slug": "quarantine-and-some-like-em-cold",
+      "title": "\"Quarantine\" and \"Some Like Em Cold\"",
+      "formatted_title": "\"Quarantine\" and \"Some Like Em Cold\"",
+      "html_title": "<span class=\"work-title\">\"Quarantine\" and \"Some Like Em Cold\"</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 257,
+    "slug": "quarantine-and-some-like-em-cold",
+    "title": "\"Quarantine\" and \"Some Like Em Cold\"",
+    "formatted_title": "\"Quarantine\" and \"Some Like Em Cold\"",
+    "html_title": "<span class=\"work-title\">\"Quarantine\" and \"Some Like Em Cold\"</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:32.248762"
+}

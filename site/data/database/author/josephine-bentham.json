@@ -1,0 +1,117 @@
+{
+  "id": 116,
+  "slug": "josephine-bentham",
+  "name": "Josephine Bentham",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1937,
+    "last_adaptation": 1944,
+    "year_span": 7,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 2
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      },
+      {
+        "genre": "Teenage",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1,
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 368,
+      "slug": "a-bride-for-henry-1937",
+      "title": "A Bride for Henry",
+      "html_title": "<span class=\"film-title\">A Bride for Henry</span>",
+      "year": 1937,
+      "studio": "Monogram",
+      "directors": "William Nigh",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "work_title": "A Bride for Henry",
+      "work_html_title": "<span class=\"work-title\">A Bride for Henry</span>",
+      "work_id": 304
+    },
+    {
+      "id": 369,
+      "slug": "janie-1944",
+      "title": "Janie",
+      "html_title": "<span class=\"film-title\">Janie</span>",
+      "year": 1944,
+      "studio": "Warner Bros",
+      "directors": "Michael Curtiz",
+      "genres": [
+        "Comedy",
+        "Domestic",
+        "Teenage"
+      ],
+      "has_media": false,
+      "work_title": "Janie",
+      "work_html_title": "<span class=\"work-title\">Janie</span>",
+      "work_id": 305
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 304,
+      "slug": "a-bride-for-henry",
+      "title": "A Bride for Henry",
+      "formatted_title": "A Bride for Henry",
+      "html_title": "<span class=\"work-title\">A Bride for Henry</span>",
+      "work_type": "novel",
+      "publication_year": 1937,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 305,
+      "slug": "janie",
+      "title": "Janie",
+      "formatted_title": "Janie",
+      "html_title": "<span class=\"work-title\">Janie</span>",
+      "work_type": "novel",
+      "publication_year": 1940,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 304,
+    "slug": "a-bride-for-henry",
+    "title": "A Bride for Henry",
+    "formatted_title": "A Bride for Henry",
+    "html_title": "<span class=\"work-title\">A Bride for Henry</span>",
+    "work_type": "novel",
+    "publication_year": 1937,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-18T02:20:02.803483"
+}

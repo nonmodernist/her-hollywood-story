@@ -1,0 +1,60 @@
+{
+  "id": 679,
+  "slug": "ex-mistress",
+  "title": "Ex-Mistress",
+  "formatted_title": "Ex-Mistress",
+  "html_title": "<span class=\"work-title\">Ex-Mistress</span>",
+  "work_type": "novel",
+  "publication_year": 1930,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": "published under Perkins' pseud Dora Macy",
+  "author": {
+    "id": 339,
+    "slug": "grace-perkins",
+    "name": "Grace Perkins",
+    "birth_year": 1900,
+    "death_year": 1955,
+    "film_count": 4
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 765,
+      "slug": "my-past-1931",
+      "title": "My Past",
+      "html_title": "<span class=\"film-title\">My Past</span>",
+      "year": 1931,
+      "studio": "Warner Bros",
+      "directors": "Roy Del Ruth",
+      "genres": [
+        "Melodrama",
+        "Romance"
+      ],
+      "has_media": false,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T14:15:16.844838"
+}

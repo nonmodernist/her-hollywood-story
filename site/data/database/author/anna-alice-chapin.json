@@ -1,0 +1,149 @@
+{
+  "id": 166,
+  "slug": "anna-alice-chapin",
+  "name": "Anna Alice Chapin",
+  "birth_year": 1880,
+  "death_year": 1920,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in New York City. Died in New York City. Occupations: writer, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q4766815",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1914,
+    "last_adaptation": 1925,
+    "year_span": 11,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 2
+      },
+      {
+        "genre": "Rural",
+        "count": 1
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1920": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 464,
+      "slug": "the-eagles-mate-1914",
+      "title": "The Eagle's Mate",
+      "html_title": "<span class=\"film-title\">The Eagle's Mate</span>",
+      "year": 1914,
+      "studio": "Famous Players",
+      "directors": "James Kirkwood",
+      "genres": [
+        "Melodrama",
+        "Rural"
+      ],
+      "has_media": true,
+      "work_title": "The Eagle's Mate",
+      "work_html_title": "<span class=\"work-title\">The Eagle's Mate</span>",
+      "work_id": 396
+    },
+    {
+      "id": 465,
+      "slug": "mountain-madness-1920",
+      "title": "Mountain Madness",
+      "html_title": "<span class=\"film-title\">Mountain Madness</span>",
+      "year": 1920,
+      "studio": "Lloyd Carleton Productions",
+      "directors": "Lloyd Carleton",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Mountain Madness",
+      "work_html_title": "<span class=\"work-title\">Mountain Madness</span>",
+      "work_id": 397
+    },
+    {
+      "id": 466,
+      "slug": "the-girl-of-gold-1925",
+      "title": "The Girl of Gold",
+      "html_title": "<span class=\"film-title\">The Girl of Gold</span>",
+      "year": 1925,
+      "studio": "Regal Pictures",
+      "directors": "John Ince",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "The Girl of Gold",
+      "work_html_title": "<span class=\"work-title\">The Girl of Gold</span>",
+      "work_id": 398
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 396,
+      "slug": "the-eagles-mate",
+      "title": "The Eagle's Mate",
+      "formatted_title": "The Eagle's Mate",
+      "html_title": "<span class=\"work-title\">The Eagle's Mate</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 397,
+      "slug": "mountain-madness",
+      "title": "Mountain Madness",
+      "formatted_title": "Mountain Madness",
+      "html_title": "<span class=\"work-title\">Mountain Madness</span>",
+      "work_type": "novel",
+      "publication_year": 1917,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 398,
+      "slug": "the-girl-of-gold",
+      "title": "The Girl of Gold",
+      "formatted_title": "The Girl of Gold",
+      "html_title": "<span class=\"work-title\">The Girl of Gold</span>",
+      "work_type": "novel",
+      "publication_year": 1920,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 396,
+    "slug": "the-eagles-mate",
+    "title": "The Eagle's Mate",
+    "formatted_title": "The Eagle's Mate",
+    "html_title": "<span class=\"work-title\">The Eagle's Mate</span>",
+    "work_type": "novel",
+    "publication_year": 1914,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:47.034436"
+}

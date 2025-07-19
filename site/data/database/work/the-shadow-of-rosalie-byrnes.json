@@ -1,0 +1,59 @@
+{
+  "id": 702,
+  "slug": "the-shadow-of-rosalie-byrnes",
+  "title": "The Shadow of Rosalie Byrnes",
+  "formatted_title": "The Shadow of Rosalie Byrnes",
+  "html_title": "<span class=\"work-title\">The Shadow of Rosalie Byrnes</span>",
+  "work_type": "novel",
+  "publication_year": 1919,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 351,
+    "slug": "grace-sartwell-mason",
+    "name": "Grace Sartwell Mason",
+    "birth_year": 1876,
+    "death_year": 1966,
+    "film_count": 3
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 788,
+      "slug": "the-shadow-of-rosalie-byrnes-1920",
+      "title": "The Shadow of Rosalie Byrnes",
+      "html_title": "<span class=\"film-title\">The Shadow of Rosalie Byrnes</span>",
+      "year": 1920,
+      "studio": "Selznick Pictures",
+      "directors": "George Archainbaud",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T14:13:32.843515"
+}

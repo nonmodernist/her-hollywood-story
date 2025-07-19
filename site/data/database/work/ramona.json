@@ -1,0 +1,121 @@
+{
+  "id": 1,
+  "slug": "ramona",
+  "title": "Ramona",
+  "formatted_title": "Ramona",
+  "html_title": "<span class=\"work-title\">Ramona</span>",
+  "work_type": "novel",
+  "publication_year": 1884,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 1,
+    "slug": "helen-hunt-jackson",
+    "name": "Helen Hunt Jackson",
+    "birth_year": 1830,
+    "death_year": 1885,
+    "film_count": 4
+  },
+  "stats": {
+    "adaptation_count": 4,
+    "year_span": 26,
+    "is_remake_champion": true,
+    "average_gap_between_adaptations": 9
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 26,
+    "is_remake_champion": true,
+    "remake_champion_rank": 10
+  },
+  "adaptations": [
+    {
+      "id": 1,
+      "slug": "ramona-1910",
+      "title": "Ramona",
+      "html_title": "<span class=\"film-title\">Ramona</span>",
+      "year": 1910,
+      "studio": "Biograph",
+      "directors": "D. W. Griffith",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": true,
+      "years_after_publication": 26
+    },
+    {
+      "id": 11,
+      "slug": "ramona-1916",
+      "title": "Ramona",
+      "html_title": "<span class=\"film-title\">Ramona</span>",
+      "year": 1916,
+      "studio": "Clune Film",
+      "directors": "Donald Crisp",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": true,
+      "years_after_publication": 32
+    },
+    {
+      "id": 148,
+      "slug": "ramona-1928",
+      "title": "Ramona",
+      "html_title": "<span class=\"film-title\">Ramona</span>",
+      "year": 1928,
+      "studio": "United Artists",
+      "directors": "Edwin Carewe",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": true,
+      "years_after_publication": 44
+    },
+    {
+      "id": 230,
+      "slug": "ramona-1936",
+      "title": "Ramona",
+      "html_title": "<span class=\"film-title\">Ramona</span>",
+      "year": 1936,
+      "studio": "20th Century Fox",
+      "directors": "Henry King",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": false,
+      "years_after_publication": 52
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1910,
+      "to_year": 1916,
+      "gap_years": 6
+    },
+    {
+      "from_year": 1916,
+      "to_year": 1928,
+      "gap_years": 12
+    },
+    {
+      "from_year": 1928,
+      "to_year": 1936,
+      "gap_years": 8
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:48:03.914138"
+}

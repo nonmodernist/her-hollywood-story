@@ -1,0 +1,109 @@
+{
+  "id": 279,
+  "slug": "elsie-janis",
+  "name": "Elsie Janis",
+  "birth_year": 1889,
+  "death_year": 1956,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American actress of stage and screen (1889-1956). Born in Columbus. Died in Beverly Hills. Occupations: singer, film actor, actor, songwriter, stage actor, screenwriter",
+  "author_notes": null,
+  "wikidata_id": "Q2144892",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1928,
+    "last_adaptation": 1928,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Musical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 665,
+      "slug": "close-harmony-1928",
+      "title": "Close Harmony",
+      "html_title": "<span class=\"film-title\">Close Harmony</span>",
+      "year": 1928,
+      "studio": "Paramount",
+      "directors": "John Cromwell|Edward Sutherland",
+      "genres": [
+        "Comedy-drama",
+        "Musical"
+      ],
+      "has_media": false,
+      "work_title": "Close Harmony",
+      "work_html_title": "<span class=\"work-title\">Close Harmony</span>",
+      "work_id": 583
+    },
+    {
+      "id": 666,
+      "slug": "listen-baby-1928",
+      "title": "Listen Baby",
+      "html_title": "<span class=\"film-title\">Listen Baby</span>",
+      "year": 1928,
+      "studio": "Pathé Exchange",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "Listen Baby",
+      "work_html_title": "<span class=\"work-title\">Listen Baby</span>",
+      "work_id": 584
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 583,
+      "slug": "close-harmony",
+      "title": "Close Harmony",
+      "formatted_title": "Close Harmony",
+      "html_title": "<span class=\"work-title\">Close Harmony</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 584,
+      "slug": "listen-baby",
+      "title": "Listen Baby",
+      "formatted_title": "Listen Baby",
+      "html_title": "<span class=\"work-title\">Listen Baby</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 583,
+    "slug": "close-harmony",
+    "title": "Close Harmony",
+    "formatted_title": "Close Harmony",
+    "html_title": "<span class=\"work-title\">Close Harmony</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-06T14:48:32.32424"
+}

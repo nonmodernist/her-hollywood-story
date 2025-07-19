@@ -1,0 +1,59 @@
+{
+  "id": 294,
+  "slug": "the-taming-of-zenas-henry",
+  "title": "The Taming of Zenas Henry",
+  "formatted_title": "The Taming of Zenas Henry",
+  "html_title": "<span class=\"work-title\">The Taming of Zenas Henry</span>",
+  "work_type": "novel",
+  "publication_year": 1915,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 111,
+    "slug": "sara-ware-bassett",
+    "name": "Sara Ware Bassett",
+    "birth_year": 1872,
+    "death_year": 1968,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 20,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 356,
+      "slug": "captain-hurricane-1935",
+      "title": "Captain Hurricane",
+      "html_title": "<span class=\"film-title\">Captain Hurricane</span>",
+      "year": 1935,
+      "studio": "RKO",
+      "directors": "John Robertson",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 20
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T21:02:56.138631"
+}

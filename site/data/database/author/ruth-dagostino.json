@@ -1,0 +1,83 @@
+{
+  "id": 185,
+  "slug": "ruth-dagostino",
+  "name": "Ruth D'Agostino",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1926,
+    "last_adaptation": 1926,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 489,
+      "slug": "a-womans-heart-1926",
+      "title": "A Woman's Heart",
+      "html_title": "<span class=\"film-title\">A Woman's Heart</span>",
+      "year": 1926,
+      "studio": "Sterling Pictures Distributing Corp",
+      "directors": "Phil Rosen",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "The Revelations of a Woman's Heart",
+      "work_html_title": "<span class=\"work-title\">The Revelations of a Woman's Heart</span>",
+      "work_id": 421
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 421,
+      "slug": "the-revelations-of-a-womans-heart",
+      "title": "The Revelations of a Woman's Heart",
+      "formatted_title": "The Revelations of a Woman's Heart",
+      "html_title": "<span class=\"work-title\">The Revelations of a Woman's Heart</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 421,
+    "slug": "the-revelations-of-a-womans-heart",
+    "title": "The Revelations of a Woman's Heart",
+    "formatted_title": "The Revelations of a Woman's Heart",
+    "html_title": "<span class=\"work-title\">The Revelations of a Woman's Heart</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T00:49:56.759267"
+}

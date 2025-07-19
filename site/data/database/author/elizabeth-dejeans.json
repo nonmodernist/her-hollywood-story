@@ -1,0 +1,142 @@
+{
+  "id": 196,
+  "slug": "elizabeth-dejeans",
+  "name": "Elizabeth Dejeans",
+  "birth_year": 1868,
+  "death_year": 1928,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American writer. Occupations: writer",
+  "author_notes": "pseud of Frances Elizabeth Janes Budgett",
+  "wikidata_id": "Q114065088",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1920,
+    "last_adaptation": 1926,
+    "year_span": 6,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Western",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 507,
+      "slug": "the-tigers-coat-1920",
+      "title": "The Tiger's Coat",
+      "html_title": "<span class=\"film-title\">The Tiger's Coat</span>",
+      "year": 1920,
+      "studio": "Dial Film",
+      "directors": "Roy Clements",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Tiger's Coat",
+      "work_html_title": "<span class=\"work-title\">The Tiger's Coat</span>",
+      "work_id": 438
+    },
+    {
+      "id": 505,
+      "slug": "crashin-thru-1923",
+      "title": "Crashin' Thru",
+      "html_title": "<span class=\"film-title\">Crashin' Thru</span>",
+      "year": 1923,
+      "studio": "Robertson-Cole",
+      "directors": "Val Paul",
+      "genres": [
+        "Western"
+      ],
+      "has_media": true,
+      "work_title": "If a Woman Will",
+      "work_html_title": "<span class=\"work-title\">If a Woman Will</span>",
+      "work_id": 436
+    },
+    {
+      "id": 506,
+      "slug": "the-romance-of-a-million-dollars-1926",
+      "title": "The Romance of a Million Dollars",
+      "html_title": "<span class=\"film-title\">The Romance of a Million Dollars</span>",
+      "year": 1926,
+      "studio": "Preferred Pictures",
+      "directors": "Tom Terriss",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "Romance of a Million Dollars",
+      "work_html_title": "<span class=\"work-title\">Romance of a Million Dollars</span>",
+      "work_id": 437
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 438,
+      "slug": "the-tigers-coat",
+      "title": "The Tiger's Coat",
+      "formatted_title": "The Tiger's Coat",
+      "html_title": "<span class=\"work-title\">The Tiger's Coat</span>",
+      "work_type": "novel",
+      "publication_year": 1917,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 436,
+      "slug": "if-a-woman-will",
+      "title": "If a Woman Will",
+      "formatted_title": "If a Woman Will",
+      "html_title": "<span class=\"work-title\">If a Woman Will</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 437,
+      "slug": "romance-of-a-million-dollars",
+      "title": "Romance of a Million Dollars",
+      "formatted_title": "Romance of a Million Dollars",
+      "html_title": "<span class=\"work-title\">Romance of a Million Dollars</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 438,
+    "slug": "the-tigers-coat",
+    "title": "The Tiger's Coat",
+    "formatted_title": "The Tiger's Coat",
+    "html_title": "<span class=\"work-title\">The Tiger's Coat</span>",
+    "work_type": "novel",
+    "publication_year": 1917,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T01:12:24.557211"
+}

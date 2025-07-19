@@ -1,0 +1,121 @@
+{
+  "id": 155,
+  "slug": "ernestine-gilbreth-carey",
+  "name": "Ernestine Gilbreth Carey",
+  "birth_year": 1908,
+  "death_year": 2006,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "Author, memoirist (1908–2006). Born in New York. Died in Fresno. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q522426",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1950,
+    "last_adaptation": 1952,
+    "year_span": 2,
+    "top_genres": [
+      {
+        "genre": "Domestic",
+        "count": 2
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 449,
+      "slug": "cheaper-by-the-dozen-1950",
+      "title": "Cheaper by the Dozen",
+      "html_title": "<span class=\"film-title\">Cheaper by the Dozen</span>",
+      "year": 1950,
+      "studio": "20th Century Fox",
+      "directors": "Walter Lang",
+      "genres": [
+        "Comedy-drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Cheaper by the Dozen",
+      "work_html_title": "<span class=\"work-title\">Cheaper by the Dozen</span>",
+      "work_id": 380
+    },
+    {
+      "id": 448,
+      "slug": "belles-on-their-toes-1952",
+      "title": "Belles on Their Toes",
+      "html_title": "<span class=\"film-title\">Belles on Their Toes</span>",
+      "year": 1952,
+      "studio": "20th Century Fox",
+      "directors": "Henry Levin",
+      "genres": [
+        "Comedy",
+        "Domestic",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Belles on their Toes",
+      "work_html_title": "<span class=\"work-title\">Belles on their Toes</span>",
+      "work_id": 379
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 380,
+      "slug": "cheaper-by-the-dozen",
+      "title": "Cheaper by the Dozen",
+      "formatted_title": "Cheaper by the Dozen",
+      "html_title": "<span class=\"work-title\">Cheaper by the Dozen</span>",
+      "work_type": "novel",
+      "publication_year": 1948,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 379,
+      "slug": "belles-on-their-toes",
+      "title": "Belles on their Toes",
+      "formatted_title": "Belles on their Toes",
+      "html_title": "<span class=\"work-title\">Belles on their Toes</span>",
+      "work_type": "novel",
+      "publication_year": 1950,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 380,
+    "slug": "cheaper-by-the-dozen",
+    "title": "Cheaper by the Dozen",
+    "formatted_title": "Cheaper by the Dozen",
+    "html_title": "<span class=\"work-title\">Cheaper by the Dozen</span>",
+    "work_type": "novel",
+    "publication_year": 1948,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:30.777265"
+}

@@ -1,0 +1,267 @@
+{
+  "id": 21,
+  "slug": "nalbro-isadorah-bartley",
+  "name": "Nalbro Isadorah Bartley",
+  "birth_year": 1888,
+  "death_year": 1952,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1888-1952). Born in Buffalo. Died in San Francisco. Occupations: screenwriter, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q30598690",
+  "stats": {
+    "total_films": 7,
+    "works_adapted": 7,
+    "first_adaptation": 1918,
+    "last_adaptation": 1932,
+    "year_span": 14,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 5
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 3,
+      "1920": 3,
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 40,
+      "slug": "the-lure-of-luxury-1918",
+      "title": "The Lure of Luxury",
+      "html_title": "<span class=\"film-title\">The Lure of Luxury</span>",
+      "year": 1918,
+      "studio": "Bluebird Photoplays",
+      "directors": "Elsie Jane Wilson",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Bargain True",
+      "work_html_title": "<span class=\"work-title\">The Bargain True</span>",
+      "work_id": 38
+    },
+    {
+      "id": 35,
+      "slug": "the-vanity-pool-1918",
+      "title": "The Vanity Pool",
+      "html_title": "<span class=\"film-title\">The Vanity Pool</span>",
+      "year": 1918,
+      "studio": "Universal",
+      "directors": "Ida May Park",
+      "genres": [
+        "Drama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "\"The Vanity Pool\"",
+      "work_html_title": "<span class=\"work-title\">\"The Vanity Pool\"</span>",
+      "work_id": 33
+    },
+    {
+      "id": 50,
+      "slug": "the-bramble-bush-1919",
+      "title": "The Bramble Bush",
+      "html_title": "<span class=\"film-title\">The Bramble Bush</span>",
+      "year": 1919,
+      "studio": "Vitagraph",
+      "directors": "Tom Terriss",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "\"The Bramble Bush\"",
+      "work_html_title": "<span class=\"work-title\">\"The Bramble Bush\"</span>",
+      "work_id": 48
+    },
+    {
+      "id": 66,
+      "slug": "the-amateur-wife-1920",
+      "title": "The Amateur Wife",
+      "html_title": "<span class=\"film-title\">The Amateur Wife</span>",
+      "year": 1920,
+      "studio": "Famous Players-Lasky",
+      "directors": "Edward Dillon",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "\"Miss Antique\"",
+      "work_html_title": "<span class=\"work-title\">\"Miss Antique\"</span>",
+      "work_id": 63
+    },
+    {
+      "id": 86,
+      "slug": "a-womans-woman-1922",
+      "title": "A Woman's Woman",
+      "html_title": "<span class=\"film-title\">A Woman's Woman</span>",
+      "year": 1922,
+      "studio": "Albion",
+      "directors": "Charles Giblyn",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": true,
+      "work_title": "A Woman's Woman",
+      "work_html_title": "<span class=\"work-title\">A Woman's Woman</span>",
+      "work_id": 83
+    },
+    {
+      "id": 87,
+      "slug": "the-country-flapper-1922",
+      "title": "The Country Flapper",
+      "html_title": "<span class=\"film-title\">The Country Flapper</span>",
+      "year": 1922,
+      "studio": "Dorothy Gish Productions",
+      "directors": "F. Richard Jones",
+      "genres": [
+        "Comedy",
+        "Rural"
+      ],
+      "has_media": true,
+      "work_title": "\"The Cynic Effect\"",
+      "work_html_title": "<span class=\"work-title\">\"The Cynic Effect\"</span>",
+      "work_id": 84
+    },
+    {
+      "id": 192,
+      "slug": "devils-lottery-1932",
+      "title": "Devil's Lottery",
+      "html_title": "<span class=\"film-title\">Devil's Lottery</span>",
+      "year": 1932,
+      "studio": "Fox Film",
+      "directors": "Sam Taylor",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Devil's Lottery",
+      "work_html_title": "<span class=\"work-title\">The Devil's Lottery</span>",
+      "work_id": 177
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 38,
+      "slug": "the-bargain-true",
+      "title": "The Bargain True",
+      "formatted_title": "The Bargain True",
+      "html_title": "<span class=\"work-title\">The Bargain True</span>",
+      "work_type": "novel",
+      "publication_year": 1918,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 33,
+      "slug": "the-vanity-pool",
+      "title": "\"The Vanity Pool\"",
+      "formatted_title": "\"The Vanity Pool\"",
+      "html_title": "<span class=\"work-title\">\"The Vanity Pool\"</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 48,
+      "slug": "the-bramble-bush",
+      "title": "\"The Bramble Bush\"",
+      "formatted_title": "\"The Bramble Bush\"",
+      "html_title": "<span class=\"work-title\">\"The Bramble Bush\"</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 63,
+      "slug": "miss-antique",
+      "title": "\"Miss Antique\"",
+      "formatted_title": "\"Miss Antique\"",
+      "html_title": "<span class=\"work-title\">\"Miss Antique\"</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 83,
+      "slug": "a-womans-woman",
+      "title": "A Woman's Woman",
+      "formatted_title": "A Woman's Woman",
+      "html_title": "<span class=\"work-title\">A Woman's Woman</span>",
+      "work_type": "novel",
+      "publication_year": 1920,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 84,
+      "slug": "the-cynic-effect",
+      "title": "\"The Cynic Effect\"",
+      "formatted_title": "\"The Cynic Effect\"",
+      "html_title": "<span class=\"work-title\">\"The Cynic Effect\"</span>",
+      "work_type": "novel",
+      "publication_year": 1920,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 177,
+      "slug": "the-devils-lottery",
+      "title": "The Devil's Lottery",
+      "formatted_title": "The Devil's Lottery",
+      "html_title": "<span class=\"work-title\">The Devil's Lottery</span>",
+      "work_type": "novel",
+      "publication_year": 1931,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 38,
+    "slug": "the-bargain-true",
+    "title": "The Bargain True",
+    "formatted_title": "The Bargain True",
+    "html_title": "<span class=\"work-title\">The Bargain True</span>",
+    "work_type": "novel",
+    "publication_year": 1918,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:36:59.452898"
+}

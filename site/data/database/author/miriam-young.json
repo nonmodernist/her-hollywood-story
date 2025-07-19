@@ -1,0 +1,83 @@
+{
+  "id": 508,
+  "slug": "miriam-young",
+  "name": "Miriam Young",
+  "birth_year": 1913,
+  "death_year": 1974,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer known for children's fiction and the memoir Mother Wore Tights. Born in New York City. Died in Lewisboro. Occupations: writer, children's writer. Notable works: Mother Wore Tights",
+  "author_notes": null,
+  "wikidata_id": "Q6873455",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1947,
+    "last_adaptation": 1947,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Musical",
+        "count": 1
+      },
+      {
+        "genre": "Show business",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1116,
+      "slug": "mother-wore-tights-1947",
+      "title": "Mother Wore Tights",
+      "html_title": "<span class=\"film-title\">Mother Wore Tights</span>",
+      "year": 1947,
+      "studio": "20th Century Fox",
+      "directors": "Walter Lang",
+      "genres": [
+        "Musical",
+        "Show business"
+      ],
+      "has_media": false,
+      "work_title": "Mother Wore Tights",
+      "work_html_title": "<span class=\"work-title\">Mother Wore Tights</span>",
+      "work_id": 1003
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 1003,
+      "slug": "mother-wore-tights",
+      "title": "Mother Wore Tights",
+      "formatted_title": "Mother Wore Tights",
+      "html_title": "<span class=\"work-title\">Mother Wore Tights</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 1003,
+    "slug": "mother-wore-tights",
+    "title": "Mother Wore Tights",
+    "formatted_title": "Mother Wore Tights",
+    "html_title": "<span class=\"work-title\">Mother Wore Tights</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:55:19.23144"
+}

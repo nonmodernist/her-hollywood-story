@@ -1,0 +1,106 @@
+{
+  "id": 114,
+  "slug": "lillian-bennett-thompson",
+  "name": "Lillian Bennett-Thompson",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1922,
+    "last_adaptation": 1922,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Western",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1920": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 364,
+      "slug": "the-love-gambler-1922",
+      "title": "The Love Gambler",
+      "html_title": "<span class=\"film-title\">The Love Gambler</span>",
+      "year": 1922,
+      "studio": "Fox Film",
+      "directors": "Joseph Franz",
+      "genres": [
+        "Western"
+      ],
+      "has_media": true,
+      "work_title": "\"Where the Heart Lies\"",
+      "work_html_title": "<span class=\"work-title\">\"Where the Heart Lies\"</span>",
+      "work_id": 300
+    },
+    {
+      "id": 365,
+      "slug": "without-compromise-1922",
+      "title": "Without Compromise",
+      "html_title": "<span class=\"film-title\">Without Compromise</span>",
+      "year": 1922,
+      "studio": "Fox Film",
+      "directors": "Emmett J. Flynn",
+      "genres": [
+        "Western"
+      ],
+      "has_media": true,
+      "work_title": "Without Compromise",
+      "work_html_title": "<span class=\"work-title\">Without Compromise</span>",
+      "work_id": 301
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 300,
+      "slug": "where-the-heart-lies",
+      "title": "\"Where the Heart Lies\"",
+      "formatted_title": "\"Where the Heart Lies\"",
+      "html_title": "<span class=\"work-title\">\"Where the Heart Lies\"</span>",
+      "work_type": "novel",
+      "publication_year": 1922,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 301,
+      "slug": "without-compromise",
+      "title": "Without Compromise",
+      "formatted_title": "Without Compromise",
+      "html_title": "<span class=\"work-title\">Without Compromise</span>",
+      "work_type": "novel",
+      "publication_year": 1922,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 300,
+    "slug": "where-the-heart-lies",
+    "title": "\"Where the Heart Lies\"",
+    "formatted_title": "\"Where the Heart Lies\"",
+    "html_title": "<span class=\"work-title\">\"Where the Heart Lies\"</span>",
+    "work_type": "novel",
+    "publication_year": 1922,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-18T02:15:16.243554"
+}

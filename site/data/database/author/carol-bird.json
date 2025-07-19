@@ -1,0 +1,83 @@
+{
+  "id": 118,
+  "slug": "carol-bird",
+  "name": "Carol Bird",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1933,
+    "last_adaptation": 1933,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Detective",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 371,
+      "slug": "bureau-of-missing-persons-1933",
+      "title": "Bureau of Missing Persons",
+      "html_title": "<span class=\"film-title\">Bureau of Missing Persons</span>",
+      "year": 1933,
+      "studio": "First National",
+      "directors": "Roy Del Ruth",
+      "genres": [
+        "Drama",
+        "Detective"
+      ],
+      "has_media": true,
+      "work_title": "Missing Men",
+      "work_html_title": "<span class=\"work-title\">Missing Men</span>",
+      "work_id": 307
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 307,
+      "slug": "missing-men",
+      "title": "Missing Men",
+      "formatted_title": "Missing Men",
+      "html_title": "<span class=\"work-title\">Missing Men</span>",
+      "work_type": "novel",
+      "publication_year": 1932,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 307,
+    "slug": "missing-men",
+    "title": "Missing Men",
+    "formatted_title": "Missing Men",
+    "html_title": "<span class=\"work-title\">Missing Men</span>",
+    "work_type": "novel",
+    "publication_year": 1932,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-18T02:25:39.458996"
+}

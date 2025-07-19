@@ -1,0 +1,79 @@
+{
+  "id": 923,
+  "slug": "the-womans-law",
+  "title": "The Woman's Law",
+  "formatted_title": "The Woman's Law",
+  "html_title": "<span class=\"work-title\">The Woman's Law</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 468,
+    "slug": "maravene-thompson",
+    "name": "Maravene Thompson",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 3
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 7,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 7
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1029,
+      "slug": "the-womans-law-1916",
+      "title": "The Woman's Law",
+      "html_title": "<span class=\"film-title\">The Woman's Law</span>",
+      "year": 1916,
+      "studio": "Arrow Film",
+      "directors": "Lawrence B. McGill",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "years_after_publication": 1916
+    },
+    {
+      "id": 1030,
+      "slug": "the-net-1923",
+      "title": "The Net",
+      "html_title": "<span class=\"film-title\">The Net</span>",
+      "year": 1923,
+      "studio": "Fox Film",
+      "directors": "J. Gordon Edwards",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "years_after_publication": 1923
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1916,
+      "to_year": 1923,
+      "gap_years": 7
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T17:55:07.014826"
+}

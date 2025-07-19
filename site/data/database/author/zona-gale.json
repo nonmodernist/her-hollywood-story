@@ -1,0 +1,149 @@
+{
+  "id": 34,
+  "slug": "zona-gale",
+  "name": "Zona Gale",
+  "birth_year": 1874,
+  "death_year": 1938,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author and playwright. Born in Portage. Died in Chicago. Occupations: short story writer, suffragist, writer, playwright, novelist. Notable works: Miss Lulu Bett",
+  "author_notes": null,
+  "wikidata_id": "Q219829",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1921,
+    "last_adaptation": 1934,
+    "year_span": 13,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      },
+      {
+        "genre": "Crime",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 2,
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 74,
+      "slug": "miss-lulu-bett-1921",
+      "title": "Miss Lulu Bett",
+      "html_title": "<span class=\"film-title\">Miss Lulu Bett</span>",
+      "year": 1921,
+      "studio": "Famous Players-Lasky",
+      "directors": "William C. de Mille",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "Miss Lulu Bett",
+      "work_html_title": "<span class=\"work-title\">Miss Lulu Bett</span>",
+      "work_id": 71
+    },
+    {
+      "id": 588,
+      "slug": "faint-perfume-1925",
+      "title": "Faint Perfume",
+      "html_title": "<span class=\"film-title\">Faint Perfume</span>",
+      "year": 1925,
+      "studio": "B. P. Schulberg Productions",
+      "directors": "Louis Gasnier",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": true,
+      "work_title": "Faint Perfume",
+      "work_html_title": "<span class=\"work-title\">Faint Perfume</span>",
+      "work_id": 515
+    },
+    {
+      "id": 589,
+      "slug": "when-strangers-meet-1934",
+      "title": "When Strangers Meet",
+      "html_title": "<span class=\"film-title\">When Strangers Meet</span>",
+      "year": 1934,
+      "studio": "Liberty Pictures",
+      "directors": "Christy Cabanne",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "has_media": false,
+      "work_title": "The Way",
+      "work_html_title": "<span class=\"work-title\">The Way</span>",
+      "work_id": 516
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 71,
+      "slug": "miss-lulu-bett",
+      "title": "Miss Lulu Bett",
+      "formatted_title": "Miss Lulu Bett",
+      "html_title": "<span class=\"work-title\">Miss Lulu Bett</span>",
+      "work_type": "novel",
+      "publication_year": 1920,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 515,
+      "slug": "faint-perfume",
+      "title": "Faint Perfume",
+      "formatted_title": "Faint Perfume",
+      "html_title": "<span class=\"work-title\">Faint Perfume</span>",
+      "work_type": "novel",
+      "publication_year": 1923,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 516,
+      "slug": "the-way",
+      "title": "The Way",
+      "formatted_title": "The Way",
+      "html_title": "<span class=\"work-title\">The Way</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 71,
+    "slug": "miss-lulu-bett",
+    "title": "Miss Lulu Bett",
+    "formatted_title": "Miss Lulu Bett",
+    "html_title": "<span class=\"work-title\">Miss Lulu Bett</span>",
+    "work_type": "novel",
+    "publication_year": 1920,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:13.528841"
+}

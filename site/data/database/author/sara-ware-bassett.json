@@ -1,0 +1,111 @@
+{
+  "id": 111,
+  "slug": "sara-ware-bassett",
+  "name": "Sara Ware Bassett",
+  "birth_year": 1872,
+  "death_year": 1968,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author. Died in Newton Centre. Occupations: teacher, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q7421805",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1921,
+    "last_adaptation": 1935,
+    "year_span": 14,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1,
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 357,
+      "slug": "danger-ahead-1921",
+      "title": "Danger Ahead",
+      "html_title": "<span class=\"film-title\">Danger Ahead</span>",
+      "year": 1921,
+      "studio": "Universal",
+      "directors": "Rollin Sturgeon",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "The Harbor Road",
+      "work_html_title": "<span class=\"work-title\">The Harbor Road</span>",
+      "work_id": 293
+    },
+    {
+      "id": 356,
+      "slug": "captain-hurricane-1935",
+      "title": "Captain Hurricane",
+      "html_title": "<span class=\"film-title\">Captain Hurricane</span>",
+      "year": 1935,
+      "studio": "RKO",
+      "directors": "John Robertson",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "The Taming of Zenas Henry",
+      "work_html_title": "<span class=\"work-title\">The Taming of Zenas Henry</span>",
+      "work_id": 294
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 293,
+      "slug": "the-harbor-road",
+      "title": "The Harbor Road",
+      "formatted_title": "The Harbor Road",
+      "html_title": "<span class=\"work-title\">The Harbor Road</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 294,
+      "slug": "the-taming-of-zenas-henry",
+      "title": "The Taming of Zenas Henry",
+      "formatted_title": "The Taming of Zenas Henry",
+      "html_title": "<span class=\"work-title\">The Taming of Zenas Henry</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 293,
+    "slug": "the-harbor-road",
+    "title": "The Harbor Road",
+    "formatted_title": "The Harbor Road",
+    "html_title": "<span class=\"work-title\">The Harbor Road</span>",
+    "work_type": "novel",
+    "publication_year": 1919,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:52:39.047314"
+}

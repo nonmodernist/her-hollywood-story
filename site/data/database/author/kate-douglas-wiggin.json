@@ -1,0 +1,280 @@
+{
+  "id": 13,
+  "slug": "kate-douglas-wiggin",
+  "name": "Kate Douglas Wiggin",
+  "birth_year": 1856,
+  "death_year": 1923,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1856-1923). Born in Philadelphia. Died in Harrow. Occupations: children's writer, teacher, short story writer, humorist, writer, essayist, novelist, poet",
+  "author_notes": null,
+  "wikidata_id": "Q438241",
+  "stats": {
+    "total_films": 9,
+    "works_adapted": 5,
+    "first_adaptation": 1917,
+    "last_adaptation": 1963,
+    "year_span": 46,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 4
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 2
+      },
+      {
+        "genre": "Rural",
+        "count": 2
+      },
+      {
+        "genre": "Youth",
+        "count": 2
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 3,
+      "1920": 1,
+      "1930": 4,
+      "1960": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1077,
+      "slug": "a-bit-o-heaven-1917",
+      "title": "A Bit O' Heaven",
+      "html_title": "<span class=\"film-title\">A Bit O' Heaven</span>",
+      "year": 1917,
+      "studio": "Frieder Film Corp.",
+      "directors": "Lule Warrenton",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "The Bird's Christmas Carol",
+      "work_html_title": "<span class=\"work-title\">The Bird's Christmas Carol</span>",
+      "work_id": 967
+    },
+    {
+      "id": 22,
+      "slug": "rebecca-of-sunnybrook-farm-1917",
+      "title": "Rebecca of Sunnybrook Farm",
+      "html_title": "<span class=\"film-title\">Rebecca of Sunnybrook Farm</span>",
+      "year": 1917,
+      "studio": "Mary Pickford",
+      "directors": "Marshall Neilan",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Rebecca of Sunnybrook Farm",
+      "work_html_title": "<span class=\"work-title\">Rebecca of Sunnybrook Farm</span>",
+      "work_id": 20
+    },
+    {
+      "id": 1080,
+      "slug": "rose-o-the-river-1919",
+      "title": "Rose O' the River",
+      "html_title": "<span class=\"film-title\">Rose O' the River</span>",
+      "year": 1919,
+      "studio": "Famous Players-Lasky",
+      "directors": "Robert Thornby",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Rose O' the River",
+      "work_html_title": "<span class=\"work-title\">Rose O' the River</span>",
+      "work_id": 969
+    },
+    {
+      "id": 1081,
+      "slug": "timothys-quest-1922",
+      "title": "Timothy's Quest",
+      "html_title": "<span class=\"film-title\">Timothy's Quest</span>",
+      "year": 1922,
+      "studio": "Dirigo Films ",
+      "directors": "Sidney Olcott",
+      "genres": [
+        "Drama",
+        "Rural"
+      ],
+      "has_media": false,
+      "work_title": "Timothy's Quest",
+      "work_html_title": "<span class=\"work-title\">Timothy's Quest</span>",
+      "work_id": 970
+    },
+    {
+      "id": 194,
+      "slug": "rebecca-of-sunnybrook-farm-1932",
+      "title": "Rebecca of Sunnybrook Farm",
+      "html_title": "<span class=\"film-title\">Rebecca of Sunnybrook Farm</span>",
+      "year": 1932,
+      "studio": "Fox Film",
+      "directors": "Alfred Santell",
+      "genres": [
+        "Melodrama",
+        "Rural"
+      ],
+      "has_media": false,
+      "work_title": "Rebecca of Sunnybrook Farm",
+      "work_html_title": "<span class=\"work-title\">Rebecca of Sunnybrook Farm</span>",
+      "work_id": 20
+    },
+    {
+      "id": 1082,
+      "slug": "timothys-quest-1936",
+      "title": "Timothy's Quest",
+      "html_title": "<span class=\"film-title\">Timothy's Quest</span>",
+      "year": 1936,
+      "studio": "Paramount",
+      "directors": "Charles Barton",
+      "genres": [
+        "Comedy-drama",
+        "Youth"
+      ],
+      "has_media": false,
+      "work_title": "Timothy's Quest",
+      "work_html_title": "<span class=\"work-title\">Timothy's Quest</span>",
+      "work_id": 970
+    },
+    {
+      "id": 1078,
+      "slug": "mother-careys-chickens-1938",
+      "title": "Mother Carey's Chickens",
+      "html_title": "<span class=\"film-title\">Mother Carey's Chickens</span>",
+      "year": 1938,
+      "studio": "RKO",
+      "directors": "Rowland V. Lee",
+      "genres": [
+        "Drama",
+        "Domestic",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "Mother Carey's Chickens",
+      "work_html_title": "<span class=\"work-title\">Mother Carey's Chickens</span>",
+      "work_id": 968
+    },
+    {
+      "id": 250,
+      "slug": "rebecca-of-sunnybrook-farm-1938",
+      "title": "Rebecca of Sunnybrook Farm",
+      "html_title": "<span class=\"film-title\">Rebecca of Sunnybrook Farm</span>",
+      "year": 1938,
+      "studio": "20th Century Fox",
+      "directors": "Allan Dwan",
+      "genres": [
+        "Musical comedy",
+        "Youth"
+      ],
+      "has_media": false,
+      "work_title": "Rebecca of Sunnybrook Farm",
+      "work_html_title": "<span class=\"work-title\">Rebecca of Sunnybrook Farm</span>",
+      "work_id": 20
+    },
+    {
+      "id": 1079,
+      "slug": "summer-magic-1963",
+      "title": "Summer Magic",
+      "html_title": "<span class=\"film-title\">Summer Magic</span>",
+      "year": 1963,
+      "studio": "Walt Disney",
+      "directors": "James Neilson",
+      "genres": [
+        "Comedy",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Mother Carey's Chickens",
+      "work_html_title": "<span class=\"work-title\">Mother Carey's Chickens</span>",
+      "work_id": 968
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 20,
+      "slug": "rebecca-of-sunnybrook-farm",
+      "title": "Rebecca of Sunnybrook Farm",
+      "formatted_title": "Rebecca of Sunnybrook Farm",
+      "html_title": "<span class=\"work-title\">Rebecca of Sunnybrook Farm</span>",
+      "work_type": "novel",
+      "publication_year": 1903,
+      "genre": null,
+      "adaptation_count": 3,
+      "is_remake_champion": false
+    },
+    {
+      "id": 970,
+      "slug": "timothys-quest",
+      "title": "Timothy's Quest",
+      "formatted_title": "Timothy's Quest",
+      "html_title": "<span class=\"work-title\">Timothy's Quest</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 968,
+      "slug": "mother-careys-chickens",
+      "title": "Mother Carey's Chickens",
+      "formatted_title": "Mother Carey's Chickens",
+      "html_title": "<span class=\"work-title\">Mother Carey's Chickens</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 967,
+      "slug": "the-birds-christmas-carol",
+      "title": "The Bird's Christmas Carol",
+      "formatted_title": "The Bird's Christmas Carol",
+      "html_title": "<span class=\"work-title\">The Bird's Christmas Carol</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 969,
+      "slug": "rose-o-the-river",
+      "title": "Rose O' the River",
+      "formatted_title": "Rose O' the River",
+      "html_title": "<span class=\"work-title\">Rose O' the River</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 20,
+    "slug": "rebecca-of-sunnybrook-farm",
+    "title": "Rebecca of Sunnybrook Farm",
+    "formatted_title": "Rebecca of Sunnybrook Farm",
+    "html_title": "<span class=\"work-title\">Rebecca of Sunnybrook Farm</span>",
+    "work_type": "novel",
+    "publication_year": 1903,
+    "genre": null,
+    "adaptation_count": 3,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:36:47.525573"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 127,
+  "slug": "kay-boyle",
+  "name": "Kay Boyle",
+  "birth_year": 1902,
+  "death_year": 1992,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer, educator, political activist (1902–1992). Born in Saint Paul. Died in Mill Valley. Occupations: writer, journalist, translator, children's writer, pedagogue, poet, novelist, author",
+  "author_notes": null,
+  "wikidata_id": "Q529639",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1946,
+    "last_adaptation": 1946,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Mystery",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 382,
+      "slug": "avalanche-1946",
+      "title": "Avalanche",
+      "html_title": "<span class=\"film-title\">Avalanche</span>",
+      "year": 1946,
+      "studio": "Producers Releasing Corp",
+      "directors": "Irving Allen",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "Avalanche",
+      "work_html_title": "<span class=\"work-title\">Avalanche</span>",
+      "work_id": 320
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 320,
+      "slug": "avalanche",
+      "title": "Avalanche",
+      "formatted_title": "Avalanche",
+      "html_title": "<span class=\"work-title\">Avalanche</span>",
+      "work_type": "novel",
+      "publication_year": 1944,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 320,
+    "slug": "avalanche",
+    "title": "Avalanche",
+    "formatted_title": "Avalanche",
+    "html_title": "<span class=\"work-title\">Avalanche</span>",
+    "work_type": "novel",
+    "publication_year": 1944,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:52:54.291142"
+}

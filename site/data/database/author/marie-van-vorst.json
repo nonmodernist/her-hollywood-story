@@ -1,0 +1,134 @@
+{
+  "id": 480,
+  "slug": "marie-van-vorst",
+  "name": "Marie Van Vorst",
+  "birth_year": 1867,
+  "death_year": 1936,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in New York City. Died in Florence. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q38132850",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1915,
+    "last_adaptation": 1917,
+    "year_span": 2,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 3
+      }
+    ],
+    "films_by_decade": {
+      "1910": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1049,
+      "slug": "the-girl-from-his-town-1915",
+      "title": "The Girl from His Town",
+      "html_title": "<span class=\"film-title\">The Girl from His Town</span>",
+      "year": 1915,
+      "studio": "American Film",
+      "directors": "Harry Pollard",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Girl from His Town",
+      "work_html_title": "<span class=\"work-title\">The Girl from His Town</span>",
+      "work_id": 942
+    },
+    {
+      "id": 1048,
+      "slug": "big-tremaine-1916",
+      "title": "Big Tremaine",
+      "html_title": "<span class=\"film-title\">Big Tremaine</span>",
+      "year": 1916,
+      "studio": "Yorke Film Corp.",
+      "directors": "Henry Otto",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "David Tremaine",
+      "work_html_title": "<span class=\"work-title\">David Tremaine</span>",
+      "work_id": 941
+    },
+    {
+      "id": 1050,
+      "slug": "mary-moreland-1917",
+      "title": "Mary Moreland",
+      "html_title": "<span class=\"film-title\">Mary Moreland</span>",
+      "year": 1917,
+      "studio": "Frank Powell Producing Corp.",
+      "directors": "Frank Powell",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Mary Moreland",
+      "work_html_title": "<span class=\"work-title\">Mary Moreland</span>",
+      "work_id": 943
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 942,
+      "slug": "the-girl-from-his-town",
+      "title": "The Girl from His Town",
+      "formatted_title": "The Girl from His Town",
+      "html_title": "<span class=\"work-title\">The Girl from His Town</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 941,
+      "slug": "david-tremaine",
+      "title": "David Tremaine",
+      "formatted_title": "David Tremaine",
+      "html_title": "<span class=\"work-title\">David Tremaine</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 943,
+      "slug": "mary-moreland",
+      "title": "Mary Moreland",
+      "formatted_title": "Mary Moreland",
+      "html_title": "<span class=\"work-title\">Mary Moreland</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 942,
+    "slug": "the-girl-from-his-town",
+    "title": "The Girl from His Town",
+    "formatted_title": "The Girl from His Town",
+    "html_title": "<span class=\"work-title\">The Girl from His Town</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:54:44.20975"
+}

@@ -1,0 +1,83 @@
+{
+  "id": 112,
+  "slug": "eileen-bassing",
+  "name": "Eileen Bassing",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1958,
+    "last_adaptation": 1958,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Psychological",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 358,
+      "slug": "home-before-dark-1958",
+      "title": "Home Before Dark",
+      "html_title": "<span class=\"film-title\">Home Before Dark</span>",
+      "year": 1958,
+      "studio": "Warner Bros",
+      "directors": "Mervyn LeRoy",
+      "genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "has_media": false,
+      "work_title": "Home Before Dark",
+      "work_html_title": "<span class=\"work-title\">Home Before Dark</span>",
+      "work_id": 295
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 295,
+      "slug": "home-before-dark",
+      "title": "Home Before Dark",
+      "formatted_title": "Home Before Dark",
+      "html_title": "<span class=\"work-title\">Home Before Dark</span>",
+      "work_type": "novel",
+      "publication_year": 1957,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 295,
+    "slug": "home-before-dark",
+    "title": "Home Before Dark",
+    "formatted_title": "Home Before Dark",
+    "html_title": "<span class=\"work-title\">Home Before Dark</span>",
+    "work_type": "novel",
+    "publication_year": 1957,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-18T02:06:41.532425"
+}

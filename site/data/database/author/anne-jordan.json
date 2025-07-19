@@ -1,0 +1,78 @@
+{
+  "id": 287,
+  "slug": "anne-jordan",
+  "name": "Anne Jordan",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": "-",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1936,
+    "last_adaptation": 1936,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 679,
+      "slug": "the-luckiest-girl-in-the-world-1936",
+      "title": "The Luckiest Girl in the World",
+      "html_title": "<span class=\"film-title\">The Luckiest Girl in the World</span>",
+      "year": 1936,
+      "studio": "Universal",
+      "directors": "Eddie Buzzell",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "Kitchen Privileges",
+      "work_html_title": "<span class=\"work-title\">Kitchen Privileges</span>",
+      "work_id": 596
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 596,
+      "slug": "kitchen-privileges",
+      "title": "Kitchen Privileges",
+      "formatted_title": "Kitchen Privileges",
+      "html_title": "<span class=\"work-title\">Kitchen Privileges</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 596,
+    "slug": "kitchen-privileges",
+    "title": "Kitchen Privileges",
+    "formatted_title": "Kitchen Privileges",
+    "html_title": "<span class=\"work-title\">Kitchen Privileges</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-06T16:32:11.594596"
+}

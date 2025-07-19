@@ -1,0 +1,111 @@
+{
+  "id": 14,
+  "slug": "mary-raymond-shipman-andrews",
+  "name": "Mary Raymond Shipman Andrews",
+  "birth_year": 1860,
+  "death_year": 1936,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Occupations: novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q6780584",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1917,
+    "last_adaptation": 1918,
+    "year_span": 1,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "World War I",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 23,
+      "slug": "the-courage-of-the-common-place-1917",
+      "title": "The Courage of the Common Place",
+      "html_title": "<span class=\"film-title\">The Courage of the Common Place</span>",
+      "year": 1917,
+      "studio": "Edison",
+      "directors": "Ben Turbett",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Courage of the Commonplace",
+      "work_html_title": "<span class=\"work-title\">The Courage of the Commonplace</span>",
+      "work_id": 21
+    },
+    {
+      "id": 38,
+      "slug": "the-unbeliever-1918",
+      "title": "The Unbeliever",
+      "html_title": "<span class=\"film-title\">The Unbeliever</span>",
+      "year": 1918,
+      "studio": "Edison",
+      "directors": "Alan Crosland",
+      "genres": [
+        "Drama",
+        "World War I"
+      ],
+      "has_media": true,
+      "work_title": "The Three Things",
+      "work_html_title": "<span class=\"work-title\">The Three Things</span>",
+      "work_id": 36
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 21,
+      "slug": "the-courage-of-the-commonplace",
+      "title": "The Courage of the Commonplace",
+      "formatted_title": "The Courage of the Commonplace",
+      "html_title": "<span class=\"work-title\">The Courage of the Commonplace</span>",
+      "work_type": "novel",
+      "publication_year": 1911,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 36,
+      "slug": "the-three-things",
+      "title": "The Three Things",
+      "formatted_title": "The Three Things",
+      "html_title": "<span class=\"work-title\">The Three Things</span>",
+      "work_type": "novel",
+      "publication_year": 1917,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 21,
+    "slug": "the-courage-of-the-commonplace",
+    "title": "The Courage of the Commonplace",
+    "formatted_title": "The Courage of the Commonplace",
+    "html_title": "<span class=\"work-title\">The Courage of the Commonplace</span>",
+    "work_type": "novel",
+    "publication_year": 1911,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:36:48.990996"
+}

@@ -1,0 +1,60 @@
+{
+  "id": 858,
+  "slug": "the-primal-lure-a-romance-of-fort-lu-cerne",
+  "title": "The Primal Lure: a Romance of Fort Lu Cerne",
+  "formatted_title": "The Primal Lure: a Romance of Fort Lu Cerne",
+  "html_title": "<span class=\"work-title\">The Primal Lure: a Romance of Fort Lu Cerne</span>",
+  "work_type": "novel",
+  "publication_year": 1915,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 422,
+    "slug": "vingie-e-roe",
+    "name": "Vingie E. Roe",
+    "birth_year": 1879,
+    "death_year": 1958,
+    "film_count": 8
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 956,
+      "slug": "the-primal-lure-1916",
+      "title": "The Primal Lure",
+      "html_title": "<span class=\"film-title\">The Primal Lure</span>",
+      "year": 1916,
+      "studio": "New York Motion Picture Corp.",
+      "directors": "William S. Hart",
+      "genres": [
+        "Drama",
+        "Northwest"
+      ],
+      "has_media": false,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T14:13:35.174052"
+}

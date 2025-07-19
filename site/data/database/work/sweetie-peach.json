@@ -1,0 +1,60 @@
+{
+  "id": 626,
+  "slug": "sweetie-peach",
+  "title": "Sweetie Peach",
+  "formatted_title": "Sweetie Peach",
+  "html_title": "<span class=\"work-title\">Sweetie Peach</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 38,
+    "slug": "sophie-kerr",
+    "name": "Sophie Kerr",
+    "birth_year": 1880,
+    "death_year": 1965,
+    "film_count": 9
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 710,
+      "slug": "the-house-that-jazz-built-1921",
+      "title": "The House That Jazz Built",
+      "html_title": "<span class=\"film-title\">The House That Jazz Built</span>",
+      "year": 1921,
+      "studio": "Realart ",
+      "directors": "Penrhyn Stanlaws",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "years_after_publication": 1921
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T18:18:16.264808"
+}

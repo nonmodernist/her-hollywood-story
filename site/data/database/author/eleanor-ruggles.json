@@ -1,0 +1,83 @@
+{
+  "id": 429,
+  "slug": "eleanor-ruggles",
+  "name": "Eleanor Ruggles",
+  "birth_year": 1916,
+  "death_year": 2008,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1916-2008). Born in Boston. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q15447400",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1954,
+    "last_adaptation": 1954,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Biography",
+        "count": 1
+      },
+      {
+        "genre": "Show business",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 968,
+      "slug": "prince-of-players-1954",
+      "title": "Prince of Players",
+      "html_title": "<span class=\"film-title\">Prince of Players</span>",
+      "year": 1954,
+      "studio": "20th Century Fox",
+      "directors": "Philip Dunne",
+      "genres": [
+        "Biography",
+        "Show business"
+      ],
+      "has_media": false,
+      "work_title": "Prince of Players",
+      "work_html_title": "<span class=\"work-title\">Prince of Players</span>",
+      "work_id": 870
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 870,
+      "slug": "prince-of-players",
+      "title": "Prince of Players",
+      "formatted_title": "Prince of Players",
+      "html_title": "<span class=\"work-title\">Prince of Players</span>",
+      "work_type": "novel",
+      "publication_year": 1953,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 870,
+    "slug": "prince-of-players",
+    "title": "Prince of Players",
+    "formatted_title": "Prince of Players",
+    "html_title": "<span class=\"work-title\">Prince of Players</span>",
+    "work_type": "novel",
+    "publication_year": 1953,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:25:53.096986"
+}

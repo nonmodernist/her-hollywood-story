@@ -1,0 +1,116 @@
+{
+  "id": 352,
+  "slug": "margery-land-may",
+  "name": "Margery Land May",
+  "birth_year": 1897,
+  "death_year": 1932,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in New Orleans. Died in Shreveport. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q109647723",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1919,
+    "last_adaptation": 1924,
+    "year_span": 5,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 790,
+      "slug": "the-beauty-market-1919",
+      "title": "The Beauty Market",
+      "html_title": "<span class=\"film-title\">The Beauty Market</span>",
+      "year": 1919,
+      "studio": "Katherine MacDonald Pictures",
+      "directors": "Colin Campbell",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Bleeders",
+      "work_html_title": "<span class=\"work-title\">The Bleeders</span>",
+      "work_id": 704
+    },
+    {
+      "id": 791,
+      "slug": "those-who-judge-1924",
+      "title": "Those Who Judge",
+      "html_title": "<span class=\"film-title\">Those Who Judge</span>",
+      "year": 1924,
+      "studio": "Banner Productions ",
+      "directors": "Burton King",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "Such as Sit in Judgement",
+      "work_html_title": "<span class=\"work-title\">Such as Sit in Judgement</span>",
+      "work_id": 705
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 704,
+      "slug": "the-bleeders",
+      "title": "The Bleeders",
+      "formatted_title": "The Bleeders",
+      "html_title": "<span class=\"work-title\">The Bleeders</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 705,
+      "slug": "such-as-sit-in-judgement",
+      "title": "Such as Sit in Judgement",
+      "formatted_title": "Such as Sit in Judgement",
+      "html_title": "<span class=\"work-title\">Such as Sit in Judgement</span>",
+      "work_type": "novel",
+      "publication_year": 1923,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 704,
+    "slug": "the-bleeders",
+    "title": "The Bleeders",
+    "formatted_title": "The Bleeders",
+    "html_title": "<span class=\"work-title\">The Bleeders</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:57:09.933341"
+}

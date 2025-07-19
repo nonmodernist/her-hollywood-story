@@ -1,0 +1,88 @@
+{
+  "id": 232,
+  "slug": "pauline-gallico",
+  "name": "Pauline Gallico",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1952,
+    "last_adaptation": 1952,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Cold War",
+        "count": 1
+      },
+      {
+        "genre": "Espionage",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 591,
+      "slug": "assignment-paris-1952",
+      "title": "Assignment--Paris",
+      "html_title": "<span class=\"film-title\">Assignment--Paris</span>",
+      "year": 1952,
+      "studio": "Columbia",
+      "directors": "Robert Parrish",
+      "genres": [
+        "Drama",
+        "Cold War",
+        "Espionage"
+      ],
+      "has_media": false,
+      "work_title": "Trial by Terror",
+      "work_html_title": "<span class=\"work-title\">Trial by Terror</span>",
+      "work_id": 518
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 518,
+      "slug": "trial-by-terror",
+      "title": "Trial by Terror",
+      "formatted_title": "Trial by Terror",
+      "html_title": "<span class=\"work-title\">Trial by Terror</span>",
+      "work_type": "novel",
+      "publication_year": 1952,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 518,
+    "slug": "trial-by-terror",
+    "title": "Trial by Terror",
+    "formatted_title": "Trial by Terror",
+    "html_title": "<span class=\"work-title\">Trial by Terror</span>",
+    "work_type": "novel",
+    "publication_year": 1952,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-04T00:53:10.886851"
+}

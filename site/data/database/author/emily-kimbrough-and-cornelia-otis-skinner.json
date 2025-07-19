@@ -1,0 +1,78 @@
+{
+  "id": 301,
+  "slug": "emily-kimbrough-and-cornelia-otis-skinner",
+  "name": "Emily Kimbrough and Cornelia Otis Skinner",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1944,
+    "last_adaptation": 1944,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romantic comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 715,
+      "slug": "our-hearts-were-young-and-gay-1944",
+      "title": "Our Hearts Were Young and Gay",
+      "html_title": "<span class=\"film-title\">Our Hearts Were Young and Gay</span>",
+      "year": 1944,
+      "studio": "Paramount",
+      "directors": "Lewis Allen",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": false,
+      "work_title": "Our Hearts Were Young and Gay",
+      "work_html_title": "<span class=\"work-title\">Our Hearts Were Young and Gay</span>",
+      "work_id": 630
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 630,
+      "slug": "our-hearts-were-young-and-gay",
+      "title": "Our Hearts Were Young and Gay",
+      "formatted_title": "Our Hearts Were Young and Gay",
+      "html_title": "<span class=\"work-title\">Our Hearts Were Young and Gay</span>",
+      "work_type": "novel",
+      "publication_year": 1942,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 630,
+    "slug": "our-hearts-were-young-and-gay",
+    "title": "Our Hearts Were Young and Gay",
+    "formatted_title": "Our Hearts Were Young and Gay",
+    "html_title": "<span class=\"work-title\">Our Hearts Were Young and Gay</span>",
+    "work_type": "novel",
+    "publication_year": 1942,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T17:04:42.08949"
+}

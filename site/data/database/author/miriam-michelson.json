@@ -1,0 +1,129 @@
+{
+  "id": 360,
+  "slug": "miriam-michelson",
+  "name": "Miriam Michelson",
+  "birth_year": 1870,
+  "death_year": 1942,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in Calaveras County. Occupations: writer, journalist, suffragist, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q15996310",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 2,
+    "first_adaptation": 1913,
+    "last_adaptation": 1920,
+    "year_span": 7,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 3
+      },
+      {
+        "genre": "Crime",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2,
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 805,
+      "slug": "in-the-bishops-carriage-1913",
+      "title": "In the Bishop's Carriage",
+      "html_title": "<span class=\"film-title\">In the Bishop's Carriage</span>",
+      "year": 1913,
+      "studio": "Famous Players",
+      "directors": "Edwin S. Porter|J. Searle Dawley",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "has_media": false,
+      "work_title": "In the Bishop's Carriage",
+      "work_html_title": "<span class=\"work-title\">In the Bishop's Carriage</span>",
+      "work_id": 716
+    },
+    {
+      "id": 807,
+      "slug": "the-better-half-1918",
+      "title": "The Better Half",
+      "html_title": "<span class=\"film-title\">The Better Half</span>",
+      "year": 1918,
+      "studio": "Select Pictures",
+      "directors": "J. S. Robertson",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Michael Thwaite's Wife",
+      "work_html_title": "<span class=\"work-title\">Michael Thwaite's Wife</span>",
+      "work_id": 717
+    },
+    {
+      "id": 806,
+      "slug": "she-couldnt-help-it-1920",
+      "title": "She Couldn't Help It",
+      "html_title": "<span class=\"film-title\">She Couldn't Help It</span>",
+      "year": 1920,
+      "studio": "Realart",
+      "directors": "Maurice Campbell",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "has_media": false,
+      "work_title": "In the Bishop's Carriage",
+      "work_html_title": "<span class=\"work-title\">In the Bishop's Carriage</span>",
+      "work_id": 716
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 716,
+      "slug": "in-the-bishops-carriage",
+      "title": "In the Bishop's Carriage",
+      "formatted_title": "In the Bishop's Carriage",
+      "html_title": "<span class=\"work-title\">In the Bishop's Carriage</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 717,
+      "slug": "michael-thwaites-wife",
+      "title": "Michael Thwaite's Wife",
+      "formatted_title": "Michael Thwaite's Wife",
+      "html_title": "<span class=\"work-title\">Michael Thwaite's Wife</span>",
+      "work_type": "novel",
+      "publication_year": 1909,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 716,
+    "slug": "in-the-bishops-carriage",
+    "title": "In the Bishop's Carriage",
+    "formatted_title": "In the Bishop's Carriage",
+    "html_title": "<span class=\"work-title\">In the Bishop's Carriage</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:57:20.344178"
+}

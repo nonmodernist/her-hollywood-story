@@ -1,0 +1,59 @@
+{
+  "id": 519,
+  "slug": "her-decision",
+  "title": "Her Decision",
+  "formatted_title": "Her Decision",
+  "html_title": "<span class=\"work-title\">Her Decision</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 233,
+    "slug": "lotta-gannet",
+    "name": "Lotta Gannet",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 592,
+      "slug": "her-decision-1918",
+      "title": "Her Decision",
+      "html_title": "<span class=\"film-title\">Her Decision</span>",
+      "year": 1918,
+      "studio": "Triangle Film",
+      "directors": "Jack Conway",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 1918
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-04T01:05:05.426171"
+}

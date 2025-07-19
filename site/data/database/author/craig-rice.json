@@ -1,0 +1,214 @@
+{
+  "id": 82,
+  "slug": "craig-rice",
+  "name": "Craig Rice",
+  "birth_year": 1908,
+  "death_year": 1957,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1908-1957). Born in Chicago. Died in Los Angeles. Occupations: screenwriter, novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q1639201",
+  "stats": {
+    "total_films": 5,
+    "works_adapted": 5,
+    "first_adaptation": 1945,
+    "last_adaptation": 1950,
+    "year_span": 5,
+    "top_genres": [
+      {
+        "genre": "Crime",
+        "count": 3
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 2
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Detective",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 3,
+      "1950": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 280,
+      "slug": "having-wonderful-crime-1945",
+      "title": "Having Wonderful Crime",
+      "html_title": "<span class=\"film-title\">Having Wonderful Crime</span>",
+      "year": 1945,
+      "studio": "RKO",
+      "directors": "Eddie Sutherland",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "has_media": true,
+      "work_title": "Having Wonderful Crime",
+      "work_html_title": "<span class=\"work-title\">Having Wonderful Crime</span>",
+      "work_id": 235
+    },
+    {
+      "id": 284,
+      "slug": "home-sweet-homicide-1946",
+      "title": "Home Sweet Homicide",
+      "html_title": "<span class=\"film-title\">Home Sweet Homicide</span>",
+      "year": 1946,
+      "studio": "20th Century Fox",
+      "directors": "Lloyd Bacon",
+      "genres": [
+        "Comedy-drama",
+        "Detective",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Home Sweet Homicide",
+      "work_html_title": "<span class=\"work-title\">Home Sweet Homicide</span>",
+      "work_id": 238
+    },
+    {
+      "id": 300,
+      "slug": "the-lucky-stiff-1949",
+      "title": "The Lucky Stiff",
+      "html_title": "<span class=\"film-title\">The Lucky Stiff</span>",
+      "year": 1949,
+      "studio": "United Artists",
+      "directors": "Lewis R. Foster",
+      "genres": [
+        "Comedy-drama",
+        "Crime"
+      ],
+      "has_media": false,
+      "work_title": "The Lucky Stiff",
+      "work_html_title": "<span class=\"work-title\">The Lucky Stiff</span>",
+      "work_id": 250
+    },
+    {
+      "id": 310,
+      "slug": "mrs-omalley-and-mr-malone-1950",
+      "title": "Mrs. O'Malley and Mr. Malone",
+      "html_title": "<span class=\"film-title\">Mrs. O'Malley and Mr. Malone</span>",
+      "year": 1950,
+      "studio": "MGM",
+      "directors": "Norman Taurog",
+      "genres": [
+        "Screwball comedy",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "\"Once Upon a Train (The Loco Motive)\"",
+      "work_html_title": "<span class=\"work-title\">\"Once Upon a Train (The Loco Motive)\"</span>",
+      "work_id": 260
+    },
+    {
+      "id": 913,
+      "slug": "the-underworld-story-1950",
+      "title": "The Underworld Story",
+      "html_title": "<span class=\"film-title\">The Underworld Story</span>",
+      "year": 1950,
+      "studio": "Filmcraft Trading Corp.",
+      "directors": "Cyril Endfield",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Newspaper"
+      ],
+      "has_media": false,
+      "work_title": "Big Story",
+      "work_html_title": "<span class=\"work-title\">Big Story</span>",
+      "work_id": 820
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 235,
+      "slug": "having-wonderful-crime",
+      "title": "Having Wonderful Crime",
+      "formatted_title": "Having Wonderful Crime",
+      "html_title": "<span class=\"work-title\">Having Wonderful Crime</span>",
+      "work_type": "novel",
+      "publication_year": 1943,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 238,
+      "slug": "home-sweet-homicide",
+      "title": "Home Sweet Homicide",
+      "formatted_title": "Home Sweet Homicide",
+      "html_title": "<span class=\"work-title\">Home Sweet Homicide</span>",
+      "work_type": "novel",
+      "publication_year": 1944,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 250,
+      "slug": "the-lucky-stiff",
+      "title": "The Lucky Stiff",
+      "formatted_title": "The Lucky Stiff",
+      "html_title": "<span class=\"work-title\">The Lucky Stiff</span>",
+      "work_type": "novel",
+      "publication_year": 1947,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 260,
+      "slug": "once-upon-a-train-the-loco-motive",
+      "title": "\"Once Upon a Train (The Loco Motive)\"",
+      "formatted_title": "\"Once Upon a Train (The Loco Motive)\"",
+      "html_title": "<span class=\"work-title\">\"Once Upon a Train (The Loco Motive)\"</span>",
+      "work_type": "novel",
+      "publication_year": 1950,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 820,
+      "slug": "big-story",
+      "title": "Big Story",
+      "formatted_title": "Big Story",
+      "html_title": "<span class=\"work-title\">Big Story</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 235,
+    "slug": "having-wonderful-crime",
+    "title": "Having Wonderful Crime",
+    "formatted_title": "Having Wonderful Crime",
+    "html_title": "<span class=\"work-title\">Having Wonderful Crime</span>",
+    "work_type": "novel",
+    "publication_year": 1943,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:15.205763"
+}

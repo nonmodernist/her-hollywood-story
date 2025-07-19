@@ -1,0 +1,143 @@
+{
+  "id": 446,
+  "slug": "margaret-sidney",
+  "name": "Margaret Sidney",
+  "birth_year": 1844,
+  "death_year": 1924,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American children's writer (pseudonym). Born in New Haven. Occupations: children's writer, writer, publisher. Notable works: Five Little Peppers",
+  "author_notes": "pseud of Harriett Lothrop",
+  "wikidata_id": "Q6759892",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 1,
+    "first_adaptation": 1939,
+    "last_adaptation": 1940,
+    "year_span": 1,
+    "top_genres": [
+      {
+        "genre": "Domestic",
+        "count": 3
+      },
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 2
+      },
+      {
+        "genre": "Youth",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1,
+      "1940": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 990,
+      "slug": "five-little-peppers-and-how-they-grew-1939",
+      "title": "Five Little Peppers and How They Grew",
+      "html_title": "<span class=\"film-title\">Five Little Peppers and How They Grew</span>",
+      "year": 1939,
+      "studio": "Columbia",
+      "directors": "Charles Barton",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Five Little Peppers and How they Grew",
+      "work_html_title": "<span class=\"work-title\">Five Little Peppers and How they Grew</span>",
+      "work_id": 892
+    },
+    {
+      "id": 991,
+      "slug": "five-little-peppers-at-home-1940",
+      "title": "Five Little Peppers at Home",
+      "html_title": "<span class=\"film-title\">Five Little Peppers at Home</span>",
+      "year": 1940,
+      "studio": "Columbia",
+      "directors": "Charles Barton",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Five Little Peppers and How they Grew",
+      "work_html_title": "<span class=\"work-title\">Five Little Peppers and How they Grew</span>",
+      "work_id": 892
+    },
+    {
+      "id": 992,
+      "slug": "five-little-peppers-in-trouble-1940",
+      "title": "Five Little Peppers in Trouble",
+      "html_title": "<span class=\"film-title\">Five Little Peppers in Trouble</span>",
+      "year": 1940,
+      "studio": "Columbia",
+      "directors": "Charles Barton",
+      "genres": [
+        "Comedy-drama",
+        "Youth"
+      ],
+      "has_media": false,
+      "work_title": "Five Little Peppers and How they Grew",
+      "work_html_title": "<span class=\"work-title\">Five Little Peppers and How they Grew</span>",
+      "work_id": 892
+    },
+    {
+      "id": 993,
+      "slug": "out-west-with-the-peppers-1940",
+      "title": "Out West with the Peppers",
+      "html_title": "<span class=\"film-title\">Out West with the Peppers</span>",
+      "year": 1940,
+      "studio": "Columbia",
+      "directors": "Charles Barton",
+      "genres": [
+        "Comedy-drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Five Little Peppers and How they Grew",
+      "work_html_title": "<span class=\"work-title\">Five Little Peppers and How they Grew</span>",
+      "work_id": 892
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 892,
+      "slug": "five-little-peppers-and-how-they-grew",
+      "title": "Five Little Peppers and How they Grew",
+      "formatted_title": "Five Little Peppers and How they Grew",
+      "html_title": "<span class=\"work-title\">Five Little Peppers and How they Grew</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 4,
+      "is_remake_champion": true
+    }
+  ],
+  "most_adapted_work": {
+    "id": 892,
+    "slug": "five-little-peppers-and-how-they-grew",
+    "title": "Five Little Peppers and How they Grew",
+    "formatted_title": "Five Little Peppers and How they Grew",
+    "html_title": "<span class=\"work-title\">Five Little Peppers and How they Grew</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 4,
+    "is_remake_champion": true
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:26:11.746193"
+}

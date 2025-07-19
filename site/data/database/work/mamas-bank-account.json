@@ -1,0 +1,61 @@
+{
+  "id": 245,
+  "slug": "mamas-bank-account",
+  "title": "Mama's Bank Account",
+  "formatted_title": "Mama's Bank Account",
+  "html_title": "<span class=\"work-title\">Mama's Bank Account</span>",
+  "work_type": "novel",
+  "publication_year": 1934,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 88,
+    "slug": "kathryn-forbes",
+    "name": "Kathryn Forbes",
+    "birth_year": 1908,
+    "death_year": 1966,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 14,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 293,
+      "slug": "i-remember-mama-1948",
+      "title": "I Remember Mama",
+      "html_title": "<span class=\"film-title\">I Remember Mama</span>",
+      "year": 1948,
+      "studio": "RKO",
+      "directors": "George Stevens",
+      "genres": [
+        "Drama",
+        "Domestic",
+        "Historical"
+      ],
+      "has_media": true,
+      "years_after_publication": 14
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:48:03.914138"
+}

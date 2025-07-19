@@ -1,0 +1,83 @@
+{
+  "id": 156,
+  "slug": "marjorie-carleton",
+  "name": "Marjorie Carleton",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1947,
+    "last_adaptation": 1947,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Suspense",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 450,
+      "slug": "cry-wolf-1947",
+      "title": "Cry Wolf",
+      "html_title": "<span class=\"film-title\">Cry Wolf</span>",
+      "year": 1947,
+      "studio": "Warner Bros",
+      "directors": "Peter Godfrey",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "has_media": false,
+      "work_title": "Cry Wolf",
+      "work_html_title": "<span class=\"work-title\">Cry Wolf</span>",
+      "work_id": 381
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 381,
+      "slug": "cry-wolf",
+      "title": "Cry Wolf",
+      "formatted_title": "Cry Wolf",
+      "html_title": "<span class=\"work-title\">Cry Wolf</span>",
+      "work_type": "novel",
+      "publication_year": 1945,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 381,
+    "slug": "cry-wolf",
+    "title": "Cry Wolf",
+    "formatted_title": "Cry Wolf",
+    "html_title": "<span class=\"work-title\">Cry Wolf</span>",
+    "work_type": "novel",
+    "publication_year": 1945,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-19T17:55:47.602155"
+}

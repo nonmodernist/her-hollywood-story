@@ -1,0 +1,83 @@
+{
+  "id": 37,
+  "slug": "caroline-abbot-stanley",
+  "name": "Caroline Abbot Stanley",
+  "birth_year": 1849,
+  "death_year": 1919,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author. Born in Callaway County. Died in Fulton. Occupations: novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q23419104",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1922,
+    "last_adaptation": 1922,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 92,
+      "slug": "the-forgotten-law-1922",
+      "title": "The Forgotten Law",
+      "html_title": "<span class=\"film-title\">The Forgotten Law</span>",
+      "year": 1922,
+      "studio": "Graf Productions",
+      "directors": "James W. Horne",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": true,
+      "work_title": "A Modern Madonna",
+      "work_html_title": "<span class=\"work-title\">A Modern Madonna</span>",
+      "work_id": 88
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 88,
+      "slug": "a-modern-madonna",
+      "title": "A Modern Madonna",
+      "formatted_title": "A Modern Madonna",
+      "html_title": "<span class=\"work-title\">A Modern Madonna</span>",
+      "work_type": "novel",
+      "publication_year": 1906,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 88,
+    "slug": "a-modern-madonna",
+    "title": "A Modern Madonna",
+    "formatted_title": "A Modern Madonna",
+    "html_title": "<span class=\"work-title\">A Modern Madonna</span>",
+    "work_type": "novel",
+    "publication_year": 1906,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:18.115041"
+}

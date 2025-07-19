@@ -1,0 +1,78 @@
+{
+  "id": 455,
+  "slug": "madelon-st-dennis",
+  "name": "Madelon St. Dennis",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1933,
+    "last_adaptation": 1933,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Mystery",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1003,
+      "slug": "the-death-kiss-1933",
+      "title": "The Death Kiss",
+      "html_title": "<span class=\"film-title\">The Death Kiss</span>",
+      "year": 1933,
+      "studio": "K.B.S. Productions, Inc.",
+      "directors": "Edwin L. Marin",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "The Death Kiss",
+      "work_html_title": "<span class=\"work-title\">The Death Kiss</span>",
+      "work_id": 902
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 902,
+      "slug": "the-death-kiss",
+      "title": "The Death Kiss",
+      "formatted_title": "The Death Kiss",
+      "html_title": "<span class=\"work-title\">The Death Kiss</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 902,
+    "slug": "the-death-kiss",
+    "title": "The Death Kiss",
+    "formatted_title": "The Death Kiss",
+    "html_title": "<span class=\"work-title\">The Death Kiss</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:22:05.085796"
+}

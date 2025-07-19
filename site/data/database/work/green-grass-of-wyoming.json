@@ -1,0 +1,62 @@
+{
+  "id": 762,
+  "slug": "green-grass-of-wyoming",
+  "title": "Green Grass of Wyoming",
+  "formatted_title": "Green Grass of Wyoming",
+  "html_title": "<span class=\"work-title\">Green Grass of Wyoming</span>",
+  "work_type": "novel",
+  "publication_year": 1946,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 379,
+    "slug": "mary-ohara",
+    "name": "Mary O'Hara",
+    "birth_year": 1885,
+    "death_year": 1980,
+    "film_count": 3
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 853,
+      "slug": "green-grass-of-wyoming-1948",
+      "title": "Green Grass of Wyoming",
+      "html_title": "<span class=\"film-title\">Green Grass of Wyoming</span>",
+      "year": 1948,
+      "studio": "20th Century Fox",
+      "directors": "Louis King",
+      "genres": [
+        "Drama",
+        "Animal",
+        "Horse race",
+        "Teenage"
+      ],
+      "has_media": false,
+      "years_after_publication": 2
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T14:13:30.171646"
+}

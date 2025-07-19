@@ -1,0 +1,290 @@
+{
+  "id": 5,
+  "slug": "alice-hegan-rice",
+  "name": "Alice Hegan Rice",
+  "birth_year": 1870,
+  "death_year": 1942,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in Shelbyville. Died in Louisville. Occupations: humorist, novelist, short story writer, writer. Notable works: Mrs. Wiggs of the Cabbage Patch",
+  "author_notes": null,
+  "wikidata_id": "Q4725909",
+  "stats": {
+    "total_films": 9,
+    "works_adapted": 6,
+    "first_adaptation": 1914,
+    "last_adaptation": 1942,
+    "year_span": 28,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 3
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 3
+      },
+      {
+        "genre": "Comedy",
+        "count": 2
+      },
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Domestic",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1910": 6,
+      "1920": 1,
+      "1930": 1,
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 6,
+      "slug": "mrs-wiggs-of-the-cabbage-patch-1914",
+      "title": "Mrs. Wiggs of the Cabbage Patch",
+      "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+      "year": 1914,
+      "studio": "California Motion Picture Corp",
+      "directors": "Harold Entwhistle",
+      "genres": [
+        "Comedy",
+        "Melodrama",
+        "Carnival/Circus"
+      ],
+      "has_media": true,
+      "work_title": "Mrs. Wiggs of the Cabbage Patch",
+      "work_html_title": "<span class=\"work-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+      "work_id": 6
+    },
+    {
+      "id": 12,
+      "slug": "a-romance-of-billy-goat-hill-1916",
+      "title": "A Romance of Billy Goat Hill",
+      "html_title": "<span class=\"film-title\">A Romance of Billy Goat Hill</span>",
+      "year": 1916,
+      "studio": "Universal",
+      "directors": "Lynn Reynolds",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "A Romance of Billy-Goat Hill",
+      "work_html_title": "<span class=\"work-title\">A Romance of Billy-Goat Hill</span>",
+      "work_id": 10
+    },
+    {
+      "id": 28,
+      "slug": "mr-opp-1917",
+      "title": "Mr. Opp",
+      "html_title": "<span class=\"film-title\">Mr. Opp</span>",
+      "year": 1917,
+      "studio": "Bluebird Photoplays",
+      "directors": "Lynn F. Reynolds",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Mr. Opp",
+      "work_html_title": "<span class=\"work-title\">Mr. Opp</span>",
+      "work_id": 26
+    },
+    {
+      "id": 43,
+      "slug": "sandy-1918",
+      "title": "Sandy",
+      "html_title": "<span class=\"film-title\">Sandy</span>",
+      "year": 1918,
+      "studio": "Famous Players-Lasky",
+      "directors": "George H. Melford",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Sandy",
+      "work_html_title": "<span class=\"work-title\">Sandy</span>",
+      "work_id": 41
+    },
+    {
+      "id": 34,
+      "slug": "sunshine-nan-1918",
+      "title": "Sunshine Nan",
+      "html_title": "<span class=\"film-title\">Sunshine Nan</span>",
+      "year": 1918,
+      "studio": "Famous Players-Lasky",
+      "directors": "Charles Giblyn",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "Calvary Alley",
+      "work_html_title": "<span class=\"work-title\">Calvary Alley</span>",
+      "work_id": 32
+    },
+    {
+      "id": 54,
+      "slug": "mrs-wiggs-of-the-cabbage-patch-1919",
+      "title": "Mrs. Wiggs of the Cabbage Patch",
+      "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+      "year": 1919,
+      "studio": "Famous Players-Lasky",
+      "directors": "Hugh Ford",
+      "genres": [
+        "Comedy",
+        "Social"
+      ],
+      "has_media": true,
+      "work_title": "Mrs. Wiggs of the Cabbage Patch",
+      "work_html_title": "<span class=\"work-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+      "work_id": 6
+    },
+    {
+      "id": 127,
+      "slug": "lovey-mary-1926",
+      "title": "Lovey Mary",
+      "html_title": "<span class=\"film-title\">Lovey Mary</span>",
+      "year": 1926,
+      "studio": "MGM",
+      "directors": "King Baggot",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "Lovey Mary",
+      "work_html_title": "<span class=\"work-title\">Lovey Mary</span>",
+      "work_id": 121
+    },
+    {
+      "id": 216,
+      "slug": "mrs-wiggs-of-the-cabbage-patch-1934",
+      "title": "Mrs. Wiggs of the Cabbage Patch",
+      "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+      "year": 1934,
+      "studio": "Paramount",
+      "directors": "Norman Taurog",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Mrs. Wiggs of the Cabbage Patch",
+      "work_html_title": "<span class=\"work-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+      "work_id": 6
+    },
+    {
+      "id": 266,
+      "slug": "mrs-wiggs-of-the-cabbage-patch-1942",
+      "title": "Mrs. Wiggs of the Cabbage Patch",
+      "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+      "year": 1942,
+      "studio": "Paramount",
+      "directors": "Ralph Murphy",
+      "genres": [
+        "Comedy-drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Mrs. Wiggs of the Cabbage Patch",
+      "work_html_title": "<span class=\"work-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+      "work_id": 6
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 6,
+      "slug": "mrs-wiggs-of-the-cabbage-patch",
+      "title": "Mrs. Wiggs of the Cabbage Patch",
+      "formatted_title": "Mrs. Wiggs of the Cabbage Patch",
+      "html_title": "<span class=\"work-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+      "work_type": "novel",
+      "publication_year": 1901,
+      "genre": null,
+      "adaptation_count": 4,
+      "is_remake_champion": true
+    },
+    {
+      "id": 10,
+      "slug": "a-romance-of-billy-goat-hill",
+      "title": "A Romance of Billy-Goat Hill",
+      "formatted_title": "A Romance of Billy-Goat Hill",
+      "html_title": "<span class=\"work-title\">A Romance of Billy-Goat Hill</span>",
+      "work_type": "novel",
+      "publication_year": 1912,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 26,
+      "slug": "mr-opp",
+      "title": "Mr. Opp",
+      "formatted_title": "Mr. Opp",
+      "html_title": "<span class=\"work-title\">Mr. Opp</span>",
+      "work_type": "novel",
+      "publication_year": 1909,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 41,
+      "slug": "sandy",
+      "title": "Sandy",
+      "formatted_title": "Sandy",
+      "html_title": "<span class=\"work-title\">Sandy</span>",
+      "work_type": "novel",
+      "publication_year": 1905,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 32,
+      "slug": "calvary-alley",
+      "title": "Calvary Alley",
+      "formatted_title": "Calvary Alley",
+      "html_title": "<span class=\"work-title\">Calvary Alley</span>",
+      "work_type": "novel",
+      "publication_year": 1917,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 121,
+      "slug": "lovey-mary",
+      "title": "Lovey Mary",
+      "formatted_title": "Lovey Mary",
+      "html_title": "<span class=\"work-title\">Lovey Mary</span>",
+      "work_type": "novel",
+      "publication_year": 1903,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 6,
+    "slug": "mrs-wiggs-of-the-cabbage-patch",
+    "title": "Mrs. Wiggs of the Cabbage Patch",
+    "formatted_title": "Mrs. Wiggs of the Cabbage Patch",
+    "html_title": "<span class=\"work-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+    "work_type": "novel",
+    "publication_year": 1901,
+    "genre": null,
+    "adaptation_count": 4,
+    "is_remake_champion": true
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:36:36.227967"
+}

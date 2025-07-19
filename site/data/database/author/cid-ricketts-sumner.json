@@ -1,0 +1,170 @@
+{
+  "id": 90,
+  "slug": "cid-ricketts-sumner",
+  "name": "Cid Ricketts Sumner",
+  "birth_year": 1890,
+  "death_year": 1970,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Occupations: novelist",
+  "author_notes": null,
+  "wikidata_id": "Q5119485",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 3,
+    "first_adaptation": 1949,
+    "last_adaptation": 1963,
+    "year_span": 14,
+    "top_genres": [
+      {
+        "genre": "Romantic comedy",
+        "count": 2
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Social",
+        "count": 1
+      },
+      {
+        "genre": "Romance",
+        "count": 1
+      },
+      {
+        "genre": "Rural",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1,
+      "1950": 1,
+      "1960": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 302,
+      "slug": "pinky-1949",
+      "title": "Pinky",
+      "html_title": "<span class=\"film-title\">Pinky</span>",
+      "year": 1949,
+      "studio": "20th Century Fox",
+      "directors": "Elia Kazan",
+      "genres": [
+        "Drama",
+        "Social"
+      ],
+      "has_media": false,
+      "work_title": "Quality",
+      "work_html_title": "<span class=\"work-title\">Quality</span>",
+      "work_id": 252
+    },
+    {
+      "id": 333,
+      "slug": "tammy-and-the-bachelor-1957",
+      "title": "Tammy and the Bachelor",
+      "html_title": "<span class=\"film-title\">Tammy and the Bachelor</span>",
+      "year": 1957,
+      "studio": "Universal-International",
+      "directors": "Joseph Pevney",
+      "genres": [
+        "Romance",
+        "Rural"
+      ],
+      "has_media": true,
+      "work_title": "Tammy Out of Time",
+      "work_html_title": "<span class=\"work-title\">Tammy Out of Time</span>",
+      "work_id": 276
+    },
+    {
+      "id": 1011,
+      "slug": "tammy-tell-me-true-1961",
+      "title": "Tammy Tell Me True",
+      "html_title": "<span class=\"film-title\">Tammy Tell Me True</span>",
+      "year": 1961,
+      "studio": "Ross Hunter Productions",
+      "directors": "Harry Keller",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": false,
+      "work_title": "Tammy Tell Me True",
+      "work_html_title": "<span class=\"work-title\">Tammy Tell Me True</span>",
+      "work_id": 909
+    },
+    {
+      "id": 1012,
+      "slug": "tammy-and-the-doctor-1963",
+      "title": "Tammy and the Doctor",
+      "html_title": "<span class=\"film-title\">Tammy and the Doctor</span>",
+      "year": 1963,
+      "studio": "Ross Hunter Productions",
+      "directors": "Harry Keller",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": false,
+      "work_title": "Tammy Out of Time",
+      "work_html_title": "<span class=\"work-title\">Tammy Out of Time</span>",
+      "work_id": 276
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 276,
+      "slug": "tammy-out-of-time",
+      "title": "Tammy Out of Time",
+      "formatted_title": "Tammy Out of Time",
+      "html_title": "<span class=\"work-title\">Tammy Out of Time</span>",
+      "work_type": "novel",
+      "publication_year": 1948,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 252,
+      "slug": "quality",
+      "title": "Quality",
+      "formatted_title": "Quality",
+      "html_title": "<span class=\"work-title\">Quality</span>",
+      "work_type": "novel",
+      "publication_year": 1946,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 909,
+      "slug": "tammy-tell-me-true",
+      "title": "Tammy Tell Me True",
+      "formatted_title": "Tammy Tell Me True",
+      "html_title": "<span class=\"work-title\">Tammy Tell Me True</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 276,
+    "slug": "tammy-out-of-time",
+    "title": "Tammy Out of Time",
+    "formatted_title": "Tammy Out of Time",
+    "html_title": "<span class=\"work-title\">Tammy Out of Time</span>",
+    "work_type": "novel",
+    "publication_year": 1948,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:26.192685"
+}

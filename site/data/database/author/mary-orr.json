@@ -1,0 +1,83 @@
+{
+  "id": 381,
+  "slug": "mary-orr",
+  "name": "Mary Orr",
+  "birth_year": 1867,
+  "death_year": 1949,
+  "nationality": "United Kingdom, United Kingdom of Great Britain and Ireland",
+  "literary_movement": null,
+  "biographical_notes": "British astronomer, Dante scholar and plant collector. Born in Plymouth Hoe. Died in Ewhurst. Occupations: astronomer, writer, scholar",
+  "author_notes": null,
+  "wikidata_id": "Q6778776",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1950,
+    "last_adaptation": 1950,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Show business",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 857,
+      "slug": "all-about-eve-1950",
+      "title": "All about Eve",
+      "html_title": "<span class=\"film-title\">All about Eve</span>",
+      "year": 1950,
+      "studio": "20th Century Fox",
+      "directors": "Joseph L. Mankiewicz",
+      "genres": [
+        "Drama",
+        "Show business"
+      ],
+      "has_media": false,
+      "work_title": "The Wisdom of Eve",
+      "work_html_title": "<span class=\"work-title\">The Wisdom of Eve</span>",
+      "work_id": 766
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 766,
+      "slug": "the-wisdom-of-eve",
+      "title": "The Wisdom of Eve",
+      "formatted_title": "The Wisdom of Eve",
+      "html_title": "<span class=\"work-title\">The Wisdom of Eve</span>",
+      "work_type": "novel",
+      "publication_year": 1946,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 766,
+    "slug": "the-wisdom-of-eve",
+    "title": "The Wisdom of Eve",
+    "formatted_title": "The Wisdom of Eve",
+    "html_title": "<span class=\"work-title\">The Wisdom of Eve</span>",
+    "work_type": "novel",
+    "publication_year": 1946,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T14:48:43.70256"
+}

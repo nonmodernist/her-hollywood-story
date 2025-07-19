@@ -1,0 +1,83 @@
+{
+  "id": 97,
+  "slug": "fay-kanin",
+  "name": "Fay Kanin",
+  "birth_year": 1917,
+  "death_year": 2013,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American screenwriter, playwright and producer (1917-2013). Born in New York City. Died in Santa Monica. Occupations: television writer, film actor, screenwriter, writer, film screenwriter, film producer",
+  "author_notes": null,
+  "wikidata_id": "Q304588",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1951,
+    "last_adaptation": 1951,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Romance",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 312,
+      "slug": "goodbye-my-fancy-1951",
+      "title": "Goodbye, My Fancy",
+      "html_title": "<span class=\"film-title\">Goodbye, My Fancy</span>",
+      "year": 1951,
+      "studio": "Warner Bros",
+      "directors": "Vincent Sherman|Frank Mattison",
+      "genres": [
+        "Comedy-drama",
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "\"Goodbye, My Fancy\"",
+      "work_html_title": "<span class=\"work-title\">\"Goodbye, My Fancy\"</span>",
+      "work_id": 262
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 262,
+      "slug": "goodbye-my-fancy",
+      "title": "\"Goodbye, My Fancy\"",
+      "formatted_title": "\"Goodbye, My Fancy\"",
+      "html_title": "<span class=\"work-title\">\"Goodbye, My Fancy\"</span>",
+      "work_type": "novel",
+      "publication_year": 1948,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 262,
+    "slug": "goodbye-my-fancy",
+    "title": "\"Goodbye, My Fancy\"",
+    "formatted_title": "\"Goodbye, My Fancy\"",
+    "html_title": "<span class=\"work-title\">\"Goodbye, My Fancy\"</span>",
+    "work_type": "novel",
+    "publication_year": 1948,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:35.713211"
+}

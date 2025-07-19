@@ -1,0 +1,78 @@
+{
+  "id": 309,
+  "slug": "clara-e-laughlin",
+  "name": "Clara E. Laughlin",
+  "birth_year": 1873,
+  "death_year": 1941,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1873–1941). Born in New York City. Died in Chicago. Occupations: writer, biographer, actor",
+  "author_notes": null,
+  "wikidata_id": "Q15996459",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1917,
+    "last_adaptation": 1917,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 727,
+      "slug": "the-penny-philanthropist-1917",
+      "title": "The Penny Philanthropist",
+      "html_title": "<span class=\"film-title\">The Penny Philanthropist</span>",
+      "year": 1917,
+      "studio": "Wholesome Films",
+      "directors": "Guy McConnell|Otis B. Thayer",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Penny Philanthropist: A Story that Could be True",
+      "work_html_title": "<span class=\"work-title\">The Penny Philanthropist: A Story that Could be True</span>",
+      "work_id": 641
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 641,
+      "slug": "the-penny-philanthropist-a-story-that-could-be-true",
+      "title": "The Penny Philanthropist: A Story that Could be True",
+      "formatted_title": "The Penny Philanthropist: A Story that Could be True",
+      "html_title": "<span class=\"work-title\">The Penny Philanthropist: A Story that Could be True</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 641,
+    "slug": "the-penny-philanthropist-a-story-that-could-be-true",
+    "title": "The Penny Philanthropist: A Story that Could be True",
+    "formatted_title": "The Penny Philanthropist: A Story that Could be True",
+    "html_title": "<span class=\"work-title\">The Penny Philanthropist: A Story that Could be True</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:15.736298"
+}

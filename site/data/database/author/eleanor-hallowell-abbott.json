@@ -1,0 +1,139 @@
+{
+  "id": 107,
+  "slug": "eleanor-hallowell-abbott",
+  "name": "Eleanor Hallowell Abbott",
+  "birth_year": 1873,
+  "death_year": 1958,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author (1873–1958). Born in Cambridge. Died in Portsmouth. Occupations: writer, poet, children's writer, novelist",
+  "author_notes": "aka Eleanor Hallowell",
+  "wikidata_id": "Q519064",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1916,
+    "last_adaptation": 1920,
+    "year_span": 4,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 2
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2,
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 343,
+      "slug": "little-eve-edgarton-1916",
+      "title": "Little Eve Edgarton",
+      "html_title": "<span class=\"film-title\">Little Eve Edgarton</span>",
+      "year": 1916,
+      "studio": "Bluebird Photoplays",
+      "directors": "Robert Leonard",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "Little Eve Edgarton",
+      "work_html_title": "<span class=\"work-title\">Little Eve Edgarton</span>",
+      "work_id": 280
+    },
+    {
+      "id": 344,
+      "slug": "molly-make-believe-1916",
+      "title": "Molly Make-Believe",
+      "html_title": "<span class=\"film-title\">Molly Make-Believe</span>",
+      "year": 1916,
+      "studio": "Famous Players",
+      "directors": "J. Searle Dawley",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "Molly Make-Believe",
+      "work_html_title": "<span class=\"work-title\">Molly Make-Believe</span>",
+      "work_id": 281
+    },
+    {
+      "id": 345,
+      "slug": "old-dad-1920",
+      "title": "Old Dad",
+      "html_title": "<span class=\"film-title\">Old Dad</span>",
+      "year": 1920,
+      "studio": "Chaplin-Mayer Pictures",
+      "directors": "Lloyd Ingraham",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Old Dad",
+      "work_html_title": "<span class=\"work-title\">Old Dad</span>",
+      "work_id": 282
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 280,
+      "slug": "little-eve-edgarton",
+      "title": "Little Eve Edgarton",
+      "formatted_title": "Little Eve Edgarton",
+      "html_title": "<span class=\"work-title\">Little Eve Edgarton</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 281,
+      "slug": "molly-make-believe",
+      "title": "Molly Make-Believe",
+      "formatted_title": "Molly Make-Believe",
+      "html_title": "<span class=\"work-title\">Molly Make-Believe</span>",
+      "work_type": "novel",
+      "publication_year": 1910,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 282,
+      "slug": "old-dad",
+      "title": "Old Dad",
+      "formatted_title": "Old Dad",
+      "html_title": "<span class=\"work-title\">Old Dad</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 280,
+    "slug": "little-eve-edgarton",
+    "title": "Little Eve Edgarton",
+    "formatted_title": "Little Eve Edgarton",
+    "html_title": "<span class=\"work-title\">Little Eve Edgarton</span>",
+    "work_type": "novel",
+    "publication_year": 1914,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:52:34.103998"
+}

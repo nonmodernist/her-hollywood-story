@@ -1,0 +1,78 @@
+{
+  "id": 270,
+  "slug": "helen-rose-hull",
+  "name": "Helen Rose Hull",
+  "birth_year": 1888,
+  "death_year": 1971,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American novelist, feminist, and English professor. Born in Albion. Occupations: writer, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q23303108",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1934,
+    "last_adaptation": 1934,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 653,
+      "slug": "heat-lightning-1934",
+      "title": "Heat Lightning",
+      "html_title": "<span class=\"film-title\">Heat Lightning</span>",
+      "year": 1934,
+      "studio": "Warner Bros",
+      "directors": "Mervyn LeRoy",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Heat Lightning",
+      "work_html_title": "<span class=\"work-title\">Heat Lightning</span>",
+      "work_id": 572
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 572,
+      "slug": "heat-lightning",
+      "title": "Heat Lightning",
+      "formatted_title": "Heat Lightning",
+      "html_title": "<span class=\"work-title\">Heat Lightning</span>",
+      "work_type": "novel",
+      "publication_year": 1932,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 572,
+    "slug": "heat-lightning",
+    "title": "Heat Lightning",
+    "formatted_title": "Heat Lightning",
+    "html_title": "<span class=\"work-title\">Heat Lightning</span>",
+    "work_type": "novel",
+    "publication_year": 1932,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:23:24.116143"
+}

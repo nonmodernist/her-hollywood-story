@@ -1,0 +1,78 @@
+{
+  "id": 345,
+  "slug": "aurora-mardiganian",
+  "name": "Aurora Mardiganian",
+  "birth_year": 1901,
+  "death_year": 1994,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American actress (1901-1994). Born in Çemişgezek. Died in Los Angeles. Occupations: writer, actor",
+  "author_notes": null,
+  "wikidata_id": "Q4822564",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1919,
+    "last_adaptation": 1919,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 774,
+      "slug": "auction-of-souls-1919",
+      "title": "Auction of Souls",
+      "html_title": "<span class=\"film-title\">Auction of Souls</span>",
+      "year": 1919,
+      "studio": "Selig Studios for the American Committee for Armenian and Syrian Relief",
+      "directors": "Oscar Apfel",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Ravished Armenia: The Story of Aurora Mardiganian, the Christian Girl, Who Lived Through the Great Massacres",
+      "work_html_title": "<span class=\"work-title\">Ravished Armenia: The Story of Aurora Mardiganian, the Christian Girl, Who Lived Through the Great Massacres</span>",
+      "work_id": 688
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 688,
+      "slug": "ravished-armenia-the-story-of-aurora-mardiganian-the-christian-girl-who-lived-through-the-great-massacres",
+      "title": "Ravished Armenia: The Story of Aurora Mardiganian, the Christian Girl, Who Lived Through the Great Massacres",
+      "formatted_title": "Ravished Armenia: The Story of Aurora Mardiganian, the Christian Girl, Who Lived Through the Great Massacres",
+      "html_title": "<span class=\"work-title\">Ravished Armenia: The Story of Aurora Mardiganian, the Christian Girl, Who Lived Through the Great Massacres</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 688,
+    "slug": "ravished-armenia-the-story-of-aurora-mardiganian-the-christian-girl-who-lived-through-the-great-massacres",
+    "title": "Ravished Armenia: The Story of Aurora Mardiganian, the Christian Girl, Who Lived Through the Great Massacres",
+    "formatted_title": "Ravished Armenia: The Story of Aurora Mardiganian, the Christian Girl, Who Lived Through the Great Massacres",
+    "html_title": "<span class=\"work-title\">Ravished Armenia: The Story of Aurora Mardiganian, the Christian Girl, Who Lived Through the Great Massacres</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:56:59.028811"
+}

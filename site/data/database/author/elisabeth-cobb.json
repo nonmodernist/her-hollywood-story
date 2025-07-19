@@ -1,0 +1,78 @@
+{
+  "id": 170,
+  "slug": "elisabeth-cobb",
+  "name": "Elisabeth Cobb",
+  "birth_year": 1902,
+  "death_year": 1959,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Died in New York City. Occupations: writer",
+  "author_notes": "aka Elisabeth Cobb Chapman",
+  "wikidata_id": "Q121200091",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1934,
+    "last_adaptation": 1934,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 471,
+      "slug": "she-was-a-lady-1934",
+      "title": "She Was a Lady",
+      "html_title": "<span class=\"film-title\">She Was a Lady</span>",
+      "year": 1934,
+      "studio": "Fox Film",
+      "directors": "Hamilton MacFadden",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "She Was a Lady",
+      "work_html_title": "<span class=\"work-title\">She Was a Lady</span>",
+      "work_id": 403
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 403,
+      "slug": "she-was-a-lady",
+      "title": "She Was a Lady",
+      "formatted_title": "She Was a Lady",
+      "html_title": "<span class=\"work-title\">She Was a Lady</span>",
+      "work_type": "novel",
+      "publication_year": 1934,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 403,
+    "slug": "she-was-a-lady",
+    "title": "She Was a Lady",
+    "formatted_title": "She Was a Lady",
+    "html_title": "<span class=\"work-title\">She Was a Lady</span>",
+    "work_type": "novel",
+    "publication_year": 1934,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:50.547848"
+}

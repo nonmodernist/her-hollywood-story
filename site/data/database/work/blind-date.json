@@ -1,0 +1,59 @@
+{
+  "id": 575,
+  "slug": "blind-date",
+  "title": "Blind Date",
+  "formatted_title": "Blind Date",
+  "html_title": "<span class=\"work-title\">Blind Date</span>",
+  "work_type": "novel",
+  "publication_year": 1931,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 273,
+    "slug": "vida-hurst",
+    "name": "Vida Hurst",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 3,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 656,
+      "slug": "blind-date-1934",
+      "title": "Blind Date",
+      "html_title": "<span class=\"film-title\">Blind Date</span>",
+      "year": 1934,
+      "studio": "Columbia",
+      "directors": "Roy William Neill",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "years_after_publication": 3
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T14:15:15.79423"
+}

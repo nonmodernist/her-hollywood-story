@@ -1,0 +1,65 @@
+{
+  "id": 382,
+  "slug": "mothers-cry",
+  "title": "Mother's Cry",
+  "formatted_title": "Mother's Cry",
+  "html_title": "<span class=\"work-title\">Mother's Cry</span>",
+  "work_type": "novel",
+  "publication_year": 1930,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 157,
+    "slug": "helen-grace-carlisle",
+    "name": "Helen Grace Carlisle",
+    "birth_year": 1898,
+    "death_year": 1968,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 0,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 451,
+      "slug": "mothers-cry-1930",
+      "title": "Mother's Cry",
+      "html_title": "<span class=\"film-title\">Mother's Cry</span>",
+      "year": 1930,
+      "studio": "First National",
+      "directors": "Hobart Henley",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "years_after_publication": 0
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": {
+    "year": 1930,
+    "publisher": "Grosset & Dunlap",
+    "notes": "4 pictures",
+    "count": 0
+  },
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T16:47:11.123314"
+}

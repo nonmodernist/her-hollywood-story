@@ -1,0 +1,144 @@
+{
+  "id": 189,
+  "slug": "maria-thompson-daviess",
+  "name": "Maria Thompson Daviess",
+  "birth_year": 1872,
+  "death_year": 1924,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": "-",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1918,
+    "last_adaptation": 1918,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "World War I",
+        "count": 2
+      },
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 497,
+      "slug": "little-miss-hoover-1918",
+      "title": "Little Miss Hoover",
+      "html_title": "<span class=\"film-title\">Little Miss Hoover</span>",
+      "year": 1918,
+      "studio": "Famous Players-Lasky",
+      "directors": "John S. Robertson",
+      "genres": [
+        "Comedy-drama",
+        "World War I"
+      ],
+      "has_media": true,
+      "work_title": "The Golden Bird",
+      "work_html_title": "<span class=\"work-title\">The Golden Bird</span>",
+      "work_id": 428
+    },
+    {
+      "id": 498,
+      "slug": "out-of-a-clear-sky-1918",
+      "title": "Out of a Clear Sky",
+      "html_title": "<span class=\"film-title\">Out of a Clear Sky</span>",
+      "year": 1918,
+      "studio": "Famous Players-Lasky",
+      "directors": "Marshall Neilan",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Out of a Clear Sky",
+      "work_html_title": "<span class=\"work-title\">Out of a Clear Sky</span>",
+      "work_id": 429
+    },
+    {
+      "id": 496,
+      "slug": "the-daredevil-1918",
+      "title": "The Daredevil",
+      "html_title": "<span class=\"film-title\">The Daredevil</span>",
+      "year": 1918,
+      "studio": "Gail Kane Productions",
+      "directors": "Francis Grandon",
+      "genres": [
+        "Drama",
+        "World War I"
+      ],
+      "has_media": true,
+      "work_title": "The Daredevil",
+      "work_html_title": "<span class=\"work-title\">The Daredevil</span>",
+      "work_id": 427
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 428,
+      "slug": "the-golden-bird",
+      "title": "The Golden Bird",
+      "formatted_title": "The Golden Bird",
+      "html_title": "<span class=\"work-title\">The Golden Bird</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 429,
+      "slug": "out-of-a-clear-sky",
+      "title": "Out of a Clear Sky",
+      "formatted_title": "Out of a Clear Sky",
+      "html_title": "<span class=\"work-title\">Out of a Clear Sky</span>",
+      "work_type": "novel",
+      "publication_year": 1917,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 427,
+      "slug": "the-daredevil",
+      "title": "The Daredevil",
+      "formatted_title": "The Daredevil",
+      "html_title": "<span class=\"work-title\">The Daredevil</span>",
+      "work_type": "novel",
+      "publication_year": 1916,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 428,
+    "slug": "the-golden-bird",
+    "title": "The Golden Bird",
+    "formatted_title": "The Golden Bird",
+    "html_title": "<span class=\"work-title\">The Golden Bird</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T21:23:28.124888"
+}

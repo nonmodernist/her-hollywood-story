@@ -1,0 +1,78 @@
+{
+  "id": 282,
+  "slug": "gladys-e-johnson",
+  "name": "Gladys E. Johnson",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1917,
+    "last_adaptation": 1917,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 670,
+      "slug": "two-bit-seats-1917",
+      "title": "Two-Bit Seats",
+      "html_title": "<span class=\"film-title\">Two-Bit Seats</span>",
+      "year": 1917,
+      "studio": "Essanay Film",
+      "directors": "Lawrence Windom",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "Two-Bit Seats",
+      "work_html_title": "<span class=\"work-title\">Two-Bit Seats</span>",
+      "work_id": 588
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 588,
+      "slug": "two-bit-seats",
+      "title": "Two-Bit Seats",
+      "formatted_title": "Two-Bit Seats",
+      "html_title": "<span class=\"work-title\">Two-Bit Seats</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 588,
+    "slug": "two-bit-seats",
+    "title": "Two-Bit Seats",
+    "formatted_title": "Two-Bit Seats",
+    "html_title": "<span class=\"work-title\">Two-Bit Seats</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-06T14:38:37.419857"
+}

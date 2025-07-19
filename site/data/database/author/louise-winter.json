@@ -1,0 +1,176 @@
+{
+  "id": 501,
+  "slug": "louise-winter",
+  "name": "Louise Winter",
+  "birth_year": 1959,
+  "death_year": null,
+  "nationality": "United Kingdom",
+  "literary_movement": null,
+  "biographical_notes": "English mezzo-soprano. Born in Preston. Occupations: singer, opera singer, songwriter",
+  "author_notes": null,
+  "wikidata_id": "Q81687343",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 4,
+    "first_adaptation": 1917,
+    "last_adaptation": 1925,
+    "year_span": 8,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 3,
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1103,
+      "slug": "princess-virtue-1917",
+      "title": "Princess Virtue",
+      "html_title": "<span class=\"film-title\">Princess Virtue</span>",
+      "year": 1917,
+      "studio": "Bluebird Photoplays",
+      "directors": "Robert Z. Leonard",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Princess Virtue",
+      "work_html_title": "<span class=\"work-title\">Princess Virtue</span>",
+      "work_id": 990
+    },
+    {
+      "id": 1102,
+      "slug": "the-brazen-beauty-1918",
+      "title": "The Brazen Beauty",
+      "html_title": "<span class=\"film-title\">The Brazen Beauty</span>",
+      "year": 1918,
+      "studio": "Bluebird Photoplays",
+      "directors": "Tod Browning",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "The Magnificent Jacala",
+      "work_html_title": "<span class=\"work-title\">The Magnificent Jacala</span>",
+      "work_id": 989
+    },
+    {
+      "id": 1104,
+      "slug": "the-spite-bride-1919",
+      "title": "The Spite Bride",
+      "html_title": "<span class=\"film-title\">The Spite Bride</span>",
+      "year": 1919,
+      "studio": "Selznick Pictures",
+      "directors": "Charles Giblyn",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Spite Bride",
+      "work_html_title": "<span class=\"work-title\">The Spite Bride</span>",
+      "work_id": 991
+    },
+    {
+      "id": 1101,
+      "slug": "the-mad-dancer-1925",
+      "title": "The Mad Dancer",
+      "html_title": "<span class=\"film-title\">The Mad Dancer</span>",
+      "year": 1925,
+      "studio": "Jans Productions",
+      "directors": "Burton King",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "The Mad Dancer",
+      "work_html_title": "<span class=\"work-title\">The Mad Dancer</span>",
+      "work_id": 988
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 990,
+      "slug": "princess-virtue",
+      "title": "Princess Virtue",
+      "formatted_title": "Princess Virtue",
+      "html_title": "<span class=\"work-title\">Princess Virtue</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 989,
+      "slug": "the-magnificent-jacala",
+      "title": "The Magnificent Jacala",
+      "formatted_title": "The Magnificent Jacala",
+      "html_title": "<span class=\"work-title\">The Magnificent Jacala</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 991,
+      "slug": "the-spite-bride",
+      "title": "The Spite Bride",
+      "formatted_title": "The Spite Bride",
+      "html_title": "<span class=\"work-title\">The Spite Bride</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 988,
+      "slug": "the-mad-dancer",
+      "title": "The Mad Dancer",
+      "formatted_title": "The Mad Dancer",
+      "html_title": "<span class=\"work-title\">The Mad Dancer</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 990,
+    "slug": "princess-virtue",
+    "title": "Princess Virtue",
+    "formatted_title": "Princess Virtue",
+    "html_title": "<span class=\"work-title\">Princess Virtue</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:55:10.070486"
+}

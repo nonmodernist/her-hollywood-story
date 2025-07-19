@@ -1,0 +1,68 @@
+{
+  "id": 162,
+  "slug": "honey-1930",
+  "title": "Honey",
+  "formatted_title": "Honey",
+  "html_title": "<span class=\"film-title\">Honey</span>",
+  "release_year": 1930,
+  "runtime_minutes": null,
+  "country_of_production": "United States",
+  "genres": [
+    "Musical comedy"
+  ],
+  "studio": "Paramount",
+  "production_companies": "Paramount Famous Lasky Corp.",
+  "distribution_companies": "Paramount Famous Lasky Corp.",
+  "directors": "Wesley Ruggles",
+  "writers": "Herman J. Mankiewicz",
+  "cast_members": "Nancy Carroll|Stanley Smith|Richard \"Skeets\" Gallagher|Lillian Roth|Harry Green|Mitzi Green|ZaSu Pitts|Jobyna Howland|Charles Sellon",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 9802,
+  "source_work": {
+    "id": 49,
+    "slug": "come-out-of-the-kitchen",
+    "title": "Come Out of the Kitchen!",
+    "formatted_title": "Come Out of the Kitchen!",
+    "html_title": "<span class=\"work-title\">Come Out of the Kitchen!</span>",
+    "work_type": "novel",
+    "publication_year": 1916,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 14
+  },
+  "author": {
+    "id": 24,
+    "slug": "alice-duer-miller",
+    "name": "Alice Duer Miller",
+    "birth_year": 1894,
+    "death_year": 1985,
+    "nationality": "United States",
+    "film_count": 22
+  },
+  "other_adaptations": [
+    {
+      "id": 51,
+      "slug": "come-out-of-the-kitchen-1919",
+      "title": "Come Out of the Kitchen",
+      "html_title": "<span class=\"film-title\">Come Out of the Kitchen</span>",
+      "year": 1919,
+      "directors": "John S. Robertson",
+      "studio": "Famous Players-Lasky"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

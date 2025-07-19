@@ -1,0 +1,83 @@
+{
+  "id": 388,
+  "slug": "marjorie-bartholomew-paradis",
+  "name": "Marjorie Bartholomew Paradis",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1934,
+    "last_adaptation": 1934,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 867,
+      "slug": "this-side-of-heaven-1934",
+      "title": "This Side of Heaven",
+      "html_title": "<span class=\"film-title\">This Side of Heaven</span>",
+      "year": 1934,
+      "studio": "MGM",
+      "directors": "William K. Howard",
+      "genres": [
+        "Comedy-drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "It Happened One Day",
+      "work_html_title": "<span class=\"work-title\">It Happened One Day</span>",
+      "work_id": 775
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 775,
+      "slug": "it-happened-one-day",
+      "title": "It Happened One Day",
+      "formatted_title": "It Happened One Day",
+      "html_title": "<span class=\"work-title\">It Happened One Day</span>",
+      "work_type": "novel",
+      "publication_year": 1932,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 775,
+    "slug": "it-happened-one-day",
+    "title": "It Happened One Day",
+    "formatted_title": "It Happened One Day",
+    "html_title": "<span class=\"work-title\">It Happened One Day</span>",
+    "work_type": "novel",
+    "publication_year": 1932,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T17:57:33.053183"
+}

@@ -1,0 +1,600 @@
+{
+  "id": 376,
+  "slug": "kathleen-norris",
+  "name": "Kathleen Norris",
+  "birth_year": 1880,
+  "death_year": 1966,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": "Q6376862",
+  "stats": {
+    "total_films": 19,
+    "works_adapted": 18,
+    "first_adaptation": 1918,
+    "last_adaptation": 1935,
+    "year_span": 17,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 9
+      },
+      {
+        "genre": "Melodrama",
+        "count": 7
+      },
+      {
+        "genre": "Society",
+        "count": 5
+      },
+      {
+        "genre": "Domestic",
+        "count": 4
+      },
+      {
+        "genre": "Romance",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2,
+      "1920": 12,
+      "1930": 5
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 838,
+      "slug": "the-heart-of-rachael-1918",
+      "title": "The Heart of Rachael",
+      "html_title": "<span class=\"film-title\">The Heart of Rachael</span>",
+      "year": 1918,
+      "studio": "Bessie Barriscale Productions",
+      "directors": "Howard Hickman",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Heart of Rachael",
+      "work_html_title": "<span class=\"work-title\">The Heart of Rachael</span>",
+      "work_id": 748
+    },
+    {
+      "id": 839,
+      "slug": "josselyns-wife-1919",
+      "title": "Josselyn's Wife",
+      "html_title": "<span class=\"film-title\">Josselyn's Wife</span>",
+      "year": 1919,
+      "studio": "B. B. Features",
+      "directors": "Howard Hickman",
+      "genres": [
+        "Drama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "Josselyn's Wife",
+      "work_html_title": "<span class=\"work-title\">Josselyn's Wife</span>",
+      "work_id": 749
+    },
+    {
+      "id": 837,
+      "slug": "harriet-and-the-piper-1920",
+      "title": "Harriet and the Piper",
+      "html_title": "<span class=\"film-title\">Harriet and the Piper</span>",
+      "year": 1920,
+      "studio": "Anita Stewart Productions",
+      "directors": "Bertram Bracken",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Harriet and the Piper",
+      "work_html_title": "<span class=\"work-title\">Harriet and the Piper</span>",
+      "work_id": 747
+    },
+    {
+      "id": 841,
+      "slug": "the-luck-of-geraldine-laird-1920",
+      "title": "The Luck of Geraldine Laird",
+      "html_title": "<span class=\"film-title\">The Luck of Geraldine Laird</span>",
+      "year": 1920,
+      "studio": "B. B. Features ",
+      "directors": "Edward Sloman",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Luck of Geraldine Laird",
+      "work_html_title": "<span class=\"work-title\">The Luck of Geraldine Laird</span>",
+      "work_id": 750
+    },
+    {
+      "id": 846,
+      "slug": "poor-dear-margaret-kirby-1921",
+      "title": "Poor, Dear Margaret Kirby",
+      "html_title": "<span class=\"film-title\">Poor, Dear Margaret Kirby</span>",
+      "year": 1921,
+      "studio": "Selznick Pictures",
+      "directors": "William P. S. Earle",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "Poor Dear Margaret Kirby",
+      "work_html_title": "<span class=\"work-title\">Poor Dear Margaret Kirby</span>",
+      "work_id": 755
+    },
+    {
+      "id": 849,
+      "slug": "sisters-1922",
+      "title": "Sisters",
+      "html_title": "<span class=\"film-title\">Sisters</span>",
+      "year": 1922,
+      "studio": "International Film Service ",
+      "directors": "Albert Capellani",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Sisters",
+      "work_html_title": "<span class=\"work-title\">Sisters</span>",
+      "work_id": 758
+    },
+    {
+      "id": 836,
+      "slug": "lucretia-lombard-1923",
+      "title": "Lucretia Lombard",
+      "html_title": "<span class=\"film-title\">Lucretia Lombard</span>",
+      "year": 1923,
+      "studio": "Warner Bros",
+      "directors": "Jack Conway",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Flaming Passion",
+      "work_html_title": "<span class=\"work-title\">Flaming Passion</span>",
+      "work_id": 746
+    },
+    {
+      "id": 833,
+      "slug": "butterfly-1924",
+      "title": "Butterfly",
+      "html_title": "<span class=\"film-title\">Butterfly</span>",
+      "year": 1924,
+      "studio": "Universal",
+      "directors": "Clarence Brown",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "Butterfly",
+      "work_html_title": "<span class=\"work-title\">Butterfly</span>",
+      "work_id": 743
+    },
+    {
+      "id": 835,
+      "slug": "christine-of-the-hungry-heart-1924",
+      "title": "Christine of the Hungry Heart",
+      "html_title": "<span class=\"film-title\">Christine of the Hungry Heart</span>",
+      "year": 1924,
+      "studio": "Thoman Ince",
+      "directors": "George Archainbaud",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Christine of the Hungry Heart",
+      "work_html_title": "<span class=\"work-title\">Christine of the Hungry Heart</span>",
+      "work_id": 745
+    },
+    {
+      "id": 847,
+      "slug": "rose-of-the-world-1925",
+      "title": "Rose of the World",
+      "html_title": "<span class=\"film-title\">Rose of the World</span>",
+      "year": 1925,
+      "studio": "Warner Bros",
+      "directors": "Harry Beaumont",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "Rose of the World",
+      "work_html_title": "<span class=\"work-title\">Rose of the World</span>",
+      "work_id": 756
+    },
+    {
+      "id": 840,
+      "slug": "josselyns-wife-1926",
+      "title": "Josselyn's Wife",
+      "html_title": "<span class=\"film-title\">Josselyn's Wife</span>",
+      "year": 1926,
+      "studio": "Tiffany Productions",
+      "directors": "Richard Thorpe",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Josselyn's Wife",
+      "work_html_title": "<span class=\"work-title\">Josselyn's Wife</span>",
+      "work_id": 749
+    },
+    {
+      "id": 843,
+      "slug": "mother-1927",
+      "title": "Mother",
+      "html_title": "<span class=\"film-title\">Mother</span>",
+      "year": 1927,
+      "studio": "Robertson-Cole",
+      "directors": "J. Leo Meehan",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "Mother",
+      "work_html_title": "<span class=\"work-title\">Mother</span>",
+      "work_id": 752
+    },
+    {
+      "id": 844,
+      "slug": "my-best-girl-1927",
+      "title": "My Best Girl",
+      "html_title": "<span class=\"film-title\">My Best Girl</span>",
+      "year": 1927,
+      "studio": "Mary Pickford",
+      "directors": "Sam Taylor",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": false,
+      "work_title": "My Best Girl",
+      "work_html_title": "<span class=\"work-title\">My Best Girl</span>",
+      "work_id": 753
+    },
+    {
+      "id": 834,
+      "slug": "the-callahans-and-the-murphys-1927",
+      "title": "The Callahans and the Murphys",
+      "html_title": "<span class=\"film-title\">The Callahans and the Murphys</span>",
+      "year": 1927,
+      "studio": "MGM",
+      "directors": "George Hill",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "The Callahans and the Murphys",
+      "work_html_title": "<span class=\"work-title\">The Callahans and the Murphys</span>",
+      "work_id": 744
+    },
+    {
+      "id": 845,
+      "slug": "passion-flower-1930",
+      "title": "Passion Flower",
+      "html_title": "<span class=\"film-title\">Passion Flower</span>",
+      "year": 1930,
+      "studio": "MGM",
+      "directors": "William de Mille",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Passion Flower",
+      "work_html_title": "<span class=\"work-title\">Passion Flower</span>",
+      "work_id": 754
+    },
+    {
+      "id": 848,
+      "slug": "second-hand-wife-1933",
+      "title": "Second Hand Wife",
+      "html_title": "<span class=\"film-title\">Second Hand Wife</span>",
+      "year": 1933,
+      "studio": "Fox Film",
+      "directors": "Hamilton MacFadden",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Second Hand Wife",
+      "work_html_title": "<span class=\"work-title\">Second Hand Wife</span>",
+      "work_id": 757
+    },
+    {
+      "id": 850,
+      "slug": "walls-of-gold-1933",
+      "title": "Walls of Gold",
+      "html_title": "<span class=\"film-title\">Walls of Gold</span>",
+      "year": 1933,
+      "studio": "Fox Film",
+      "directors": "Kenneth MacKenna",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "Walls of Gold",
+      "work_html_title": "<span class=\"work-title\">Walls of Gold</span>",
+      "work_id": 759
+    },
+    {
+      "id": 842,
+      "slug": "change-of-heart-1934",
+      "title": "Change of Heart",
+      "html_title": "<span class=\"film-title\">Change of Heart</span>",
+      "year": 1934,
+      "studio": "Fox Film",
+      "directors": "John G. Blystone",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "Manhattan Love",
+      "work_html_title": "<span class=\"work-title\">Manhattan Love</span>",
+      "work_id": 751
+    },
+    {
+      "id": 832,
+      "slug": "navy-wife-1935",
+      "title": "Navy Wife",
+      "html_title": "<span class=\"film-title\">Navy Wife</span>",
+      "year": 1935,
+      "studio": "20th Century Fox",
+      "directors": "Allan Dwan",
+      "genres": [
+        "Melodrama",
+        "Medical",
+        "Military"
+      ],
+      "has_media": false,
+      "work_title": "Beauty's Daughter",
+      "work_html_title": "<span class=\"work-title\">Beauty's Daughter</span>",
+      "work_id": 742
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 749,
+      "slug": "josselyns-wife",
+      "title": "Josselyn's Wife",
+      "formatted_title": "Josselyn's Wife",
+      "html_title": "<span class=\"work-title\">Josselyn's Wife</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 748,
+      "slug": "the-heart-of-rachael",
+      "title": "The Heart of Rachael",
+      "formatted_title": "The Heart of Rachael",
+      "html_title": "<span class=\"work-title\">The Heart of Rachael</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 747,
+      "slug": "harriet-and-the-piper",
+      "title": "Harriet and the Piper",
+      "formatted_title": "Harriet and the Piper",
+      "html_title": "<span class=\"work-title\">Harriet and the Piper</span>",
+      "work_type": "novel",
+      "publication_year": 1920,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 750,
+      "slug": "the-luck-of-geraldine-laird",
+      "title": "The Luck of Geraldine Laird",
+      "formatted_title": "The Luck of Geraldine Laird",
+      "html_title": "<span class=\"work-title\">The Luck of Geraldine Laird</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 755,
+      "slug": "poor-dear-margaret-kirby",
+      "title": "Poor Dear Margaret Kirby",
+      "formatted_title": "Poor Dear Margaret Kirby",
+      "html_title": "<span class=\"work-title\">Poor Dear Margaret Kirby</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 758,
+      "slug": "sisters",
+      "title": "Sisters",
+      "formatted_title": "Sisters",
+      "html_title": "<span class=\"work-title\">Sisters</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 746,
+      "slug": "flaming-passion",
+      "title": "Flaming Passion",
+      "formatted_title": "Flaming Passion",
+      "html_title": "<span class=\"work-title\">Flaming Passion</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 743,
+      "slug": "butterfly",
+      "title": "Butterfly",
+      "formatted_title": "Butterfly",
+      "html_title": "<span class=\"work-title\">Butterfly</span>",
+      "work_type": "novel",
+      "publication_year": 1923,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 745,
+      "slug": "christine-of-the-hungry-heart",
+      "title": "Christine of the Hungry Heart",
+      "formatted_title": "Christine of the Hungry Heart",
+      "html_title": "<span class=\"work-title\">Christine of the Hungry Heart</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 756,
+      "slug": "rose-of-the-world",
+      "title": "Rose of the World",
+      "formatted_title": "Rose of the World",
+      "html_title": "<span class=\"work-title\">Rose of the World</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 752,
+      "slug": "mother",
+      "title": "Mother",
+      "formatted_title": "Mother",
+      "html_title": "<span class=\"work-title\">Mother</span>",
+      "work_type": "novel",
+      "publication_year": 1911,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 753,
+      "slug": "my-best-girl",
+      "title": "My Best Girl",
+      "formatted_title": "My Best Girl",
+      "html_title": "<span class=\"work-title\">My Best Girl</span>",
+      "work_type": "novel",
+      "publication_year": 1927,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 744,
+      "slug": "the-callahans-and-the-murphys",
+      "title": "The Callahans and the Murphys",
+      "formatted_title": "The Callahans and the Murphys",
+      "html_title": "<span class=\"work-title\">The Callahans and the Murphys</span>",
+      "work_type": "novel",
+      "publication_year": 1924,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 754,
+      "slug": "passion-flower",
+      "title": "Passion Flower",
+      "formatted_title": "Passion Flower",
+      "html_title": "<span class=\"work-title\">Passion Flower</span>",
+      "work_type": "novel",
+      "publication_year": 1930,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 757,
+      "slug": "second-hand-wife",
+      "title": "Second Hand Wife",
+      "formatted_title": "Second Hand Wife",
+      "html_title": "<span class=\"work-title\">Second Hand Wife</span>",
+      "work_type": "novel",
+      "publication_year": 1932,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 759,
+      "slug": "walls-of-gold",
+      "title": "Walls of Gold",
+      "formatted_title": "Walls of Gold",
+      "html_title": "<span class=\"work-title\">Walls of Gold</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 751,
+      "slug": "manhattan-love",
+      "title": "Manhattan Love",
+      "formatted_title": "Manhattan Love",
+      "html_title": "<span class=\"work-title\">Manhattan Love</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 742,
+      "slug": "beautys-daughter",
+      "title": "Beauty's Daughter",
+      "formatted_title": "Beauty's Daughter",
+      "html_title": "<span class=\"work-title\">Beauty's Daughter</span>",
+      "work_type": "novel",
+      "publication_year": 1935,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 749,
+    "slug": "josselyns-wife",
+    "title": "Josselyn's Wife",
+    "formatted_title": "Josselyn's Wife",
+    "html_title": "<span class=\"work-title\">Josselyn's Wife</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T18:28:41.503828"
+}

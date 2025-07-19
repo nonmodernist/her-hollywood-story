@@ -1,0 +1,115 @@
+{
+  "id": 259,
+  "slug": "harriet-henry",
+  "name": "Harriet Henry",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1931,
+    "last_adaptation": 1932,
+    "year_span": 1,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Romance",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 634,
+      "slug": "bought-1931",
+      "title": "Bought",
+      "html_title": "<span class=\"film-title\">Bought</span>",
+      "year": 1931,
+      "studio": "Warner Bros",
+      "directors": "Archie Mayo",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Jackdaws Strut",
+      "work_html_title": "<span class=\"work-title\">Jackdaws Strut</span>",
+      "work_id": 557
+    },
+    {
+      "id": 635,
+      "slug": "lady-with-a-past-1932",
+      "title": "Lady With a Past",
+      "html_title": "<span class=\"film-title\">Lady With a Past</span>",
+      "year": 1932,
+      "studio": "RKO",
+      "directors": "Edward H. Griffith",
+      "genres": [
+        "Comedy-drama",
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "Lady with a Past",
+      "work_html_title": "<span class=\"work-title\">Lady with a Past</span>",
+      "work_id": 558
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 557,
+      "slug": "jackdaws-strut",
+      "title": "Jackdaws Strut",
+      "formatted_title": "Jackdaws Strut",
+      "html_title": "<span class=\"work-title\">Jackdaws Strut</span>",
+      "work_type": "novel",
+      "publication_year": 1930,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 558,
+      "slug": "lady-with-a-past",
+      "title": "Lady with a Past",
+      "formatted_title": "Lady with a Past",
+      "html_title": "<span class=\"work-title\">Lady with a Past</span>",
+      "work_type": "novel",
+      "publication_year": 1931,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 557,
+    "slug": "jackdaws-strut",
+    "title": "Jackdaws Strut",
+    "formatted_title": "Jackdaws Strut",
+    "html_title": "<span class=\"work-title\">Jackdaws Strut</span>",
+    "work_type": "novel",
+    "publication_year": 1930,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:18:25.74318"
+}

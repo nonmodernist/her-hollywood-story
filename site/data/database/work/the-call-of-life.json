@@ -1,0 +1,59 @@
+{
+  "id": 607,
+  "slug": "the-call-of-life",
+  "title": "The Call of Life",
+  "formatted_title": "The Call of Life",
+  "html_title": "<span class=\"work-title\">The Call of Life</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 290,
+    "slug": "jeanne-judson",
+    "name": "Jeanne Judson",
+    "birth_year": 1888,
+    "death_year": 1981,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 691,
+      "slug": "beckoning-roads-1919",
+      "title": "Beckoning Roads",
+      "html_title": "<span class=\"film-title\">Beckoning Roads</span>",
+      "year": 1919,
+      "studio": "B. B. Features ",
+      "directors": "Howard Hickman",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 1919
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-06T15:08:39.823642"
+}

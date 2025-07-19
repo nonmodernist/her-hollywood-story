@@ -1,0 +1,83 @@
+{
+  "id": 331,
+  "slug": "dana-lyon",
+  "name": "Dana Lyon",
+  "birth_year": 1897,
+  "death_year": 1982,
+  "nationality": "Germany",
+  "literary_movement": null,
+  "biographical_notes": "Born in Marburg. Occupations: crime fiction writer",
+  "author_notes": "aka Mabel Dana Lyon",
+  "wikidata_id": "Q17350240",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1951,
+    "last_adaptation": 1951,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Suspense",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 756,
+      "slug": "the-house-on-telegraph-hill-1951",
+      "title": "The House on Telegraph Hill",
+      "html_title": "<span class=\"film-title\">The House on Telegraph Hill</span>",
+      "year": 1951,
+      "studio": "20th Century Fox",
+      "directors": "Robert Wise",
+      "genres": [
+        "Melodrama",
+        "Suspense"
+      ],
+      "has_media": false,
+      "work_title": "The Frightened Child",
+      "work_html_title": "<span class=\"work-title\">The Frightened Child</span>",
+      "work_id": 671
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 671,
+      "slug": "the-frightened-child",
+      "title": "The Frightened Child",
+      "formatted_title": "The Frightened Child",
+      "html_title": "<span class=\"work-title\">The Frightened Child</span>",
+      "work_type": "novel",
+      "publication_year": 1948,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 671,
+    "slug": "the-frightened-child",
+    "title": "The Frightened Child",
+    "formatted_title": "The Frightened Child",
+    "html_title": "<span class=\"work-title\">The Frightened Child</span>",
+    "work_type": "novel",
+    "publication_year": 1948,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:42.98604"
+}

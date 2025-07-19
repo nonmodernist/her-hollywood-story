@@ -1,0 +1,81 @@
+{
+  "id": 970,
+  "slug": "timothys-quest",
+  "title": "Timothy's Quest",
+  "formatted_title": "Timothy's Quest",
+  "html_title": "<span class=\"work-title\">Timothy's Quest</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 13,
+    "slug": "kate-douglas-wiggin",
+    "name": "Kate Douglas Wiggin",
+    "birth_year": 1856,
+    "death_year": 1923,
+    "film_count": 9
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 14,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 14
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1081,
+      "slug": "timothys-quest-1922",
+      "title": "Timothy's Quest",
+      "html_title": "<span class=\"film-title\">Timothy's Quest</span>",
+      "year": 1922,
+      "studio": "Dirigo Films ",
+      "directors": "Sidney Olcott",
+      "genres": [
+        "Drama",
+        "Rural"
+      ],
+      "has_media": false,
+      "years_after_publication": 1922
+    },
+    {
+      "id": 1082,
+      "slug": "timothys-quest-1936",
+      "title": "Timothy's Quest",
+      "html_title": "<span class=\"film-title\">Timothy's Quest</span>",
+      "year": 1936,
+      "studio": "Paramount",
+      "directors": "Charles Barton",
+      "genres": [
+        "Comedy-drama",
+        "Youth"
+      ],
+      "has_media": false,
+      "years_after_publication": 1936
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1922,
+      "to_year": 1936,
+      "gap_years": 14
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T20:15:54.14386"
+}

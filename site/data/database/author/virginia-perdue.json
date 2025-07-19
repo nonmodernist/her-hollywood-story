@@ -1,0 +1,83 @@
+{
+  "id": 393,
+  "slug": "virginia-perdue",
+  "name": "Virginia Perdue",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1946,
+    "last_adaptation": 1946,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Suspense",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 872,
+      "slug": "shadow-of-a-woman-1946",
+      "title": "Shadow of a Woman",
+      "html_title": "<span class=\"film-title\">Shadow of a Woman</span>",
+      "year": 1946,
+      "studio": "Warner Bros",
+      "directors": "Joseph Santley",
+      "genres": [
+        "Melodrama",
+        "Suspense"
+      ],
+      "has_media": false,
+      "work_title": "He Fell Down Dead",
+      "work_html_title": "<span class=\"work-title\">He Fell Down Dead</span>",
+      "work_id": 781
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 781,
+      "slug": "he-fell-down-dead",
+      "title": "He Fell Down Dead",
+      "formatted_title": "He Fell Down Dead",
+      "html_title": "<span class=\"work-title\">He Fell Down Dead</span>",
+      "work_type": "novel",
+      "publication_year": 1943,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 781,
+    "slug": "he-fell-down-dead",
+    "title": "He Fell Down Dead",
+    "formatted_title": "He Fell Down Dead",
+    "html_title": "<span class=\"work-title\">He Fell Down Dead</span>",
+    "work_type": "novel",
+    "publication_year": 1943,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T17:57:33.053183"
+}

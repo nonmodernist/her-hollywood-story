@@ -1,0 +1,78 @@
+{
+  "id": 411,
+  "slug": "molly-ricardel",
+  "name": "Molly Ricardel",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1933,
+    "last_adaptation": 1933,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 912,
+      "slug": "i-loved-you-wednesday-1933",
+      "title": "I Loved You Wednesday",
+      "html_title": "<span class=\"film-title\">I Loved You Wednesday</span>",
+      "year": 1933,
+      "studio": "Fox Film",
+      "directors": "Henry King|William Cameron Menzies",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "I Loved You Wednesday",
+      "work_html_title": "<span class=\"work-title\">I Loved You Wednesday</span>",
+      "work_id": 819
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 819,
+      "slug": "i-loved-you-wednesday",
+      "title": "I Loved You Wednesday",
+      "formatted_title": "I Loved You Wednesday",
+      "html_title": "<span class=\"work-title\">I Loved You Wednesday</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 819,
+    "slug": "i-loved-you-wednesday",
+    "title": "I Loved You Wednesday",
+    "formatted_title": "I Loved You Wednesday",
+    "html_title": "<span class=\"work-title\">I Loved You Wednesday</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-11T14:45:25.562884"
+}

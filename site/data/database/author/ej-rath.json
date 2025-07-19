@@ -1,0 +1,326 @@
+{
+  "id": 407,
+  "slug": "ej-rath",
+  "name": "E.J. Rath",
+  "birth_year": 1885,
+  "death_year": 1922,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer",
+  "author_notes": "pseud of Edith Rathbone Jacobs Brainerd and her husband",
+  "wikidata_id": "Q80999500",
+  "stats": {
+    "total_films": 10,
+    "works_adapted": 8,
+    "first_adaptation": 1916,
+    "last_adaptation": 1932,
+    "year_span": 16,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 7
+      },
+      {
+        "genre": "Romantic comedy",
+        "count": 2
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Crime",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 3,
+      "1920": 4,
+      "1930": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 899,
+      "slug": "mister-44-1916",
+      "title": "Mister 44",
+      "html_title": "<span class=\"film-title\">Mister 44</span>",
+      "year": 1916,
+      "studio": "Yorke Film Corp.",
+      "directors": "Henry Otto",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Mister 44",
+      "work_html_title": "<span class=\"work-title\">Mister 44</span>",
+      "work_id": 807
+    },
+    {
+      "id": 901,
+      "slug": "the-river-of-romance-1916",
+      "title": "The River of Romance",
+      "html_title": "<span class=\"film-title\">The River of Romance</span>",
+      "year": 1916,
+      "studio": "Yorke Film Corp.",
+      "directors": "Henry Otto",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": false,
+      "work_title": "Sam",
+      "work_html_title": "<span class=\"work-title\">Sam</span>",
+      "work_id": 809
+    },
+    {
+      "id": 902,
+      "slug": "too-many-crooks-1919",
+      "title": "Too Many Crooks",
+      "html_title": "<span class=\"film-title\">Too Many Crooks</span>",
+      "year": 1919,
+      "studio": "Vitagraph",
+      "directors": "Ralph Ince",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "has_media": false,
+      "work_title": "Too Many Crooks",
+      "work_html_title": "<span class=\"work-title\">Too Many Crooks</span>",
+      "work_id": 810
+    },
+    {
+      "id": 897,
+      "slug": "elope-if-you-must-1922",
+      "title": "Elope If You Must",
+      "html_title": "<span class=\"film-title\">Elope If You Must</span>",
+      "year": 1922,
+      "studio": "Fox Film",
+      "directors": "C. R. Wallace",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "Elope If You Must",
+      "work_html_title": "<span class=\"work-title\">Elope If You Must</span>",
+      "work_id": 804
+    },
+    {
+      "id": 900,
+      "slug": "the-nervous-wreck-1926",
+      "title": "The Nervous Wreck",
+      "html_title": "<span class=\"film-title\">The Nervous Wreck</span>",
+      "year": 1926,
+      "studio": "Christie Film",
+      "directors": "Scott Sidney",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "The Nervous Wreck",
+      "work_html_title": "<span class=\"work-title\">The Nervous Wreck</span>",
+      "work_id": 808
+    },
+    {
+      "id": 903,
+      "slug": "too-many-crooks-1927",
+      "title": "Too Many Crooks",
+      "html_title": "<span class=\"film-title\">Too Many Crooks</span>",
+      "year": 1927,
+      "studio": "Famous Players-Lasky",
+      "directors": "Fred Newmeyer",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "Too Many Crooks",
+      "work_html_title": "<span class=\"work-title\">Too Many Crooks</span>",
+      "work_id": 810
+    },
+    {
+      "id": 904,
+      "slug": "clear-the-decks-1929",
+      "title": "Clear the Decks",
+      "html_title": "<span class=\"film-title\">Clear the Decks</span>",
+      "year": 1929,
+      "studio": "Universal",
+      "directors": "Joseph E. Henabery",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": false,
+      "work_title": "When the Devil was Sick",
+      "work_html_title": "<span class=\"work-title\">When the Devil was Sick</span>",
+      "work_id": 811
+    },
+    {
+      "id": 895,
+      "slug": "as-es-la-vida-1930",
+      "title": "Así es la vida",
+      "html_title": "<span class=\"film-title\">Así es la vida</span>",
+      "year": 1930,
+      "studio": "Sono-Art",
+      "directors": "George J. Crone",
+      "genres": [
+        "Comedy",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "The Dark Chapter, a Comedy of Class Distinctions",
+      "work_html_title": "<span class=\"work-title\">The Dark Chapter, a Comedy of Class Distinctions</span>",
+      "work_id": 803
+    },
+    {
+      "id": 896,
+      "slug": "what-a-man-1930",
+      "title": "What a Man",
+      "html_title": "<span class=\"film-title\">What a Man</span>",
+      "year": 1930,
+      "studio": "Sono-Art",
+      "directors": "George J. Crone",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "The Dark Chapter, a Comedy of Class Distinctions",
+      "work_html_title": "<span class=\"work-title\">The Dark Chapter, a Comedy of Class Distinctions</span>",
+      "work_id": 803
+    },
+    {
+      "id": 898,
+      "slug": "fast-life-1932",
+      "title": "Fast Life",
+      "html_title": "<span class=\"film-title\">Fast Life</span>",
+      "year": 1932,
+      "studio": "MGM",
+      "directors": "Harry Pollard",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "Let's Go",
+      "work_html_title": "<span class=\"work-title\">Let's Go</span>",
+      "work_id": 806
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 810,
+      "slug": "too-many-crooks",
+      "title": "Too Many Crooks",
+      "formatted_title": "Too Many Crooks",
+      "html_title": "<span class=\"work-title\">Too Many Crooks</span>",
+      "work_type": "novel",
+      "publication_year": 1918,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 803,
+      "slug": "the-dark-chapter-a-comedy-of-class-distinctions",
+      "title": "The Dark Chapter, a Comedy of Class Distinctions",
+      "formatted_title": "The Dark Chapter, a Comedy of Class Distinctions",
+      "html_title": "<span class=\"work-title\">The Dark Chapter, a Comedy of Class Distinctions</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 807,
+      "slug": "mister-44",
+      "title": "Mister 44",
+      "formatted_title": "Mister 44",
+      "html_title": "<span class=\"work-title\">Mister 44</span>",
+      "work_type": "novel",
+      "publication_year": 1916,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 809,
+      "slug": "sam",
+      "title": "Sam",
+      "formatted_title": "Sam",
+      "html_title": "<span class=\"work-title\">Sam</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 804,
+      "slug": "elope-if-you-must",
+      "title": "Elope If You Must",
+      "formatted_title": "Elope If You Must",
+      "html_title": "<span class=\"work-title\">Elope If You Must</span>",
+      "work_type": "novel",
+      "publication_year": 1926,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 808,
+      "slug": "the-nervous-wreck",
+      "title": "The Nervous Wreck",
+      "formatted_title": "The Nervous Wreck",
+      "html_title": "<span class=\"work-title\">The Nervous Wreck</span>",
+      "work_type": "novel",
+      "publication_year": 1923,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 811,
+      "slug": "when-the-devil-was-sick",
+      "title": "When the Devil was Sick",
+      "formatted_title": "When the Devil was Sick",
+      "html_title": "<span class=\"work-title\">When the Devil was Sick</span>",
+      "work_type": "novel",
+      "publication_year": 1926,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 806,
+      "slug": "lets-go",
+      "title": "Let's Go",
+      "formatted_title": "Let's Go",
+      "html_title": "<span class=\"work-title\">Let's Go</span>",
+      "work_type": "novel",
+      "publication_year": 1930,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 810,
+    "slug": "too-many-crooks",
+    "title": "Too Many Crooks",
+    "formatted_title": "Too Many Crooks",
+    "html_title": "<span class=\"work-title\">Too Many Crooks</span>",
+    "work_type": "novel",
+    "publication_year": 1918,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:51:39.77149"
+}

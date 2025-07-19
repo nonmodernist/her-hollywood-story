@@ -1,0 +1,83 @@
+{
+  "id": 367,
+  "slug": "olga-moore",
+  "name": "Olga Moore",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1937,
+    "last_adaptation": 1937,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romantic comedy",
+        "count": 1
+      },
+      {
+        "genre": "Political",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 822,
+      "slug": "you-cant-beat-love-1937",
+      "title": "You Can't Beat Love",
+      "html_title": "<span class=\"film-title\">You Can't Beat Love</span>",
+      "year": 1937,
+      "studio": "RKO",
+      "directors": "Christy Cabanne",
+      "genres": [
+        "Romantic comedy",
+        "Political"
+      ],
+      "has_media": false,
+      "work_title": "Quintuplets to You",
+      "work_html_title": "<span class=\"work-title\">Quintuplets to You</span>",
+      "work_id": 728
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 728,
+      "slug": "quintuplets-to-you",
+      "title": "Quintuplets to You",
+      "formatted_title": "Quintuplets to You",
+      "html_title": "<span class=\"work-title\">Quintuplets to You</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 728,
+    "slug": "quintuplets-to-you",
+    "title": "Quintuplets to You",
+    "formatted_title": "Quintuplets to You",
+    "html_title": "<span class=\"work-title\">Quintuplets to You</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:18:42.615814"
+}

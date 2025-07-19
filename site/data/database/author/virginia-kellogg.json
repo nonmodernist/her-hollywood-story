@@ -1,0 +1,111 @@
+{
+  "id": 296,
+  "slug": "virginia-kellogg",
+  "name": "Virginia Kellogg",
+  "birth_year": 1907,
+  "death_year": 1981,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "writer (1907-1981). Born in Los Angeles. Died in Westwood. Occupations: screenwriter, playwright. Notable works: White Heat, Caged",
+  "author_notes": null,
+  "wikidata_id": "Q4068889",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1931,
+    "last_adaptation": 1933,
+    "year_span": 2,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 2
+      },
+      {
+        "genre": "Medical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 700,
+      "slug": "the-road-to-reno-1931",
+      "title": "The Road to Reno",
+      "html_title": "<span class=\"film-title\">The Road to Reno</span>",
+      "year": 1931,
+      "studio": "Paramount",
+      "directors": "Richard Wallace",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "The Road to Reno",
+      "work_html_title": "<span class=\"work-title\">The Road to Reno</span>",
+      "work_id": 616
+    },
+    {
+      "id": 699,
+      "slug": "mary-stevens-md-1933",
+      "title": "Mary Stevens, M.D.",
+      "html_title": "<span class=\"film-title\">Mary Stevens, M.D.</span>",
+      "year": 1933,
+      "studio": "Warner Bros",
+      "directors": "Lloyd Bacon",
+      "genres": [
+        "Melodrama",
+        "Medical"
+      ],
+      "has_media": false,
+      "work_title": "Mary Stevens, M.D.",
+      "work_html_title": "<span class=\"work-title\">Mary Stevens, M.D.</span>",
+      "work_id": 615
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 616,
+      "slug": "the-road-to-reno",
+      "title": "The Road to Reno",
+      "formatted_title": "The Road to Reno",
+      "html_title": "<span class=\"work-title\">The Road to Reno</span>",
+      "work_type": "novel",
+      "publication_year": 1931,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 615,
+      "slug": "mary-stevens-md",
+      "title": "Mary Stevens, M.D.",
+      "formatted_title": "Mary Stevens, M.D.",
+      "html_title": "<span class=\"work-title\">Mary Stevens, M.D.</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 616,
+    "slug": "the-road-to-reno",
+    "title": "The Road to Reno",
+    "formatted_title": "The Road to Reno",
+    "html_title": "<span class=\"work-title\">The Road to Reno</span>",
+    "work_type": "novel",
+    "publication_year": 1931,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:54:59.979555"
+}

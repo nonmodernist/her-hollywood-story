@@ -1,0 +1,60 @@
+{
+  "id": 895,
+  "slug": "the-answer-on-the-magnolia-tree",
+  "title": "The Answer on the Magnolia Tree",
+  "formatted_title": "The Answer on the Magnolia Tree",
+  "html_title": "<span class=\"work-title\">The Answer on the Magnolia Tree</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 449,
+    "slug": "tess-slesinger",
+    "name": "Tess Slesinger",
+    "birth_year": 1905,
+    "death_year": 1945,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 996,
+      "slug": "girls-school-1938",
+      "title": "Girls' School",
+      "html_title": "<span class=\"film-title\">Girls' School</span>",
+      "year": 1938,
+      "studio": "Columbia Pictures Corp. of California, Ltd.",
+      "directors": "John Brahm",
+      "genres": [
+        "Comedy",
+        "Youth"
+      ],
+      "has_media": false,
+      "years_after_publication": 1938
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T15:27:58.181433"
+}

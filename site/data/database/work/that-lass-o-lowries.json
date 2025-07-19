@@ -1,0 +1,79 @@
+{
+  "id": 96,
+  "slug": "that-lass-o-lowries",
+  "title": "That Lass O' Lowrie's",
+  "formatted_title": "That Lass O' Lowrie's",
+  "html_title": "<span class=\"work-title\">That Lass O' Lowrie's</span>",
+  "work_type": "novel",
+  "publication_year": 1877,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 3,
+    "slug": "frances-hodgson-burnett",
+    "name": "Frances Hodgson Burnett",
+    "birth_year": 1849,
+    "death_year": 1924,
+    "film_count": 17
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 7,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 7
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 39,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 428,
+      "slug": "secret-love-1916",
+      "title": "Secret Love",
+      "html_title": "<span class=\"film-title\">Secret Love</span>",
+      "year": 1916,
+      "studio": "Bluebird Photoplays",
+      "directors": "Robert Leonard",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 39
+    },
+    {
+      "id": 100,
+      "slug": "the-flame-of-life-1923",
+      "title": "The Flame of Life",
+      "html_title": "<span class=\"film-title\">The Flame of Life</span>",
+      "year": 1923,
+      "studio": "Universal",
+      "directors": "Hobart Henley",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "years_after_publication": 46
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1916,
+      "to_year": 1923,
+      "gap_years": 7
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T22:06:44.09417"
+}

@@ -1,0 +1,125 @@
+{
+  "id": 115,
+  "slug": "sally-benson",
+  "name": "Sally Benson",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": "pseud of Sara Benson",
+  "wikidata_id": "-",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1944,
+    "last_adaptation": 1945,
+    "year_span": 1,
+    "top_genres": [
+      {
+        "genre": "Musical",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      },
+      {
+        "genre": "Teenage",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 367,
+      "slug": "meet-me-in-st-louis-1944",
+      "title": "Meet Me in St. Louis",
+      "html_title": "<span class=\"film-title\">Meet Me in St. Louis</span>",
+      "year": 1944,
+      "studio": "MGM",
+      "directors": "Vincente Minnelli",
+      "genres": [
+        "Musical",
+        "Historical"
+      ],
+      "has_media": true,
+      "work_title": "Meet Me in St. Louis",
+      "work_html_title": "<span class=\"work-title\">Meet Me in St. Louis</span>",
+      "work_id": 303
+    },
+    {
+      "id": 366,
+      "slug": "junior-miss-1945",
+      "title": "Junior Miss",
+      "html_title": "<span class=\"film-title\">Junior Miss</span>",
+      "year": 1945,
+      "studio": "20th Century Fox",
+      "directors": "George Seaton",
+      "genres": [
+        "Comedy",
+        "Domestic",
+        "Teenage"
+      ],
+      "has_media": false,
+      "work_title": "Junior Miss",
+      "work_html_title": "<span class=\"work-title\">Junior Miss</span>",
+      "work_id": 302
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 303,
+      "slug": "meet-me-in-st-louis",
+      "title": "Meet Me in St. Louis",
+      "formatted_title": "Meet Me in St. Louis",
+      "html_title": "<span class=\"work-title\">Meet Me in St. Louis</span>",
+      "work_type": "novel",
+      "publication_year": 1942,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 302,
+      "slug": "junior-miss",
+      "title": "Junior Miss",
+      "formatted_title": "Junior Miss",
+      "html_title": "<span class=\"work-title\">Junior Miss</span>",
+      "work_type": "novel",
+      "publication_year": 1941,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 303,
+    "slug": "meet-me-in-st-louis",
+    "title": "Meet Me in St. Louis",
+    "formatted_title": "Meet Me in St. Louis",
+    "html_title": "<span class=\"work-title\">Meet Me in St. Louis</span>",
+    "work_type": "novel",
+    "publication_year": 1942,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T03:51:08.070923"
+}

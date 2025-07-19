@@ -1,0 +1,60 @@
+{
+  "id": 829,
+  "slug": "dangerous-days",
+  "title": "Dangerous Days",
+  "formatted_title": "Dangerous Days",
+  "html_title": "<span class=\"work-title\">Dangerous Days</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 6,
+    "slug": "mary-roberts-rinehart",
+    "name": "Mary Roberts Rinehart",
+    "birth_year": 1876,
+    "death_year": 1958,
+    "film_count": 31
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 923,
+      "slug": "dangerous-days-1920",
+      "title": "Dangerous Days",
+      "html_title": "<span class=\"film-title\">Dangerous Days</span>",
+      "year": 1920,
+      "studio": "Eminent Authors Pictures",
+      "directors": "Reginald Barker",
+      "genres": [
+        "Drama",
+        "Espionage"
+      ],
+      "has_media": false,
+      "years_after_publication": 1920
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-11T15:42:10.41529"
+}

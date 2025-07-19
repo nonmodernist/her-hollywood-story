@@ -1,0 +1,60 @@
+{
+  "id": 194,
+  "slug": "wicked-woman",
+  "title": "Wicked Woman",
+  "formatted_title": "Wicked Woman",
+  "html_title": "<span class=\"work-title\">Wicked Woman</span>",
+  "work_type": "novel",
+  "publication_year": 1933,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 65,
+    "slug": "anne-austin",
+    "name": "Anne Austin",
+    "birth_year": 1895,
+    "death_year": 1975,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 217,
+      "slug": "a-wicked-woman-1934",
+      "title": "A Wicked Woman",
+      "html_title": "<span class=\"film-title\">A Wicked Woman</span>",
+      "year": 1934,
+      "studio": "MGM",
+      "directors": "Charles Brabin",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T21:03:01.18329"
+}

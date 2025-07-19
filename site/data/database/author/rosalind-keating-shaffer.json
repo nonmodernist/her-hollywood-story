@@ -1,0 +1,88 @@
+{
+  "id": 439,
+  "slug": "rosalind-keating-shaffer",
+  "name": "Rosalind Keating Shaffer",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1933,
+    "last_adaptation": 1933,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Gangster",
+        "count": 1
+      },
+      {
+        "genre": "Show business",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 981,
+      "slug": "lady-killer-1933",
+      "title": "Lady Killer",
+      "html_title": "<span class=\"film-title\">Lady Killer</span>",
+      "year": 1933,
+      "studio": "Warner Bros",
+      "directors": "Roy Del Ruth",
+      "genres": [
+        "Drama",
+        "Gangster",
+        "Show business"
+      ],
+      "has_media": false,
+      "work_title": "The Finger Man",
+      "work_html_title": "<span class=\"work-title\">The Finger Man</span>",
+      "work_id": 883
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 883,
+      "slug": "the-finger-man",
+      "title": "The Finger Man",
+      "formatted_title": "The Finger Man",
+      "html_title": "<span class=\"work-title\">The Finger Man</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 883,
+    "slug": "the-finger-man",
+    "title": "The Finger Man",
+    "formatted_title": "The Finger Man",
+    "html_title": "<span class=\"work-title\">The Finger Man</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:22:05.085796"
+}

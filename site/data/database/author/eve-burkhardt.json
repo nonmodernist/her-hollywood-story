@@ -1,0 +1,120 @@
+{
+  "id": 208,
+  "slug": "eve-burkhardt",
+  "name": "Eve Burkhardt",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": "co-writer Robert F. Burkhardt, under the pseud Rob Eden",
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1936,
+    "last_adaptation": 1938,
+    "year_span": 2,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Gangster",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 538,
+      "slug": "dancing-feet-1936",
+      "title": "Dancing Feet",
+      "html_title": "<span class=\"film-title\">Dancing Feet</span>",
+      "year": 1936,
+      "studio": "Republic",
+      "directors": "Joseph Santley",
+      "genres": [
+        "Comedy",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Dancing Feet",
+      "work_html_title": "<span class=\"work-title\">Dancing Feet</span>",
+      "work_id": 468
+    },
+    {
+      "id": 539,
+      "slug": "i-demand-payment-1938",
+      "title": "I Demand Payment",
+      "html_title": "<span class=\"film-title\">I Demand Payment</span>",
+      "year": 1938,
+      "studio": "Imperial",
+      "directors": "Clifford Sanforth",
+      "genres": [
+        "Drama",
+        "Gangster"
+      ],
+      "has_media": false,
+      "work_title": "I Demand Payment",
+      "work_html_title": "<span class=\"work-title\">I Demand Payment</span>",
+      "work_id": 469
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 468,
+      "slug": "dancing-feet",
+      "title": "Dancing Feet",
+      "formatted_title": "Dancing Feet",
+      "html_title": "<span class=\"work-title\">Dancing Feet</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 469,
+      "slug": "i-demand-payment",
+      "title": "I Demand Payment",
+      "formatted_title": "I Demand Payment",
+      "html_title": "<span class=\"work-title\">I Demand Payment</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 468,
+    "slug": "dancing-feet",
+    "title": "Dancing Feet",
+    "formatted_title": "Dancing Feet",
+    "html_title": "<span class=\"work-title\">Dancing Feet</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-24T13:48:25.835294"
+}

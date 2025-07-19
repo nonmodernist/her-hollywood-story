@@ -1,0 +1,157 @@
+{
+  "id": 379,
+  "slug": "mary-ohara",
+  "name": "Mary O'Hara",
+  "birth_year": 1885,
+  "death_year": 1980,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author and screenwriter (1885–1980). Born in Cape May Point. Died in Chevy Chase. Occupations: composer, writer, novelist, screenwriter. Notable works: My Friend Flicka",
+  "author_notes": "aka Mary O'Hara Alsop Sture-Vasa",
+  "wikidata_id": "Q273077",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1943,
+    "last_adaptation": 1948,
+    "year_span": 5,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 3
+      },
+      {
+        "genre": "Animal",
+        "count": 3
+      },
+      {
+        "genre": "Youth",
+        "count": 2
+      },
+      {
+        "genre": "Horse race",
+        "count": 1
+      },
+      {
+        "genre": "Teenage",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 854,
+      "slug": "my-friend-flicka-1943",
+      "title": "My Friend Flicka",
+      "html_title": "<span class=\"film-title\">My Friend Flicka</span>",
+      "year": 1943,
+      "studio": "20th Century Fox",
+      "directors": "Harold Schuster",
+      "genres": [
+        "Drama",
+        "Animal",
+        "Youth"
+      ],
+      "has_media": false,
+      "work_title": "My Friend Flicka",
+      "work_html_title": "<span class=\"work-title\">My Friend Flicka</span>",
+      "work_id": 763
+    },
+    {
+      "id": 855,
+      "slug": "thunderhead-son-of-flicka-1945",
+      "title": "Thunderhead, Son of Flicka",
+      "html_title": "<span class=\"film-title\">Thunderhead, Son of Flicka</span>",
+      "year": 1945,
+      "studio": "20th Century Fox",
+      "directors": "Louis King",
+      "genres": [
+        "Drama",
+        "Animal",
+        "Youth"
+      ],
+      "has_media": false,
+      "work_title": "Thunderhead, Son of Flicka",
+      "work_html_title": "<span class=\"work-title\">Thunderhead, Son of Flicka</span>",
+      "work_id": 764
+    },
+    {
+      "id": 853,
+      "slug": "green-grass-of-wyoming-1948",
+      "title": "Green Grass of Wyoming",
+      "html_title": "<span class=\"film-title\">Green Grass of Wyoming</span>",
+      "year": 1948,
+      "studio": "20th Century Fox",
+      "directors": "Louis King",
+      "genres": [
+        "Drama",
+        "Animal",
+        "Horse race",
+        "Teenage"
+      ],
+      "has_media": false,
+      "work_title": "Green Grass of Wyoming",
+      "work_html_title": "<span class=\"work-title\">Green Grass of Wyoming</span>",
+      "work_id": 762
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 763,
+      "slug": "my-friend-flicka",
+      "title": "My Friend Flicka",
+      "formatted_title": "My Friend Flicka",
+      "html_title": "<span class=\"work-title\">My Friend Flicka</span>",
+      "work_type": "novel",
+      "publication_year": 1941,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 764,
+      "slug": "thunderhead-son-of-flicka",
+      "title": "Thunderhead, Son of Flicka",
+      "formatted_title": "Thunderhead, Son of Flicka",
+      "html_title": "<span class=\"work-title\">Thunderhead, Son of Flicka</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 762,
+      "slug": "green-grass-of-wyoming",
+      "title": "Green Grass of Wyoming",
+      "formatted_title": "Green Grass of Wyoming",
+      "html_title": "<span class=\"work-title\">Green Grass of Wyoming</span>",
+      "work_type": "novel",
+      "publication_year": 1946,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 763,
+    "slug": "my-friend-flicka",
+    "title": "My Friend Flicka",
+    "formatted_title": "My Friend Flicka",
+    "html_title": "<span class=\"work-title\">My Friend Flicka</span>",
+    "work_type": "novel",
+    "publication_year": 1941,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T14:48:41.874285"
+}

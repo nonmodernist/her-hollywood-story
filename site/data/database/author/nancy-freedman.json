@@ -1,0 +1,93 @@
+{
+  "id": 225,
+  "slug": "nancy-freedman",
+  "name": "Nancy Freedman",
+  "birth_year": 1920,
+  "death_year": 2010,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1920-2010). Born in Evanston. Died in Greenbrae. Occupations: stage actor, novelist, actor, writer",
+  "author_notes": "aka Nancy Mars Freedman",
+  "wikidata_id": "Q6962691",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1949,
+    "last_adaptation": 1949,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      },
+      {
+        "genre": "Northwest",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 580,
+      "slug": "mrs-mike-1949",
+      "title": "Mrs. Mike",
+      "html_title": "<span class=\"film-title\">Mrs. Mike</span>",
+      "year": 1949,
+      "studio": "Nassour Pictures",
+      "directors": "Louis King",
+      "genres": [
+        "Drama",
+        "Historical",
+        "Northwest",
+        "with songs"
+      ],
+      "has_media": true,
+      "work_title": "Mrs. Mike",
+      "work_html_title": "<span class=\"work-title\">Mrs. Mike</span>",
+      "work_id": 508
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 508,
+      "slug": "mrs-mike",
+      "title": "Mrs. Mike",
+      "formatted_title": "Mrs. Mike",
+      "html_title": "<span class=\"work-title\">Mrs. Mike</span>",
+      "work_type": "novel",
+      "publication_year": 1948,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 508,
+    "slug": "mrs-mike",
+    "title": "Mrs. Mike",
+    "formatted_title": "Mrs. Mike",
+    "html_title": "<span class=\"work-title\">Mrs. Mike</span>",
+    "work_type": "novel",
+    "publication_year": 1948,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-03T00:46:33.693405"
+}

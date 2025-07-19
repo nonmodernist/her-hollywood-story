@@ -1,0 +1,83 @@
+{
+  "id": 470,
+  "slug": "alice-l-tildesley",
+  "name": "Alice L. Tildesley",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1921,
+    "last_adaptation": 1921,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1032,
+      "slug": "short-skirts-1921",
+      "title": "Short Skirts",
+      "html_title": "<span class=\"film-title\">Short Skirts</span>",
+      "year": 1921,
+      "studio": "Universal",
+      "directors": "Harry B. Harris",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "What Can you Expect?",
+      "work_html_title": "<span class=\"work-title\">What Can you Expect?</span>",
+      "work_id": 925
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 925,
+      "slug": "what-can-you-expect",
+      "title": "What Can you Expect?",
+      "formatted_title": "What Can you Expect?",
+      "html_title": "<span class=\"work-title\">What Can you Expect?</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 925,
+    "slug": "what-can-you-expect",
+    "title": "What Can you Expect?",
+    "formatted_title": "What Can you Expect?",
+    "html_title": "<span class=\"work-title\">What Can you Expect?</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T17:49:15.486473"
+}

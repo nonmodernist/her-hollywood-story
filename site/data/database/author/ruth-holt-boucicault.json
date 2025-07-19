@@ -1,0 +1,83 @@
+{
+  "id": 124,
+  "slug": "ruth-holt-boucicault",
+  "name": "Ruth Holt Boucicault",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1919,
+    "last_adaptation": 1919,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 378,
+      "slug": "a-house-divided-1919",
+      "title": "A House Divided",
+      "html_title": "<span class=\"film-title\">A House Divided</span>",
+      "year": 1919,
+      "studio": "J. Stuart Blackton",
+      "directors": "J. Stuart Blackton",
+      "genres": [
+        "Drama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "The Substance of His House",
+      "work_html_title": "<span class=\"work-title\">The Substance of His House</span>",
+      "work_id": 315
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 315,
+      "slug": "the-substance-of-his-house",
+      "title": "The Substance of His House",
+      "formatted_title": "The Substance of His House",
+      "html_title": "<span class=\"work-title\">The Substance of His House</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 315,
+    "slug": "the-substance-of-his-house",
+    "title": "The Substance of His House",
+    "formatted_title": "The Substance of His House",
+    "html_title": "<span class=\"work-title\">The Substance of His House</span>",
+    "work_type": "novel",
+    "publication_year": 1914,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-18T02:35:43.599209"
+}

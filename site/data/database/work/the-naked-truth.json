@@ -1,0 +1,59 @@
+{
+  "id": 961,
+  "slug": "the-naked-truth",
+  "title": "The Naked Truth",
+  "formatted_title": "The Naked Truth",
+  "html_title": "<span class=\"work-title\">The Naked Truth</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 489,
+    "slug": "leila-burton-wells",
+    "name": "Leila Burton Wells",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1070,
+      "slug": "the-perfect-lover-1919",
+      "title": "The Perfect Lover",
+      "html_title": "<span class=\"film-title\">The Perfect Lover</span>",
+      "year": 1919,
+      "studio": "Selznick Pictures",
+      "directors": "Ralph Ince",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 1919
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T20:03:43.567921"
+}

@@ -1,0 +1,60 @@
+{
+  "id": 560,
+  "slug": "hope-rides-with-me",
+  "title": "Hope Rides with Me",
+  "formatted_title": "Hope Rides with Me",
+  "html_title": "<span class=\"work-title\">Hope Rides with Me</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 261,
+    "slug": "maibelle-heikes-justice",
+    "name": "Maibelle Heikes Justice",
+    "birth_year": 1871,
+    "death_year": 1926,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 637,
+      "slug": "the-end-of-the-trail-1916",
+      "title": "The End of the Trail",
+      "html_title": "<span class=\"film-title\">The End of the Trail</span>",
+      "year": 1916,
+      "studio": "Fox Film",
+      "directors": "Oscar C. Apfel",
+      "genres": [
+        "Drama",
+        "Northwest"
+      ],
+      "has_media": true,
+      "years_after_publication": 1916
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:36:25.367315"
+}

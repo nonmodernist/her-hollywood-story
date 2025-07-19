@@ -1,0 +1,105 @@
+{
+  "id": 20,
+  "slug": "rebecca-of-sunnybrook-farm",
+  "title": "Rebecca of Sunnybrook Farm",
+  "formatted_title": "Rebecca of Sunnybrook Farm",
+  "html_title": "<span class=\"work-title\">Rebecca of Sunnybrook Farm</span>",
+  "work_type": "novel",
+  "publication_year": 1903,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 13,
+    "slug": "kate-douglas-wiggin",
+    "name": "Kate Douglas Wiggin",
+    "birth_year": 1856,
+    "death_year": 1923,
+    "film_count": 9
+  },
+  "stats": {
+    "adaptation_count": 3,
+    "year_span": 21,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 11
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 14,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 22,
+      "slug": "rebecca-of-sunnybrook-farm-1917",
+      "title": "Rebecca of Sunnybrook Farm",
+      "html_title": "<span class=\"film-title\">Rebecca of Sunnybrook Farm</span>",
+      "year": 1917,
+      "studio": "Mary Pickford",
+      "directors": "Marshall Neilan",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 14
+    },
+    {
+      "id": 194,
+      "slug": "rebecca-of-sunnybrook-farm-1932",
+      "title": "Rebecca of Sunnybrook Farm",
+      "html_title": "<span class=\"film-title\">Rebecca of Sunnybrook Farm</span>",
+      "year": 1932,
+      "studio": "Fox Film",
+      "directors": "Alfred Santell",
+      "genres": [
+        "Melodrama",
+        "Rural"
+      ],
+      "has_media": false,
+      "years_after_publication": 29
+    },
+    {
+      "id": 250,
+      "slug": "rebecca-of-sunnybrook-farm-1938",
+      "title": "Rebecca of Sunnybrook Farm",
+      "html_title": "<span class=\"film-title\">Rebecca of Sunnybrook Farm</span>",
+      "year": 1938,
+      "studio": "20th Century Fox",
+      "directors": "Allan Dwan",
+      "genres": [
+        "Musical comedy",
+        "Youth"
+      ],
+      "has_media": false,
+      "years_after_publication": 35
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1917,
+      "to_year": 1932,
+      "gap_years": 15
+    },
+    {
+      "from_year": 1932,
+      "to_year": 1938,
+      "gap_years": 6
+    }
+  ],
+  "photoplay_edition": {
+    "year": 1938,
+    "publisher": "Random House",
+    "notes": "12 pictures, mostly double-page. There is also a 1917 edition, unknown publisher.",
+    "count": 0
+  },
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T16:53:19.521806"
+}

@@ -1,0 +1,148 @@
+{
+  "id": 129,
+  "slug": "mary-hastings-bradley",
+  "name": "Mary Hastings Bradley",
+  "birth_year": 1882,
+  "death_year": 1976,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in Chicago. Died in Chicago. Occupations: war correspondent, novelist, journalist",
+  "author_notes": null,
+  "wikidata_id": "Q6779734",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1920,
+    "last_adaptation": 1960,
+    "year_span": 40,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Adventure",
+        "count": 1
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Social",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 2,
+      "1960": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 386,
+      "slug": "the-palace-of-darkened-windows-1920",
+      "title": "The Palace of Darkened Windows",
+      "html_title": "<span class=\"film-title\">The Palace of Darkened Windows</span>",
+      "year": 1920,
+      "studio": "National Picture Theatres, Inc./Select Pictures Corp",
+      "directors": "Henry Kolker",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "The Palace of Darkened Windows",
+      "work_html_title": "<span class=\"work-title\">The Palace of Darkened Windows</span>",
+      "work_id": 323
+    },
+    {
+      "id": 385,
+      "slug": "the-40th-door-1924",
+      "title": "The 40th Door",
+      "html_title": "<span class=\"film-title\">The 40th Door</span>",
+      "year": 1924,
+      "studio": "Pathé Exchange",
+      "directors": "George B. Seitz",
+      "genres": [
+        "Adventure"
+      ],
+      "has_media": true,
+      "work_title": "The Fortieth Door",
+      "work_html_title": "<span class=\"work-title\">The Fortieth Door</span>",
+      "work_id": 322
+    },
+    {
+      "id": 387,
+      "slug": "i-passed-for-white-1960",
+      "title": "I Passed for White",
+      "html_title": "<span class=\"film-title\">I Passed for White</span>",
+      "year": 1960,
+      "studio": "Allied Artists",
+      "directors": "Fred M. Wilcox",
+      "genres": [
+        "Drama",
+        "Social"
+      ],
+      "has_media": false,
+      "work_title": "I Passed for White",
+      "work_html_title": "<span class=\"work-title\">I Passed for White</span>",
+      "work_id": 324
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 323,
+      "slug": "the-palace-of-darkened-windows",
+      "title": "The Palace of Darkened Windows",
+      "formatted_title": "The Palace of Darkened Windows",
+      "html_title": "<span class=\"work-title\">The Palace of Darkened Windows</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 322,
+      "slug": "the-fortieth-door",
+      "title": "The Fortieth Door",
+      "formatted_title": "The Fortieth Door",
+      "html_title": "<span class=\"work-title\">The Fortieth Door</span>",
+      "work_type": "novel",
+      "publication_year": 1920,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 324,
+      "slug": "i-passed-for-white",
+      "title": "I Passed for White",
+      "formatted_title": "I Passed for White",
+      "html_title": "<span class=\"work-title\">I Passed for White</span>",
+      "work_type": "novel",
+      "publication_year": 1955,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 323,
+    "slug": "the-palace-of-darkened-windows",
+    "title": "The Palace of Darkened Windows",
+    "formatted_title": "The Palace of Darkened Windows",
+    "html_title": "<span class=\"work-title\">The Palace of Darkened Windows</span>",
+    "work_type": "novel",
+    "publication_year": 1914,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:52:56.016183"
+}

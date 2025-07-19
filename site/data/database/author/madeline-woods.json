@@ -1,0 +1,78 @@
+{
+  "id": 505,
+  "slug": "madeline-woods",
+  "name": "Madeline Woods",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1938,
+    "last_adaptation": 1938,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1113,
+      "slug": "slander-house-1938",
+      "title": "Slander House",
+      "html_title": "<span class=\"film-title\">Slander House</span>",
+      "year": 1938,
+      "studio": "Progressive Pictures",
+      "directors": "Charles Lamont",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Scandal House",
+      "work_html_title": "<span class=\"work-title\">Scandal House</span>",
+      "work_id": 1000
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 1000,
+      "slug": "scandal-house",
+      "title": "Scandal House",
+      "formatted_title": "Scandal House",
+      "html_title": "<span class=\"work-title\">Scandal House</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 1000,
+    "slug": "scandal-house",
+    "title": "Scandal House",
+    "formatted_title": "Scandal House",
+    "html_title": "<span class=\"work-title\">Scandal House</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:53:32.292162"
+}

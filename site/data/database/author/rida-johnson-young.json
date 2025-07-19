@@ -1,0 +1,170 @@
+{
+  "id": 509,
+  "slug": "rida-johnson-young",
+  "name": "Rida Johnson Young",
+  "birth_year": 1869,
+  "death_year": 1926,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American playwright and songwriter (1869–1926). Born in Baltimore. Died in Stamford. Occupations: stage actor, songwriter, librettist, lyricist, writer, playwright",
+  "author_notes": null,
+  "wikidata_id": "Q7332345",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 3,
+    "first_adaptation": 1918,
+    "last_adaptation": 1930,
+    "year_span": 12,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 2
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "College",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1920": 2,
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1119,
+      "slug": "brown-of-harvard-1918",
+      "title": "Brown of Harvard",
+      "html_title": "<span class=\"film-title\">Brown of Harvard</span>",
+      "year": 1918,
+      "studio": "Selig Polyscope",
+      "directors": "Harry Beaumont",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Brown of Harvard",
+      "work_html_title": "<span class=\"work-title\">Brown of Harvard</span>",
+      "work_id": 1005
+    },
+    {
+      "id": 1120,
+      "slug": "brown-of-harvard-1926",
+      "title": "Brown of Harvard",
+      "html_title": "<span class=\"film-title\">Brown of Harvard</span>",
+      "year": 1926,
+      "studio": "MGM",
+      "directors": "Jack Conway",
+      "genres": [
+        "Romance",
+        "College"
+      ],
+      "has_media": false,
+      "work_title": "Brown of Harvard",
+      "work_html_title": "<span class=\"work-title\">Brown of Harvard</span>",
+      "work_id": 1005
+    },
+    {
+      "id": 1117,
+      "slug": "mother-machree-1928",
+      "title": "Mother Machree",
+      "html_title": "<span class=\"film-title\">Mother Machree</span>",
+      "year": 1928,
+      "studio": "Fox Film",
+      "directors": "John Ford",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "The Story of Mother Machree",
+      "work_html_title": "<span class=\"work-title\">The Story of Mother Machree</span>",
+      "work_id": 1004
+    },
+    {
+      "id": 1118,
+      "slug": "hell-harbor-1930",
+      "title": "Hell Harbor",
+      "html_title": "<span class=\"film-title\">Hell Harbor</span>",
+      "year": 1930,
+      "studio": "Inspiration Pictures",
+      "directors": "Henry King",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "Out of the Night",
+      "work_html_title": "<span class=\"work-title\">Out of the Night</span>",
+      "work_id": 1007
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 1005,
+      "slug": "brown-of-harvard",
+      "title": "Brown of Harvard",
+      "formatted_title": "Brown of Harvard",
+      "html_title": "<span class=\"work-title\">Brown of Harvard</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1004,
+      "slug": "the-story-of-mother-machree",
+      "title": "The Story of Mother Machree",
+      "formatted_title": "The Story of Mother Machree",
+      "html_title": "<span class=\"work-title\">The Story of Mother Machree</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1007,
+      "slug": "out-of-the-night",
+      "title": "Out of the Night",
+      "formatted_title": "Out of the Night",
+      "html_title": "<span class=\"work-title\">Out of the Night</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 1005,
+    "slug": "brown-of-harvard",
+    "title": "Brown of Harvard",
+    "formatted_title": "Brown of Harvard",
+    "html_title": "<span class=\"work-title\">Brown of Harvard</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:55:21.440439"
+}

@@ -1,0 +1,85 @@
+{
+  "id": 60,
+  "slug": "humoresque",
+  "title": "Humoresque",
+  "formatted_title": "Humoresque",
+  "html_title": "<span class=\"work-title\">Humoresque</span>",
+  "work_type": "novel",
+  "publication_year": 1919,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 25,
+    "slug": "fannie-hurst",
+    "name": "Fannie Hurst",
+    "birth_year": 1889,
+    "death_year": 1968,
+    "film_count": 27
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 26,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 26
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 63,
+      "slug": "humoresque-1920",
+      "title": "Humoresque",
+      "html_title": "<span class=\"film-title\">Humoresque</span>",
+      "year": 1920,
+      "studio": "Cosmopolitan",
+      "directors": "Frank Borzage",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 1
+    },
+    {
+      "id": 283,
+      "slug": "humoresque-1946",
+      "title": "Humoresque",
+      "html_title": "<span class=\"film-title\">Humoresque</span>",
+      "year": 1946,
+      "studio": "Warner Bros",
+      "directors": "Jean Negulesco",
+      "genres": [
+        "Melodrama",
+        "with songs"
+      ],
+      "has_media": true,
+      "years_after_publication": 27
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1920,
+      "to_year": 1946,
+      "gap_years": 26
+    }
+  ],
+  "photoplay_edition": {
+    "year": 1946,
+    "publisher": "Forum",
+    "notes": "5 pictures plus 6 on end papers",
+    "count": 0
+  },
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T16:37:30.448342"
+}

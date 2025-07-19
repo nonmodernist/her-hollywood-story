@@ -1,0 +1,83 @@
+{
+  "id": 11,
+  "slug": "alice-macgowan",
+  "name": "Alice MacGowan",
+  "birth_year": 1858,
+  "death_year": 1947,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author. Born in Perrysburg. Died in Los Gatos. Occupations: novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q13563114",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1916,
+    "last_adaptation": 1916,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Rural",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 20,
+      "slug": "judith-of-the-cumberlands-1916",
+      "title": "Judith of the Cumberlands",
+      "html_title": "<span class=\"film-title\">Judith of the Cumberlands</span>",
+      "year": 1916,
+      "studio": "Signal Film Corp.",
+      "directors": "J. P. McGowan",
+      "genres": [
+        "Drama",
+        "Rural"
+      ],
+      "has_media": true,
+      "work_title": "Judith of the Cumberlands",
+      "work_html_title": "<span class=\"work-title\">Judith of the Cumberlands</span>",
+      "work_id": 18
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 18,
+      "slug": "judith-of-the-cumberlands",
+      "title": "Judith of the Cumberlands",
+      "formatted_title": "Judith of the Cumberlands",
+      "html_title": "<span class=\"work-title\">Judith of the Cumberlands</span>",
+      "work_type": "novel",
+      "publication_year": 1908,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 18,
+    "slug": "judith-of-the-cumberlands",
+    "title": "Judith of the Cumberlands",
+    "formatted_title": "Judith of the Cumberlands",
+    "html_title": "<span class=\"work-title\">Judith of the Cumberlands</span>",
+    "work_type": "novel",
+    "publication_year": 1908,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:36:44.451419"
+}

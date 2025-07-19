@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Not Found - Her Hollywood Story</title>
+    <script>
+        // Handle 404s for SPA routing
+        (function() {
+            const path = window.location.pathname;
+            
+            // If this is a database route, redirect to the database app
+            if (path.startsWith('/database/')) {
+                // Store the intended path
+                sessionStorage.setItem('spa_redirect', path);
+                // Redirect to the database index
+                window.location.replace('/database/');
+            }
+        })();
+    </script>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/base.css">
+    <style>
+        .error-page {
+            text-align: center;
+            padding: 4rem 2rem;
+        }
+        .error-code {
+            font-size: 6rem;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+        }
+        .error-message {
+            font-size: 2rem;
+            margin-bottom: 2rem;
+        }
+        .error-links {
+            display: flex;
+            gap: 2rem;
+            justify-content: center;
+            margin-top: 3rem;
+        }
+    </style>
+</head>
+<body>
+    <header class="site-header">
+        <h1 class="site-title">Her Hollywood Story</h1>
+        <p class="site-subtitle">A Database of Hollywood Films Adapted from American Women Writers</p>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/database">Database</a></li>
+                <li><a href="/patterns/index.html">Patterns</a></li>
+                <li><a href="/about.html">About</a></li>
+                <li><a href="/research.html">Research</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="error-page">
+        <div class="error-code">404</div>
+        <h2 class="error-message">Page Not Found</h2>
+        <p>The page you're looking for doesn't exist.</p>
+        
+        <div class="error-links">
+            <a href="/" class="button">Go Home</a>
+            <a href="/database" class="button">Browse Database</a>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <p>A research project by Alexandra Edwards • Last updated: July 2025</p>
+    </footer>
+</body>
+</html>

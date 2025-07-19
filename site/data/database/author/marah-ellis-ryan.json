@@ -1,0 +1,139 @@
+{
+  "id": 431,
+  "slug": "marah-ellis-ryan",
+  "name": "Marah Ellis Ryan",
+  "birth_year": 1860,
+  "death_year": 1934,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer, actress (1860-1934). Born in Butler County. Occupations: novelist, actor, writer",
+  "author_notes": "aka Ellis Martin",
+  "wikidata_id": "Q6754646",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1919,
+    "last_adaptation": 1921,
+    "year_span": 2,
+    "top_genres": [
+      {
+        "genre": "Western",
+        "count": 2
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1920": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 972,
+      "slug": "told-in-the-hills-1919",
+      "title": "Told in the Hills",
+      "html_title": "<span class=\"film-title\">Told in the Hills</span>",
+      "year": 1919,
+      "studio": "Famous Players-Lasky",
+      "directors": "George Melford",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "Told in the Hills",
+      "work_html_title": "<span class=\"work-title\">Told in the Hills</span>",
+      "work_id": 874
+    },
+    {
+      "id": 970,
+      "slug": "for-the-soul-of-rafael-1920",
+      "title": "For the Soul of Rafael",
+      "html_title": "<span class=\"film-title\">For the Soul of Rafael</span>",
+      "year": 1920,
+      "studio": "Garson Studios",
+      "directors": "Harry Garson",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "For the Soul of Rafael",
+      "work_html_title": "<span class=\"work-title\">For the Soul of Rafael</span>",
+      "work_id": 872
+    },
+    {
+      "id": 971,
+      "slug": "that-girl-montana-1921",
+      "title": "That Girl Montana",
+      "html_title": "<span class=\"film-title\">That Girl Montana</span>",
+      "year": 1921,
+      "studio": "Pathé Exchange",
+      "directors": "Robert Thornby",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "That Girl Montana",
+      "work_html_title": "<span class=\"work-title\">That Girl Montana</span>",
+      "work_id": 873
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 874,
+      "slug": "told-in-the-hills",
+      "title": "Told in the Hills",
+      "formatted_title": "Told in the Hills",
+      "html_title": "<span class=\"work-title\">Told in the Hills</span>",
+      "work_type": "novel",
+      "publication_year": 1892,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 872,
+      "slug": "for-the-soul-of-rafael",
+      "title": "For the Soul of Rafael",
+      "formatted_title": "For the Soul of Rafael",
+      "html_title": "<span class=\"work-title\">For the Soul of Rafael</span>",
+      "work_type": "novel",
+      "publication_year": 1906,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 873,
+      "slug": "that-girl-montana",
+      "title": "That Girl Montana",
+      "formatted_title": "That Girl Montana",
+      "html_title": "<span class=\"work-title\">That Girl Montana</span>",
+      "work_type": "novel",
+      "publication_year": 1901,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 874,
+    "slug": "told-in-the-hills",
+    "title": "Told in the Hills",
+    "formatted_title": "Told in the Hills",
+    "html_title": "<span class=\"work-title\">Told in the Hills</span>",
+    "work_type": "novel",
+    "publication_year": 1892,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:25:56.396642"
+}

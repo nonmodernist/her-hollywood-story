@@ -1,0 +1,139 @@
+{
+  "id": 400,
+  "slug": "eleanor-h-porter",
+  "name": "Eleanor H. Porter",
+  "birth_year": 1868,
+  "death_year": 1920,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American novelist. Born in Littleton. Died in Cambridge. Occupations: writer, children's writer. Notable works: Pollyanna, Miss Billy",
+  "author_notes": null,
+  "wikidata_id": "Q235368",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 2,
+    "first_adaptation": 1919,
+    "last_adaptation": 1960,
+    "year_span": 41,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 3
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      },
+      {
+        "genre": "Youth",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1920": 1,
+      "1960": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 880,
+      "slug": "dawn-1919",
+      "title": "Dawn",
+      "html_title": "<span class=\"film-title\">Dawn</span>",
+      "year": 1919,
+      "studio": "J. Stuart Blackton",
+      "directors": "J. Stuart Blackton",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Dawn",
+      "work_html_title": "<span class=\"work-title\">Dawn</span>",
+      "work_id": 789
+    },
+    {
+      "id": 881,
+      "slug": "pollyanna-1920",
+      "title": "Pollyanna",
+      "html_title": "<span class=\"film-title\">Pollyanna</span>",
+      "year": 1920,
+      "studio": "Mary Pickford",
+      "directors": "Paul Powell",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Pollyanna",
+      "work_html_title": "<span class=\"work-title\">Pollyanna</span>",
+      "work_id": 790
+    },
+    {
+      "id": 882,
+      "slug": "pollyanna-1960",
+      "title": "Pollyanna",
+      "html_title": "<span class=\"film-title\">Pollyanna</span>",
+      "year": 1960,
+      "studio": "Walt Disney ",
+      "directors": "David Swift",
+      "genres": [
+        "Drama",
+        "Domestic",
+        "with songs",
+        "Youth"
+      ],
+      "has_media": false,
+      "work_title": "Pollyanna",
+      "work_html_title": "<span class=\"work-title\">Pollyanna</span>",
+      "work_id": 790
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 790,
+      "slug": "pollyanna",
+      "title": "Pollyanna",
+      "formatted_title": "Pollyanna",
+      "html_title": "<span class=\"work-title\">Pollyanna</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 789,
+      "slug": "dawn",
+      "title": "Dawn",
+      "formatted_title": "Dawn",
+      "html_title": "<span class=\"work-title\">Dawn</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 790,
+    "slug": "pollyanna",
+    "title": "Pollyanna",
+    "formatted_title": "Pollyanna",
+    "html_title": "<span class=\"work-title\">Pollyanna</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T18:25:09.180851"
+}

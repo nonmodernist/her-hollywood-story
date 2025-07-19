@@ -1,0 +1,83 @@
+{
+  "id": 283,
+  "slug": "osa-johnson",
+  "name": "Osa Johnson",
+  "birth_year": 1894,
+  "death_year": 1953,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author and adventurer (1894-1953). Born in Kansas. Died in Hernani. Occupations: singer, documentarian, naturalist, photographer, film director, writer",
+  "author_notes": null,
+  "wikidata_id": "Q2032483",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1940,
+    "last_adaptation": 1940,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Documentary",
+        "count": 1
+      },
+      {
+        "genre": "Compilation",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 671,
+      "slug": "i-married-adventure-1940",
+      "title": "I Married Adventure",
+      "html_title": "<span class=\"film-title\">I Married Adventure</span>",
+      "year": 1940,
+      "studio": "Osa Johnson",
+      "directors": null,
+      "genres": [
+        "Documentary",
+        "Compilation"
+      ],
+      "has_media": false,
+      "work_title": "I Married Adventure",
+      "work_html_title": "<span class=\"work-title\">I Married Adventure</span>",
+      "work_id": 589
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 589,
+      "slug": "i-married-adventure",
+      "title": "I Married Adventure",
+      "formatted_title": "I Married Adventure",
+      "html_title": "<span class=\"work-title\">I Married Adventure</span>",
+      "work_type": "novel",
+      "publication_year": 1916,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 589,
+    "slug": "i-married-adventure",
+    "title": "I Married Adventure",
+    "formatted_title": "I Married Adventure",
+    "html_title": "<span class=\"work-title\">I Married Adventure</span>",
+    "work_type": "novel",
+    "publication_year": 1916,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-06T14:48:37.263725"
+}

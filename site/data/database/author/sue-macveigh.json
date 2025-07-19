@@ -1,0 +1,78 @@
+{
+  "id": 338,
+  "slug": "sue-macveigh",
+  "name": "Sue MacVeigh",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": "pseud of Elizabeth Custer Nearing",
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1942,
+    "last_adaptation": 1942,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Mystery",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 764,
+      "slug": "grand-central-murder-1942",
+      "title": "Grand Central Murder",
+      "html_title": "<span class=\"film-title\">Grand Central Murder</span>",
+      "year": 1942,
+      "studio": "MGM",
+      "directors": "S. Sylvan Simon",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "Grand Central Murder",
+      "work_html_title": "<span class=\"work-title\">Grand Central Murder</span>",
+      "work_id": 678
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 678,
+      "slug": "grand-central-murder",
+      "title": "Grand Central Murder",
+      "formatted_title": "Grand Central Murder",
+      "html_title": "<span class=\"work-title\">Grand Central Murder</span>",
+      "work_type": "novel",
+      "publication_year": 1939,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 678,
+    "slug": "grand-central-murder",
+    "title": "Grand Central Murder",
+    "formatted_title": "Grand Central Murder",
+    "html_title": "<span class=\"work-title\">Grand Central Murder</span>",
+    "work_type": "novel",
+    "publication_year": 1939,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:18:42.615814"
+}

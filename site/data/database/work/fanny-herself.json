@@ -1,0 +1,59 @@
+{
+  "id": 484,
+  "slug": "fanny-herself",
+  "title": "Fanny Herself",
+  "formatted_title": "Fanny Herself",
+  "html_title": "<span class=\"work-title\">Fanny Herself</span>",
+  "work_type": "novel",
+  "publication_year": 1917,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 40,
+    "slug": "edna-ferber",
+    "name": "Edna Ferber",
+    "birth_year": 1885,
+    "death_year": 1968,
+    "film_count": 24
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 4,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 556,
+      "slug": "no-woman-knows-1921",
+      "title": "No Woman Knows",
+      "html_title": "<span class=\"film-title\">No Woman Knows</span>",
+      "year": 1921,
+      "studio": "Universal",
+      "directors": "Tod Browning",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 4
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T14:15:17.106683"
+}

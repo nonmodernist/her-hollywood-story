@@ -1,0 +1,125 @@
+{
+  "id": 50,
+  "slug": "daddy-long-legs",
+  "title": "Daddy-Long-Legs",
+  "formatted_title": "Daddy-Long-Legs",
+  "html_title": "<span class=\"work-title\">Daddy-Long-Legs</span>",
+  "work_type": "novel",
+  "publication_year": 1912,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 27,
+    "slug": "jean-webster",
+    "name": "Jean Webster",
+    "birth_year": 1876,
+    "death_year": 1916,
+    "film_count": 4
+  },
+  "stats": {
+    "adaptation_count": 4,
+    "year_span": 36,
+    "is_remake_champion": true,
+    "average_gap_between_adaptations": 12
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 7,
+    "is_remake_champion": true,
+    "remake_champion_rank": 6
+  },
+  "adaptations": [
+    {
+      "id": 52,
+      "slug": "daddy-long-legs-1919",
+      "title": "Daddy-Long-Legs",
+      "html_title": "<span class=\"film-title\">Daddy-Long-Legs</span>",
+      "year": 1919,
+      "studio": "Mary Pickford",
+      "directors": "Marshall A. Neilan",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "years_after_publication": 7
+    },
+    {
+      "id": 184,
+      "slug": "daddy-long-legs-1931",
+      "title": "Daddy Long Legs",
+      "html_title": "<span class=\"film-title\">Daddy Long Legs</span>",
+      "year": 1931,
+      "studio": "Fox Film",
+      "directors": "Alfred Santell",
+      "genres": [
+        "Comedy-drama",
+        "Youth"
+      ],
+      "has_media": true,
+      "years_after_publication": 19
+    },
+    {
+      "id": 228,
+      "slug": "curly-top-1935",
+      "title": "Curly Top",
+      "html_title": "<span class=\"film-title\">Curly Top</span>",
+      "year": 1935,
+      "studio": "Fox Film",
+      "directors": "Irving Cummings",
+      "genres": [
+        "Comedy-drama",
+        "Youth"
+      ],
+      "has_media": false,
+      "years_after_publication": 23
+    },
+    {
+      "id": 330,
+      "slug": "daddy-long-legs-1955",
+      "title": "Daddy Long Legs",
+      "html_title": "<span class=\"film-title\">Daddy Long Legs</span>",
+      "year": 1955,
+      "studio": "20th Century Fox",
+      "directors": "Jean Negulesco",
+      "genres": [
+        "Musical",
+        "Romance"
+      ],
+      "has_media": true,
+      "years_after_publication": 43
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1919,
+      "to_year": 1931,
+      "gap_years": 12
+    },
+    {
+      "from_year": 1931,
+      "to_year": 1935,
+      "gap_years": 4
+    },
+    {
+      "from_year": 1935,
+      "to_year": 1955,
+      "gap_years": 20
+    }
+  ],
+  "photoplay_edition": {
+    "year": 1919,
+    "publisher": "Grosset & Dunlap",
+    "notes": "1919: 6 pictures plus drawings. 1931: 4 pictures plus end papers.",
+    "count": 0
+  },
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T16:28:33.367842"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 457,
+  "slug": "ramona-stewart",
+  "name": "Ramona Stewart",
+  "birth_year": 1922,
+  "death_year": 2006,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American novelist. Born in San Francisco. Died in Key West. Occupations: novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q68878627",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1947,
+    "last_adaptation": 1947,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1005,
+      "slug": "desert-fury-1947",
+      "title": "Desert Fury",
+      "html_title": "<span class=\"film-title\">Desert Fury</span>",
+      "year": 1947,
+      "studio": "Hal Wallis Productions",
+      "directors": "Lewis Allen",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Desert Fury",
+      "work_html_title": "<span class=\"work-title\">Desert Fury</span>",
+      "work_id": 904
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 904,
+      "slug": "desert-fury",
+      "title": "Desert Fury",
+      "formatted_title": "Desert Fury",
+      "html_title": "<span class=\"work-title\">Desert Fury</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 904,
+    "slug": "desert-fury",
+    "title": "Desert Fury",
+    "formatted_title": "Desert Fury",
+    "html_title": "<span class=\"work-title\">Desert Fury</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:26:25.06039"
+}

@@ -1,0 +1,191 @@
+{
+  "id": 268,
+  "slug": "mary-jane-holmes",
+  "name": "Mary Jane Holmes",
+  "birth_year": 1828,
+  "death_year": 1907,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "novelist. Born in Brookfield. Died in Brockport. Occupations: writer, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q6779878",
+  "stats": {
+    "total_films": 6,
+    "works_adapted": 2,
+    "first_adaptation": 1910,
+    "last_adaptation": 1932,
+    "year_span": 22,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 5
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Horse race",
+        "count": 1
+      },
+      {
+        "genre": "Rural",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 4,
+      "1920": 1,
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1122,
+      "slug": "lena-rivers-1910",
+      "title": "Lena Rivers",
+      "html_title": "<span class=\"film-title\">Lena Rivers</span>",
+      "year": 1910,
+      "studio": "Thanhouser",
+      "directors": null,
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Lena Rivers",
+      "work_html_title": "<span class=\"work-title\">Lena Rivers</span>",
+      "work_id": 568
+    },
+    {
+      "id": 646,
+      "slug": "lena-rivers-1914",
+      "title": "Lena Rivers",
+      "html_title": "<span class=\"film-title\">Lena Rivers</span>",
+      "year": 1914,
+      "studio": "Whitman Features",
+      "directors": null,
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Lena Rivers",
+      "work_html_title": "<span class=\"work-title\">Lena Rivers</span>",
+      "work_id": 568
+    },
+    {
+      "id": 647,
+      "slug": "lena-rivers-1914",
+      "title": "Lena Rivers",
+      "html_title": "<span class=\"film-title\">Lena Rivers</span>",
+      "year": 1914,
+      "studio": "Cosmos",
+      "directors": null,
+      "genres": [
+        "Melodrama",
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "Lena Rivers",
+      "work_html_title": "<span class=\"work-title\">Lena Rivers</span>",
+      "work_id": 568
+    },
+    {
+      "id": 650,
+      "slug": "tempest-and-sunshine-1916",
+      "title": "Tempest and Sunshine",
+      "html_title": "<span class=\"film-title\">Tempest and Sunshine</span>",
+      "year": 1916,
+      "studio": "Dixie Film",
+      "directors": "Carlton King|Warren Hughes",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Tempest and Sunshine",
+      "work_html_title": "<span class=\"work-title\">Tempest and Sunshine</span>",
+      "work_id": 569
+    },
+    {
+      "id": 648,
+      "slug": "lena-rivers-1925",
+      "title": "Lena Rivers",
+      "html_title": "<span class=\"film-title\">Lena Rivers</span>",
+      "year": 1925,
+      "studio": "Chord Pictures",
+      "directors": "Whitman Bennett",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Lena Rivers",
+      "work_html_title": "<span class=\"work-title\">Lena Rivers</span>",
+      "work_id": 568
+    },
+    {
+      "id": 649,
+      "slug": "lena-rivers-1932",
+      "title": "Lena Rivers",
+      "html_title": "<span class=\"film-title\">Lena Rivers</span>",
+      "year": 1932,
+      "studio": "Tiffany Productions",
+      "directors": "Phil Rosen",
+      "genres": [
+        "Melodrama",
+        "Horse race",
+        "Rural"
+      ],
+      "has_media": true,
+      "work_title": "Lena Rivers",
+      "work_html_title": "<span class=\"work-title\">Lena Rivers</span>",
+      "work_id": 568
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 568,
+      "slug": "lena-rivers",
+      "title": "Lena Rivers",
+      "formatted_title": "Lena Rivers",
+      "html_title": "<span class=\"work-title\">Lena Rivers</span>",
+      "work_type": "novel",
+      "publication_year": 1869,
+      "genre": null,
+      "adaptation_count": 5,
+      "is_remake_champion": true
+    },
+    {
+      "id": 569,
+      "slug": "tempest-and-sunshine",
+      "title": "Tempest and Sunshine",
+      "formatted_title": "Tempest and Sunshine",
+      "html_title": "<span class=\"work-title\">Tempest and Sunshine</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 568,
+    "slug": "lena-rivers",
+    "title": "Lena Rivers",
+    "formatted_title": "Lena Rivers",
+    "html_title": "<span class=\"work-title\">Lena Rivers</span>",
+    "work_type": "novel",
+    "publication_year": 1869,
+    "genre": null,
+    "adaptation_count": 5,
+    "is_remake_champion": true
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:23:21.268283"
+}

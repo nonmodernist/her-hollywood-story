@@ -1,0 +1,83 @@
+{
+  "id": 312,
+  "slug": "grace-sothcote-leake",
+  "name": "Grace Sothcote Leake",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1933,
+    "last_adaptation": 1933,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Social",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 732,
+      "slug": "bondage-1933",
+      "title": "Bondage",
+      "html_title": "<span class=\"film-title\">Bondage</span>",
+      "year": 1933,
+      "studio": "Fox Film",
+      "directors": "Alfred Santell",
+      "genres": [
+        "Melodrama",
+        "Social"
+      ],
+      "has_media": false,
+      "work_title": "House of Refuge",
+      "work_html_title": "<span class=\"work-title\">House of Refuge</span>",
+      "work_id": 646
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 646,
+      "slug": "house-of-refuge",
+      "title": "House of Refuge",
+      "formatted_title": "House of Refuge",
+      "html_title": "<span class=\"work-title\">House of Refuge</span>",
+      "work_type": "novel",
+      "publication_year": 1932,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 646,
+    "slug": "house-of-refuge",
+    "title": "House of Refuge",
+    "formatted_title": "House of Refuge",
+    "html_title": "<span class=\"work-title\">House of Refuge</span>",
+    "work_type": "novel",
+    "publication_year": 1932,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:54:06.660067"
+}

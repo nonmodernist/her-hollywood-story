@@ -1,0 +1,263 @@
+{
+  "id": 32,
+  "slug": "katharine-newlin-burt",
+  "name": "Katharine Newlin Burt",
+  "birth_year": 1882,
+  "death_year": 1977,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American novelist and film scenarist (1882-1977). Occupations: novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q47993548",
+  "stats": {
+    "total_films": 7,
+    "works_adapted": 7,
+    "first_adaptation": 1920,
+    "last_adaptation": 1927,
+    "year_span": 7,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 4
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      },
+      {
+        "genre": "Romance",
+        "count": 1
+      },
+      {
+        "genre": "Western",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 7
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 71,
+      "slug": "the-branding-iron-1920",
+      "title": "The Branding Iron",
+      "html_title": "<span class=\"film-title\">The Branding Iron</span>",
+      "year": 1920,
+      "studio": "Goldwyn Pictures",
+      "directors": "Reginald Barker",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Branding Iron",
+      "work_html_title": "<span class=\"work-title\">The Branding Iron</span>",
+      "work_id": 68
+    },
+    {
+      "id": 84,
+      "slug": "snowblind-1921",
+      "title": "Snowblind",
+      "html_title": "<span class=\"film-title\">Snowblind</span>",
+      "year": 1921,
+      "studio": "Goldwyn Pictures",
+      "directors": "Reginald Barker",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "\"Snowblind\"",
+      "work_html_title": "<span class=\"work-title\">\"Snowblind\"</span>",
+      "work_id": 81
+    },
+    {
+      "id": 94,
+      "slug": "singed-wings-1922",
+      "title": "Singed Wings",
+      "html_title": "<span class=\"film-title\">Singed Wings</span>",
+      "year": 1922,
+      "studio": "Famous Players-Lasky",
+      "directors": "Penrhyn Stanlaws",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "\"Singed Wings\"",
+      "work_html_title": "<span class=\"work-title\">\"Singed Wings\"</span>",
+      "work_id": 90
+    },
+    {
+      "id": 102,
+      "slug": "the-leopardess-1923",
+      "title": "The Leopardess",
+      "html_title": "<span class=\"film-title\">The Leopardess</span>",
+      "year": 1923,
+      "studio": "Famous Players-Lasky",
+      "directors": "Henry Kolker",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "\"The Leopardess\"",
+      "work_html_title": "<span class=\"work-title\">\"The Leopardess\"</span>",
+      "work_id": 98
+    },
+    {
+      "id": 122,
+      "slug": "the-way-of-a-girl-1925",
+      "title": "The Way of a Girl",
+      "html_title": "<span class=\"film-title\">The Way of a Girl</span>",
+      "year": 1925,
+      "studio": "Metro-Goldwyn",
+      "directors": "Robert G. Vignola",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "\"Summoned\"",
+      "work_html_title": "<span class=\"work-title\">\"Summoned\"</span>",
+      "work_id": 117
+    },
+    {
+      "id": 145,
+      "slug": "body-and-soul-1927",
+      "title": "Body and Soul",
+      "html_title": "<span class=\"film-title\">Body and Soul</span>",
+      "year": 1927,
+      "studio": "MGM",
+      "directors": "Reginald Barker",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": true,
+      "work_title": "Body and Soul",
+      "work_html_title": "<span class=\"work-title\">Body and Soul</span>",
+      "work_id": 138
+    },
+    {
+      "id": 146,
+      "slug": "the-silent-rider-1927",
+      "title": "The Silent Rider",
+      "html_title": "<span class=\"film-title\">The Silent Rider</span>",
+      "year": 1927,
+      "studio": "Universal",
+      "directors": "Lynn Reynolds",
+      "genres": [
+        "Western"
+      ],
+      "has_media": true,
+      "work_title": "\"The Red-Headed Husband\"",
+      "work_html_title": "<span class=\"work-title\">\"The Red-Headed Husband\"</span>",
+      "work_id": 139
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 68,
+      "slug": "the-branding-iron",
+      "title": "The Branding Iron",
+      "formatted_title": "The Branding Iron",
+      "html_title": "<span class=\"work-title\">The Branding Iron</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 81,
+      "slug": "snowblind",
+      "title": "\"Snowblind\"",
+      "formatted_title": "\"Snowblind\"",
+      "html_title": "<span class=\"work-title\">\"Snowblind\"</span>",
+      "work_type": "novel",
+      "publication_year": 1920,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 90,
+      "slug": "singed-wings",
+      "title": "\"Singed Wings\"",
+      "formatted_title": "\"Singed Wings\"",
+      "html_title": "<span class=\"work-title\">\"Singed Wings\"</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 98,
+      "slug": "the-leopardess",
+      "title": "\"The Leopardess\"",
+      "formatted_title": "\"The Leopardess\"",
+      "html_title": "<span class=\"work-title\">\"The Leopardess\"</span>",
+      "work_type": "novel",
+      "publication_year": 1923,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 117,
+      "slug": "summoned",
+      "title": "\"Summoned\"",
+      "formatted_title": "\"Summoned\"",
+      "html_title": "<span class=\"work-title\">\"Summoned\"</span>",
+      "work_type": "novel",
+      "publication_year": 1923,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 138,
+      "slug": "body-and-soul",
+      "title": "Body and Soul",
+      "formatted_title": "Body and Soul",
+      "html_title": "<span class=\"work-title\">Body and Soul</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 139,
+      "slug": "the-red-headed-husband",
+      "title": "\"The Red-Headed Husband\"",
+      "formatted_title": "\"The Red-Headed Husband\"",
+      "html_title": "<span class=\"work-title\">\"The Red-Headed Husband\"</span>",
+      "work_type": "novel",
+      "publication_year": 1926,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 68,
+    "slug": "the-branding-iron",
+    "title": "The Branding Iron",
+    "formatted_title": "The Branding Iron",
+    "html_title": "<span class=\"work-title\">The Branding Iron</span>",
+    "work_type": "novel",
+    "publication_year": 1919,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:10.674164"
+}

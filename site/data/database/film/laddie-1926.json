@@ -1,0 +1,104 @@
+{
+  "id": 126,
+  "slug": "laddie-1926",
+  "title": "Laddie",
+  "formatted_title": "Laddie",
+  "html_title": "<span class=\"film-title\">Laddie</span>",
+  "release_year": 1926,
+  "runtime_minutes": null,
+  "country_of_production": null,
+  "genres": [
+    "Romance"
+  ],
+  "studio": "Gene Stratton Porter Productions",
+  "production_companies": "Gene Stratton-Porter Productions",
+  "distribution_companies": "Film Booking Offices of America ",
+  "directors": "James Leo Meehan",
+  "writers": "Jeanette Porter Meehan",
+  "cast_members": "John Bowers|Bess Flowers|Theodore Von Eltz|Eugenia Gilbert|David Torrence|Eulalie Jensen|Arthur Clayton|Fanny Midgley|Aggie Herring|Gene Stratton",
+  "color_info": null,
+  "adaptation_notes": null,
+  "afi_catalog_id": 1546,
+  "source_work": {
+    "id": 120,
+    "slug": "laddie",
+    "title": "Laddie",
+    "formatted_title": "Laddie",
+    "html_title": "<span class=\"work-title\">Laddie</span>",
+    "work_type": "novel",
+    "publication_year": 1913,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 3,
+    "year_to_adaptation": 13
+  },
+  "author": {
+    "id": 12,
+    "slug": "gene-stratton-porter",
+    "name": "Gene Stratton-Porter",
+    "birth_year": 1863,
+    "death_year": 1924,
+    "nationality": "United States",
+    "film_count": 21
+  },
+  "other_adaptations": [
+    {
+      "id": 224,
+      "slug": "laddie-1935",
+      "title": "Laddie",
+      "html_title": "<span class=\"film-title\">Laddie</span>",
+      "year": 1935,
+      "directors": "George Stevens",
+      "studio": "RKO"
+    },
+    {
+      "id": 258,
+      "slug": "laddie-1940",
+      "title": "Laddie",
+      "html_title": "<span class=\"film-title\">Laddie</span>",
+      "year": 1940,
+      "directors": "Jack Hively",
+      "studio": "RKO"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 3,
+    "adaptation_number": 1,
+    "is_first": true,
+    "is_latest": false
+  },
+  "media": [
+    {
+      "id": 456,
+      "media_type": "advertisement",
+      "title": "Laddie (1926) - 1.jpg",
+      "caption": "Advertisement for the American drama film Laddie (1926) with an image of the book author Gene Stratton-Porter, from the advertising front section of the July 10, 1926 Motion Picture News.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Laddie_%281926%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Laddie_%281926%29_-_1.jpg/300px-Laddie_%281926%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Laddie_(1926)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Film Booking Offices of America",
+      "is_featured": "False"
+    },
+    {
+      "id": 457,
+      "media_type": "poster",
+      "title": "Laddie1926.jpg",
+      "caption": "This is an image of the poster for the 1926 film Laddie, printed by the Otis Lithograph Co., Cleveland, Ohio.The poster has an image of the book's author Gene Stratton-Porter.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Laddie1926.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Laddie1926.jpg/300px-Laddie1926.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Laddie1926.jpg",
+      "license": "public_domain",
+      "attribution": "Film Booking Offices of America",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

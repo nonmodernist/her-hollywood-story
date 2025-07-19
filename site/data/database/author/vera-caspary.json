@@ -1,0 +1,209 @@
+{
+  "id": 59,
+  "slug": "vera-caspary",
+  "name": "Vera Caspary",
+  "birth_year": 1899,
+  "death_year": 1987,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1899–1987). Born in Chicago. Died in New York City. Occupations: playwright, screenwriter, novelist, writer. Notable works: Laura, Bedelia",
+  "author_notes": null,
+  "wikidata_id": "Q1645179",
+  "stats": {
+    "total_films": 5,
+    "works_adapted": 5,
+    "first_adaptation": 1931,
+    "last_adaptation": 1953,
+    "year_span": 22,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Film noir",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Mystery",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 3,
+      "1940": 1,
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 181,
+      "slug": "working-girls-1931",
+      "title": "Working Girls",
+      "html_title": "<span class=\"film-title\">Working Girls</span>",
+      "year": 1931,
+      "studio": "Paramount",
+      "directors": "Dorothy Arzner",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "Music in the Street",
+      "work_html_title": "<span class=\"work-title\">Music in the Street</span>",
+      "work_id": 167
+    },
+    {
+      "id": 458,
+      "slug": "the-night-of-june-13-1932",
+      "title": "The Night of June 13",
+      "html_title": "<span class=\"film-title\">The Night of June 13</span>",
+      "year": 1932,
+      "studio": "Paramount",
+      "directors": "Stephen Roberts",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Suburbs",
+      "work_html_title": "<span class=\"work-title\">Suburbs</span>",
+      "work_id": 389
+    },
+    {
+      "id": 459,
+      "slug": "such-women-are-dangerous-1934",
+      "title": "Such Women Are Dangerous",
+      "html_title": "<span class=\"film-title\">Such Women Are Dangerous</span>",
+      "year": 1934,
+      "studio": "Fox Film",
+      "directors": "James Flood",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Odd Thursday",
+      "work_html_title": "<span class=\"work-title\">Odd Thursday</span>",
+      "work_id": 390
+    },
+    {
+      "id": 276,
+      "slug": "laura-1944",
+      "title": "Laura",
+      "html_title": "<span class=\"film-title\">Laura</span>",
+      "year": 1944,
+      "studio": "20th Century Fox",
+      "directors": "Otto Preminger",
+      "genres": [
+        "Film noir"
+      ],
+      "has_media": true,
+      "work_title": "Laura",
+      "work_html_title": "<span class=\"work-title\">Laura</span>",
+      "work_id": 232
+    },
+    {
+      "id": 457,
+      "slug": "the-blue-gardenia-1953",
+      "title": "The Blue Gardenia",
+      "html_title": "<span class=\"film-title\">The Blue Gardenia</span>",
+      "year": 1953,
+      "studio": "Gottlieb Productions",
+      "directors": "Fritz Lang",
+      "genres": [
+        "Melodrama",
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "Gardenia",
+      "work_html_title": "<span class=\"work-title\">Gardenia</span>",
+      "work_id": 388
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 167,
+      "slug": "music-in-the-street",
+      "title": "Music in the Street",
+      "formatted_title": "Music in the Street",
+      "html_title": "<span class=\"work-title\">Music in the Street</span>",
+      "work_type": "novel",
+      "publication_year": 1930,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 389,
+      "slug": "suburbs",
+      "title": "Suburbs",
+      "formatted_title": "Suburbs",
+      "html_title": "<span class=\"work-title\">Suburbs</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 390,
+      "slug": "odd-thursday",
+      "title": "Odd Thursday",
+      "formatted_title": "Odd Thursday",
+      "html_title": "<span class=\"work-title\">Odd Thursday</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 232,
+      "slug": "laura",
+      "title": "Laura",
+      "formatted_title": "Laura",
+      "html_title": "<span class=\"work-title\">Laura</span>",
+      "work_type": "novel",
+      "publication_year": 1943,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 388,
+      "slug": "gardenia",
+      "title": "Gardenia",
+      "formatted_title": "Gardenia",
+      "html_title": "<span class=\"work-title\">Gardenia</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 167,
+    "slug": "music-in-the-street",
+    "title": "Music in the Street",
+    "formatted_title": "Music in the Street",
+    "html_title": "<span class=\"work-title\">Music in the Street</span>",
+    "work_type": "novel",
+    "publication_year": 1930,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:49.447433"
+}

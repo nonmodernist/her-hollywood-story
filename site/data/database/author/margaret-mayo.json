@@ -1,0 +1,83 @@
+{
+  "id": 354,
+  "slug": "margaret-mayo",
+  "name": "Margaret Mayo",
+  "birth_year": 1882,
+  "death_year": 1951,
+  "nationality": "United Kingdom",
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": "pseud of Lillian Elizabeth Slatten",
+  "wikidata_id": "Q2080961",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1914,
+    "last_adaptation": 1914,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Show business",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 793,
+      "slug": "behind-the-scenes-1914",
+      "title": "Behind the Scenes",
+      "html_title": "<span class=\"film-title\">Behind the Scenes</span>",
+      "year": 1914,
+      "studio": "Famous Players",
+      "directors": "James Kirkwood",
+      "genres": [
+        "Drama",
+        "Show business"
+      ],
+      "has_media": false,
+      "work_title": "Behind the Lines",
+      "work_html_title": "<span class=\"work-title\">Behind the Lines</span>",
+      "work_id": 707
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 707,
+      "slug": "behind-the-lines",
+      "title": "Behind the Lines",
+      "formatted_title": "Behind the Lines",
+      "html_title": "<span class=\"work-title\">Behind the Lines</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 707,
+    "slug": "behind-the-lines",
+    "title": "Behind the Lines",
+    "formatted_title": "Behind the Lines",
+    "html_title": "<span class=\"work-title\">Behind the Lines</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T18:29:41.861185"
+}

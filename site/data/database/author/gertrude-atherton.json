@@ -1,0 +1,293 @@
+{
+  "id": 16,
+  "slug": "gertrude-atherton",
+  "name": "Gertrude Atherton",
+  "birth_year": 1857,
+  "death_year": 1948,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author (1857–1948). Born in San Francisco. Died in San Francisco. Occupations: screenwriter, novelist, non-fiction writer, writer",
+  "author_notes": null,
+  "wikidata_id": "Q137679",
+  "stats": {
+    "total_films": 8,
+    "works_adapted": 8,
+    "first_adaptation": 1917,
+    "last_adaptation": 1933,
+    "year_span": 16,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 4
+      },
+      {
+        "genre": "Melodrama",
+        "count": 2
+      },
+      {
+        "genre": "Mystery",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      },
+      {
+        "genre": "Romance",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 3,
+      "1920": 4,
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 27,
+      "slug": "mrs-balfame-1917",
+      "title": "Mrs. Balfame",
+      "html_title": "<span class=\"film-title\">Mrs. Balfame</span>",
+      "year": 1917,
+      "studio": "Mutual Film Corp",
+      "directors": "Frank Powell",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": true,
+      "work_title": "Mrs. Balfame",
+      "work_html_title": "<span class=\"work-title\">Mrs. Balfame</span>",
+      "work_id": 25
+    },
+    {
+      "id": 36,
+      "slug": "the-panther-woman-1918",
+      "title": "The Panther Woman",
+      "html_title": "<span class=\"film-title\">The Panther Woman</span>",
+      "year": 1918,
+      "studio": "Petrova",
+      "directors": "Ralph Ince",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Patience Sparhawk and Her Times",
+      "work_html_title": "<span class=\"work-title\">Patience Sparhawk and Her Times</span>",
+      "work_id": 34
+    },
+    {
+      "id": 349,
+      "slug": "the-avalanche-1919",
+      "title": "The Avalanche",
+      "html_title": "<span class=\"film-title\">The Avalanche</span>",
+      "year": 1919,
+      "studio": "Famous Players-Lasky",
+      "directors": "George Fitzmaurice",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Avalanche: A Mystery Story",
+      "work_html_title": "<span class=\"work-title\">The Avalanche: A Mystery Story</span>",
+      "work_id": 287
+    },
+    {
+      "id": 67,
+      "slug": "out-of-the-storm-1920",
+      "title": "Out of the Storm",
+      "html_title": "<span class=\"film-title\">Out of the Storm</span>",
+      "year": 1920,
+      "studio": "Goldwyn Pictures",
+      "directors": "William Parke",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Tower of Ivory",
+      "work_html_title": "<span class=\"work-title\">Tower of Ivory</span>",
+      "work_id": 64
+    },
+    {
+      "id": 98,
+      "slug": "black-oxen-1923",
+      "title": "Black Oxen",
+      "html_title": "<span class=\"film-title\">Black Oxen</span>",
+      "year": 1923,
+      "studio": "Frank Lloyd Productions",
+      "directors": "Frank Lloyd",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "Black Oxen",
+      "work_html_title": "<span class=\"work-title\">Black Oxen</span>",
+      "work_id": 94
+    },
+    {
+      "id": 141,
+      "slug": "perch-of-the-devil-1927",
+      "title": "Perch of the Devil",
+      "html_title": "<span class=\"film-title\">Perch of the Devil</span>",
+      "year": 1927,
+      "studio": "Universal",
+      "directors": "King Baggot",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "The Perch of the Devil",
+      "work_html_title": "<span class=\"work-title\">The Perch of the Devil</span>",
+      "work_id": 134
+    },
+    {
+      "id": 140,
+      "slug": "the-crystal-cup-1927",
+      "title": "The Crystal Cup",
+      "html_title": "<span class=\"film-title\">The Crystal Cup</span>",
+      "year": 1927,
+      "studio": "First National",
+      "directors": "John Francis Dillon",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": true,
+      "work_title": "The Crystal Cup",
+      "work_html_title": "<span class=\"work-title\">The Crystal Cup</span>",
+      "work_id": 133
+    },
+    {
+      "id": 350,
+      "slug": "the-woman-accused-1933",
+      "title": "The Woman Accused",
+      "html_title": "<span class=\"film-title\">The Woman Accused</span>",
+      "year": 1933,
+      "studio": "Paramount",
+      "directors": "Paul Sloane",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Woman Accused",
+      "work_html_title": "<span class=\"work-title\">Woman Accused</span>",
+      "work_id": 288
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 25,
+      "slug": "mrs-balfame",
+      "title": "Mrs. Balfame",
+      "formatted_title": "Mrs. Balfame",
+      "html_title": "<span class=\"work-title\">Mrs. Balfame</span>",
+      "work_type": "novel",
+      "publication_year": 1916,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 34,
+      "slug": "patience-sparhawk-and-her-times",
+      "title": "Patience Sparhawk and Her Times",
+      "formatted_title": "Patience Sparhawk and Her Times",
+      "html_title": "<span class=\"work-title\">Patience Sparhawk and Her Times</span>",
+      "work_type": "novel",
+      "publication_year": 1897,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 287,
+      "slug": "the-avalanche-a-mystery-story",
+      "title": "The Avalanche: A Mystery Story",
+      "formatted_title": "The Avalanche: A Mystery Story",
+      "html_title": "<span class=\"work-title\">The Avalanche: A Mystery Story</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 64,
+      "slug": "tower-of-ivory",
+      "title": "Tower of Ivory",
+      "formatted_title": "Tower of Ivory",
+      "html_title": "<span class=\"work-title\">Tower of Ivory</span>",
+      "work_type": "novel",
+      "publication_year": 1910,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 94,
+      "slug": "black-oxen",
+      "title": "Black Oxen",
+      "formatted_title": "Black Oxen",
+      "html_title": "<span class=\"work-title\">Black Oxen</span>",
+      "work_type": "novel",
+      "publication_year": 1923,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 134,
+      "slug": "the-perch-of-the-devil",
+      "title": "The Perch of the Devil",
+      "formatted_title": "The Perch of the Devil",
+      "html_title": "<span class=\"work-title\">The Perch of the Devil</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 133,
+      "slug": "the-crystal-cup",
+      "title": "The Crystal Cup",
+      "formatted_title": "The Crystal Cup",
+      "html_title": "<span class=\"work-title\">The Crystal Cup</span>",
+      "work_type": "novel",
+      "publication_year": 1925,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 288,
+      "slug": "woman-accused",
+      "title": "Woman Accused",
+      "formatted_title": "Woman Accused",
+      "html_title": "<span class=\"work-title\">Woman Accused</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 25,
+    "slug": "mrs-balfame",
+    "title": "Mrs. Balfame",
+    "formatted_title": "Mrs. Balfame",
+    "html_title": "<span class=\"work-title\">Mrs. Balfame</span>",
+    "work_type": "novel",
+    "publication_year": 1916,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:36:52.097227"
+}

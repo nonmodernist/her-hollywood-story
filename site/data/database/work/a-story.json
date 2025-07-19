@@ -1,0 +1,60 @@
+{
+  "id": 456,
+  "slug": "a-story",
+  "title": "a story",
+  "formatted_title": "a story",
+  "html_title": "<span class=\"work-title\">a story</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 57,
+    "slug": "faith-baldwin",
+    "name": "Faith Baldwin",
+    "birth_year": 1893,
+    "death_year": 1978,
+    "film_count": 16
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 490,
+      "slug": "i-jane-doe-1948",
+      "title": "I, Jane Doe",
+      "html_title": "<span class=\"film-title\">I, Jane Doe</span>",
+      "year": 1948,
+      "studio": "Republic",
+      "directors": "John H. Auer",
+      "genres": [
+        "Drama",
+        "Legal"
+      ],
+      "has_media": false,
+      "years_after_publication": 1948
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T03:32:50.457701"
+}

@@ -1,0 +1,81 @@
+{
+  "id": 638,
+  "slug": "anna-and-the-king-of-siam",
+  "title": "Anna and the King of Siam",
+  "formatted_title": "Anna and the King of Siam",
+  "html_title": "<span class=\"work-title\">Anna and the King of Siam</span>",
+  "work_type": "novel",
+  "publication_year": 1944,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 306,
+    "slug": "margaret-landon",
+    "name": "Margaret Landon",
+    "birth_year": 1903,
+    "death_year": 1993,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 10,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 10
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 723,
+      "slug": "anna-and-the-king-of-siam-1946",
+      "title": "Anna and the King of Siam",
+      "html_title": "<span class=\"film-title\">Anna and the King of Siam</span>",
+      "year": 1946,
+      "studio": "20th Century Fox",
+      "directors": "John Cromwell",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": false,
+      "years_after_publication": 2
+    },
+    {
+      "id": 724,
+      "slug": "the-king-and-i-1956",
+      "title": "The King and I",
+      "html_title": "<span class=\"film-title\">The King and I</span>",
+      "year": 1956,
+      "studio": "20th Century Fox",
+      "directors": "Walter Lang",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": false,
+      "years_after_publication": 12
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1946,
+      "to_year": 1956,
+      "gap_years": 10
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T14:15:15.001466"
+}

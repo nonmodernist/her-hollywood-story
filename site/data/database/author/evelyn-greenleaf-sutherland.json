@@ -1,0 +1,78 @@
+{
+  "id": 460,
+  "slug": "evelyn-greenleaf-sutherland",
+  "name": "Evelyn Greenleaf Sutherland",
+  "birth_year": 1855,
+  "death_year": 1908,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American journalist and writer (1855-1908). Born in Cambridge. Died in Boston. Occupations: journalist, writer, screenwriter",
+  "author_notes": null,
+  "wikidata_id": "Q1381749",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1924,
+    "last_adaptation": 1924,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1014,
+      "slug": "monsieur-beaucaire-1924",
+      "title": "Monsieur Beaucaire",
+      "html_title": "<span class=\"film-title\">Monsieur Beaucaire</span>",
+      "year": 1924,
+      "studio": "Famous Players-Lasky",
+      "directors": "Sidney Olcott",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "Monsieur Beaucaire",
+      "work_html_title": "<span class=\"work-title\">Monsieur Beaucaire</span>",
+      "work_id": 910
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 910,
+      "slug": "monsieur-beaucaire",
+      "title": "Monsieur Beaucaire",
+      "formatted_title": "Monsieur Beaucaire",
+      "html_title": "<span class=\"work-title\">Monsieur Beaucaire</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 910,
+    "slug": "monsieur-beaucaire",
+    "title": "Monsieur Beaucaire",
+    "formatted_title": "Monsieur Beaucaire",
+    "html_title": "<span class=\"work-title\">Monsieur Beaucaire</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:26:29.629779"
+}

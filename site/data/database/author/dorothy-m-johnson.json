@@ -1,0 +1,107 @@
+{
+  "id": 105,
+  "slug": "dorothy-m-johnson",
+  "name": "Dorothy M. Johnson",
+  "birth_year": 1908,
+  "death_year": 1992,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American entomologist and collector. Born in Spokane. Died in Columbus. Occupations: entomologist, scientific collector, taxonomist",
+  "author_notes": null,
+  "wikidata_id": "Q84167374",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1959,
+    "last_adaptation": 1962,
+    "year_span": 3,
+    "top_genres": [
+      {
+        "genre": "Western",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1,
+      "1960": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 336,
+      "slug": "the-hanging-tree-1959",
+      "title": "The Hanging Tree",
+      "html_title": "<span class=\"film-title\">The Hanging Tree</span>",
+      "year": 1959,
+      "studio": "Warner Bros",
+      "directors": "Delmer Daves|Karl Malden|Vincent Sherman",
+      "genres": [
+        "Western"
+      ],
+      "has_media": true,
+      "work_title": "The Hanging Tree",
+      "work_html_title": "<span class=\"work-title\">The Hanging Tree</span>",
+      "work_id": 278
+    },
+    {
+      "id": 668,
+      "slug": "the-man-who-shot-liberty-valance-1962",
+      "title": "The Man Who Shot Liberty Valance",
+      "html_title": "<span class=\"film-title\">The Man Who Shot Liberty Valance</span>",
+      "year": 1962,
+      "studio": "Paramount",
+      "directors": "John Ford",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "The Man Who Shot Liberty Valance",
+      "work_html_title": "<span class=\"work-title\">The Man Who Shot Liberty Valance</span>",
+      "work_id": 586
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 278,
+      "slug": "the-hanging-tree",
+      "title": "The Hanging Tree",
+      "formatted_title": "The Hanging Tree",
+      "html_title": "<span class=\"work-title\">The Hanging Tree</span>",
+      "work_type": "novel",
+      "publication_year": 1957,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 586,
+      "slug": "the-man-who-shot-liberty-valance",
+      "title": "The Man Who Shot Liberty Valance",
+      "formatted_title": "The Man Who Shot Liberty Valance",
+      "html_title": "<span class=\"work-title\">The Man Who Shot Liberty Valance</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 278,
+    "slug": "the-hanging-tree",
+    "title": "The Hanging Tree",
+    "formatted_title": "The Hanging Tree",
+    "html_title": "<span class=\"work-title\">The Hanging Tree</span>",
+    "work_type": "novel",
+    "publication_year": 1957,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:45.734066"
+}

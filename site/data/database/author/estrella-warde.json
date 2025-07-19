@@ -1,0 +1,78 @@
+{
+  "id": 484,
+  "slug": "estrella-warde",
+  "name": "Estrella Warde",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1927,
+    "last_adaptation": 1927,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Western",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1054,
+      "slug": "the-fighting-hombre-1927",
+      "title": "The Fighting Hombre",
+      "html_title": "<span class=\"film-title\">The Fighting Hombre</span>",
+      "year": 1927,
+      "studio": "Robertson-Cole",
+      "directors": "Jack Nelson",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "Cherokee Rose",
+      "work_html_title": "<span class=\"work-title\">Cherokee Rose</span>",
+      "work_id": 946
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 946,
+      "slug": "cherokee-rose",
+      "title": "Cherokee Rose",
+      "formatted_title": "Cherokee Rose",
+      "html_title": "<span class=\"work-title\">Cherokee Rose</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 946,
+    "slug": "cherokee-rose",
+    "title": "Cherokee Rose",
+    "formatted_title": "Cherokee Rose",
+    "html_title": "<span class=\"work-title\">Cherokee Rose</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:53:32.292162"
+}

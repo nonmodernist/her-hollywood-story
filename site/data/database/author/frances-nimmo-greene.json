@@ -1,0 +1,110 @@
+{
+  "id": 244,
+  "slug": "frances-nimmo-greene",
+  "name": "Frances Nimmo Greene",
+  "birth_year": 1867,
+  "death_year": 1937,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American educator and author (1867-1937). Born in Tuscaloosa. Occupations: novelist, playwright, children's writer, librarian, short story writer, head teacher, newspaper editor, writer",
+  "author_notes": null,
+  "wikidata_id": "Q64313396",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1920,
+    "last_adaptation": 1922,
+    "year_span": 2,
+    "top_genres": [
+      {
+        "genre": "Mystery",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 615,
+      "slug": "the-devil-to-pay-1920",
+      "title": "The Devil to Pay",
+      "html_title": "<span class=\"film-title\">The Devil to Pay</span>",
+      "year": 1920,
+      "studio": "Robert Brunton Productions",
+      "directors": "Ernest C. Warde",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": true,
+      "work_title": "The Devil to Pay",
+      "work_html_title": "<span class=\"work-title\">The Devil to Pay</span>",
+      "work_id": 538
+    },
+    {
+      "id": 616,
+      "slug": "one-clear-call-1922",
+      "title": "One Clear Call",
+      "html_title": "<span class=\"film-title\">One Clear Call</span>",
+      "year": 1922,
+      "studio": "Louis B. Mayer Productions ",
+      "directors": "John M. Stahl",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "One Clear Call",
+      "work_html_title": "<span class=\"work-title\">One Clear Call</span>",
+      "work_id": 539
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 538,
+      "slug": "the-devil-to-pay",
+      "title": "The Devil to Pay",
+      "formatted_title": "The Devil to Pay",
+      "html_title": "<span class=\"work-title\">The Devil to Pay</span>",
+      "work_type": "novel",
+      "publication_year": 1918,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 539,
+      "slug": "one-clear-call",
+      "title": "One Clear Call",
+      "formatted_title": "One Clear Call",
+      "html_title": "<span class=\"work-title\">One Clear Call</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 538,
+    "slug": "the-devil-to-pay",
+    "title": "The Devil to Pay",
+    "formatted_title": "The Devil to Pay",
+    "html_title": "<span class=\"work-title\">The Devil to Pay</span>",
+    "work_type": "novel",
+    "publication_year": 1918,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:44:55.284799"
+}

@@ -1,0 +1,79 @@
+{
+  "id": 27,
+  "slug": "mrs-balfame-1917",
+  "title": "Mrs. Balfame",
+  "formatted_title": "Mrs. Balfame",
+  "html_title": "<span class=\"film-title\">Mrs. Balfame</span>",
+  "release_year": 1917,
+  "runtime_minutes": null,
+  "country_of_production": null,
+  "genres": [
+    "Mystery"
+  ],
+  "studio": "Mutual Film Corp",
+  "production_companies": "Frank Powell Producing Corp.",
+  "distribution_companies": "Mutual Film Corp.; Mutual Star Productions",
+  "directors": "Frank Powell",
+  "writers": "Frank Powell",
+  "cast_members": "Nance O'Neil|Frank Belcher|Robert Elliott|Agnes Ayres|Anna Raines|Alfred Hickman|Grace Gordon|Aubrey Beattie|Elsie Earle",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 16963,
+  "source_work": {
+    "id": 25,
+    "slug": "mrs-balfame",
+    "title": "Mrs. Balfame",
+    "formatted_title": "Mrs. Balfame",
+    "html_title": "<span class=\"work-title\">Mrs. Balfame</span>",
+    "work_type": "novel",
+    "publication_year": 1916,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 1,
+    "year_to_adaptation": 1
+  },
+  "author": {
+    "id": 16,
+    "slug": "gertrude-atherton",
+    "name": "Gertrude Atherton",
+    "birth_year": 1857,
+    "death_year": 1948,
+    "nationality": "United States",
+    "film_count": 8
+  },
+  "other_adaptations": [],
+  "adaptation_context": null,
+  "media": [
+    {
+      "id": 46,
+      "media_type": "advertisement",
+      "title": "Advertisement for Mrs. Balfame (1917 film).png",
+      "caption": "An advertisement in Motography Magazine for the 1917 film Mrs. Balfame, starring Nance O'Neil",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Advertisement_for_Mrs._Balfame_%281917_film%29.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Advertisement_for_Mrs._Balfame_%281917_film%29.png/300px-Advertisement_for_Mrs._Balfame_%281917_film%29.png",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Advertisement_for_Mrs._Balfame_(1917_film).png",
+      "license": "public_domain",
+      "attribution": "Motography",
+      "is_featured": "False"
+    },
+    {
+      "id": 47,
+      "media_type": "still",
+      "title": "Still from Mrs. Balfame (1917 film).png",
+      "caption": "A still from the 1917 film Mrs. Balfame, depicting Mr. Balfame choking his wife after a night of drinking.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Still_from_Mrs._Balfame_%281917_film%29.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Still_from_Mrs._Balfame_%281917_film%29.png/300px-Still_from_Mrs._Balfame_%281917_film%29.png",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Still_from_Mrs._Balfame_(1917_film).png",
+      "license": "public_domain",
+      "attribution": "Motography",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

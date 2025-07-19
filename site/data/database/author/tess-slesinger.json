@@ -1,0 +1,83 @@
+{
+  "id": 449,
+  "slug": "tess-slesinger",
+  "name": "Tess Slesinger",
+  "birth_year": 1905,
+  "death_year": 1945,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American screenwriter (1905-1945). Born in New York City. Died in Los Angeles. Occupations: author, literary critic, writer, screenwriter, journalist",
+  "author_notes": null,
+  "wikidata_id": "Q7705575",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1938,
+    "last_adaptation": 1938,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Youth",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 996,
+      "slug": "girls-school-1938",
+      "title": "Girls' School",
+      "html_title": "<span class=\"film-title\">Girls' School</span>",
+      "year": 1938,
+      "studio": "Columbia Pictures Corp. of California, Ltd.",
+      "directors": "John Brahm",
+      "genres": [
+        "Comedy",
+        "Youth"
+      ],
+      "has_media": false,
+      "work_title": "The Answer on the Magnolia Tree",
+      "work_html_title": "<span class=\"work-title\">The Answer on the Magnolia Tree</span>",
+      "work_id": 895
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 895,
+      "slug": "the-answer-on-the-magnolia-tree",
+      "title": "The Answer on the Magnolia Tree",
+      "formatted_title": "The Answer on the Magnolia Tree",
+      "html_title": "<span class=\"work-title\">The Answer on the Magnolia Tree</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 895,
+    "slug": "the-answer-on-the-magnolia-tree",
+    "title": "The Answer on the Magnolia Tree",
+    "formatted_title": "The Answer on the Magnolia Tree",
+    "html_title": "<span class=\"work-title\">The Answer on the Magnolia Tree</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:26:15.436392"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 490,
+  "slug": "lolita-ann-westman",
+  "name": "Lolita Ann Westman",
+  "birth_year": 1906,
+  "death_year": 1965,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American actress and writer (1906-1965). Born in Los Angeles. Occupations: screenwriter, writer, actor",
+  "author_notes": null,
+  "wikidata_id": "Q131100276",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1935,
+    "last_adaptation": 1935,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Mystery",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1071,
+      "slug": "the-perfect-clue-1935",
+      "title": "The Perfect Clue",
+      "html_title": "<span class=\"film-title\">The Perfect Clue</span>",
+      "year": 1935,
+      "studio": "Larry Darmour Productions|Majestic Producing Corp.",
+      "directors": "Robert G. Vignola",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "Lawless Honeymoon",
+      "work_html_title": "<span class=\"work-title\">Lawless Honeymoon</span>",
+      "work_id": 962
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 962,
+      "slug": "lawless-honeymoon",
+      "title": "Lawless Honeymoon",
+      "formatted_title": "Lawless Honeymoon",
+      "html_title": "<span class=\"work-title\">Lawless Honeymoon</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 962,
+    "slug": "lawless-honeymoon",
+    "title": "Lawless Honeymoon",
+    "formatted_title": "Lawless Honeymoon",
+    "html_title": "<span class=\"work-title\">Lawless Honeymoon</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:54:55.913532"
+}

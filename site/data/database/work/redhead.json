@@ -1,0 +1,79 @@
+{
+  "id": 341,
+  "slug": "redhead",
+  "title": "Redhead",
+  "formatted_title": "Redhead",
+  "html_title": "<span class=\"work-title\">Redhead</span>",
+  "work_type": "novel",
+  "publication_year": 1933,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 142,
+    "slug": "vera-brown",
+    "name": "Vera Brown",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 8,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 8
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 0,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 404,
+      "slug": "redhead-1933",
+      "title": "Redhead",
+      "html_title": "<span class=\"film-title\">Redhead</span>",
+      "year": 1933,
+      "studio": "Monogram",
+      "directors": "Melville Brown",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 0
+    },
+    {
+      "id": 405,
+      "slug": "redhead-1941",
+      "title": "Redhead",
+      "html_title": "<span class=\"film-title\">Redhead</span>",
+      "year": 1941,
+      "studio": "Monogram",
+      "directors": "Edward Cahn",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 8
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1933,
+      "to_year": 1941,
+      "gap_years": 8
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T21:02:58.094921"
+}

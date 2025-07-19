@@ -1,0 +1,81 @@
+{
+  "id": 629,
+  "slug": "sunny-goes-home",
+  "title": "Sunny Goes Home",
+  "formatted_title": "Sunny Goes Home",
+  "html_title": "<span class=\"work-title\">Sunny Goes Home</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 300,
+    "slug": "fannie-kilbourn",
+    "name": "Fannie Kilbourn",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 3
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 13,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 13
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 713,
+      "slug": "the-major-and-the-minor-1942",
+      "title": "The Major and the Minor",
+      "html_title": "<span class=\"film-title\">The Major and the Minor</span>",
+      "year": 1942,
+      "studio": "Paramount",
+      "directors": "Billy Wilder|C. C. Coleman",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": false,
+      "years_after_publication": 1942
+    },
+    {
+      "id": 714,
+      "slug": "youre-never-too-young-1955",
+      "title": "You're Never Too Young",
+      "html_title": "<span class=\"film-title\">You're Never Too Young</span>",
+      "year": 1955,
+      "studio": "Paramount",
+      "directors": "Norman Taurog",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "with songs"
+      ],
+      "has_media": false,
+      "years_after_publication": 1955
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1942,
+      "to_year": 1955,
+      "gap_years": 13
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T18:34:45.433844"
+}

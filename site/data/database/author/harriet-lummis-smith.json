@@ -1,0 +1,78 @@
+{
+  "id": 450,
+  "slug": "harriet-lummis-smith",
+  "name": "Harriet Lummis Smith",
+  "birth_year": 1866,
+  "death_year": 1947,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author. Born in Auburndale. Died in Philadelphia. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q56990659",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1921,
+    "last_adaptation": 1921,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 997,
+      "slug": "a-heart-to-let-1921",
+      "title": "A Heart to Let",
+      "html_title": "<span class=\"film-title\">A Heart to Let</span>",
+      "year": 1921,
+      "studio": "Realart ",
+      "directors": "Edward Dillon",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "Agatha's Aunt",
+      "work_html_title": "<span class=\"work-title\">Agatha's Aunt</span>",
+      "work_id": 896
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 896,
+      "slug": "agathas-aunt",
+      "title": "Agatha's Aunt",
+      "formatted_title": "Agatha's Aunt",
+      "html_title": "<span class=\"work-title\">Agatha's Aunt</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 896,
+    "slug": "agathas-aunt",
+    "title": "Agatha's Aunt",
+    "formatted_title": "Agatha's Aunt",
+    "html_title": "<span class=\"work-title\">Agatha's Aunt</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:26:17.061199"
+}

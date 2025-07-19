@@ -1,0 +1,78 @@
+{
+  "id": 297,
+  "slug": "florence-finch-kelly",
+  "name": "Florence Finch Kelly",
+  "birth_year": 1858,
+  "death_year": 1939,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "Novelist, journalist. Occupations: writer, journalist, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q19560967",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1918,
+    "last_adaptation": 1918,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Western",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 701,
+      "slug": "with-hoops-of-steel-1918",
+      "title": "With Hoops of Steel",
+      "html_title": "<span class=\"film-title\">With Hoops of Steel</span>",
+      "year": 1918,
+      "studio": "Paralta Plays",
+      "directors": "Eliot Howe",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "With Hoops of Steel",
+      "work_html_title": "<span class=\"work-title\">With Hoops of Steel</span>",
+      "work_id": 617
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 617,
+      "slug": "with-hoops-of-steel",
+      "title": "With Hoops of Steel",
+      "formatted_title": "With Hoops of Steel",
+      "html_title": "<span class=\"work-title\">With Hoops of Steel</span>",
+      "work_type": "novel",
+      "publication_year": 1900,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 617,
+    "slug": "with-hoops-of-steel",
+    "title": "With Hoops of Steel",
+    "formatted_title": "With Hoops of Steel",
+    "html_title": "<span class=\"work-title\">With Hoops of Steel</span>",
+    "work_type": "novel",
+    "publication_year": 1900,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:01.456129"
+}

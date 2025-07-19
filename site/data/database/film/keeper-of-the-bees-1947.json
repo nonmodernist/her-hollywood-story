@@ -1,0 +1,91 @@
+{
+  "id": 287,
+  "slug": "keeper-of-the-bees-1947",
+  "title": "Keeper of the Bees",
+  "formatted_title": "Keeper of the Bees",
+  "html_title": "<span class=\"film-title\">Keeper of the Bees</span>",
+  "release_year": 1947,
+  "runtime_minutes": 68,
+  "country_of_production": "United States",
+  "genres": [
+    "Drama"
+  ],
+  "studio": "Columbia",
+  "production_companies": "Columbia Pictures Corp.",
+  "distribution_companies": "Columbia Pictures Corp.",
+  "directors": "John Sturges",
+  "writers": "Lawrence Edward Watkin|Malcolm Stuart Boylan|Ralph Rose Jr.",
+  "cast_members": "Michael Duane|Gloria Henry|Harry Davenport|Jane Darwell|Jo Ann Marlowe|J. Farrell MacDonald|Will Wright|Frances Robinson|George Meader|Olin Howlin",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 25224,
+  "source_work": {
+    "id": 111,
+    "slug": "the-keeper-of-the-bees",
+    "title": "The Keeper of the Bees",
+    "formatted_title": "The Keeper of the Bees",
+    "html_title": "<span class=\"work-title\">The Keeper of the Bees</span>",
+    "work_type": "novel",
+    "publication_year": 1925,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 3,
+    "year_to_adaptation": 22
+  },
+  "author": {
+    "id": 12,
+    "slug": "gene-stratton-porter",
+    "name": "Gene Stratton-Porter",
+    "birth_year": 1863,
+    "death_year": 1924,
+    "nationality": "United States",
+    "film_count": 21
+  },
+  "other_adaptations": [
+    {
+      "id": 116,
+      "slug": "the-keeper-of-the-bees-1925",
+      "title": "The Keeper of the Bees",
+      "html_title": "<span class=\"film-title\">The Keeper of the Bees</span>",
+      "year": 1925,
+      "directors": "James Leo Meehan",
+      "studio": "Gene Stratton Porter Productions"
+    },
+    {
+      "id": 222,
+      "slug": "the-keeper-of-the-bees-1935",
+      "title": "The Keeper of the Bees",
+      "html_title": "<span class=\"film-title\">The Keeper of the Bees</span>",
+      "year": 1935,
+      "directors": "Christy Cabanne",
+      "studio": "Monogram"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 3,
+    "adaptation_number": 3,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [
+    {
+      "id": 789,
+      "media_type": "production_photo",
+      "title": "Gloria Henry Columbia Pictures Publicity Circa 1947.jpg",
+      "caption": "Publicity photo of American actress Gloria Henry, circa 1947.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Gloria_Henry_Columbia_Pictures_Publicity_Circa_1947.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gloria_Henry_Columbia_Pictures_Publicity_Circa_1947.jpg/300px-Gloria_Henry_Columbia_Pictures_Publicity_Circa_1947.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Gloria_Henry_Columbia_Pictures_Publicity_Circa_1947.jpg",
+      "license": "public_domain",
+      "attribution": "Columbia Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

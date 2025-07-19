@@ -1,0 +1,78 @@
+{
+  "id": 190,
+  "slug": "lavinia-davis",
+  "name": "Lavinia Davis",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1949,
+    "last_adaptation": 1949,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romantic comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 499,
+      "slug": "once-more-my-darling-1949",
+      "title": "Once More, My Darling",
+      "html_title": "<span class=\"film-title\">Once More, My Darling</span>",
+      "year": 1949,
+      "studio": "Neptune Films",
+      "directors": "Robert Montgomery|Michael Gordon",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": false,
+      "work_title": "Come Be My Love",
+      "work_html_title": "<span class=\"work-title\">Come Be My Love</span>",
+      "work_id": 430
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 430,
+      "slug": "come-be-my-love",
+      "title": "Come Be My Love",
+      "formatted_title": "Come Be My Love",
+      "html_title": "<span class=\"work-title\">Come Be My Love</span>",
+      "work_type": "novel",
+      "publication_year": 1949,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 430,
+    "slug": "come-be-my-love",
+    "title": "Come Be My Love",
+    "formatted_title": "Come Be My Love",
+    "html_title": "<span class=\"work-title\">Come Be My Love</span>",
+    "work_type": "novel",
+    "publication_year": 1949,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T00:49:56.759267"
+}

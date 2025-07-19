@@ -1,0 +1,60 @@
+{
+  "id": 854,
+  "slug": "person-to-person-call",
+  "title": "Person-To-Person Call",
+  "formatted_title": "Person-To-Person Call",
+  "html_title": "<span class=\"work-title\">Person-To-Person Call</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 421,
+    "slug": "sarah-elizabeth-rodger",
+    "name": "Sarah Elizabeth Rodger",
+    "birth_year": 1912,
+    "death_year": null,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 952,
+      "slug": "girl-overboard-1937",
+      "title": "Girl Overboard",
+      "html_title": "<span class=\"film-title\">Girl Overboard</span>",
+      "year": 1937,
+      "studio": "Universal",
+      "directors": "Sidney Salkow",
+      "genres": [
+        "Mystery",
+        "Romance"
+      ],
+      "has_media": false,
+      "years_after_publication": 1937
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-11T15:59:38.514905"
+}

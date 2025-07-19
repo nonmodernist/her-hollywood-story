@@ -1,0 +1,83 @@
+{
+  "id": 121,
+  "slug": "adele-bleneau",
+  "name": "Adele Bleneau",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1919,
+    "last_adaptation": 1919,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "World War I",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 373,
+      "slug": "adele-1919",
+      "title": "Adele",
+      "html_title": "<span class=\"film-title\">Adele</span>",
+      "year": 1919,
+      "studio": "United Picture Theaters of America",
+      "directors": "Wallace Worsley",
+      "genres": [
+        "Drama",
+        "World War I"
+      ],
+      "has_media": true,
+      "work_title": "The Nurse's Story: In Which Reality Meets Romance",
+      "work_html_title": "<span class=\"work-title\">The Nurse's Story: In Which Reality Meets Romance</span>",
+      "work_id": 309
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 309,
+      "slug": "the-nurses-story-in-which-reality-meets-romance",
+      "title": "The Nurse's Story: In Which Reality Meets Romance",
+      "formatted_title": "The Nurse's Story: In Which Reality Meets Romance",
+      "html_title": "<span class=\"work-title\">The Nurse's Story: In Which Reality Meets Romance</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 309,
+    "slug": "the-nurses-story-in-which-reality-meets-romance",
+    "title": "The Nurse's Story: In Which Reality Meets Romance",
+    "formatted_title": "The Nurse's Story: In Which Reality Meets Romance",
+    "html_title": "<span class=\"work-title\">The Nurse's Story: In Which Reality Meets Romance</span>",
+    "work_type": "novel",
+    "publication_year": 1915,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-18T02:29:21.222936"
+}

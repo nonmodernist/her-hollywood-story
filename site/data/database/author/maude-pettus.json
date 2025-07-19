@@ -1,0 +1,83 @@
+{
+  "id": 395,
+  "slug": "maude-pettus",
+  "name": "Maude Pettus",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1917,
+    "last_adaptation": 1917,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Crime",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 876,
+      "slug": "the-edge-of-the-law-1917",
+      "title": "The Edge of the Law",
+      "html_title": "<span class=\"film-title\">The Edge of the Law</span>",
+      "year": 1917,
+      "studio": "Universal",
+      "directors": "Louis William Chaudet",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "has_media": false,
+      "work_title": "A Gentle Ill Wind",
+      "work_html_title": "<span class=\"work-title\">A Gentle Ill Wind</span>",
+      "work_id": 785
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 785,
+      "slug": "a-gentle-ill-wind",
+      "title": "A Gentle Ill Wind",
+      "formatted_title": "A Gentle Ill Wind",
+      "html_title": "<span class=\"work-title\">A Gentle Ill Wind</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 785,
+    "slug": "a-gentle-ill-wind",
+    "title": "A Gentle Ill Wind",
+    "formatted_title": "A Gentle Ill Wind",
+    "html_title": "<span class=\"work-title\">A Gentle Ill Wind</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T17:57:33.053183"
+}

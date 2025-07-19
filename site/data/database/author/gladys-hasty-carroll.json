@@ -1,0 +1,83 @@
+{
+  "id": 160,
+  "slug": "gladys-hasty-carroll",
+  "name": "Gladys Hasty Carroll",
+  "birth_year": 1904,
+  "death_year": 1999,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American fiction writer who featured Maine frequently (1904–1999). Occupations: writer, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q5566419",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1934,
+    "last_adaptation": 1934,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Rural",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 454,
+      "slug": "as-the-earth-turns-1934",
+      "title": "As the Earth Turns",
+      "html_title": "<span class=\"film-title\">As the Earth Turns</span>",
+      "year": 1934,
+      "studio": "Warner Bros",
+      "directors": "Alfred Green",
+      "genres": [
+        "Drama",
+        "Rural"
+      ],
+      "has_media": false,
+      "work_title": "As the Earth Turns",
+      "work_html_title": "<span class=\"work-title\">As the Earth Turns</span>",
+      "work_id": 385
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 385,
+      "slug": "as-the-earth-turns",
+      "title": "As the Earth Turns",
+      "formatted_title": "As the Earth Turns",
+      "html_title": "<span class=\"work-title\">As the Earth Turns</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 385,
+    "slug": "as-the-earth-turns",
+    "title": "As the Earth Turns",
+    "formatted_title": "As the Earth Turns",
+    "html_title": "<span class=\"work-title\">As the Earth Turns</span>",
+    "work_type": "novel",
+    "publication_year": 1933,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:38.155796"
+}

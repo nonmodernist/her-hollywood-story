@@ -1,0 +1,60 @@
+{
+  "id": 781,
+  "slug": "he-fell-down-dead",
+  "title": "He Fell Down Dead",
+  "formatted_title": "He Fell Down Dead",
+  "html_title": "<span class=\"work-title\">He Fell Down Dead</span>",
+  "work_type": "novel",
+  "publication_year": 1943,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 393,
+    "slug": "virginia-perdue",
+    "name": "Virginia Perdue",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 3,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 872,
+      "slug": "shadow-of-a-woman-1946",
+      "title": "Shadow of a Woman",
+      "html_title": "<span class=\"film-title\">Shadow of a Woman</span>",
+      "year": 1946,
+      "studio": "Warner Bros",
+      "directors": "Joseph Santley",
+      "genres": [
+        "Melodrama",
+        "Suspense"
+      ],
+      "has_media": false,
+      "years_after_publication": 3
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T14:13:30.243499"
+}

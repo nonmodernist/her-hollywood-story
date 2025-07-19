@@ -1,0 +1,266 @@
+{
+  "id": 63,
+  "slug": "katherine-brush",
+  "name": "Katherine Brush",
+  "birth_year": 1902,
+  "death_year": 1952,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1902-1952). Occupations: columnist, novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q6376162",
+  "stats": {
+    "total_films": 7,
+    "works_adapted": 7,
+    "first_adaptation": 1927,
+    "last_adaptation": 1939,
+    "year_span": 12,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 3
+      },
+      {
+        "genre": "Comedy",
+        "count": 2
+      },
+      {
+        "genre": "Musical",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 2,
+      "1930": 5
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 408,
+      "slug": "the-drop-kick-1927",
+      "title": "The Drop Kick",
+      "html_title": "<span class=\"film-title\">The Drop Kick</span>",
+      "year": 1927,
+      "studio": "First National",
+      "directors": "Millard Webb",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Glitter",
+      "work_html_title": "<span class=\"work-title\">Glitter</span>",
+      "work_id": 344
+    },
+    {
+      "id": 411,
+      "slug": "night-club-1929",
+      "title": "Night Club",
+      "html_title": "<span class=\"film-title\">Night Club</span>",
+      "year": 1929,
+      "studio": "Paramount",
+      "directors": "Robert Florey",
+      "genres": [
+        "Musical"
+      ],
+      "has_media": false,
+      "work_title": "Night Club",
+      "work_html_title": "<span class=\"work-title\">Night Club</span>",
+      "work_id": 347
+    },
+    {
+      "id": 412,
+      "slug": "young-man-of-manhattan-1930",
+      "title": "Young Man of Manhattan",
+      "html_title": "<span class=\"film-title\">Young Man of Manhattan</span>",
+      "year": 1930,
+      "studio": "Paramount",
+      "directors": "Monta Bell",
+      "genres": [
+        "Drama",
+        "Domestic",
+        "with songs"
+      ],
+      "has_media": true,
+      "work_title": "Young Man of Manhattan",
+      "work_html_title": "<span class=\"work-title\">Young Man of Manhattan</span>",
+      "work_id": 348
+    },
+    {
+      "id": 193,
+      "slug": "red-headed-woman-1932",
+      "title": "Red-Headed Woman",
+      "html_title": "<span class=\"film-title\">Red-Headed Woman</span>",
+      "year": 1932,
+      "studio": "MGM",
+      "directors": "Jack Conway",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "work_title": "Red-Headed Woman",
+      "work_html_title": "<span class=\"work-title\">Red-Headed Woman</span>",
+      "work_id": 178
+    },
+    {
+      "id": 409,
+      "slug": "lady-of-secrets-1936",
+      "title": "Lady of Secrets",
+      "html_title": "<span class=\"film-title\">Lady of Secrets</span>",
+      "year": 1936,
+      "studio": "Columbia",
+      "directors": "Marion Gering",
+      "genres": [
+        "Melodrama",
+        "Romance"
+      ],
+      "has_media": false,
+      "work_title": "\"Maid of Honor\"",
+      "work_html_title": "<span class=\"work-title\">\"Maid of Honor\"</span>",
+      "work_id": 345
+    },
+    {
+      "id": 410,
+      "slug": "mannequin-1937",
+      "title": "Mannequin",
+      "html_title": "<span class=\"film-title\">Mannequin</span>",
+      "year": 1937,
+      "studio": "MGM",
+      "directors": "Frank Borzage",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Mannequin",
+      "work_html_title": "<span class=\"work-title\">Mannequin</span>",
+      "work_id": 346
+    },
+    {
+      "id": 251,
+      "slug": "honeymoon-in-bali-1939",
+      "title": "Honeymoon in Bali",
+      "html_title": "<span class=\"film-title\">Honeymoon in Bali</span>",
+      "year": 1939,
+      "studio": "Paramount",
+      "directors": "Edward H. Griffith",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "work_title": "\"Free Woman\"",
+      "work_html_title": "<span class=\"work-title\">\"Free Woman\"</span>",
+      "work_id": 215
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 344,
+      "slug": "glitter",
+      "title": "Glitter",
+      "formatted_title": "Glitter",
+      "html_title": "<span class=\"work-title\">Glitter</span>",
+      "work_type": "novel",
+      "publication_year": 1926,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 347,
+      "slug": "night-club",
+      "title": "Night Club",
+      "formatted_title": "Night Club",
+      "html_title": "<span class=\"work-title\">Night Club</span>",
+      "work_type": "novel",
+      "publication_year": 1929,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 348,
+      "slug": "young-man-of-manhattan",
+      "title": "Young Man of Manhattan",
+      "formatted_title": "Young Man of Manhattan",
+      "html_title": "<span class=\"work-title\">Young Man of Manhattan</span>",
+      "work_type": "novel",
+      "publication_year": 1930,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 178,
+      "slug": "red-headed-woman",
+      "title": "Red-Headed Woman",
+      "formatted_title": "Red-Headed Woman",
+      "html_title": "<span class=\"work-title\">Red-Headed Woman</span>",
+      "work_type": "novel",
+      "publication_year": 1931,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 345,
+      "slug": "maid-of-honor",
+      "title": "\"Maid of Honor\"",
+      "formatted_title": "\"Maid of Honor\"",
+      "html_title": "<span class=\"work-title\">\"Maid of Honor\"</span>",
+      "work_type": "novel",
+      "publication_year": 1932,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 346,
+      "slug": "mannequin",
+      "title": "Mannequin",
+      "formatted_title": "Mannequin",
+      "html_title": "<span class=\"work-title\">Mannequin</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 215,
+      "slug": "free-woman",
+      "title": "\"Free Woman\"",
+      "formatted_title": "\"Free Woman\"",
+      "html_title": "<span class=\"work-title\">\"Free Woman\"</span>",
+      "work_type": "novel",
+      "publication_year": 1936,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 344,
+    "slug": "glitter",
+    "title": "Glitter",
+    "formatted_title": "Glitter",
+    "html_title": "<span class=\"work-title\">Glitter</span>",
+    "work_type": "novel",
+    "publication_year": 1926,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:54.035089"
+}

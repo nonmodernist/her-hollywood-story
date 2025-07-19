@@ -1,0 +1,78 @@
+{
+  "id": 19,
+  "slug": "mary-s-watts",
+  "name": "Mary S. Watts",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1917,
+    "last_adaptation": 1917,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 32,
+      "slug": "the-rise-of-jennie-cushing-1917",
+      "title": "The Rise of Jennie Cushing",
+      "html_title": "<span class=\"film-title\">The Rise of Jennie Cushing</span>",
+      "year": 1917,
+      "studio": "Famous Players-Lasky",
+      "directors": "Maurice Tourneur",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Rise of Jennie Cushing",
+      "work_html_title": "<span class=\"work-title\">The Rise of Jennie Cushing</span>",
+      "work_id": 30
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 30,
+      "slug": "the-rise-of-jennie-cushing",
+      "title": "The Rise of Jennie Cushing",
+      "formatted_title": "The Rise of Jennie Cushing",
+      "html_title": "<span class=\"work-title\">The Rise of Jennie Cushing</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 30,
+    "slug": "the-rise-of-jennie-cushing",
+    "title": "The Rise of Jennie Cushing",
+    "formatted_title": "The Rise of Jennie Cushing",
+    "html_title": "<span class=\"work-title\">The Rise of Jennie Cushing</span>",
+    "work_type": "novel",
+    "publication_year": 1914,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:44:44.513472"
+}

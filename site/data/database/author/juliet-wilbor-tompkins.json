@@ -1,0 +1,182 @@
+{
+  "id": 467,
+  "slug": "juliet-wilbor-tompkins",
+  "name": "Juliet Wilbor Tompkins",
+  "birth_year": 1871,
+  "death_year": 1956,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer and magazine editor (1871–1956). Born in Oakland. Died in New York City. Occupations: writer, editor",
+  "author_notes": null,
+  "wikidata_id": "Q55720149",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 4,
+    "first_adaptation": 1919,
+    "last_adaptation": 1931,
+    "year_span": 12,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 2
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Social",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2,
+      "1930": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1033,
+      "slug": "a-girl-named-mary-1919",
+      "title": "A Girl Named Mary",
+      "html_title": "<span class=\"film-title\">A Girl Named Mary</span>",
+      "year": 1919,
+      "studio": "Famous Players-Lasky",
+      "directors": "Walter Edwards",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "A Girl Named Mary",
+      "work_html_title": "<span class=\"work-title\">A Girl Named Mary</span>",
+      "work_id": 926
+    },
+    {
+      "id": 1035,
+      "slug": "little-comrade-1919",
+      "title": "Little Comrade",
+      "html_title": "<span class=\"film-title\">Little Comrade</span>",
+      "year": 1919,
+      "studio": "Famous Players-Lasky",
+      "directors": "Chester Withey",
+      "genres": [
+        "Comedy",
+        "Social"
+      ],
+      "has_media": false,
+      "work_title": "The Two Benjamins",
+      "work_html_title": "<span class=\"work-title\">The Two Benjamins</span>",
+      "work_id": 928
+    },
+    {
+      "id": 1027,
+      "slug": "fanny-foley-herself-1931",
+      "title": "Fanny Foley Herself",
+      "html_title": "<span class=\"film-title\">Fanny Foley Herself</span>",
+      "year": 1931,
+      "studio": "RKO",
+      "directors": "Melville Brown",
+      "genres": [
+        "Comedy-drama",
+        "Domestic",
+        "Show business"
+      ],
+      "has_media": false,
+      "work_title": "Fanny Foley Herself",
+      "work_html_title": "<span class=\"work-title\">Fanny Foley Herself</span>",
+      "work_id": 921
+    },
+    {
+      "id": 1034,
+      "slug": "misbehaving-ladies-1931",
+      "title": "Misbehaving Ladies",
+      "html_title": "<span class=\"film-title\">Misbehaving Ladies</span>",
+      "year": 1931,
+      "studio": "First National",
+      "directors": "William Beaudine",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "Once There Was a Princess",
+      "work_html_title": "<span class=\"work-title\">Once There Was a Princess</span>",
+      "work_id": 927
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 926,
+      "slug": "a-girl-named-mary",
+      "title": "A Girl Named Mary",
+      "formatted_title": "A Girl Named Mary",
+      "html_title": "<span class=\"work-title\">A Girl Named Mary</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 928,
+      "slug": "the-two-benjamins",
+      "title": "The Two Benjamins",
+      "formatted_title": "The Two Benjamins",
+      "html_title": "<span class=\"work-title\">The Two Benjamins</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 921,
+      "slug": "fanny-foley-herself",
+      "title": "Fanny Foley Herself",
+      "formatted_title": "Fanny Foley Herself",
+      "html_title": "<span class=\"work-title\">Fanny Foley Herself</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 927,
+      "slug": "once-there-was-a-princess",
+      "title": "Once There Was a Princess",
+      "formatted_title": "Once There Was a Princess",
+      "html_title": "<span class=\"work-title\">Once There Was a Princess</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 926,
+    "slug": "a-girl-named-mary",
+    "title": "A Girl Named Mary",
+    "formatted_title": "A Girl Named Mary",
+    "html_title": "<span class=\"work-title\">A Girl Named Mary</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T17:50:02.313455"
+}

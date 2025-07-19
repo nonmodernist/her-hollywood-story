@@ -1,0 +1,65 @@
+{
+  "id": 109,
+  "slug": "feet-of-clay",
+  "title": "Feet of Clay",
+  "formatted_title": "Feet of Clay",
+  "html_title": "<span class=\"work-title\">Feet of Clay</span>",
+  "work_type": "novel",
+  "publication_year": 1923,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 44,
+    "slug": "margaretta-tuttle",
+    "name": "Margaretta Tuttle",
+    "birth_year": 1875,
+    "death_year": 1958,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 114,
+      "slug": "feet-of-clay-1924",
+      "title": "Feet of Clay",
+      "html_title": "<span class=\"film-title\">Feet of Clay</span>",
+      "year": 1924,
+      "studio": "Famous Players-Lasky",
+      "directors": "Cecil B. De Mille",
+      "genres": [
+        "Drama",
+        "Society"
+      ],
+      "has_media": true,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": {
+    "year": 1924,
+    "publisher": "Grosset & Dunlap",
+    "notes": null,
+    "count": 0
+  },
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T16:33:13.897979"
+}

@@ -1,0 +1,60 @@
+{
+  "id": 309,
+  "slug": "the-nurses-story-in-which-reality-meets-romance",
+  "title": "The Nurse's Story: In Which Reality Meets Romance",
+  "formatted_title": "The Nurse's Story: In Which Reality Meets Romance",
+  "html_title": "<span class=\"work-title\">The Nurse's Story: In Which Reality Meets Romance</span>",
+  "work_type": "novel",
+  "publication_year": 1915,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 121,
+    "slug": "adele-bleneau",
+    "name": "Adele Bleneau",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 4,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 373,
+      "slug": "adele-1919",
+      "title": "Adele",
+      "html_title": "<span class=\"film-title\">Adele</span>",
+      "year": 1919,
+      "studio": "United Picture Theaters of America",
+      "directors": "Wallace Worsley",
+      "genres": [
+        "Drama",
+        "World War I"
+      ],
+      "has_media": true,
+      "years_after_publication": 4
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T21:03:01.277818"
+}

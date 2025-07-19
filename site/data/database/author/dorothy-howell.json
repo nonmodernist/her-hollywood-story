@@ -1,0 +1,112 @@
+{
+  "id": 269,
+  "slug": "dorothy-howell",
+  "name": "Dorothy Howell",
+  "birth_year": 1899,
+  "death_year": 1971,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American screenwriter. Born in Chicago. Occupations: screenwriter",
+  "author_notes": null,
+  "wikidata_id": "Q60256903",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1929,
+    "last_adaptation": 1930,
+    "year_span": 1,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 2
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1,
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 652,
+      "slug": "the-quitter-1929",
+      "title": "The Quitter",
+      "html_title": "<span class=\"film-title\">The Quitter</span>",
+      "year": 1929,
+      "studio": "Columbia",
+      "directors": "Joseph Henabery",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "The Spice of Life",
+      "work_html_title": "<span class=\"work-title\">The Spice of Life</span>",
+      "work_id": 571
+    },
+    {
+      "id": 651,
+      "slug": "guilty-1930",
+      "title": "Guilty?",
+      "html_title": "<span class=\"film-title\">Guilty?</span>",
+      "year": 1930,
+      "studio": "Columbia",
+      "directors": "George B. Seitz",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "Black Sheep",
+      "work_html_title": "<span class=\"work-title\">Black Sheep</span>",
+      "work_id": 570
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 571,
+      "slug": "the-spice-of-life",
+      "title": "The Spice of Life",
+      "formatted_title": "The Spice of Life",
+      "html_title": "<span class=\"work-title\">The Spice of Life</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 570,
+      "slug": "black-sheep",
+      "title": "Black Sheep",
+      "formatted_title": "Black Sheep",
+      "html_title": "<span class=\"work-title\">Black Sheep</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 571,
+    "slug": "the-spice-of-life",
+    "title": "The Spice of Life",
+    "formatted_title": "The Spice of Life",
+    "html_title": "<span class=\"work-title\">The Spice of Life</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-05T22:23:22.656614"
+}

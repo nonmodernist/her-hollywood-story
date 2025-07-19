@@ -1,0 +1,99 @@
+{
+  "id": 42,
+  "slug": "willa-cather",
+  "name": "Willa Cather",
+  "birth_year": 1873,
+  "death_year": 1947,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1873–1947). Born in Gore. Died in Manhattan. Occupations: novelist. Notable works: Sapphira and the Slave Girl, Alexander's Bridge, Death Comes for the Archbishop, Lucy Gayheart, My Mortal Enemy",
+  "author_notes": null,
+  "wikidata_id": "Q229480",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 1,
+    "first_adaptation": 1924,
+    "last_adaptation": 1934,
+    "year_span": 10,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1,
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 109,
+      "slug": "a-lost-lady-1924",
+      "title": "A Lost Lady",
+      "html_title": "<span class=\"film-title\">A Lost Lady</span>",
+      "year": 1924,
+      "studio": "Warner Bros",
+      "directors": "Harry Beaumont",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "A Lost Lady",
+      "work_html_title": "<span class=\"work-title\">A Lost Lady</span>",
+      "work_id": 104
+    },
+    {
+      "id": 210,
+      "slug": "a-lost-lady-1934",
+      "title": "A Lost Lady",
+      "html_title": "<span class=\"film-title\">A Lost Lady</span>",
+      "year": 1934,
+      "studio": "Warner Bros",
+      "directors": "Alfred E. Green",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "A Lost Lady",
+      "work_html_title": "<span class=\"work-title\">A Lost Lady</span>",
+      "work_id": 104
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 104,
+      "slug": "a-lost-lady",
+      "title": "A Lost Lady",
+      "formatted_title": "A Lost Lady",
+      "html_title": "<span class=\"work-title\">A Lost Lady</span>",
+      "work_type": "novel",
+      "publication_year": 1923,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 104,
+    "slug": "a-lost-lady",
+    "title": "A Lost Lady",
+    "formatted_title": "A Lost Lady",
+    "html_title": "<span class=\"work-title\">A Lost Lady</span>",
+    "work_type": "novel",
+    "publication_year": 1923,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:25.838991"
+}

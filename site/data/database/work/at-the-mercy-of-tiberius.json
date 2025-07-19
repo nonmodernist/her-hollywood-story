@@ -1,0 +1,59 @@
+{
+  "id": 980,
+  "slug": "at-the-mercy-of-tiberius",
+  "title": "At the Mercy of Tiberius",
+  "formatted_title": "At the Mercy of Tiberius",
+  "html_title": "<span class=\"work-title\">At the Mercy of Tiberius</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 215,
+    "slug": "augusta-wilson",
+    "name": "Augusta Wilson",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 4
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1093,
+      "slug": "gods-witness-1915",
+      "title": "God's Witness",
+      "html_title": "<span class=\"film-title\">God's Witness</span>",
+      "year": 1915,
+      "studio": "Thanhouser",
+      "directors": "Eugene W. Moore",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 1915
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T20:23:40.575044"
+}

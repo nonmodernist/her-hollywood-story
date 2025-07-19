@@ -1,0 +1,207 @@
+{
+  "id": 28,
+  "slug": "louisa-may-alcott",
+  "name": "Louisa May Alcott",
+  "birth_year": 1832,
+  "death_year": 1888,
+  "nationality": "United States",
+  "literary_movement": "abolitionism",
+  "biographical_notes": "American novelist (1832–1888). Born in Germantown. Died in Boston. Occupations: writer, children's writer, nurse, suffragist, domestic worker, poet, teacher, novelist. Notable works: An Old-Fashioned Girl, Jo's Boys, Little Women, The Brownie and the Princess, Eight Cousins; or, The Aunt-Hill",
+  "author_notes": null,
+  "wikidata_id": "Q185696",
+  "stats": {
+    "total_films": 6,
+    "works_adapted": 3,
+    "first_adaptation": 1919,
+    "last_adaptation": 1949,
+    "year_span": 30,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 4
+      },
+      {
+        "genre": "Historical",
+        "count": 4
+      },
+      {
+        "genre": "Domestic",
+        "count": 2
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1930": 2,
+      "1940": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 53,
+      "slug": "little-women-1919",
+      "title": "Little Women",
+      "html_title": "<span class=\"film-title\">Little Women</span>",
+      "year": 1919,
+      "studio": "William A. Brady",
+      "directors": "Harley Knoles",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Little Women",
+      "work_html_title": "<span class=\"work-title\">Little Women</span>",
+      "work_id": 51
+    },
+    {
+      "id": 204,
+      "slug": "little-women-1933",
+      "title": "Little Women",
+      "html_title": "<span class=\"film-title\">Little Women</span>",
+      "year": 1933,
+      "studio": "RKO",
+      "directors": "George Cukor|John Davis Lodge",
+      "genres": [
+        "Drama",
+        "Domestic",
+        "Historical"
+      ],
+      "has_media": true,
+      "work_title": "Little Women",
+      "work_html_title": "<span class=\"work-title\">Little Women</span>",
+      "work_id": 51
+    },
+    {
+      "id": 215,
+      "slug": "little-men-1934",
+      "title": "Little Men",
+      "html_title": "<span class=\"film-title\">Little Men</span>",
+      "year": 1934,
+      "studio": "Mascot Pictures",
+      "directors": "Phil Rosen",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "Little Men",
+      "work_html_title": "<span class=\"work-title\">Little Men</span>",
+      "work_id": 193
+    },
+    {
+      "id": 257,
+      "slug": "little-men-1940",
+      "title": "Little Men",
+      "html_title": "<span class=\"film-title\">Little Men</span>",
+      "year": 1940,
+      "studio": "RKO",
+      "directors": "Norman Z. McLeod",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "Little Men",
+      "work_html_title": "<span class=\"work-title\">Little Men</span>",
+      "work_id": 193
+    },
+    {
+      "id": 292,
+      "slug": "little-women-1948",
+      "title": "Little Women",
+      "html_title": "<span class=\"film-title\">Little Women</span>",
+      "year": 1948,
+      "studio": "MGM",
+      "directors": "Mervyn LeRoy",
+      "genres": [
+        "Drama",
+        "Domestic",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "Little Women",
+      "work_html_title": "<span class=\"work-title\">Little Women</span>",
+      "work_id": 51
+    },
+    {
+      "id": 297,
+      "slug": "an-old-fashioned-girl-1949",
+      "title": "An Old-Fashioned Girl",
+      "html_title": "<span class=\"film-title\">An Old-Fashioned Girl</span>",
+      "year": 1949,
+      "studio": "Eagle-Lion Films",
+      "directors": "Arthur Dreifuss",
+      "genres": [
+        "Comedy-drama",
+        "Historical",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "An Old Fashioned Girl",
+      "work_html_title": "<span class=\"work-title\">An Old Fashioned Girl</span>",
+      "work_id": 247
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 51,
+      "slug": "little-women",
+      "title": "Little Women",
+      "formatted_title": "Little Women",
+      "html_title": "<span class=\"work-title\">Little Women</span>",
+      "work_type": "novel",
+      "publication_year": 1868,
+      "genre": null,
+      "adaptation_count": 3,
+      "is_remake_champion": false
+    },
+    {
+      "id": 193,
+      "slug": "little-men",
+      "title": "Little Men",
+      "formatted_title": "Little Men",
+      "html_title": "<span class=\"work-title\">Little Men</span>",
+      "work_type": "novel",
+      "publication_year": 1872,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 247,
+      "slug": "an-old-fashioned-girl",
+      "title": "An Old Fashioned Girl",
+      "formatted_title": "An Old Fashioned Girl",
+      "html_title": "<span class=\"work-title\">An Old Fashioned Girl</span>",
+      "work_type": "novel",
+      "publication_year": 1902,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 51,
+    "slug": "little-women",
+    "title": "Little Women",
+    "formatted_title": "Little Women",
+    "html_title": "<span class=\"work-title\">Little Women</span>",
+    "work_type": "novel",
+    "publication_year": 1868,
+    "genre": null,
+    "adaptation_count": 3,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:52:25.100922"
+}

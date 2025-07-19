@@ -1,0 +1,59 @@
+{
+  "id": 70,
+  "slug": "the-fighting-sherpherdess",
+  "title": "The Fighting Sherpherdess",
+  "formatted_title": "The Fighting Sherpherdess",
+  "html_title": "<span class=\"work-title\">The Fighting Sherpherdess</span>",
+  "work_type": "novel",
+  "publication_year": 1919,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 10,
+    "slug": "caroline-lockhart",
+    "name": "Caroline Lockhart",
+    "birth_year": 1871,
+    "death_year": 1962,
+    "film_count": 3
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 73,
+      "slug": "the-fighting-shepherdess-1920",
+      "title": "The Fighting Shepherdess",
+      "html_title": "<span class=\"film-title\">The Fighting Shepherdess</span>",
+      "year": 1920,
+      "studio": "Anita Stewart Productions",
+      "directors": "Edward José",
+      "genres": [
+        "Western"
+      ],
+      "has_media": true,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:48:03.914138"
+}

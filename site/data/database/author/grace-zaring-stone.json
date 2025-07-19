@@ -1,0 +1,140 @@
+{
+  "id": 459,
+  "slug": "grace-zaring-stone",
+  "name": "Grace Zaring Stone",
+  "birth_year": 1891,
+  "death_year": 1991,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1891-1991). Occupations: novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q3088826",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1933,
+    "last_adaptation": 1948,
+    "year_span": 15,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 3
+      },
+      {
+        "genre": "World War II",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1,
+      "1940": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1008,
+      "slug": "the-bitter-tea-of-general-yen-1933",
+      "title": "The Bitter Tea of General Yen",
+      "html_title": "<span class=\"film-title\">The Bitter Tea of General Yen</span>",
+      "year": 1933,
+      "studio": "Columbia",
+      "directors": "Frank R. Capra",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Bitter Tea of General Yen",
+      "work_html_title": "<span class=\"work-title\">The Bitter Tea of General Yen</span>",
+      "work_id": 907
+    },
+    {
+      "id": 1044,
+      "slug": "escape-1940",
+      "title": "Escape",
+      "html_title": "<span class=\"film-title\">Escape</span>",
+      "year": 1940,
+      "studio": "MGM",
+      "directors": "Mervyn LeRoy",
+      "genres": [
+        "Drama",
+        "World War II"
+      ],
+      "has_media": false,
+      "work_title": "Escape",
+      "work_html_title": "<span class=\"work-title\">Escape</span>",
+      "work_id": 937
+    },
+    {
+      "id": 1045,
+      "slug": "winter-meeting-1948",
+      "title": "Winter Meeting",
+      "html_title": "<span class=\"film-title\">Winter Meeting</span>",
+      "year": 1948,
+      "studio": "Warner Bros",
+      "directors": "Bretaigne Windust",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Winter Meeting",
+      "work_html_title": "<span class=\"work-title\">Winter Meeting</span>",
+      "work_id": 938
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 907,
+      "slug": "the-bitter-tea-of-general-yen",
+      "title": "The Bitter Tea of General Yen",
+      "formatted_title": "The Bitter Tea of General Yen",
+      "html_title": "<span class=\"work-title\">The Bitter Tea of General Yen</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 937,
+      "slug": "escape",
+      "title": "Escape",
+      "formatted_title": "Escape",
+      "html_title": "<span class=\"work-title\">Escape</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 938,
+      "slug": "winter-meeting",
+      "title": "Winter Meeting",
+      "formatted_title": "Winter Meeting",
+      "html_title": "<span class=\"work-title\">Winter Meeting</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 907,
+    "slug": "the-bitter-tea-of-general-yen",
+    "title": "The Bitter Tea of General Yen",
+    "formatted_title": "The Bitter Tea of General Yen",
+    "html_title": "<span class=\"work-title\">The Bitter Tea of General Yen</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:26:27.96407"
+}

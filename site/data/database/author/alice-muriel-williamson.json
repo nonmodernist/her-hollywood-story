@@ -1,0 +1,347 @@
+{
+  "id": 7,
+  "slug": "alice-muriel-williamson",
+  "name": "Alice Muriel Williamson",
+  "birth_year": 1869,
+  "death_year": 1933,
+  "nationality": "United Kingdom, United Kingdom of Great Britain and Ireland",
+  "literary_movement": null,
+  "biographical_notes": "British novelist, frequently as duo with husband C. N. Williamson. Born in Cleveland. Died in Bath. Occupations: writer, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q4726025",
+  "stats": {
+    "total_films": 10,
+    "works_adapted": 10,
+    "first_adaptation": 1915,
+    "last_adaptation": 1927,
+    "year_span": 12,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 3
+      },
+      {
+        "genre": "Melodrama",
+        "count": 3
+      },
+      {
+        "genre": "Mystery",
+        "count": 2
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 7,
+      "1920": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1087,
+      "slug": "lord-john-in-new-york-1915",
+      "title": "Lord John in New York",
+      "html_title": "<span class=\"film-title\">Lord John in New York</span>",
+      "year": 1915,
+      "studio": "Universal",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "Lord John in New York",
+      "work_html_title": "<span class=\"work-title\">Lord John in New York</span>",
+      "work_id": 975
+    },
+    {
+      "id": 10,
+      "slug": "the-house-of-the-lost-court-1915",
+      "title": "The House of the Lost Court",
+      "html_title": "<span class=\"film-title\">The House of the Lost Court</span>",
+      "year": 1915,
+      "studio": "Edison",
+      "directors": "Charles J. Brabin",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The House of the Lost Court",
+      "work_html_title": "<span class=\"work-title\">The House of the Lost Court</span>",
+      "work_id": 9
+    },
+    {
+      "id": 13,
+      "slug": "lord-loveland-discovers-america-1916",
+      "title": "Lord Loveland Discovers America",
+      "html_title": "<span class=\"film-title\">Lord Loveland Discovers America</span>",
+      "year": 1916,
+      "studio": "American Film",
+      "directors": "Arthur Maude",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "Lord Loveland Discovers America",
+      "work_html_title": "<span class=\"work-title\">Lord Loveland Discovers America</span>",
+      "work_id": 11
+    },
+    {
+      "id": 14,
+      "slug": "the-shop-girl-1916",
+      "title": "The Shop Girl",
+      "html_title": "<span class=\"film-title\">The Shop Girl</span>",
+      "year": 1916,
+      "studio": "Vitagraph",
+      "directors": "George D. Baker",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "The Shop Girl",
+      "work_html_title": "<span class=\"work-title\">The Shop Girl</span>",
+      "work_id": 12
+    },
+    {
+      "id": 15,
+      "slug": "the-woman-who-dared-1916",
+      "title": "The Woman Who Dared",
+      "html_title": "<span class=\"film-title\">The Woman Who Dared</span>",
+      "year": 1916,
+      "studio": "California Motion Picture Corp",
+      "directors": "George E. Middleton",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Woman Who Dared",
+      "work_html_title": "<span class=\"work-title\">The Woman Who Dared</span>",
+      "work_id": 13
+    },
+    {
+      "id": 47,
+      "slug": "the-demon-1918",
+      "title": "The Demon",
+      "html_title": "<span class=\"film-title\">The Demon</span>",
+      "year": 1918,
+      "studio": "Metro Pictures",
+      "directors": "George D. Baker",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "a novel?",
+      "work_html_title": "<span class=\"work-title\">a novel?</span>",
+      "work_id": 45
+    },
+    {
+      "id": 46,
+      "slug": "the-life-mask-1918",
+      "title": "The Life Mask",
+      "html_title": "<span class=\"film-title\">The Life Mask</span>",
+      "year": 1918,
+      "studio": "Petrova",
+      "directors": "Frank Crane",
+      "genres": [
+        "Melodrama",
+        "Mystery"
+      ],
+      "has_media": true,
+      "work_title": "The Life Mask",
+      "work_html_title": "<span class=\"work-title\">The Life Mask</span>",
+      "work_id": 44
+    },
+    {
+      "id": 68,
+      "slug": "passions-playground-1920",
+      "title": "Passion's Playground",
+      "html_title": "<span class=\"film-title\">Passion's Playground</span>",
+      "year": 1920,
+      "studio": "Katharine MacDonald Pictures",
+      "directors": "J. A. Barry",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Guests of Hercules",
+      "work_html_title": "<span class=\"work-title\">The Guests of Hercules</span>",
+      "work_id": 65
+    },
+    {
+      "id": 80,
+      "slug": "my-ladys-latchkey-1921",
+      "title": "My Lady's Latchkey",
+      "html_title": "<span class=\"film-title\">My Lady's Latchkey</span>",
+      "year": 1921,
+      "studio": "Katharine MacDonald Pictures",
+      "directors": "Edwin Carewe",
+      "genres": [
+        "Melodrama",
+        "Mystery"
+      ],
+      "has_media": true,
+      "work_title": "The Second Latchkey",
+      "work_html_title": "<span class=\"work-title\">The Second Latchkey</span>",
+      "work_id": 77
+    },
+    {
+      "id": 143,
+      "slug": "honeymoon-hate-1927",
+      "title": "Honeymoon Hate",
+      "html_title": "<span class=\"film-title\">Honeymoon Hate</span>",
+      "year": 1927,
+      "studio": "Paramount",
+      "directors": "Luther Reed",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": true,
+      "work_title": "\"Honeymoon Hate\"",
+      "work_html_title": "<span class=\"work-title\">\"Honeymoon Hate\"</span>",
+      "work_id": 136
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 975,
+      "slug": "lord-john-in-new-york",
+      "title": "Lord John in New York",
+      "formatted_title": "Lord John in New York",
+      "html_title": "<span class=\"work-title\">Lord John in New York</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 9,
+      "slug": "the-house-of-the-lost-court",
+      "title": "The House of the Lost Court",
+      "formatted_title": "The House of the Lost Court",
+      "html_title": "<span class=\"work-title\">The House of the Lost Court</span>",
+      "work_type": "novel",
+      "publication_year": 1908,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 11,
+      "slug": "lord-loveland-discovers-america",
+      "title": "Lord Loveland Discovers America",
+      "formatted_title": "Lord Loveland Discovers America",
+      "html_title": "<span class=\"work-title\">Lord Loveland Discovers America</span>",
+      "work_type": "novel",
+      "publication_year": 1910,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 12,
+      "slug": "the-shop-girl",
+      "title": "The Shop Girl",
+      "formatted_title": "The Shop Girl",
+      "html_title": "<span class=\"work-title\">The Shop Girl</span>",
+      "work_type": "novel",
+      "publication_year": 1916,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 13,
+      "slug": "the-woman-who-dared",
+      "title": "The Woman Who Dared",
+      "formatted_title": "The Woman Who Dared",
+      "html_title": "<span class=\"work-title\">The Woman Who Dared</span>",
+      "work_type": "novel",
+      "publication_year": 1903,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 45,
+      "slug": "a-novel",
+      "title": "a novel?",
+      "formatted_title": "a novel?",
+      "html_title": "<span class=\"work-title\">a novel?</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 44,
+      "slug": "the-life-mask",
+      "title": "The Life Mask",
+      "formatted_title": "The Life Mask",
+      "html_title": "<span class=\"work-title\">The Life Mask</span>",
+      "work_type": "novel",
+      "publication_year": 1913,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 65,
+      "slug": "the-guests-of-hercules",
+      "title": "The Guests of Hercules",
+      "formatted_title": "The Guests of Hercules",
+      "html_title": "<span class=\"work-title\">The Guests of Hercules</span>",
+      "work_type": "novel",
+      "publication_year": 1912,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 77,
+      "slug": "the-second-latchkey",
+      "title": "The Second Latchkey",
+      "formatted_title": "The Second Latchkey",
+      "html_title": "<span class=\"work-title\">The Second Latchkey</span>",
+      "work_type": "novel",
+      "publication_year": 1920,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 136,
+      "slug": "honeymoon-hate",
+      "title": "\"Honeymoon Hate\"",
+      "formatted_title": "\"Honeymoon Hate\"",
+      "html_title": "<span class=\"work-title\">\"Honeymoon Hate\"</span>",
+      "work_type": "novel",
+      "publication_year": 1927,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 975,
+    "slug": "lord-john-in-new-york",
+    "title": "Lord John in New York",
+    "formatted_title": "Lord John in New York",
+    "html_title": "<span class=\"work-title\">Lord John in New York</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:52:20.404847"
+}

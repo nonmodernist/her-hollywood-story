@@ -1,0 +1,83 @@
+{
+  "id": 239,
+  "slug": "ruth-seinfel-goode",
+  "name": "Ruth Seinfel Goode",
+  "birth_year": 1905,
+  "death_year": 1997,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American writer. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q108557797",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1953,
+    "last_adaptation": 1953,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Musical",
+        "count": 1
+      },
+      {
+        "genre": "Show business",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 604,
+      "slug": "tonight-we-sing-1953",
+      "title": "Tonight We Sing",
+      "html_title": "<span class=\"film-title\">Tonight We Sing</span>",
+      "year": 1953,
+      "studio": "20th Century Fox",
+      "directors": "\"Mitele\" Leisen",
+      "genres": [
+        "Musical",
+        "Show business"
+      ],
+      "has_media": false,
+      "work_title": "Impressario",
+      "work_html_title": "<span class=\"work-title\">Impressario</span>",
+      "work_id": 528
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 528,
+      "slug": "impressario",
+      "title": "Impressario",
+      "formatted_title": "Impressario",
+      "html_title": "<span class=\"work-title\">Impressario</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 528,
+    "slug": "impressario",
+    "title": "Impressario",
+    "formatted_title": "Impressario",
+    "html_title": "<span class=\"work-title\">Impressario</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-04T03:29:19.025092"
+}

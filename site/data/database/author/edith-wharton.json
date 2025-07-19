@@ -1,0 +1,257 @@
+{
+  "id": 22,
+  "slug": "edith-wharton",
+  "name": "Edith Wharton",
+  "birth_year": 1862,
+  "death_year": 1937,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American novelist, short story writer, designer (1862–1937). Born in New York City. Died in Saint-Brice-sous-Forêt. Occupations: art historian, prose writer, writer, novelist, translator, poet. Notable works: Old New York, The Custom of the Country, The Greater Inclination, The Age of Innocence, The Mount",
+  "author_notes": null,
+  "wikidata_id": "Q276032",
+  "stats": {
+    "total_films": 7,
+    "works_adapted": 6,
+    "first_adaptation": 1918,
+    "last_adaptation": 1939,
+    "year_span": 21,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 5
+      },
+      {
+        "genre": "Society",
+        "count": 2
+      },
+      {
+        "genre": "Historical",
+        "count": 2
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1920": 3,
+      "1930": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 37,
+      "slug": "the-house-of-mirth-1918",
+      "title": "The House of Mirth",
+      "html_title": "<span class=\"film-title\">The House of Mirth</span>",
+      "year": 1918,
+      "studio": "Metro Pictures",
+      "directors": "Albert Capellani",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The House of Mirth",
+      "work_html_title": "<span class=\"work-title\">The House of Mirth</span>",
+      "work_id": 35
+    },
+    {
+      "id": 97,
+      "slug": "the-glimpses-of-the-moon-1923",
+      "title": "The Glimpses of the Moon",
+      "html_title": "<span class=\"film-title\">The Glimpses of the Moon</span>",
+      "year": 1923,
+      "studio": "Famous Players-Lasky",
+      "directors": "Allan Dwan",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Glimpses of the Moon",
+      "work_html_title": "<span class=\"work-title\">The Glimpses of the Moon</span>",
+      "work_id": 93
+    },
+    {
+      "id": 111,
+      "slug": "the-age-of-innocence-1924",
+      "title": "The Age of Innocence",
+      "html_title": "<span class=\"film-title\">The Age of Innocence</span>",
+      "year": 1924,
+      "studio": "Warner Bros",
+      "directors": "Wesley Ruggles",
+      "genres": [
+        "Drama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "The Age of Innocence",
+      "work_html_title": "<span class=\"work-title\">The Age of Innocence</span>",
+      "work_id": 106
+    },
+    {
+      "id": 1072,
+      "slug": "the-marriage-playground-1929",
+      "title": "The Marriage Playground",
+      "html_title": "<span class=\"film-title\">The Marriage Playground</span>",
+      "year": 1929,
+      "studio": "Paramount",
+      "directors": "Lothar Mendes",
+      "genres": [
+        "Drama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "The Children",
+      "work_html_title": "<span class=\"work-title\">The Children</span>",
+      "work_id": 963
+    },
+    {
+      "id": 218,
+      "slug": "strange-wives-1934",
+      "title": "Strange Wives",
+      "html_title": "<span class=\"film-title\">Strange Wives</span>",
+      "year": 1934,
+      "studio": "Universal",
+      "directors": "Richard Thorpe",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "\"Bread Upon the Waters\"",
+      "work_html_title": "<span class=\"work-title\">\"Bread Upon the Waters\"</span>",
+      "work_id": 195
+    },
+    {
+      "id": 209,
+      "slug": "the-age-of-innocence-1934",
+      "title": "The Age of Innocence",
+      "html_title": "<span class=\"film-title\">The Age of Innocence</span>",
+      "year": 1934,
+      "studio": "RKO",
+      "directors": "Philip Moeller",
+      "genres": [
+        "Melodrama",
+        "Domestic",
+        "Historical"
+      ],
+      "has_media": true,
+      "work_title": "The Age of Innocence",
+      "work_html_title": "<span class=\"work-title\">The Age of Innocence</span>",
+      "work_id": 106
+    },
+    {
+      "id": 253,
+      "slug": "the-old-maid-1939",
+      "title": "The Old Maid",
+      "html_title": "<span class=\"film-title\">The Old Maid</span>",
+      "year": 1939,
+      "studio": "Warner Bros",
+      "directors": "Edmund Goulding",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": true,
+      "work_title": "The Old Maid: The Fifties",
+      "work_html_title": "<span class=\"work-title\">The Old Maid: The Fifties</span>",
+      "work_id": 217
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 106,
+      "slug": "the-age-of-innocence",
+      "title": "The Age of Innocence",
+      "formatted_title": "The Age of Innocence",
+      "html_title": "<span class=\"work-title\">The Age of Innocence</span>",
+      "work_type": "novel",
+      "publication_year": 1920,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 35,
+      "slug": "the-house-of-mirth",
+      "title": "The House of Mirth",
+      "formatted_title": "The House of Mirth",
+      "html_title": "<span class=\"work-title\">The House of Mirth</span>",
+      "work_type": "novel",
+      "publication_year": 1905,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 93,
+      "slug": "the-glimpses-of-the-moon",
+      "title": "The Glimpses of the Moon",
+      "formatted_title": "The Glimpses of the Moon",
+      "html_title": "<span class=\"work-title\">The Glimpses of the Moon</span>",
+      "work_type": "novel",
+      "publication_year": 1922,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 963,
+      "slug": "the-children",
+      "title": "The Children",
+      "formatted_title": "The Children",
+      "html_title": "<span class=\"work-title\">The Children</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 195,
+      "slug": "bread-upon-the-waters",
+      "title": "\"Bread Upon the Waters\"",
+      "formatted_title": "\"Bread Upon the Waters\"",
+      "html_title": "<span class=\"work-title\">\"Bread Upon the Waters\"</span>",
+      "work_type": "novel",
+      "publication_year": 1934,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 217,
+      "slug": "the-old-maid-the-fifties",
+      "title": "The Old Maid: The Fifties",
+      "formatted_title": "The Old Maid: The Fifties",
+      "html_title": "<span class=\"work-title\">The Old Maid: The Fifties</span>",
+      "work_type": "novel",
+      "publication_year": 1924,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 106,
+    "slug": "the-age-of-innocence",
+    "title": "The Age of Innocence",
+    "formatted_title": "The Age of Innocence",
+    "html_title": "<span class=\"work-title\">The Age of Innocence</span>",
+    "work_type": "novel",
+    "publication_year": 1920,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:01.060887"
+}

@@ -1,0 +1,132 @@
+{
+  "id": 52,
+  "slug": "anita-loos",
+  "name": "Anita Loos",
+  "birth_year": 1888,
+  "death_year": 1981,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American screenwriter, playwright, author, actress and television producer (1888-1981). Born in Mount Shasta. Died in New York City. Occupations: film actor, screenwriter, writer, autobiographer, memoirist, novelist. Notable works: Gentlemen Prefer Blondes",
+  "author_notes": null,
+  "wikidata_id": "Q272088",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 2,
+    "first_adaptation": 1928,
+    "last_adaptation": 1955,
+    "year_span": 27,
+    "top_genres": [
+      {
+        "genre": "Musical comedy",
+        "count": 2
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Show business",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1,
+      "1950": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 151,
+      "slug": "gentlemen-prefer-blondes-1928",
+      "title": "Gentlemen Prefer Blondes",
+      "html_title": "<span class=\"film-title\">Gentlemen Prefer Blondes</span>",
+      "year": 1928,
+      "studio": "Paramount",
+      "directors": "Malcolm St. Clair",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "Gentlemen Prefer Blondes",
+      "work_html_title": "<span class=\"work-title\">Gentlemen Prefer Blondes</span>",
+      "work_id": 140
+    },
+    {
+      "id": 322,
+      "slug": "gentlemen-prefer-blondes-1953",
+      "title": "Gentlemen Prefer Blondes",
+      "html_title": "<span class=\"film-title\">Gentlemen Prefer Blondes</span>",
+      "year": 1953,
+      "studio": "20th Century Fox",
+      "directors": "Howard Hawks",
+      "genres": [
+        "Musical comedy"
+      ],
+      "has_media": true,
+      "work_title": "Gentlemen Prefer Blondes",
+      "work_html_title": "<span class=\"work-title\">Gentlemen Prefer Blondes</span>",
+      "work_id": 140
+    },
+    {
+      "id": 328,
+      "slug": "gentlemen-marry-brunettes-1955",
+      "title": "Gentlemen Marry Brunettes",
+      "html_title": "<span class=\"film-title\">Gentlemen Marry Brunettes</span>",
+      "year": 1955,
+      "studio": "United Artists",
+      "directors": "Richard Sale",
+      "genres": [
+        "Musical comedy",
+        "Show business"
+      ],
+      "has_media": true,
+      "work_title": "But Gentlemen Marry Brunettes",
+      "work_html_title": "<span class=\"work-title\">But Gentlemen Marry Brunettes</span>",
+      "work_id": 273
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 140,
+      "slug": "gentlemen-prefer-blondes",
+      "title": "Gentlemen Prefer Blondes",
+      "formatted_title": "Gentlemen Prefer Blondes",
+      "html_title": "<span class=\"work-title\">Gentlemen Prefer Blondes</span>",
+      "work_type": "novel",
+      "publication_year": 1925,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 273,
+      "slug": "but-gentlemen-marry-brunettes",
+      "title": "But Gentlemen Marry Brunettes",
+      "formatted_title": "But Gentlemen Marry Brunettes",
+      "html_title": "<span class=\"work-title\">But Gentlemen Marry Brunettes</span>",
+      "work_type": "novel",
+      "publication_year": 1927,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 140,
+    "slug": "gentlemen-prefer-blondes",
+    "title": "Gentlemen Prefer Blondes",
+    "formatted_title": "Gentlemen Prefer Blondes",
+    "html_title": "<span class=\"work-title\">Gentlemen Prefer Blondes</span>",
+    "work_type": "novel",
+    "publication_year": 1925,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:40.142343"
+}

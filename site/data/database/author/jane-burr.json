@@ -1,0 +1,83 @@
+{
+  "id": 151,
+  "slug": "jane-burr",
+  "name": "Jane Burr",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": "pseud of Rose Burr",
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1947,
+    "last_adaptation": 1947,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Crime",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 438,
+      "slug": "the-arnelo-affair-1947",
+      "title": "The Arnelo Affair",
+      "html_title": "<span class=\"film-title\">The Arnelo Affair</span>",
+      "year": 1947,
+      "studio": "MGM",
+      "directors": "Arch Oboler",
+      "genres": [
+        "Melodrama",
+        "Crime"
+      ],
+      "has_media": false,
+      "work_title": "I'll Tell My Husband",
+      "work_html_title": "<span class=\"work-title\">I'll Tell My Husband</span>",
+      "work_id": 370
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 370,
+      "slug": "ill-tell-my-husband",
+      "title": "I'll Tell My Husband",
+      "formatted_title": "I'll Tell My Husband",
+      "html_title": "<span class=\"work-title\">I'll Tell My Husband</span>",
+      "work_type": "novel",
+      "publication_year": 1938,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 370,
+    "slug": "ill-tell-my-husband",
+    "title": "I'll Tell My Husband",
+    "formatted_title": "I'll Tell My Husband",
+    "html_title": "<span class=\"work-title\">I'll Tell My Husband</span>",
+    "work_type": "novel",
+    "publication_year": 1938,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-18T03:33:21.117954"
+}

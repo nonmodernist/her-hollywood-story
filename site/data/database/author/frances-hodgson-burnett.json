@@ -1,0 +1,480 @@
+{
+  "id": 3,
+  "slug": "frances-hodgson-burnett",
+  "name": "Frances Hodgson Burnett",
+  "birth_year": 1849,
+  "death_year": 1924,
+  "nationality": "United Kingdom of Great Britain and Ireland, United Kingdom, United States",
+  "literary_movement": null,
+  "biographical_notes": "English-American playwright and author (1849–1924). Born in Manchester. Died in Plandome Manor. Occupations: children's writer, short story writer, writer, playwright, dramaturge, novelist. Notable works: The Lost Prince, The Secret Garden, Little Lord Fauntleroy, The Shuttle, The Head of the House of Coombe",
+  "author_notes": null,
+  "wikidata_id": "Q276028",
+  "stats": {
+    "total_films": 17,
+    "works_adapted": 11,
+    "first_adaptation": 1913,
+    "last_adaptation": 1949,
+    "year_span": 36,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 11
+      },
+      {
+        "genre": "Melodrama",
+        "count": 4
+      },
+      {
+        "genre": "Historical",
+        "count": 2
+      },
+      {
+        "genre": "Social",
+        "count": 1
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 9,
+      "1920": 5,
+      "1930": 2,
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 4,
+      "slug": "a-lady-of-quality-1913",
+      "title": "A Lady of Quality",
+      "html_title": "<span class=\"film-title\">A Lady of Quality</span>",
+      "year": 1913,
+      "studio": "Famous Players",
+      "directors": null,
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "A Lady of Quality",
+      "work_html_title": "<span class=\"work-title\">A Lady of Quality</span>",
+      "work_id": 4
+    },
+    {
+      "id": 429,
+      "slug": "the-dawn-of-a-tomorrow-1915",
+      "title": "The Dawn of a Tomorrow",
+      "html_title": "<span class=\"film-title\">The Dawn of a Tomorrow</span>",
+      "year": 1915,
+      "studio": "Famous Players",
+      "directors": "James Kirkwood",
+      "genres": [
+        "Drama",
+        "Social"
+      ],
+      "has_media": true,
+      "work_title": "The Dawn of a Tomorrow",
+      "work_html_title": "<span class=\"work-title\">The Dawn of a Tomorrow</span>",
+      "work_id": 360
+    },
+    {
+      "id": 9,
+      "slug": "the-pretty-sister-of-jose-1915",
+      "title": "The Pretty Sister of Jose",
+      "html_title": "<span class=\"film-title\">The Pretty Sister of Jose</span>",
+      "year": 1915,
+      "studio": "Famous Players",
+      "directors": "Allan Dwan",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Pretty Sister of Jose",
+      "work_html_title": "<span class=\"work-title\">The Pretty Sister of Jose</span>",
+      "work_id": 8
+    },
+    {
+      "id": 428,
+      "slug": "secret-love-1916",
+      "title": "Secret Love",
+      "html_title": "<span class=\"film-title\">Secret Love</span>",
+      "year": 1916,
+      "studio": "Bluebird Photoplays",
+      "directors": "Robert Leonard",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "That Lass O' Lowrie's",
+      "work_html_title": "<span class=\"work-title\">That Lass O' Lowrie's</span>",
+      "work_id": 96
+    },
+    {
+      "id": 25,
+      "slug": "the-fair-barbarian-1917",
+      "title": "The Fair Barbarian",
+      "html_title": "<span class=\"film-title\">The Fair Barbarian</span>",
+      "year": 1917,
+      "studio": "Paramount",
+      "directors": "Robert Thornby",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "work_title": "A Fair Barbarian",
+      "work_html_title": "<span class=\"work-title\">A Fair Barbarian</span>",
+      "work_id": 23
+    },
+    {
+      "id": 426,
+      "slug": "the-little-princess-1917",
+      "title": "The Little Princess",
+      "html_title": "<span class=\"film-title\">The Little Princess</span>",
+      "year": 1917,
+      "studio": "Mary Pickford",
+      "directors": "Marshall Neilan",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Sara Crewe",
+      "work_html_title": "<span class=\"work-title\">Sara Crewe</span>",
+      "work_id": 362
+    },
+    {
+      "id": 433,
+      "slug": "the-shuttle-1918",
+      "title": "The Shuttle",
+      "html_title": "<span class=\"film-title\">The Shuttle</span>",
+      "year": 1918,
+      "studio": "Select Pictures",
+      "directors": "Rollin S. Sturgeon",
+      "genres": [
+        "Drama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "The Shuttle",
+      "work_html_title": "<span class=\"work-title\">The Shuttle</span>",
+      "work_id": 365
+    },
+    {
+      "id": 425,
+      "slug": "louisiana-1919",
+      "title": "Louisiana",
+      "html_title": "<span class=\"film-title\">Louisiana</span>",
+      "year": 1919,
+      "studio": "Famous Players-Lasky",
+      "directors": "Robert G. Vignola",
+      "genres": [
+        "Drama",
+        "Rural"
+      ],
+      "has_media": true,
+      "work_title": "Louisiana",
+      "work_html_title": "<span class=\"work-title\">Louisiana</span>",
+      "work_id": 363
+    },
+    {
+      "id": 431,
+      "slug": "the-secret-garden-1919",
+      "title": "The Secret Garden",
+      "html_title": "<span class=\"film-title\">The Secret Garden</span>",
+      "year": 1919,
+      "studio": "Famous Players-Lasky",
+      "directors": "G. Butler Clonebough",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "The Secret Garden",
+      "work_html_title": "<span class=\"work-title\">The Secret Garden</span>",
+      "work_id": 364
+    },
+    {
+      "id": 76,
+      "slug": "little-lord-fauntleroy-1921",
+      "title": "Little Lord Fauntleroy",
+      "html_title": "<span class=\"film-title\">Little Lord Fauntleroy</span>",
+      "year": 1921,
+      "studio": "Mary Pickford",
+      "directors": "Alfred E. Green|Jack Pickford",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "Little Lord Fauntleroy",
+      "work_html_title": "<span class=\"work-title\">Little Lord Fauntleroy</span>",
+      "work_id": 73
+    },
+    {
+      "id": 100,
+      "slug": "the-flame-of-life-1923",
+      "title": "The Flame of Life",
+      "html_title": "<span class=\"film-title\">The Flame of Life</span>",
+      "year": 1923,
+      "studio": "Universal",
+      "directors": "Hobart Henley",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "That Lass O' Lowrie's",
+      "work_html_title": "<span class=\"work-title\">That Lass O' Lowrie's</span>",
+      "work_id": 96
+    },
+    {
+      "id": 104,
+      "slug": "a-lady-of-quality-1924",
+      "title": "A Lady of Quality",
+      "html_title": "<span class=\"film-title\">A Lady of Quality</span>",
+      "year": 1924,
+      "studio": "Universal",
+      "directors": "Hobart Henley",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "A Lady of Quality",
+      "work_html_title": "<span class=\"work-title\">A Lady of Quality</span>",
+      "work_id": 4
+    },
+    {
+      "id": 430,
+      "slug": "the-dawn-of-a-tomorrow-1924",
+      "title": "The Dawn of a Tomorrow",
+      "html_title": "<span class=\"film-title\">The Dawn of a Tomorrow</span>",
+      "year": 1924,
+      "studio": "Famous Players-Lasky",
+      "directors": "George Melford",
+      "genres": [
+        "Melodrama",
+        "Crime"
+      ],
+      "has_media": true,
+      "work_title": "The Dawn of a Tomorrow",
+      "work_html_title": "<span class=\"work-title\">The Dawn of a Tomorrow</span>",
+      "work_id": 360
+    },
+    {
+      "id": 106,
+      "slug": "the-family-secret-1924",
+      "title": "The Family Secret",
+      "html_title": "<span class=\"film-title\">The Family Secret</span>",
+      "year": 1924,
+      "studio": "Universal",
+      "directors": "William Seiter",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "Editha's Burglar",
+      "work_html_title": "<span class=\"work-title\">Editha's Burglar</span>",
+      "work_id": 101
+    },
+    {
+      "id": 235,
+      "slug": "little-lord-fauntleroy-1936",
+      "title": "Little Lord Fauntleroy",
+      "html_title": "<span class=\"film-title\">Little Lord Fauntleroy</span>",
+      "year": 1936,
+      "studio": "Selznick International",
+      "directors": "John Cromwell",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Little Lord Fauntleroy",
+      "work_html_title": "<span class=\"work-title\">Little Lord Fauntleroy</span>",
+      "work_id": 73
+    },
+    {
+      "id": 427,
+      "slug": "the-little-princess-1939",
+      "title": "The Little Princess",
+      "html_title": "<span class=\"film-title\">The Little Princess</span>",
+      "year": 1939,
+      "studio": "20th Century Fox",
+      "directors": "Walter Lang",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": true,
+      "work_title": "Sara Crewe",
+      "work_html_title": "<span class=\"work-title\">Sara Crewe</span>",
+      "work_id": 362
+    },
+    {
+      "id": 432,
+      "slug": "the-secret-garden-1949",
+      "title": "The Secret Garden",
+      "html_title": "<span class=\"film-title\">The Secret Garden</span>",
+      "year": 1949,
+      "studio": "MGM",
+      "directors": "Fred M. Wilcox",
+      "genres": [
+        "Drama",
+        "Historical",
+        "Youth"
+      ],
+      "has_media": true,
+      "work_title": "The Secret Garden",
+      "work_html_title": "<span class=\"work-title\">The Secret Garden</span>",
+      "work_id": 364
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 4,
+      "slug": "a-lady-of-quality",
+      "title": "A Lady of Quality",
+      "formatted_title": "A Lady of Quality",
+      "html_title": "<span class=\"work-title\">A Lady of Quality</span>",
+      "work_type": "novel",
+      "publication_year": 1896,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 360,
+      "slug": "the-dawn-of-a-tomorrow",
+      "title": "The Dawn of a Tomorrow",
+      "formatted_title": "The Dawn of a Tomorrow",
+      "html_title": "<span class=\"work-title\">The Dawn of a Tomorrow</span>",
+      "work_type": "novel",
+      "publication_year": 1906,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 96,
+      "slug": "that-lass-o-lowries",
+      "title": "That Lass O' Lowrie's",
+      "formatted_title": "That Lass O' Lowrie's",
+      "html_title": "<span class=\"work-title\">That Lass O' Lowrie's</span>",
+      "work_type": "novel",
+      "publication_year": 1877,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 362,
+      "slug": "sara-crewe",
+      "title": "Sara Crewe",
+      "formatted_title": "Sara Crewe",
+      "html_title": "<span class=\"work-title\">Sara Crewe</span>",
+      "work_type": "novel",
+      "publication_year": 1891,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 364,
+      "slug": "the-secret-garden",
+      "title": "The Secret Garden",
+      "formatted_title": "The Secret Garden",
+      "html_title": "<span class=\"work-title\">The Secret Garden</span>",
+      "work_type": "novel",
+      "publication_year": 1913,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 73,
+      "slug": "little-lord-fauntleroy",
+      "title": "Little Lord Fauntleroy",
+      "formatted_title": "Little Lord Fauntleroy",
+      "html_title": "<span class=\"work-title\">Little Lord Fauntleroy</span>",
+      "work_type": "novel",
+      "publication_year": 1886,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 8,
+      "slug": "the-pretty-sister-of-jose",
+      "title": "The Pretty Sister of Jose",
+      "formatted_title": "The Pretty Sister of Jose",
+      "html_title": "<span class=\"work-title\">The Pretty Sister of Jose</span>",
+      "work_type": "novel",
+      "publication_year": 1889,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 23,
+      "slug": "a-fair-barbarian",
+      "title": "A Fair Barbarian",
+      "formatted_title": "A Fair Barbarian",
+      "html_title": "<span class=\"work-title\">A Fair Barbarian</span>",
+      "work_type": "novel",
+      "publication_year": 1880,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 365,
+      "slug": "the-shuttle",
+      "title": "The Shuttle",
+      "formatted_title": "The Shuttle",
+      "html_title": "<span class=\"work-title\">The Shuttle</span>",
+      "work_type": "novel",
+      "publication_year": 1908,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 363,
+      "slug": "louisiana",
+      "title": "Louisiana",
+      "formatted_title": "Louisiana",
+      "html_title": "<span class=\"work-title\">Louisiana</span>",
+      "work_type": "novel",
+      "publication_year": 1880,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 101,
+      "slug": "edithas-burglar",
+      "title": "Editha's Burglar",
+      "formatted_title": "Editha's Burglar",
+      "html_title": "<span class=\"work-title\">Editha's Burglar</span>",
+      "work_type": "novel",
+      "publication_year": 1878,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 4,
+    "slug": "a-lady-of-quality",
+    "title": "A Lady of Quality",
+    "formatted_title": "A Lady of Quality",
+    "html_title": "<span class=\"work-title\">A Lady of Quality</span>",
+    "work_type": "novel",
+    "publication_year": 1896,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:36:33.0294"
+}

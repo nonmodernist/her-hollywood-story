@@ -1,0 +1,167 @@
+{
+  "id": 26,
+  "slug": "katherine-leiser-robbins",
+  "name": "Katherine Leiser Robbins",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 4,
+    "first_adaptation": 1918,
+    "last_adaptation": 1920,
+    "year_span": 2,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 3
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2,
+      "1920": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 48,
+      "slug": "the-risky-road-1918",
+      "title": "The Risky Road",
+      "html_title": "<span class=\"film-title\">The Risky Road</span>",
+      "year": 1918,
+      "studio": "Universal",
+      "directors": "Ida May Park",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "\"Her Fling\"",
+      "work_html_title": "<span class=\"work-title\">\"Her Fling\"</span>",
+      "work_id": 46
+    },
+    {
+      "id": 947,
+      "slug": "the-scarlet-shadow-1919",
+      "title": "The Scarlet Shadow",
+      "html_title": "<span class=\"film-title\">The Scarlet Shadow</span>",
+      "year": 1919,
+      "studio": "Universal",
+      "directors": "Robert Z. Leonard",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "The Scarlet Stain",
+      "work_html_title": "<span class=\"work-title\">The Scarlet Stain</span>",
+      "work_id": 849
+    },
+    {
+      "id": 946,
+      "slug": "in-follys-trail-1920",
+      "title": "In Folly's Trail",
+      "html_title": "<span class=\"film-title\">In Folly's Trail</span>",
+      "year": 1920,
+      "studio": "Universal",
+      "directors": "Rollin Sturgeon",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "In Folly's Trail",
+      "work_html_title": "<span class=\"work-title\">In Folly's Trail</span>",
+      "work_id": 848
+    },
+    {
+      "id": 945,
+      "slug": "the-gilded-dream-1920",
+      "title": "The Gilded Dream",
+      "html_title": "<span class=\"film-title\">The Gilded Dream</span>",
+      "year": 1920,
+      "studio": "Universal",
+      "directors": "Rollin Sturgeon",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Gilded Dream",
+      "work_html_title": "<span class=\"work-title\">The Gilded Dream</span>",
+      "work_id": 847
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 46,
+      "slug": "her-fling",
+      "title": "\"Her Fling\"",
+      "formatted_title": "\"Her Fling\"",
+      "html_title": "<span class=\"work-title\">\"Her Fling\"</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 849,
+      "slug": "the-scarlet-stain",
+      "title": "The Scarlet Stain",
+      "formatted_title": "The Scarlet Stain",
+      "html_title": "<span class=\"work-title\">The Scarlet Stain</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 848,
+      "slug": "in-follys-trail",
+      "title": "In Folly's Trail",
+      "formatted_title": "In Folly's Trail",
+      "html_title": "<span class=\"work-title\">In Folly's Trail</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 847,
+      "slug": "the-gilded-dream",
+      "title": "The Gilded Dream",
+      "formatted_title": "The Gilded Dream",
+      "html_title": "<span class=\"work-title\">The Gilded Dream</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 46,
+    "slug": "her-fling",
+    "title": "\"Her Fling\"",
+    "formatted_title": "\"Her Fling\"",
+    "html_title": "<span class=\"work-title\">\"Her Fling\"</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:44:44.513472"
+}

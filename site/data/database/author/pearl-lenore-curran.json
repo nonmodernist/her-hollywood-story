@@ -1,0 +1,78 @@
+{
+  "id": 183,
+  "slug": "pearl-lenore-curran",
+  "name": "Pearl Lenore Curran",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1920,
+    "last_adaptation": 1920,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 487,
+      "slug": "what-happened-to-rosa-1920",
+      "title": "What Happened to Rosa",
+      "html_title": "<span class=\"film-title\">What Happened to Rosa</span>",
+      "year": 1920,
+      "studio": "The Mabel Normand Company",
+      "directors": "Victor Schertzinger",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "work_title": "\"Rosa Alvaro, Entrante\"",
+      "work_html_title": "<span class=\"work-title\">\"Rosa Alvaro, Entrante\"</span>",
+      "work_id": 419
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 419,
+      "slug": "rosa-alvaro-entrante",
+      "title": "\"Rosa Alvaro, Entrante\"",
+      "formatted_title": "\"Rosa Alvaro, Entrante\"",
+      "html_title": "<span class=\"work-title\">\"Rosa Alvaro, Entrante\"</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 419,
+    "slug": "rosa-alvaro-entrante",
+    "title": "\"Rosa Alvaro, Entrante\"",
+    "formatted_title": "\"Rosa Alvaro, Entrante\"",
+    "html_title": "<span class=\"work-title\">\"Rosa Alvaro, Entrante\"</span>",
+    "work_type": "novel",
+    "publication_year": 1919,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-19T17:55:47.602155"
+}

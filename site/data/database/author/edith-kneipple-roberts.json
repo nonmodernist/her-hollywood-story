@@ -1,0 +1,78 @@
+{
+  "id": 86,
+  "slug": "edith-kneipple-roberts",
+  "name": "Edith Kneipple Roberts",
+  "birth_year": 1902,
+  "death_year": 1966,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "1902-1966. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q120433162",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1947,
+    "last_adaptation": 1947,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 290,
+      "slug": "that-hagen-girl-1947",
+      "title": "That Hagen Girl",
+      "html_title": "<span class=\"film-title\">That Hagen Girl</span>",
+      "year": 1947,
+      "studio": "Warner Bros",
+      "directors": "Peter Godfrey",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "That Hagen Girl",
+      "work_html_title": "<span class=\"work-title\">That Hagen Girl</span>",
+      "work_id": 243
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 243,
+      "slug": "that-hagen-girl",
+      "title": "That Hagen Girl",
+      "formatted_title": "That Hagen Girl",
+      "html_title": "<span class=\"work-title\">That Hagen Girl</span>",
+      "work_type": "novel",
+      "publication_year": 1946,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 243,
+    "slug": "that-hagen-girl",
+    "title": "That Hagen Girl",
+    "formatted_title": "That Hagen Girl",
+    "html_title": "<span class=\"work-title\">That Hagen Girl</span>",
+    "work_type": "novel",
+    "publication_year": 1946,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:52:29.293634"
+}

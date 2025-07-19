@@ -1,0 +1,111 @@
+{
+  "id": 486,
+  "slug": "priscilla-wayne",
+  "name": "Priscilla Wayne",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": "pseud of Bessie Toulouse Sprague",
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1934,
+    "last_adaptation": 1934,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Teenage",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1056,
+      "slug": "love-past-thirty-1934",
+      "title": "Love Past Thirty",
+      "html_title": "<span class=\"film-title\">Love Past Thirty</span>",
+      "year": 1934,
+      "studio": "Freuler Film Associates",
+      "directors": "Vin Moore",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Love Past Thirty",
+      "work_html_title": "<span class=\"work-title\">Love Past Thirty</span>",
+      "work_id": 948
+    },
+    {
+      "id": 1057,
+      "slug": "marriage-on-approval-1934",
+      "title": "Marriage on Approval",
+      "html_title": "<span class=\"film-title\">Marriage on Approval</span>",
+      "year": 1934,
+      "studio": "Freuler Film Associates",
+      "directors": "Howard Higgin",
+      "genres": [
+        "Drama",
+        "Teenage"
+      ],
+      "has_media": false,
+      "work_title": "Marriage on Approval",
+      "work_html_title": "<span class=\"work-title\">Marriage on Approval</span>",
+      "work_id": 949
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 948,
+      "slug": "love-past-thirty",
+      "title": "Love Past Thirty",
+      "formatted_title": "Love Past Thirty",
+      "html_title": "<span class=\"work-title\">Love Past Thirty</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 949,
+      "slug": "marriage-on-approval",
+      "title": "Marriage on Approval",
+      "formatted_title": "Marriage on Approval",
+      "html_title": "<span class=\"work-title\">Marriage on Approval</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 948,
+    "slug": "love-past-thirty",
+    "title": "Love Past Thirty",
+    "formatted_title": "Love Past Thirty",
+    "html_title": "<span class=\"work-title\">Love Past Thirty</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:53:32.292162"
+}

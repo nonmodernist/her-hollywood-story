@@ -1,0 +1,79 @@
+{
+  "id": 65,
+  "slug": "something-different-1920",
+  "title": "Something Different",
+  "formatted_title": "Something Different",
+  "html_title": "<span class=\"film-title\">Something Different</span>",
+  "release_year": 1920,
+  "runtime_minutes": 50,
+  "country_of_production": "United States",
+  "genres": [
+    "Drama"
+  ],
+  "studio": "Realart",
+  "production_companies": "Realart Pictures Corp.",
+  "distribution_companies": "Realart Pictures Corp.",
+  "directors": "R. William Neill",
+  "writers": "Kathryne Stuart",
+  "cast_members": "Constance Binney|Lucy Fox|Ward Crane|Crane Wilbur|Gertrude Hillman|Mark Smith|Grace Studdiford|William Riley Hatch|Adolph Millar",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 17867,
+  "source_work": {
+    "id": 62,
+    "slug": "calderons-prisoner",
+    "title": "Calderon's Prisoner",
+    "formatted_title": "Calderon's Prisoner",
+    "html_title": "<span class=\"work-title\">Calderon's Prisoner</span>",
+    "work_type": "novel",
+    "publication_year": 1903,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 1,
+    "year_to_adaptation": 17
+  },
+  "author": {
+    "id": 24,
+    "slug": "alice-duer-miller",
+    "name": "Alice Duer Miller",
+    "birth_year": 1894,
+    "death_year": 1985,
+    "nationality": "United States",
+    "film_count": 22
+  },
+  "other_adaptations": [],
+  "adaptation_context": null,
+  "media": [
+    {
+      "id": 160,
+      "media_type": "still",
+      "title": "Something Different (1920) - 2.jpg",
+      "caption": "Still from the American drama film Something Different (1920) with Ward Crane and Constance Binney, on page 83 of the February 12, 1921 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Something_Different_%281920%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Something_Different_%281920%29_-_2.jpg/300px-Something_Different_%281920%29_-_2.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Something_Different_(1920)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Realart Pictures Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 161,
+      "media_type": "still",
+      "title": "Something Different (1920) - 1.jpg",
+      "caption": "Still from the American drama film Something Different (1920) with Constance Binney and Ward Crane, on page 75 of the January 8, 1921 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Something_Different_%281920%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Something_Different_%281920%29_-_1.jpg/300px-Something_Different_%281920%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Something_Different_(1920)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Realart Pictures Corporation",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

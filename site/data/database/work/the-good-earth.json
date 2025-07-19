@@ -1,0 +1,64 @@
+{
+  "id": 355,
+  "slug": "the-good-earth",
+  "title": "The Good Earth",
+  "formatted_title": "The Good Earth",
+  "html_title": "<span class=\"work-title\">The Good Earth</span>",
+  "work_type": "novel",
+  "publication_year": 1931,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 146,
+    "slug": "pearl-s-buck",
+    "name": "Pearl S. Buck",
+    "birth_year": 1892,
+    "death_year": 1973,
+    "film_count": 5
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 6,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 419,
+      "slug": "the-good-earth-1937",
+      "title": "The Good Earth",
+      "html_title": "<span class=\"film-title\">The Good Earth</span>",
+      "year": 1937,
+      "studio": "MGM",
+      "directors": "Sidney Franklin|Victor Fleming|Gustav Machaty",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 6
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": {
+    "year": 1937,
+    "publisher": "Grosset & Dunlap",
+    "notes": "Dust jacket.",
+    "count": 0
+  },
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T17:58:54.487159"
+}

@@ -1,0 +1,65 @@
+{
+  "id": 396,
+  "slug": "the-eagles-mate",
+  "title": "The Eagle's Mate",
+  "formatted_title": "The Eagle's Mate",
+  "html_title": "<span class=\"work-title\">The Eagle's Mate</span>",
+  "work_type": "novel",
+  "publication_year": 1914,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 166,
+    "slug": "anna-alice-chapin",
+    "name": "Anna Alice Chapin",
+    "birth_year": 1880,
+    "death_year": 1920,
+    "film_count": 3
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 0,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 464,
+      "slug": "the-eagles-mate-1914",
+      "title": "The Eagle's Mate",
+      "html_title": "<span class=\"film-title\">The Eagle's Mate</span>",
+      "year": 1914,
+      "studio": "Famous Players",
+      "directors": "James Kirkwood",
+      "genres": [
+        "Melodrama",
+        "Rural"
+      ],
+      "has_media": true,
+      "years_after_publication": 0
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": {
+    "year": 1914,
+    "publisher": "Grosset & Dunlap",
+    "notes": "7 pictures incl. 2 double spreads and end papers, color cover",
+    "count": 0
+  },
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-03T15:27:22.518031"
+}

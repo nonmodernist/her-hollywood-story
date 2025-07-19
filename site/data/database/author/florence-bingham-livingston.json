@@ -1,0 +1,78 @@
+{
+  "id": 332,
+  "slug": "florence-bingham-livingston",
+  "name": "Florence Bingham Livingston",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1923,
+    "last_adaptation": 1923,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 757,
+      "slug": "the-custard-cup-1923",
+      "title": "The Custard Cup",
+      "html_title": "<span class=\"film-title\">The Custard Cup</span>",
+      "year": 1923,
+      "studio": "Fox Film",
+      "directors": "Herbert Brenon",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "The Custard Cup",
+      "work_html_title": "<span class=\"work-title\">The Custard Cup</span>",
+      "work_id": 672
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 672,
+      "slug": "the-custard-cup",
+      "title": "The Custard Cup",
+      "formatted_title": "The Custard Cup",
+      "html_title": "<span class=\"work-title\">The Custard Cup</span>",
+      "work_type": "novel",
+      "publication_year": 1921,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 672,
+    "slug": "the-custard-cup",
+    "title": "The Custard Cup",
+    "formatted_title": "The Custard Cup",
+    "html_title": "<span class=\"work-title\">The Custard Cup</span>",
+    "work_type": "novel",
+    "publication_year": 1921,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T02:41:44.908962"
+}

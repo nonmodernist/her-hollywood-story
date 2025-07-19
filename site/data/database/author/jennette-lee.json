@@ -1,0 +1,78 @@
+{
+  "id": 316,
+  "slug": "jennette-lee",
+  "name": "Jennette Lee",
+  "birth_year": 1860,
+  "death_year": 1951,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer and academic (1860–1951). Born in Bristol. Died in Northampton. Occupations: writer, novelist, university teacher, scholar of English. Notable works: Mr. Achilles",
+  "author_notes": "aka Jennette Barbour Perry Lee",
+  "wikidata_id": "Q39167718",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1918,
+    "last_adaptation": 1918,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 737,
+      "slug": "ruler-of-the-road-1918",
+      "title": "Ruler of the Road",
+      "html_title": "<span class=\"film-title\">Ruler of the Road</span>",
+      "year": 1918,
+      "studio": "Pathé Exchange",
+      "directors": "Ernest C. Warde",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Simeon Tetlow's Shadow",
+      "work_html_title": "<span class=\"work-title\">Simeon Tetlow's Shadow</span>",
+      "work_id": 651
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 651,
+      "slug": "simeon-tetlows-shadow",
+      "title": "Simeon Tetlow's Shadow",
+      "formatted_title": "Simeon Tetlow's Shadow",
+      "html_title": "<span class=\"work-title\">Simeon Tetlow's Shadow</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 651,
+    "slug": "simeon-tetlows-shadow",
+    "title": "Simeon Tetlow's Shadow",
+    "formatted_title": "Simeon Tetlow's Shadow",
+    "html_title": "<span class=\"work-title\">Simeon Tetlow's Shadow</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:24.974668"
+}

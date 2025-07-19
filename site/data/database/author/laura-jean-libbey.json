@@ -1,0 +1,111 @@
+{
+  "id": 50,
+  "slug": "laura-jean-libbey",
+  "name": "Laura Jean Libbey",
+  "birth_year": 1862,
+  "death_year": 1924,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in New York City. Died in Brooklyn. Occupations: novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q6499053",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1926,
+    "last_adaptation": 1926,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 2
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 135,
+      "slug": "a-poor-girls-romance-1926",
+      "title": "A Poor Girl's Romance",
+      "html_title": "<span class=\"film-title\">A Poor Girl's Romance</span>",
+      "year": 1926,
+      "studio": "Robertson-Cole",
+      "directors": "F. Harmon Weight",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "A Poor Girl's Romance",
+      "work_html_title": "<span class=\"work-title\">A Poor Girl's Romance</span>",
+      "work_id": 129
+    },
+    {
+      "id": 136,
+      "slug": "when-love-grows-cold-1926",
+      "title": "When Love Grows Cold",
+      "html_title": "<span class=\"film-title\">When Love Grows Cold</span>",
+      "year": 1926,
+      "studio": "Robertson-Cole",
+      "directors": "Harry O. Hoyt",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "\"When Love Grows Cold\"",
+      "work_html_title": "<span class=\"work-title\">\"When Love Grows Cold\"</span>",
+      "work_id": 130
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 129,
+      "slug": "a-poor-girls-romance",
+      "title": "A Poor Girl's Romance",
+      "formatted_title": "A Poor Girl's Romance",
+      "html_title": "<span class=\"work-title\">A Poor Girl's Romance</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 130,
+      "slug": "when-love-grows-cold",
+      "title": "\"When Love Grows Cold\"",
+      "formatted_title": "\"When Love Grows Cold\"",
+      "html_title": "<span class=\"work-title\">\"When Love Grows Cold\"</span>",
+      "work_type": "novel",
+      "publication_year": 1895,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 129,
+    "slug": "a-poor-girls-romance",
+    "title": "A Poor Girl's Romance",
+    "formatted_title": "A Poor Girl's Romance",
+    "html_title": "<span class=\"work-title\">A Poor Girl's Romance</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:37.350922"
+}

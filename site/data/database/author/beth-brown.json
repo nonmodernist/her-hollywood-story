@@ -1,0 +1,83 @@
+{
+  "id": 140,
+  "slug": "beth-brown",
+  "name": "Beth Brown",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1929,
+    "last_adaptation": 1929,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 401,
+      "slug": "applause-1929",
+      "title": "Applause",
+      "html_title": "<span class=\"film-title\">Applause</span>",
+      "year": 1929,
+      "studio": "Paramount",
+      "directors": "Rouben Mamoulian",
+      "genres": [
+        "Drama",
+        "with songs"
+      ],
+      "has_media": true,
+      "work_title": "Applause",
+      "work_html_title": "<span class=\"work-title\">Applause</span>",
+      "work_id": 338
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 338,
+      "slug": "applause",
+      "title": "Applause",
+      "formatted_title": "Applause",
+      "html_title": "<span class=\"work-title\">Applause</span>",
+      "work_type": "novel",
+      "publication_year": 1928,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 338,
+    "slug": "applause",
+    "title": "Applause",
+    "formatted_title": "Applause",
+    "html_title": "<span class=\"work-title\">Applause</span>",
+    "work_type": "novel",
+    "publication_year": 1928,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-18T02:59:06.541005"
+}

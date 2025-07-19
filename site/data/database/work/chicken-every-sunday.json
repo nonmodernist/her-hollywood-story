@@ -1,0 +1,79 @@
+{
+  "id": 917,
+  "slug": "chicken-every-sunday",
+  "title": "Chicken Every Sunday",
+  "formatted_title": "Chicken Every Sunday",
+  "html_title": "<span class=\"work-title\">Chicken Every Sunday</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 464,
+    "slug": "rosemary-drachman-taylor",
+    "name": "Rosemary Drachman Taylor",
+    "birth_year": 1899,
+    "death_year": 1981,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 8,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 8
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1022,
+      "slug": "chicken-every-sunday-1948",
+      "title": "Chicken Every Sunday",
+      "html_title": "<span class=\"film-title\">Chicken Every Sunday</span>",
+      "year": 1948,
+      "studio": "20th Century Fox",
+      "directors": "George Seaton",
+      "genres": [
+        "Comedy-drama",
+        "Domestic",
+        "Historical"
+      ],
+      "has_media": false,
+      "years_after_publication": 1948
+    },
+    {
+      "id": 1023,
+      "slug": "the-hefferan-family-1956",
+      "title": "The Hefferan Family",
+      "html_title": "<span class=\"film-title\">The Hefferan Family</span>",
+      "year": 1956,
+      "studio": null,
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "years_after_publication": 1956
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1948,
+      "to_year": 1956,
+      "gap_years": 8
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T17:52:17.040556"
+}

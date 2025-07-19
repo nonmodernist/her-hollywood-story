@@ -1,0 +1,110 @@
+{
+  "id": 169,
+  "slug": "katherine-thatcher-clugston",
+  "name": "Katherine Thatcher Clugston",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1934,
+    "last_adaptation": 1934,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 470,
+      "slug": "finishing-school-1934",
+      "title": "Finishing School",
+      "html_title": "<span class=\"film-title\">Finishing School</span>",
+      "year": 1934,
+      "studio": "RKO",
+      "directors": "Wanda Tuchock|George Nicholls Jr.",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "These Days",
+      "work_html_title": "<span class=\"work-title\">These Days</span>",
+      "work_id": 402
+    },
+    {
+      "id": 469,
+      "slug": "the-last-gentleman-1934",
+      "title": "The Last Gentleman",
+      "html_title": "<span class=\"film-title\">The Last Gentleman</span>",
+      "year": 1934,
+      "studio": "20th Century Pictures",
+      "directors": "Sidney Lanfield",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "The Last Gentleman",
+      "work_html_title": "<span class=\"work-title\">The Last Gentleman</span>",
+      "work_id": 401
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 402,
+      "slug": "these-days",
+      "title": "These Days",
+      "formatted_title": "These Days",
+      "html_title": "<span class=\"work-title\">These Days</span>",
+      "work_type": "novel",
+      "publication_year": 1928,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 401,
+      "slug": "the-last-gentleman",
+      "title": "The Last Gentleman",
+      "formatted_title": "The Last Gentleman",
+      "html_title": "<span class=\"work-title\">The Last Gentleman</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 402,
+    "slug": "these-days",
+    "title": "These Days",
+    "formatted_title": "These Days",
+    "html_title": "<span class=\"work-title\">These Days</span>",
+    "work_type": "novel",
+    "publication_year": 1928,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-19T17:55:47.602155"
+}

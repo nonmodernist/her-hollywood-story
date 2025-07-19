@@ -1,0 +1,131 @@
+{
+  "id": 383,
+  "slug": "martha-ostenso",
+  "name": "Martha Ostenso",
+  "birth_year": 1900,
+  "death_year": 1963,
+  "nationality": "Norway, United States",
+  "literary_movement": null,
+  "biographical_notes": "Norwegian-Canadian novelist and screenwriter (1900-1963). Born in Haus Municipality. Died in Seattle. Occupations: journalist, short story writer, novelist, social worker, poet. Notable works: Wild Geese",
+  "author_notes": null,
+  "wikidata_id": "Q6774512",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 2,
+    "first_adaptation": 1927,
+    "last_adaptation": 1946,
+    "year_span": 19,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Biography",
+        "count": 1
+      },
+      {
+        "genre": "Medical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1,
+      "1930": 1,
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 859,
+      "slug": "wild-geese-1927",
+      "title": "Wild Geese",
+      "html_title": "<span class=\"film-title\">Wild Geese</span>",
+      "year": 1927,
+      "studio": "Tiffany-Stahl Productions",
+      "directors": "Phil Stone",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Wild Geese",
+      "work_html_title": "<span class=\"work-title\">Wild Geese</span>",
+      "work_id": 768
+    },
+    {
+      "id": 860,
+      "slug": "wild-geese-1933",
+      "title": "Wild Geese",
+      "html_title": "<span class=\"film-title\">Wild Geese</span>",
+      "year": 1933,
+      "studio": "Majestic Pictures",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "Wild Geese",
+      "work_html_title": "<span class=\"work-title\">Wild Geese</span>",
+      "work_id": 768
+    },
+    {
+      "id": 861,
+      "slug": "sister-kenny-1946",
+      "title": "Sister Kenny",
+      "html_title": "<span class=\"film-title\">Sister Kenny</span>",
+      "year": 1946,
+      "studio": "RKO",
+      "directors": "Dudley Nichols",
+      "genres": [
+        "Biography",
+        "Medical"
+      ],
+      "has_media": false,
+      "work_title": "And They Shall Walk",
+      "work_html_title": "<span class=\"work-title\">And They Shall Walk</span>",
+      "work_id": 769
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 768,
+      "slug": "wild-geese",
+      "title": "Wild Geese",
+      "formatted_title": "Wild Geese",
+      "html_title": "<span class=\"work-title\">Wild Geese</span>",
+      "work_type": "novel",
+      "publication_year": 1925,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 769,
+      "slug": "and-they-shall-walk",
+      "title": "And They Shall Walk",
+      "formatted_title": "And They Shall Walk",
+      "html_title": "<span class=\"work-title\">And They Shall Walk</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 768,
+    "slug": "wild-geese",
+    "title": "Wild Geese",
+    "formatted_title": "Wild Geese",
+    "html_title": "<span class=\"work-title\">Wild Geese</span>",
+    "work_type": "novel",
+    "publication_year": 1925,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T14:48:47.166713"
+}

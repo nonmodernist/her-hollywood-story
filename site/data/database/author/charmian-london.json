@@ -1,0 +1,78 @@
+{
+  "id": 328,
+  "slug": "charmian-london",
+  "name": "Charmian London",
+  "birth_year": 1871,
+  "death_year": 1955,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1871-1955). Born in Los Angeles. Died in Glen Ellen. Occupations: writer, biographer",
+  "author_notes": null,
+  "wikidata_id": "Q5086489",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1943,
+    "last_adaptation": 1943,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Biography",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 752,
+      "slug": "jack-london-1943",
+      "title": "Jack London",
+      "html_title": "<span class=\"film-title\">Jack London</span>",
+      "year": 1943,
+      "studio": "Samuel Bronston Pictures",
+      "directors": "Alfred Santell",
+      "genres": [
+        "Biography"
+      ],
+      "has_media": false,
+      "work_title": "The Book of Jack London",
+      "work_html_title": "<span class=\"work-title\">The Book of Jack London</span>",
+      "work_id": 667
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 667,
+      "slug": "the-book-of-jack-london",
+      "title": "The Book of Jack London",
+      "formatted_title": "The Book of Jack London",
+      "html_title": "<span class=\"work-title\">The Book of Jack London</span>",
+      "work_type": "novel",
+      "publication_year": 1921,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 667,
+    "slug": "the-book-of-jack-london",
+    "title": "The Book of Jack London",
+    "formatted_title": "The Book of Jack London",
+    "html_title": "<span class=\"work-title\">The Book of Jack London</span>",
+    "work_type": "novel",
+    "publication_year": 1921,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:38.602519"
+}

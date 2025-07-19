@@ -1,24 +1,61 @@
 {
-  "metadata": {
-    "generated": "2025-07-18T19:11:00.870Z",
-    "totalMembers": 5,
-    "totalFilms": 125,
-    "yearRange": [
-      1915,
-      1961
-    ]
-  },
+  "pattern": "twenty-timers",
+  "title": "The Twenty-Timers Club",
+  "description": "Five American women whose novels Hollywood couldn't stop adapting",
   "members": [
     {
       "id": 6,
       "name": "Mary Roberts Rinehart",
       "slug": "mary-roberts-rinehart",
       "filmCount": 31,
-      "worksAdapted": 24,
       "yearStart": 1915,
       "yearEnd": 1959,
       "yearSpan": 44,
-      "primaryStudios": [
+      "filmsByDecade": {
+        "1910": 10,
+        "1920": 13,
+        "1930": 5,
+        "1940": 2,
+        "1950": 1
+      },
+      "mostAdaptedWorks": [
+        {
+          "id": 7,
+          "title": "The Circular Staircase",
+          "formatted_title": "The Circular Staircase",
+          "html_title": "<span class=\"work-title\">The Circular Staircase</span>",
+          "adaptationCount": 4
+        },
+        {
+          "id": 220,
+          "title": "Miss Pinkerton",
+          "formatted_title": "Miss Pinkerton",
+          "html_title": "<span class=\"work-title\">Miss Pinkerton</span>",
+          "adaptationCount": 2
+        },
+        {
+          "id": 835,
+          "title": "K — the Unknown",
+          "formatted_title": "K — the Unknown",
+          "html_title": "<span class=\"work-title\">K — the Unknown</span>",
+          "adaptationCount": 2
+        },
+        {
+          "id": 842,
+          "title": "Twenty-Three and a Half Hours' Leave",
+          "formatted_title": "Twenty-Three and a Half Hours' Leave",
+          "html_title": "<span class=\"work-title\">Twenty-Three and a Half Hours' Leave</span>",
+          "adaptationCount": 2
+        },
+        {
+          "id": 843,
+          "title": "What Happened to Father",
+          "formatted_title": "What Happened to Father",
+          "html_title": "<span class=\"work-title\">What Happened to Father</span>",
+          "adaptationCount": 2
+        }
+      ],
+      "topStudios": [
         {
           "studio": "Famous Players",
           "count": 3
@@ -30,52 +67,144 @@
         {
           "studio": "Eminent Authors Pictures",
           "count": 2
+        },
+        {
+          "studio": "Ward Lascelle Productions",
+          "count": 2
+        },
+        {
+          "studio": "Universal",
+          "count": 2
         }
       ],
-      "genres": [
-        "Mystery",
-        "Comedy",
-        "Drama",
-        "Crime",
-        "Comedy-drama"
-      ],
-      "remakeCount": 5,
-      "mostAdaptedWork": {
-        "id": 7,
-        "title": "The Circular Staircase",
-        "adaptationCount": 4,
-        "years": [
-          1915,
-          1926,
-          1930,
-          1959
-        ]
-      },
-      "fascinatingFact": "Invented the 'Had I But Known' mystery genre and 'The Butler Did It' trope",
-      "signatureWork": "The Circular Staircase / The Bat",
-      "deepDiveTeaser": "Did Rinehart's mysterious villain 'The Bat' inspire the Batman we know today? Bob Kane claimed this 1926 adaptation influenced his creation of the Dark Knight.",
-      "hasDeepDive": false,
-      "hasPhotoplayEditions": false,
-      "filmsByDecade": {
-        "1910": 10,
-        "1920": 13,
-        "1930": 5,
-        "1940": 2,
-        "1950": 1
-      },
       "silentFilmCount": 23,
-      "talkieFilmCount": 8
+      "timelineData": {
+        "firstFilm": {
+          "id": 8,
+          "title": "The Circular Staircase",
+          "release_year": 1915,
+          "runtime_minutes": null,
+          "country_of_production": null,
+          "genres": [
+            "Mystery"
+          ],
+          "studio": "Selig Polyscope",
+          "source_work_id": 7,
+          "adaptation_notes": null,
+          "afi_catalog_id": 16431,
+          "availability": "lost",
+          "archive_location": null,
+          "verification_source": null,
+          "women_in_key_roles": null,
+          "added_by": "initial_import",
+          "created_at": "2025-06-17T13:57:07.239452",
+          "updated_at": "2025-07-18T18:36:32.713708",
+          "directors": "Edward J. Le Saint",
+          "writers": null,
+          "cast_members": "Guy Oliver|Eugenie Besserer|Stella Razeto|Edith Johnson|William Howard|Anna Dodge|Jane Keckley|F. J. Tyler|Fred Huntley|Clyde Benson",
+          "production_companies": "Selig Polyscope Co.; Selig Red Seal Plays",
+          "distribution_companies": "V-L-S-E, Inc.",
+          "color_info": null,
+          "slug": "the-circular-staircase-1915",
+          "formatted_title": "The Circular Staircase",
+          "html_title": "<span class=\"film-title\">The Circular Staircase</span>",
+          "genres_string": "Mystery",
+          "hasMedia": true,
+          "mediaCount": 2,
+          "decade": 1910
+        },
+        "lastFilm": {
+          "id": 337,
+          "title": "The Bat",
+          "release_year": 1959,
+          "runtime_minutes": null,
+          "country_of_production": null,
+          "genres": [
+            "Drama",
+            "Crime"
+          ],
+          "studio": "Allied Artists",
+          "source_work_id": 7,
+          "adaptation_notes": null,
+          "afi_catalog_id": 52821,
+          "availability": null,
+          "archive_location": null,
+          "verification_source": null,
+          "women_in_key_roles": null,
+          "added_by": "initial_import",
+          "created_at": "2025-06-17T13:57:07.239452",
+          "updated_at": "2025-07-18T18:36:32.713708",
+          "directors": "Crane Wilbur",
+          "writers": "Crane Wilbur",
+          "cast_members": "Vincent Price|Agnes Moorehead|Gavin Gordon|John Sutton|Lenita Lane|Elaine Edwards|Darla Hood|John Bryant|Harvey Stephens|Mike Steele",
+          "production_companies": "Liberty Pictures Corp.",
+          "distribution_companies": "Allied Artists Pictures Corp.",
+          "color_info": null,
+          "slug": "the-bat-1959",
+          "formatted_title": "The Bat",
+          "html_title": "<span class=\"film-title\">The Bat</span>",
+          "genres_string": "Drama, Crime",
+          "hasMedia": true,
+          "mediaCount": 5,
+          "decade": 1950
+        },
+        "peakYear": "1920"
+      }
     },
     {
       "id": 25,
       "name": "Fannie Hurst",
       "slug": "fannie-hurst",
       "filmCount": 27,
-      "worksAdapted": 18,
       "yearStart": 1918,
       "yearEnd": 1961,
       "yearSpan": 43,
-      "primaryStudios": [
+      "filmsByDecade": {
+        "1910": 3,
+        "1920": 9,
+        "1930": 8,
+        "1940": 4,
+        "1950": 2,
+        "1960": 1
+      },
+      "mostAdaptedWorks": [
+        {
+          "id": 185,
+          "title": "Back Street",
+          "formatted_title": "Back Street",
+          "html_title": "<span class=\"work-title\">Back Street</span>",
+          "adaptationCount": 4
+        },
+        {
+          "id": 213,
+          "title": "\"Sister Act\"",
+          "formatted_title": "\"Sister Act\"",
+          "html_title": "<span class=\"work-title\">\"Sister Act\"</span>",
+          "adaptationCount": 4
+        },
+        {
+          "id": 60,
+          "title": "Humoresque",
+          "formatted_title": "Humoresque",
+          "html_title": "<span class=\"work-title\">Humoresque</span>",
+          "adaptationCount": 2
+        },
+        {
+          "id": 87,
+          "title": "\"Back Pay\"",
+          "formatted_title": "\"Back Pay\"",
+          "html_title": "<span class=\"work-title\">\"Back Pay\"</span>",
+          "adaptationCount": 2
+        },
+        {
+          "id": 191,
+          "title": "Imitation of Life",
+          "formatted_title": "Imitation of Life",
+          "html_title": "<span class=\"work-title\">Imitation of Life</span>",
+          "adaptationCount": 2
+        }
+      ],
+      "topStudios": [
         {
           "studio": "Universal",
           "count": 5
@@ -87,53 +216,143 @@
         {
           "studio": "Warner Bros",
           "count": 5
+        },
+        {
+          "studio": "First National",
+          "count": 3
+        },
+        {
+          "studio": "Universal-International",
+          "count": 2
         }
       ],
-      "genres": [
-        "Drama",
-        "Melodrama",
-        "Society",
-        "with songs",
-        "Domestic"
-      ],
-      "remakeCount": 5,
-      "mostAdaptedWork": {
-        "id": 185,
-        "title": "Back Street",
-        "adaptationCount": 4,
-        "years": [
-          1932,
-          1941,
-          1948,
-          1961
-        ]
-      },
-      "fascinatingFact": "Known as 'America's Highest Paid Short Story Writer'",
-      "signatureWork": "Imitation of Life",
-      "deepDiveTeaser": "What was a 'Fannie Hurst marriage'? This groundbreaking author lived separately from her husband for years, pioneering a model of independence that shocked 1920s society.",
-      "hasDeepDive": false,
-      "hasPhotoplayEditions": false,
-      "filmsByDecade": {
-        "1910": 3,
-        "1920": 9,
-        "1930": 8,
-        "1940": 4,
-        "1950": 2,
-        "1960": 1
-      },
       "silentFilmCount": 12,
-      "talkieFilmCount": 15
+      "timelineData": {
+        "firstFilm": {
+          "id": 44,
+          "title": "Her Great Chance",
+          "release_year": 1918,
+          "runtime_minutes": null,
+          "country_of_production": "United States",
+          "genres": [
+            "Drama"
+          ],
+          "studio": "Select Pictures",
+          "source_work_id": 42,
+          "adaptation_notes": null,
+          "afi_catalog_id": 17126,
+          "availability": "lost",
+          "archive_location": null,
+          "verification_source": "Wikidata",
+          "women_in_key_roles": null,
+          "added_by": "initial_import",
+          "created_at": "2025-06-17T13:57:07.239452",
+          "updated_at": "2025-07-18T18:36:32.713708",
+          "directors": "Charles Maigne",
+          "writers": "Charles Maigne",
+          "cast_members": "Alice Brady|David Powell|Nellie Parker-Spaulding|Gloria Goodwin|Gertrude Barry|Hardy Kirkland|Ormi Hawley|C. A. de Lima|Jefferson de Angelis|Louis Sherwin",
+          "production_companies": "Select Pictures Corp.",
+          "distribution_companies": "Select Pictures Corp.",
+          "color_info": "black-and-white",
+          "slug": "her-great-chance-1918",
+          "formatted_title": "Her Great Chance",
+          "html_title": "<span class=\"film-title\">Her Great Chance</span>",
+          "genres_string": "Drama",
+          "hasMedia": true,
+          "mediaCount": 2,
+          "decade": 1910
+        },
+        "lastFilm": {
+          "id": 341,
+          "title": "Back Street",
+          "release_year": 1961,
+          "runtime_minutes": null,
+          "country_of_production": null,
+          "genres": [
+            "Romance"
+          ],
+          "studio": "Universal-International",
+          "source_work_id": 185,
+          "adaptation_notes": null,
+          "afi_catalog_id": 22474,
+          "availability": null,
+          "archive_location": null,
+          "verification_source": null,
+          "women_in_key_roles": null,
+          "added_by": "initial_import",
+          "created_at": "2025-06-17T13:57:07.239452",
+          "updated_at": "2025-07-18T18:36:32.713708",
+          "directors": "David Miller",
+          "writers": "Eleanore Griffin|William Ludwig",
+          "cast_members": "Susan Hayward|John Gavin|Vera Miles|Charles Drake|Virginia Grey|Reginald Gardiner|Tammy Marihugh|Robert Eyer|Natalie Schafer|Doreen McLean",
+          "production_companies": "Carrollton, Inc.|Ross Hunter Productions, Inc.",
+          "distribution_companies": "Universal-International",
+          "color_info": null,
+          "slug": "back-street-1961",
+          "formatted_title": "Back Street",
+          "html_title": "<span class=\"film-title\">Back Street</span>",
+          "genres_string": "Romance",
+          "hasMedia": false,
+          "mediaCount": 0,
+          "decade": 1960
+        },
+        "peakYear": "1920"
+      }
     },
     {
       "id": 40,
       "name": "Edna Ferber",
       "slug": "edna-ferber",
       "filmCount": 24,
-      "worksAdapted": 16,
       "yearStart": 1918,
       "yearEnd": 1960,
       "yearSpan": 42,
-      "primaryStudios": [
+      "filmsByDecade": {
+        "1910": 2,
+        "1920": 8,
+        "1930": 8,
+        "1940": 1,
+        "1950": 3,
+        "1960": 2
+      },
+      "mostAdaptedWorks": [
+        {
+          "id": 100,
+          "title": "So Big",
+          "formatted_title": "So Big",
+          "html_title": "<span class=\"work-title\">So Big</span>",
+          "adaptationCount": 3
+        },
+        {
+          "id": 145,
+          "title": "Show Boat",
+          "formatted_title": "Show Boat",
+          "html_title": "<span class=\"work-title\">Show Boat</span>",
+          "adaptationCount": 3
+        },
+        {
+          "id": 491,
+          "title": "Old Man Minick",
+          "formatted_title": "\"Old Man Minick\"",
+          "html_title": "<span class=\"work-title short-story\">\"Old Man Minick\"</span>",
+          "adaptationCount": 3
+        },
+        {
+          "id": 165,
+          "title": "Cimarron",
+          "formatted_title": "Cimarron",
+          "html_title": "<span class=\"work-title\">Cimarron</span>",
+          "adaptationCount": 2
+        },
+        {
+          "id": 481,
+          "title": "Classified",
+          "formatted_title": "Classified",
+          "html_title": "<span class=\"work-title\">Classified</span>",
+          "adaptationCount": 2
+        }
+      ],
+      "topStudios": [
         {
           "studio": "Warner Bros",
           "count": 7
@@ -145,52 +364,135 @@
         {
           "studio": "First National",
           "count": 2
+        },
+        {
+          "studio": "MGM",
+          "count": 2
+        },
+        {
+          "studio": "Metro Pictures",
+          "count": 1
         }
       ],
-      "genres": [
-        "Comedy-drama",
-        "Drama",
-        "Comedy",
-        "Domestic",
-        "Romance"
-      ],
-      "remakeCount": 5,
-      "mostAdaptedWork": {
-        "id": 100,
-        "title": "So Big",
-        "adaptationCount": 3,
-        "years": [
-          1924,
-          1932,
-          1953
-        ]
-      },
-      "fascinatingFact": "Pulitzer Prize winner and Broadway sensation",
-      "signatureWork": "Show Boat (theatrical) / Giant (cinematic)",
-      "deepDiveTeaser": "From the set of 'Giant,' Ferber befriended James Dean in his final role. She co-founded Giant Productions with director George Stevens, taking unprecedented control over the adaptation.",
-      "hasDeepDive": false,
-      "hasPhotoplayEditions": false,
-      "filmsByDecade": {
-        "1910": 2,
-        "1920": 8,
-        "1930": 8,
-        "1940": 1,
-        "1950": 3,
-        "1960": 2
-      },
       "silentFilmCount": 10,
-      "talkieFilmCount": 14
+      "timelineData": {
+        "firstFilm": {
+          "id": 555,
+          "title": "Our Mrs. McChesney",
+          "release_year": 1918,
+          "runtime_minutes": null,
+          "country_of_production": "United States",
+          "genres": [
+            "Comedy-drama"
+          ],
+          "studio": "Metro Pictures",
+          "source_work_id": 483,
+          "adaptation_notes": null,
+          "afi_catalog_id": 17224,
+          "availability": "lost",
+          "archive_location": null,
+          "verification_source": null,
+          "women_in_key_roles": null,
+          "added_by": "Women Writers: From Page to Screen",
+          "created_at": "2025-07-03T00:18:13.765152",
+          "updated_at": "2025-07-18T18:36:32.713708",
+          "directors": "Ralph W. Ince",
+          "writers": "Luther A. Reed",
+          "cast_members": "Ethel Barrymore|Huntley Gordon|Wilfred Lytell|Lucille Lee Stewart|John Daly Murphy|Walter Percival|William H. St. James|Ricca Allen|George Trimble|Sammy Cooper",
+          "production_companies": "Metro Pictures Corp.",
+          "distribution_companies": "Metro Pictures Corp.",
+          "color_info": "black-and-white",
+          "slug": "our-mrs-mcchesney-1918",
+          "formatted_title": "Our Mrs. McChesney",
+          "html_title": "<span class=\"film-title\">Our Mrs. McChesney</span>",
+          "genres_string": "Comedy-drama",
+          "hasMedia": true,
+          "mediaCount": 2,
+          "decade": 1910
+        },
+        "lastFilm": {
+          "id": 339,
+          "title": "Cimarron",
+          "release_year": 1960,
+          "runtime_minutes": 147,
+          "country_of_production": "United States",
+          "genres": [
+            "Western"
+          ],
+          "studio": "MGM",
+          "source_work_id": 165,
+          "adaptation_notes": null,
+          "afi_catalog_id": 53484,
+          "availability": null,
+          "archive_location": null,
+          "verification_source": "Wikidata",
+          "women_in_key_roles": null,
+          "added_by": "initial_import",
+          "created_at": "2025-06-17T13:57:07.239452",
+          "updated_at": "2025-07-18T18:36:32.713708",
+          "directors": "Anthony Mann",
+          "writers": "Arnold Schulman",
+          "cast_members": "Glenn Ford|Maria Schell|Anne Baxter|Arthur O'Connell|Russ Tamblyn|Mercedes McCambridge|Vic Morrow|Robert Keith|Charles McGraw|Henry [\"Harry\"] Morgan",
+          "production_companies": "Metro-Goldwyn-Mayer Corp.",
+          "distribution_companies": "Loew's Inc.",
+          "color_info": "color",
+          "slug": "cimarron-1960",
+          "formatted_title": "Cimarron",
+          "html_title": "<span class=\"film-title\">Cimarron</span>",
+          "genres_string": "Western",
+          "hasMedia": true,
+          "mediaCount": 1,
+          "decade": 1960
+        },
+        "peakYear": "1920"
+      }
     },
     {
       "id": 24,
       "name": "Alice Duer Miller",
       "slug": "alice-duer-miller",
       "filmCount": 22,
-      "worksAdapted": 14,
       "yearStart": 1918,
       "yearEnd": 1952,
       "yearSpan": 34,
-      "primaryStudios": [
+      "filmsByDecade": {
+        "1910": 2,
+        "1920": 8,
+        "1930": 9,
+        "1940": 2,
+        "1950": 1
+      },
+      "mostAdaptedWorks": [
+        {
+          "id": 74,
+          "title": "The Charm School",
+          "formatted_title": "The Charm School",
+          "html_title": "<span class=\"work-title\">The Charm School</span>",
+          "adaptationCount": 5
+        },
+        {
+          "id": 85,
+          "title": "Manslaughter",
+          "formatted_title": "Manslaughter",
+          "html_title": "<span class=\"work-title\">Manslaughter</span>",
+          "adaptationCount": 3
+        },
+        {
+          "id": 49,
+          "title": "Come Out of the Kitchen!",
+          "formatted_title": "Come Out of the Kitchen!",
+          "html_title": "<span class=\"work-title\">Come Out of the Kitchen!</span>",
+          "adaptationCount": 2
+        },
+        {
+          "id": 198,
+          "title": "Gowns By Roberta",
+          "formatted_title": "Gowns By Roberta",
+          "html_title": "<span class=\"work-title\">Gowns By Roberta</span>",
+          "adaptationCount": 2
+        }
+      ],
+      "topStudios": [
         {
           "studio": "Paramount",
           "count": 8
@@ -202,53 +504,142 @@
         {
           "studio": "MGM",
           "count": 3
+        },
+        {
+          "studio": "Realart",
+          "count": 2
+        },
+        {
+          "studio": "Mayflower",
+          "count": 1
         }
       ],
-      "genres": [
-        "Comedy",
-        "African American",
-        "Drama",
-        "Melodrama",
-        "Society"
-      ],
-      "remakeCount": 4,
-      "mostAdaptedWork": {
-        "id": 74,
-        "title": "The Charm School",
-        "adaptationCount": 5,
-        "years": [
-          1921,
-          1928,
-          1929,
-          1935,
-          1938
-        ]
-      },
-      "fascinatingFact": "Suffragist poet and Algonquin Round Table wit",
-      "signatureWork": "The White Cliffs of Dover",
-      "deepDiveTeaser": "Miller's poetry reportedly influenced U.S. entry into WWII. Beyond her Hollywood success, Paramount made 8 foreign-language versions of her films — a phenomenon unique among the Twenty-Timers.",
-      "hasDeepDive": false,
-      "hasPhotoplayEditions": false,
-      "filmsByDecade": {
-        "1910": 2,
-        "1920": 8,
-        "1930": 9,
-        "1940": 2,
-        "1950": 1
-      },
       "silentFilmCount": 10,
-      "talkieFilmCount": 12
+      "timelineData": {
+        "firstFilm": {
+          "id": 42,
+          "title": "Less Than Kin",
+          "release_year": 1918,
+          "runtime_minutes": null,
+          "country_of_production": null,
+          "genres": [
+            "Comedy"
+          ],
+          "studio": "Famous Players-Lasky",
+          "source_work_id": 40,
+          "adaptation_notes": null,
+          "afi_catalog_id": 17188,
+          "availability": "lost",
+          "archive_location": null,
+          "verification_source": null,
+          "women_in_key_roles": null,
+          "added_by": "initial_import",
+          "created_at": "2025-06-17T13:57:07.239452",
+          "updated_at": "2025-07-18T18:36:32.713708",
+          "directors": "Donald Crisp",
+          "writers": "Marion Fairfax",
+          "cast_members": "Wallace Reid|Ann Little|Raymond Hatton|Noah Beery|James Neill|Charles Ogle|Jane Wolfe|James Cruze|Guy Oliver|Calvert Carter",
+          "production_companies": "Famous Players-Lasky Corp.",
+          "distribution_companies": "Famous Players-Lasky Corp.; Paramount Pictures",
+          "color_info": null,
+          "slug": "less-than-kin-1918",
+          "formatted_title": "Less Than Kin",
+          "html_title": "<span class=\"film-title\">Less Than Kin</span>",
+          "genres_string": "Comedy",
+          "hasMedia": true,
+          "mediaCount": 1,
+          "decade": 1910
+        },
+        "lastFilm": {
+          "id": 317,
+          "title": "Lovely To Look At",
+          "release_year": 1952,
+          "runtime_minutes": 103,
+          "country_of_production": "United States",
+          "genres": [
+            "Musical comedy"
+          ],
+          "studio": "MGM",
+          "source_work_id": 198,
+          "adaptation_notes": null,
+          "afi_catalog_id": 50558,
+          "availability": null,
+          "archive_location": null,
+          "verification_source": "Wikidata",
+          "women_in_key_roles": null,
+          "added_by": "initial_import",
+          "created_at": "2025-06-17T13:57:07.239452",
+          "updated_at": "2025-07-18T18:36:32.713708",
+          "directors": "Mervyn LeRoy",
+          "writers": "George Wells|Harry Ruby",
+          "cast_members": "Kathryn Grayson|Red Skelton|Howard Keel|Marge Champion|Gower Champion|Ann Miller|Zsa Zsa Gabor|Kurt Kasznar|Marcel Dalio|Diane Cassidy",
+          "production_companies": "Metro-Goldwyn-Mayer Corp.",
+          "distribution_companies": "Loew's Inc.",
+          "color_info": null,
+          "slug": "lovely-to-look-at-1952",
+          "formatted_title": "Lovely To Look At",
+          "html_title": "<span class=\"film-title\">Lovely To Look At</span>",
+          "genres_string": "Musical comedy",
+          "hasMedia": false,
+          "mediaCount": 0,
+          "decade": 1950
+        },
+        "peakYear": "1930"
+      }
     },
     {
       "id": 12,
       "name": "Gene Stratton-Porter",
-      "slug": "gene-strattonporter",
+      "slug": "gene-stratton-porter",
       "filmCount": 21,
-      "worksAdapted": 8,
       "yearStart": 1917,
       "yearEnd": 1960,
       "yearSpan": 43,
-      "primaryStudios": [
+      "filmsByDecade": {
+        "1910": 1,
+        "1920": 7,
+        "1930": 7,
+        "1940": 5,
+        "1960": 1
+      },
+      "mostAdaptedWorks": [
+        {
+          "id": 19,
+          "title": "Freckles",
+          "formatted_title": "Freckles",
+          "html_title": "<span class=\"work-title\">Freckles</span>",
+          "adaptationCount": 4
+        },
+        {
+          "id": 99,
+          "title": "A Girl of the Limberlost",
+          "formatted_title": "A Girl of the Limberlost",
+          "html_title": "<span class=\"work-title\">A Girl of the Limberlost</span>",
+          "adaptationCount": 4
+        },
+        {
+          "id": 91,
+          "title": "Michael O'Halloran",
+          "formatted_title": "Michael O'Halloran",
+          "html_title": "<span class=\"work-title\">Michael O'Halloran</span>",
+          "adaptationCount": 3
+        },
+        {
+          "id": 111,
+          "title": "The Keeper of the Bees",
+          "formatted_title": "The Keeper of the Bees",
+          "html_title": "<span class=\"work-title\">The Keeper of the Bees</span>",
+          "adaptationCount": 3
+        },
+        {
+          "id": 120,
+          "title": "Laddie",
+          "formatted_title": "Laddie",
+          "html_title": "<span class=\"work-title\">Laddie</span>",
+          "adaptationCount": 3
+        }
+      ],
+      "topStudios": [
         {
           "studio": "Gene Stratton Porter Productions",
           "count": 5
@@ -260,49 +651,100 @@
         {
           "studio": "RKO",
           "count": 3
+        },
+        {
+          "studio": "Republic",
+          "count": 2
+        },
+        {
+          "studio": "Columbia",
+          "count": 2
         }
       ],
-      "genres": [
-        "Drama",
-        "Melodrama",
-        "Romance",
-        "Domestic",
-        "Northwest"
-      ],
-      "remakeCount": 6,
-      "mostAdaptedWork": {
-        "id": 19,
-        "title": "Freckles",
-        "adaptationCount": 4,
-        "years": [
-          1917,
-          1928,
-          1935,
-          1960
-        ]
-      },
-      "fascinatingFact": "Founded her own film studio",
-      "signatureWork": "A Girl of the Limberlost",
-      "deepDiveTeaser": "After being dissatisfied with Lasky's 1917 'Freckles,' Stratton-Porter founded her own studio in 1923. She died just one year later — what heights might she have reached with more time?",
-      "hasDeepDive": false,
-      "hasPhotoplayEditions": false,
-      "filmsByDecade": {
-        "1910": 1,
-        "1920": 7,
-        "1930": 7,
-        "1940": 5,
-        "1960": 1
-      },
       "silentFilmCount": 8,
-      "talkieFilmCount": 13
+      "timelineData": {
+        "firstFilm": {
+          "id": 21,
+          "title": "Freckles",
+          "release_year": 1917,
+          "runtime_minutes": 50,
+          "country_of_production": "United States",
+          "genres": [
+            "Drama"
+          ],
+          "studio": "Jesse Lasky",
+          "source_work_id": 19,
+          "adaptation_notes": null,
+          "afi_catalog_id": 16906,
+          "availability": "lost",
+          "archive_location": null,
+          "verification_source": "Wikidata",
+          "women_in_key_roles": null,
+          "added_by": "initial_import",
+          "created_at": "2025-06-17T13:57:07.239452",
+          "updated_at": "2025-07-18T18:36:32.713708",
+          "directors": "Marshall Neilan",
+          "writers": "Marion Fairfax",
+          "cast_members": "Jack Pickford|Louise Huff|Hobart Bosworth|Lillian Leighton|Billy Elmer|Guy Oliver",
+          "production_companies": "Jesse L. Lasky Feature Play Co. ",
+          "distribution_companies": "Paramount Pictures Corp.",
+          "color_info": "black-and-white",
+          "slug": "freckles-1917",
+          "formatted_title": "Freckles",
+          "html_title": "<span class=\"film-title\">Freckles</span>",
+          "genres_string": "Drama",
+          "hasMedia": true,
+          "mediaCount": 1,
+          "decade": 1910
+        },
+        "lastFilm": {
+          "id": 340,
+          "title": "Freckles",
+          "release_year": 1960,
+          "runtime_minutes": null,
+          "country_of_production": "United States",
+          "genres": [
+            "Adventure",
+            "Rural",
+            "Youth"
+          ],
+          "studio": "20th Century Fox",
+          "source_work_id": 19,
+          "adaptation_notes": null,
+          "afi_catalog_id": 53149,
+          "availability": null,
+          "archive_location": null,
+          "verification_source": "Wikidata",
+          "women_in_key_roles": null,
+          "added_by": "initial_import",
+          "created_at": "2025-06-17T13:57:07.239452",
+          "updated_at": "2025-07-18T18:36:32.713708",
+          "directors": "Andrew V. McLaglen",
+          "writers": "Harry Spalding",
+          "cast_members": "Martin West|Carol Christensen|Jack Lambert|Steven Peck|Roy Barcroft|Lorna Thayer|Ken Curtis|John Eldredge",
+          "production_companies": "Associated Producers, Inc.",
+          "distribution_companies": "Twentieth Century-Fox Film Corp.",
+          "color_info": null,
+          "slug": "freckles-1960",
+          "formatted_title": "Freckles",
+          "html_title": "<span class=\"film-title\">Freckles</span>",
+          "genres_string": "Adventure, Rural, Youth",
+          "hasMedia": false,
+          "mediaCount": 0,
+          "decade": 1960
+        },
+        "peakYear": "1920"
+      }
     }
   ],
   "patterns": {
     "collectiveStats": {
       "totalFilms": 125,
-      "averageFilmsPerAuthor": "25.0",
-      "totalYearsCovered": 46,
-      "silentEraDominance": 4,
+      "averageFilmsPerAuthor": 25,
+      "collectiveYearSpan": {
+        "start": 1915,
+        "end": 1961
+      },
       "studioConcentration": [
         {
           "studio": "Warner Bros",
@@ -310,7 +752,7 @@
         },
         {
           "studio": "Universal",
-          "count": 9
+          "count": 11
         },
         {
           "studio": "Famous Players-Lasky",
@@ -322,6 +764,14 @@
         },
         {
           "studio": "Cosmopolitan",
+          "count": 5
+        },
+        {
+          "studio": "First National",
+          "count": 5
+        },
+        {
+          "studio": "MGM",
           "count": 5
         },
         {
@@ -335,73 +785,12 @@
         {
           "studio": "Famous Players",
           "count": 3
-        },
-        {
-          "studio": "MGM",
-          "count": 3
-        },
-        {
-          "studio": "RKO",
-          "count": 3
         }
       ]
-    },
-    "timeline": [
-      {
-        "year": 1915,
-        "event": "Mary Roberts Rinehart - First Hollywood adaptation",
-        "authorId": 6
-      },
-      {
-        "year": 1917,
-        "event": "Gene Stratton-Porter - First Hollywood adaptation",
-        "authorId": 12
-      },
-      {
-        "year": 1918,
-        "event": "Fannie Hurst - First Hollywood adaptation",
-        "authorId": 25
-      },
-      {
-        "year": 1918,
-        "event": "Edna Ferber - First Hollywood adaptation",
-        "authorId": 40
-      },
-      {
-        "year": 1918,
-        "event": "Alice Duer Miller - First Hollywood adaptation",
-        "authorId": 24
-      },
-      {
-        "year": 1952,
-        "event": "Alice Duer Miller - Final adaptation (after 34 years)",
-        "authorId": 24
-      },
-      {
-        "year": 1959,
-        "event": "Mary Roberts Rinehart - Final adaptation (after 44 years)",
-        "authorId": 6
-      },
-      {
-        "year": 1960,
-        "event": "Edna Ferber - Final adaptation (after 42 years)",
-        "authorId": 40
-      },
-      {
-        "year": 1960,
-        "event": "Gene Stratton-Porter - Final adaptation (after 43 years)",
-        "authorId": 12
-      },
-      {
-        "year": 1961,
-        "event": "Fannie Hurst - Final adaptation (after 43 years)",
-        "authorId": 25
-      }
-    ],
-    "connections": {
-      "sharedStudios": [],
-      "contemporaries": [],
-      "notes": "Connections analysis to be implemented"
     }
+  },
+  "metadata": {
+    "generated": "2025-07-19T17:11:49.384Z",
+    "version": "2.0"
   }
 }

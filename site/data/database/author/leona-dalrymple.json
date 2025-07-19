@@ -1,0 +1,111 @@
+{
+  "id": 186,
+  "slug": "leona-dalrymple",
+  "name": "Leona Dalrymple",
+  "birth_year": 1884,
+  "death_year": 1968,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Occupations: screenwriter, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q13563146",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1919,
+    "last_adaptation": 1937,
+    "year_span": 18,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 492,
+      "slug": "diane-of-the-green-van-1919",
+      "title": "Diane of the Green Van",
+      "html_title": "<span class=\"film-title\">Diane of the Green Van</span>",
+      "year": 1919,
+      "studio": "Winsome Stars",
+      "directors": "Wallace Worsley",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Diane of the Green Van",
+      "work_html_title": "<span class=\"work-title\">Diane of the Green Van</span>",
+      "work_id": 423
+    },
+    {
+      "id": 491,
+      "slug": "dangerous-number-1937",
+      "title": "Dangerous Number",
+      "html_title": "<span class=\"film-title\">Dangerous Number</span>",
+      "year": 1937,
+      "studio": "MGM",
+      "directors": "Richard Thorpe",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "work_title": "Dangerous Number",
+      "work_html_title": "<span class=\"work-title\">Dangerous Number</span>",
+      "work_id": 422
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 423,
+      "slug": "diane-of-the-green-van",
+      "title": "Diane of the Green Van",
+      "formatted_title": "Diane of the Green Van",
+      "html_title": "<span class=\"work-title\">Diane of the Green Van</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 422,
+      "slug": "dangerous-number",
+      "title": "Dangerous Number",
+      "formatted_title": "Dangerous Number",
+      "html_title": "<span class=\"work-title\">Dangerous Number</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 423,
+    "slug": "diane-of-the-green-van",
+    "title": "Diane of the Green Van",
+    "formatted_title": "Diane of the Green Van",
+    "html_title": "<span class=\"work-title\">Diane of the Green Van</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T01:12:11.860001"
+}

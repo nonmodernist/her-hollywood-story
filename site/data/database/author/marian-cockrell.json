@@ -1,0 +1,83 @@
+{
+  "id": 171,
+  "slug": "marian-cockrell",
+  "name": "Marian Cockrell",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1944,
+    "last_adaptation": 1944,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Psychological",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 472,
+      "slug": "dark-waters-1944",
+      "title": "Dark Waters",
+      "html_title": "<span class=\"film-title\">Dark Waters</span>",
+      "year": 1944,
+      "studio": "Benedict Bogeaus Productions",
+      "directors": "Andre DeToth",
+      "genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "has_media": true,
+      "work_title": "Dark Waters",
+      "work_html_title": "<span class=\"work-title\">Dark Waters</span>",
+      "work_id": 404
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 404,
+      "slug": "dark-waters",
+      "title": "Dark Waters",
+      "formatted_title": "Dark Waters",
+      "html_title": "<span class=\"work-title\">Dark Waters</span>",
+      "work_type": "novel",
+      "publication_year": 1944,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 404,
+    "slug": "dark-waters",
+    "title": "Dark Waters",
+    "formatted_title": "Dark Waters",
+    "html_title": "<span class=\"work-title\">Dark Waters</span>",
+    "work_type": "novel",
+    "publication_year": 1944,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-19T17:55:47.602155"
+}

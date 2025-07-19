@@ -1,0 +1,136 @@
+{
+  "id": 1,
+  "slug": "helen-hunt-jackson",
+  "name": "Helen Hunt Jackson",
+  "birth_year": 1830,
+  "death_year": 1885,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American novelist, poet, writer, activist (1830–1885). Born in Amherst. Died in San Francisco. Occupations: novelist, poet, journalist, writer. Notable works: A Century of Dishonor",
+  "author_notes": null,
+  "wikidata_id": "Q462363",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 1,
+    "first_adaptation": 1910,
+    "last_adaptation": 1936,
+    "year_span": 26,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 4
+      },
+      {
+        "genre": "Historical",
+        "count": 4
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2,
+      "1920": 1,
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1,
+      "slug": "ramona-1910",
+      "title": "Ramona",
+      "html_title": "<span class=\"film-title\">Ramona</span>",
+      "year": 1910,
+      "studio": "Biograph",
+      "directors": "D. W. Griffith",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": true,
+      "work_title": "Ramona",
+      "work_html_title": "<span class=\"work-title\">Ramona</span>",
+      "work_id": 1
+    },
+    {
+      "id": 11,
+      "slug": "ramona-1916",
+      "title": "Ramona",
+      "html_title": "<span class=\"film-title\">Ramona</span>",
+      "year": 1916,
+      "studio": "Clune Film",
+      "directors": "Donald Crisp",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": true,
+      "work_title": "Ramona",
+      "work_html_title": "<span class=\"work-title\">Ramona</span>",
+      "work_id": 1
+    },
+    {
+      "id": 148,
+      "slug": "ramona-1928",
+      "title": "Ramona",
+      "html_title": "<span class=\"film-title\">Ramona</span>",
+      "year": 1928,
+      "studio": "United Artists",
+      "directors": "Edwin Carewe",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": true,
+      "work_title": "Ramona",
+      "work_html_title": "<span class=\"work-title\">Ramona</span>",
+      "work_id": 1
+    },
+    {
+      "id": 230,
+      "slug": "ramona-1936",
+      "title": "Ramona",
+      "html_title": "<span class=\"film-title\">Ramona</span>",
+      "year": 1936,
+      "studio": "20th Century Fox",
+      "directors": "Henry King",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "Ramona",
+      "work_html_title": "<span class=\"work-title\">Ramona</span>",
+      "work_id": 1
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 1,
+      "slug": "ramona",
+      "title": "Ramona",
+      "formatted_title": "Ramona",
+      "html_title": "<span class=\"work-title\">Ramona</span>",
+      "work_type": "novel",
+      "publication_year": 1884,
+      "genre": null,
+      "adaptation_count": 4,
+      "is_remake_champion": true
+    }
+  ],
+  "most_adapted_work": {
+    "id": 1,
+    "slug": "ramona",
+    "title": "Ramona",
+    "formatted_title": "Ramona",
+    "html_title": "<span class=\"work-title\">Ramona</span>",
+    "work_type": "novel",
+    "publication_year": 1884,
+    "genre": null,
+    "adaptation_count": 4,
+    "is_remake_champion": true
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:36:29.712102"
+}

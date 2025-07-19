@@ -1,0 +1,78 @@
+{
+  "id": 334,
+  "slug": "mrs-barry-macdonald",
+  "name": "Mrs. Barry MacDonald",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1915,
+    "last_adaptation": 1915,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 759,
+      "slug": "what-should-a-woman-do-to-promote-youth-and-happiness-1915",
+      "title": "What Should a Woman Do to Promote Youth and Happiness?",
+      "html_title": "<span class=\"film-title\">What Should a Woman Do to Promote Youth and Happiness?</span>",
+      "year": 1915,
+      "studio": "Barry MacDonald Film",
+      "directors": null,
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "What Should a Woman Do to Promote Youth and Happiness?",
+      "work_html_title": "<span class=\"work-title\">What Should a Woman Do to Promote Youth and Happiness?</span>",
+      "work_id": 674
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 674,
+      "slug": "what-should-a-woman-do-to-promote-youth-and-happiness",
+      "title": "What Should a Woman Do to Promote Youth and Happiness?",
+      "formatted_title": "What Should a Woman Do to Promote Youth and Happiness?",
+      "html_title": "<span class=\"work-title\">What Should a Woman Do to Promote Youth and Happiness?</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 674,
+    "slug": "what-should-a-woman-do-to-promote-youth-and-happiness",
+    "title": "What Should a Woman Do to Promote Youth and Happiness?",
+    "formatted_title": "What Should a Woman Do to Promote Youth and Happiness?",
+    "html_title": "<span class=\"work-title\">What Should a Woman Do to Promote Youth and Happiness?</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:18:42.615814"
+}

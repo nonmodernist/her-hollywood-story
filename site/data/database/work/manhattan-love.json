@@ -1,0 +1,60 @@
+{
+  "id": 751,
+  "slug": "manhattan-love",
+  "title": "Manhattan Love",
+  "formatted_title": "Manhattan Love",
+  "html_title": "<span class=\"work-title\">Manhattan Love</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 376,
+    "slug": "kathleen-norris",
+    "name": "Kathleen Norris",
+    "birth_year": 1880,
+    "death_year": 1966,
+    "film_count": 19
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 842,
+      "slug": "change-of-heart-1934",
+      "title": "Change of Heart",
+      "html_title": "<span class=\"film-title\">Change of Heart</span>",
+      "year": 1934,
+      "studio": "Fox Film",
+      "directors": "John G. Blystone",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "has_media": false,
+      "years_after_publication": 1934
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T15:08:53.006928"
+}

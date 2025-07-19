@@ -1,0 +1,88 @@
+{
+  "id": 83,
+  "slug": "betty-smith",
+  "name": "Betty Smith",
+  "birth_year": 1896,
+  "death_year": 1972,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author (1896–1972). Born in Brooklyn. Died in Shelton. Occupations: children's writer, screenwriter, writer, playwright, novelist. Notable works: A Tree Grows in Brooklyn",
+  "author_notes": null,
+  "wikidata_id": "Q273730",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1945,
+    "last_adaptation": 1945,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 281,
+      "slug": "a-tree-grows-in-brooklyn-1945",
+      "title": "A Tree Grows in Brooklyn",
+      "html_title": "<span class=\"film-title\">A Tree Grows in Brooklyn</span>",
+      "year": 1945,
+      "studio": "20th Century Fox",
+      "directors": "Elia Kazan",
+      "genres": [
+        "Melodrama",
+        "Domestic",
+        "with songs"
+      ],
+      "has_media": true,
+      "work_title": "A Tree Grows in Brooklyn",
+      "work_html_title": "<span class=\"work-title\">A Tree Grows in Brooklyn</span>",
+      "work_id": 236
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 236,
+      "slug": "a-tree-grows-in-brooklyn",
+      "title": "A Tree Grows in Brooklyn",
+      "formatted_title": "A Tree Grows in Brooklyn",
+      "html_title": "<span class=\"work-title\">A Tree Grows in Brooklyn</span>",
+      "work_type": "novel",
+      "publication_year": 1943,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 236,
+    "slug": "a-tree-grows-in-brooklyn",
+    "title": "A Tree Grows in Brooklyn",
+    "formatted_title": "A Tree Grows in Brooklyn",
+    "html_title": "<span class=\"work-title\">A Tree Grows in Brooklyn</span>",
+    "work_type": "novel",
+    "publication_year": 1943,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:16.772077"
+}

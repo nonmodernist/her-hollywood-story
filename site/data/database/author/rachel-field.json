@@ -1,0 +1,139 @@
+{
+  "id": 220,
+  "slug": "rachel-field",
+  "name": "Rachel Field",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": "-",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1940,
+    "last_adaptation": 1947,
+    "year_span": 7,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 3
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 3
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 567,
+      "slug": "all-this-and-heaven-too-1940",
+      "title": "All This, and Heaven Too",
+      "html_title": "<span class=\"film-title\">All This, and Heaven Too</span>",
+      "year": 1940,
+      "studio": "Warner Bros",
+      "directors": "Anatole Litvak",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "All This and Heaven Too",
+      "work_html_title": "<span class=\"work-title\">All This and Heaven Too</span>",
+      "work_id": 495
+    },
+    {
+      "id": 568,
+      "slug": "and-now-tomorrow-1944",
+      "title": "And Now Tomorrow",
+      "html_title": "<span class=\"film-title\">And Now Tomorrow</span>",
+      "year": 1944,
+      "studio": "Paramount",
+      "directors": "Irving Pichel",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "And Now Tomorrow",
+      "work_html_title": "<span class=\"work-title\">And Now Tomorrow</span>",
+      "work_id": 496
+    },
+    {
+      "id": 569,
+      "slug": "time-out-of-mind-1947",
+      "title": "Time Out of Mind",
+      "html_title": "<span class=\"film-title\">Time Out of Mind</span>",
+      "year": 1947,
+      "studio": "Universal-International",
+      "directors": "Robert Siodmak",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "Time Out of Mind",
+      "work_html_title": "<span class=\"work-title\">Time Out of Mind</span>",
+      "work_id": 497
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 495,
+      "slug": "all-this-and-heaven-too",
+      "title": "All This and Heaven Too",
+      "formatted_title": "All This and Heaven Too",
+      "html_title": "<span class=\"work-title\">All This and Heaven Too</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 496,
+      "slug": "and-now-tomorrow",
+      "title": "And Now Tomorrow",
+      "formatted_title": "And Now Tomorrow",
+      "html_title": "<span class=\"work-title\">And Now Tomorrow</span>",
+      "work_type": "novel",
+      "publication_year": 1942,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 497,
+      "slug": "time-out-of-mind",
+      "title": "Time Out of Mind",
+      "formatted_title": "Time Out of Mind",
+      "html_title": "<span class=\"work-title\">Time Out of Mind</span>",
+      "work_type": "novel",
+      "publication_year": 1944,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 495,
+    "slug": "all-this-and-heaven-too",
+    "title": "All This and Heaven Too",
+    "formatted_title": "All This and Heaven Too",
+    "html_title": "<span class=\"work-title\">All This and Heaven Too</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-03T20:00:10.787147"
+}

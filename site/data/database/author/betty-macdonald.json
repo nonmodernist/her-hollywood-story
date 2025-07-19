@@ -1,0 +1,88 @@
+{
+  "id": 335,
+  "slug": "betty-macdonald",
+  "name": "Betty MacDonald",
+  "birth_year": 1907,
+  "death_year": 1958,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1907–1958). Born in Boulder. Died in Seattle. Occupations: writer, children's writer. Notable works: Onions in the Stew, Mrs. Piggle-Wiggle, The Egg and I",
+  "author_notes": null,
+  "wikidata_id": "Q454748",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1947,
+    "last_adaptation": 1947,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      },
+      {
+        "genre": "Rural",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 760,
+      "slug": "the-egg-and-i-1947",
+      "title": "The Egg and I",
+      "html_title": "<span class=\"film-title\">The Egg and I</span>",
+      "year": 1947,
+      "studio": "Universal-International",
+      "directors": "Chester Erskine",
+      "genres": [
+        "Comedy",
+        "Domestic",
+        "Rural"
+      ],
+      "has_media": false,
+      "work_title": "The Egg and I",
+      "work_html_title": "<span class=\"work-title\">The Egg and I</span>",
+      "work_id": 675
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 675,
+      "slug": "the-egg-and-i",
+      "title": "The Egg and I",
+      "formatted_title": "The Egg and I",
+      "html_title": "<span class=\"work-title\">The Egg and I</span>",
+      "work_type": "novel",
+      "publication_year": 1945,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 675,
+    "slug": "the-egg-and-i",
+    "title": "The Egg and I",
+    "formatted_title": "The Egg and I",
+    "html_title": "<span class=\"work-title\">The Egg and I</span>",
+    "work_type": "novel",
+    "publication_year": 1945,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:56:48.181775"
+}

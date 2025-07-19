@@ -1,0 +1,95 @@
+{
+  "id": 482,
+  "slug": "mabel-wagnalls",
+  "name": "Mabel Wagnalls",
+  "birth_year": 1871,
+  "death_year": 1946,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author and pianist. Born in Kansas City. Died in New York City. Occupations: writer, pianist",
+  "author_notes": null,
+  "wikidata_id": "Q12352133",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 1,
+    "first_adaptation": 1918,
+    "last_adaptation": 1924,
+    "year_span": 6,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1051,
+      "slug": "revelation-1918",
+      "title": "Revelation",
+      "html_title": "<span class=\"film-title\">Revelation</span>",
+      "year": 1918,
+      "studio": "Metro Pictures",
+      "directors": "George D. Baker",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Rosebush of a Thousand Years",
+      "work_html_title": "<span class=\"work-title\">The Rosebush of a Thousand Years</span>",
+      "work_id": 944
+    },
+    {
+      "id": 1052,
+      "slug": "revelation-1924",
+      "title": "Revelation",
+      "html_title": "<span class=\"film-title\">Revelation</span>",
+      "year": 1924,
+      "studio": "Metro-Goldwyn",
+      "directors": "George D. Baker",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Rosebush of a Thousand Years",
+      "work_html_title": "<span class=\"work-title\">The Rosebush of a Thousand Years</span>",
+      "work_id": 944
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 944,
+      "slug": "the-rosebush-of-a-thousand-years",
+      "title": "The Rosebush of a Thousand Years",
+      "formatted_title": "The Rosebush of a Thousand Years",
+      "html_title": "<span class=\"work-title\">The Rosebush of a Thousand Years</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 944,
+    "slug": "the-rosebush-of-a-thousand-years",
+    "title": "The Rosebush of a Thousand Years",
+    "formatted_title": "The Rosebush of a Thousand Years",
+    "html_title": "<span class=\"work-title\">The Rosebush of a Thousand Years</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:54:45.838709"
+}

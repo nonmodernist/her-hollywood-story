@@ -1,0 +1,111 @@
+{
+  "id": 47,
+  "slug": "temple-bailey",
+  "name": "Temple Bailey",
+  "birth_year": 1880,
+  "death_year": 1953,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in Petersburg. Occupations: screenwriter, novelist, writer",
+  "author_notes": "pseud of Irene Temple",
+  "wikidata_id": "Q7698436",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1925,
+    "last_adaptation": 1928,
+    "year_span": 3,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 121,
+      "slug": "peacock-feathers-1925",
+      "title": "Peacock Feathers",
+      "html_title": "<span class=\"film-title\">Peacock Feathers</span>",
+      "year": 1925,
+      "studio": "Universal",
+      "directors": "Svend Gade",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Peacock Feathers",
+      "work_html_title": "<span class=\"work-title\">Peacock Feathers</span>",
+      "work_id": 116
+    },
+    {
+      "id": 155,
+      "slug": "wallflowers-1928",
+      "title": "Wallflowers",
+      "html_title": "<span class=\"film-title\">Wallflowers</span>",
+      "year": 1928,
+      "studio": "FBO",
+      "directors": "Leo Meehan",
+      "genres": [
+        "Drama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "Wallflowers",
+      "work_html_title": "<span class=\"work-title\">Wallflowers</span>",
+      "work_id": 144
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 116,
+      "slug": "peacock-feathers",
+      "title": "Peacock Feathers",
+      "formatted_title": "Peacock Feathers",
+      "html_title": "<span class=\"work-title\">Peacock Feathers</span>",
+      "work_type": "novel",
+      "publication_year": 1924,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 144,
+      "slug": "wallflowers",
+      "title": "Wallflowers",
+      "formatted_title": "Wallflowers",
+      "html_title": "<span class=\"work-title\">Wallflowers</span>",
+      "work_type": "novel",
+      "publication_year": 1927,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 116,
+    "slug": "peacock-feathers",
+    "title": "Peacock Feathers",
+    "formatted_title": "Peacock Feathers",
+    "html_title": "<span class=\"work-title\">Peacock Feathers</span>",
+    "work_type": "novel",
+    "publication_year": 1924,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-18T01:58:43.848423"
+}

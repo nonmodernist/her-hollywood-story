@@ -1,0 +1,78 @@
+{
+  "id": 295,
+  "slug": "michael-ohalloran-1948",
+  "title": "Michael O'Halloran",
+  "formatted_title": "Michael O'Halloran",
+  "html_title": "<span class=\"film-title\">Michael O'Halloran</span>",
+  "release_year": 1948,
+  "runtime_minutes": null,
+  "country_of_production": null,
+  "genres": [
+    "Drama",
+    "Teenage"
+  ],
+  "studio": "Monogram/Windsor Pictures Corp.",
+  "production_companies": "Windsor Pictures Corp.",
+  "distribution_companies": "Monogram Distributing Corp.",
+  "directors": "John Rawlins",
+  "writers": "Erna Lazarus",
+  "cast_members": "Scotty Beckett|Allene Roberts|Tommy Cook|Isabel Jewell|Charles Arnt|Jonathan Hale|Gladys Blake|Roy Gordon|Florence Auer|William Haade",
+  "color_info": null,
+  "adaptation_notes": null,
+  "afi_catalog_id": 25638,
+  "source_work": {
+    "id": 91,
+    "slug": "michael-ohalloran",
+    "title": "Michael O'Halloran",
+    "formatted_title": "Michael O'Halloran",
+    "html_title": "<span class=\"work-title\">Michael O'Halloran</span>",
+    "work_type": "novel",
+    "publication_year": 1915,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 3,
+    "year_to_adaptation": 33
+  },
+  "author": {
+    "id": 12,
+    "slug": "gene-stratton-porter",
+    "name": "Gene Stratton-Porter",
+    "birth_year": 1863,
+    "death_year": 1924,
+    "nationality": "United States",
+    "film_count": 21
+  },
+  "other_adaptations": [
+    {
+      "id": 95,
+      "slug": "michael-ohalloran-1923",
+      "title": "Michael O'Halloran",
+      "html_title": "<span class=\"film-title\">Michael O'Halloran</span>",
+      "year": 1923,
+      "directors": "James Leo Meehan",
+      "studio": "Gene Stratton Porter Productions"
+    },
+    {
+      "id": 239,
+      "slug": "michael-ohalloran-1937",
+      "title": "Michael O'Halloran",
+      "html_title": "<span class=\"film-title\">Michael O'Halloran</span>",
+      "year": 1937,
+      "directors": "Karl Brown",
+      "studio": "Republic"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 3,
+    "adaptation_number": 3,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

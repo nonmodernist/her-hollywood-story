@@ -1,0 +1,83 @@
+{
+  "id": 163,
+  "slug": "irene-castle",
+  "name": "Irene Castle",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "novelist. Occupations: novelist",
+  "author_notes": null,
+  "wikidata_id": "Q108792649",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1939,
+    "last_adaptation": 1939,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Show business",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 460,
+      "slug": "the-story-of-vernon-and-irene-castle-1939",
+      "title": "The Story of Vernon and Irene Castle",
+      "html_title": "<span class=\"film-title\">The Story of Vernon and Irene Castle</span>",
+      "year": 1939,
+      "studio": "RKO",
+      "directors": "H. C. Potter",
+      "genres": [
+        "Drama",
+        "Show business"
+      ],
+      "has_media": false,
+      "work_title": "My Husband",
+      "work_html_title": "<span class=\"work-title\">My Husband</span>",
+      "work_id": 391
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 391,
+      "slug": "my-husband",
+      "title": "My Husband",
+      "formatted_title": "My Husband",
+      "html_title": "<span class=\"work-title\">My Husband</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 391,
+    "slug": "my-husband",
+    "title": "My Husband",
+    "formatted_title": "My Husband",
+    "html_title": "<span class=\"work-title\">My Husband</span>",
+    "work_type": "novel",
+    "publication_year": 1919,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:43.029907"
+}

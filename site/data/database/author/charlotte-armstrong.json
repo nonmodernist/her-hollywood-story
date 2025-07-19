@@ -1,0 +1,154 @@
+{
+  "id": 85,
+  "slug": "charlotte-armstrong",
+  "name": "Charlotte Armstrong",
+  "birth_year": 1905,
+  "death_year": 1969,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1905–1969). Born in Vulcan. Died in Glendale. Occupations: playwright, screenwriter, novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q120578",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1947,
+    "last_adaptation": 1952,
+    "year_span": 5,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Mystery",
+        "count": 1
+      },
+      {
+        "genre": "Suspense",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      },
+      {
+        "genre": "Rural",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1,
+      "1950": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 288,
+      "slug": "the-unsuspected-1947",
+      "title": "The Unsuspected",
+      "html_title": "<span class=\"film-title\">The Unsuspected</span>",
+      "year": 1947,
+      "studio": "Warner Bros",
+      "directors": "Michael Curtiz",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "The Unsuspected",
+      "work_html_title": "<span class=\"work-title\">The Unsuspected</span>",
+      "work_id": 241
+    },
+    {
+      "id": 316,
+      "slug": "dont-bother-to-knock-1952",
+      "title": "Don't Bother to Knock",
+      "html_title": "<span class=\"film-title\">Don't Bother to Knock</span>",
+      "year": 1952,
+      "studio": "20th Century Fox",
+      "directors": "Roy Baker",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "has_media": true,
+      "work_title": "Mischief",
+      "work_html_title": "<span class=\"work-title\">Mischief</span>",
+      "work_id": 265
+    },
+    {
+      "id": 318,
+      "slug": "talk-about-a-stranger-1952",
+      "title": "Talk About a Stranger",
+      "html_title": "<span class=\"film-title\">Talk About a Stranger</span>",
+      "year": 1952,
+      "studio": "MGM",
+      "directors": "David Bradley",
+      "genres": [
+        "Drama",
+        "Domestic",
+        "Rural"
+      ],
+      "has_media": false,
+      "work_title": "\"The Enemy\"",
+      "work_html_title": "<span class=\"work-title\">\"The Enemy\"</span>",
+      "work_id": 266
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 241,
+      "slug": "the-unsuspected",
+      "title": "The Unsuspected",
+      "formatted_title": "The Unsuspected",
+      "html_title": "<span class=\"work-title\">The Unsuspected</span>",
+      "work_type": "novel",
+      "publication_year": 1945,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 265,
+      "slug": "mischief",
+      "title": "Mischief",
+      "formatted_title": "Mischief",
+      "html_title": "<span class=\"work-title\">Mischief</span>",
+      "work_type": "novel",
+      "publication_year": 1951,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 266,
+      "slug": "the-enemy",
+      "title": "\"The Enemy\"",
+      "formatted_title": "\"The Enemy\"",
+      "html_title": "<span class=\"work-title\">\"The Enemy\"</span>",
+      "work_type": "novel",
+      "publication_year": 1951,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 241,
+    "slug": "the-unsuspected",
+    "title": "The Unsuspected",
+    "formatted_title": "The Unsuspected",
+    "html_title": "<span class=\"work-title\">The Unsuspected</span>",
+    "work_type": "novel",
+    "publication_year": 1945,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:19.738034"
+}

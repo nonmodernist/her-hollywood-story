@@ -1,0 +1,83 @@
+{
+  "id": 108,
+  "slug": "martha-albrand",
+  "name": "Martha Albrand",
+  "birth_year": 1914,
+  "death_year": 1981,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "German-American novelist. Born in Rostock. Died in New York City. Occupations: writer, novelist, journalist",
+  "author_notes": "pseud of Heidi Huberta Freybe Loewengard",
+  "wikidata_id": "Q1903016",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1950,
+    "last_adaptation": 1950,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Postwar life",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 347,
+      "slug": "captain-carey-usa-1950",
+      "title": "Captain Carey, U.S.A.",
+      "html_title": "<span class=\"film-title\">Captain Carey, U.S.A.</span>",
+      "year": 1950,
+      "studio": "Paramount",
+      "directors": "Mitchell Leisen",
+      "genres": [
+        "Drama",
+        "Postwar life"
+      ],
+      "has_media": false,
+      "work_title": "After Midnight",
+      "work_html_title": "<span class=\"work-title\">After Midnight</span>",
+      "work_id": 284
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 284,
+      "slug": "after-midnight",
+      "title": "After Midnight",
+      "formatted_title": "After Midnight",
+      "html_title": "<span class=\"work-title\">After Midnight</span>",
+      "work_type": "novel",
+      "publication_year": 1948,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 284,
+    "slug": "after-midnight",
+    "title": "After Midnight",
+    "formatted_title": "After Midnight",
+    "html_title": "<span class=\"work-title\">After Midnight</span>",
+    "work_type": "novel",
+    "publication_year": 1948,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:52:35.616693"
+}

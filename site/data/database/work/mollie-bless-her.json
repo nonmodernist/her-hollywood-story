@@ -1,0 +1,61 @@
+{
+  "id": 690,
+  "slug": "mollie-bless-her",
+  "title": "Mollie, Bless Her",
+  "formatted_title": "Mollie, Bless Her",
+  "html_title": "<span class=\"work-title\">Mollie, Bless Her</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 346,
+    "slug": "frances-marion",
+    "name": "Frances Marion",
+    "birth_year": 1888,
+    "death_year": 1973,
+    "film_count": 5
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 776,
+      "slug": "molly-and-me-1945",
+      "title": "Molly and Me",
+      "html_title": "<span class=\"film-title\">Molly and Me</span>",
+      "year": 1945,
+      "studio": "20th Century Fox",
+      "directors": "Lewis Seiler",
+      "genres": [
+        "Comedy",
+        "Domestic",
+        "with songs"
+      ],
+      "has_media": false,
+      "years_after_publication": 1945
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T00:48:55.82802"
+}

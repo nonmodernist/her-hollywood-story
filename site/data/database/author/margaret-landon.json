@@ -1,0 +1,101 @@
+{
+  "id": 306,
+  "slug": "margaret-landon",
+  "name": "Margaret Landon",
+  "birth_year": 1903,
+  "death_year": 1993,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer, missionary (1903–1993). Born in Somers. Died in Alexandria. Occupations: writer, missionary, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q465216",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 1,
+    "first_adaptation": 1946,
+    "last_adaptation": 1956,
+    "year_span": 10,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Historical",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1,
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 723,
+      "slug": "anna-and-the-king-of-siam-1946",
+      "title": "Anna and the King of Siam",
+      "html_title": "<span class=\"film-title\">Anna and the King of Siam</span>",
+      "year": 1946,
+      "studio": "20th Century Fox",
+      "directors": "John Cromwell",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "Anna and the King of Siam",
+      "work_html_title": "<span class=\"work-title\">Anna and the King of Siam</span>",
+      "work_id": 638
+    },
+    {
+      "id": 724,
+      "slug": "the-king-and-i-1956",
+      "title": "The King and I",
+      "html_title": "<span class=\"film-title\">The King and I</span>",
+      "year": 1956,
+      "studio": "20th Century Fox",
+      "directors": "Walter Lang",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "Anna and the King of Siam",
+      "work_html_title": "<span class=\"work-title\">Anna and the King of Siam</span>",
+      "work_id": 638
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 638,
+      "slug": "anna-and-the-king-of-siam",
+      "title": "Anna and the King of Siam",
+      "formatted_title": "Anna and the King of Siam",
+      "html_title": "<span class=\"work-title\">Anna and the King of Siam</span>",
+      "work_type": "novel",
+      "publication_year": 1944,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 638,
+    "slug": "anna-and-the-king-of-siam",
+    "title": "Anna and the King of Siam",
+    "formatted_title": "Anna and the King of Siam",
+    "html_title": "<span class=\"work-title\">Anna and the King of Siam</span>",
+    "work_type": "novel",
+    "publication_year": 1944,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:11.344985"
+}

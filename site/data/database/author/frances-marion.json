@@ -1,0 +1,212 @@
+{
+  "id": 346,
+  "slug": "frances-marion",
+  "name": "Frances Marion",
+  "birth_year": 1888,
+  "death_year": 1973,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American journalist, author, film director and screenwriter (1888-1973). Born in San Francisco. Died in Los Angeles. Occupations: journalist, screenwriter, film screenwriter, writer, actor, film actor, film director, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q463883",
+  "stats": {
+    "total_films": 5,
+    "works_adapted": 5,
+    "first_adaptation": 1915,
+    "last_adaptation": 1945,
+    "year_span": 30,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Adventure",
+        "count": 1
+      },
+      {
+        "genre": "Gangster",
+        "count": 1
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2,
+      "1920": 1,
+      "1930": 1,
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 775,
+      "slug": "a-daughter-of-the-sea-1915",
+      "title": "A Daughter of the Sea",
+      "html_title": "<span class=\"film-title\">A Daughter of the Sea</span>",
+      "year": 1915,
+      "studio": "Equitable Motion Pictures",
+      "directors": "Charles Seay",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Fisher-Girl",
+      "work_html_title": "<span class=\"work-title\">The Fisher-Girl</span>",
+      "work_id": 689
+    },
+    {
+      "id": 777,
+      "slug": "a-girls-folly-1917",
+      "title": "A Girl's Folly",
+      "html_title": "<span class=\"film-title\">A Girl's Folly</span>",
+      "year": 1917,
+      "studio": "Paragon Films",
+      "directors": "Maurice Tourneur",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "A Movie Romance",
+      "work_html_title": "<span class=\"work-title\">A Movie Romance</span>",
+      "work_id": 691
+    },
+    {
+      "id": 814,
+      "slug": "the-girl-of-my-heart-1920",
+      "title": "The Girl of My Heart",
+      "html_title": "<span class=\"film-title\">The Girl of My Heart</span>",
+      "year": 1920,
+      "studio": "Fox Film",
+      "directors": "Edward J. Le Saint",
+      "genres": [
+        "Adventure"
+      ],
+      "has_media": false,
+      "work_title": "Joan of Rainbow Springs",
+      "work_html_title": "<span class=\"work-title\">Joan of Rainbow Springs</span>",
+      "work_id": 739
+    },
+    {
+      "id": 778,
+      "slug": "the-secret-six-1931",
+      "title": "The Secret Six",
+      "html_title": "<span class=\"film-title\">The Secret Six</span>",
+      "year": 1931,
+      "studio": "MGM",
+      "directors": "George Hill",
+      "genres": [
+        "Drama",
+        "Gangster"
+      ],
+      "has_media": false,
+      "work_title": "The Secret Six",
+      "work_html_title": "<span class=\"work-title\">The Secret Six</span>",
+      "work_id": 692
+    },
+    {
+      "id": 776,
+      "slug": "molly-and-me-1945",
+      "title": "Molly and Me",
+      "html_title": "<span class=\"film-title\">Molly and Me</span>",
+      "year": 1945,
+      "studio": "20th Century Fox",
+      "directors": "Lewis Seiler",
+      "genres": [
+        "Comedy",
+        "Domestic",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Mollie, Bless Her",
+      "work_html_title": "<span class=\"work-title\">Mollie, Bless Her</span>",
+      "work_id": 690
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 689,
+      "slug": "the-fisher-girl",
+      "title": "The Fisher-Girl",
+      "formatted_title": "The Fisher-Girl",
+      "html_title": "<span class=\"work-title\">The Fisher-Girl</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 691,
+      "slug": "a-movie-romance",
+      "title": "A Movie Romance",
+      "formatted_title": "A Movie Romance",
+      "html_title": "<span class=\"work-title\">A Movie Romance</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 739,
+      "slug": "joan-of-rainbow-springs",
+      "title": "Joan of Rainbow Springs",
+      "formatted_title": "Joan of Rainbow Springs",
+      "html_title": "<span class=\"work-title\">Joan of Rainbow Springs</span>",
+      "work_type": "novel",
+      "publication_year": 1911,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 692,
+      "slug": "the-secret-six",
+      "title": "The Secret Six",
+      "formatted_title": "The Secret Six",
+      "html_title": "<span class=\"work-title\">The Secret Six</span>",
+      "work_type": "novel",
+      "publication_year": 1931,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 690,
+      "slug": "mollie-bless-her",
+      "title": "Mollie, Bless Her",
+      "formatted_title": "Mollie, Bless Her",
+      "html_title": "<span class=\"work-title\">Mollie, Bless Her</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 689,
+    "slug": "the-fisher-girl",
+    "title": "The Fisher-Girl",
+    "formatted_title": "The Fisher-Girl",
+    "html_title": "<span class=\"work-title\">The Fisher-Girl</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:57:00.620983"
+}

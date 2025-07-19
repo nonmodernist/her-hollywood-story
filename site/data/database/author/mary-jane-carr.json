@@ -1,0 +1,83 @@
+{
+  "id": 159,
+  "slug": "mary-jane-carr",
+  "name": "Mary Jane Carr",
+  "birth_year": 1895,
+  "death_year": 1988,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1895–1988). Born in Portland. Died in Portland. Occupations: writer, poet, children's writer, journalist",
+  "author_notes": null,
+  "wikidata_id": "Q1906289",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1956,
+    "last_adaptation": 1956,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Western",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 453,
+      "slug": "westward-ho-the-wagons-1956",
+      "title": "Westward Ho the Wagons!",
+      "html_title": "<span class=\"film-title\">Westward Ho the Wagons!</span>",
+      "year": 1956,
+      "studio": "Walt Disney ",
+      "directors": "William Beaudine",
+      "genres": [
+        "Western",
+        "with songs"
+      ],
+      "has_media": true,
+      "work_title": "Children of the Covered Wagon: A Story of the Old Oregon Trail",
+      "work_html_title": "<span class=\"work-title\">Children of the Covered Wagon: A Story of the Old Oregon Trail</span>",
+      "work_id": 384
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 384,
+      "slug": "children-of-the-covered-wagon-a-story-of-the-old-oregon-trail",
+      "title": "Children of the Covered Wagon: A Story of the Old Oregon Trail",
+      "formatted_title": "Children of the Covered Wagon: A Story of the Old Oregon Trail",
+      "html_title": "<span class=\"work-title\">Children of the Covered Wagon: A Story of the Old Oregon Trail</span>",
+      "work_type": "novel",
+      "publication_year": 1934,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 384,
+    "slug": "children-of-the-covered-wagon-a-story-of-the-old-oregon-trail",
+    "title": "Children of the Covered Wagon: A Story of the Old Oregon Trail",
+    "formatted_title": "Children of the Covered Wagon: A Story of the Old Oregon Trail",
+    "html_title": "<span class=\"work-title\">Children of the Covered Wagon: A Story of the Old Oregon Trail</span>",
+    "work_type": "novel",
+    "publication_year": 1934,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:36.681997"
+}

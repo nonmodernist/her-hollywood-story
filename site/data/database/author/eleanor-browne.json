@@ -1,0 +1,83 @@
+{
+  "id": 143,
+  "slug": "eleanor-browne",
+  "name": "Eleanor Browne",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": "-",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1940,
+    "last_adaptation": 1940,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romantic comedy",
+        "count": 1
+      },
+      {
+        "genre": "Road",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 406,
+      "slug": "cross-country-romance-1940",
+      "title": "Cross-Country Romance",
+      "html_title": "<span class=\"film-title\">Cross-Country Romance</span>",
+      "year": 1940,
+      "studio": "RKO",
+      "directors": "Frank Woodruff",
+      "genres": [
+        "Romantic comedy",
+        "Road"
+      ],
+      "has_media": false,
+      "work_title": "Highway to Romance",
+      "work_html_title": "<span class=\"work-title\">Highway to Romance</span>",
+      "work_id": 342
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 342,
+      "slug": "highway-to-romance",
+      "title": "Highway to Romance",
+      "formatted_title": "Highway to Romance",
+      "html_title": "<span class=\"work-title\">Highway to Romance</span>",
+      "work_type": "novel",
+      "publication_year": 1937,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 342,
+    "slug": "highway-to-romance",
+    "title": "Highway to Romance",
+    "formatted_title": "Highway to Romance",
+    "html_title": "<span class=\"work-title\">Highway to Romance</span>",
+    "work_type": "novel",
+    "publication_year": 1937,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T03:50:16.801639"
+}

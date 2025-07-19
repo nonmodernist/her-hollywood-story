@@ -1,0 +1,78 @@
+{
+  "id": 401,
+  "slug": "dawn-powell",
+  "name": "Dawn Powell",
+  "birth_year": 1896,
+  "death_year": 1965,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "(1896-1965) American writer. Born in Mount Gilead. Died in New York City. Occupations: novelist, writer, journalist, short story writer",
+  "author_notes": null,
+  "wikidata_id": "Q3703786",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1935,
+    "last_adaptation": 1935,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 883,
+      "slug": "man-of-iron-1935",
+      "title": "Man of Iron",
+      "html_title": "<span class=\"film-title\">Man of Iron</span>",
+      "year": 1935,
+      "studio": "First National",
+      "directors": "William McGann",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Story of a Country Boy",
+      "work_html_title": "<span class=\"work-title\">Story of a Country Boy</span>",
+      "work_id": 791
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 791,
+      "slug": "story-of-a-country-boy",
+      "title": "Story of a Country Boy",
+      "formatted_title": "Story of a Country Boy",
+      "html_title": "<span class=\"work-title\">Story of a Country Boy</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 791,
+    "slug": "story-of-a-country-boy",
+    "title": "Story of a Country Boy",
+    "formatted_title": "Story of a Country Boy",
+    "html_title": "<span class=\"work-title\">Story of a Country Boy</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T18:25:10.582325"
+}

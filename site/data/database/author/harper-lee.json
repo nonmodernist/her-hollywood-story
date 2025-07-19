@@ -1,0 +1,83 @@
+{
+  "id": 315,
+  "slug": "harper-lee",
+  "name": "Harper Lee",
+  "birth_year": 1926,
+  "death_year": 2016,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "author of To Kill a Mockingbird. Born in Monroeville. Died in Monroeville. Occupations: screenwriter, actor, prose writer, musician, poet lawyer, writer, novelist. Notable works: Go Set a Watchman, To Kill a Mockingbird",
+  "author_notes": null,
+  "wikidata_id": "Q182658",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1962,
+    "last_adaptation": 1962,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Rural",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1960": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 736,
+      "slug": "to-kill-a-mockingbird-1962",
+      "title": "To Kill a Mockingbird",
+      "html_title": "<span class=\"film-title\">To Kill a Mockingbird</span>",
+      "year": 1962,
+      "studio": "Pakula-Mulligan Productions",
+      "directors": "Robert Mulligan",
+      "genres": [
+        "Drama",
+        "Rural"
+      ],
+      "has_media": false,
+      "work_title": "To Kill a Mockingbird",
+      "work_html_title": "<span class=\"work-title\">To Kill a Mockingbird</span>",
+      "work_id": 650
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 650,
+      "slug": "to-kill-a-mockingbird",
+      "title": "To Kill a Mockingbird",
+      "formatted_title": "To Kill a Mockingbird",
+      "html_title": "<span class=\"work-title\">To Kill a Mockingbird</span>",
+      "work_type": "novel",
+      "publication_year": 1960,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 650,
+    "slug": "to-kill-a-mockingbird",
+    "title": "To Kill a Mockingbird",
+    "formatted_title": "To Kill a Mockingbird",
+    "html_title": "<span class=\"work-title\">To Kill a Mockingbird</span>",
+    "work_type": "novel",
+    "publication_year": 1960,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:23.440231"
+}

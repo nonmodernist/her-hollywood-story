@@ -1,0 +1,64 @@
+{
+  "id": 12,
+  "slug": "the-shop-girl",
+  "title": "The Shop Girl",
+  "formatted_title": "The Shop Girl",
+  "html_title": "<span class=\"work-title\">The Shop Girl</span>",
+  "work_type": "novel",
+  "publication_year": 1916,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 7,
+    "slug": "alice-muriel-williamson",
+    "name": "Alice Muriel Williamson",
+    "birth_year": 1869,
+    "death_year": 1933,
+    "film_count": 10
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 0,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 14,
+      "slug": "the-shop-girl-1916",
+      "title": "The Shop Girl",
+      "html_title": "<span class=\"film-title\">The Shop Girl</span>",
+      "year": 1916,
+      "studio": "Vitagraph",
+      "directors": "George D. Baker",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "years_after_publication": 0
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": {
+    "year": null,
+    "publisher": null,
+    "notes": null,
+    "count": 0
+  },
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T18:21:08.260432"
+}

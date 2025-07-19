@@ -1,0 +1,60 @@
+{
+  "id": 724,
+  "slug": "the-sowing-of-alderson-cree",
+  "title": "The Sowing of Alderson Cree",
+  "formatted_title": "The Sowing of Alderson Cree",
+  "html_title": "<span class=\"work-title\">The Sowing of Alderson Cree</span>",
+  "work_type": "novel",
+  "publication_year": 1907,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 364,
+    "slug": "margaret-prescott-montague",
+    "name": "Margaret Prescott Montague",
+    "birth_year": 1878,
+    "death_year": 1955,
+    "film_count": 4
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 13,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 818,
+      "slug": "seeds-of-vengeance-1920",
+      "title": "Seeds of Vengeance",
+      "html_title": "<span class=\"film-title\">Seeds of Vengeance</span>",
+      "year": 1920,
+      "studio": "C. R. Macauley Photoplays",
+      "directors": "Ollie L. Sellers",
+      "genres": [
+        "Drama",
+        "Rural"
+      ],
+      "has_media": false,
+      "years_after_publication": 13
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T14:13:32.922268"
+}

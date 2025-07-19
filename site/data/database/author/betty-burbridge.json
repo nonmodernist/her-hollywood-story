@@ -1,0 +1,78 @@
+{
+  "id": 149,
+  "slug": "betty-burbridge",
+  "name": "Betty Burbridge",
+  "birth_year": 1895,
+  "death_year": 1987,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American screenwriter and actress (1895-1987). Born in San Diego. Died in Tarzana. Occupations: actor, film actor, television writer, film screenwriter, screenwriter",
+  "author_notes": null,
+  "wikidata_id": "Q964910",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1935,
+    "last_adaptation": 1935,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 423,
+      "slug": "false-pretenses-1935",
+      "title": "False Pretenses",
+      "html_title": "<span class=\"film-title\">False Pretenses</span>",
+      "year": 1935,
+      "studio": "Chesterfield",
+      "directors": "Charles Lamont",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": true,
+      "work_title": "Suicide Bridge",
+      "work_html_title": "<span class=\"work-title\">Suicide Bridge</span>",
+      "work_id": 359
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 359,
+      "slug": "suicide-bridge",
+      "title": "Suicide Bridge",
+      "formatted_title": "Suicide Bridge",
+      "html_title": "<span class=\"work-title\">Suicide Bridge</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 359,
+    "slug": "suicide-bridge",
+    "title": "Suicide Bridge",
+    "formatted_title": "Suicide Bridge",
+    "html_title": "<span class=\"work-title\">Suicide Bridge</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:21.553458"
+}

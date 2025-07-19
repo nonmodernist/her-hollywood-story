@@ -1,0 +1,88 @@
+{
+  "id": 350,
+  "slug": "nell-martin",
+  "name": "Nell Martin",
+  "birth_year": 1887,
+  "death_year": 1961,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in Illinois. Occupations: writer, novelist",
+  "author_notes": "aka Nell Columbia Boyer Martin, who also published under the name Columbia Boyer",
+  "wikidata_id": "Q6990027",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1930,
+    "last_adaptation": 1930,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 1
+      },
+      {
+        "genre": "Show business",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 786,
+      "slug": "lord-byron-of-broadway-1930",
+      "title": "Lord Byron of Broadway",
+      "html_title": "<span class=\"film-title\">Lord Byron of Broadway</span>",
+      "year": 1930,
+      "studio": "MGM",
+      "directors": "William Nigh|Harry Beaumont",
+      "genres": [
+        "Romance",
+        "Show business",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Lord Byron of Broadway",
+      "work_html_title": "<span class=\"work-title\">Lord Byron of Broadway</span>",
+      "work_id": 700
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 700,
+      "slug": "lord-byron-of-broadway",
+      "title": "Lord Byron of Broadway",
+      "formatted_title": "Lord Byron of Broadway",
+      "html_title": "<span class=\"work-title\">Lord Byron of Broadway</span>",
+      "work_type": "novel",
+      "publication_year": 1928,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 700,
+    "slug": "lord-byron-of-broadway",
+    "title": "Lord Byron of Broadway",
+    "formatted_title": "Lord Byron of Broadway",
+    "html_title": "<span class=\"work-title\">Lord Byron of Broadway</span>",
+    "work_type": "novel",
+    "publication_year": 1928,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:57:06.975189"
+}

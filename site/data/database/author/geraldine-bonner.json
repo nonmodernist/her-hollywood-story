@@ -1,0 +1,78 @@
+{
+  "id": 123,
+  "slug": "geraldine-bonner",
+  "name": "Geraldine Bonner",
+  "birth_year": 1870,
+  "death_year": 1930,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1870–1930). Born in Staten Island. Occupations: writer, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q5549723",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1920,
+    "last_adaptation": 1920,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Mystery",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 377,
+      "slug": "the-girl-in-the-web-1920",
+      "title": "The Girl in the Web",
+      "html_title": "<span class=\"film-title\">The Girl in the Web</span>",
+      "year": 1920,
+      "studio": "Jesse D. Hampton Prod.-Robert Brunton Prod./Pathe\nExchange, Inc.",
+      "directors": "Robert Thornby",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": true,
+      "work_title": "Miss Maitland Private Secretary",
+      "work_html_title": "<span class=\"work-title\">Miss Maitland Private Secretary</span>",
+      "work_id": 313
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 313,
+      "slug": "miss-maitland-private-secretary",
+      "title": "Miss Maitland Private Secretary",
+      "formatted_title": "Miss Maitland Private Secretary",
+      "html_title": "<span class=\"work-title\">Miss Maitland Private Secretary</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 313,
+    "slug": "miss-maitland-private-secretary",
+    "title": "Miss Maitland Private Secretary",
+    "formatted_title": "Miss Maitland Private Secretary",
+    "html_title": "<span class=\"work-title\">Miss Maitland Private Secretary</span>",
+    "work_type": "novel",
+    "publication_year": 1919,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:52:48.780484"
+}

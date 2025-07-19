@@ -1,0 +1,164 @@
+{
+  "id": 150,
+  "slug": "clara-louise-burnham",
+  "name": "Clara Louise Burnham",
+  "birth_year": 1854,
+  "death_year": 1927,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American novelist. Born in Newton. Died in Bailey Island. Occupations: writer, novelist",
+  "author_notes": null,
+  "wikidata_id": "Q29463958",
+  "stats": {
+    "total_films": 4,
+    "works_adapted": 3,
+    "first_adaptation": 1914,
+    "last_adaptation": 1923,
+    "year_span": 9,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 2
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2,
+      "1920": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 437,
+      "slug": "the-opened-shutters-1914",
+      "title": "The Opened Shutters",
+      "html_title": "<span class=\"film-title\">The Opened Shutters</span>",
+      "year": 1914,
+      "studio": "Universal",
+      "directors": "Otis Turner",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "The Open Shutters: A Novel",
+      "work_html_title": "<span class=\"work-title\">The Open Shutters: A Novel</span>",
+      "work_id": 369
+    },
+    {
+      "id": 435,
+      "slug": "jewel-1915",
+      "title": "Jewel",
+      "html_title": "<span class=\"film-title\">Jewel</span>",
+      "year": 1915,
+      "studio": "Universal",
+      "directors": "Phillips Smalley",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Jewel: A Chapter in Her Life",
+      "work_html_title": "<span class=\"work-title\">Jewel: A Chapter in Her Life</span>",
+      "work_id": 368
+    },
+    {
+      "id": 434,
+      "slug": "hearts-haven-1922",
+      "title": "Heart's Haven",
+      "html_title": "<span class=\"film-title\">Heart's Haven</span>",
+      "year": 1922,
+      "studio": "Benjamin B. Hampton Prod./W. W. Hodkinson Corp",
+      "directors": "Benjamin B. Hampton",
+      "genres": [
+        "Melodrama",
+        "Domestic"
+      ],
+      "has_media": true,
+      "work_title": "Heart's Haven",
+      "work_html_title": "<span class=\"work-title\">Heart's Haven</span>",
+      "work_id": 367
+    },
+    {
+      "id": 436,
+      "slug": "a-chapter-in-her-life-1923",
+      "title": "A Chapter in Her Life",
+      "html_title": "<span class=\"film-title\">A Chapter in Her Life</span>",
+      "year": 1923,
+      "studio": "Universal",
+      "directors": "Lois Weber",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Jewel: A Chapter in Her Life",
+      "work_html_title": "<span class=\"work-title\">Jewel: A Chapter in Her Life</span>",
+      "work_id": 368
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 368,
+      "slug": "jewel-a-chapter-in-her-life",
+      "title": "Jewel: A Chapter in Her Life",
+      "formatted_title": "Jewel: A Chapter in Her Life",
+      "html_title": "<span class=\"work-title\">Jewel: A Chapter in Her Life</span>",
+      "work_type": "novel",
+      "publication_year": 1903,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 369,
+      "slug": "the-open-shutters-a-novel",
+      "title": "The Open Shutters: A Novel",
+      "formatted_title": "The Open Shutters: A Novel",
+      "html_title": "<span class=\"work-title\">The Open Shutters: A Novel</span>",
+      "work_type": "novel",
+      "publication_year": 1906,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 367,
+      "slug": "hearts-haven",
+      "title": "Heart's Haven",
+      "formatted_title": "Heart's Haven",
+      "html_title": "<span class=\"work-title\">Heart's Haven</span>",
+      "work_type": "novel",
+      "publication_year": 1918,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 368,
+    "slug": "jewel-a-chapter-in-her-life",
+    "title": "Jewel: A Chapter in Her Life",
+    "formatted_title": "Jewel: A Chapter in Her Life",
+    "html_title": "<span class=\"work-title\">Jewel: A Chapter in Her Life</span>",
+    "work_type": "novel",
+    "publication_year": 1903,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:53:23.576389"
+}

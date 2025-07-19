@@ -1,0 +1,59 @@
+{
+  "id": 577,
+  "slug": "the-house-of-little-shoes",
+  "title": "The House of Little Shoes",
+  "formatted_title": "The House of Little Shoes",
+  "html_title": "<span class=\"work-title\">The House of Little Shoes</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 274,
+    "slug": "eleanor-marie-ingram",
+    "name": "Eleanor Marie Ingram",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 659,
+      "slug": "little-shoes-1917",
+      "title": "Little Shoes",
+      "html_title": "<span class=\"film-title\">Little Shoes</span>",
+      "year": 1917,
+      "studio": "Essanay Film",
+      "directors": "Arthur Berthelet",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 1917
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-06T14:47:09.078725"
+}

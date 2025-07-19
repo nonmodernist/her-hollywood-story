@@ -1,0 +1,59 @@
+{
+  "id": 301,
+  "slug": "without-compromise",
+  "title": "Without Compromise",
+  "formatted_title": "Without Compromise",
+  "html_title": "<span class=\"work-title\">Without Compromise</span>",
+  "work_type": "novel",
+  "publication_year": 1922,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": "co-writer George Hubbard",
+  "author": {
+    "id": 114,
+    "slug": "lillian-bennett-thompson",
+    "name": "Lillian Bennett-Thompson",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 0,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 365,
+      "slug": "without-compromise-1922",
+      "title": "Without Compromise",
+      "html_title": "<span class=\"film-title\">Without Compromise</span>",
+      "year": 1922,
+      "studio": "Fox Film",
+      "directors": "Emmett J. Flynn",
+      "genres": [
+        "Western"
+      ],
+      "has_media": true,
+      "years_after_publication": 0
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T23:47:53.465384"
+}

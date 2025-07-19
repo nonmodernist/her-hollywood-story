@@ -1,0 +1,269 @@
+{
+  "id": 205,
+  "slug": "mignon-g-eberhart",
+  "name": "Mignon G. Eberhart",
+  "birth_year": 1899,
+  "death_year": 1996,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "novelist (1899–1996). Born in Lincoln. Died in Greenwich. Occupations: novelist, writer. Notable works: The Patient in Room 18",
+  "author_notes": null,
+  "wikidata_id": "Q452249",
+  "stats": {
+    "total_films": 8,
+    "works_adapted": 7,
+    "first_adaptation": 1935,
+    "last_adaptation": 1945,
+    "year_span": 10,
+    "top_genres": [
+      {
+        "genre": "Mystery",
+        "count": 8
+      },
+      {
+        "genre": "Medical",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1930": 7,
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 535,
+      "slug": "the-white-cockatoo-1935",
+      "title": "The White Cockatoo",
+      "html_title": "<span class=\"film-title\">The White Cockatoo</span>",
+      "year": 1935,
+      "studio": "Warner Bros",
+      "directors": "Alan Crosland",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": true,
+      "work_title": "The White Cockatoo",
+      "work_html_title": "<span class=\"work-title\">The White Cockatoo</span>",
+      "work_id": 465
+    },
+    {
+      "id": 533,
+      "slug": "while-the-patient-slept-1935",
+      "title": "While the Patient Slept",
+      "html_title": "<span class=\"film-title\">While the Patient Slept</span>",
+      "year": 1935,
+      "studio": "First National",
+      "directors": "Ray Enright",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "The Patient in Room 18",
+      "work_html_title": "<span class=\"work-title\">The Patient in Room 18</span>",
+      "work_id": 464
+    },
+    {
+      "id": 531,
+      "slug": "murder-by-an-aristocrat-1936",
+      "title": "Murder by an Aristocrat",
+      "html_title": "<span class=\"film-title\">Murder by an Aristocrat</span>",
+      "year": 1936,
+      "studio": "Warner Bros",
+      "directors": "Frank McDonald",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "Murder by an Aristocrat",
+      "work_html_title": "<span class=\"work-title\">Murder by an Aristocrat</span>",
+      "work_id": 462
+    },
+    {
+      "id": 529,
+      "slug": "the-murder-of-dr-harrigan-1936",
+      "title": "The Murder of Dr. Harrigan",
+      "html_title": "<span class=\"film-title\">The Murder of Dr. Harrigan</span>",
+      "year": 1936,
+      "studio": "Warner Bros",
+      "directors": "Frank McDonald",
+      "genres": [
+        "Mystery",
+        "Medical"
+      ],
+      "has_media": false,
+      "work_title": "From This Dark Stairway",
+      "work_html_title": "<span class=\"work-title\">From This Dark Stairway</span>",
+      "work_id": 460
+    },
+    {
+      "id": 528,
+      "slug": "the-great-hospital-mystery-1937",
+      "title": "The Great Hospital Mystery",
+      "html_title": "<span class=\"film-title\">The Great Hospital Mystery</span>",
+      "year": 1937,
+      "studio": "20th Century Fox",
+      "directors": "James Tinling",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "Dead Yesterday",
+      "work_html_title": "<span class=\"work-title\">Dead Yesterday</span>",
+      "work_id": 459
+    },
+    {
+      "id": 532,
+      "slug": "mystery-house-1938",
+      "title": "Mystery House",
+      "html_title": "<span class=\"film-title\">Mystery House</span>",
+      "year": 1938,
+      "studio": "Warner Bros",
+      "directors": "Noel Smith",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "The Mystery of Hunting's End",
+      "work_html_title": "<span class=\"work-title\">The Mystery of Hunting's End</span>",
+      "work_id": 463
+    },
+    {
+      "id": 534,
+      "slug": "the-patient-in-room-18-1938",
+      "title": "The Patient in Room 18",
+      "html_title": "<span class=\"film-title\">The Patient in Room 18</span>",
+      "year": 1938,
+      "studio": "Warner Bros",
+      "directors": "Bobby Connolly|Crane Wilbur",
+      "genres": [
+        "Mystery",
+        "Medical"
+      ],
+      "has_media": false,
+      "work_title": "The Patient in Room 18",
+      "work_html_title": "<span class=\"work-title\">The Patient in Room 18</span>",
+      "work_id": 464
+    },
+    {
+      "id": 530,
+      "slug": "threes-a-crowd-1945",
+      "title": "Three's a Crowd",
+      "html_title": "<span class=\"film-title\">Three's a Crowd</span>",
+      "year": 1945,
+      "studio": "Republic",
+      "directors": "Lesley Selander",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": false,
+      "work_title": "Hasty Wedding",
+      "work_html_title": "<span class=\"work-title\">Hasty Wedding</span>",
+      "work_id": 461
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 464,
+      "slug": "the-patient-in-room-18",
+      "title": "The Patient in Room 18",
+      "formatted_title": "The Patient in Room 18",
+      "html_title": "<span class=\"work-title\">The Patient in Room 18</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 465,
+      "slug": "the-white-cockatoo",
+      "title": "The White Cockatoo",
+      "formatted_title": "The White Cockatoo",
+      "html_title": "<span class=\"work-title\">The White Cockatoo</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 462,
+      "slug": "murder-by-an-aristocrat",
+      "title": "Murder by an Aristocrat",
+      "formatted_title": "Murder by an Aristocrat",
+      "html_title": "<span class=\"work-title\">Murder by an Aristocrat</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 460,
+      "slug": "from-this-dark-stairway",
+      "title": "From This Dark Stairway",
+      "formatted_title": "From This Dark Stairway",
+      "html_title": "<span class=\"work-title\">From This Dark Stairway</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 459,
+      "slug": "dead-yesterday",
+      "title": "Dead Yesterday",
+      "formatted_title": "Dead Yesterday",
+      "html_title": "<span class=\"work-title\">Dead Yesterday</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 463,
+      "slug": "the-mystery-of-huntings-end",
+      "title": "The Mystery of Hunting's End",
+      "formatted_title": "The Mystery of Hunting's End",
+      "html_title": "<span class=\"work-title\">The Mystery of Hunting's End</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 461,
+      "slug": "hasty-wedding",
+      "title": "Hasty Wedding",
+      "formatted_title": "Hasty Wedding",
+      "html_title": "<span class=\"work-title\">Hasty Wedding</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 464,
+    "slug": "the-patient-in-room-18",
+    "title": "The Patient in Room 18",
+    "formatted_title": "The Patient in Room 18",
+    "html_title": "<span class=\"work-title\">The Patient in Room 18</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-24T14:30:44.696535"
+}

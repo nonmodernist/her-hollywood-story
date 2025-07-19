@@ -1,0 +1,59 @@
+{
+  "id": 739,
+  "slug": "joan-of-rainbow-springs",
+  "title": "Joan of Rainbow Springs",
+  "formatted_title": "Joan of Rainbow Springs",
+  "html_title": "<span class=\"work-title\">Joan of Rainbow Springs</span>",
+  "work_type": "novel",
+  "publication_year": 1911,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 346,
+    "slug": "frances-marion",
+    "name": "Frances Marion",
+    "birth_year": 1888,
+    "death_year": 1973,
+    "film_count": 5
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 9,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 814,
+      "slug": "the-girl-of-my-heart-1920",
+      "title": "The Girl of My Heart",
+      "html_title": "<span class=\"film-title\">The Girl of My Heart</span>",
+      "year": 1920,
+      "studio": "Fox Film",
+      "directors": "Edward J. Le Saint",
+      "genres": [
+        "Adventure"
+      ],
+      "has_media": false,
+      "years_after_publication": 9
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-09T14:15:22.948418"
+}

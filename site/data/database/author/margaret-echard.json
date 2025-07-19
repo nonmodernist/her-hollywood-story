@@ -1,0 +1,83 @@
+{
+  "id": 207,
+  "slug": "margaret-echard",
+  "name": "Margaret Echard",
+  "birth_year": 1895,
+  "death_year": 1982,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American novelist, playwright, scriptwriter for radio and film. Born in Brazil. Occupations: writer, actor",
+  "author_notes": null,
+  "wikidata_id": "Q110459766",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1951,
+    "last_adaptation": 1951,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 1
+      },
+      {
+        "genre": "Suspense",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 537,
+      "slug": "lightning-strikes-twice-1951",
+      "title": "Lightning Strikes Twice",
+      "html_title": "<span class=\"film-title\">Lightning Strikes Twice</span>",
+      "year": 1951,
+      "studio": "Warner Bros",
+      "directors": "King Vidor",
+      "genres": [
+        "Romance",
+        "Suspense"
+      ],
+      "has_media": false,
+      "work_title": "A Man Without Friends",
+      "work_html_title": "<span class=\"work-title\">A Man Without Friends</span>",
+      "work_id": 467
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 467,
+      "slug": "a-man-without-friends",
+      "title": "A Man Without Friends",
+      "formatted_title": "A Man Without Friends",
+      "html_title": "<span class=\"work-title\">A Man Without Friends</span>",
+      "work_type": "novel",
+      "publication_year": 1940,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 467,
+    "slug": "a-man-without-friends",
+    "title": "A Man Without Friends",
+    "formatted_title": "A Man Without Friends",
+    "html_title": "<span class=\"work-title\">A Man Without Friends</span>",
+    "work_type": "novel",
+    "publication_year": 1940,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-24T14:30:47.723445"
+}

@@ -1,0 +1,88 @@
+{
+  "id": 98,
+  "slug": "carson-mccullers",
+  "name": "Carson McCullers",
+  "birth_year": 1917,
+  "death_year": 1967,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1917–1967). Born in Columbus. Died in Nyack. Occupations: screenwriter, prose writer, writer, poet, playwright, novelist. Notable works: The Heart Is a Lonely Hunter, The Member of the Wedding",
+  "author_notes": null,
+  "wikidata_id": "Q230591",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1952,
+    "last_adaptation": 1952,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      },
+      {
+        "genre": "Teenage",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 315,
+      "slug": "the-member-of-the-wedding-1952",
+      "title": "The Member of the Wedding",
+      "html_title": "<span class=\"film-title\">The Member of the Wedding</span>",
+      "year": 1952,
+      "studio": "Columbia",
+      "directors": "Fred Zinnemann",
+      "genres": [
+        "Drama",
+        "Domestic",
+        "Teenage"
+      ],
+      "has_media": false,
+      "work_title": "The Member of the Wedding",
+      "work_html_title": "<span class=\"work-title\">The Member of the Wedding</span>",
+      "work_id": 264
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 264,
+      "slug": "the-member-of-the-wedding",
+      "title": "The Member of the Wedding",
+      "formatted_title": "The Member of the Wedding",
+      "html_title": "<span class=\"work-title\">The Member of the Wedding</span>",
+      "work_type": "novel",
+      "publication_year": 1946,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 264,
+    "slug": "the-member-of-the-wedding",
+    "title": "The Member of the Wedding",
+    "formatted_title": "The Member of the Wedding",
+    "html_title": "<span class=\"work-title\">The Member of the Wedding</span>",
+    "work_type": "novel",
+    "publication_year": 1946,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:38:37.281143"
+}

@@ -1,0 +1,111 @@
+{
+  "id": 130,
+  "slug": "eleanor-hoyt-brainerd",
+  "name": "Eleanor Hoyt Brainerd",
+  "birth_year": 1868,
+  "death_year": 1942,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1868-1942). Born in Iowa City. Died in Pasadena. Occupations: novelist, journalist",
+  "author_notes": null,
+  "wikidata_id": "Q5354293",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1918,
+    "last_adaptation": 1920,
+    "year_span": 2,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 388,
+      "slug": "how-could-you-jean-1918",
+      "title": "How Could You, Jean?",
+      "html_title": "<span class=\"film-title\">How Could You, Jean?</span>",
+      "year": 1918,
+      "studio": "Mary Pickford",
+      "directors": "William D. Taylor",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "How Could You Jean?",
+      "work_html_title": "<span class=\"work-title\">How Could You Jean?</span>",
+      "work_id": 325
+    },
+    {
+      "id": 389,
+      "slug": "pegeen-1920",
+      "title": "Pegeen",
+      "html_title": "<span class=\"film-title\">Pegeen</span>",
+      "year": 1920,
+      "studio": "Vitagraph",
+      "directors": "David Smith",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Pegeen",
+      "work_html_title": "<span class=\"work-title\">Pegeen</span>",
+      "work_id": 326
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 325,
+      "slug": "how-could-you-jean",
+      "title": "How Could You Jean?",
+      "formatted_title": "How Could You Jean?",
+      "html_title": "<span class=\"work-title\">How Could You Jean?</span>",
+      "work_type": "novel",
+      "publication_year": 1917,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 326,
+      "slug": "pegeen",
+      "title": "Pegeen",
+      "formatted_title": "Pegeen",
+      "html_title": "<span class=\"work-title\">Pegeen</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 325,
+    "slug": "how-could-you-jean",
+    "title": "How Could You Jean?",
+    "formatted_title": "How Could You Jean?",
+    "html_title": "<span class=\"work-title\">How Could You Jean?</span>",
+    "work_type": "novel",
+    "publication_year": 1917,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:52:57.706545"
+}

@@ -1,0 +1,109 @@
+{
+  "id": 413,
+  "slug": "laura-e-richards",
+  "name": "Laura E. Richards",
+  "birth_year": 1850,
+  "death_year": 1943,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1850-1943). Born in Boston. Died in Gardiner. Occupations: poet, biographer, children's writer, writer",
+  "author_notes": "aka Laura Elizabeth Howe Richards",
+  "wikidata_id": "Q6498881",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 1,
+    "first_adaptation": 1924,
+    "last_adaptation": 1936,
+    "year_span": 12,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      },
+      {
+        "genre": "Youth",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1,
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 915,
+      "slug": "captain-january-1924",
+      "title": "Captain January",
+      "html_title": "<span class=\"film-title\">Captain January</span>",
+      "year": 1924,
+      "studio": "Principal Pictures ",
+      "directors": "Edward F. Cline",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Captain January",
+      "work_html_title": "<span class=\"work-title\">Captain January</span>",
+      "work_id": 822
+    },
+    {
+      "id": 916,
+      "slug": "captain-january-1936",
+      "title": "Captain January",
+      "html_title": "<span class=\"film-title\">Captain January</span>",
+      "year": 1936,
+      "studio": "20th Century Fox",
+      "directors": "David Butler",
+      "genres": [
+        "Comedy-drama",
+        "with songs",
+        "Youth"
+      ],
+      "has_media": false,
+      "work_title": "Captain January",
+      "work_html_title": "<span class=\"work-title\">Captain January</span>",
+      "work_id": 822
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 822,
+      "slug": "captain-january",
+      "title": "Captain January",
+      "formatted_title": "Captain January",
+      "html_title": "<span class=\"work-title\">Captain January</span>",
+      "work_type": "novel",
+      "publication_year": 1902,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 822,
+    "slug": "captain-january",
+    "title": "Captain January",
+    "formatted_title": "Captain January",
+    "html_title": "<span class=\"work-title\">Captain January</span>",
+    "work_type": "novel",
+    "publication_year": 1902,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:25:37.635205"
+}

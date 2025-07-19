@@ -1,0 +1,85 @@
+{
+  "id": 191,
+  "slug": "imitation-of-life",
+  "title": "Imitation of Life",
+  "formatted_title": "Imitation of Life",
+  "html_title": "<span class=\"work-title\">Imitation of Life</span>",
+  "work_type": "novel",
+  "publication_year": 1933,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 25,
+    "slug": "fannie-hurst",
+    "name": "Fannie Hurst",
+    "birth_year": 1889,
+    "death_year": 1968,
+    "film_count": 27
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 25,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 25
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 212,
+      "slug": "imitation-of-life-1934",
+      "title": "Imitation of Life",
+      "html_title": "<span class=\"film-title\">Imitation of Life</span>",
+      "year": 1934,
+      "studio": "Universal",
+      "directors": "John M. Stahl",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "years_after_publication": 1
+    },
+    {
+      "id": 335,
+      "slug": "imitation-of-life-1959",
+      "title": "Imitation of Life",
+      "html_title": "<span class=\"film-title\">Imitation of Life</span>",
+      "year": 1959,
+      "studio": "Universal-International",
+      "directors": "Douglas Sirk",
+      "genres": [
+        "Melodrama",
+        "with songs"
+      ],
+      "has_media": true,
+      "years_after_publication": 26
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1934,
+      "to_year": 1959,
+      "gap_years": 25
+    }
+  ],
+  "photoplay_edition": {
+    "year": 1934,
+    "publisher": "A.L. Burt",
+    "notes": "Dust jacket",
+    "count": 0
+  },
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T18:08:27.282043"
+}

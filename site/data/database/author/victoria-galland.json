@@ -1,0 +1,83 @@
+{
+  "id": 231,
+  "slug": "victoria-galland",
+  "name": "Victoria Galland",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1922,
+    "last_adaptation": 1922,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 590,
+      "slug": "the-golden-gallows-1922",
+      "title": "The Golden Gallows",
+      "html_title": "<span class=\"film-title\">The Golden Gallows</span>",
+      "year": 1922,
+      "studio": "Universal",
+      "directors": "Paul Scardon",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "The Golden Gallows",
+      "work_html_title": "<span class=\"work-title\">The Golden Gallows</span>",
+      "work_id": 517
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 517,
+      "slug": "the-golden-gallows",
+      "title": "The Golden Gallows",
+      "formatted_title": "The Golden Gallows",
+      "html_title": "<span class=\"work-title\">The Golden Gallows</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 517,
+    "slug": "the-golden-gallows",
+    "title": "The Golden Gallows",
+    "formatted_title": "The Golden Gallows",
+    "html_title": "<span class=\"work-title\">The Golden Gallows</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-04T00:53:10.886851"
+}

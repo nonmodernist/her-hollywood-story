@@ -1,0 +1,83 @@
+{
+  "id": 131,
+  "slug": "dorothea-brande",
+  "name": "Dorothea Brande",
+  "birth_year": 1893,
+  "death_year": 1948,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer and editor (1893–1948). Born in Chicago. Died in New Hampshire. Occupations: journalist",
+  "author_notes": "aka Dorothea Thompson Brande Collins",
+  "wikidata_id": "Q5298236",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1937,
+    "last_adaptation": 1937,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Musical comedy",
+        "count": 1
+      },
+      {
+        "genre": "Show business",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 390,
+      "slug": "wake-up-and-live-1937",
+      "title": "Wake Up and Live",
+      "html_title": "<span class=\"film-title\">Wake Up and Live</span>",
+      "year": 1937,
+      "studio": "20th Century Fox",
+      "directors": "Sidney Lanfield",
+      "genres": [
+        "Musical comedy",
+        "Show business"
+      ],
+      "has_media": true,
+      "work_title": "Wake Up and Live",
+      "work_html_title": "<span class=\"work-title\">Wake Up and Live</span>",
+      "work_id": 327
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 327,
+      "slug": "wake-up-and-live",
+      "title": "Wake Up and Live",
+      "formatted_title": "Wake Up and Live",
+      "html_title": "<span class=\"work-title\">Wake Up and Live</span>",
+      "work_type": "novel",
+      "publication_year": 1936,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 327,
+    "slug": "wake-up-and-live",
+    "title": "Wake Up and Live",
+    "formatted_title": "Wake Up and Live",
+    "html_title": "<span class=\"work-title\">Wake Up and Live</span>",
+    "work_type": "novel",
+    "publication_year": 1936,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:52:59.738316"
+}

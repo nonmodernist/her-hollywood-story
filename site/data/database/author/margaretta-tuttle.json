@@ -1,0 +1,83 @@
+{
+  "id": 44,
+  "slug": "margaretta-tuttle",
+  "name": "Margaretta Tuttle",
+  "birth_year": 1875,
+  "death_year": 1958,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American writer. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q47035835",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1924,
+    "last_adaptation": 1924,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Society",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 114,
+      "slug": "feet-of-clay-1924",
+      "title": "Feet of Clay",
+      "html_title": "<span class=\"film-title\">Feet of Clay</span>",
+      "year": 1924,
+      "studio": "Famous Players-Lasky",
+      "directors": "Cecil B. De Mille",
+      "genres": [
+        "Drama",
+        "Society"
+      ],
+      "has_media": true,
+      "work_title": "Feet of Clay",
+      "work_html_title": "<span class=\"work-title\">Feet of Clay</span>",
+      "work_id": 109
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 109,
+      "slug": "feet-of-clay",
+      "title": "Feet of Clay",
+      "formatted_title": "Feet of Clay",
+      "html_title": "<span class=\"work-title\">Feet of Clay</span>",
+      "work_type": "novel",
+      "publication_year": 1923,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 109,
+    "slug": "feet-of-clay",
+    "title": "Feet of Clay",
+    "formatted_title": "Feet of Clay",
+    "html_title": "<span class=\"work-title\">Feet of Clay</span>",
+    "work_type": "novel",
+    "publication_year": 1923,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T16:37:28.728014"
+}

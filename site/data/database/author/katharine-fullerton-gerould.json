@@ -1,0 +1,111 @@
+{
+  "id": 237,
+  "slug": "katharine-fullerton-gerould",
+  "name": "Katharine Fullerton Gerould",
+  "birth_year": 1879,
+  "death_year": 1944,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer. Born in Brockton. Occupations: writer",
+  "author_notes": "aka Katharine F. Gerould",
+  "wikidata_id": "Q6376175",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 1,
+    "first_adaptation": 1926,
+    "last_adaptation": 1941,
+    "year_span": 15,
+    "top_genres": [
+      {
+        "genre": "Western",
+        "count": 3
+      }
+    ],
+    "films_by_decade": {
+      "1920": 2,
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 600,
+      "slug": "the-yankee-seor-1926",
+      "title": "The Yankee Señor",
+      "html_title": "<span class=\"film-title\">The Yankee Señor</span>",
+      "year": 1926,
+      "studio": "Fox Film",
+      "directors": "Emmett Flynn",
+      "genres": [
+        "Western"
+      ],
+      "has_media": true,
+      "work_title": "Conquistador",
+      "work_html_title": "<span class=\"work-title\">Conquistador</span>",
+      "work_id": 526
+    },
+    {
+      "id": 601,
+      "slug": "romance-of-the-rio-grande-1929",
+      "title": "Romance of the Rio Grande",
+      "html_title": "<span class=\"film-title\">Romance of the Rio Grande</span>",
+      "year": 1929,
+      "studio": "Fox Film",
+      "directors": "Alfred Santell",
+      "genres": [
+        "Western"
+      ],
+      "has_media": true,
+      "work_title": "Conquistador",
+      "work_html_title": "<span class=\"work-title\">Conquistador</span>",
+      "work_id": 526
+    },
+    {
+      "id": 602,
+      "slug": "romance-of-the-rio-grande-1941",
+      "title": "Romance of the Rio Grande",
+      "html_title": "<span class=\"film-title\">Romance of the Rio Grande</span>",
+      "year": 1941,
+      "studio": "20th Century Fox",
+      "directors": "Herbert I. Leeds",
+      "genres": [
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "Conquistador",
+      "work_html_title": "<span class=\"work-title\">Conquistador</span>",
+      "work_id": 526
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 526,
+      "slug": "conquistador",
+      "title": "Conquistador",
+      "formatted_title": "Conquistador",
+      "html_title": "<span class=\"work-title\">Conquistador</span>",
+      "work_type": "novel",
+      "publication_year": 1923,
+      "genre": null,
+      "adaptation_count": 3,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 526,
+    "slug": "conquistador",
+    "title": "Conquistador",
+    "formatted_title": "Conquistador",
+    "html_title": "<span class=\"work-title\">Conquistador</span>",
+    "work_type": "novel",
+    "publication_year": 1923,
+    "genre": null,
+    "adaptation_count": 3,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-04T03:29:17.351002"
+}

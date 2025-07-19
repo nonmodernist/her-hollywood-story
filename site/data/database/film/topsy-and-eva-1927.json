@@ -1,0 +1,140 @@
+{
+  "id": 147,
+  "slug": "topsy-and-eva-1927",
+  "title": "Topsy and Eva",
+  "formatted_title": "Topsy and Eva",
+  "html_title": "<span class=\"film-title\">Topsy and Eva</span>",
+  "release_year": 1927,
+  "runtime_minutes": 80,
+  "country_of_production": "United States",
+  "genres": [
+    "Melodrama"
+  ],
+  "studio": "Feature Productions",
+  "production_companies": "Feature Productions, Inc.",
+  "distribution_companies": "United Artists Corp.",
+  "directors": "Del Lord",
+  "writers": "Lois Weber",
+  "cast_members": "Rosetta Duncan|Vivian Duncan|Gibson Gowland|Noble Johnson|Marjorie Daw|Myrtle Ferguson|Nils Asther|Henry Victor",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 1734,
+  "source_work": {
+    "id": 3,
+    "slug": "uncle-toms-cabin",
+    "title": "Uncle Tom's Cabin",
+    "formatted_title": "Uncle Tom's Cabin",
+    "html_title": "<span class=\"work-title\">Uncle Tom's Cabin</span>",
+    "work_type": "novel",
+    "publication_year": 1852,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 7,
+    "year_to_adaptation": 75
+  },
+  "author": {
+    "id": 2,
+    "slug": "harriet-beecher-stowe",
+    "name": "Harriet Beecher Stowe",
+    "birth_year": 1811,
+    "death_year": 1896,
+    "nationality": "United States",
+    "film_count": 9
+  },
+  "other_adaptations": [
+    {
+      "id": 2,
+      "slug": "uncle-toms-cabin-1910",
+      "title": "Uncle Tom's Cabin",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
+      "year": 1910,
+      "directors": "Barry O'Neil",
+      "studio": "Thanhauser"
+    },
+    {
+      "id": 3,
+      "slug": "uncle-toms-cabin-part-3-1910",
+      "title": "Uncle Tom's Cabin, Part 3",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin, Part 3</span>",
+      "year": 1910,
+      "directors": "Frederick Thomson",
+      "studio": "Vitagraph"
+    },
+    {
+      "id": 1009,
+      "slug": "uncle-toms-cabin-1913",
+      "title": "Uncle Tom's Cabin",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
+      "year": 1913,
+      "directors": "William Robert Daly",
+      "studio": "World Producing"
+    },
+    {
+      "id": 7,
+      "slug": "uncle-toms-cabin-1914",
+      "title": "Uncle Tom's Cabin",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
+      "year": 1914,
+      "directors": "William Robert Daly",
+      "studio": "World Producing"
+    },
+    {
+      "id": 39,
+      "slug": "uncle-toms-cabin-1918",
+      "title": "Uncle Tom's Cabin",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
+      "year": 1918,
+      "directors": "J. Searle Dawley",
+      "studio": "Famous Players-Lasky"
+    },
+    {
+      "id": 138,
+      "slug": "uncle-toms-cabin-1927",
+      "title": "Uncle Tom's Cabin",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
+      "year": 1927,
+      "directors": "Harry A. Pollard",
+      "studio": "Universal"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 7,
+    "adaptation_number": 6,
+    "is_first": false,
+    "is_latest": false
+  },
+  "media": [
+    {
+      "id": 523,
+      "media_type": "poster",
+      "title": "Topsy and Eva poster.jpg",
+      "caption": "Poster for w:Topsy and Eva",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Topsy_and_Eva_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Topsy_and_Eva_poster.jpg/300px-Topsy_and_Eva_poster.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Topsy_and_Eva_poster.jpg",
+      "license": "public_domain",
+      "attribution": "United Artists (distributor)",
+      "is_featured": "False"
+    },
+    {
+      "id": 524,
+      "media_type": "production_photo",
+      "title": "Topsy and Eva (SAYRE 14490).jpg",
+      "caption": "Topsy and Eva Subjects (LCTGM): motion pictures, actresses",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Topsy_and_Eva_%28SAYRE_14490%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Topsy_and_Eva_%28SAYRE_14490%29.jpg/300px-Topsy_and_Eva_%28SAYRE_14490%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Topsy_and_Eva_(SAYRE_14490).jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
+  "has_narrative": false,
+  "last_updated": "2025-07-18T18:36:32.713708"
+}

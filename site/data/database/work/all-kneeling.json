@@ -1,0 +1,59 @@
+{
+  "id": 778,
+  "slug": "all-kneeling",
+  "title": "All Kneeling",
+  "formatted_title": "All Kneeling",
+  "html_title": "<span class=\"work-title\">All Kneeling</span>",
+  "work_type": "novel",
+  "publication_year": 1928,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 391,
+    "slug": "anne-parrish",
+    "name": "Anne Parrish",
+    "birth_year": 1888,
+    "death_year": 1957,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 22,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 869,
+      "slug": "born-to-be-bad-1950",
+      "title": "Born to be Bad",
+      "html_title": "<span class=\"film-title\">Born to be Bad</span>",
+      "year": 1950,
+      "studio": "RKO",
+      "directors": "Nicholas Ray",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 22
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T14:13:29.041998"
+}

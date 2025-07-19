@@ -1,0 +1,88 @@
+{
+  "id": 461,
+  "slug": "kay-swift",
+  "name": "Kay Swift",
+  "birth_year": 1897,
+  "death_year": 1993,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American composer of popular and classical music (1897–1993). Born in Manhattan. Died in Southington. Occupations: composer, songwriter",
+  "author_notes": null,
+  "wikidata_id": "Q469546",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1950,
+    "last_adaptation": 1950,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Western",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      },
+      {
+        "genre": "with songs",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1015,
+      "slug": "never-a-dull-moment-1950",
+      "title": "Never a Dull Moment",
+      "html_title": "<span class=\"film-title\">Never a Dull Moment</span>",
+      "year": 1950,
+      "studio": "RKO",
+      "directors": "George Marshall",
+      "genres": [
+        "Western",
+        "Domestic",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "Who Could Ask for Anything More",
+      "work_html_title": "<span class=\"work-title\">Who Could Ask for Anything More</span>",
+      "work_id": 911
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 911,
+      "slug": "who-could-ask-for-anything-more",
+      "title": "Who Could Ask for Anything More",
+      "formatted_title": "Who Could Ask for Anything More",
+      "html_title": "<span class=\"work-title\">Who Could Ask for Anything More</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 911,
+    "slug": "who-could-ask-for-anything-more",
+    "title": "Who Could Ask for Anything More",
+    "formatted_title": "Who Could Ask for Anything More",
+    "html_title": "<span class=\"work-title\">Who Could Ask for Anything More</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T02:26:31.43288"
+}

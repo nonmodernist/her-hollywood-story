@@ -1,0 +1,78 @@
+{
+  "id": 30,
+  "slug": "elinor-chipp",
+  "name": "Elinor Chipp",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1919,
+    "last_adaptation": 1919,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 59,
+      "slug": "the-amazing-wife-1919",
+      "title": "The Amazing Wife",
+      "html_title": "<span class=\"film-title\">The Amazing Wife</span>",
+      "year": 1919,
+      "studio": "Universal",
+      "directors": "Ida May Park",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "\"Whose Widow?\"",
+      "work_html_title": "<span class=\"work-title\">\"Whose Widow?\"</span>",
+      "work_id": 56
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 56,
+      "slug": "whose-widow",
+      "title": "\"Whose Widow?\"",
+      "formatted_title": "\"Whose Widow?\"",
+      "html_title": "<span class=\"work-title\">\"Whose Widow?\"</span>",
+      "work_type": "novel",
+      "publication_year": 1918,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 56,
+    "slug": "whose-widow",
+    "title": "\"Whose Widow?\"",
+    "formatted_title": "\"Whose Widow?\"",
+    "html_title": "<span class=\"work-title\">\"Whose Widow?\"</span>",
+    "work_type": "novel",
+    "publication_year": 1918,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:44:44.513472"
+}

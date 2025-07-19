@@ -1,0 +1,83 @@
+{
+  "id": 304,
+  "slug": "ginger-lamb",
+  "name": "Ginger Lamb",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1955,
+    "last_adaptation": 1955,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Documentary",
+        "count": 1
+      },
+      {
+        "genre": "Jungle",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 720,
+      "slug": "quest-for-the-lost-city-1955",
+      "title": "Quest for the Lost City",
+      "html_title": "<span class=\"film-title\">Quest for the Lost City</span>",
+      "year": 1955,
+      "studio": "Sol Lesser Productions",
+      "directors": null,
+      "genres": [
+        "Documentary",
+        "Jungle"
+      ],
+      "has_media": false,
+      "work_title": "Quest for a Lost City",
+      "work_html_title": "<span class=\"work-title\">Quest for a Lost City</span>",
+      "work_id": 635
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 635,
+      "slug": "quest-for-a-lost-city",
+      "title": "Quest for a Lost City",
+      "formatted_title": "Quest for a Lost City",
+      "html_title": "<span class=\"work-title\">Quest for a Lost City</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 635,
+    "slug": "quest-for-a-lost-city",
+    "title": "Quest for a Lost City",
+    "formatted_title": "Quest for a Lost City",
+    "html_title": "<span class=\"work-title\">Quest for a Lost City</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:54:06.660067"
+}

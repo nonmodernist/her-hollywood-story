@@ -1,0 +1,107 @@
+{
+  "id": 51,
+  "slug": "little-women",
+  "title": "Little Women",
+  "formatted_title": "Little Women",
+  "html_title": "<span class=\"work-title\">Little Women</span>",
+  "work_type": "novel",
+  "publication_year": 1868,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 28,
+    "slug": "louisa-may-alcott",
+    "name": "Louisa May Alcott",
+    "birth_year": 1832,
+    "death_year": 1888,
+    "film_count": 6
+  },
+  "stats": {
+    "adaptation_count": 3,
+    "year_span": 29,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 15
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 51,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 53,
+      "slug": "little-women-1919",
+      "title": "Little Women",
+      "html_title": "<span class=\"film-title\">Little Women</span>",
+      "year": 1919,
+      "studio": "William A. Brady",
+      "directors": "Harley Knoles",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 51
+    },
+    {
+      "id": 204,
+      "slug": "little-women-1933",
+      "title": "Little Women",
+      "html_title": "<span class=\"film-title\">Little Women</span>",
+      "year": 1933,
+      "studio": "RKO",
+      "directors": "George Cukor|John Davis Lodge",
+      "genres": [
+        "Drama",
+        "Domestic",
+        "Historical"
+      ],
+      "has_media": true,
+      "years_after_publication": 65
+    },
+    {
+      "id": 292,
+      "slug": "little-women-1948",
+      "title": "Little Women",
+      "html_title": "<span class=\"film-title\">Little Women</span>",
+      "year": 1948,
+      "studio": "MGM",
+      "directors": "Mervyn LeRoy",
+      "genres": [
+        "Drama",
+        "Domestic",
+        "Historical"
+      ],
+      "has_media": false,
+      "years_after_publication": 80
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1919,
+      "to_year": 1933,
+      "gap_years": 14
+    },
+    {
+      "from_year": 1933,
+      "to_year": 1948,
+      "gap_years": 15
+    }
+  ],
+  "photoplay_edition": {
+    "year": 1933,
+    "publisher": "unknown",
+    "notes": "1933 and 1949 editions.",
+    "count": 0
+  },
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T16:40:28.466706"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 230,
+  "slug": "peggy-gaddis",
+  "name": "Peggy Gaddis",
+  "birth_year": 1895,
+  "death_year": 1966,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author. Occupations: novelist, writer",
+  "author_notes": "pseud of Peggy Dern",
+  "wikidata_id": "Q10347927",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1925,
+    "last_adaptation": 1925,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 587,
+      "slug": "the-part-time-wife-1925",
+      "title": "The Part Time Wife",
+      "html_title": "<span class=\"film-title\">The Part Time Wife</span>",
+      "year": 1925,
+      "studio": "Gotham Productions",
+      "directors": "Henry McCarty",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "The Part-Time Wife",
+      "work_html_title": "<span class=\"work-title\">The Part-Time Wife</span>",
+      "work_id": 514
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 514,
+      "slug": "the-part-time-wife",
+      "title": "The Part-Time Wife",
+      "formatted_title": "The Part-Time Wife",
+      "html_title": "<span class=\"work-title\">The Part-Time Wife</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 514,
+    "slug": "the-part-time-wife",
+    "title": "The Part-Time Wife",
+    "formatted_title": "The Part-Time Wife",
+    "html_title": "<span class=\"work-title\">The Part-Time Wife</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-04T03:29:13.769607"
+}

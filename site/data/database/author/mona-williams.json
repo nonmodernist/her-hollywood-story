@@ -1,0 +1,78 @@
+{
+  "id": 495,
+  "slug": "mona-williams",
+  "name": "Mona Williams",
+  "birth_year": 1905,
+  "death_year": 1991,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American novelist (1905–1991). Occupations: novelist, writer",
+  "author_notes": "aka Vermona March Goodwyn",
+  "wikidata_id": "Q116158663",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1954,
+    "last_adaptation": 1954,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1086,
+      "slug": "womans-world-1954",
+      "title": "Woman's World",
+      "html_title": "<span class=\"film-title\">Woman's World</span>",
+      "year": 1954,
+      "studio": "20th Century Fox",
+      "directors": "Jean Negulesco",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "May the Best Man Win",
+      "work_html_title": "<span class=\"work-title\">May the Best Man Win</span>",
+      "work_id": 974
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 974,
+      "slug": "may-the-best-man-win",
+      "title": "May the Best Man Win",
+      "formatted_title": "May the Best Man Win",
+      "html_title": "<span class=\"work-title\">May the Best Man Win</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 974,
+    "slug": "may-the-best-man-win",
+    "title": "May the Best Man Win",
+    "formatted_title": "May the Best Man Win",
+    "html_title": "<span class=\"work-title\">May the Best Man Win</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-16T19:55:00.968235"
+}

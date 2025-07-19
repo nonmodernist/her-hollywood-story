@@ -1,0 +1,78 @@
+{
+  "id": 295,
+  "slug": "ethel-may-kelley",
+  "name": "Ethel May Kelley",
+  "birth_year": 1878,
+  "death_year": 1955,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": "American writer. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q110060339",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1918,
+    "last_adaptation": 1918,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 698,
+      "slug": "the-deciding-kiss-1918",
+      "title": "The Deciding Kiss",
+      "html_title": "<span class=\"film-title\">The Deciding Kiss</span>",
+      "year": 1918,
+      "studio": "Bluebird Photoplays",
+      "directors": "Tod Browning",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Turn About, Eleanor",
+      "work_html_title": "<span class=\"work-title\">Turn About, Eleanor</span>",
+      "work_id": 614
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 614,
+      "slug": "turn-about-eleanor",
+      "title": "Turn About, Eleanor",
+      "formatted_title": "Turn About, Eleanor",
+      "html_title": "<span class=\"work-title\">Turn About, Eleanor</span>",
+      "work_type": "novel",
+      "publication_year": 1917,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 614,
+    "slug": "turn-about-eleanor",
+    "title": "Turn About, Eleanor",
+    "formatted_title": "Turn About, Eleanor",
+    "html_title": "<span class=\"work-title\">Turn About, Eleanor</span>",
+    "work_type": "novel",
+    "publication_year": 1917,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:54:58.463529"
+}

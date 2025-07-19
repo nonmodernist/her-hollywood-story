@@ -1,0 +1,99 @@
+{
+  "id": 111,
+  "slug": "the-keeper-of-the-bees",
+  "title": "The Keeper of the Bees",
+  "formatted_title": "The Keeper of the Bees",
+  "html_title": "<span class=\"work-title\">The Keeper of the Bees</span>",
+  "work_type": "novel",
+  "publication_year": 1925,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 12,
+    "slug": "gene-stratton-porter",
+    "name": "Gene Stratton-Porter",
+    "birth_year": 1863,
+    "death_year": 1924,
+    "film_count": 21
+  },
+  "stats": {
+    "adaptation_count": 3,
+    "year_span": 22,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 11
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 0,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 116,
+      "slug": "the-keeper-of-the-bees-1925",
+      "title": "The Keeper of the Bees",
+      "html_title": "<span class=\"film-title\">The Keeper of the Bees</span>",
+      "year": 1925,
+      "studio": "Gene Stratton Porter Productions",
+      "directors": "James Leo Meehan",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "years_after_publication": 0
+    },
+    {
+      "id": 222,
+      "slug": "the-keeper-of-the-bees-1935",
+      "title": "The Keeper of the Bees",
+      "html_title": "<span class=\"film-title\">The Keeper of the Bees</span>",
+      "year": 1935,
+      "studio": "Monogram",
+      "directors": "Christy Cabanne",
+      "genres": [
+        "Melodrama",
+        "Rural"
+      ],
+      "has_media": true,
+      "years_after_publication": 10
+    },
+    {
+      "id": 287,
+      "slug": "keeper-of-the-bees-1947",
+      "title": "Keeper of the Bees",
+      "html_title": "<span class=\"film-title\">Keeper of the Bees</span>",
+      "year": 1947,
+      "studio": "Columbia",
+      "directors": "John Sturges",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 22
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1925,
+      "to_year": 1935,
+      "gap_years": 10
+    },
+    {
+      "from_year": 1935,
+      "to_year": 1947,
+      "gap_years": 12
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-17T03:48:03.914138"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 233,
+  "slug": "lotta-gannet",
+  "name": "Lotta Gannet",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1918,
+    "last_adaptation": 1918,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 592,
+      "slug": "her-decision-1918",
+      "title": "Her Decision",
+      "html_title": "<span class=\"film-title\">Her Decision</span>",
+      "year": 1918,
+      "studio": "Triangle Film",
+      "directors": "Jack Conway",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Her Decision",
+      "work_html_title": "<span class=\"work-title\">Her Decision</span>",
+      "work_id": 519
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 519,
+      "slug": "her-decision",
+      "title": "Her Decision",
+      "formatted_title": "Her Decision",
+      "html_title": "<span class=\"work-title\">Her Decision</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 519,
+    "slug": "her-decision",
+    "title": "Her Decision",
+    "formatted_title": "Her Decision",
+    "html_title": "<span class=\"work-title\">Her Decision</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-04T00:53:10.886851"
+}

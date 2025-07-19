@@ -1,0 +1,83 @@
+{
+  "id": 323,
+  "slug": "ottilie-a-liljencrantz",
+  "name": "Ottilie A. Liljencrantz",
+  "birth_year": 1876,
+  "death_year": 1910,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American author. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q19839445",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1929,
+    "last_adaptation": 1929,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 746,
+      "slug": "the-viking-1929",
+      "title": "The Viking",
+      "html_title": "<span class=\"film-title\">The Viking</span>",
+      "year": 1929,
+      "studio": "MGM",
+      "directors": "R. William Neill",
+      "genres": [
+        "Melodrama",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "The Thrall of Leif the Lucky; a Story of Viking Days",
+      "work_html_title": "<span class=\"work-title\">The Thrall of Leif the Lucky; a Story of Viking Days</span>",
+      "work_id": 661
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 661,
+      "slug": "the-thrall-of-leif-the-lucky-a-story-of-viking-days",
+      "title": "The Thrall of Leif the Lucky; a Story of Viking Days",
+      "formatted_title": "The Thrall of Leif the Lucky; a Story of Viking Days",
+      "html_title": "<span class=\"work-title\">The Thrall of Leif the Lucky; a Story of Viking Days</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 661,
+    "slug": "the-thrall-of-leif-the-lucky-a-story-of-viking-days",
+    "title": "The Thrall of Leif the Lucky; a Story of Viking Days",
+    "formatted_title": "The Thrall of Leif the Lucky; a Story of Viking Days",
+    "html_title": "<span class=\"work-title\">The Thrall of Leif the Lucky; a Story of Viking Days</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-07T19:55:32.394793"
+}

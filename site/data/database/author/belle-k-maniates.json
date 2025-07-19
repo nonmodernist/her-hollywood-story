@@ -1,0 +1,144 @@
+{
+  "id": 342,
+  "slug": "belle-k-maniates",
+  "name": "Belle K. Maniates",
+  "birth_year": 1861,
+  "death_year": 1931,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "Greek-American novelist. Born in Marshall. Died in Lansing. Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q63067808",
+  "stats": {
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1918,
+    "last_adaptation": 1921,
+    "year_span": 3,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 2
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Western",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 2,
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 769,
+      "slug": "amarilly-of-clothes-line-alley-1918",
+      "title": "Amarilly of Clothes-Line Alley",
+      "html_title": "<span class=\"film-title\">Amarilly of Clothes-Line Alley</span>",
+      "year": 1918,
+      "studio": "Mary Pickford",
+      "directors": "Marshall A. Neilan",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "Amarilly of Clothes-Line Alley",
+      "work_html_title": "<span class=\"work-title\">Amarilly of Clothes-Line Alley</span>",
+      "work_id": 683
+    },
+    {
+      "id": 770,
+      "slug": "mirandy-smiles-1918",
+      "title": "Mirandy Smiles",
+      "html_title": "<span class=\"film-title\">Mirandy Smiles</span>",
+      "year": 1918,
+      "studio": "Famous Players-Lasky",
+      "directors": "William C. de Mille",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "The Littlest Scrub Lady",
+      "work_html_title": "<span class=\"work-title\">The Littlest Scrub Lady</span>",
+      "work_id": 684
+    },
+    {
+      "id": 771,
+      "slug": "penny-of-top-hill-trail-1921",
+      "title": "Penny of Top Hill Trail",
+      "html_title": "<span class=\"film-title\">Penny of Top Hill Trail</span>",
+      "year": 1921,
+      "studio": null,
+      "directors": "Arthur Berthelet",
+      "genres": [
+        "Comedy-drama",
+        "Western"
+      ],
+      "has_media": false,
+      "work_title": "Penny of Top Hill Trail",
+      "work_html_title": "<span class=\"work-title\">Penny of Top Hill Trail</span>",
+      "work_id": 685
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 683,
+      "slug": "amarilly-of-clothes-line-alley",
+      "title": "Amarilly of Clothes-Line Alley",
+      "formatted_title": "Amarilly of Clothes-Line Alley",
+      "html_title": "<span class=\"work-title\">Amarilly of Clothes-Line Alley</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 684,
+      "slug": "the-littlest-scrub-lady",
+      "title": "The Littlest Scrub Lady",
+      "formatted_title": "The Littlest Scrub Lady",
+      "html_title": "<span class=\"work-title\">The Littlest Scrub Lady</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 685,
+      "slug": "penny-of-top-hill-trail",
+      "title": "Penny of Top Hill Trail",
+      "formatted_title": "Penny of Top Hill Trail",
+      "html_title": "<span class=\"work-title\">Penny of Top Hill Trail</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 683,
+    "slug": "amarilly-of-clothes-line-alley",
+    "title": "Amarilly of Clothes-Line Alley",
+    "formatted_title": "Amarilly of Clothes-Line Alley",
+    "html_title": "<span class=\"work-title\">Amarilly of Clothes-Line Alley</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:56:55.283144"
+}

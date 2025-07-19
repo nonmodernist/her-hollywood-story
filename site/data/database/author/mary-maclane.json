@@ -1,0 +1,78 @@
+{
+  "id": 337,
+  "slug": "mary-maclane",
+  "name": "Mary MacLane",
+  "birth_year": 1881,
+  "death_year": 1929,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1881-1929). Born in Winnipeg. Died in Chicago. Occupations: writer, film actor, historian, memoirist",
+  "author_notes": null,
+  "wikidata_id": "Q6780211",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1918,
+    "last_adaptation": 1918,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 763,
+      "slug": "men-who-have-made-love-to-me-1918",
+      "title": "Men Who Have Made Love to Me",
+      "html_title": "<span class=\"film-title\">Men Who Have Made Love to Me</span>",
+      "year": 1918,
+      "studio": "Essanay Film",
+      "directors": "Arthur Berthelet",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "I, Mary MacLane",
+      "work_html_title": "<span class=\"work-title\">I, Mary MacLane</span>",
+      "work_id": 677
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 677,
+      "slug": "i-mary-maclane",
+      "title": "I, Mary MacLane",
+      "formatted_title": "I, Mary MacLane",
+      "html_title": "<span class=\"work-title\">I, Mary MacLane</span>",
+      "work_type": "novel",
+      "publication_year": 1917,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 677,
+    "slug": "i-mary-maclane",
+    "title": "I, Mary MacLane",
+    "formatted_title": "I, Mary MacLane",
+    "html_title": "<span class=\"work-title\">I, Mary MacLane</span>",
+    "work_type": "novel",
+    "publication_year": 1917,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-08T22:56:51.585295"
+}

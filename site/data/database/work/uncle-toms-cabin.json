@@ -1,0 +1,188 @@
+{
+  "id": 3,
+  "slug": "uncle-toms-cabin",
+  "title": "Uncle Tom's Cabin",
+  "formatted_title": "Uncle Tom's Cabin",
+  "html_title": "<span class=\"work-title\">Uncle Tom's Cabin</span>",
+  "work_type": "novel",
+  "publication_year": 1852,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 2,
+    "slug": "harriet-beecher-stowe",
+    "name": "Harriet Beecher Stowe",
+    "birth_year": 1811,
+    "death_year": 1896,
+    "film_count": 9
+  },
+  "stats": {
+    "adaptation_count": 7,
+    "year_span": 17,
+    "is_remake_champion": true,
+    "average_gap_between_adaptations": 3
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 58,
+    "is_remake_champion": true,
+    "remake_champion_rank": 1
+  },
+  "adaptations": [
+    {
+      "id": 2,
+      "slug": "uncle-toms-cabin-1910",
+      "title": "Uncle Tom's Cabin",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
+      "year": 1910,
+      "studio": "Thanhauser",
+      "directors": "Barry O'Neil",
+      "genres": [
+        "Adventure",
+        "Melodrama",
+        "African American",
+        "Historical"
+      ],
+      "has_media": true,
+      "years_after_publication": 58
+    },
+    {
+      "id": 3,
+      "slug": "uncle-toms-cabin-part-3-1910",
+      "title": "Uncle Tom's Cabin, Part 3",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin, Part 3</span>",
+      "year": 1910,
+      "studio": "Vitagraph",
+      "directors": "Frederick Thomson",
+      "genres": [
+        "Adventure",
+        "Musical",
+        "African American",
+        "Historical"
+      ],
+      "has_media": true,
+      "years_after_publication": 58
+    },
+    {
+      "id": 1009,
+      "slug": "uncle-toms-cabin-1913",
+      "title": "Uncle Tom's Cabin",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
+      "year": 1913,
+      "studio": "World Producing",
+      "directors": "William Robert Daly",
+      "genres": [
+        "Melodrama",
+        "African American"
+      ],
+      "has_media": false,
+      "years_after_publication": 61
+    },
+    {
+      "id": 7,
+      "slug": "uncle-toms-cabin-1914",
+      "title": "Uncle Tom's Cabin",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
+      "year": 1914,
+      "studio": "World Producing",
+      "directors": "William Robert Daly",
+      "genres": [
+        "Melodrama",
+        "African American"
+      ],
+      "has_media": true,
+      "years_after_publication": 62
+    },
+    {
+      "id": 39,
+      "slug": "uncle-toms-cabin-1918",
+      "title": "Uncle Tom's Cabin",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
+      "year": 1918,
+      "studio": "Famous Players-Lasky",
+      "directors": "J. Searle Dawley",
+      "genres": [
+        "Drama",
+        "Social"
+      ],
+      "has_media": true,
+      "years_after_publication": 66
+    },
+    {
+      "id": 147,
+      "slug": "topsy-and-eva-1927",
+      "title": "Topsy and Eva",
+      "html_title": "<span class=\"film-title\">Topsy and Eva</span>",
+      "year": 1927,
+      "studio": "Feature Productions",
+      "directors": "Del Lord",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "years_after_publication": 75
+    },
+    {
+      "id": 138,
+      "slug": "uncle-toms-cabin-1927",
+      "title": "Uncle Tom's Cabin",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
+      "year": 1927,
+      "studio": "Universal",
+      "directors": "Harry A. Pollard",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "years_after_publication": 75
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1910,
+      "to_year": 1910,
+      "gap_years": 0
+    },
+    {
+      "from_year": 1910,
+      "to_year": 1913,
+      "gap_years": 3
+    },
+    {
+      "from_year": 1913,
+      "to_year": 1914,
+      "gap_years": 1
+    },
+    {
+      "from_year": 1914,
+      "to_year": 1918,
+      "gap_years": 4
+    },
+    {
+      "from_year": 1918,
+      "to_year": 1927,
+      "gap_years": 9
+    },
+    {
+      "from_year": 1927,
+      "to_year": 1927,
+      "gap_years": 0
+    }
+  ],
+  "photoplay_edition": {
+    "year": 1927,
+    "publisher": "Grosset & Dunlap",
+    "notes": "15 pictures plus end papers, sepia",
+    "count": 0
+  },
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-02T17:05:18.067503"
+}

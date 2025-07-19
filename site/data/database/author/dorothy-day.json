@@ -1,0 +1,78 @@
+{
+  "id": 193,
+  "slug": "dorothy-day",
+  "name": "Dorothy Day",
+  "birth_year": 1897,
+  "death_year": 1980,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American journalist, social activist, and Catholic convert (1897-1980)",
+  "author_notes": null,
+  "wikidata_id": "Q150281",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1925,
+    "last_adaptation": 1925,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 502,
+      "slug": "the-woman-hater-1925",
+      "title": "The Woman Hater",
+      "html_title": "<span class=\"film-title\">The Woman Hater</span>",
+      "year": 1925,
+      "studio": "Warner Bros",
+      "directors": "James Flood",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "The Eleventh Virgin",
+      "work_html_title": "<span class=\"work-title\">The Eleventh Virgin</span>",
+      "work_id": 433
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 433,
+      "slug": "the-eleventh-virgin",
+      "title": "The Eleventh Virgin",
+      "formatted_title": "The Eleventh Virgin",
+      "html_title": "<span class=\"work-title\">The Eleventh Virgin</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 433,
+    "slug": "the-eleventh-virgin",
+    "title": "The Eleventh Virgin",
+    "formatted_title": "The Eleventh Virgin",
+    "html_title": "<span class=\"work-title\">The Eleventh Virgin</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-23T03:49:59.861857"
+}

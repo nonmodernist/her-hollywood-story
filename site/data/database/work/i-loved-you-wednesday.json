@@ -1,0 +1,59 @@
+{
+  "id": 819,
+  "slug": "i-loved-you-wednesday",
+  "title": "I Loved You Wednesday",
+  "formatted_title": "I Loved You Wednesday",
+  "html_title": "<span class=\"work-title\">I Loved You Wednesday</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 411,
+    "slug": "molly-ricardel",
+    "name": "Molly Ricardel",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 912,
+      "slug": "i-loved-you-wednesday-1933",
+      "title": "I Loved You Wednesday",
+      "html_title": "<span class=\"film-title\">I Loved You Wednesday</span>",
+      "year": 1933,
+      "studio": "Fox Film",
+      "directors": "Henry King|William Cameron Menzies",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 1933
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-11T15:28:58.814598"
+}

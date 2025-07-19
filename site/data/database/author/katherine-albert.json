@@ -1,0 +1,88 @@
+{
+  "id": 214,
+  "slug": "katherine-albert",
+  "name": "Katherine Albert",
+  "birth_year": 1902,
+  "death_year": 1970,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American actor and screenwriter (1902-1970). Born in Louisville. Died in Santa Monica. Occupations: screenwriter, writer, actor",
+  "author_notes": "aka Katherine Eunson",
+  "wikidata_id": "Q3194023",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1957,
+    "last_adaptation": 1957,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Drama",
+        "count": 1
+      },
+      {
+        "genre": "Domestic",
+        "count": 1
+      },
+      {
+        "genre": "Historical",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 545,
+      "slug": "all-mine-to-give-1957",
+      "title": "All Mine to Give",
+      "html_title": "<span class=\"film-title\">All Mine to Give</span>",
+      "year": 1957,
+      "studio": "RKO",
+      "directors": "Allen Reisner",
+      "genres": [
+        "Drama",
+        "Domestic",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "The Day They Gave Babies Away",
+      "work_html_title": "<span class=\"work-title\">The Day They Gave Babies Away</span>",
+      "work_id": 475
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 475,
+      "slug": "the-day-they-gave-babies-away",
+      "title": "The Day They Gave Babies Away",
+      "formatted_title": "The Day They Gave Babies Away",
+      "html_title": "<span class=\"work-title\">The Day They Gave Babies Away</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 475,
+    "slug": "the-day-they-gave-babies-away",
+    "title": "The Day They Gave Babies Away",
+    "formatted_title": "The Day They Gave Babies Away",
+    "html_title": "<span class=\"work-title\">The Day They Gave Babies Away</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-24T14:30:54.933277"
+}

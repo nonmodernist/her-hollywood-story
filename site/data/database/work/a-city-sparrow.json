@@ -1,0 +1,59 @@
+{
+  "id": 600,
+  "slug": "a-city-sparrow",
+  "title": "A City Sparrow",
+  "formatted_title": "A City Sparrow",
+  "html_title": "<span class=\"work-title\">A City Sparrow</span>",
+  "work_type": "novel",
+  "publication_year": null,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 289,
+    "slug": "kate-jordan",
+    "name": "Kate Jordan",
+    "birth_year": null,
+    "death_year": null,
+    "film_count": 8
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": null,
+    "speed_demon_delay": null,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 683,
+      "slug": "a-city-sparrow-1920",
+      "title": "A City Sparrow",
+      "html_title": "<span class=\"film-title\">A City Sparrow</span>",
+      "year": 1920,
+      "studio": "Famous Players-Lasky",
+      "directors": "Sam Wood",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 1920
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": null,
+    "pub_date": null,
+    "issue_info": null,
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-06T15:07:55.205463"
+}

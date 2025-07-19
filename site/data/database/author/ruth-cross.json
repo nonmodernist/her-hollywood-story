@@ -1,0 +1,106 @@
+{
+  "id": 180,
+  "slug": "ruth-cross",
+  "name": "Ruth Cross",
+  "birth_year": 1887,
+  "death_year": 1981,
+  "nationality": "United States",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1887-1981). Occupations: writer",
+  "author_notes": null,
+  "wikidata_id": "Q120815043",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1922,
+    "last_adaptation": 1926,
+    "year_span": 4,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1920": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 484,
+      "slug": "a-question-of-honor-1922",
+      "title": "A Question of Honor",
+      "html_title": "<span class=\"film-title\">A Question of Honor</span>",
+      "year": 1922,
+      "studio": "Anita Stewart Productions",
+      "directors": "Edwin Carewe",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "A Question of Honor",
+      "work_html_title": "<span class=\"work-title\">A Question of Honor</span>",
+      "work_id": 416
+    },
+    {
+      "id": 483,
+      "slug": "the-golden-cocoon-1926",
+      "title": "The Golden Cocoon",
+      "html_title": "<span class=\"film-title\">The Golden Cocoon</span>",
+      "year": 1926,
+      "studio": "Warner Bros",
+      "directors": "Millard Webb",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "The Golden Cocoon",
+      "work_html_title": "<span class=\"work-title\">The Golden Cocoon</span>",
+      "work_id": 415
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 416,
+      "slug": "a-question-of-honor",
+      "title": "A Question of Honor",
+      "formatted_title": "A Question of Honor",
+      "html_title": "<span class=\"work-title\">A Question of Honor</span>",
+      "work_type": "novel",
+      "publication_year": 1920,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 415,
+      "slug": "the-golden-cocoon",
+      "title": "The Golden Cocoon",
+      "formatted_title": "The Golden Cocoon",
+      "html_title": "<span class=\"work-title\">The Golden Cocoon</span>",
+      "work_type": "novel",
+      "publication_year": 1924,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 416,
+    "slug": "a-question-of-honor",
+    "title": "A Question of Honor",
+    "formatted_title": "A Question of Honor",
+    "html_title": "<span class=\"work-title\">A Question of Honor</span>",
+    "work_type": "novel",
+    "publication_year": 1920,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-06-20T17:54:02.992575"
+}

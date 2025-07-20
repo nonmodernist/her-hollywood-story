@@ -1,5 +1,9 @@
 // database-app.js - Main SPA controller for Her Hollywood Story database
 
+// Quick fix - add this at the top of database-app.js
+const IS_GITHUB_PAGES = window.location.hostname === 'nonmodernist.com';
+const BASE_PATH = IS_GITHUB_PAGES ? '/adapted-from-women/site' : '';
+
 // Configuration
 const ITEMS_PER_PAGE = 50;
 
@@ -295,7 +299,7 @@ async function showDetailView(entityType, slug) {
             detailData = app.detailCache.get(cacheKey);
         } else {
             // Load detail data
-            const response = await fetch(`/data/database/${entityType}/${slug}.json`);
+            const response = await fetch(`${BASE_PATH}/data/database/${entityType}/${slug}.json`);
             if (!response.ok) throw new Error('Failed to load details');
             
             detailData = await response.json();
@@ -595,7 +599,7 @@ async function loadData(tabName) {
     showLoadingState();
     
     try {
-        const response = await fetch(`/data/database/${tabName}-index.min.json`);
+        const response = await fetch(`${BASE_PATH}/data/database/${tabName}-index.min.json`);
         if (!response.ok) {
             throw new Error(`Failed to load ${tabName} data`);
         }

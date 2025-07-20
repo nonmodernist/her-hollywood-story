@@ -1,9 +1,5 @@
 // database-app.js - Main SPA controller for Her Hollywood Story database
 
-// Quick fix - add this at the top of database-app.js
-const IS_GITHUB_PAGES = window.location.hostname === 'nonmodernist.com';
-const BASE_PATH = IS_GITHUB_PAGES ? '/adapted-from-women/site' : '';
-
 // Configuration
 const ITEMS_PER_PAGE = 50;
 
@@ -299,7 +295,7 @@ async function showDetailView(entityType, slug) {
             detailData = app.detailCache.get(cacheKey);
         } else {
             // Load detail data
-            const response = await fetch(`${BASE_PATH}/data/database/${entityType}/${slug}.json`);
+            const response = await fetch(`/data/database/${entityType}/${slug}.json`);
             if (!response.ok) throw new Error('Failed to load details');
             
             detailData = await response.json();
@@ -599,7 +595,7 @@ async function loadData(tabName) {
     showLoadingState();
     
     try {
-        const response = await fetch(`${BASE_PATH}/data/database/${tabName}-index.min.json`);
+        const response = await fetch(`/data/database/${tabName}-index.min.json`);
         if (!response.ok) {
             throw new Error(`Failed to load ${tabName} data`);
         }
@@ -1148,13 +1144,22 @@ function createFilmListItem(film) {
     
     const mediaIndicator = film.hasMedia ? '<span class="media-indicator">📷</span>' : '';
     
+    // Debug log to check film structure
+    if (!film.sourceWorkSlug && !film.workSlug) {
+        console.warn('Film missing work slug:', film);
+    }
+    
+    // Get the work slug from the film data
+    const workSlug = film.workSlug;
+    const workTitle = film.workHtml || film.workTitle || film.sourceWorkTitle || 'Unknown';
+    
     div.innerHTML = `
         <div class="entry-title">
             <a href="${getDatabaseURL('/film/' + film.slug)}">${film.html_title || film.title}</a>${mediaIndicator}
         </div>
         <div class="entry-meta">
             ${film.year || 'Unknown year'}<span class="meta-separator">·</span>
-            Based on <a href="${getDatabaseURL('/work/' + film.workSlug)}">${film.workHtml || film.workTitle || 'Unknown'}</a> 
+            Based on ${workSlug ? `<a href="${getDatabaseURL('/work/' + workSlug)}">${workTitle}</a>` : workTitle} 
             by <a href="${getDatabaseURL('/author/' + film.authorSlug)}" class="author-name">${film.authorName || 'Unknown'}</a><span class="meta-separator">·</span>
             ${film.directors ? `Directed by ${film.directors}<span class="meta-separator">·</span>` : ''}
             ${film.studio || 'Unknown Studio'}

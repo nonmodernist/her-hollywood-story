@@ -4,7 +4,7 @@
   "name": "Adela Rogers St. Johns",
   "birth_year": 1894,
   "death_year": 1988,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American journalist, novelist, and screenwriter (1894-1988). Born in Los Angeles. Died in Arroyo Grande. Occupations: journalist, screenwriter, biographer, writer, essayist, novelist",
   "author_notes": null,
@@ -62,8 +62,8 @@
         "Domestic"
       ],
       "has_media": true,
-      "work_title": "\"Broken Laws\"",
-      "work_html_title": "<span class=\"work-title\">\"Broken Laws\"</span>",
+      "work_title": "Broken Laws",
+      "work_html_title": "<span class=\"work-title short-story\">\"Broken Laws\"</span>",
       "work_id": 107
     },
     {
@@ -78,8 +78,8 @@
         "Drama"
       ],
       "has_media": true,
-      "work_title": "\"The Worst Woman in Hollywood\"",
-      "work_html_title": "<span class=\"work-title\">\"The Worst Woman in Hollywood\"</span>",
+      "work_title": "The Worst Woman in Hollywood",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Worst Woman in Hollywood\"</span>",
       "work_id": 108
     },
     {
@@ -127,8 +127,8 @@
         "Society"
       ],
       "has_media": true,
-      "work_title": "\"Love O' Women\"",
-      "work_html_title": "<span class=\"work-title\">\"Love O' Women\"</span>",
+      "work_title": "Love O' Women",
+      "work_html_title": "<span class=\"work-title short-story\">\"Love O' Women\"</span>",
       "work_id": 135
     },
     {
@@ -143,8 +143,8 @@
         "Melodrama"
       ],
       "has_media": true,
-      "work_title": "\"The Haunted Lady\"",
-      "work_html_title": "<span class=\"work-title\">\"The Haunted Lady\"</span>",
+      "work_title": "The Haunted Lady",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Haunted Lady\"</span>",
       "work_id": 146
     },
     {
@@ -193,8 +193,8 @@
         "Boxing"
       ],
       "has_media": false,
-      "work_title": "\"The Great God Four-Flush\"",
-      "work_html_title": "<span class=\"work-title\">\"The Great God Four-Flush\"</span>",
+      "work_title": "The Great God Four-Flush",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Great God Four-Flush\"</span>",
       "work_id": 196
     },
     {
@@ -211,8 +211,8 @@
         "Newspaper"
       ],
       "has_media": false,
-      "work_title": "\"Angle Shooter\"",
-      "work_html_title": "<span class=\"work-title\">\"Angle Shooter\"</span>",
+      "work_title": "Angle Shooter",
+      "work_html_title": "<span class=\"work-title short-story\">\"Angle Shooter\"</span>",
       "work_id": 209
     },
     {
@@ -228,8 +228,8 @@
         "Homefront"
       ],
       "has_media": false,
-      "work_title": "\"Government Girl\"",
-      "work_html_title": "<span class=\"work-title\">\"Government Girl\"</span>",
+      "work_title": "Government Girl",
+      "work_html_title": "<span class=\"work-title short-story\">\"Government Girl\"</span>",
       "work_id": 234
     },
     {
@@ -266,10 +266,10 @@
     {
       "id": 107,
       "slug": "broken-laws",
-      "title": "\"Broken Laws\"",
+      "title": "Broken Laws",
       "formatted_title": "\"Broken Laws\"",
-      "html_title": "<span class=\"work-title\">\"Broken Laws\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"Broken Laws\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -278,10 +278,10 @@
     {
       "id": 108,
       "slug": "the-worst-woman-in-hollywood",
-      "title": "\"The Worst Woman in Hollywood\"",
+      "title": "The Worst Woman in Hollywood",
       "formatted_title": "\"The Worst Woman in Hollywood\"",
-      "html_title": "<span class=\"work-title\">\"The Worst Woman in Hollywood\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"The Worst Woman in Hollywood\"</span>",
+      "work_type": "short_story",
       "publication_year": 1924,
       "genre": null,
       "adaptation_count": 1,
@@ -314,10 +314,10 @@
     {
       "id": 135,
       "slug": "love-o-women",
-      "title": "\"Love O' Women\"",
+      "title": "Love O' Women",
       "formatted_title": "\"Love O' Women\"",
-      "html_title": "<span class=\"work-title\">\"Love O' Women\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"Love O' Women\"</span>",
+      "work_type": "short_story",
       "publication_year": 1926,
       "genre": null,
       "adaptation_count": 1,
@@ -326,10 +326,10 @@
     {
       "id": 146,
       "slug": "the-haunted-lady",
-      "title": "\"The Haunted Lady\"",
+      "title": "The Haunted Lady",
       "formatted_title": "\"The Haunted Lady\"",
-      "html_title": "<span class=\"work-title\">\"The Haunted Lady\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"The Haunted Lady\"</span>",
+      "work_type": "short_story",
       "publication_year": 1925,
       "genre": null,
       "adaptation_count": 1,
@@ -350,10 +350,10 @@
     {
       "id": 196,
       "slug": "the-great-god-four-flush",
-      "title": "\"The Great God Four-Flush\"",
+      "title": "The Great God Four-Flush",
       "formatted_title": "\"The Great God Four-Flush\"",
-      "html_title": "<span class=\"work-title\">\"The Great God Four-Flush\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"The Great God Four-Flush\"</span>",
+      "work_type": "short_story",
       "publication_year": 1923,
       "genre": null,
       "adaptation_count": 1,
@@ -362,10 +362,10 @@
     {
       "id": 209,
       "slug": "angle-shooter",
-      "title": "\"Angle Shooter\"",
+      "title": "Angle Shooter",
       "formatted_title": "\"Angle Shooter\"",
-      "html_title": "<span class=\"work-title\">\"Angle Shooter\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"Angle Shooter\"</span>",
+      "work_type": "short_story",
       "publication_year": 1937,
       "genre": null,
       "adaptation_count": 1,
@@ -374,10 +374,10 @@
     {
       "id": 234,
       "slug": "government-girl",
-      "title": "\"Government Girl\"",
+      "title": "Government Girl",
       "formatted_title": "\"Government Girl\"",
-      "html_title": "<span class=\"work-title\">\"Government Girl\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"Government Girl\"</span>",
+      "work_type": "short_story",
       "publication_year": 1943,
       "genre": null,
       "adaptation_count": 1,
@@ -397,5 +397,5 @@
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-20T22:11:36.269881"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

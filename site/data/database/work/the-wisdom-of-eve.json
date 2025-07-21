@@ -2,9 +2,9 @@
   "id": 766,
   "slug": "the-wisdom-of-eve",
   "title": "The Wisdom of Eve",
-  "formatted_title": "The Wisdom of Eve",
-  "html_title": "<span class=\"work-title\">The Wisdom of Eve</span>",
-  "work_type": "novel",
+  "formatted_title": "\"The Wisdom of Eve\"",
+  "html_title": "<span class=\"work-title short-story\">\"The Wisdom of Eve\"</span>",
+  "work_type": "short_story",
   "publication_year": 1946,
   "genre": null,
   "plot_summary": null,
@@ -14,8 +14,8 @@
     "id": 381,
     "slug": "mary-orr",
     "name": "Mary Orr",
-    "birth_year": 1867,
-    "death_year": 1949,
+    "birth_year": 1910,
+    "death_year": 2006,
     "film_count": 1
   },
   "stats": {
@@ -50,11 +50,11 @@
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
+    "magazine_title": "Hearst's International-Cosmopolitan",
+    "pub_date": "1946-05-01",
+    "issue_info": "May 1946",
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-16T14:50:09.597223"
+  "last_updated": "2025-07-21T18:17:32.022095"
 }

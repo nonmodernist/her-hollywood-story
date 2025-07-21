@@ -4,7 +4,7 @@
   "name": "Mary Agnes Thompson",
   "birth_year": null,
   "death_year": null,
-  "nationality": null,
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": null,
   "author_notes": null,
@@ -48,7 +48,7 @@
       ],
       "has_media": false,
       "work_title": "A Call from Mitch Miller",
-      "work_html_title": "<span class=\"work-title\">A Call from Mitch Miller</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"A Call from Mitch Miller\"</span>",
       "work_id": 924
     }
   ],
@@ -57,10 +57,10 @@
       "id": 924,
       "slug": "a-call-from-mitch-miller",
       "title": "A Call from Mitch Miller",
-      "formatted_title": "A Call from Mitch Miller",
-      "html_title": "<span class=\"work-title\">A Call from Mitch Miller</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"A Call from Mitch Miller\"",
+      "html_title": "<span class=\"work-title short-story\">\"A Call from Mitch Miller\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1956,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -70,14 +70,14 @@
     "id": 924,
     "slug": "a-call-from-mitch-miller",
     "title": "A Call from Mitch Miller",
-    "formatted_title": "A Call from Mitch Miller",
-    "html_title": "<span class=\"work-title\">A Call from Mitch Miller</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "formatted_title": "\"A Call from Mitch Miller\"",
+    "html_title": "<span class=\"work-title short-story\">\"A Call from Mitch Miller\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1956,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-16T17:49:15.486473"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

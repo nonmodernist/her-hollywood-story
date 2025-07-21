@@ -24,15 +24,15 @@
     "id": 785,
     "slug": "a-gentle-ill-wind",
     "title": "A Gentle Ill Wind",
-    "formatted_title": "A Gentle Ill Wind",
-    "html_title": "<span class=\"work-title\">A Gentle Ill Wind</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "formatted_title": "\"A Gentle Ill Wind\"",
+    "html_title": "<span class=\"work-title short-story\">\"A Gentle Ill Wind\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1916,
     "genre": null,
     "plot_summary": null,
     "literary_significance": null,
     "adaptation_count": 1,
-    "year_to_adaptation": 1917
+    "year_to_adaptation": 1
   },
   "author": {
     "id": 395,
@@ -40,7 +40,7 @@
     "name": "Maude Pettus",
     "birth_year": null,
     "death_year": null,
-    "nationality": null,
+    "nationality": "American",
     "film_count": 1
   },
   "other_adaptations": [],

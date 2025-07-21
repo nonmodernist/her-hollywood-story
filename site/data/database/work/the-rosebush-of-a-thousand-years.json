@@ -2,10 +2,10 @@
   "id": 944,
   "slug": "the-rosebush-of-a-thousand-years",
   "title": "The Rosebush of a Thousand Years",
-  "formatted_title": "The Rosebush of a Thousand Years",
-  "html_title": "<span class=\"work-title\">The Rosebush of a Thousand Years</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "formatted_title": "\"The Rosebush of a Thousand Years\"",
+  "html_title": "<span class=\"work-title short-story\">\"The Rosebush of a Thousand Years\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1916,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": 6
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,7 +43,7 @@
         "Drama"
       ],
       "has_media": false,
-      "years_after_publication": 1918
+      "years_after_publication": 2
     },
     {
       "id": 1052,
@@ -57,7 +57,7 @@
         "Drama"
       ],
       "has_media": false,
-      "years_after_publication": 1924
+      "years_after_publication": 8
     }
   ],
   "adaptation_gaps": [
@@ -69,11 +69,11 @@
   ],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
+    "magazine_title": "Snappy Stories",
+    "pub_date": "1916-10-18",
     "issue_info": null,
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-16T19:55:01.240285"
+  "last_updated": "2025-07-21T18:29:01.293182"
 }

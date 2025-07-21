@@ -5,7 +5,7 @@
   "formatted_title": "Mother Carey's Chickens",
   "html_title": "<span class=\"work-title\">Mother Carey's Chickens</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1911,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": 25
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 27,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -45,7 +45,7 @@
         "Historical"
       ],
       "has_media": false,
-      "years_after_publication": 1938
+      "years_after_publication": 27
     },
     {
       "id": 1079,
@@ -60,7 +60,7 @@
         "with songs"
       ],
       "has_media": false,
-      "years_after_publication": 1963
+      "years_after_publication": 52
     }
   ],
   "adaptation_gaps": [
@@ -78,5 +78,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-16T20:15:54.14386"
+  "last_updated": "2025-07-21T17:39:30.350666"
 }

@@ -5,7 +5,7 @@
   "formatted_title": "The Mayor's Wife",
   "html_title": "<span class=\"work-title\">The Mayor's Wife</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1907,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 15,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,7 +44,7 @@
         "Society"
       ],
       "has_media": true,
-      "years_after_publication": 1922
+      "years_after_publication": 15
     }
   ],
   "adaptation_gaps": [],
@@ -56,5 +56,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-04T01:59:47.589373"
+  "last_updated": "2025-07-21T03:13:30.893459"
 }

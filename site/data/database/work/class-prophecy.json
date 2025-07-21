@@ -2,10 +2,10 @@
   "id": 541,
   "slug": "class-prophecy",
   "title": "Class Prophecy",
-  "formatted_title": "Class Prophecy",
-  "html_title": "<span class=\"work-title\">Class Prophecy</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "formatted_title": "\"Class Prophecy\"",
+  "html_title": "<span class=\"work-title short-story\">\"Class Prophecy\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1935,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,17 +44,17 @@
         "Musical"
       ],
       "has_media": false,
-      "years_after_publication": 1937
+      "years_after_publication": 2
     }
   ],
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
+    "magazine_title": "McCall's Magazine",
+    "pub_date": "1935-11-01",
+    "issue_info": "Nov 1935",
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-04T03:26:09.006738"
+  "last_updated": "2025-07-21T18:30:18.51816"
 }

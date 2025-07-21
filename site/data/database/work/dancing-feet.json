@@ -5,7 +5,7 @@
   "formatted_title": "Dancing Feet",
   "html_title": "<span class=\"work-title\">Dancing Feet</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1931,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 5,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,7 +44,7 @@
         "with songs"
       ],
       "has_media": false,
-      "years_after_publication": 1936
+      "years_after_publication": 5
     }
   ],
   "adaptation_gaps": [],
@@ -56,5 +56,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-06-24T13:55:08.519506"
+  "last_updated": "2025-07-21T18:38:07.741134"
 }

@@ -4,7 +4,7 @@
   "name": "Mary Heaton Vorse",
   "birth_year": 1874,
   "death_year": 1966,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American journalist. Born in New York City. Occupations: novelist, journalist, writer",
   "author_notes": null,
@@ -42,8 +42,8 @@
         "Melodrama"
       ],
       "has_media": true,
-      "work_title": "\"A Runaway Enchantress\"",
-      "work_html_title": "<span class=\"work-title\">\"A Runaway Enchantress\"</span>",
+      "work_title": "A Runaway Enchantress",
+      "work_html_title": "<span class=\"work-title short-story\">\"A Runaway Enchantress\"</span>",
       "work_id": 137
     }
   ],
@@ -51,10 +51,10 @@
     {
       "id": 137,
       "slug": "a-runaway-enchantress",
-      "title": "\"A Runaway Enchantress\"",
+      "title": "A Runaway Enchantress",
       "formatted_title": "\"A Runaway Enchantress\"",
-      "html_title": "<span class=\"work-title\">\"A Runaway Enchantress\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"A Runaway Enchantress\"</span>",
+      "work_type": "short_story",
       "publication_year": 1926,
       "genre": null,
       "adaptation_count": 1,
@@ -64,15 +64,15 @@
   "most_adapted_work": {
     "id": 137,
     "slug": "a-runaway-enchantress",
-    "title": "\"A Runaway Enchantress\"",
+    "title": "A Runaway Enchantress",
     "formatted_title": "\"A Runaway Enchantress\"",
-    "html_title": "<span class=\"work-title\">\"A Runaway Enchantress\"</span>",
-    "work_type": "novel",
+    "html_title": "<span class=\"work-title short-story\">\"A Runaway Enchantress\"</span>",
+    "work_type": "short_story",
     "publication_year": 1926,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T16:37:38.816222"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

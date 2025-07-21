@@ -2,10 +2,10 @@
   "id": 785,
   "slug": "a-gentle-ill-wind",
   "title": "A Gentle Ill Wind",
-  "formatted_title": "A Gentle Ill Wind",
-  "html_title": "<span class=\"work-title\">A Gentle Ill Wind</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "formatted_title": "\"A Gentle Ill Wind\"",
+  "html_title": "<span class=\"work-title short-story\">\"A Gentle Ill Wind\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1916,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,17 +44,17 @@
         "Crime"
       ],
       "has_media": false,
-      "years_after_publication": 1917
+      "years_after_publication": 1
     }
   ],
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
+    "magazine_title": "All-Story Magazine",
+    "pub_date": "1916-12-02",
     "issue_info": null,
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-09T23:47:26.796172"
+  "last_updated": "2025-07-21T18:29:04.58208"
 }

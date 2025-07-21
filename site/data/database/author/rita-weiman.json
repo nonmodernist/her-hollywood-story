@@ -4,7 +4,7 @@
   "name": "Rita Weiman",
   "birth_year": 1885,
   "death_year": 1954,
-  "nationality": null,
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American screenwriter (1885–1954). Born in Philadelphia. Occupations: screenwriter",
   "author_notes": null,
@@ -61,7 +61,7 @@
       ],
       "has_media": false,
       "work_title": "Curtain",
-      "work_html_title": "<span class=\"work-title\">Curtain</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Curtain\"</span>",
       "work_id": 950
     },
     {
@@ -109,7 +109,7 @@
       ],
       "has_media": false,
       "work_title": "Footlights",
-      "work_html_title": "<span class=\"work-title\">Footlights</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Footlights\"</span>",
       "work_id": 951
     },
     {
@@ -157,7 +157,7 @@
       ],
       "has_media": false,
       "work_title": "Footlights",
-      "work_html_title": "<span class=\"work-title\">Footlights</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Footlights\"</span>",
       "work_id": 951
     },
     {
@@ -234,10 +234,10 @@
       "id": 951,
       "slug": "footlights",
       "title": "Footlights",
-      "formatted_title": "Footlights",
-      "html_title": "<span class=\"work-title\">Footlights</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"Footlights\"",
+      "html_title": "<span class=\"work-title short-story\">\"Footlights\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1919,
       "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
@@ -246,10 +246,10 @@
       "id": 950,
       "slug": "curtain",
       "title": "Curtain",
-      "formatted_title": "Curtain",
-      "html_title": "<span class=\"work-title\">Curtain</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"Curtain\"",
+      "html_title": "<span class=\"work-title short-story\">\"Curtain\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1919,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -355,14 +355,14 @@
     "id": 951,
     "slug": "footlights",
     "title": "Footlights",
-    "formatted_title": "Footlights",
-    "html_title": "<span class=\"work-title\">Footlights</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "formatted_title": "\"Footlights\"",
+    "html_title": "<span class=\"work-title short-story\">\"Footlights\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1919,
     "genre": null,
     "adaptation_count": 2,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-16T19:54:51.054104"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

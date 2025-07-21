@@ -1,10 +1,10 @@
 {
   "id": 201,
   "slug": "the-bride-comes-home",
-  "title": "\"The Bride Comes Home\"",
+  "title": "The Bride Comes Home",
   "formatted_title": "\"The Bride Comes Home\"",
-  "html_title": "<span class=\"work-title\">\"The Bride Comes Home\"</span>",
-  "work_type": "novel",
+  "html_title": "<span class=\"work-title short-story\">\"The Bride Comes Home\"</span>",
+  "work_type": "short_story",
   "publication_year": 1935,
   "genre": null,
   "plot_summary": null,
@@ -49,11 +49,11 @@
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
+    "magazine_title": "Hearst's International-Cosmopolitan",
+    "pub_date": "1935-02-01",
+    "issue_info": "Feb 1935",
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-06-20T22:44:05.138396"
+  "last_updated": "2025-07-21T18:17:32.022095"
 }

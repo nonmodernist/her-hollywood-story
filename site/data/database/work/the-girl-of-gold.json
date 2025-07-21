@@ -2,10 +2,10 @@
   "id": 398,
   "slug": "the-girl-of-gold",
   "title": "The Girl of Gold",
-  "formatted_title": "The Girl of Gold",
-  "html_title": "<span class=\"work-title\">The Girl of Gold</span>",
-  "work_type": "novel",
-  "publication_year": 1920,
+  "formatted_title": "\"The Girl of Gold\"",
+  "html_title": "<span class=\"work-title short-story\">\"The Girl of Gold\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1919,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 5,
+    "speed_demon_delay": 6,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,17 +44,17 @@
         "Society"
       ],
       "has_media": true,
-      "years_after_publication": 5
+      "years_after_publication": 6
     }
   ],
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
-    "parts": null
+    "magazine_title": "Snappy Stories",
+    "pub_date": "1919-12-01",
+    "issue_info": "Dec 1919-1 Mar 1920",
+    "parts": 4
   },
   "has_narrative": false,
-  "last_updated": "2025-06-21T00:17:39.239949"
+  "last_updated": "2025-07-21T18:32:00.253788"
 }

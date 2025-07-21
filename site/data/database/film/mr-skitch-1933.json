@@ -18,15 +18,15 @@
   "writers": "Ralph Spence|Sonya Levien",
   "cast_members": "Will Rogers|ZaSu Pitts|Rochelle Hudson|Florence Desmond|Harry Green|Charles Starrett|Eugene Pallette|Morgan Wallace|Wally Albright|Cleora Robb",
   "color_info": "black-and-white",
-  "adaptation_notes": null,
+  "adaptation_notes": "From AFI: \"Although a HR news item states that the short story by Anne Cameron was shelved, and an original story, entitled \"Always Tomorrow,\" was used as a replacement, the screen credits state that the film was based on Cameron's story.\"",
   "afi_catalog_id": 5924,
   "source_work": {
     "id": 371,
     "slug": "green-dice",
     "title": "Green Dice",
-    "formatted_title": "Green Dice",
-    "html_title": "<span class=\"work-title\">Green Dice</span>",
-    "work_type": "novel",
+    "formatted_title": "\"Green Dice\"",
+    "html_title": "<span class=\"work-title short-story\">\"Green Dice\"</span>",
+    "work_type": "short_story",
     "publication_year": 1926,
     "genre": null,
     "plot_summary": null,
@@ -40,7 +40,7 @@
     "name": "Anne Cameron",
     "birth_year": null,
     "death_year": null,
-    "nationality": null,
+    "nationality": "American",
     "film_count": 1
   },
   "other_adaptations": [],
@@ -49,5 +49,5 @@
   "has_media": false,
   "media_count": 0,
   "has_narrative": false,
-  "last_updated": "2025-07-18T18:36:32.713708"
+  "last_updated": "2025-07-20T02:42:35.29894"
 }

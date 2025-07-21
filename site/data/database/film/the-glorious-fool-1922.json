@@ -23,15 +23,15 @@
     "id": 834,
     "slug": "in-the-pavilion",
     "title": "In the Pavilion",
-    "formatted_title": "In the Pavilion",
-    "html_title": "<span class=\"work-title\">In the Pavilion</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "formatted_title": "\"In the Pavilion\"",
+    "html_title": "<span class=\"work-title short-story\">\"In the Pavilion\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1919,
     "genre": null,
     "plot_summary": null,
     "literary_significance": null,
     "adaptation_count": 1,
-    "year_to_adaptation": 1922
+    "year_to_adaptation": 3
   },
   "author": {
     "id": 6,
@@ -39,7 +39,7 @@
     "name": "Mary Roberts Rinehart",
     "birth_year": 1876,
     "death_year": 1958,
-    "nationality": "United States",
+    "nationality": "American",
     "film_count": 31
   },
   "other_adaptations": [],

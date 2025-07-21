@@ -2,9 +2,9 @@
   "id": 183,
   "slug": "pearl-lenore-curran",
   "name": "Pearl Lenore Curran",
-  "birth_year": null,
-  "death_year": null,
-  "nationality": null,
+  "birth_year": 1883,
+  "death_year": 1937,
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": null,
   "author_notes": null,
@@ -42,8 +42,8 @@
         "Comedy"
       ],
       "has_media": true,
-      "work_title": "\"Rosa Alvaro, Entrante\"",
-      "work_html_title": "<span class=\"work-title\">\"Rosa Alvaro, Entrante\"</span>",
+      "work_title": "Rosa Alvaro, Entrante",
+      "work_html_title": "<span class=\"work-title short-story\">\"Rosa Alvaro, Entrante\"</span>",
       "work_id": 419
     }
   ],
@@ -51,10 +51,10 @@
     {
       "id": 419,
       "slug": "rosa-alvaro-entrante",
-      "title": "\"Rosa Alvaro, Entrante\"",
+      "title": "Rosa Alvaro, Entrante",
       "formatted_title": "\"Rosa Alvaro, Entrante\"",
-      "html_title": "<span class=\"work-title\">\"Rosa Alvaro, Entrante\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"Rosa Alvaro, Entrante\"</span>",
+      "work_type": "short_story",
       "publication_year": 1919,
       "genre": null,
       "adaptation_count": 1,
@@ -64,15 +64,15 @@
   "most_adapted_work": {
     "id": 419,
     "slug": "rosa-alvaro-entrante",
-    "title": "\"Rosa Alvaro, Entrante\"",
+    "title": "Rosa Alvaro, Entrante",
     "formatted_title": "\"Rosa Alvaro, Entrante\"",
-    "html_title": "<span class=\"work-title\">\"Rosa Alvaro, Entrante\"</span>",
-    "work_type": "novel",
+    "html_title": "<span class=\"work-title short-story\">\"Rosa Alvaro, Entrante\"</span>",
+    "work_type": "short_story",
     "publication_year": 1919,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-19T17:55:47.602155"
+  "last_updated": "2025-07-20T04:09:48.746051"
 }

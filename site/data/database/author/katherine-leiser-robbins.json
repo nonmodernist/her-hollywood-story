@@ -4,7 +4,7 @@
   "name": "Katherine Leiser Robbins",
   "birth_year": null,
   "death_year": null,
-  "nationality": null,
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": null,
   "author_notes": null,
@@ -47,8 +47,8 @@
         "Drama"
       ],
       "has_media": false,
-      "work_title": "\"Her Fling\"",
-      "work_html_title": "<span class=\"work-title\">\"Her Fling\"</span>",
+      "work_title": "Her Fling",
+      "work_html_title": "<span class=\"work-title short-story\">\"Her Fling\"</span>",
       "work_id": 46
     },
     {
@@ -104,10 +104,10 @@
     {
       "id": 46,
       "slug": "her-fling",
-      "title": "\"Her Fling\"",
+      "title": "Her Fling",
       "formatted_title": "\"Her Fling\"",
-      "html_title": "<span class=\"work-title\">\"Her Fling\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"Her Fling\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -153,15 +153,15 @@
   "most_adapted_work": {
     "id": 46,
     "slug": "her-fling",
-    "title": "\"Her Fling\"",
+    "title": "Her Fling",
     "formatted_title": "\"Her Fling\"",
-    "html_title": "<span class=\"work-title\">\"Her Fling\"</span>",
-    "work_type": "novel",
+    "html_title": "<span class=\"work-title short-story\">\"Her Fling\"</span>",
+    "work_type": "short_story",
     "publication_year": null,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T03:44:44.513472"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

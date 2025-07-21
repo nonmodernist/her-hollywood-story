@@ -4,7 +4,7 @@
   "name": "Joan Lowell",
   "birth_year": 1902,
   "death_year": 1967,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American actress (1902-1967). Born in California. Died in Brasília. Occupations: writer, film actor, actor",
   "author_notes": null,
@@ -47,20 +47,20 @@
         "Documentary"
       ],
       "has_media": false,
-      "work_title": "Adventure Girl",
-      "work_html_title": "<span class=\"work-title\">Adventure Girl</span>",
+      "work_title": "The Cradle of the Deep",
+      "work_html_title": "<span class=\"work-title\">The Cradle of the Deep</span>",
       "work_id": 668
     }
   ],
   "adapted_works": [
     {
       "id": 668,
-      "slug": "adventure-girl",
-      "title": "Adventure Girl",
-      "formatted_title": "Adventure Girl",
-      "html_title": "<span class=\"work-title\">Adventure Girl</span>",
+      "slug": "the-cradle-of-the-deep",
+      "title": "The Cradle of the Deep",
+      "formatted_title": "The Cradle of the Deep",
+      "html_title": "<span class=\"work-title\">The Cradle of the Deep</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1920,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -68,16 +68,16 @@
   ],
   "most_adapted_work": {
     "id": 668,
-    "slug": "adventure-girl",
-    "title": "Adventure Girl",
-    "formatted_title": "Adventure Girl",
-    "html_title": "<span class=\"work-title\">Adventure Girl</span>",
+    "slug": "the-cradle-of-the-deep",
+    "title": "The Cradle of the Deep",
+    "formatted_title": "The Cradle of the Deep",
+    "html_title": "<span class=\"work-title\">The Cradle of the Deep</span>",
     "work_type": "novel",
-    "publication_year": null,
+    "publication_year": 1920,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-07T19:55:40.108264"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

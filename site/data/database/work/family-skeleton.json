@@ -5,7 +5,7 @@
   "formatted_title": "Family Skeleton",
   "html_title": "<span class=\"work-title\">Family Skeleton</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1949,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,7 +43,7 @@
         "Comedy"
       ],
       "has_media": true,
-      "years_after_publication": 1950
+      "years_after_publication": 1
     }
   ],
   "adaptation_gaps": [],
@@ -55,5 +55,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-06-23T01:13:22.582533"
+  "last_updated": "2025-07-21T19:00:22.306014"
 }

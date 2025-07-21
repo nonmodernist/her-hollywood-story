@@ -5,7 +5,7 @@
   "formatted_title": "Five Little Peppers and How they Grew",
   "html_title": "<span class=\"work-title\">Five Little Peppers and How they Grew</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1881,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": 0
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 58,
     "is_remake_champion": true,
     "remake_champion_rank": 7
   },
@@ -44,7 +44,7 @@
         "Domestic"
       ],
       "has_media": false,
-      "years_after_publication": 1939
+      "years_after_publication": 58
     },
     {
       "id": 991,
@@ -59,7 +59,7 @@
         "Domestic"
       ],
       "has_media": false,
-      "years_after_publication": 1940
+      "years_after_publication": 59
     },
     {
       "id": 992,
@@ -74,7 +74,7 @@
         "Youth"
       ],
       "has_media": false,
-      "years_after_publication": 1940
+      "years_after_publication": 59
     },
     {
       "id": 993,
@@ -89,7 +89,7 @@
         "Domestic"
       ],
       "has_media": false,
-      "years_after_publication": 1940
+      "years_after_publication": 59
     }
   ],
   "adaptation_gaps": [
@@ -117,5 +117,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-16T15:08:15.309126"
+  "last_updated": "2025-07-21T17:39:30.350666"
 }

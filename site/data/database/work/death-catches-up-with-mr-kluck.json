@@ -5,7 +5,7 @@
   "formatted_title": "Death Catches Up with Mr. Kluck",
   "html_title": "<span class=\"work-title\">Death Catches Up with Mr. Kluck</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1935,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -14,8 +14,8 @@
     "id": 507,
     "slug": "xantippe",
     "name": "Xantippe",
-    "birth_year": null,
-    "death_year": null,
+    "birth_year": 1898,
+    "death_year": 1993,
     "film_count": 1
   },
   "stats": {
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 3,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,7 +43,7 @@
         "Mystery"
       ],
       "has_media": false,
-      "years_after_publication": 1938
+      "years_after_publication": 3
     }
   ],
   "adaptation_gaps": [],
@@ -55,5 +55,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-16T20:32:07.134649"
+  "last_updated": "2025-07-21T18:40:35.061412"
 }

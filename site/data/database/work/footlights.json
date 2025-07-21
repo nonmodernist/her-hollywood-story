@@ -2,10 +2,10 @@
   "id": 951,
   "slug": "footlights",
   "title": "Footlights",
-  "formatted_title": "Footlights",
-  "html_title": "<span class=\"work-title\">Footlights</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "formatted_title": "\"Footlights\"",
+  "html_title": "<span class=\"work-title short-story\">\"Footlights\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1919,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": 6
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,7 +43,7 @@
         "Drama"
       ],
       "has_media": false,
-      "years_after_publication": 1921
+      "years_after_publication": 2
     },
     {
       "id": 1060,
@@ -57,7 +57,7 @@
         "Romance"
       ],
       "has_media": false,
-      "years_after_publication": 1927
+      "years_after_publication": 8
     }
   ],
   "adaptation_gaps": [
@@ -69,11 +69,11 @@
   ],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
+    "magazine_title": "Saturday Evening Post",
+    "pub_date": "1919-05-17",
     "issue_info": null,
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-16T20:02:16.109624"
+  "last_updated": "2025-07-21T18:29:31.06923"
 }

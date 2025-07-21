@@ -5,7 +5,7 @@
   "formatted_title": "Amarilly of Clothes-Line Alley",
   "html_title": "<span class=\"work-title\">Amarilly of Clothes-Line Alley</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1915,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 3,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,7 +43,7 @@
         "Comedy"
       ],
       "has_media": false,
-      "years_after_publication": 1918
+      "years_after_publication": 3
     }
   ],
   "adaptation_gaps": [],
@@ -55,5 +55,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-09T00:37:53.368179"
+  "last_updated": "2025-07-21T13:29:36.531376"
 }

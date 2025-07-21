@@ -4,7 +4,7 @@
   "name": "Florence Ryerson",
   "birth_year": 1892,
   "death_year": 1965,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American playwright, screenwriter (1892-1965). Born in Glendale. Died in Mexico City. Occupations: playwright, writer, screenwriter",
   "author_notes": null,
@@ -69,7 +69,7 @@
       ],
       "has_media": false,
       "work_title": "Borrowed Love",
-      "work_html_title": "<span class=\"work-title\">Borrowed Love</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Borrowed Love\"</span>",
       "work_id": 876
     }
   ],
@@ -90,9 +90,9 @@
       "id": 876,
       "slug": "borrowed-love",
       "title": "Borrowed Love",
-      "formatted_title": "Borrowed Love",
-      "html_title": "<span class=\"work-title\">Borrowed Love</span>",
-      "work_type": "novel",
+      "formatted_title": "\"Borrowed Love\"",
+      "html_title": "<span class=\"work-title short-story\">\"Borrowed Love\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -112,5 +112,5 @@
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-16T02:25:58.014904"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

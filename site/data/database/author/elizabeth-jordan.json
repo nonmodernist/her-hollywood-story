@@ -4,7 +4,7 @@
   "name": "Elizabeth Jordan",
   "birth_year": null,
   "death_year": null,
-  "nationality": null,
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": null,
   "author_notes": null,
@@ -89,8 +89,8 @@
         "Teenage"
       ],
       "has_media": false,
-      "work_title": "Daddy and I",
-      "work_html_title": "<span class=\"work-title\">Daddy and I</span>",
+      "work_title": "Daddy and I: A Chronicle of Small-Town Life and Youth, as Seen Through the Eyes of an Ultra-Modern Young Lady of Fifteen",
+      "work_html_title": "<span class=\"work-title\">Daddy and I: A Chronicle of Small-Town Life and Youth, as Seen Through the Eyes of an Ultra-Modern Young Lady of Fifteen</span>",
       "work_id": 598
     }
   ],
@@ -102,7 +102,7 @@
       "formatted_title": "The Girl in the Mirror",
       "html_title": "<span class=\"work-title\">The Girl in the Mirror</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1919,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -121,12 +121,12 @@
     },
     {
       "id": 598,
-      "slug": "daddy-and-i",
-      "title": "Daddy and I",
-      "formatted_title": "Daddy and I",
-      "html_title": "<span class=\"work-title\">Daddy and I</span>",
+      "slug": "daddy-and-i-a-chronicle-of-small-town-life-and-youth-as-seen-through-the-eyes-of-an-ultra-modern-young-lady-of-fifteen",
+      "title": "Daddy and I: A Chronicle of Small-Town Life and Youth, as Seen Through the Eyes of an Ultra-Modern Young Lady of Fifteen",
+      "formatted_title": "Daddy and I: A Chronicle of Small-Town Life and Youth, as Seen Through the Eyes of an Ultra-Modern Young Lady of Fifteen",
+      "html_title": "<span class=\"work-title\">Daddy and I: A Chronicle of Small-Town Life and Youth, as Seen Through the Eyes of an Ultra-Modern Young Lady of Fifteen</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1935,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -139,11 +139,11 @@
     "formatted_title": "The Girl in the Mirror",
     "html_title": "<span class=\"work-title\">The Girl in the Mirror</span>",
     "work_type": "novel",
-    "publication_year": null,
+    "publication_year": 1919,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-06T16:32:20.516058"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

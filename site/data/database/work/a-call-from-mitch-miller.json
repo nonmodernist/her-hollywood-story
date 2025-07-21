@@ -2,10 +2,10 @@
   "id": 924,
   "slug": "a-call-from-mitch-miller",
   "title": "A Call from Mitch Miller",
-  "formatted_title": "A Call from Mitch Miller",
-  "html_title": "<span class=\"work-title\">A Call from Mitch Miller</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "formatted_title": "\"A Call from Mitch Miller\"",
+  "html_title": "<span class=\"work-title short-story\">\"A Call from Mitch Miller\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1956,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,17 +44,17 @@
         "Show business"
       ],
       "has_media": false,
-      "years_after_publication": 1957
+      "years_after_publication": 1
     }
   ],
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
+    "magazine_title": "Good Housekeeping",
+    "pub_date": "1956-06-01",
+    "issue_info": "Jun 1956",
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-16T17:55:31.627145"
+  "last_updated": "2025-07-21T18:31:06.97129"
 }

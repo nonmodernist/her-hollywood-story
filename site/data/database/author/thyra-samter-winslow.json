@@ -4,7 +4,7 @@
   "name": "Thyra Samter Winslow",
   "birth_year": 1885,
   "death_year": 1961,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American writer and screenwriter. Born in Fort Smith. Died in Los Angeles. Occupations: journalist, actor, short story writer, screenwriter, writer, non-fiction writer, dancer",
   "author_notes": null,
@@ -42,8 +42,8 @@
         "Comedy"
       ],
       "has_media": false,
-      "work_title": "\"She Married Her Boss\"",
-      "work_html_title": "<span class=\"work-title\">\"She Married Her Boss\"</span>",
+      "work_title": "She Married Her Boss",
+      "work_html_title": "<span class=\"work-title short-story\">\"She Married Her Boss\"</span>",
       "work_id": 200
     }
   ],
@@ -51,10 +51,10 @@
     {
       "id": 200,
       "slug": "she-married-her-boss",
-      "title": "\"She Married Her Boss\"",
+      "title": "She Married Her Boss",
       "formatted_title": "\"She Married Her Boss\"",
-      "html_title": "<span class=\"work-title\">\"She Married Her Boss\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"She Married Her Boss\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -64,15 +64,15 @@
   "most_adapted_work": {
     "id": 200,
     "slug": "she-married-her-boss",
-    "title": "\"She Married Her Boss\"",
+    "title": "She Married Her Boss",
     "formatted_title": "\"She Married Her Boss\"",
-    "html_title": "<span class=\"work-title\">\"She Married Her Boss\"</span>",
-    "work_type": "novel",
+    "html_title": "<span class=\"work-title short-story\">\"She Married Her Boss\"</span>",
+    "work_type": "short_story",
     "publication_year": null,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T16:37:58.571288"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

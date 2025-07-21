@@ -4,7 +4,7 @@
   "name": "Elizabeth Dejeans",
   "birth_year": 1868,
   "death_year": 1928,
-  "nationality": null,
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American writer. Occupations: writer",
   "author_notes": "pseud of Frances Elizabeth Janes Budgett",
@@ -67,7 +67,7 @@
       ],
       "has_media": true,
       "work_title": "If a Woman Will",
-      "work_html_title": "<span class=\"work-title\">If a Woman Will</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"If a Woman Will\"</span>",
       "work_id": 436
     },
     {
@@ -104,10 +104,10 @@
       "id": 436,
       "slug": "if-a-woman-will",
       "title": "If a Woman Will",
-      "formatted_title": "If a Woman Will",
-      "html_title": "<span class=\"work-title\">If a Woman Will</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"If a Woman Will\"",
+      "html_title": "<span class=\"work-title short-story\">\"If a Woman Will\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1919,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -138,5 +138,5 @@
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-23T01:12:24.557211"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

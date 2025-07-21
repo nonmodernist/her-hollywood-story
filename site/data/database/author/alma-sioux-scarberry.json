@@ -4,17 +4,17 @@
   "name": "Alma Sioux Scarberry",
   "birth_year": 1899,
   "death_year": 1990,
-  "nationality": null,
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "[occupation:script-writer; radio producer; author] [dates:1925-1930] [archive:American Biographical Archive]. Occupations: writer",
   "author_notes": null,
   "wikidata_id": "Q110284489",
   "stats": {
-    "total_films": 1,
-    "works_adapted": 1,
+    "total_films": 2,
+    "works_adapted": 2,
     "first_adaptation": 1934,
-    "last_adaptation": 1934,
-    "year_span": 0,
+    "last_adaptation": 1937,
+    "year_span": 3,
     "top_genres": [
       {
         "genre": "Drama",
@@ -22,7 +22,7 @@
       }
     ],
     "films_by_decade": {
-      "1930": 1
+      "1930": 2
     }
   },
   "patterns": {
@@ -45,6 +45,20 @@
       "work_title": "The Flat Tire",
       "work_html_title": "<span class=\"work-title\">The Flat Tire</span>",
       "work_id": 878
+    },
+    {
+      "id": 1131,
+      "slug": "high-hat-1937",
+      "title": "High Hat",
+      "html_title": "<span class=\"film-title\">High Hat</span>",
+      "year": 1937,
+      "studio": null,
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "High Hat, a Radio Romance",
+      "work_html_title": "<span class=\"work-title\">High Hat, a Radio Romance</span>",
+      "work_id": 1016
     }
   ],
   "adapted_works": [
@@ -56,6 +70,18 @@
       "html_title": "<span class=\"work-title\">The Flat Tire</span>",
       "work_type": "novel",
       "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1016,
+      "slug": "high-hat-a-radio-romance",
+      "title": "High Hat, a Radio Romance",
+      "formatted_title": "High Hat, a Radio Romance",
+      "html_title": "<span class=\"work-title\">High Hat, a Radio Romance</span>",
+      "work_type": "novel",
+      "publication_year": 1930,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -74,5 +100,5 @@
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-16T02:26:01.196977"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

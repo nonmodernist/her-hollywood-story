@@ -25,15 +25,15 @@
     "id": 543,
     "slug": "these-glamour-girls",
     "title": "These Glamour Girls",
-    "formatted_title": "These Glamour Girls",
-    "html_title": "<span class=\"work-title\">These Glamour Girls</span>",
-    "work_type": "novel",
-    "publication_year": 1939,
+    "formatted_title": "\"These Glamour Girls\"",
+    "html_title": "<span class=\"work-title short-story\">\"These Glamour Girls\"</span>",
+    "work_type": "short_story",
+    "publication_year": null,
     "genre": null,
     "plot_summary": null,
     "literary_significance": null,
     "adaptation_count": 1,
-    "year_to_adaptation": 0
+    "year_to_adaptation": 1939
   },
   "author": {
     "id": 248,
@@ -41,7 +41,7 @@
     "name": "Jane Hall",
     "birth_year": null,
     "death_year": null,
-    "nationality": null,
+    "nationality": "American",
     "film_count": 1
   },
   "other_adaptations": [],

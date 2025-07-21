@@ -1,10 +1,10 @@
 {
   "id": 166,
   "slug": "girls-together",
-  "title": "\"Girls Together\"",
+  "title": "Girls Together",
   "formatted_title": "\"Girls Together\"",
-  "html_title": "<span class=\"work-title\">\"Girls Together\"</span>",
-  "work_type": "novel",
+  "html_title": "<span class=\"work-title short-story\">\"Girls Together\"</span>",
+  "work_type": "short_story",
   "publication_year": 1931,
   "genre": null,
   "plot_summary": null,
@@ -50,11 +50,11 @@
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
+    "magazine_title": "College Humor",
+    "pub_date": "1931-02-01",
+    "issue_info": "Feb 1931",
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T03:48:03.914138"
+  "last_updated": "2025-07-21T18:17:32.022095"
 }

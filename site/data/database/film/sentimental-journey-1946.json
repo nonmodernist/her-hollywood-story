@@ -24,15 +24,15 @@
     "id": 966,
     "slug": "the-little-horse",
     "title": "The Little Horse",
-    "formatted_title": "The Little Horse",
-    "html_title": "<span class=\"work-title\">The Little Horse</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "formatted_title": "\"The Little Horse\"",
+    "html_title": "<span class=\"work-title short-story\">\"The Little Horse\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1944,
     "genre": null,
     "plot_summary": null,
     "literary_significance": null,
     "adaptation_count": 2,
-    "year_to_adaptation": 1946
+    "year_to_adaptation": 2
   },
   "author": {
     "id": 492,
@@ -40,7 +40,7 @@
     "name": "Nelia Gardner White",
     "birth_year": 1894,
     "death_year": 1957,
-    "nationality": "United States",
+    "nationality": "American",
     "film_count": 2
   },
   "other_adaptations": [

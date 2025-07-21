@@ -225,11 +225,7 @@
     object-fit: cover;
 }
 
-.film-title {
-    font-size: 1.1rem;
-    line-height: 1.4;
-    margin: 0.5rem 0;
-}
+/* Film title styles moved to titles.css */
 
 .film-year {
     font-family: 'Source Sans 3', sans-serif;

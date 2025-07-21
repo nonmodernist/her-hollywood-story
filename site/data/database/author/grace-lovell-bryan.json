@@ -4,7 +4,7 @@
   "name": "Grace Lovell Bryan",
   "birth_year": null,
   "death_year": null,
-  "nationality": null,
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": null,
   "author_notes": null,
@@ -43,7 +43,7 @@
       ],
       "has_media": true,
       "work_title": "You Never Can Tell",
-      "work_html_title": "<span class=\"work-title\">You Never Can Tell</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"You Never Can Tell\"</span>",
       "work_id": 350
     }
   ],
@@ -52,9 +52,9 @@
       "id": 350,
       "slug": "you-never-can-tell",
       "title": "You Never Can Tell",
-      "formatted_title": "You Never Can Tell",
-      "html_title": "<span class=\"work-title\">You Never Can Tell</span>",
-      "work_type": "novel",
+      "formatted_title": "\"You Never Can Tell\"",
+      "html_title": "<span class=\"work-title short-story\">\"You Never Can Tell\"</span>",
+      "work_type": "short_story",
       "publication_year": 1919,
       "genre": null,
       "adaptation_count": 1,
@@ -65,14 +65,14 @@
     "id": 350,
     "slug": "you-never-can-tell",
     "title": "You Never Can Tell",
-    "formatted_title": "You Never Can Tell",
-    "html_title": "<span class=\"work-title\">You Never Can Tell</span>",
-    "work_type": "novel",
+    "formatted_title": "\"You Never Can Tell\"",
+    "html_title": "<span class=\"work-title short-story\">\"You Never Can Tell\"</span>",
+    "work_type": "short_story",
     "publication_year": 1919,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-18T03:04:01.540842"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

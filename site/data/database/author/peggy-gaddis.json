@@ -4,7 +4,7 @@
   "name": "Peggy Gaddis",
   "birth_year": 1895,
   "death_year": 1966,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American author. Occupations: novelist, writer",
   "author_notes": "pseud of Peggy Dern",
@@ -43,7 +43,7 @@
       ],
       "has_media": true,
       "work_title": "The Part-Time Wife",
-      "work_html_title": "<span class=\"work-title\">The Part-Time Wife</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Part-Time Wife\"</span>",
       "work_id": 514
     }
   ],
@@ -52,10 +52,10 @@
       "id": 514,
       "slug": "the-part-time-wife",
       "title": "The Part-Time Wife",
-      "formatted_title": "The Part-Time Wife",
-      "html_title": "<span class=\"work-title\">The Part-Time Wife</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"The Part-Time Wife\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Part-Time Wife\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1925,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -65,14 +65,14 @@
     "id": 514,
     "slug": "the-part-time-wife",
     "title": "The Part-Time Wife",
-    "formatted_title": "The Part-Time Wife",
-    "html_title": "<span class=\"work-title\">The Part-Time Wife</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "formatted_title": "\"The Part-Time Wife\"",
+    "html_title": "<span class=\"work-title short-story\">\"The Part-Time Wife\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1925,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-04T03:29:13.769607"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

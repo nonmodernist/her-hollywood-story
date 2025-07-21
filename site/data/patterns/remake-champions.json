@@ -121,7 +121,7 @@
         "html_title": "<span class=\"work-title\">Lena Rivers</span>",
         "work_type": "novel",
         "genre": null,
-        "publication_year": 1869
+        "publication_year": 1856
       },
       "author": {
         "id": 268,
@@ -523,7 +523,7 @@
         "html_title": "<span class=\"work-title\">Five Little Peppers and How they Grew</span>",
         "work_type": "novel",
         "genre": null,
-        "publication_year": null
+        "publication_year": 1881
       },
       "author": {
         "id": 446,
@@ -768,7 +768,7 @@
           "year": 1910,
           "studio": "Biograph",
           "directors": "D. W. Griffith",
-          "hasMedia": true
+          "hasMedia": false
         },
         {
           "id": 11,
@@ -822,10 +822,10 @@
       "work": {
         "id": 213,
         "slug": "sister-act",
-        "title": "\"Sister Act\"",
+        "title": "Sister Act",
         "formatted_title": "\"Sister Act\"",
-        "html_title": "<span class=\"work-title\">\"Sister Act\"</span>",
-        "work_type": "novel",
+        "html_title": "<span class=\"work-title short-story\">\"Sister Act\"</span>",
+        "work_type": "short_story",
         "genre": null,
         "publication_year": 1937
       },
@@ -1369,7 +1369,7 @@
             "html_title": "<span class=\"work-title\">Five Little Peppers and How they Grew</span>",
             "work_type": "novel",
             "genre": null,
-            "publication_year": null
+            "publication_year": 1881
           },
           "author": {
             "id": 446,
@@ -1614,7 +1614,7 @@
               "year": 1910,
               "studio": "Biograph",
               "directors": "D. W. Griffith",
-              "hasMedia": true
+              "hasMedia": false
             },
             {
               "id": 11,
@@ -1668,10 +1668,10 @@
           "work": {
             "id": 213,
             "slug": "sister-act",
-            "title": "\"Sister Act\"",
+            "title": "Sister Act",
             "formatted_title": "\"Sister Act\"",
-            "html_title": "<span class=\"work-title\">\"Sister Act\"</span>",
-            "work_type": "novel",
+            "html_title": "<span class=\"work-title short-story\">\"Sister Act\"</span>",
+            "work_type": "short_story",
             "genre": null,
             "publication_year": 1937
           },
@@ -1903,7 +1903,7 @@
             "html_title": "<span class=\"work-title\">Lena Rivers</span>",
             "work_type": "novel",
             "genre": null,
-            "publication_year": 1869
+            "publication_year": 1856
           },
           "author": {
             "id": 268,
@@ -2414,7 +2414,7 @@
             "year": 1910,
             "studio": "Biograph",
             "directors": "D. W. Griffith",
-            "hasMedia": true,
+            "hasMedia": false,
             "workTitle": "Ramona"
           },
           {
@@ -2730,7 +2730,7 @@
             "studio": "Warner Bros",
             "directors": "Michael Curtiz",
             "hasMedia": true,
-            "workTitle": "\"Sister Act\""
+            "workTitle": "Sister Act"
           },
           {
             "id": 254,
@@ -2741,7 +2741,7 @@
             "studio": "Warner Bros",
             "directors": "Michael Curtiz",
             "hasMedia": true,
-            "workTitle": "\"Sister Act\""
+            "workTitle": "Sister Act"
           },
           {
             "id": 264,
@@ -2752,7 +2752,7 @@
             "studio": "Warner Bros",
             "directors": "William Keighley",
             "hasMedia": false,
-            "workTitle": "\"Sister Act\""
+            "workTitle": "Sister Act"
           },
           {
             "id": 185,
@@ -2792,7 +2792,7 @@
             "count": 3
           },
           {
-            "title": "\"Sister Act\"",
+            "title": "Sister Act",
             "count": 3
           },
           {
@@ -2847,7 +2847,7 @@
             "studio": "Warner Bros",
             "directors": "Gordon Douglas",
             "hasMedia": true,
-            "workTitle": "\"Sister Act\""
+            "workTitle": "Sister Act"
           },
           {
             "id": 338,
@@ -2887,7 +2887,7 @@
             "count": 1
           },
           {
-            "title": "\"Sister Act\"",
+            "title": "Sister Act",
             "count": 1
           },
           {
@@ -3013,7 +3013,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-07-20T04:34:05.662Z",
+    "generated": "2025-07-21T21:42:14.466Z",
     "version": "2.0"
   }
 }

@@ -1,10 +1,10 @@
 {
   "id": 188,
   "slug": "pick-up",
-  "title": "\"Pick-Up\"",
+  "title": "Pick-Up",
   "formatted_title": "\"Pick-Up\"",
-  "html_title": "<span class=\"work-title\">\"Pick-Up\"</span>",
-  "work_type": "novel",
+  "html_title": "<span class=\"work-title short-story\">\"Pick-Up\"</span>",
+  "work_type": "short_story",
   "publication_year": 1928,
   "genre": null,
   "plot_summary": null,
@@ -49,11 +49,11 @@
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
+    "magazine_title": "Red Book Magazine",
+    "pub_date": "1928-11-01",
+    "issue_info": "Nov 1928",
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-06-20T22:38:46.577766"
+  "last_updated": "2025-07-21T18:17:32.022095"
 }

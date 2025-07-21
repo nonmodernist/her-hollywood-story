@@ -1,11 +1,11 @@
 {
   "id": 668,
-  "slug": "adventure-girl",
-  "title": "Adventure Girl",
-  "formatted_title": "Adventure Girl",
-  "html_title": "<span class=\"work-title\">Adventure Girl</span>",
+  "slug": "the-cradle-of-the-deep",
+  "title": "The Cradle of the Deep",
+  "formatted_title": "The Cradle of the Deep",
+  "html_title": "<span class=\"work-title\">The Cradle of the Deep</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1920,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 14,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,7 +44,7 @@
         "Documentary"
       ],
       "has_media": false,
-      "years_after_publication": 1934
+      "years_after_publication": 14
     }
   ],
   "adaptation_gaps": [],
@@ -56,5 +56,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-08T02:47:44.717668"
+  "last_updated": "2025-07-21T13:01:29.366744"
 }

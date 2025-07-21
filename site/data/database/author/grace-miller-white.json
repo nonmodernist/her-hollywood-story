@@ -4,7 +4,7 @@
   "name": "Grace Miller White",
   "birth_year": 1868,
   "death_year": 1957,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American writer (1868-1957). Occupations: novelist, writer",
   "author_notes": null,
@@ -85,8 +85,8 @@
         "Drama"
       ],
       "has_media": true,
-      "work_title": "Continuation of Tess of the Storm Country",
-      "work_html_title": "<span class=\"work-title\">Continuation of Tess of the Storm Country</span>",
+      "work_title": "The Secret of the Storm Country",
+      "work_html_title": "<span class=\"work-title\">The Secret of the Storm Country</span>",
       "work_id": 24
     },
     {
@@ -214,12 +214,12 @@
     },
     {
       "id": 24,
-      "slug": "continuation-of-tess-of-the-storm-country",
-      "title": "Continuation of Tess of the Storm Country",
-      "formatted_title": "Continuation of Tess of the Storm Country",
-      "html_title": "<span class=\"work-title\">Continuation of Tess of the Storm Country</span>",
+      "slug": "the-secret-of-the-storm-country",
+      "title": "The Secret of the Storm Country",
+      "formatted_title": "The Secret of the Storm Country",
+      "html_title": "<span class=\"work-title\">The Secret of the Storm Country</span>",
       "work_type": "novel",
-      "publication_year": 1909,
+      "publication_year": 1917,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -231,7 +231,7 @@
       "formatted_title": "Rose O' Paradise",
       "html_title": "<span class=\"work-title\">Rose O' Paradise</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1915,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -274,5 +274,5 @@
     "is_remake_champion": true
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T16:36:34.700562"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

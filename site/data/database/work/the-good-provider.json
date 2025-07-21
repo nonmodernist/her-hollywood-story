@@ -1,10 +1,10 @@
 {
   "id": 86,
   "slug": "the-good-provider",
-  "title": "\"The Good Provider\"",
+  "title": "The Good Provider",
   "formatted_title": "\"The Good Provider\"",
-  "html_title": "<span class=\"work-title\">\"The Good Provider\"</span>",
-  "work_type": "novel",
+  "html_title": "<span class=\"work-title short-story\">\"The Good Provider\"</span>",
+  "work_type": "short_story",
   "publication_year": 1914,
   "genre": null,
   "plot_summary": null,
@@ -50,11 +50,11 @@
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
+    "magazine_title": "Saturday Evening Post",
+    "pub_date": "1914-08-15",
     "issue_info": null,
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T03:48:03.914138"
+  "last_updated": "2025-07-21T18:17:32.022095"
 }

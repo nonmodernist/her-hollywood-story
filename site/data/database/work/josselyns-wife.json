@@ -5,7 +5,7 @@
   "formatted_title": "Josselyn's Wife",
   "html_title": "<span class=\"work-title\">Josselyn's Wife</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1918,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": 7
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,7 +44,7 @@
         "Society"
       ],
       "has_media": false,
-      "years_after_publication": 1919
+      "years_after_publication": 1
     },
     {
       "id": 840,
@@ -59,7 +59,7 @@
         "Domestic"
       ],
       "has_media": false,
-      "years_after_publication": 1926
+      "years_after_publication": 8
     }
   ],
   "adaptation_gaps": [
@@ -77,5 +77,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-09T15:08:53.006928"
+  "last_updated": "2025-07-21T17:39:30.350666"
 }

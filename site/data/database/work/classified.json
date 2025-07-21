@@ -2,10 +2,10 @@
   "id": 481,
   "slug": "classified",
   "title": "Classified",
-  "formatted_title": "Classified",
-  "html_title": "<span class=\"work-title\">Classified</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "formatted_title": "\"Classified\"",
+  "html_title": "<span class=\"work-title short-story\">\"Classified\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1927,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": 4
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": true,
+    "speed_demon_delay": -2,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,7 +43,7 @@
         "Comedy"
       ],
       "has_media": true,
-      "years_after_publication": 1925
+      "years_after_publication": -2
     },
     {
       "id": 552,
@@ -57,7 +57,7 @@
         "Comedy-drama"
       ],
       "has_media": true,
-      "years_after_publication": 1929
+      "years_after_publication": 2
     }
   ],
   "adaptation_gaps": [
@@ -75,5 +75,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-02T23:51:00.154972"
+  "last_updated": "2025-07-21T17:39:30.350666"
 }

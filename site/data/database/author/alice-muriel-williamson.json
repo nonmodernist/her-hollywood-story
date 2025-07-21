@@ -4,7 +4,7 @@
   "name": "Alice Muriel Williamson",
   "birth_year": 1869,
   "death_year": 1933,
-  "nationality": "United Kingdom, United Kingdom of Great Britain and Ireland",
+  "nationality": "American-English",
   "literary_movement": null,
   "biographical_notes": "British novelist, frequently as duo with husband C. N. Williamson. Born in Cleveland. Died in Bath. Occupations: writer, novelist",
   "author_notes": null,
@@ -203,8 +203,8 @@
         "Romantic comedy"
       ],
       "has_media": true,
-      "work_title": "\"Honeymoon Hate\"",
-      "work_html_title": "<span class=\"work-title\">\"Honeymoon Hate\"</span>",
+      "work_title": "Honeymoon Hate",
+      "work_html_title": "<span class=\"work-title short-story\">\"Honeymoon Hate\"</span>",
       "work_id": 136
     }
   ],
@@ -216,7 +216,7 @@
       "formatted_title": "Lord John in New York",
       "html_title": "<span class=\"work-title\">Lord John in New York</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1918,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -320,10 +320,10 @@
     {
       "id": 136,
       "slug": "honeymoon-hate",
-      "title": "\"Honeymoon Hate\"",
+      "title": "Honeymoon Hate",
       "formatted_title": "\"Honeymoon Hate\"",
-      "html_title": "<span class=\"work-title\">\"Honeymoon Hate\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"Honeymoon Hate\"</span>",
+      "work_type": "short_story",
       "publication_year": 1927,
       "genre": null,
       "adaptation_count": 1,
@@ -337,11 +337,11 @@
     "formatted_title": "Lord John in New York",
     "html_title": "<span class=\"work-title\">Lord John in New York</span>",
     "work_type": "novel",
-    "publication_year": null,
+    "publication_year": 1918,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-20T17:52:20.404847"
+  "last_updated": "2025-07-20T01:12:46.178127"
 }

@@ -4,7 +4,7 @@
   "name": "Bess Streeter Aldrich",
   "birth_year": 1881,
   "death_year": 1954,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American author (1881–1954). Born in Cedar Falls. Died in Lincoln. Occupations: novelist, writer. Notable works: A Lantern in Her Hand",
   "author_notes": null,
@@ -47,8 +47,8 @@
         "Drama"
       ],
       "has_media": false,
-      "work_title": "\"The Woman Who Was Forgotten\"",
-      "work_html_title": "<span class=\"work-title\">\"The Woman Who Was Forgotten\"</span>",
+      "work_title": "The Woman Who Was Forgotten",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Woman Who Was Forgotten\"</span>",
       "work_id": 152
     },
     {
@@ -73,10 +73,10 @@
     {
       "id": 152,
       "slug": "the-woman-who-was-forgotten",
-      "title": "\"The Woman Who Was Forgotten\"",
+      "title": "The Woman Who Was Forgotten",
       "formatted_title": "\"The Woman Who Was Forgotten\"",
-      "html_title": "<span class=\"work-title\">\"The Woman Who Was Forgotten\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"The Woman Who Was Forgotten\"</span>",
+      "work_type": "short_story",
       "publication_year": 1926,
       "genre": null,
       "adaptation_count": 1,
@@ -98,15 +98,15 @@
   "most_adapted_work": {
     "id": 152,
     "slug": "the-woman-who-was-forgotten",
-    "title": "\"The Woman Who Was Forgotten\"",
+    "title": "The Woman Who Was Forgotten",
     "formatted_title": "\"The Woman Who Was Forgotten\"",
-    "html_title": "<span class=\"work-title\">\"The Woman Who Was Forgotten\"</span>",
-    "work_type": "novel",
+    "html_title": "<span class=\"work-title short-story\">\"The Woman Who Was Forgotten\"</span>",
+    "work_type": "short_story",
     "publication_year": 1926,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T16:37:43.302418"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

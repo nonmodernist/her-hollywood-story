@@ -5,7 +5,7 @@
   "formatted_title": "Time Out of Mind",
   "html_title": "<span class=\"work-title\">Time Out of Mind</span>",
   "work_type": "novel",
-  "publication_year": 1944,
+  "publication_year": 1935,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -14,8 +14,8 @@
     "id": 220,
     "slug": "rachel-field",
     "name": "Rachel Field",
-    "birth_year": null,
-    "death_year": null,
+    "birth_year": 1894,
+    "death_year": 1942,
     "film_count": 3
   },
   "stats": {
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 3,
+    "speed_demon_delay": 12,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,7 +44,7 @@
         "Historical"
       ],
       "has_media": false,
-      "years_after_publication": 3
+      "years_after_publication": 12
     }
   ],
   "adaptation_gaps": [],
@@ -56,5 +56,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-16T14:13:33.675066"
+  "last_updated": "2025-07-21T12:59:37.531546"
 }

@@ -4,7 +4,7 @@
   "name": "Nalbro Isadorah Bartley",
   "birth_year": 1888,
   "death_year": 1952,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American writer (1888-1952). Born in Buffalo. Died in San Francisco. Occupations: screenwriter, novelist",
   "author_notes": null,
@@ -77,8 +77,8 @@
         "Society"
       ],
       "has_media": true,
-      "work_title": "\"The Vanity Pool\"",
-      "work_html_title": "<span class=\"work-title\">\"The Vanity Pool\"</span>",
+      "work_title": "The Vanity Pool",
+      "work_html_title": "<span class=\"work-title\">The Vanity Pool</span>",
       "work_id": 33
     },
     {
@@ -93,8 +93,8 @@
         "Drama"
       ],
       "has_media": true,
-      "work_title": "\"The Bramble Bush\"",
-      "work_html_title": "<span class=\"work-title\">\"The Bramble Bush\"</span>",
+      "work_title": "The Bramble Bush",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Bramble Bush\"</span>",
       "work_id": 48
     },
     {
@@ -109,8 +109,8 @@
         "Drama"
       ],
       "has_media": true,
-      "work_title": "\"Miss Antique\"",
-      "work_html_title": "<span class=\"work-title\">\"Miss Antique\"</span>",
+      "work_title": "Miss Antique",
+      "work_html_title": "<span class=\"work-title short-story\">\"Miss Antique\"</span>",
       "work_id": 63
     },
     {
@@ -143,8 +143,8 @@
         "Rural"
       ],
       "has_media": true,
-      "work_title": "\"The Cynic Effect\"",
-      "work_html_title": "<span class=\"work-title\">\"The Cynic Effect\"</span>",
+      "work_title": "The Cynic Effect",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Cynic Effect\"</span>",
       "work_id": 84
     },
     {
@@ -180,10 +180,10 @@
     {
       "id": 33,
       "slug": "the-vanity-pool",
-      "title": "\"The Vanity Pool\"",
-      "formatted_title": "\"The Vanity Pool\"",
-      "html_title": "<span class=\"work-title\">\"The Vanity Pool\"</span>",
-      "work_type": "novel",
+      "title": "The Vanity Pool",
+      "formatted_title": "The Vanity Pool",
+      "html_title": "<span class=\"work-title\">The Vanity Pool</span>",
+      "work_type": "novella",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -192,10 +192,10 @@
     {
       "id": 48,
       "slug": "the-bramble-bush",
-      "title": "\"The Bramble Bush\"",
+      "title": "The Bramble Bush",
       "formatted_title": "\"The Bramble Bush\"",
-      "html_title": "<span class=\"work-title\">\"The Bramble Bush\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"The Bramble Bush\"</span>",
+      "work_type": "short_story",
       "publication_year": 1914,
       "genre": null,
       "adaptation_count": 1,
@@ -204,10 +204,10 @@
     {
       "id": 63,
       "slug": "miss-antique",
-      "title": "\"Miss Antique\"",
+      "title": "Miss Antique",
       "formatted_title": "\"Miss Antique\"",
-      "html_title": "<span class=\"work-title\">\"Miss Antique\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"Miss Antique\"</span>",
+      "work_type": "short_story",
       "publication_year": 1919,
       "genre": null,
       "adaptation_count": 1,
@@ -220,7 +220,7 @@
       "formatted_title": "A Woman's Woman",
       "html_title": "<span class=\"work-title\">A Woman's Woman</span>",
       "work_type": "novel",
-      "publication_year": 1920,
+      "publication_year": 1919,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -228,10 +228,10 @@
     {
       "id": 84,
       "slug": "the-cynic-effect",
-      "title": "\"The Cynic Effect\"",
+      "title": "The Cynic Effect",
       "formatted_title": "\"The Cynic Effect\"",
-      "html_title": "<span class=\"work-title\">\"The Cynic Effect\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"The Cynic Effect\"</span>",
+      "work_type": "short_story",
       "publication_year": 1920,
       "genre": null,
       "adaptation_count": 1,
@@ -263,5 +263,5 @@
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T16:36:59.452898"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

@@ -2,9 +2,9 @@
   "id": 500,
   "slug": "boarding-house-blues",
   "title": "Boarding House Blues",
-  "formatted_title": "Boarding House Blues",
-  "html_title": "<span class=\"work-title\">Boarding House Blues</span>",
-  "work_type": "novel",
+  "formatted_title": "\"Boarding House Blues\"",
+  "html_title": "<span class=\"work-title short-story\">\"Boarding House Blues\"</span>",
+  "work_type": "short_story",
   "publication_year": null,
   "genre": null,
   "plot_summary": null,
@@ -14,8 +14,8 @@
     "id": 222,
     "slug": "pauline-forney",
     "name": "Pauline Forney",
-    "birth_year": null,
-    "death_year": null,
+    "birth_year": 1882,
+    "death_year": 1985,
     "film_count": 1
   },
   "stats": {
@@ -55,5 +55,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-02T23:56:55.386183"
+  "last_updated": "2025-07-21T17:39:30.350666"
 }

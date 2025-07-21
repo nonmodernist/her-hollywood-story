@@ -24,15 +24,15 @@
     "id": 825,
     "slug": "acquitted",
     "title": "Acquitted",
-    "formatted_title": "Acquitted",
-    "html_title": "<span class=\"work-title\">Acquitted</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "formatted_title": "\"Acquitted\"",
+    "html_title": "<span class=\"work-title short-story\">\"Acquitted\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1907,
     "genre": null,
     "plot_summary": null,
     "literary_significance": null,
     "adaptation_count": 1,
-    "year_to_adaptation": 1916
+    "year_to_adaptation": 9
   },
   "author": {
     "id": 6,
@@ -40,7 +40,7 @@
     "name": "Mary Roberts Rinehart",
     "birth_year": 1876,
     "death_year": 1958,
-    "nationality": "United States",
+    "nationality": "American",
     "film_count": 31
   },
   "other_adaptations": [],

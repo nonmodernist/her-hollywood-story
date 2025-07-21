@@ -4,7 +4,7 @@
   "name": "Mary C. McCall Jr.",
   "birth_year": 1904,
   "death_year": 1986,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American screenwriter (1904–1986). Born in New York City. Died in Los Angeles. Occupations: magazine writer, screenwriter",
   "author_notes": null,
@@ -90,7 +90,7 @@
       ],
       "has_media": false,
       "work_title": "Fraternity",
-      "work_html_title": "<span class=\"work-title\">Fraternity</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Fraternity\"</span>",
       "work_id": 736
     }
   ],
@@ -123,10 +123,10 @@
       "id": 736,
       "slug": "fraternity",
       "title": "Fraternity",
-      "formatted_title": "Fraternity",
-      "html_title": "<span class=\"work-title\">Fraternity</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"Fraternity\"",
+      "html_title": "<span class=\"work-title short-story\">\"Fraternity\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1941,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -145,5 +145,5 @@
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-08T22:57:13.679804"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

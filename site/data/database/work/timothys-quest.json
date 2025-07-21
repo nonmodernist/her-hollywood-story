@@ -5,7 +5,7 @@
   "formatted_title": "Timothy's Quest",
   "html_title": "<span class=\"work-title\">Timothy's Quest</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1890,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": 14
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 32,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,7 +44,7 @@
         "Rural"
       ],
       "has_media": false,
-      "years_after_publication": 1922
+      "years_after_publication": 32
     },
     {
       "id": 1082,
@@ -59,7 +59,7 @@
         "Youth"
       ],
       "has_media": false,
-      "years_after_publication": 1936
+      "years_after_publication": 46
     }
   ],
   "adaptation_gaps": [
@@ -77,5 +77,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-16T20:15:54.14386"
+  "last_updated": "2025-07-21T17:39:30.350666"
 }

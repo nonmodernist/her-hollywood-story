@@ -5,7 +5,7 @@
   "formatted_title": "Sara Crewe",
   "html_title": "<span class=\"work-title\">Sara Crewe</span>",
   "work_type": "novel",
-  "publication_year": 1891,
+  "publication_year": 1888,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 26,
+    "speed_demon_delay": 29,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,7 +43,7 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 26
+      "years_after_publication": 29
     },
     {
       "id": 427,
@@ -58,7 +58,7 @@
         "Historical"
       ],
       "has_media": true,
-      "years_after_publication": 48
+      "years_after_publication": 51
     }
   ],
   "adaptation_gaps": [
@@ -76,5 +76,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-06-20T21:02:58.46668"
+  "last_updated": "2025-07-21T17:39:30.350666"
 }

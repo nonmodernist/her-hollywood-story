@@ -5,7 +5,7 @@
   "formatted_title": "All This and Heaven Too",
   "html_title": "<span class=\"work-title\">All This and Heaven Too</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1938,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -14,8 +14,8 @@
     "id": 220,
     "slug": "rachel-field",
     "name": "Rachel Field",
-    "birth_year": null,
-    "death_year": null,
+    "birth_year": 1894,
+    "death_year": 1942,
     "film_count": 3
   },
   "stats": {
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,7 +43,7 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 1940
+      "years_after_publication": 2
     }
   ],
   "adaptation_gaps": [],
@@ -55,5 +55,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-02T23:53:30.584525"
+  "last_updated": "2025-07-21T13:29:07.775716"
 }

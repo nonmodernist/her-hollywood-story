@@ -23,15 +23,15 @@
     "id": 916,
     "slug": "the-wild-fawn",
     "title": "The Wild Fawn",
-    "formatted_title": "The Wild Fawn",
-    "html_title": "<span class=\"work-title\">The Wild Fawn</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "formatted_title": "\"The Wild Fawn\"",
+    "html_title": "<span class=\"work-title short-story\">\"The Wild Fawn\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1919,
     "genre": null,
     "plot_summary": null,
     "literary_significance": null,
     "adaptation_count": 1,
-    "year_to_adaptation": 1920
+    "year_to_adaptation": 1
   },
   "author": {
     "id": 463,
@@ -39,7 +39,7 @@
     "name": "Mary Imlay Taylor",
     "birth_year": 1878,
     "death_year": 1938,
-    "nationality": null,
+    "nationality": "American",
     "film_count": 2
   },
   "other_adaptations": [],

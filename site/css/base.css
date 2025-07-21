@@ -1,5 +1,8 @@
 /* her-hollywood-base.css - Base design system for Her Hollywood Story */
 
+/* Import title formatting */
+@import url('titles.css');
+
 :root {
     /* Monochromatic palette */
     --text-primary: #1a1a1a;

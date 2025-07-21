@@ -4,7 +4,7 @@
   "name": "Ursula Parrott",
   "birth_year": 1900,
   "death_year": 1957,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American writer (1900-1957). Born in Dorchester. Died in New York City. Occupations: screenwriter, novelist. Notable works: Ex-Wife",
   "author_notes": null,
@@ -93,8 +93,8 @@
         "Aviation"
       ],
       "has_media": false,
-      "work_title": "\"Love Affair\"",
-      "work_html_title": "<span class=\"work-title\">\"Love Affair\"</span>",
+      "work_title": "Love Affair",
+      "work_html_title": "<span class=\"work-title short-story\">\"Love Affair\"</span>",
       "work_id": 181
     },
     {
@@ -175,10 +175,10 @@
     {
       "id": 181,
       "slug": "love-affair",
-      "title": "\"Love Affair\"",
+      "title": "Love Affair",
       "formatted_title": "\"Love Affair\"",
-      "html_title": "<span class=\"work-title\">\"Love Affair\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"Love Affair\"</span>",
+      "work_type": "short_story",
       "publication_year": 1930,
       "genre": null,
       "adaptation_count": 1,
@@ -234,5 +234,5 @@
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T16:37:44.865788"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

@@ -2,9 +2,9 @@
   "id": 222,
   "slug": "pauline-forney",
   "name": "Pauline Forney",
-  "birth_year": null,
-  "death_year": null,
-  "nationality": null,
+  "birth_year": 1882,
+  "death_year": 1985,
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": null,
   "author_notes": null,
@@ -43,7 +43,7 @@
       ],
       "has_media": true,
       "work_title": "Boarding House Blues",
-      "work_html_title": "<span class=\"work-title\">Boarding House Blues</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Boarding House Blues\"</span>",
       "work_id": 500
     }
   ],
@@ -52,9 +52,9 @@
       "id": 500,
       "slug": "boarding-house-blues",
       "title": "Boarding House Blues",
-      "formatted_title": "Boarding House Blues",
-      "html_title": "<span class=\"work-title\">Boarding House Blues</span>",
-      "work_type": "novel",
+      "formatted_title": "\"Boarding House Blues\"",
+      "html_title": "<span class=\"work-title short-story\">\"Boarding House Blues\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -65,14 +65,14 @@
     "id": 500,
     "slug": "boarding-house-blues",
     "title": "Boarding House Blues",
-    "formatted_title": "Boarding House Blues",
-    "html_title": "<span class=\"work-title\">Boarding House Blues</span>",
-    "work_type": "novel",
+    "formatted_title": "\"Boarding House Blues\"",
+    "html_title": "<span class=\"work-title short-story\">\"Boarding House Blues\"</span>",
+    "work_type": "short_story",
     "publication_year": null,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-02T23:42:40.28474"
+  "last_updated": "2025-07-20T04:08:50.943765"
 }

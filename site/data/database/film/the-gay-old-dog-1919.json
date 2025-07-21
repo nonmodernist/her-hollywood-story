@@ -23,15 +23,15 @@
     "id": 485,
     "slug": "the-gay-old-dog",
     "title": "The Gay Old Dog",
-    "formatted_title": "The Gay Old Dog",
-    "html_title": "<span class=\"work-title\">The Gay Old Dog</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "formatted_title": "\"The Gay Old Dog\"",
+    "html_title": "<span class=\"work-title short-story\">\"The Gay Old Dog\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1917,
     "genre": null,
     "plot_summary": null,
     "literary_significance": null,
     "adaptation_count": 1,
-    "year_to_adaptation": 1919
+    "year_to_adaptation": 2
   },
   "author": {
     "id": 40,
@@ -39,7 +39,7 @@
     "name": "Edna Ferber",
     "birth_year": 1885,
     "death_year": 1968,
-    "nationality": "United States",
+    "nationality": "American",
     "film_count": 24
   },
   "other_adaptations": [],

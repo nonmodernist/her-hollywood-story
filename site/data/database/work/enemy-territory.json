@@ -1,10 +1,10 @@
 {
   "id": 212,
   "slug": "enemy-territory",
-  "title": "\"Enemy Territory\"",
+  "title": "Enemy Territory",
   "formatted_title": "\"Enemy Territory\"",
-  "html_title": "<span class=\"work-title\">\"Enemy Territory\"</span>",
-  "work_type": "novel",
+  "html_title": "<span class=\"work-title short-story\">\"Enemy Territory\"</span>",
+  "work_type": "short_story",
   "publication_year": 1937,
   "genre": null,
   "plot_summary": null,
@@ -50,11 +50,11 @@
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
+    "magazine_title": "Pictorial Review",
+    "pub_date": "1937-02-01",
+    "issue_info": "Feb 1937",
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-06-20T22:51:00.049852"
+  "last_updated": "2025-07-21T18:17:32.022095"
 }

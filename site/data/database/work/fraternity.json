@@ -2,10 +2,10 @@
   "id": 736,
   "slug": "fraternity",
   "title": "Fraternity",
-  "formatted_title": "Fraternity",
-  "html_title": "<span class=\"work-title\">Fraternity</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "formatted_title": "\"Fraternity\"",
+  "html_title": "<span class=\"work-title short-story\">\"Fraternity\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1941,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": true,
+    "speed_demon_delay": 0,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,17 +44,17 @@
         "Youth"
       ],
       "has_media": false,
-      "years_after_publication": 1941
+      "years_after_publication": 0
     }
   ],
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
+    "magazine_title": "Collier's",
+    "pub_date": "1941-02-01",
     "issue_info": null,
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-09T01:54:11.242352"
+  "last_updated": "2025-07-21T18:30:56.85439"
 }

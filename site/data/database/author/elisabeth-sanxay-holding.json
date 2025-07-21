@@ -4,7 +4,7 @@
   "name": "Elisabeth Sanxay Holding",
   "birth_year": 1889,
   "death_year": 1955,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American author. Born in Brooklyn. Died in The Bronx. Occupations: novelist, writer",
   "author_notes": null,
@@ -51,8 +51,8 @@
         "Drama"
       ],
       "has_media": false,
-      "work_title": "\"The Bride Comes Home\"",
-      "work_html_title": "<span class=\"work-title\">\"The Bride Comes Home\"</span>",
+      "work_title": "The Bride Comes Home",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Bride Comes Home\"</span>",
       "work_id": 201
     },
     {
@@ -77,10 +77,10 @@
     {
       "id": 201,
       "slug": "the-bride-comes-home",
-      "title": "\"The Bride Comes Home\"",
+      "title": "The Bride Comes Home",
       "formatted_title": "\"The Bride Comes Home\"",
-      "html_title": "<span class=\"work-title\">\"The Bride Comes Home\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"The Bride Comes Home\"</span>",
+      "work_type": "short_story",
       "publication_year": 1935,
       "genre": null,
       "adaptation_count": 1,
@@ -102,15 +102,15 @@
   "most_adapted_work": {
     "id": 201,
     "slug": "the-bride-comes-home",
-    "title": "\"The Bride Comes Home\"",
+    "title": "The Bride Comes Home",
     "formatted_title": "\"The Bride Comes Home\"",
-    "html_title": "<span class=\"work-title\">\"The Bride Comes Home\"</span>",
-    "work_type": "novel",
+    "html_title": "<span class=\"work-title short-story\">\"The Bride Comes Home\"</span>",
+    "work_type": "short_story",
     "publication_year": 1935,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T16:38:00.075432"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

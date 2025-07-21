@@ -4,7 +4,7 @@
   "name": "Virginia Kellogg",
   "birth_year": 1907,
   "death_year": 1981,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "writer (1907-1981). Born in Los Angeles. Died in Westwood. Occupations: screenwriter, playwright. Notable works: White Heat, Caged",
   "author_notes": null,
@@ -64,7 +64,7 @@
       ],
       "has_media": false,
       "work_title": "Mary Stevens, M.D.",
-      "work_html_title": "<span class=\"work-title\">Mary Stevens, M.D.</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Mary Stevens, M.D.\"</span>",
       "work_id": 615
     }
   ],
@@ -85,9 +85,9 @@
       "id": 615,
       "slug": "mary-stevens-md",
       "title": "Mary Stevens, M.D.",
-      "formatted_title": "Mary Stevens, M.D.",
-      "html_title": "<span class=\"work-title\">Mary Stevens, M.D.</span>",
-      "work_type": "novel",
+      "formatted_title": "\"Mary Stevens, M.D.\"",
+      "html_title": "<span class=\"work-title short-story\">\"Mary Stevens, M.D.\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -107,5 +107,5 @@
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-07T19:54:59.979555"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

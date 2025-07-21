@@ -4,8 +4,8 @@
   "title": "Reveries of a Station House",
   "formatted_title": "Reveries of a Station House",
   "html_title": "<span class=\"work-title\">Reveries of a Station House</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "work_type": "poem",
+  "publication_year": 1916,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,7 +43,7 @@
         "Drama"
       ],
       "has_media": false,
-      "years_after_publication": 1917
+      "years_after_publication": 1
     }
   ],
   "adaptation_gaps": [],
@@ -55,5 +55,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-16T20:16:37.170354"
+  "last_updated": "2025-07-21T17:39:30.350666"
 }

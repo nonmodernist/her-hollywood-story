@@ -23,15 +23,15 @@
     "id": 712,
     "slug": "the-forbidden-thing",
     "title": "The Forbidden Thing",
-    "formatted_title": "The Forbidden Thing",
-    "html_title": "<span class=\"work-title\">The Forbidden Thing</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "formatted_title": "\"The Forbidden Thing\"",
+    "html_title": "<span class=\"work-title short-story\">\"The Forbidden Thing\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1920,
     "genre": null,
     "plot_summary": null,
     "literary_significance": null,
     "adaptation_count": 1,
-    "year_to_adaptation": 1920
+    "year_to_adaptation": 0
   },
   "author": {
     "id": 357,
@@ -39,7 +39,7 @@
     "name": "Mary Mears",
     "birth_year": 1870,
     "death_year": 1943,
-    "nationality": "United States",
+    "nationality": "American",
     "film_count": 1
   },
   "other_adaptations": [],

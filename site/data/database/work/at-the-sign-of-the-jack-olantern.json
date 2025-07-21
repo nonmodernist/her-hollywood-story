@@ -1,11 +1,11 @@
 {
   "id": 812,
-  "slug": "at-the-sign-of-the-jack-0lantern",
-  "title": "At the Sign of the Jack 0'Lantern",
-  "formatted_title": "At the Sign of the Jack 0'Lantern",
-  "html_title": "<span class=\"work-title\">At the Sign of the Jack 0'Lantern</span>",
+  "slug": "at-the-sign-of-the-jack-olantern",
+  "title": "At the Sign of the Jack O'Lantern",
+  "formatted_title": "At the Sign of the Jack O'Lantern",
+  "html_title": "<span class=\"work-title\">At the Sign of the Jack O'Lantern</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1905,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 17,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,7 +43,7 @@
         "Comedy"
       ],
       "has_media": false,
-      "years_after_publication": 1922
+      "years_after_publication": 17
     }
   ],
   "adaptation_gaps": [],
@@ -55,5 +55,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-11T15:26:12.14593"
+  "last_updated": "2025-07-21T13:32:20.833814"
 }

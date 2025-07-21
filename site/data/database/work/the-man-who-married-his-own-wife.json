@@ -2,10 +2,10 @@
   "id": 720,
   "slug": "the-man-who-married-his-own-wife",
   "title": "The Man Who Married His Own Wife",
-  "formatted_title": "The Man Who Married His Own Wife",
-  "html_title": "<span class=\"work-title\">The Man Who Married His Own Wife</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "formatted_title": "\"The Man Who Married His Own Wife\"",
+  "html_title": "<span class=\"work-title short-story\">\"The Man Who Married His Own Wife\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1922,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": true,
+    "speed_demon_delay": 0,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,17 +43,17 @@
         "Melodrama"
       ],
       "has_media": false,
-      "years_after_publication": 1922
+      "years_after_publication": 0
     }
   ],
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
+    "magazine_title": "Hearst's International-Cosmopolitan",
+    "pub_date": "1922-04-01",
+    "issue_info": "April 1922",
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-09T01:06:32.299395"
+  "last_updated": "2025-07-21T18:29:45.516078"
 }

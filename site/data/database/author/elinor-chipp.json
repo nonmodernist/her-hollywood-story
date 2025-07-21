@@ -2,9 +2,9 @@
   "id": 30,
   "slug": "elinor-chipp",
   "name": "Elinor Chipp",
-  "birth_year": null,
+  "birth_year": 1898,
   "death_year": null,
-  "nationality": null,
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": null,
   "author_notes": null,
@@ -42,8 +42,8 @@
         "Drama"
       ],
       "has_media": true,
-      "work_title": "\"Whose Widow?\"",
-      "work_html_title": "<span class=\"work-title\">\"Whose Widow?\"</span>",
+      "work_title": "Whose Widow?",
+      "work_html_title": "<span class=\"work-title short-story\">\"Whose Widow?\"</span>",
       "work_id": 56
     }
   ],
@@ -51,10 +51,10 @@
     {
       "id": 56,
       "slug": "whose-widow",
-      "title": "\"Whose Widow?\"",
+      "title": "Whose Widow?",
       "formatted_title": "\"Whose Widow?\"",
-      "html_title": "<span class=\"work-title\">\"Whose Widow?\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"Whose Widow?\"</span>",
+      "work_type": "short_story",
       "publication_year": 1918,
       "genre": null,
       "adaptation_count": 1,
@@ -64,15 +64,15 @@
   "most_adapted_work": {
     "id": 56,
     "slug": "whose-widow",
-    "title": "\"Whose Widow?\"",
+    "title": "Whose Widow?",
     "formatted_title": "\"Whose Widow?\"",
-    "html_title": "<span class=\"work-title\">\"Whose Widow?\"</span>",
-    "work_type": "novel",
+    "html_title": "<span class=\"work-title short-story\">\"Whose Widow?\"</span>",
+    "work_type": "short_story",
     "publication_year": 1918,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T03:44:44.513472"
+  "last_updated": "2025-07-20T03:00:29.066968"
 }

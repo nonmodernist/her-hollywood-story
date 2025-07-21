@@ -1,0 +1,166 @@
+/* titles.css - Comprehensive title formatting for Her Hollywood Story */
+
+/* ========================================
+   Film Titles - Always italicized
+   ======================================== */
+
+/* Base film title styling */
+.film-title,
+span.film-title,
+.entry-title .film-title,
+.film-detail h1 .film-title {
+    font-style: italic;
+}
+
+/* Film titles within headers need special handling */
+h1 .film-title,
+h2 .film-title,
+h3 .film-title,
+h4 .film-title,
+h5 .film-title,
+h6 .film-title {
+    font-style: italic;
+    /* Inherit all other properties from parent heading */
+    font-size: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+    margin: 0;
+    display: inline;
+}
+
+/* When the entire heading is a film title */
+h1.film-title,
+h2.film-title,
+h3.film-title,
+h4.film-title,
+h5.film-title,
+h6.film-title {
+    font-style: italic;
+}
+
+/* Film titles in specific contexts */
+.entry-title a .film-title,
+.related-item .film-title,
+.timeline-item .film-title {
+    font-style: italic;
+}
+
+/* Ensure links containing film titles inherit the italic style */
+a .film-title {
+    font-style: italic;
+}
+
+/* ========================================
+   Work Titles (novels, short stories, etc.)
+   ======================================== */
+
+/* Base work title styling - default to italic */
+.work-title {
+    font-style: italic;
+}
+
+/* Short stories - use quotes instead of italics */
+.work-title.short-story {
+    font-style: normal;
+}
+
+/* Work titles in headers */
+h1 .work-title,
+h2 .work-title,
+h3 .work-title,
+h4 .work-title,
+h5 .work-title,
+h6 .work-title {
+    font-size: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+    margin: 0;
+    display: inline;
+}
+
+/* Short stories in headers */
+h1 .work-title.short-story,
+h2 .work-title.short-story,
+h3 .work-title.short-story,
+h4 .work-title.short-story,
+h5 .work-title.short-story,
+h6 .work-title.short-story {
+    font-style: normal;
+}
+
+/* When the entire heading is a work title */
+h1.work-title:not(.short-story),
+h2.work-title:not(.short-story),
+h3.work-title:not(.short-story),
+h4.work-title:not(.short-story),
+h5.work-title:not(.short-story),
+h6.work-title:not(.short-story) {
+    font-style: italic;
+}
+
+/* When the entire heading is a short story title */
+h1.work-title.short-story,
+h2.work-title.short-story,
+h3.work-title.short-story,
+h4.work-title.short-story,
+h5.work-title.short-story,
+h6.work-title.short-story {
+    font-style: normal;
+}
+
+/* ========================================
+   Special Cases and Edge Handling
+   ======================================== */
+
+/* Prevent double italics when nesting */
+.film-title .film-title,
+.work-title .work-title {
+    font-style: inherit;
+}
+
+/* Magazine titles (for serialized works) */
+.magazine-title {
+    font-style: italic;
+}
+
+/* Collections and anthologies */
+.work-title.collection {
+    font-style: italic;
+}
+
+/* Poems - follow same rules as short stories */
+.work-title.poem {
+    font-style: normal;
+}
+
+/* ========================================
+   Utility Classes for Special Formatting
+   ======================================== */
+
+/* Force normal style (for exceptions) */
+.title-normal {
+    font-style: normal !important;
+}
+
+/* Force italic style (for exceptions) */
+.title-italic {
+    font-style: italic !important;
+}
+
+/* ========================================
+   Print Styles
+   ======================================== */
+
+@media print {
+    /* Ensure titles maintain their formatting in print */
+    .film-title,
+    .work-title:not(.short-story):not(.poem),
+    .magazine-title {
+        font-style: italic;
+    }
+    
+    .work-title.short-story,
+    .work-title.poem {
+        font-style: normal;
+    }
+}

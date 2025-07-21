@@ -4,7 +4,7 @@
   "name": "Lotta Gannet",
   "birth_year": null,
   "death_year": null,
-  "nationality": null,
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": null,
   "author_notes": null,
@@ -43,7 +43,7 @@
       ],
       "has_media": true,
       "work_title": "Her Decision",
-      "work_html_title": "<span class=\"work-title\">Her Decision</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Her Decision\"</span>",
       "work_id": 519
     }
   ],
@@ -52,9 +52,9 @@
       "id": 519,
       "slug": "her-decision",
       "title": "Her Decision",
-      "formatted_title": "Her Decision",
-      "html_title": "<span class=\"work-title\">Her Decision</span>",
-      "work_type": "novel",
+      "formatted_title": "\"Her Decision\"",
+      "html_title": "<span class=\"work-title short-story\">\"Her Decision\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -65,14 +65,14 @@
     "id": 519,
     "slug": "her-decision",
     "title": "Her Decision",
-    "formatted_title": "Her Decision",
-    "html_title": "<span class=\"work-title\">Her Decision</span>",
-    "work_type": "novel",
+    "formatted_title": "\"Her Decision\"",
+    "html_title": "<span class=\"work-title short-story\">\"Her Decision\"</span>",
+    "work_type": "short_story",
     "publication_year": null,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-04T00:53:10.886851"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

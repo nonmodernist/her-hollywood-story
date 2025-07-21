@@ -4,7 +4,7 @@
   "name": "Margaret Cousins",
   "birth_year": 1905,
   "death_year": 1996,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American writer and editor. Born in Munday. Died in San Antonio. Occupations: writer",
   "author_notes": null,
@@ -42,19 +42,19 @@
         "Romance"
       ],
       "has_media": false,
-      "work_title": "\"The Life of Lucy Gallant/\"\"The Longest Day of the Year\"\"\"",
-      "work_html_title": "<span class=\"work-title\">\"The Life of Lucy Gallant/\"\"The Longest Day of the Year\"\"\"</span>",
+      "work_title": "The Life of Lucy Gallant",
+      "work_html_title": "<span class=\"work-title\">The Life of Lucy Gallant</span>",
       "work_id": 272
     }
   ],
   "adapted_works": [
     {
       "id": 272,
-      "slug": "the-life-of-lucy-gallantthe-longest-day-of-the-year",
-      "title": "\"The Life of Lucy Gallant/\"\"The Longest Day of the Year\"\"\"",
-      "formatted_title": "\"The Life of Lucy Gallant/\"\"The Longest Day of the Year\"\"\"",
-      "html_title": "<span class=\"work-title\">\"The Life of Lucy Gallant/\"\"The Longest Day of the Year\"\"\"</span>",
-      "work_type": "novel",
+      "slug": "the-life-of-lucy-gallant",
+      "title": "The Life of Lucy Gallant",
+      "formatted_title": "The Life of Lucy Gallant",
+      "html_title": "<span class=\"work-title\">The Life of Lucy Gallant</span>",
+      "work_type": "novella",
       "publication_year": 1953,
       "genre": null,
       "adaptation_count": 1,
@@ -63,16 +63,16 @@
   ],
   "most_adapted_work": {
     "id": 272,
-    "slug": "the-life-of-lucy-gallantthe-longest-day-of-the-year",
-    "title": "\"The Life of Lucy Gallant/\"\"The Longest Day of the Year\"\"\"",
-    "formatted_title": "\"The Life of Lucy Gallant/\"\"The Longest Day of the Year\"\"\"",
-    "html_title": "<span class=\"work-title\">\"The Life of Lucy Gallant/\"\"The Longest Day of the Year\"\"\"</span>",
-    "work_type": "novel",
+    "slug": "the-life-of-lucy-gallant",
+    "title": "The Life of Lucy Gallant",
+    "formatted_title": "The Life of Lucy Gallant",
+    "html_title": "<span class=\"work-title\">The Life of Lucy Gallant</span>",
+    "work_type": "novella",
     "publication_year": 1953,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T16:38:42.787076"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

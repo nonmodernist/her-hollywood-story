@@ -22,17 +22,17 @@
   "afi_catalog_id": 24124,
   "source_work": {
     "id": 311,
-    "slug": "pin-up-girl",
-    "title": "Pin-Up Girl",
-    "formatted_title": "Pin-Up Girl",
-    "html_title": "<span class=\"work-title\">Pin-Up Girl</span>",
-    "work_type": "novel",
-    "publication_year": 1943,
+    "slug": "imagine-us",
+    "title": "Imagine Us!",
+    "formatted_title": "\"Imagine Us!\"",
+    "html_title": "<span class=\"work-title short-story\">\"Imagine Us!\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1942,
     "genre": null,
     "plot_summary": null,
     "literary_significance": null,
     "adaptation_count": 1,
-    "year_to_adaptation": 1
+    "year_to_adaptation": 2
   },
   "author": {
     "id": 122,
@@ -40,7 +40,7 @@
     "name": "Libbie Block",
     "birth_year": 1910,
     "death_year": 1972,
-    "nationality": "United States",
+    "nationality": "American",
     "film_count": 3
   },
   "other_adaptations": [],

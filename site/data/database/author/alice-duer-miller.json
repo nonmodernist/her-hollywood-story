@@ -4,7 +4,7 @@
   "name": "Alice Duer Miller",
   "birth_year": 1894,
   "death_year": 1985,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American screenwriter (1894-1985). Born in Milwaukee. Died in Woodland Hills. Occupations: screenwriter",
   "author_notes": "also wrote under the pseud Clara Bartram",
@@ -259,7 +259,7 @@
       ],
       "has_media": true,
       "work_title": "The Princess and the Plumber",
-      "work_html_title": "<span class=\"work-title\">The Princess and the Plumber</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Princess and the Plumber\"</span>",
       "work_id": 155
     },
     {
@@ -275,7 +275,7 @@
       ],
       "has_media": false,
       "work_title": "Big Executive",
-      "work_html_title": "<span class=\"work-title\">Big Executive</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Big Executive\"</span>",
       "work_id": 186
     },
     {
@@ -291,7 +291,7 @@
       ],
       "has_media": false,
       "work_title": "The Adventuress",
-      "work_html_title": "<span class=\"work-title\">The Adventuress</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Adventuress\"</span>",
       "work_id": 718
     },
     {
@@ -372,7 +372,7 @@
       ],
       "has_media": false,
       "work_title": "And One was Beautiful",
-      "work_html_title": "<span class=\"work-title\">And One was Beautiful</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"And One was Beautiful\"</span>",
       "work_id": 719
     },
     {
@@ -511,7 +511,7 @@
       "title": "Are Parents People?",
       "formatted_title": "Are Parents People?",
       "html_title": "<span class=\"work-title\">Are Parents People?</span>",
-      "work_type": "novel",
+      "work_type": "novella",
       "publication_year": 1923,
       "genre": null,
       "adaptation_count": 1,
@@ -521,9 +521,9 @@
       "id": 155,
       "slug": "the-princess-and-the-plumber",
       "title": "The Princess and the Plumber",
-      "formatted_title": "The Princess and the Plumber",
-      "html_title": "<span class=\"work-title\">The Princess and the Plumber</span>",
-      "work_type": "novel",
+      "formatted_title": "\"The Princess and the Plumber\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Princess and the Plumber\"</span>",
+      "work_type": "short_story",
       "publication_year": 1929,
       "genre": null,
       "adaptation_count": 1,
@@ -533,9 +533,9 @@
       "id": 186,
       "slug": "big-executive",
       "title": "Big Executive",
-      "formatted_title": "Big Executive",
-      "html_title": "<span class=\"work-title\">Big Executive</span>",
-      "work_type": "novel",
+      "formatted_title": "\"Big Executive\"",
+      "html_title": "<span class=\"work-title short-story\">\"Big Executive\"</span>",
+      "work_type": "short_story",
       "publication_year": 1933,
       "genre": null,
       "adaptation_count": 1,
@@ -545,9 +545,9 @@
       "id": 718,
       "slug": "the-adventuress",
       "title": "The Adventuress",
-      "formatted_title": "The Adventuress",
-      "html_title": "<span class=\"work-title\">The Adventuress</span>",
-      "work_type": "novel",
+      "formatted_title": "\"The Adventuress\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Adventuress\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -557,9 +557,9 @@
       "id": 719,
       "slug": "and-one-was-beautiful",
       "title": "And One was Beautiful",
-      "formatted_title": "And One was Beautiful",
-      "html_title": "<span class=\"work-title\">And One was Beautiful</span>",
-      "work_type": "novel",
+      "formatted_title": "\"And One was Beautiful\"",
+      "html_title": "<span class=\"work-title short-story\">\"And One was Beautiful\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -571,7 +571,7 @@
       "title": "The White Cliffs",
       "formatted_title": "The White Cliffs",
       "html_title": "<span class=\"work-title\">The White Cliffs</span>",
-      "work_type": "novel",
+      "work_type": "poem",
       "publication_year": 1940,
       "genre": null,
       "adaptation_count": 1,
@@ -591,5 +591,5 @@
     "is_remake_champion": true
   },
   "has_narrative": false,
-  "last_updated": "2025-06-18T02:04:20.604794"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

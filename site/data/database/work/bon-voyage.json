@@ -1,11 +1,11 @@
 {
   "id": 555,
-  "slug": "bonvoyage",
-  "title": "Bonvoyage",
-  "formatted_title": "Bonvoyage",
-  "html_title": "<span class=\"work-title\">Bonvoyage</span>",
+  "slug": "bon-voyage",
+  "title": "Bon Voyage",
+  "formatted_title": "Bon Voyage",
+  "html_title": "<span class=\"work-title\">Bon Voyage</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1957,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -14,8 +14,8 @@
     "id": 257,
     "slug": "marrijane-hayes",
     "name": "Marrijane Hayes",
-    "birth_year": null,
-    "death_year": null,
+    "birth_year": 1920,
+    "death_year": 1991,
     "film_count": 1
   },
   "stats": {
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 5,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,7 +43,7 @@
         "Comedy"
       ],
       "has_media": false,
-      "years_after_publication": 1962
+      "years_after_publication": 5
     }
   ],
   "adaptation_gaps": [],
@@ -55,5 +55,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-05T22:33:19.87671"
+  "last_updated": "2025-07-21T15:26:54.291657"
 }

@@ -2,9 +2,9 @@
   "id": 60,
   "slug": "humoresque",
   "title": "Humoresque",
-  "formatted_title": "Humoresque",
-  "html_title": "<span class=\"work-title\">Humoresque</span>",
-  "work_type": "novel",
+  "formatted_title": "\"Humoresque\"",
+  "html_title": "<span class=\"work-title short-story\">\"Humoresque\"</span>",
+  "work_type": "short_story",
   "publication_year": 1919,
   "genre": null,
   "plot_summary": null,
@@ -75,11 +75,11 @@
     "count": 0
   },
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
+    "magazine_title": "Cosmopolitan",
+    "pub_date": "1919-03-01",
+    "issue_info": "Mar 1919",
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-02T16:37:30.448342"
+  "last_updated": "2025-07-21T18:17:32.022095"
 }

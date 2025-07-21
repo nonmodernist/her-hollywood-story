@@ -1,11 +1,11 @@
 {
   "id": 97,
   "slug": "the-nth-commandment",
-  "title": "\"The Nth Commandment\"",
+  "title": "The Nth Commandment",
   "formatted_title": "\"The Nth Commandment\"",
-  "html_title": "<span class=\"work-title\">\"The Nth Commandment\"</span>",
-  "work_type": "novel",
-  "publication_year": 1916,
+  "html_title": "<span class=\"work-title short-story\">\"The Nth Commandment\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1914,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 7,
+    "speed_demon_delay": 9,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,17 +43,17 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 7
+      "years_after_publication": 9
     }
   ],
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
+    "magazine_title": "Saturday Evening Post",
+    "pub_date": "1914-12-05",
     "issue_info": null,
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T03:48:03.914138"
+  "last_updated": "2025-07-21T18:31:34.540655"
 }

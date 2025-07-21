@@ -4,7 +4,7 @@
   "name": "Helen Hunt Jackson",
   "birth_year": 1830,
   "death_year": 1885,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American novelist, poet, writer, activist (1830–1885). Born in Amherst. Died in San Francisco. Occupations: novelist, poet, journalist, writer. Notable works: A Century of Dishonor",
   "author_notes": null,
@@ -48,7 +48,7 @@
         "Drama",
         "Historical"
       ],
-      "has_media": true,
+      "has_media": false,
       "work_title": "Ramona",
       "work_html_title": "<span class=\"work-title\">Ramona</span>",
       "work_id": 1
@@ -132,5 +132,5 @@
     "is_remake_champion": true
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T16:36:29.712102"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

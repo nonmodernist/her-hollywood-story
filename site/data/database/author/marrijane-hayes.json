@@ -2,9 +2,9 @@
   "id": 257,
   "slug": "marrijane-hayes",
   "name": "Marrijane Hayes",
-  "birth_year": null,
-  "death_year": null,
-  "nationality": null,
+  "birth_year": 1920,
+  "death_year": 1991,
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": null,
   "author_notes": null,
@@ -42,20 +42,20 @@
         "Comedy"
       ],
       "has_media": false,
-      "work_title": "Bonvoyage",
-      "work_html_title": "<span class=\"work-title\">Bonvoyage</span>",
+      "work_title": "Bon Voyage",
+      "work_html_title": "<span class=\"work-title\">Bon Voyage</span>",
       "work_id": 555
     }
   ],
   "adapted_works": [
     {
       "id": 555,
-      "slug": "bonvoyage",
-      "title": "Bonvoyage",
-      "formatted_title": "Bonvoyage",
-      "html_title": "<span class=\"work-title\">Bonvoyage</span>",
+      "slug": "bon-voyage",
+      "title": "Bon Voyage",
+      "formatted_title": "Bon Voyage",
+      "html_title": "<span class=\"work-title\">Bon Voyage</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1957,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -63,16 +63,16 @@
   ],
   "most_adapted_work": {
     "id": 555,
-    "slug": "bonvoyage",
-    "title": "Bonvoyage",
-    "formatted_title": "Bonvoyage",
-    "html_title": "<span class=\"work-title\">Bonvoyage</span>",
+    "slug": "bon-voyage",
+    "title": "Bon Voyage",
+    "formatted_title": "Bon Voyage",
+    "html_title": "<span class=\"work-title\">Bon Voyage</span>",
     "work_type": "novel",
-    "publication_year": null,
+    "publication_year": 1957,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-05T22:18:25.74318"
+  "last_updated": "2025-07-20T04:05:21.099371"
 }

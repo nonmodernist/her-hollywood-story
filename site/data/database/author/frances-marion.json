@@ -4,7 +4,7 @@
   "name": "Frances Marion",
   "birth_year": 1888,
   "death_year": 1973,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American journalist, author, film director and screenwriter (1888-1973). Born in San Francisco. Died in Los Angeles. Occupations: journalist, screenwriter, film screenwriter, writer, actor, film actor, film director, novelist",
   "author_notes": null,
@@ -62,7 +62,7 @@
       ],
       "has_media": false,
       "work_title": "The Fisher-Girl",
-      "work_html_title": "<span class=\"work-title\">The Fisher-Girl</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Fisher-Girl\"</span>",
       "work_id": 689
     },
     {
@@ -78,7 +78,7 @@
       ],
       "has_media": false,
       "work_title": "A Movie Romance",
-      "work_html_title": "<span class=\"work-title\">A Movie Romance</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"A Movie Romance\"</span>",
       "work_id": 691
     },
     {
@@ -138,9 +138,9 @@
       "id": 689,
       "slug": "the-fisher-girl",
       "title": "The Fisher-Girl",
-      "formatted_title": "The Fisher-Girl",
-      "html_title": "<span class=\"work-title\">The Fisher-Girl</span>",
-      "work_type": "novel",
+      "formatted_title": "\"The Fisher-Girl\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Fisher-Girl\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -150,9 +150,9 @@
       "id": 691,
       "slug": "a-movie-romance",
       "title": "A Movie Romance",
-      "formatted_title": "A Movie Romance",
-      "html_title": "<span class=\"work-title\">A Movie Romance</span>",
-      "work_type": "novel",
+      "formatted_title": "\"A Movie Romance\"",
+      "html_title": "<span class=\"work-title short-story\">\"A Movie Romance\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -199,14 +199,14 @@
     "id": 689,
     "slug": "the-fisher-girl",
     "title": "The Fisher-Girl",
-    "formatted_title": "The Fisher-Girl",
-    "html_title": "<span class=\"work-title\">The Fisher-Girl</span>",
-    "work_type": "novel",
+    "formatted_title": "\"The Fisher-Girl\"",
+    "html_title": "<span class=\"work-title short-story\">\"The Fisher-Girl\"</span>",
+    "work_type": "short_story",
     "publication_year": null,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-08T22:57:00.620983"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

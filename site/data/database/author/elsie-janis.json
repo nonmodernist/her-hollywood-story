@@ -4,7 +4,7 @@
   "name": "Elsie Janis",
   "birth_year": 1889,
   "death_year": 1956,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American actress of stage and screen (1889-1956). Born in Columbus. Died in Beverly Hills. Occupations: singer, film actor, actor, songwriter, stage actor, screenwriter",
   "author_notes": null,
@@ -48,7 +48,7 @@
       ],
       "has_media": false,
       "work_title": "Close Harmony",
-      "work_html_title": "<span class=\"work-title\">Close Harmony</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Close Harmony\"</span>",
       "work_id": 583
     },
     {
@@ -71,9 +71,9 @@
       "id": 583,
       "slug": "close-harmony",
       "title": "Close Harmony",
-      "formatted_title": "Close Harmony",
-      "html_title": "<span class=\"work-title\">Close Harmony</span>",
-      "work_type": "novel",
+      "formatted_title": "\"Close Harmony\"",
+      "html_title": "<span class=\"work-title short-story\">\"Close Harmony\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -96,14 +96,14 @@
     "id": 583,
     "slug": "close-harmony",
     "title": "Close Harmony",
-    "formatted_title": "Close Harmony",
-    "html_title": "<span class=\"work-title\">Close Harmony</span>",
-    "work_type": "novel",
+    "formatted_title": "\"Close Harmony\"",
+    "html_title": "<span class=\"work-title short-story\">\"Close Harmony\"</span>",
+    "work_type": "short_story",
     "publication_year": null,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-06T14:48:32.32424"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

@@ -4,7 +4,7 @@
   "name": "Vicki Baum",
   "birth_year": 1888,
   "death_year": 1960,
-  "nationality": "United States, Austria",
+  "nationality": "Austrian-American",
   "literary_movement": null,
   "biographical_notes": "Austrian writer (1888–1960). Born in Vienna. Died in Hollywood. Occupations: writer, journalist, musician, screenwriter, harpist",
   "author_notes": null,
@@ -94,7 +94,7 @@
       ],
       "has_media": true,
       "work_title": "Big Shot",
-      "work_html_title": "<span class=\"work-title\">Big Shot</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Big Shot\"</span>",
       "work_id": 297
     },
     {
@@ -161,9 +161,9 @@
       "id": 297,
       "slug": "big-shot",
       "title": "Big Shot",
-      "formatted_title": "Big Shot",
-      "html_title": "<span class=\"work-title\">Big Shot</span>",
-      "work_type": "novel",
+      "formatted_title": "\"Big Shot\"",
+      "html_title": "<span class=\"work-title short-story\">\"Big Shot\"</span>",
+      "work_type": "short_story",
       "publication_year": 1936,
       "genre": null,
       "adaptation_count": 1,
@@ -195,5 +195,5 @@
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-20T17:52:41.207264"
+  "last_updated": "2025-07-20T01:25:38.256565"
 }

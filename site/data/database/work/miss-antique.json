@@ -1,10 +1,10 @@
 {
   "id": 63,
   "slug": "miss-antique",
-  "title": "\"Miss Antique\"",
+  "title": "Miss Antique",
   "formatted_title": "\"Miss Antique\"",
-  "html_title": "<span class=\"work-title\">\"Miss Antique\"</span>",
-  "work_type": "novel",
+  "html_title": "<span class=\"work-title short-story\">\"Miss Antique\"</span>",
+  "work_type": "short_story",
   "publication_year": 1919,
   "genre": null,
   "plot_summary": null,
@@ -49,11 +49,11 @@
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
+    "magazine_title": "Snappy Stories",
+    "pub_date": "1919-01-01",
     "issue_info": null,
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T03:48:03.914138"
+  "last_updated": "2025-07-21T18:17:32.022095"
 }

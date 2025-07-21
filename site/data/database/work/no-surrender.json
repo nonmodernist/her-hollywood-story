@@ -1,11 +1,11 @@
 {
   "id": 284,
-  "slug": "after-midnight",
-  "title": "After Midnight",
-  "formatted_title": "After Midnight",
-  "html_title": "<span class=\"work-title\">After Midnight</span>",
+  "slug": "no-surrender",
+  "title": "No Surrender",
+  "formatted_title": "No Surrender",
+  "html_title": "<span class=\"work-title\">No Surrender</span>",
   "work_type": "novel",
-  "publication_year": 1948,
+  "publication_year": 1942,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 2,
+    "speed_demon_delay": 8,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,7 +44,7 @@
         "Postwar life"
       ],
       "has_media": false,
-      "years_after_publication": 2
+      "years_after_publication": 8
     }
   ],
   "adaptation_gaps": [],
@@ -56,5 +56,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-06-20T21:02:55.923828"
+  "last_updated": "2025-07-21T13:28:15.614654"
 }

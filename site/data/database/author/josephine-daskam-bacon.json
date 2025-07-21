@@ -4,7 +4,7 @@
   "name": "Josephine Daskam Bacon",
   "birth_year": 1876,
   "death_year": 1961,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American writer (1876-1961). Born in Stamford. Died in New York. Occupations: playwright, writer, short story writer, children's writer, novelist, humorist",
   "author_notes": null,
@@ -42,8 +42,8 @@
         "Drama"
       ],
       "has_media": true,
-      "work_title": "\"The Ghost of Rosy Taylor\"",
-      "work_html_title": "<span class=\"work-title\">\"The Ghost of Rosy Taylor\"</span>",
+      "work_title": "The Ghost of Rosy Taylor",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Ghost of Rosy Taylor\"</span>",
       "work_id": 289
     }
   ],
@@ -51,10 +51,10 @@
     {
       "id": 289,
       "slug": "the-ghost-of-rosy-taylor",
-      "title": "\"The Ghost of Rosy Taylor\"",
+      "title": "The Ghost of Rosy Taylor",
       "formatted_title": "\"The Ghost of Rosy Taylor\"",
-      "html_title": "<span class=\"work-title\">\"The Ghost of Rosy Taylor\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"The Ghost of Rosy Taylor\"</span>",
+      "work_type": "short_story",
       "publication_year": 1917,
       "genre": null,
       "adaptation_count": 1,
@@ -64,15 +64,15 @@
   "most_adapted_work": {
     "id": 289,
     "slug": "the-ghost-of-rosy-taylor",
-    "title": "\"The Ghost of Rosy Taylor\"",
+    "title": "The Ghost of Rosy Taylor",
     "formatted_title": "\"The Ghost of Rosy Taylor\"",
-    "html_title": "<span class=\"work-title\">\"The Ghost of Rosy Taylor\"</span>",
-    "work_type": "novel",
+    "html_title": "<span class=\"work-title short-story\">\"The Ghost of Rosy Taylor\"</span>",
+    "work_type": "short_story",
     "publication_year": 1917,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-20T17:52:37.494781"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

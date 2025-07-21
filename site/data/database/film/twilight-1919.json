@@ -40,14 +40,41 @@
     "name": "Vingie E. Roe",
     "birth_year": 1879,
     "death_year": 1958,
-    "nationality": null,
+    "nationality": "American",
     "film_count": 8
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1440,
+      "media_type": "advertisement",
+      "title": "Twilight (1919) - Ad 2.jpg",
+      "caption": "Ad for the American film Twilight (1919) with Doris Kenyon, on pages 1432 and 1433 of the March 15, 1919 Moving Picture World.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Twilight_%281919%29_-_Ad_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Twilight_%281919%29_-_Ad_2.jpg/300px-Twilight_%281919%29_-_Ad_2.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Twilight_(1919)_-_Ad_2.jpg",
+      "license": "public_domain",
+      "attribution": "De Luxe Pictures Inc.",
+      "is_featured": "False"
+    },
+    {
+      "id": 1441,
+      "media_type": "advertisement",
+      "title": "Twilight 1919.jpg",
+      "caption": "Advertisement in Moving Picture WOrld, May 1919 for the American silent film Twilight (1919).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Twilight_1919.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Twilight_1919.jpg/300px-Twilight_1919.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Twilight_1919.jpg",
+      "license": "public_domain",
+      "attribution": "De Luxe Pictures Inc.",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
   "last_updated": "2025-07-18T18:36:32.713708"
 }

@@ -22,10 +22,10 @@
   "source_work": {
     "id": 42,
     "slug": "golden-fleece",
-    "title": "\"Golden Fleece\"",
+    "title": "Golden Fleece",
     "formatted_title": "\"Golden Fleece\"",
-    "html_title": "<span class=\"work-title\">\"Golden Fleece\"</span>",
-    "work_type": "novel",
+    "html_title": "<span class=\"work-title short-story\">\"Golden Fleece\"</span>",
+    "work_type": "short_story",
     "publication_year": 1917,
     "genre": null,
     "plot_summary": null,
@@ -39,7 +39,7 @@
     "name": "Fannie Hurst",
     "birth_year": 1889,
     "death_year": 1968,
-    "nationality": "United States",
+    "nationality": "American",
     "film_count": 27
   },
   "other_adaptations": [],

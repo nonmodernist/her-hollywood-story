@@ -42,7 +42,7 @@
     "name": "Harriet Beecher Stowe",
     "birth_year": 1811,
     "death_year": 1896,
-    "nationality": "United States",
+    "nationality": "American",
     "film_count": 9
   },
   "other_adaptations": [
@@ -110,19 +110,6 @@
   },
   "media": [
     {
-      "id": 6,
-      "media_type": "still",
-      "title": "Uncle Tom's Cabin TC2.jpg",
-      "caption": "Another film still from Uncle Tom's Cabin by the Thanhouser Company.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Uncle_Tom%27s_Cabin_TC2.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Uncle_Tom%27s_Cabin_TC2.jpg/300px-Uncle_Tom%27s_Cabin_TC2.jpg",
-      "source": "wikimedia",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Uncle_Tom's_Cabin_TC2.jpg",
-      "license": "public_domain",
-      "attribution": "Thanhouser Company (Life time: N/A)",
-      "is_featured": "False"
-    },
-    {
       "id": 7,
       "media_type": "still",
       "title": "Uncle Tom's Cabin TC1.jpg",
@@ -131,6 +118,19 @@
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Uncle_Tom%27s_Cabin_TC1.jpg/300px-Uncle_Tom%27s_Cabin_TC1.jpg",
       "source": "wikimedia",
       "source_url": "https://commons.wikimedia.org/wiki/File:Uncle_Tom's_Cabin_TC1.jpg",
+      "license": "public_domain",
+      "attribution": "Thanhouser Company (Life time: N/A)",
+      "is_featured": "False"
+    },
+    {
+      "id": 6,
+      "media_type": "still",
+      "title": "Uncle Tom's Cabin TC2.jpg",
+      "caption": "Another film still from Uncle Tom's Cabin by the Thanhouser Company.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Uncle_Tom%27s_Cabin_TC2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Uncle_Tom%27s_Cabin_TC2.jpg/300px-Uncle_Tom%27s_Cabin_TC2.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Uncle_Tom's_Cabin_TC2.jpg",
       "license": "public_domain",
       "attribution": "Thanhouser Company (Life time: N/A)",
       "is_featured": "False"

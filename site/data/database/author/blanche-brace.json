@@ -4,7 +4,7 @@
   "name": "Blanche Brace",
   "birth_year": null,
   "death_year": null,
-  "nationality": null,
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": null,
   "author_notes": null,
@@ -48,7 +48,7 @@
       ],
       "has_media": false,
       "work_title": "The Adventures of a Ready Letter Writer",
-      "work_html_title": "<span class=\"work-title\">The Adventures of a Ready Letter Writer</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Adventures of a Ready Letter Writer\"</span>",
       "work_id": 321
     },
     {
@@ -65,7 +65,7 @@
       ],
       "has_media": false,
       "work_title": "The Adventures of a Ready Letter Writer",
-      "work_html_title": "<span class=\"work-title\">The Adventures of a Ready Letter Writer</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Adventures of a Ready Letter Writer\"</span>",
       "work_id": 321
     }
   ],
@@ -74,9 +74,9 @@
       "id": 321,
       "slug": "the-adventures-of-a-ready-letter-writer",
       "title": "The Adventures of a Ready Letter Writer",
-      "formatted_title": "The Adventures of a Ready Letter Writer",
-      "html_title": "<span class=\"work-title\">The Adventures of a Ready Letter Writer</span>",
-      "work_type": "novel",
+      "formatted_title": "\"The Adventures of a Ready Letter Writer\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Adventures of a Ready Letter Writer\"</span>",
+      "work_type": "short_story",
       "publication_year": 1920,
       "genre": null,
       "adaptation_count": 2,
@@ -87,14 +87,14 @@
     "id": 321,
     "slug": "the-adventures-of-a-ready-letter-writer",
     "title": "The Adventures of a Ready Letter Writer",
-    "formatted_title": "The Adventures of a Ready Letter Writer",
-    "html_title": "<span class=\"work-title\">The Adventures of a Ready Letter Writer</span>",
-    "work_type": "novel",
+    "formatted_title": "\"The Adventures of a Ready Letter Writer\"",
+    "html_title": "<span class=\"work-title short-story\">\"The Adventures of a Ready Letter Writer\"</span>",
+    "work_type": "short_story",
     "publication_year": 1920,
     "genre": null,
     "adaptation_count": 2,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-18T02:42:34.641016"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

@@ -23,15 +23,15 @@
     "id": 454,
     "slug": "candy-takes-a-job",
     "title": "Candy Takes a Job",
-    "formatted_title": "Candy Takes a Job",
-    "html_title": "<span class=\"work-title\">Candy Takes a Job</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "formatted_title": "\"Candy Takes a Job\"",
+    "html_title": "<span class=\"work-title short-story\">\"Candy Takes a Job\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1941,
     "genre": null,
     "plot_summary": null,
     "literary_significance": null,
     "adaptation_count": 1,
-    "year_to_adaptation": 1942
+    "year_to_adaptation": 1
   },
   "author": {
     "id": 201,
@@ -39,7 +39,7 @@
     "name": "Elizabeth Dunn",
     "birth_year": null,
     "death_year": null,
-    "nationality": null,
+    "nationality": "American",
     "film_count": 1
   },
   "other_adaptations": [],

@@ -40,7 +40,7 @@
     "name": "Helen Hunt Jackson",
     "birth_year": 1830,
     "death_year": 1885,
-    "nationality": "United States",
+    "nationality": "American",
     "film_count": 4
   },
   "other_adaptations": [
@@ -79,23 +79,9 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [
-    {
-      "id": 4,
-      "media_type": "other",
-      "title": "Ramona (1910).webm",
-      "caption": "American short silent drama film.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ramona_%281910%29.webm",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ramona_%281910%29.webm?width=300",
-      "source": "wikimedia",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Ramona (1910).webm",
-      "license": "public_domain",
-      "attribution": "D. W. Griffith",
-      "is_featured": "False"
-    }
-  ],
-  "has_media": true,
-  "media_count": 1,
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
   "has_narrative": false,
   "last_updated": "2025-07-18T18:36:32.713708"
 }

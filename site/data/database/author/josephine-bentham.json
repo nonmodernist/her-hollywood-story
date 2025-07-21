@@ -4,7 +4,7 @@
   "name": "Josephine Bentham",
   "birth_year": null,
   "death_year": null,
-  "nationality": null,
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": null,
   "author_notes": null,
@@ -52,7 +52,7 @@
       ],
       "has_media": true,
       "work_title": "A Bride for Henry",
-      "work_html_title": "<span class=\"work-title\">A Bride for Henry</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"A Bride for Henry\"</span>",
       "work_id": 304
     },
     {
@@ -79,9 +79,9 @@
       "id": 304,
       "slug": "a-bride-for-henry",
       "title": "A Bride for Henry",
-      "formatted_title": "A Bride for Henry",
-      "html_title": "<span class=\"work-title\">A Bride for Henry</span>",
-      "work_type": "novel",
+      "formatted_title": "\"A Bride for Henry\"",
+      "html_title": "<span class=\"work-title short-story\">\"A Bride for Henry\"</span>",
+      "work_type": "short_story",
       "publication_year": 1937,
       "genre": null,
       "adaptation_count": 1,
@@ -104,14 +104,14 @@
     "id": 304,
     "slug": "a-bride-for-henry",
     "title": "A Bride for Henry",
-    "formatted_title": "A Bride for Henry",
-    "html_title": "<span class=\"work-title\">A Bride for Henry</span>",
-    "work_type": "novel",
+    "formatted_title": "\"A Bride for Henry\"",
+    "html_title": "<span class=\"work-title short-story\">\"A Bride for Henry\"</span>",
+    "work_type": "short_story",
     "publication_year": 1937,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-18T02:20:02.803483"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

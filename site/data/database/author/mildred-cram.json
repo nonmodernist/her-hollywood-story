@@ -4,7 +4,7 @@
   "name": "Mildred Cram",
   "birth_year": 1889,
   "death_year": 1985,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American writer (1889-1985). Born in Washington, D.C.. Died in Santa Barbara. Occupations: screenwriter, writer",
   "author_notes": null,
@@ -59,8 +59,8 @@
         "Comedy-drama"
       ],
       "has_media": true,
-      "work_title": "\"Sadie of the Desert\"",
-      "work_html_title": "<span class=\"work-title\">\"Sadie of the Desert\"</span>",
+      "work_title": "Sadie of the Desert",
+      "work_html_title": "<span class=\"work-title short-story\">\"Sadie of the Desert\"</span>",
       "work_id": 122
     },
     {
@@ -76,8 +76,8 @@
         "with songs"
       ],
       "has_media": false,
-      "work_title": "\"The Feeder\"",
-      "work_html_title": "<span class=\"work-title\">\"The Feeder\"</span>",
+      "work_title": "The Feeder",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Feeder\"</span>",
       "work_id": 159
     },
     {
@@ -93,8 +93,8 @@
         "Society"
       ],
       "has_media": false,
-      "work_title": "\"Girls Together\"",
-      "work_html_title": "<span class=\"work-title\">\"Girls Together\"</span>",
+      "work_title": "Girls Together",
+      "work_html_title": "<span class=\"work-title short-story\">\"Girls Together\"</span>",
       "work_id": 166
     },
     {
@@ -142,8 +142,8 @@
         "Romance"
       ],
       "has_media": false,
-      "work_title": "\"The Beachcomber\"",
-      "work_html_title": "<span class=\"work-title\">\"The Beachcomber\"</span>",
+      "work_title": "The Beachcomber",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Beachcomber\"</span>",
       "work_id": 183
     },
     {
@@ -159,8 +159,8 @@
         "with songs"
       ],
       "has_media": false,
-      "work_title": "\"Thin Air\"",
-      "work_html_title": "<span class=\"work-title\">\"Thin Air\"</span>",
+      "work_title": "Thin Air",
+      "work_html_title": "<span class=\"work-title short-story\">\"Thin Air\"</span>",
       "work_id": 199
     },
     {
@@ -193,8 +193,8 @@
         "Military"
       ],
       "has_media": false,
-      "work_title": "short story in Red Book Magazine, possibly titled \"Wings Over Honolulu\"",
-      "work_html_title": "<span class=\"work-title\">short story in Red Book Magazine, possibly titled \"Wings Over Honolulu\"</span>",
+      "work_title": "short story in Red Book Magazine, possibly titled Wings Over Honolulu",
+      "work_html_title": "<span class=\"work-title short-story\">\"short story in Red Book Magazine, possibly titled Wings Over Honolulu\"</span>",
       "work_id": 208
     }
   ],
@@ -202,10 +202,10 @@
     {
       "id": 122,
       "slug": "sadie-of-the-desert",
-      "title": "\"Sadie of the Desert\"",
+      "title": "Sadie of the Desert",
       "formatted_title": "\"Sadie of the Desert\"",
-      "html_title": "<span class=\"work-title\">\"Sadie of the Desert\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"Sadie of the Desert\"</span>",
+      "work_type": "short_story",
       "publication_year": 1925,
       "genre": null,
       "adaptation_count": 1,
@@ -214,10 +214,10 @@
     {
       "id": 159,
       "slug": "the-feeder",
-      "title": "\"The Feeder\"",
+      "title": "The Feeder",
       "formatted_title": "\"The Feeder\"",
-      "html_title": "<span class=\"work-title\">\"The Feeder\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"The Feeder\"</span>",
+      "work_type": "short_story",
       "publication_year": 1926,
       "genre": null,
       "adaptation_count": 1,
@@ -226,10 +226,10 @@
     {
       "id": 166,
       "slug": "girls-together",
-      "title": "\"Girls Together\"",
+      "title": "Girls Together",
       "formatted_title": "\"Girls Together\"",
-      "html_title": "<span class=\"work-title\">\"Girls Together\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"Girls Together\"</span>",
+      "work_type": "short_story",
       "publication_year": 1931,
       "genre": null,
       "adaptation_count": 1,
@@ -262,10 +262,10 @@
     {
       "id": 183,
       "slug": "the-beachcomber",
-      "title": "\"The Beachcomber\"",
+      "title": "The Beachcomber",
       "formatted_title": "\"The Beachcomber\"",
-      "html_title": "<span class=\"work-title\">\"The Beachcomber\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"The Beachcomber\"</span>",
+      "work_type": "short_story",
       "publication_year": 1932,
       "genre": null,
       "adaptation_count": 1,
@@ -274,10 +274,10 @@
     {
       "id": 199,
       "slug": "thin-air",
-      "title": "\"Thin Air\"",
+      "title": "Thin Air",
       "formatted_title": "\"Thin Air\"",
-      "html_title": "<span class=\"work-title\">\"Thin Air\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"Thin Air\"</span>",
+      "work_type": "short_story",
       "publication_year": 1934,
       "genre": null,
       "adaptation_count": 1,
@@ -298,10 +298,10 @@
     {
       "id": 208,
       "slug": "short-story-in-red-book-magazine-possibly-titled-wings-over-honolulu",
-      "title": "short story in Red Book Magazine, possibly titled \"Wings Over Honolulu\"",
-      "formatted_title": "short story in Red Book Magazine, possibly titled \"Wings Over Honolulu\"",
-      "html_title": "<span class=\"work-title\">short story in Red Book Magazine, possibly titled \"Wings Over Honolulu\"</span>",
-      "work_type": "novel",
+      "title": "short story in Red Book Magazine, possibly titled Wings Over Honolulu",
+      "formatted_title": "\"short story in Red Book Magazine, possibly titled Wings Over Honolulu\"",
+      "html_title": "<span class=\"work-title short-story\">\"short story in Red Book Magazine, possibly titled Wings Over Honolulu\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -311,15 +311,15 @@
   "most_adapted_work": {
     "id": 122,
     "slug": "sadie-of-the-desert",
-    "title": "\"Sadie of the Desert\"",
+    "title": "Sadie of the Desert",
     "formatted_title": "\"Sadie of the Desert\"",
-    "html_title": "<span class=\"work-title\">\"Sadie of the Desert\"</span>",
-    "work_type": "novel",
+    "html_title": "<span class=\"work-title short-story\">\"Sadie of the Desert\"</span>",
+    "work_type": "short_story",
     "publication_year": 1925,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T16:37:34.492846"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

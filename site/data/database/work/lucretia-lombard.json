@@ -1,11 +1,11 @@
 {
-  "id": 751,
-  "slug": "manhattan-love",
-  "title": "Manhattan Love",
-  "formatted_title": "Manhattan Love",
-  "html_title": "<span class=\"work-title\">Manhattan Love</span>",
+  "id": 746,
+  "slug": "lucretia-lombard",
+  "title": "Lucretia Lombard",
+  "formatted_title": "Lucretia Lombard",
+  "html_title": "<span class=\"work-title\">Lucretia Lombard</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1922,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,26 +25,25 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
   "adaptations": [
     {
-      "id": 842,
-      "slug": "change-of-heart-1934",
-      "title": "Change of Heart",
-      "html_title": "<span class=\"film-title\">Change of Heart</span>",
-      "year": 1934,
-      "studio": "Fox Film",
-      "directors": "John G. Blystone",
+      "id": 836,
+      "slug": "lucretia-lombard-1923",
+      "title": "Lucretia Lombard",
+      "html_title": "<span class=\"film-title\">Lucretia Lombard</span>",
+      "year": 1923,
+      "studio": "Warner Bros",
+      "directors": "Jack Conway",
       "genres": [
-        "Drama",
-        "Romance"
+        "Melodrama"
       ],
       "has_media": false,
-      "years_after_publication": 1934
+      "years_after_publication": 1
     }
   ],
   "adaptation_gaps": [],
@@ -56,5 +55,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-09T15:08:53.006928"
+  "last_updated": "2025-07-21T17:39:30.350666"
 }

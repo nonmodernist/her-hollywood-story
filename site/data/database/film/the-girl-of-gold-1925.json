@@ -24,15 +24,15 @@
     "id": 398,
     "slug": "the-girl-of-gold",
     "title": "The Girl of Gold",
-    "formatted_title": "The Girl of Gold",
-    "html_title": "<span class=\"work-title\">The Girl of Gold</span>",
-    "work_type": "novel",
-    "publication_year": 1920,
+    "formatted_title": "\"The Girl of Gold\"",
+    "html_title": "<span class=\"work-title short-story\">\"The Girl of Gold\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1919,
     "genre": null,
     "plot_summary": null,
     "literary_significance": null,
     "adaptation_count": 1,
-    "year_to_adaptation": 5
+    "year_to_adaptation": 6
   },
   "author": {
     "id": 166,
@@ -40,7 +40,7 @@
     "name": "Anna Alice Chapin",
     "birth_year": 1880,
     "death_year": 1920,
-    "nationality": "United States",
+    "nationality": "American",
     "film_count": 3
   },
   "other_adaptations": [],

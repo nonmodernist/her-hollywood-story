@@ -1,10 +1,10 @@
 {
   "id": 102,
   "slug": "empty-hearts",
-  "title": "\"Empty Hearts\"",
+  "title": "Empty Hearts",
   "formatted_title": "\"Empty Hearts\"",
-  "html_title": "<span class=\"work-title\">\"Empty Hearts\"</span>",
-  "work_type": "novel",
+  "html_title": "<span class=\"work-title short-story\">\"Empty Hearts\"</span>",
+  "work_type": "short_story",
   "publication_year": 1924,
   "genre": null,
   "plot_summary": null,
@@ -50,11 +50,11 @@
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
+    "magazine_title": "Metropolitan",
     "pub_date": null,
-    "issue_info": null,
+    "issue_info": "Sep 1924-Oct 1924",
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-06-20T22:09:54.416149"
+  "last_updated": "2025-07-21T17:39:30.350666"
 }

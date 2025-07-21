@@ -2,10 +2,10 @@
   "id": 946,
   "slug": "cherokee-rose",
   "title": "Cherokee Rose",
-  "formatted_title": "Cherokee Rose",
-  "html_title": "<span class=\"work-title\">Cherokee Rose</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "formatted_title": "\"Cherokee Rose\"",
+  "html_title": "<span class=\"work-title short-story\">\"Cherokee Rose\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1925,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,17 +43,17 @@
         "Western"
       ],
       "has_media": false,
-      "years_after_publication": 1927
+      "years_after_publication": 2
     }
   ],
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
+    "magazine_title": "Ranch Romances",
+    "pub_date": "1925-02-01",
+    "issue_info": "Feb 1925",
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-16T19:56:22.889605"
+  "last_updated": "2025-07-21T18:29:57.595755"
 }

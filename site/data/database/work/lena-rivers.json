@@ -5,7 +5,7 @@
   "formatted_title": "Lena Rivers",
   "html_title": "<span class=\"work-title\">Lena Rivers</span>",
   "work_type": "novel",
-  "publication_year": 1869,
+  "publication_year": 1856,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 41,
+    "speed_demon_delay": 54,
     "is_remake_champion": true,
     "remake_champion_rank": 2
   },
@@ -43,7 +43,7 @@
         "Melodrama"
       ],
       "has_media": false,
-      "years_after_publication": 41
+      "years_after_publication": 54
     },
     {
       "id": 646,
@@ -57,7 +57,7 @@
         "Melodrama"
       ],
       "has_media": false,
-      "years_after_publication": 45
+      "years_after_publication": 58
     },
     {
       "id": 647,
@@ -72,7 +72,7 @@
         "Comedy"
       ],
       "has_media": false,
-      "years_after_publication": 45
+      "years_after_publication": 58
     },
     {
       "id": 648,
@@ -86,7 +86,7 @@
         "Melodrama"
       ],
       "has_media": false,
-      "years_after_publication": 56
+      "years_after_publication": 69
     },
     {
       "id": 649,
@@ -102,7 +102,7 @@
         "Rural"
       ],
       "has_media": true,
-      "years_after_publication": 63
+      "years_after_publication": 76
     }
   ],
   "adaptation_gaps": [
@@ -135,5 +135,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-09T14:15:18.698239"
+  "last_updated": "2025-07-21T17:39:30.350666"
 }

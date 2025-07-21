@@ -4,7 +4,7 @@
   "name": "Martha Albrand",
   "birth_year": 1914,
   "death_year": 1981,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "German-American novelist. Born in Rostock. Died in New York City. Occupations: writer, novelist, journalist",
   "author_notes": "pseud of Heidi Huberta Freybe Loewengard",
@@ -47,20 +47,20 @@
         "Postwar life"
       ],
       "has_media": false,
-      "work_title": "After Midnight",
-      "work_html_title": "<span class=\"work-title\">After Midnight</span>",
+      "work_title": "No Surrender",
+      "work_html_title": "<span class=\"work-title\">No Surrender</span>",
       "work_id": 284
     }
   ],
   "adapted_works": [
     {
       "id": 284,
-      "slug": "after-midnight",
-      "title": "After Midnight",
-      "formatted_title": "After Midnight",
-      "html_title": "<span class=\"work-title\">After Midnight</span>",
+      "slug": "no-surrender",
+      "title": "No Surrender",
+      "formatted_title": "No Surrender",
+      "html_title": "<span class=\"work-title\">No Surrender</span>",
       "work_type": "novel",
-      "publication_year": 1948,
+      "publication_year": 1942,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -68,16 +68,16 @@
   ],
   "most_adapted_work": {
     "id": 284,
-    "slug": "after-midnight",
-    "title": "After Midnight",
-    "formatted_title": "After Midnight",
-    "html_title": "<span class=\"work-title\">After Midnight</span>",
+    "slug": "no-surrender",
+    "title": "No Surrender",
+    "formatted_title": "No Surrender",
+    "html_title": "<span class=\"work-title\">No Surrender</span>",
     "work_type": "novel",
-    "publication_year": 1948,
+    "publication_year": 1942,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-20T17:52:35.616693"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

@@ -1,10 +1,10 @@
 {
   "id": 300,
   "slug": "where-the-heart-lies",
-  "title": "\"Where the Heart Lies\"",
+  "title": "Where the Heart Lies",
   "formatted_title": "\"Where the Heart Lies\"",
-  "html_title": "<span class=\"work-title\">\"Where the Heart Lies\"</span>",
-  "work_type": "novel",
+  "html_title": "<span class=\"work-title short-story\">\"Where the Heart Lies\"</span>",
+  "work_type": "short_story",
   "publication_year": 1922,
   "genre": null,
   "plot_summary": null,
@@ -49,11 +49,11 @@
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
-    "parts": null
+    "magazine_title": "Success Magazine",
+    "pub_date": "1922-02-01",
+    "issue_info": "Feb-Mar 1922",
+    "parts": 2
   },
   "has_narrative": false,
-  "last_updated": "2025-06-20T23:47:12.671221"
+  "last_updated": "2025-07-21T18:17:32.022095"
 }

@@ -2,10 +2,10 @@
   "id": 825,
   "slug": "acquitted",
   "title": "Acquitted",
-  "formatted_title": "Acquitted",
-  "html_title": "<span class=\"work-title\">Acquitted</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "formatted_title": "\"Acquitted\"",
+  "html_title": "<span class=\"work-title short-story\">\"Acquitted\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1907,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 9,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,17 +44,17 @@
         "Crime"
       ],
       "has_media": false,
-      "years_after_publication": 1916
+      "years_after_publication": 9
     }
   ],
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
+    "magazine_title": "Pearson's",
+    "pub_date": "1907-02-01",
+    "issue_info": "Feb 1907",
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-11T15:42:10.41529"
+  "last_updated": "2025-07-21T18:28:43.803304"
 }

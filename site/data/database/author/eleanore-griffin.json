@@ -4,7 +4,7 @@
   "name": "Eleanore Griffin",
   "birth_year": 1904,
   "death_year": 1995,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American screenwriter (1904-1995). Born in Saint Paul. Died in Woodland Hills. Occupations: screenwriter",
   "author_notes": null,
@@ -48,7 +48,7 @@
       ],
       "has_media": false,
       "work_title": "Class Prophecy",
-      "work_html_title": "<span class=\"work-title\">Class Prophecy</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Class Prophecy\"</span>",
       "work_id": 541
     }
   ],
@@ -57,10 +57,10 @@
       "id": 541,
       "slug": "class-prophecy",
       "title": "Class Prophecy",
-      "formatted_title": "Class Prophecy",
-      "html_title": "<span class=\"work-title\">Class Prophecy</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"Class Prophecy\"",
+      "html_title": "<span class=\"work-title short-story\">\"Class Prophecy\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1935,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -70,14 +70,14 @@
     "id": 541,
     "slug": "class-prophecy",
     "title": "Class Prophecy",
-    "formatted_title": "Class Prophecy",
-    "html_title": "<span class=\"work-title\">Class Prophecy</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "formatted_title": "\"Class Prophecy\"",
+    "html_title": "<span class=\"work-title short-story\">\"Class Prophecy\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1935,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-04T03:29:28.265818"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

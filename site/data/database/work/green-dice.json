@@ -2,9 +2,9 @@
   "id": 371,
   "slug": "green-dice",
   "title": "Green Dice",
-  "formatted_title": "Green Dice",
-  "html_title": "<span class=\"work-title\">Green Dice</span>",
-  "work_type": "novel",
+  "formatted_title": "\"Green Dice\"",
+  "html_title": "<span class=\"work-title short-story\">\"Green Dice\"</span>",
+  "work_type": "short_story",
   "publication_year": 1926,
   "genre": null,
   "plot_summary": null,
@@ -50,11 +50,11 @@
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
+    "magazine_title": "Saturday Evening Post",
+    "pub_date": "1926-09-19",
     "issue_info": null,
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-06-21T00:06:33.267955"
+  "last_updated": "2025-07-21T18:17:32.022095"
 }

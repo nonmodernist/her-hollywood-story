@@ -23,15 +23,15 @@
     "id": 1001,
     "slug": "the-babys-had-a-hard-day",
     "title": "The Baby's had a Hard Day",
-    "formatted_title": "The Baby's had a Hard Day",
-    "html_title": "<span class=\"work-title\">The Baby's had a Hard Day</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "formatted_title": "\"The Baby's had a Hard Day\"",
+    "html_title": "<span class=\"work-title short-story\">\"The Baby's had a Hard Day\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1940,
     "genre": null,
     "plot_summary": null,
     "literary_significance": null,
     "adaptation_count": 1,
-    "year_to_adaptation": 1941
+    "year_to_adaptation": 1
   },
   "author": {
     "id": 506,
@@ -39,7 +39,7 @@
     "name": "Anne Wormser",
     "birth_year": null,
     "death_year": null,
-    "nationality": null,
+    "nationality": "American",
     "film_count": 1
   },
   "other_adaptations": [],

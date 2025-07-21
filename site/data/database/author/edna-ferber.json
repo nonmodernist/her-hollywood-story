@@ -4,7 +4,7 @@
   "name": "Edna Ferber",
   "birth_year": 1885,
   "death_year": 1968,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American novelist, short story writer and playwright (1885–1968). Born in Kalamazoo. Occupations: journalist, short story writer, screenwriter, writer, playwright, novelist, poet. Notable works: Saratoga Trunk, Personality Plus, Show Boat, Cimarron, So Big",
   "author_notes": null,
@@ -80,7 +80,7 @@
       ],
       "has_media": true,
       "work_title": "The Gay Old Dog",
-      "work_html_title": "<span class=\"work-title\">The Gay Old Dog</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Gay Old Dog\"</span>",
       "work_id": 485
     },
     {
@@ -128,7 +128,7 @@
       ],
       "has_media": true,
       "work_title": "Classified",
-      "work_html_title": "<span class=\"work-title\">Classified</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Classified\"</span>",
       "work_id": 481
     },
     {
@@ -177,7 +177,7 @@
       ],
       "has_media": false,
       "work_title": "Mother Knows Best",
-      "work_html_title": "<span class=\"work-title\">Mother Knows Best</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Mother Knows Best\"</span>",
       "work_id": 489
     },
     {
@@ -193,7 +193,7 @@
       ],
       "has_media": true,
       "work_title": "Classified",
-      "work_html_title": "<span class=\"work-title\">Classified</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Classified\"</span>",
       "work_id": 481
     },
     {
@@ -260,7 +260,7 @@
       "genres": [],
       "has_media": false,
       "work_title": "Not A Day Over Twenty-One",
-      "work_html_title": "<span class=\"work-title\">Not A Day Over Twenty-One</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Not A Day Over Twenty-One\"</span>",
       "work_id": 490
     },
     {
@@ -294,7 +294,7 @@
       ],
       "has_media": false,
       "work_title": "Glamour",
-      "work_html_title": "<span class=\"work-title\">Glamour</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Glamour\"</span>",
       "work_id": 487
     },
     {
@@ -495,10 +495,10 @@
       "id": 481,
       "slug": "classified",
       "title": "Classified",
-      "formatted_title": "Classified",
-      "html_title": "<span class=\"work-title\">Classified</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"Classified\"",
+      "html_title": "<span class=\"work-title short-story\">\"Classified\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1927,
       "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
@@ -521,7 +521,7 @@
       "title": "Emma McChesney & Co.",
       "formatted_title": "Emma McChesney & Co.",
       "html_title": "<span class=\"work-title\">Emma McChesney & Co.</span>",
-      "work_type": "novel",
+      "work_type": "collection",
       "publication_year": 1915,
       "genre": null,
       "adaptation_count": 1,
@@ -531,10 +531,10 @@
       "id": 485,
       "slug": "the-gay-old-dog",
       "title": "The Gay Old Dog",
-      "formatted_title": "The Gay Old Dog",
-      "html_title": "<span class=\"work-title\">The Gay Old Dog</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"The Gay Old Dog\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Gay Old Dog\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1917,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -567,9 +567,9 @@
       "id": 489,
       "slug": "mother-knows-best",
       "title": "Mother Knows Best",
-      "formatted_title": "Mother Knows Best",
-      "html_title": "<span class=\"work-title\">Mother Knows Best</span>",
-      "work_type": "novel",
+      "formatted_title": "\"Mother Knows Best\"",
+      "html_title": "<span class=\"work-title short-story\">\"Mother Knows Best\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -579,9 +579,9 @@
       "id": 490,
       "slug": "not-a-day-over-twenty-one",
       "title": "Not A Day Over Twenty-One",
-      "formatted_title": "Not A Day Over Twenty-One",
-      "html_title": "<span class=\"work-title\">Not A Day Over Twenty-One</span>",
-      "work_type": "novel",
+      "formatted_title": "\"Not A Day Over Twenty-One\"",
+      "html_title": "<span class=\"work-title short-story\">\"Not A Day Over Twenty-One\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -591,10 +591,10 @@
       "id": 487,
       "slug": "glamour",
       "title": "Glamour",
-      "formatted_title": "Glamour",
-      "html_title": "<span class=\"work-title\">Glamour</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"Glamour\"",
+      "html_title": "<span class=\"work-title short-story\">\"Glamour\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1932,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -642,7 +642,7 @@
       "formatted_title": "Ice Palace",
       "html_title": "<span class=\"work-title\">Ice Palace</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1958,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -661,5 +661,5 @@
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T16:37:22.887241"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

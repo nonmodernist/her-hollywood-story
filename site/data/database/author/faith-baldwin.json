@@ -4,7 +4,7 @@
   "name": "Faith Baldwin",
   "birth_year": 1893,
   "death_year": 1978,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American author of romance and fiction. Born in New Rochelle. Died in Norwalk. Occupations: novelist, writer",
   "author_notes": null,
@@ -91,7 +91,7 @@
       "genres": [],
       "has_media": false,
       "work_title": "Rosalie's Career",
-      "work_html_title": "<span class=\"work-title\">Rosalie's Career</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Rosalie's Career\"</span>",
       "work_id": 292
     },
     {
@@ -139,8 +139,8 @@
         "Comedy-drama"
       ],
       "has_media": false,
-      "work_title": "\"Wife vs. Secretary\"",
-      "work_html_title": "<span class=\"work-title\">\"Wife vs. Secretary\"</span>",
+      "work_title": "Wife vs. Secretary",
+      "work_html_title": "<span class=\"work-title short-story\">\"Wife vs. Secretary\"</span>",
       "work_id": 197
     },
     {
@@ -156,8 +156,8 @@
         "Crime"
       ],
       "has_media": false,
-      "work_title": "\"August Week-end\"",
-      "work_html_title": "<span class=\"work-title\">\"August Week-end\"</span>",
+      "work_title": "August Week-end",
+      "work_html_title": "<span class=\"work-title short-story\">\"August Week-end\"</span>",
       "work_id": 204
     },
     {
@@ -172,8 +172,8 @@
         "Romantic comedy"
       ],
       "has_media": true,
-      "work_title": "\"Spinster Dinner\"",
-      "work_html_title": "<span class=\"work-title\">\"Spinster Dinner\"</span>",
+      "work_title": "Spinster Dinner",
+      "work_html_title": "<span class=\"work-title short-story\">\"Spinster Dinner\"</span>",
       "work_id": 202
     },
     {
@@ -206,7 +206,7 @@
       ],
       "has_media": false,
       "work_title": "Portia on Trial",
-      "work_html_title": "<span class=\"work-title\">Portia on Trial</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Portia on Trial\"</span>",
       "work_id": 291
     },
     {
@@ -222,7 +222,7 @@
       ],
       "has_media": false,
       "work_title": "Comet Over Broadway",
-      "work_html_title": "<span class=\"work-title\">Comet Over Broadway</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Comet Over Broadway\"</span>",
       "work_id": 210
     },
     {
@@ -273,7 +273,7 @@
       ],
       "has_media": false,
       "work_title": "a story",
-      "work_html_title": "<span class=\"work-title\">a story</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"a story\"</span>",
       "work_id": 456
     },
     {
@@ -289,8 +289,8 @@
         "Religious"
       ],
       "has_media": false,
-      "work_title": "\"Second Chance\"",
-      "work_html_title": "<span class=\"work-title\">\"Second Chance\"</span>",
+      "work_title": "Second Chance",
+      "work_html_title": "<span class=\"work-title short-story\">\"Second Chance\"</span>",
       "work_id": 255
     },
     {
@@ -307,7 +307,7 @@
       ],
       "has_media": true,
       "work_title": "The Gossamer World",
-      "work_html_title": "<span class=\"work-title\">The Gossamer World</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Gossamer World\"</span>",
       "work_id": 290
     }
   ],
@@ -340,9 +340,9 @@
       "id": 292,
       "slug": "rosalies-career",
       "title": "Rosalie's Career",
-      "formatted_title": "Rosalie's Career",
-      "html_title": "<span class=\"work-title\">Rosalie's Career</span>",
-      "work_type": "novel",
+      "formatted_title": "\"Rosalie's Career\"",
+      "html_title": "<span class=\"work-title short-story\">\"Rosalie's Career\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -375,10 +375,10 @@
     {
       "id": 197,
       "slug": "wife-vs-secretary",
-      "title": "\"Wife vs. Secretary\"",
+      "title": "Wife vs. Secretary",
       "formatted_title": "\"Wife vs. Secretary\"",
-      "html_title": "<span class=\"work-title\">\"Wife vs. Secretary\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"Wife vs. Secretary\"</span>",
+      "work_type": "short_story",
       "publication_year": 1935,
       "genre": null,
       "adaptation_count": 1,
@@ -387,10 +387,10 @@
     {
       "id": 204,
       "slug": "august-week-end",
-      "title": "\"August Week-end\"",
+      "title": "August Week-end",
       "formatted_title": "\"August Week-end\"",
-      "html_title": "<span class=\"work-title\">\"August Week-end\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"August Week-end\"</span>",
+      "work_type": "short_story",
       "publication_year": 1933,
       "genre": null,
       "adaptation_count": 1,
@@ -399,10 +399,10 @@
     {
       "id": 202,
       "slug": "spinster-dinner",
-      "title": "\"Spinster Dinner\"",
+      "title": "Spinster Dinner",
       "formatted_title": "\"Spinster Dinner\"",
-      "html_title": "<span class=\"work-title\">\"Spinster Dinner\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"Spinster Dinner\"</span>",
+      "work_type": "short_story",
       "publication_year": 1934,
       "genre": null,
       "adaptation_count": 1,
@@ -424,9 +424,9 @@
       "id": 291,
       "slug": "portia-on-trial",
       "title": "Portia on Trial",
-      "formatted_title": "Portia on Trial",
-      "html_title": "<span class=\"work-title\">Portia on Trial</span>",
-      "work_type": "novel",
+      "formatted_title": "\"Portia on Trial\"",
+      "html_title": "<span class=\"work-title short-story\">\"Portia on Trial\"</span>",
+      "work_type": "short_story",
       "publication_year": 1937,
       "genre": null,
       "adaptation_count": 1,
@@ -436,10 +436,10 @@
       "id": 210,
       "slug": "comet-over-broadway",
       "title": "Comet Over Broadway",
-      "formatted_title": "Comet Over Broadway",
-      "html_title": "<span class=\"work-title\">Comet Over Broadway</span>",
-      "work_type": "novel",
-      "publication_year": 1938,
+      "formatted_title": "\"Comet Over Broadway\"",
+      "html_title": "<span class=\"work-title short-story\">\"Comet Over Broadway\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1937,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -462,7 +462,7 @@
       "title": "An Apartment for Jenny",
       "formatted_title": "An Apartment for Jenny",
       "html_title": "<span class=\"work-title\">An Apartment for Jenny</span>",
-      "work_type": "novel",
+      "work_type": "novella",
       "publication_year": 1947,
       "genre": null,
       "adaptation_count": 1,
@@ -472,9 +472,9 @@
       "id": 456,
       "slug": "a-story",
       "title": "a story",
-      "formatted_title": "a story",
-      "html_title": "<span class=\"work-title\">a story</span>",
-      "work_type": "novel",
+      "formatted_title": "\"a story\"",
+      "html_title": "<span class=\"work-title short-story\">\"a story\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -483,10 +483,10 @@
     {
       "id": 255,
       "slug": "second-chance",
-      "title": "\"Second Chance\"",
+      "title": "Second Chance",
       "formatted_title": "\"Second Chance\"",
-      "html_title": "<span class=\"work-title\">\"Second Chance\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"Second Chance\"</span>",
+      "work_type": "short_story",
       "publication_year": 1948,
       "genre": null,
       "adaptation_count": 1,
@@ -496,9 +496,9 @@
       "id": 290,
       "slug": "the-gossamer-world",
       "title": "The Gossamer World",
-      "formatted_title": "The Gossamer World",
-      "html_title": "<span class=\"work-title\">The Gossamer World</span>",
-      "work_type": "novel",
+      "formatted_title": "\"The Gossamer World\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Gossamer World\"</span>",
+      "work_type": "short_story",
       "publication_year": 1948,
       "genre": null,
       "adaptation_count": 1,
@@ -518,5 +518,5 @@
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T16:37:46.358561"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

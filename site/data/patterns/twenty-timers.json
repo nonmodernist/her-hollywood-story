@@ -28,9 +28,9 @@
         },
         {
           "id": 220,
-          "title": "Miss Pinkerton",
-          "formatted_title": "Miss Pinkerton",
-          "html_title": "<span class=\"work-title\">Miss Pinkerton</span>",
+          "title": "Miss Pinkerton: Adventures of a Nurse Detective",
+          "formatted_title": "Miss Pinkerton: Adventures of a Nurse Detective",
+          "html_title": "<span class=\"work-title\">Miss Pinkerton: Adventures of a Nurse Detective</span>",
           "adaptationCount": 2
         },
         {
@@ -43,15 +43,15 @@
         {
           "id": 842,
           "title": "Twenty-Three and a Half Hours' Leave",
-          "formatted_title": "Twenty-Three and a Half Hours' Leave",
-          "html_title": "<span class=\"work-title\">Twenty-Three and a Half Hours' Leave</span>",
+          "formatted_title": "\"Twenty-Three and a Half Hours' Leave\"",
+          "html_title": "<span class=\"work-title short-story\">\"Twenty-Three and a Half Hours' Leave\"</span>",
           "adaptationCount": 2
         },
         {
           "id": 843,
           "title": "What Happened to Father",
-          "formatted_title": "What Happened to Father",
-          "html_title": "<span class=\"work-title\">What Happened to Father</span>",
+          "formatted_title": "\"What Happened to Father\"",
+          "html_title": "<span class=\"work-title short-story\">\"What Happened to Father\"</span>",
           "adaptationCount": 2
         }
       ],
@@ -177,23 +177,23 @@
         },
         {
           "id": 213,
-          "title": "\"Sister Act\"",
+          "title": "Sister Act",
           "formatted_title": "\"Sister Act\"",
-          "html_title": "<span class=\"work-title\">\"Sister Act\"</span>",
+          "html_title": "<span class=\"work-title short-story\">\"Sister Act\"</span>",
           "adaptationCount": 4
         },
         {
           "id": 60,
           "title": "Humoresque",
-          "formatted_title": "Humoresque",
-          "html_title": "<span class=\"work-title\">Humoresque</span>",
+          "formatted_title": "\"Humoresque\"",
+          "html_title": "<span class=\"work-title short-story\">\"Humoresque\"</span>",
           "adaptationCount": 2
         },
         {
           "id": 87,
-          "title": "\"Back Pay\"",
+          "title": "Back Pay",
           "formatted_title": "\"Back Pay\"",
-          "html_title": "<span class=\"work-title\">\"Back Pay\"</span>",
+          "html_title": "<span class=\"work-title short-story\">\"Back Pay\"</span>",
           "adaptationCount": 2
         },
         {
@@ -347,8 +347,8 @@
         {
           "id": 481,
           "title": "Classified",
-          "formatted_title": "Classified",
-          "html_title": "<span class=\"work-title\">Classified</span>",
+          "formatted_title": "\"Classified\"",
+          "html_title": "<span class=\"work-title short-story\">\"Classified\"</span>",
           "adaptationCount": 2
         }
       ],
@@ -790,7 +790,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-07-20T04:34:05.546Z",
+    "generated": "2025-07-21T21:42:14.456Z",
     "version": "2.0"
   }
 }

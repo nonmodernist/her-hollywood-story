@@ -5,7 +5,7 @@
   "formatted_title": "The Patient in Room 18",
   "html_title": "<span class=\"work-title\">The Patient in Room 18</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1930,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": 3
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 5,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,7 +43,7 @@
         "Mystery"
       ],
       "has_media": false,
-      "years_after_publication": 1935
+      "years_after_publication": 5
     },
     {
       "id": 534,
@@ -58,7 +58,7 @@
         "Medical"
       ],
       "has_media": false,
-      "years_after_publication": 1938
+      "years_after_publication": 8
     }
   ],
   "adaptation_gaps": [
@@ -76,5 +76,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-06-24T13:52:38.20728"
+  "last_updated": "2025-07-21T17:39:30.350666"
 }

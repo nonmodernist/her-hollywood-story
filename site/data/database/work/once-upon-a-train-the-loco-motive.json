@@ -1,10 +1,10 @@
 {
   "id": 260,
   "slug": "once-upon-a-train-the-loco-motive",
-  "title": "\"Once Upon a Train (The Loco Motive)\"",
+  "title": "Once Upon a Train (The Loco Motive)",
   "formatted_title": "\"Once Upon a Train (The Loco Motive)\"",
-  "html_title": "<span class=\"work-title\">\"Once Upon a Train (The Loco Motive)\"</span>",
-  "work_type": "novel",
+  "html_title": "<span class=\"work-title short-story\">\"Once Upon a Train (The Loco Motive)\"</span>",
+  "work_type": "short_story",
   "publication_year": 1950,
   "genre": null,
   "plot_summary": null,
@@ -50,11 +50,11 @@
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
+    "magazine_title": "Ellery Queen's Mystery Magazine",
+    "pub_date": "1950-10-01",
+    "issue_info": "Oct 1950",
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-06-20T23:22:39.681606"
+  "last_updated": "2025-07-21T18:17:32.022095"
 }

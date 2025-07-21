@@ -5,7 +5,7 @@
   "formatted_title": "Foxfire",
   "html_title": "<span class=\"work-title\">Foxfire</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1951,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 4,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,7 +44,7 @@
         "Social"
       ],
       "has_media": false,
-      "years_after_publication": 1955
+      "years_after_publication": 4
     }
   ],
   "adaptation_gaps": [],
@@ -56,5 +56,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-16T15:00:33.151891"
+  "last_updated": "2025-07-21T19:08:36.050589"
 }

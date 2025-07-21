@@ -4,7 +4,7 @@
   "name": "Myrtle Reed",
   "birth_year": 1874,
   "death_year": 1911,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American novelist and poet (1874-1911). Born in Chicago. Died in Chicago. Occupations: author, novelist, journalist, writer. Notable works: Lavender and Old Lace",
   "author_notes": null,
@@ -99,8 +99,8 @@
         "Comedy"
       ],
       "has_media": false,
-      "work_title": "At the Sign of the Jack 0'Lantern",
-      "work_html_title": "<span class=\"work-title\">At the Sign of the Jack 0'Lantern</span>",
+      "work_title": "At the Sign of the Jack O'Lantern",
+      "work_html_title": "<span class=\"work-title\">At the Sign of the Jack O'Lantern</span>",
       "work_id": 812
     },
     {
@@ -159,12 +159,12 @@
     },
     {
       "id": 812,
-      "slug": "at-the-sign-of-the-jack-0lantern",
-      "title": "At the Sign of the Jack 0'Lantern",
-      "formatted_title": "At the Sign of the Jack 0'Lantern",
-      "html_title": "<span class=\"work-title\">At the Sign of the Jack 0'Lantern</span>",
+      "slug": "at-the-sign-of-the-jack-olantern",
+      "title": "At the Sign of the Jack O'Lantern",
+      "formatted_title": "At the Sign of the Jack O'Lantern",
+      "html_title": "<span class=\"work-title\">At the Sign of the Jack O'Lantern</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1905,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -195,5 +195,5 @@
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-16T02:25:32.390001"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

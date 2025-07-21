@@ -2,10 +2,10 @@
   "id": 834,
   "slug": "in-the-pavilion",
   "title": "In the Pavilion",
-  "formatted_title": "In the Pavilion",
-  "html_title": "<span class=\"work-title\">In the Pavilion</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "formatted_title": "\"In the Pavilion\"",
+  "html_title": "<span class=\"work-title short-story\">\"In the Pavilion\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1919,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 3,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,7 +43,7 @@
         "Comedy-drama"
       ],
       "has_media": false,
-      "years_after_publication": 1922
+      "years_after_publication": 3
     }
   ],
   "adaptation_gaps": [],
@@ -55,5 +55,5 @@
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-11T15:42:10.41529"
+  "last_updated": "2025-07-21T17:39:30.350666"
 }

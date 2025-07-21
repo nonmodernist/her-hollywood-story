@@ -2,9 +2,9 @@
   "id": 1014,
   "slug": "seven-days",
   "title": "Seven Days",
-  "formatted_title": "Seven Days",
-  "html_title": "<span class=\"work-title\">Seven Days</span>",
-  "work_type": "novella",
+  "formatted_title": "\"Seven Days\"",
+  "html_title": "<span class=\"work-title short-story\">\"Seven Days\"</span>",
+  "work_type": "short_story",
   "publication_year": 1908,
   "genre": null,
   "plot_summary": null,
@@ -56,9 +56,9 @@
   "serialization": {
     "magazine_title": "Lippincott's Monthly Magazine",
     "pub_date": "1908-12-01",
-    "issue_info": null,
+    "issue_info": "Dec 1908",
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-18T17:22:56.018031"
+  "last_updated": "2025-07-21T18:17:32.022095"
 }

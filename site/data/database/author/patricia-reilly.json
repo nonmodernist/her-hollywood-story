@@ -4,7 +4,7 @@
   "name": "Patricia Reilly",
   "birth_year": null,
   "death_year": null,
-  "nationality": null,
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": null,
   "author_notes": null,
@@ -43,7 +43,7 @@
       ],
       "has_media": false,
       "work_title": "Big Business Girl",
-      "work_html_title": "<span class=\"work-title\">Big Business Girl</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Big Business Girl\"</span>",
       "work_id": 818
     }
   ],
@@ -52,9 +52,9 @@
       "id": 818,
       "slug": "big-business-girl",
       "title": "Big Business Girl",
-      "formatted_title": "Big Business Girl",
-      "html_title": "<span class=\"work-title\">Big Business Girl</span>",
-      "work_type": "novel",
+      "formatted_title": "\"Big Business Girl\"",
+      "html_title": "<span class=\"work-title short-story\">\"Big Business Girl\"</span>",
+      "work_type": "short_story",
       "publication_year": 1930,
       "genre": null,
       "adaptation_count": 1,
@@ -65,14 +65,14 @@
     "id": 818,
     "slug": "big-business-girl",
     "title": "Big Business Girl",
-    "formatted_title": "Big Business Girl",
-    "html_title": "<span class=\"work-title\">Big Business Girl</span>",
-    "work_type": "novel",
+    "formatted_title": "\"Big Business Girl\"",
+    "html_title": "<span class=\"work-title short-story\">\"Big Business Girl\"</span>",
+    "work_type": "short_story",
     "publication_year": 1930,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-16T02:44:26.763369"
+  "last_updated": "2025-07-20T01:13:32.47483"
 }

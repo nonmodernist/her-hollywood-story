@@ -4,7 +4,7 @@
   "name": "Anne Cameron",
   "birth_year": null,
   "death_year": null,
-  "nationality": null,
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": null,
   "author_notes": null,
@@ -48,7 +48,7 @@
       ],
       "has_media": false,
       "work_title": "Green Dice",
-      "work_html_title": "<span class=\"work-title\">Green Dice</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Green Dice\"</span>",
       "work_id": 371
     }
   ],
@@ -57,9 +57,9 @@
       "id": 371,
       "slug": "green-dice",
       "title": "Green Dice",
-      "formatted_title": "Green Dice",
-      "html_title": "<span class=\"work-title\">Green Dice</span>",
-      "work_type": "novel",
+      "formatted_title": "\"Green Dice\"",
+      "html_title": "<span class=\"work-title short-story\">\"Green Dice\"</span>",
+      "work_type": "short_story",
       "publication_year": 1926,
       "genre": null,
       "adaptation_count": 1,
@@ -70,14 +70,14 @@
     "id": 371,
     "slug": "green-dice",
     "title": "Green Dice",
-    "formatted_title": "Green Dice",
-    "html_title": "<span class=\"work-title\">Green Dice</span>",
-    "work_type": "novel",
+    "formatted_title": "\"Green Dice\"",
+    "html_title": "<span class=\"work-title short-story\">\"Green Dice\"</span>",
+    "work_type": "short_story",
     "publication_year": 1926,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-23T03:47:50.882438"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

@@ -4,7 +4,7 @@
   "name": "Gladys Atwater",
   "birth_year": 1899,
   "death_year": 1988,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American screenwriter. Born in Oakland. Occupations: screenwriter, writer",
   "author_notes": null,
@@ -48,7 +48,7 @@
       ],
       "has_media": false,
       "work_title": "Cry Copper",
-      "work_html_title": "<span class=\"work-title\">Cry Copper</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Cry Copper\"</span>",
       "work_id": 270
     }
   ],
@@ -57,9 +57,9 @@
       "id": 270,
       "slug": "cry-copper",
       "title": "Cry Copper",
-      "formatted_title": "Cry Copper",
-      "html_title": "<span class=\"work-title\">Cry Copper</span>",
-      "work_type": "novel",
+      "formatted_title": "\"Cry Copper\"",
+      "html_title": "<span class=\"work-title short-story\">\"Cry Copper\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -70,14 +70,14 @@
     "id": 270,
     "slug": "cry-copper",
     "title": "Cry Copper",
-    "formatted_title": "Cry Copper",
-    "html_title": "<span class=\"work-title\">Cry Copper</span>",
-    "work_type": "novel",
+    "formatted_title": "\"Cry Copper\"",
+    "html_title": "<span class=\"work-title short-story\">\"Cry Copper\"</span>",
+    "work_type": "short_story",
     "publication_year": null,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T16:38:41.032256"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

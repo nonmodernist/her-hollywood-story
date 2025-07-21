@@ -4,7 +4,7 @@
   "name": "Craig Rice",
   "birth_year": 1908,
   "death_year": 1957,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American writer (1908-1957). Born in Chicago. Died in Los Angeles. Occupations: screenwriter, novelist, writer",
   "author_notes": null,
@@ -112,8 +112,8 @@
         "with songs"
       ],
       "has_media": false,
-      "work_title": "\"Once Upon a Train (The Loco Motive)\"",
-      "work_html_title": "<span class=\"work-title\">\"Once Upon a Train (The Loco Motive)\"</span>",
+      "work_title": "Once Upon a Train (The Loco Motive)",
+      "work_html_title": "<span class=\"work-title short-story\">\"Once Upon a Train (The Loco Motive)\"</span>",
       "work_id": 260
     },
     {
@@ -175,10 +175,10 @@
     {
       "id": 260,
       "slug": "once-upon-a-train-the-loco-motive",
-      "title": "\"Once Upon a Train (The Loco Motive)\"",
+      "title": "Once Upon a Train (The Loco Motive)",
       "formatted_title": "\"Once Upon a Train (The Loco Motive)\"",
-      "html_title": "<span class=\"work-title\">\"Once Upon a Train (The Loco Motive)\"</span>",
-      "work_type": "novel",
+      "html_title": "<span class=\"work-title short-story\">\"Once Upon a Train (The Loco Motive)\"</span>",
+      "work_type": "short_story",
       "publication_year": 1950,
       "genre": null,
       "adaptation_count": 1,
@@ -210,5 +210,5 @@
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-06-17T16:38:15.205763"
+  "last_updated": "2025-07-20T01:09:49.285188"
 }

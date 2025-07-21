@@ -2,9 +2,9 @@
   "id": 281,
   "slug": "emilie-johnson",
   "name": "Emilie Johnson",
-  "birth_year": null,
-  "death_year": null,
-  "nationality": null,
+  "birth_year": 1867,
+  "death_year": 1941,
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": null,
   "author_notes": null,
@@ -43,7 +43,7 @@
       ],
       "has_media": false,
       "work_title": "Blind Hearts",
-      "work_html_title": "<span class=\"work-title\">Blind Hearts</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Blind Hearts\"</span>",
       "work_id": 587
     }
   ],
@@ -52,9 +52,9 @@
       "id": 587,
       "slug": "blind-hearts",
       "title": "Blind Hearts",
-      "formatted_title": "Blind Hearts",
-      "html_title": "<span class=\"work-title\">Blind Hearts</span>",
-      "work_type": "novel",
+      "formatted_title": "\"Blind Hearts\"",
+      "html_title": "<span class=\"work-title short-story\">\"Blind Hearts\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "genre": null,
       "adaptation_count": 1,
@@ -65,14 +65,14 @@
     "id": 587,
     "slug": "blind-hearts",
     "title": "Blind Hearts",
-    "formatted_title": "Blind Hearts",
-    "html_title": "<span class=\"work-title\">Blind Hearts</span>",
-    "work_type": "novel",
+    "formatted_title": "\"Blind Hearts\"",
+    "html_title": "<span class=\"work-title short-story\">\"Blind Hearts\"</span>",
+    "work_type": "short_story",
     "publication_year": null,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-06T16:32:00.223151"
+  "last_updated": "2025-07-20T03:09:28.477536"
 }

@@ -2,10 +2,10 @@
   "id": 436,
   "slug": "if-a-woman-will",
   "title": "If a Woman Will",
-  "formatted_title": "If a Woman Will",
-  "html_title": "<span class=\"work-title\">If a Woman Will</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "formatted_title": "\"If a Woman Will\"",
+  "html_title": "<span class=\"work-title short-story\">\"If a Woman Will\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1919,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 4,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,17 +43,17 @@
         "Western"
       ],
       "has_media": true,
-      "years_after_publication": 1923
+      "years_after_publication": 4
     }
   ],
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
-    "parts": null
+    "magazine_title": "Blue Book",
+    "pub_date": "1919-02-01",
+    "issue_info": "Feb-Apr 1919",
+    "parts": 3
   },
   "has_narrative": false,
-  "last_updated": "2025-06-23T01:04:47.210496"
+  "last_updated": "2025-07-21T18:29:28.24352"
 }

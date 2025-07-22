@@ -1,7 +1,4 @@
 // database-app.js - Main SPA controller for Her Hollywood Story database
-// Updated to use hybrid routing for GitHub Pages compatibility
-
-import { HybridRouter } from './modules/hybrid-router.js';
 
 // Dynamic Base Path Detection (works everywhere!)
 function getBasePath() {
@@ -13,12 +10,13 @@ function getBasePath() {
         return '/adapted-from-women/site';
     }
     
-    // Local development
-    if (hostname === 'localhost' || hostname === '127.0.0.1') {
-        return '';
+    // Local development (Python server from inside site folder)
+    // When serving from site/, everything is at the root
+    if (hostname === 'localhost' || hostname === '127.0.0.1' || hostname === '::' || hostname === '[::1]') {
+        return '';  // No prefix needed!
     }
     
-    // Future production
+    // Future production (herhollywoodstory.com)
     return '';
 }
 
@@ -30,7 +28,8 @@ const PATHS = {
         index: (type) => `${BASE_PATH}/data/database/${type}-index.min.json`,
         detail: (type, slug) => `${BASE_PATH}/data/database/${type}/${slug}.json`,
         patterns: (pattern) => `${BASE_PATH}/data/patterns/${pattern}.json`
-    }
+    },
+    database: (path = '') => `${BASE_PATH}/database${path}`
 };
 
 // Configuration
@@ -38,24 +37,42 @@ const ITEMS_PER_PAGE = 50;
 
 // Application state
 const app = {
+    // Current route info
     currentRoute: {
-        type: 'list',
-        entity: 'films',
+        type: 'list', // 'list' or 'detail'
+        entity: 'films', // 'films', 'authors', 'works'
         slug: null
     },
+    
+    // Current view mode (list, grid)
     currentView: 'list',
+    
+    // Pagination
     currentPage: 0,
+    
+    // Filters
     filters: {
-        search: ''
+        search: '',
+        // Dynamic filters based on entity
     },
+    
+    // Sort
     sortBy: 'default',
+    
+    // Data storage
     data: {
         films: null,
         authors: null,
         works: null
     },
+    
+    // Detail cache
     detailCache: new Map(),
+    
+    // Filtered results
     filteredData: [],
+    
+    // Loading states
     loading: {
         films: false,
         authors: false,
@@ -64,48 +81,214 @@ const app = {
 };
 
 // DOM Elements
-const elements = {};
+const elements = {
+    // Main containers
+    listView: null,
+    detailView: null,
+    
+    // List view elements
+    tabs: null,
+    searchInput: null,
+    clearSearch: null,
+    filterRow: null,
+    sortBy: null,
+    resultsContainer: null,
+    resultsCount: null,
+    loadMoreContainer: null,
+    loadMoreBtn: null,
+    showingCount: null,
+    totalCount: null,
+    clearFilters: null,
+    statsBar: null,
+    viewButtons: null
+};
 
-// Router instance
+// Router class for handling navigation
+class Router {
+    constructor() {
+        // Bind methods
+        this.handlePopState = this.handlePopState.bind(this);
+        
+        // Listen for browser navigation
+        window.addEventListener('popstate', this.handlePopState);
+        
+        // Handle clicks on SPA links
+        document.addEventListener('click', (e) => {
+            // Check if it's an internal database link
+            const link = e.target.closest('a');
+            if (link && link.href && !link.hasAttribute('target')) {
+                const url = new URL(link.href);
+                const path = url.pathname;
+                
+                // Check if it's a database route
+                if (path.includes('/database/')) {
+                    e.preventDefault();
+                    this.navigate(path);
+                }
+            }
+        });
+    }
+    
+    handlePopState(e) {
+        this.handleRoute();
+    }
+    
+    navigate(path, replaceState = false) {
+        const method = replaceState ? 'replaceState' : 'pushState';
+        history[method](null, '', path);
+        this.handleRoute();
+    }
+    
+    handleRoute() {
+        const path = window.location.pathname;
+        const searchParams = new URLSearchParams(window.location.search);
+        
+        // Parse the route - handle both absolute and relative paths
+        let pathParts = path.split('/').filter(Boolean);
+        
+        // Find where 'database' appears in the path
+        const dbIndex = pathParts.indexOf('database');
+        if (dbIndex !== -1) {
+            // Get parts after 'database'
+            pathParts = pathParts.slice(dbIndex);
+        }
+        
+        // Route: /database or /database/
+        if (pathParts.length === 1 && pathParts[0] === 'database') {
+            this.showList('films', searchParams);
+        }
+        // Route: /database/films or /database/authors or /database/works
+        else if (pathParts.length === 2 && ['films', 'authors', 'works'].includes(pathParts[1])) {
+            this.showList(pathParts[1], searchParams);
+        }
+        // Route: /database/film/[slug] or /database/author/[slug] or /database/work/[slug]
+        else if (pathParts.length === 3 && ['film', 'author', 'work'].includes(pathParts[1])) {
+            this.showDetail(pathParts[1], pathParts[2]);
+        }
+        // Default to films list
+        else {
+            this.navigate(getDatabaseURL('/films'), true);
+        }
+    }
+    
+    showList(entity, searchParams) {
+        // Update app state
+        app.currentRoute = {
+            type: 'list',
+            entity: entity,
+            slug: null
+        };
+        
+        // Apply search params to filters
+        if (searchParams) {
+            searchParams.forEach((value, key) => {
+                if (key === 'search') {
+                    app.filters.search = value;
+                    if (elements.searchInput) elements.searchInput.value = value;
+                } else if (key === 'sort') {
+                    app.sortBy = value;
+                } else {
+                    app.filters[key] = value;
+                }
+            });
+        }
+        
+        // Show list view
+        showListView();
+        
+        // Switch to the appropriate tab
+        switchTab(entity);
+    }
+    
+    showDetail(entityType, slug) {
+        // Update app state
+        app.currentRoute = {
+            type: 'detail',
+            entity: entityType + 's', // Convert singular to plural
+            slug: slug
+        };
+        
+        // Show detail view
+        showDetailView(entityType, slug);
+    }
+    
+    updateURL() {
+        // Get base path for database
+        const basePath = window.location.pathname.split('/database/')[0] + '/database';
+        
+        // Build URL based on current state
+        let path = basePath;
+        
+        if (app.currentRoute.type === 'list') {
+            path += `/${app.currentRoute.entity}`;
+            
+            // Add query parameters for filters
+            const params = new URLSearchParams();
+            
+            if (app.filters.search) {
+                params.set('search', app.filters.search);
+            }
+            
+            if (app.sortBy && app.sortBy !== 'default') {
+                params.set('sort', app.sortBy);
+            }
+            
+            // Add other active filters
+            Object.entries(app.filters).forEach(([key, value]) => {
+                if (key !== 'search' && value) {
+                    params.set(key, value);
+                }
+            });
+            
+            const queryString = params.toString();
+            if (queryString) {
+                path += '?' + queryString;
+            }
+        } else if (app.currentRoute.type === 'detail') {
+            const entitySingular = app.currentRoute.entity.replace(/s$/, ''); // Remove 's'
+            path += `/${entitySingular}/${app.currentRoute.slug}`;
+        }
+        
+        // Update URL without triggering popstate
+        if (window.location.pathname + window.location.search !== path) {
+            history.replaceState(null, '', path);
+        }
+    }
+}
+
+// Initialize router
 let router;
 
 // Initialize the application
 async function init() {
+    // Check for redirect from 404.html (GitHub Pages workaround)
+    const redirect = sessionStorage.getItem('redirect');
+    if (redirect) {
+        sessionStorage.removeItem('redirect');
+        // Replace the current state to handle the intended route
+        history.replaceState(null, '', redirect);
+    }
+    
     // Cache DOM elements
     cacheElements();
-    
-    // Set up the hybrid router
-    router = new HybridRouter({
-        basePath: BASE_PATH
-    });
-    
-    // Define routes
-    router
-        .route('/', () => showList('films'))
-        .route('/films', () => showList('films'))
-        .route('/authors', () => showList('authors'))
-        .route('/works', () => showList('works'))
-        .route('/film/:slug', (params) => showDetail('film', params.slug))
-        .route('/author/:slug', (params) => showDetail('author', params.slug))
-        .route('/work/:slug', (params) => showDetail('work', params.slug))
-        .route('*', () => showList('films')); // Default route
     
     // Set up event listeners
     setupEventListeners();
     
-    // Initialize router (handles redirects and triggers first route)
-    const initialized = router.init();
+    // Initialize router
+    router = new Router();
     
-    // If router is redirecting, wait for it
-    if (!initialized) {
-        return;
-    }
+    // Handle initial route
+    router.handleRoute();
 }
 
 // Cache DOM elements
 function cacheElements() {
+    // Main containers
     elements.listView = document.querySelector('.database-intro').parentElement;
     elements.detailView = document.getElementById('detailView');
+    
+    // List view elements
     elements.tabs = document.querySelectorAll('.tab-button');
     elements.searchInput = document.getElementById('searchInput');
     elements.clearSearch = document.getElementById('clearSearch');
@@ -123,47 +306,14 @@ function cacheElements() {
 }
 
 // Show list view
-async function showList(entity, query) {
-    app.currentRoute = {
-        type: 'list',
-        entity: entity,
-        slug: null
-    };
-    
-    // Apply query params to filters
-    if (query) {
-        if (query.search) {
-            app.filters.search = query.search;
-            if (elements.searchInput) elements.searchInput.value = app.filters.search;
-        }
-        if (query.sort) {
-            app.sortBy = query.sort;
-        }
-        // Apply other filters
-        Object.entries(query).forEach(([key, value]) => {
-            if (key !== 'search' && key !== 'sort') {
-                app.filters[key] = value;
-            }
-        });
-    }
-    
-    // Show list view
+function showListView() {
     elements.listView.style.display = 'block';
     elements.detailView.style.display = 'none';
-    document.title = `${capitalizeFirst(entity)} - Database - Her Hollywood Story`;
-    
-    // Switch to the appropriate tab
-    await switchTab(entity);
+    document.title = `${capitalizeFirst(app.currentRoute.entity)} - Database - Her Hollywood Story`;
 }
 
 // Show detail view
-async function showDetail(entityType, slug) {
-    app.currentRoute = {
-        type: 'detail',
-        entity: entityType + 's',
-        slug: slug
-    };
-    
+async function showDetailView(entityType, slug) {
     elements.listView.style.display = 'none';
     elements.detailView.style.display = 'block';
     elements.detailView.innerHTML = '<div class="loading-state">Loading details...</div>';
@@ -196,83 +346,25 @@ async function showDetail(entityType, slug) {
         
     } catch (error) {
         console.error('Error loading detail:', error);
+        console.error('Error stack:', error.stack);
         elements.detailView.innerHTML = `
             <div class="error-state">
                 <h3>Not Found</h3>
                 <p>The ${entityType} you're looking for could not be found.</p>
-                <a href="${router.getDatabaseURL('/' + entityType + 's')}" class="button">Browse all ${entityType}s</a>
+                <p style="color: red; font-size: 0.9em;">Debug: ${error.message}</p>
+                <a href="/database/${entityType}s" class="button">Browse all ${entityType}s</a>
             </div>
         `;
     }
 }
 
-// Set up event listeners
-function setupEventListeners() {
-    // Tab navigation
-    elements.tabs.forEach(tab => {
-        tab.addEventListener('click', () => {
-            const tabName = tab.dataset.tab;
-            router.navigate('/' + tabName);
-        });
-    });
-    
-    // Search
-    elements.searchInput.addEventListener('input', debounce(handleSearch, 300));
-    elements.clearSearch.addEventListener('click', clearSearch);
-    
-    // Clear filters
-    elements.clearFilters.addEventListener('click', clearAllFilters);
-    
-    // Sort
-    elements.sortBy.addEventListener('change', handleSort);
-    
-    // View toggle
-    elements.viewButtons.forEach(btn => {
-        btn.addEventListener('click', () => {
-            const view = btn.dataset.view;
-            switchView(view);
-        });
-    });
-    
-    // Load more
-    elements.loadMoreBtn.addEventListener('click', loadMore);
-    
-    // Keyboard shortcuts
-    document.addEventListener('keydown', (e) => {
-        if (e.key === '/' && document.activeElement !== elements.searchInput) {
-            e.preventDefault();
-            elements.searchInput.focus();
-        }
-    });
-}
-
-// Update URL with current filters/sort
-function updateURL() {
-    const params = {};
-    
-    if (app.filters.search) {
-        params.search = app.filters.search;
-    }
-    
-    if (app.sortBy && app.sortBy !== 'default') {
-        params.sort = app.sortBy;
-    }
-    
-    // Add other active filters
-    Object.entries(app.filters).forEach(([key, value]) => {
-        if (key !== 'search' && value) {
-            params[key] = value;
-        }
-    });
-    
-    router.updateQuery(params);
-}
-
 // Render detail view based on type
 function renderDetailView(type, data) {
+    const basePath = window.location.pathname.split('/database/')[0] + '/database';
+    
     let html = `
         <div class="detail-header">
-            <a href="${router.getDatabaseURL('/' + type + 's')}" class="back-link">← Back to ${capitalizeFirst(type)}s</a>
+            <a href="${basePath}/${type}s" class="back-link">← Back to ${capitalizeFirst(type)}s</a>
         </div>
     `;
     
@@ -312,8 +404,8 @@ function renderFilmDetail(film) {
                 
                 <section class="detail-section">
                     <h3>Source Work</h3>
-                    <p><strong>Title:</strong> <a href="${router.getDatabaseURL('/work/' + film.source_work.slug)}">${film.source_work.html_title}</a></p>
-                    <p><strong>Author:</strong> <a href="${router.getDatabaseURL('/author/' + film.author.slug)}">${film.author.name}</a></p>
+                    <p><strong>Title:</strong> <a href="${getDatabaseURL('/work/' + film.source_work.slug)}">${film.source_work.html_title}</a></p>
+                    <p><strong>Author:</strong> <a href="${getDatabaseURL('/author/' + film.author.slug)}">${film.author.name}</a></p>
                     ${film.source_work.publication_year ? `<p><strong>Published:</strong> ${film.source_work.publication_year}</p>` : ''}
                     ${film.source_work.year_to_adaptation !== null && film.source_work.year_to_adaptation !== undefined ? `<p><strong>Years to adaptation:</strong> ${film.source_work.year_to_adaptation}</p>` : ''}
                 </section>
@@ -323,7 +415,7 @@ function renderFilmDetail(film) {
                         <h3>Other Adaptations of This Work</h3>
                         <div class="related-items">
                             ${film.other_adaptations.map(f => `
-                                <a href="${router.getDatabaseURL('/film/' + f.slug)}" class="related-item">
+                                <a href="${getDatabaseURL('/film/' + f.slug)}" class="related-item">
                                     <strong>${f.html_title}</strong> (${f.year || 'Unknown'})
                                 </a>
                             `).join('')}
@@ -380,7 +472,7 @@ function renderAuthorDetail(author) {
                     <div class="works-list">
                         ${author.adapted_works.map(work => `
                             <div class="work-item">
-                                <a href="${router.getDatabaseURL('/work/' + work.slug)}">${work.html_title}</a>
+                                <a href="${getDatabaseURL('/work/' + work.slug)}">${work.html_title}</a>
                                 <span class="work-meta">${work.publication_year || 'Publication year unknown'} · ${work.adaptation_count} film${work.adaptation_count !== 1 ? 's' : ''}</span>
                             </div>
                         `).join('')}
@@ -392,7 +484,7 @@ function renderAuthorDetail(author) {
                     <div class="films-timeline">
                         ${author.films.map(film => `
                             <div class="timeline-item">
-                                <a href="${router.getDatabaseURL('/film/' + film.slug)}">${film.html_title}</a>
+                                <a href="${getDatabaseURL('/film/' + film.slug)}">${film.html_title}</a>
                                 <span class="film-year">${film.year || 'Unknown'}</span>
                             </div>
                         `).join('')}
@@ -409,7 +501,7 @@ function renderWorkDetail(work) {
         <div class="work-detail">
             <h1>${work.html_title}</h1>
             <div class="work-meta">
-                by <a href="${router.getDatabaseURL('/author/' + work.author.slug)}">${work.author.name}</a> · 
+                by <a href="${getDatabaseURL('/author/' + work.author.slug)}">${work.author.name}</a> · 
                 ${capitalizeFirst(work.work_type?.replace('_', ' ') || 'Unknown type')} · 
                 ${work.publication_year || 'Publication year unknown'}
             </div>
@@ -436,7 +528,7 @@ function renderWorkDetail(work) {
                             <div class="adaptation-item">
                                 <span class="adaptation-number">#${index + 1}</span>
                                 <div class="adaptation-info">
-                                    <a href="${router.getDatabaseURL('/film/' + film.slug)}">${film.html_title}</a>
+                                    <a href="${getDatabaseURL('/film/' + film.slug)}">${film.html_title}</a>
                                     <div class="adaptation-details">
                                         ${film.year || 'Unknown'} · ${film.studio || 'Unknown Studio'}
                                         ${film.directors ? ` · Dir: ${film.directors}` : ''}
@@ -451,135 +543,45 @@ function renderWorkDetail(work) {
     `;
 }
 
-// Create a film list item
-function createFilmListItem(film) {
-    const div = document.createElement('div');
-    div.className = 'film-entry';
-    
-    const mediaIndicator = film.hasMedia ? '<span class="media-indicator">📷</span>' : '';
-    const workSlug = film.workSlug;
-    const workTitle = film.workHtml || film.workTitle || film.sourceWorkTitle || 'Unknown';
-    
-    div.innerHTML = `
-        <div class="entry-title">
-            <a href="${router.getDatabaseURL('/film/' + film.slug)}">${film.html_title || film.title}</a>${mediaIndicator}
-        </div>
-        <div class="entry-meta">
-            ${film.year || 'Unknown year'}<span class="meta-separator">·</span>
-            Based on ${workSlug ? `<a href="${router.getDatabaseURL('/work/' + workSlug)}">${workTitle}</a>` : workTitle} 
-            by <a href="${router.getDatabaseURL('/author/' + film.authorSlug)}" class="author-name">${film.authorName || 'Unknown'}</a><span class="meta-separator">·</span>
-            ${film.directors ? `Directed by ${film.directors}<span class="meta-separator">·</span>` : ''}
-            ${film.studio || 'Unknown Studio'}
-            ${film.isRemake ? '<span class="pattern-badge">Repeat</span>' : ''}
-        </div>
-    `;
-    
-    return div;
-}
-
-// Create an author list item
-function createAuthorListItem(author) {
-    const div = document.createElement('div');
-    div.className = 'author-entry';
-    
-    const lifespan = author.birthYear || author.deathYear 
-        ? `(${author.birthYear || '?'}–${author.deathYear || '?'})`
-        : '';
-    
-    div.innerHTML = `
-        <div class="author-info">
-            <div class="author-name">
-                <a href="${router.getDatabaseURL('/author/' + author.slug)}">${author.name}</a>
-                ${author.isTwentyTimer ? '<span class="pattern-badge twenty-timer">Twenty-Timer</span>' : ''}
-            </div>
-            <div class="author-lifespan">${lifespan}</div>
-        </div>
-        <div class="author-stats">
-            <div class="author-film-count">${author.filmCount}</div>
-            <div class="author-film-label">Films</div>
-        </div>
-    `;
-    
-    return div;
-}
-
-// Create a work list item
-function createWorkListItem(work) {
-    const div = document.createElement('div');
-    div.className = 'work-entry';
-    
-    div.innerHTML = `
-        <div class="work-title">
-            <a href="${router.getDatabaseURL('/work/' + work.slug)}">${work.html_title || work.title}</a>
-            ${work.isRemakeChampion ? '<span class="pattern-badge remake-champion">Remake Champion</span>' : ''}
-            ${work.isSpeedDemon ? '<span class="pattern-badge speed-demon">Speed Demon</span>' : ''}
-        </div>
-        <div class="work-author">by <a href="${router.getDatabaseURL('/author/' + work.authorSlug)}">${work.authorName}</a></div>
-        <div class="work-meta">
-            ${work.workType ? capitalizeFirst(work.workType.replace('_', ' ')) : 'Unknown type'} · 
-            ${work.publicationYear || 'Unknown year'} · 
-            ${work.adaptationCount} film${work.adaptationCount !== 1 ? 's' : ''}
-        </div>
-    `;
-    
-    return div;
-}
-
-// Handle search
-function handleSearch() {
-    app.filters.search = elements.searchInput.value;
-    app.currentPage = 0;
-    filterAndRender();
-    updateURL();
-}
-
-// Clear search
-function clearSearch() {
-    elements.searchInput.value = '';
-    app.filters.search = '';
-    app.currentPage = 0;
-    filterAndRender();
-    updateURL();
-}
-
-// Clear all filters
-function clearAllFilters() {
-    clearSearch();
-    elements.filterRow.querySelectorAll('select').forEach(select => {
-        select.value = '';
+// Set up all event listeners
+function setupEventListeners() {
+    // Tab navigation
+    elements.tabs.forEach(tab => {
+        tab.addEventListener('click', () => {
+            const tabName = tab.dataset.tab;
+            router.navigate(getDatabaseURL('/' + tabName));
+        });
     });
-    app.filters = { search: '' };
-    filterAndRender();
-    updateURL();
+    
+    // Search
+    elements.searchInput.addEventListener('input', debounce(handleSearch, 300));
+    elements.clearSearch.addEventListener('click', clearSearch);
+    
+    // Clear filters
+    elements.clearFilters.addEventListener('click', clearAllFilters);
+    
+    // Sort
+    elements.sortBy.addEventListener('change', handleSort);
+    
+    // View toggle
+    elements.viewButtons.forEach(btn => {
+        btn.addEventListener('click', () => {
+            const view = btn.dataset.view;
+            switchView(view);
+        });
+    });
+    
+    // Load more
+    elements.loadMoreBtn.addEventListener('click', loadMore);
+    
+    // Keyboard shortcuts
+    document.addEventListener('keydown', (e) => {
+        if (e.key === '/' && document.activeElement !== elements.searchInput) {
+            e.preventDefault();
+            elements.searchInput.focus();
+        }
+    });
 }
-
-// Handle sort change
-function handleSort() {
-    app.sortBy = elements.sortBy.value;
-    filterAndRender();
-    updateURL();
-}
-
-// Utility functions
-function debounce(func, wait) {
-    let timeout;
-    return function executedFunction(...args) {
-        const later = () => {
-            clearTimeout(timeout);
-            func(...args);
-        };
-        clearTimeout(timeout);
-        timeout = setTimeout(later, wait);
-    };
-}
-
-function capitalizeFirst(str) {
-    return str.charAt(0).toUpperCase() + str.slice(1);
-}
-
-// =======================
-// Copy remaining functions from original file
-// =======================
 
 // Switch between tabs
 async function switchTab(tabName) {
@@ -823,7 +825,7 @@ function createFilter(name, label, options) {
         app.filters[name] = e.target.value;
         app.currentPage = 0;
         filterAndRender();
-        updateURL();
+        router.updateURL();
     });
     
     options.forEach(opt => {
@@ -1167,10 +1169,133 @@ function createListItem(item, type) {
     }
 }
 
+// Create a film list item
+function createFilmListItem(film) {
+    const div = document.createElement('div');
+    div.className = 'film-entry';
+    
+    const mediaIndicator = film.hasMedia ? '<span class="media-indicator">📷</span>' : '';
+    
+    // Debug log to check film structure
+    if (!film.sourceWorkSlug && !film.workSlug) {
+        console.warn('Film missing work slug:', film);
+    }
+    
+    // Get the work slug from the film data
+    const workSlug = film.workSlug;
+    const workTitle = film.workHtml || film.workTitle || film.sourceWorkTitle || 'Unknown';
+    
+    div.innerHTML = `
+        <div class="entry-title">
+            <a href="${getDatabaseURL('/film/' + film.slug)}">${film.html_title || film.title}</a>${mediaIndicator}
+        </div>
+        <div class="entry-meta">
+            ${film.year || 'Unknown year'}<span class="meta-separator">·</span>
+            Based on ${workSlug ? `<a href="${getDatabaseURL('/work/' + workSlug)}">${workTitle}</a>` : workTitle} 
+            by <a href="${getDatabaseURL('/author/' + film.authorSlug)}" class="author-name">${film.authorName || 'Unknown'}</a><span class="meta-separator">·</span>
+            ${film.directors ? `Directed by ${film.directors}<span class="meta-separator">·</span>` : ''}
+            ${film.studio || 'Unknown Studio'}
+            ${film.isRemake ? '<span class="pattern-badge">Repeat</span>' : ''}
+        </div>
+    `;
+    
+    return div;
+}
+
+// Create an author list item
+function createAuthorListItem(author) {
+    const div = document.createElement('div');
+    div.className = 'author-entry';
+    
+    const lifespan = author.birthYear || author.deathYear 
+        ? `(${author.birthYear || '?'}–${author.deathYear || '?'})`
+        : '';
+    
+    div.innerHTML = `
+        <div class="author-info">
+            <div class="author-name">
+                <a href="${getDatabaseURL('/author/' + author.slug)}">${author.name}</a>
+                ${author.isTwentyTimer ? '<span class="pattern-badge twenty-timer">Twenty-Timer</span>' : ''}
+            </div>
+            <div class="author-lifespan">${lifespan}</div>
+        </div>
+        <div class="author-stats">
+            <div class="author-film-count">${author.filmCount}</div>
+            <div class="author-film-label">Films</div>
+        </div>
+    `;
+    
+    return div;
+}
+
+// Create a work list item
+function createWorkListItem(work) {
+    const div = document.createElement('div');
+    div.className = 'work-entry';
+    
+    div.innerHTML = `
+        <div class="work-title">
+            <a href="${getDatabaseURL('/work/' + work.slug)}">${work.html_title || work.title}</a>
+            ${work.isRemakeChampion ? '<span class="pattern-badge remake-champion">Remake Champion</span>' : ''}
+            ${work.isSpeedDemon ? '<span class="pattern-badge speed-demon">Speed Demon</span>' : ''}
+        </div>
+        <div class="work-author">by <a href="${getDatabaseURL('/author/' + work.authorSlug)}">${work.authorName}</a></div>
+        <div class="work-meta">
+            ${work.workType ? capitalizeFirst(work.workType.replace('_', ' ')) : 'Unknown type'} · 
+            ${work.publicationYear || 'Unknown year'} · 
+            ${work.adaptationCount} film${work.adaptationCount !== 1 ? 's' : ''}
+        </div>
+    `;
+    
+    return div;
+}
+
 // Create grid items (implement later)
 function createGridItem(item, type) {
     // For now, just use list items
     return createListItem(item, type);
+}
+
+// Handle search
+function handleSearch() {
+    app.filters.search = elements.searchInput.value;
+    app.currentPage = 0;
+    filterAndRender();
+    router.updateURL();
+}
+
+// Clear search
+function clearSearch() {
+    elements.searchInput.value = '';
+    app.filters.search = '';
+    app.currentPage = 0;
+    filterAndRender();
+    router.updateURL();
+}
+
+// Clear all filters
+function clearAllFilters() {
+    // Clear search
+    clearSearch();
+    
+    // Clear all filter selects
+    elements.filterRow.querySelectorAll('select').forEach(select => {
+        select.value = '';
+    });
+    
+    // Reset filters
+    app.filters = { search: '' };
+    
+    // Re-render
+    filterAndRender();
+    router.updateURL();
+}
+
+// Handle sort change
+function handleSort() {
+    app.sortBy = elements.sortBy.value;
+    filterAndRender();
+    router.updateURL();
 }
 
 // Switch view mode
@@ -1239,9 +1364,30 @@ function showError(message) {
     `;
 }
 
+// Utility functions
+function debounce(func, wait) {
+    let timeout;
+    return function executedFunction(...args) {
+        const later = () => {
+            clearTimeout(timeout);
+            func(...args);
+        };
+        clearTimeout(timeout);
+        timeout = setTimeout(later, wait);
+    };
+}
+
+function capitalizeFirst(str) {
+    return str.charAt(0).toUpperCase() + str.slice(1);
+}
+
+// Helper to generate database URLs
+function getDatabaseURL(path) {
+    return PATHS.database(path);
+}
+
 // Initialize on DOM ready
 document.addEventListener('DOMContentLoaded', init);
 
 // Export for debugging
 window.app = app;
-window.router = router;

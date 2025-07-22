@@ -5,27 +5,33 @@
     <title>Redirecting...</title>
     <script>
         // For GitHub Pages SPA routing
-        // Check if we're on a database route
         const path = window.location.pathname;
         
-        if (path.startsWith('/database/') || path === '/database') {
-            // For database routes, we need to load the database SPA
-            // GitHub Pages doesn't support server-side routing, so we'll use a client-side solution
-            
-            // Store the intended path
+        // Check if we're on a database route
+        if (path.includes('/database/') || path.endsWith('/database')) {
+            // Store the intended path for the SPA to handle
             sessionStorage.setItem('redirect', location.pathname + location.search);
             
-            // Redirect to the database index - handle relative paths
-            const pathParts = location.pathname.split('/');
-            const dbIndex = pathParts.indexOf('database');
+            // Find the database index path
+            // Handle various path structures:
+            // - /adapted-from-women/site/database/films
+            // - /database/films (future production)
+            // - localhost paths
+            
+            const pathParts = path.split('/');
+            const dbIndex = pathParts.lastIndexOf('database');
+            
             if (dbIndex !== -1) {
+                // Reconstruct path up to and including 'database'
                 const basePath = pathParts.slice(0, dbIndex + 1).join('/');
+                // Redirect to database index
                 window.location.replace(basePath + '/');
             } else {
+                // Fallback - shouldn't happen but just in case
                 window.location.replace('/database/');
             }
         } else {
-            // For other 404s, show actual 404 page
+            // For non-database 404s, show actual 404 page
             document.title = 'Page Not Found - Her Hollywood Story';
             document.addEventListener('DOMContentLoaded', function() {
                 document.body.innerHTML = `

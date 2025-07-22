@@ -100,7 +100,12 @@ export class HybridRouter {
     // Get the current path
     getCurrentPath() {
         if (this.useHashRouting) {
-            return window.location.hash.substring(1) || '/';
+            const hash = window.location.hash.substring(1) || '/';
+            // Debug logging for development
+            if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+                console.log('[HybridRouter] Getting current path from hash:', hash);
+            }
+            return hash;
         } else {
             let path = window.location.pathname;
             
@@ -284,8 +289,12 @@ export class HybridRouter {
             }
         }
         
-        // Trigger initial route
-        this.handleRouteChange();
+        // IMPORTANT: Always trigger initial route, even when opening a hash URL directly
+        // Use setTimeout to ensure DOM is ready and all event listeners are attached
+        setTimeout(() => {
+            this.handleRouteChange();
+        }, 0);
+        
         return true;
     }
 }

@@ -1,18 +1,30 @@
 # Ignore everything but website
-.DS_Store
 __pycache__
 .venv
-everything_else
-old-index.html
 .env
-data/temp
-data/reference
-data/exports
-data/backups
+back-end-data/analysis
+back-end-data/temp
+back-end-data/reference
+back-end-data/exports
+back-end-data/backups
 database-scripts
-dist
 src
 node_modules
 package*.json
 book-scans
-data/analysis
+
+
+# Site-specific gitignore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log

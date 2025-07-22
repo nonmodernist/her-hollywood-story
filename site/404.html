@@ -7,33 +7,39 @@
         // For GitHub Pages SPA routing
         const path = window.location.pathname;
         
+        // Debug logging
+        console.log('404 handler - Current path:', path);
+        
         // Check if we're on a database route
-        if (path.includes('/database/') || path.endsWith('/database')) {
+        if (path.includes('/database/')) {
             // Store the intended path for the SPA to handle
             sessionStorage.setItem('redirect', location.pathname + location.search);
             
-            // Find the database index path
-            // Handle various path structures:
-            // - /adapted-from-women/site/database/films
-            // - /database/films (future production)
-            // - localhost paths
-            
-            const pathParts = path.split('/');
-            const dbIndex = pathParts.lastIndexOf('database');
-            
-            if (dbIndex !== -1) {
-                // Reconstruct path up to and including 'database'
-                const basePath = pathParts.slice(0, dbIndex + 1).join('/');
-                // Redirect to database index
-                window.location.replace(basePath + '/');
+            // For GitHub Pages, we need to handle the project path
+            // The site is at /adapted-from-women/site/
+            if (path.includes('/adapted-from-women/site/')) {
+                // Extract everything after /site/
+                const afterSite = path.split('/site/')[1];
+                
+                // If it's a database route, redirect to the database index
+                if (afterSite && afterSite.startsWith('database/')) {
+                    console.log('Redirecting to database index...');
+                    window.location.replace('/adapted-from-women/site/database/');
+                }
             } else {
-                // Fallback - shouldn't happen but just in case
+                // Local development
                 window.location.replace('/database/');
             }
         } else {
             // For non-database 404s, show actual 404 page
             document.title = 'Page Not Found - Her Hollywood Story';
             document.addEventListener('DOMContentLoaded', function() {
+                // Determine the correct base path for links
+                let basePath = '';
+                if (location.pathname.includes('/adapted-from-women/site/')) {
+                    basePath = '/adapted-from-women/site';
+                }
+                
                 document.body.innerHTML = `
                     <style>
                         body {
@@ -62,7 +68,7 @@
                     </style>
                     <h1>Page Not Found</h1>
                     <p>The page you're looking for doesn't exist.</p>
-                    <p><a href="/">Return to Homepage</a> | <a href="/database/">Browse Database</a></p>
+                    <p><a href="${basePath}/">Return to Homepage</a> | <a href="${basePath}/database/">Browse Database</a></p>
                 `;
             });
         }

@@ -1,5 +1,37 @@
 // database-app.js - Main SPA controller for Her Hollywood Story database
 
+// Dynamic Base Path Detection (works everywhere!)
+function getBasePath() {
+    const hostname = window.location.hostname;
+    const pathname = window.location.pathname;
+    
+    // GitHub Pages (your current beta)
+    if (pathname.includes('/adapted-from-women/site/')) {
+        return '/adapted-from-women/site';
+    }
+    
+    // Local development (Python server from inside site folder)
+    // When serving from site/, everything is at the root
+    if (hostname === 'localhost' || hostname === '127.0.0.1' || hostname === '::' || hostname === '[::1]') {
+        return '';  // No prefix needed!
+    }
+    
+    // Future production (herhollywoodstory.com)
+    return '';
+}
+
+const BASE_PATH = getBasePath();
+
+// Create consistent paths for all your data
+const PATHS = {
+    data: {
+        index: (type) => `${BASE_PATH}/data/database/${type}-index.min.json`,
+        detail: (type, slug) => `${BASE_PATH}/data/database/${type}/${slug}.json`,
+        patterns: (pattern) => `${BASE_PATH}/data/patterns/${pattern}.json`
+    },
+    database: (path = '') => `${BASE_PATH}/database${path}`
+};
+
 // Configuration
 const ITEMS_PER_PAGE = 50;
 
@@ -295,7 +327,7 @@ async function showDetailView(entityType, slug) {
             detailData = app.detailCache.get(cacheKey);
         } else {
             // Load detail data
-            const response = await fetch(`/data/database/${entityType}/${slug}.json`);
+            const response = await fetch(PATHS.data.detail(entityType, slug));
             if (!response.ok) throw new Error('Failed to load details');
             
             detailData = await response.json();
@@ -595,7 +627,7 @@ async function loadData(tabName) {
     showLoadingState();
     
     try {
-        const response = await fetch(`/data/database/${tabName}-index.min.json`);
+        const response = await fetch(PATHS.data.index(tabName));
         if (!response.ok) {
             throw new Error(`Failed to load ${tabName} data`);
         }
@@ -1351,8 +1383,7 @@ function capitalizeFirst(str) {
 
 // Helper to generate database URLs
 function getDatabaseURL(path) {
-    const basePath = window.location.pathname.split('/database/')[0] + '/database';
-    return basePath + (path.startsWith('/') ? path : '/' + path);
+    return PATHS.database(path);
 }
 
 // Initialize on DOM ready

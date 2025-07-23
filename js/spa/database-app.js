@@ -6,12 +6,13 @@ function getBasePath() {
     const pathname = window.location.pathname;
     
     // GitHub Pages (your current beta)
-    if (pathname.includes('/adapted-from-women/site/')) {
-        return '/adapted-from-women/site';
+    if (pathname.includes('/adapted-from-women/')) {
+        return '/adapted-from-women';
     }
     
     // Local development (Python server from inside site folder)
-    // When serving from site/, everything is at the root
+    // When serving from site/, everything is at the root -- 
+    // ! fix this - we moved everything to root instead of site
     if (hostname === 'localhost' || hostname === '127.0.0.1' || hostname === '::' || hostname === '[::1]') {
         return '';  // No prefix needed!
     }

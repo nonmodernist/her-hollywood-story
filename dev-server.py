@@ -12,7 +12,7 @@ import mimetypes
 from urllib.parse import urlparse
 
 PORT = 8000
-DIRECTORY = "site"
+DIRECTORY = "."
 
 class SPAHandler(http.server.SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):

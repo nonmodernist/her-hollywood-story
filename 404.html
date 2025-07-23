@@ -34,8 +34,8 @@
             document.body.innerHTML += `
                 <hr>
                 <p>Database route detected: ${info.includesDatabase}</p>
-                <p>Would redirect to: ${info.includesDatabase ? '/adapted-from-women/site/database/' : 'nowhere'}</p>
-                <button onclick="sessionStorage.setItem('redirect', location.pathname + location.search); window.location.href='/adapted-from-women/site/database/'">
+                <p>Would redirect to: ${info.includesDatabase ? '/adapted-from-women/database/' : 'nowhere'}</p>
+                <button onclick="sessionStorage.setItem('redirect', location.pathname + location.search); window.location.href='/adapted-from-women/database/'">
                     Continue to Database
                 </button>
             `;

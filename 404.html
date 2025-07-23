@@ -2,44 +2,62 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>404 Debug Test</title>
+    <title>Redirecting...</title>
+    <script>
+        // For GitHub Pages SPA routing
+        // Check if we're on a database route
+        const path = window.location.pathname;
+        
+        if (path.includes('/database/')) {
+            // For database routes, we need to load the database SPA
+            // Store the intended path for the SPA to handle
+            sessionStorage.setItem('redirect', location.pathname + location.search);
+            
+            // Redirect to the database index
+            window.location.replace('/adapted-from-women/database/');
+        } else {
+            // For other 404s, show actual 404 page
+            document.title = 'Page Not Found - Her Hollywood Story';
+            document.addEventListener('DOMContentLoaded', function() {
+                document.body.innerHTML = `
+                    <style>
+                        body {
+                            font-family: 'EB Garamond', Georgia, serif;
+                            max-width: 600px;
+                            margin: 4rem auto;
+                            padding: 0 2rem;
+                            text-align: center;
+                        }
+                        h1 {
+                            font-size: 3rem;
+                            margin-bottom: 1rem;
+                        }
+                        p {
+                            font-size: 1.3rem;
+                            line-height: 1.8;
+                            color: #666;
+                        }
+                        a {
+                            color: #8b0000;
+                            text-decoration: none;
+                        }
+                        a:hover {
+                            text-decoration: underline;
+                        }
+                    </style>
+                    <h1>Page Not Found</h1>
+                    <p>The page you're looking for doesn't exist.</p>
+                    <p><a href="/adapted-from-women/">Return to Homepage</a> | <a href="/adapted-from-women/database/">Browse Database</a></p>
+                `;
+            });
+        }
+    </script>
 </head>
 <body>
-    <h1>404 Handler Debug</h1>
-    <p>If you see this, the 404.html is working!</p>
-    
-    <h2>Debug Info:</h2>
-    <pre id="debug"></pre>
-    
-    <script>
-        const debug = document.getElementById('debug');
-        const info = {
-            pathname: window.location.pathname,
-            href: window.location.href,
-            host: window.location.host,
-            origin: window.location.origin,
-            search: window.location.search,
-            includesDatabase: window.location.pathname.includes('/database/'),
-            includesAdaptedFromWomen: window.location.pathname.includes('/adapted-from-women/'),
-            sessionStorageRedirect: sessionStorage.getItem('redirect')
-        };
-        
-        debug.textContent = JSON.stringify(info, null, 2);
-        
-        // Log to console too
-        console.log('404 Debug Info:', info);
-        
-        // Add a manual continue button
-        setTimeout(() => {
-            document.body.innerHTML += `
-                <hr>
-                <p>Database route detected: ${info.includesDatabase}</p>
-                <p>Would redirect to: ${info.includesDatabase ? '/adapted-from-women/database/' : 'nowhere'}</p>
-                <button onclick="sessionStorage.setItem('redirect', location.pathname + location.search); window.location.href='/adapted-from-women/database/'">
-                    Continue to Database
-                </button>
-            `;
-        }, 100);
-    </script>
+    <noscript>
+        <h1>Page Not Found</h1>
+        <p>The page you're looking for doesn't exist.</p>
+        <p><a href="/adapted-from-women/">Return to Homepage</a></p>
+    </noscript>
 </body>
 </html>

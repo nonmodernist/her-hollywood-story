@@ -33,6 +33,13 @@ const PATHS = {
     database: (path = '') => `${BASE_PATH}/database${path}`
 };
 
+// helper function to parse lists of names
+function formatNameList(names) {
+    if (!names) return '';
+    // Split by pipe, trim whitespace, and join with commas
+    return names.split('|').map(name => name.trim()).join(', ');
+}
+
 // Configuration
 const ITEMS_PER_PAGE = 50;
 
@@ -386,7 +393,7 @@ function renderDetailView(type, data) {
 
 // Render film detail
 function renderFilmDetail(film) {
-    return `
+return `
         <div class="film-detail">
             <h1>${film.html_title}</h1>
             <div class="film-meta">
@@ -397,9 +404,9 @@ function renderFilmDetail(film) {
             <div class="detail-sections">
                 <section class="detail-section">
                     <h3>Film Details</h3>
-                    ${film.directors ? `<p><strong>Director(s):</strong> ${film.directors}</p>` : ''}
-                    ${film.writers ? `<p><strong>Screenwriter(s):</strong> ${film.writers}</p>` : ''}
-                    ${film.cast_members ? `<p><strong>Cast:</strong> ${film.cast_members}</p>` : ''}
+                    ${film.directors ? `<p><strong>Director(s):</strong> ${formatNameList(film.directors)}</p>` : ''}
+                    ${film.writers ? `<p><strong>Screenwriter(s):</strong> ${formatNameList(film.writers)}</p>` : ''}
+                    ${film.cast_members ? `<p><strong>Cast:</strong> ${formatNameList(film.cast_members)}</p>` : ''}
                     ${film.genres?.length ? `<p><strong>Genres:</strong> ${film.genres.join(', ')}</p>` : ''}
                 </section>
                 
@@ -755,6 +762,7 @@ function addAuthorFilters() {
     ]);
     
     // Nationality filter
+    // TODO needs fix to match updated field
     const nationalityFilter = createFilter('nationality', 'Nationality', [
         { value: '', label: 'All Countries' },
         { value: 'United States', label: 'United States' },
@@ -762,6 +770,7 @@ function addAuthorFilters() {
     ]);
     
     // Decade filter
+    // TODO fix or remove
     const decadeFilter = createFilter('decade', 'Active Decade', [
         { value: '', label: 'All Decades' },
         { value: '1910s', label: '1910s' },
@@ -792,6 +801,7 @@ function addWorkFilters() {
     ]);
     
     // Pattern filter
+    // TODO rename to match updated pattern names
     const patternFilter = createFilter('pattern', 'Pattern', [
         { value: '', label: 'All Works' },
         { value: 'remake-champion', label: 'Remake Champions' },
@@ -890,6 +900,7 @@ function updateSortOptions(tabName) {
 }
 
 // Update stats bar based on tab
+// TODO add and remove stats to be more interesting/relevant
 function updateStatsBar(tabName) {
     const data = app.data[tabName];
     if (!data) return;
@@ -902,20 +913,20 @@ function updateStatsBar(tabName) {
         case 'films':
             addStat('Total Films', metadata.totalCount);
             addStat('Years', `${metadata.yearRange[0]}–${metadata.yearRange[1]}`);
-            addStat('With Images', metadata.withMedia);
+          //  addStat('With Images', metadata.withMedia);
             addStat('Studios', metadata.studioCount || 253);
             break;
             
         case 'authors':
             addStat('Total Authors', metadata.totalCount);
             addStat('Twenty-Timers', metadata.twentyTimers || 5);
-            addStat('Total Films', metadata.totalFilms || 1122);
-            addStat('Most Prolific', `${metadata.mostProlific?.name || 'Loading...'} (${metadata.mostProlific?.films || 0})`);
+            addStat('Total Films', metadata.totalFilms || 1119);
+           // addStat('Most Prolific', `${metadata.mostProlific?.name || 'Loading...'} (${metadata.mostProlific?.films || 0})`);
             break;
             
         case 'works':
             addStat('Total Works', metadata.totalCount);
-            addStat('Adapted to Film', metadata.totalCount);
+          //  addStat('Adapted to Film', metadata.totalCount);
             addStat('Remake Champions', metadata.remakeChampions || 13);
             addStat('Speed Demons', metadata.speedDemons || 219);
             break;
@@ -1046,7 +1057,7 @@ function filterAuthor(author, filters) {
     if (filters.decade) {
         const decade = parseInt(filters.decade);
         // Check if author was active in this decade
-        // This would need decade data in the author index
+        // TODO - This would need decade data in the author index
     }
     
     return true;
@@ -1175,7 +1186,7 @@ function createFilmListItem(film) {
     const div = document.createElement('div');
     div.className = 'film-entry';
     
-    const mediaIndicator = film.hasMedia ? '<span class="media-indicator">📷</span>' : '';
+    const mediaIndicator = film.hasMedia ? '<span class="media-indicator">🖻</span>' : '';
     
     // Debug log to check film structure
     if (!film.sourceWorkSlug && !film.workSlug) {
@@ -1194,9 +1205,10 @@ function createFilmListItem(film) {
             ${film.year || 'Unknown year'}<span class="meta-separator">·</span>
             Based on ${workSlug ? `<a href="${getDatabaseURL('/work/' + workSlug)}">${workTitle}</a>` : workTitle} 
             by <a href="${getDatabaseURL('/author/' + film.authorSlug)}" class="author-name">${film.authorName || 'Unknown'}</a><span class="meta-separator">·</span>
-            ${film.directors ? `Directed by ${film.directors}<span class="meta-separator">·</span>` : ''}
+            ${film.directors ? `Directed by  ${formatNameList(film.directors)}<span class="meta-separator">·</span>` : ''}
             ${film.studio || 'Unknown Studio'}
-            ${film.isRemake ? '<span class="pattern-badge">Repeat</span>' : ''}
+            ${film.isRemake ? '<span class="media-indicator" title="Remake/repeat adaptation">↻</span>' : ''}
+
         </div>
     `;
     

@@ -19,6 +19,10 @@
       {
         "genre": "Drama",
         "count": 1
+      },
+      {
+        "genre": "Musical",
+        "count": 1
       }
     ],
     "films_by_decade": {
@@ -54,7 +58,9 @@
       "year": 1937,
       "studio": null,
       "directors": null,
-      "genres": [],
+      "genres": [
+        "Musical"
+      ],
       "has_media": false,
       "work_title": "High Hat, a Radio Romance",
       "work_html_title": "<span class=\"work-title\">High Hat, a Radio Romance</span>",

@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Liberty",
-    "pub_date": "1932-04-09",
-    "issue_info": "v9 #15-20",
-    "parts": 6
+    "magazine_pub_date": "1932-04-09",
+    "magazine_issue_info": "v9 #15-20",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k06/k06233.htm#A12",
+    "serialized": true,
+    "serial_parts": 6
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T03:15:42.728625"

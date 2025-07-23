@@ -47,14 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": {
-    "count": 0
-  },
-  "serialization": {
+  "has_photoplay_edition": true,
+  "magazine_publication": {
     "magazine_title": "Everybody's Magazine",
-    "pub_date": null,
-    "issue_info": "Jan-Jul 1919",
-    "parts": null
+    "magazine_pub_date": null,
+    "magazine_issue_info": "Jan-Jul 1919",
+    "digitized_url": null,
+    "FMI_link": null,
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-21T17:39:30.350666"

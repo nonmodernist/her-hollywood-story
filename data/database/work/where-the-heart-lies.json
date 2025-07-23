@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Success Magazine",
-    "pub_date": "1922-02-01",
-    "issue_info": "Feb-Mar 1922",
-    "parts": 2
+    "magazine_pub_date": "1922-02-01",
+    "magazine_issue_info": "Feb-Mar 1922",
+    "digitized_url": null,
+    "FMI_link": null,
+    "serialized": true,
+    "serial_parts": 2
   },
   "has_narrative": false,
   "last_updated": "2025-07-21T18:17:32.022095"

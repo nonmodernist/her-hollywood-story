@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Peterson’s Magazine",
-    "pub_date": "1880-01-01",
-    "issue_info": "v77 #1-6",
-    "parts": 6
+    "magazine_pub_date": "1880-01-01",
+    "magazine_issue_info": "v77 #1-6",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k08/k08471.htm#A9",
+    "serialized": true,
+    "serial_parts": 6
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T02:51:16.497987"

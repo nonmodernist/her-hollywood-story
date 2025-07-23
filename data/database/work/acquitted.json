@@ -48,12 +48,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Pearson's Magazine",
-    "pub_date": "1907-02-01",
-    "issue_info": "v17 #2",
-    "parts": null
+    "magazine_pub_date": "1907-02-01",
+    "magazine_issue_info": "v17 #2",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k08/k08229.htm#A4",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T20:02:44.890512"

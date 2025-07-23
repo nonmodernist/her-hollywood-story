@@ -48,12 +48,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "All-Story Magazine",
-    "pub_date": "1916-12-02",
-    "issue_info": null,
-    "parts": null
+    "magazine_pub_date": "1916-12-02",
+    "magazine_issue_info": null,
+    "digitized_url": null,
+    "FMI_link": null,
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-21T18:29:04.58208"

@@ -69,12 +69,15 @@
       "gap_years": 18
     }
   ],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "The Saturday Evening Post ",
-    "pub_date": "1918-08-24",
-    "issue_info": "v191 #8",
-    "parts": null
+    "magazine_pub_date": "1918-08-24",
+    "magazine_issue_info": "v191 #8",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1918-08-24_191_8",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09474.htm#A2",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T20:44:54.745048"

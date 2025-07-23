@@ -67,12 +67,15 @@
       "gap_years": 6
     }
   ],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "McClure's",
-    "pub_date": "1914-10-01",
-    "issue_info": "v43 #6, v 44 #1-6, v45 #1-6",
-    "parts": 13
+    "magazine_pub_date": "1914-10-01",
+    "magazine_issue_info": "v43 #6, v 44 #1-6, v45 #1-6",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k07/k07078.htm#A2",
+    "serialized": true,
+    "serial_parts": 13
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T20:15:56.860013"

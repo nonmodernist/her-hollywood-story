@@ -68,12 +68,15 @@
       "gap_years": 7
     }
   ],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Liberty",
-    "pub_date": "1929-03-16",
-    "issue_info": "v6 #10",
-    "parts": null
+    "magazine_pub_date": "1929-03-16",
+    "magazine_issue_info": "v6 #10",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k06/k06221.htm#A3",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T03:18:22.309706"

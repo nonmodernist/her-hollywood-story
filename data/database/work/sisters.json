@@ -48,12 +48,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Good Housekeeping",
-    "pub_date": "1918-06-01",
-    "issue_info": "v66 #6, v67 #1-6, v68 #1-5",
-    "parts": 12
+    "magazine_pub_date": "1918-06-01",
+    "magazine_issue_info": "v66 #6, v67 #1-6, v68 #1-5",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k05/k05196.htm#A1",
+    "serialized": true,
+    "serial_parts": 12
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T02:44:13.42154"

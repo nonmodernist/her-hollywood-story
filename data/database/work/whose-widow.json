@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Smith's Magazine",
-    "pub_date": "1918-08-01",
-    "issue_info": "Aug 1918",
-    "parts": null
+    "magazine_pub_date": "1918-08-01",
+    "magazine_issue_info": "Aug 1918",
+    "digitized_url": null,
+    "FMI_link": null,
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-21T18:17:32.022095"

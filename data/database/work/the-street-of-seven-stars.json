@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "The Saturday Evening Post",
-    "pub_date": "1914-03-14",
-    "issue_info": "v186 #37-44",
-    "parts": 8
+    "magazine_pub_date": "1914-03-14",
+    "magazine_issue_info": "v186 #37-44",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1914-03-14_186_37",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09457.htm#A3",
+    "serialized": true,
+    "serial_parts": 8
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T20:40:55.386227"

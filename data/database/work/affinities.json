@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "The Saturday Evening Post",
-    "pub_date": "1913-11-29",
-    "issue_info": "v186 #22",
-    "parts": null
+    "magazine_pub_date": "1913-11-29",
+    "magazine_issue_info": "v186 #22",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1913-11-29_186_22",
+    "FMI_link": null,
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T20:04:38.238687"

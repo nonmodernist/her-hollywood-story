@@ -48,12 +48,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Liberty",
-    "pub_date": "1933-06-24",
-    "issue_info": "v10 #25-36",
-    "parts": 12
+    "magazine_pub_date": "1933-06-24",
+    "magazine_issue_info": "v10 #25-36",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k06/k06240.htm#A3",
+    "serialized": true,
+    "serial_parts": 12
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T03:22:08.335633"

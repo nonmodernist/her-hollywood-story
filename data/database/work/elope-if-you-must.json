@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "All-Story Weekly",
-    "pub_date": "1920-02-14",
-    "issue_info": "Vol. CVII Number 1-4, Vol. CVIII Number 1-2",
-    "parts": 6
+    "magazine_pub_date": "1920-02-14",
+    "magazine_issue_info": "Vol. CVII Number 1-4, Vol. CVIII Number 1-2",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k00/k00522.htm#A3",
+    "serialized": true,
+    "serial_parts": 6
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T22:06:46.925585"

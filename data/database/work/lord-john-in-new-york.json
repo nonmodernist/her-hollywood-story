@@ -45,12 +45,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "McClure’s",
-    "pub_date": "1915-12-01",
-    "issue_info": "v46 #2",
-    "parts": null
+    "magazine_pub_date": "1915-12-01",
+    "magazine_issue_info": "v46 #2",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k07/k07079.htm#A3",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T01:03:15.281096"

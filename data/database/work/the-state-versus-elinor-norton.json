@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Ladies' Home Journal",
-    "pub_date": null,
-    "issue_info": "Part ? of ? appeared in v51 #1 (January 1934)",
-    "parts": null
+    "magazine_pub_date": null,
+    "magazine_issue_info": "Part ? of ? appeared in v51 #1 (January 1934)",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k06/k06106.htm#A17",
+    "serialized": true,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T20:38:24.936314"

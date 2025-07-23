@@ -48,12 +48,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "The Delineator",
-    "pub_date": "1931-09-10",
-    "issue_info": "v119 #3-6, v120 #1-4",
-    "parts": 8
+    "magazine_pub_date": "1931-09-10",
+    "magazine_issue_info": "v119 #3-6, v120 #1-4",
+    "digitized_url": "http://digital.library.wisc.edu/1711.dl/GenderStudies.DelineatorSep1931",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k03/k03742.htm#A9",
+    "serialized": true,
+    "serial_parts": 8
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T02:42:05.058818"

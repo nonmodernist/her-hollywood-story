@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Hearst's International-Cosmopolitan",
-    "pub_date": "1929-04-01",
-    "issue_info": "Vol. 86 No. 4",
-    "parts": 6
+    "magazine_pub_date": "1929-04-01",
+    "magazine_issue_info": "Vol. 86 No. 4",
+    "digitized_url": "https://archive.org/details/sim_cosmopolitan_1929-04_86_4",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k03/k03426.htm#A3",
+    "serialized": true,
+    "serial_parts": 6
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T21:40:04.079867"

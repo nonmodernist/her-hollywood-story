@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Collier's",
-    "pub_date": "1927-07-23",
-    "issue_info": "v80 #4-13",
-    "parts": 10
+    "magazine_pub_date": "1927-07-23",
+    "magazine_issue_info": "v80 #4-13",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k03/k03048.htm#A11",
+    "serialized": true,
+    "serial_parts": 10
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T02:36:05.174149"

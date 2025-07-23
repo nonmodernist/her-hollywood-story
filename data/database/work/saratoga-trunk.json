@@ -48,12 +48,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Cosmopolitan",
-    "pub_date": "1941-04-01",
-    "issue_info": "Vol. 110 No. 4-6, Vol. 111 No. 1-4",
-    "parts": 7
+    "magazine_pub_date": "1941-04-01",
+    "magazine_issue_info": "Vol. 110 No. 4-6, Vol. 111 No. 1-4",
+    "digitized_url": "https://archive.org/details/sim_cosmopolitan_1941-04_110_4",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k03/k03439.htm#A2",
+    "serialized": true,
+    "serial_parts": 7
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T21:21:37.957816"

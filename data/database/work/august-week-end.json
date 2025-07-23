@@ -48,12 +48,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Hearst's International-Cosmopolitan",
-    "pub_date": "1933-08-01",
-    "issue_info": "Vol. 95 No. 2",
-    "parts": null
+    "magazine_pub_date": "1933-08-01",
+    "magazine_issue_info": "Vol. 95 No. 2",
+    "digitized_url": "https://archive.org/details/sim_cosmopolitan_1933-08_95_2",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k03/k03431.htm#A1",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T01:09:57.316219"

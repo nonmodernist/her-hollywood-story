@@ -48,12 +48,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "The Delineator",
-    "pub_date": "1923-12-01",
-    "issue_info": "v103 #6, v104 #1-6",
-    "parts": 7
+    "magazine_pub_date": "1923-12-01",
+    "magazine_issue_info": "v103 #6, v104 #1-6",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k03/k03738.htm#A10",
+    "serialized": true,
+    "serial_parts": 7
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T02:40:06.966267"

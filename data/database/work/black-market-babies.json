@@ -48,12 +48,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Woman's Home Companion",
-    "pub_date": "1944-12-01",
-    "issue_info": "Dec 1944",
-    "parts": null
+    "magazine_pub_date": "1944-12-01",
+    "magazine_issue_info": "Dec 1944",
+    "digitized_url": null,
+    "FMI_link": null,
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-21T18:31:04.689738"

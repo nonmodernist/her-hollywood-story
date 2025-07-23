@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Redbook",
-    "pub_date": "1928-07-01",
-    "issue_info": "Vol. LI No. 3",
-    "parts": null
+    "magazine_pub_date": "1928-07-01",
+    "magazine_issue_info": "Vol. LI No. 3",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09076.htm#A1",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T03:17:25.835682"

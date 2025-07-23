@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Collier's National Weekly",
-    "pub_date": "1917-08-11",
-    "issue_info": "11 Aug-25 Aug 1917",
-    "parts": 3
+    "magazine_pub_date": "1917-08-11",
+    "magazine_issue_info": "11 Aug-25 Aug 1917",
+    "digitized_url": null,
+    "FMI_link": null,
+    "serialized": true,
+    "serial_parts": 3
   },
   "has_narrative": false,
   "last_updated": "2025-07-21T18:29:17.259642"

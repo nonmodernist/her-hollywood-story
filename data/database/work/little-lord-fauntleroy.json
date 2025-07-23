@@ -67,14 +67,15 @@
       "gap_years": 15
     }
   ],
-  "photoplay_edition": {
-    "count": 1
-  },
-  "serialization": {
+  "has_photoplay_edition": true,
+  "magazine_publication": {
     "magazine_title": "St. Nicholas",
-    "pub_date": "1885-11-01",
-    "issue_info": "v13 #1-12",
-    "parts": 12
+    "magazine_pub_date": "1885-11-01",
+    "magazine_issue_info": "v13 #1-12",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k10/k10621.htm#A7",
+    "serialized": true,
+    "serial_parts": 12
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T02:55:48.26948"

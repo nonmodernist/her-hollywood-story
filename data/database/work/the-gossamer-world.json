@@ -48,12 +48,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Woman's Home Companion",
-    "pub_date": "1948-08-01",
-    "issue_info": "v75 #8",
-    "parts": null
+    "magazine_pub_date": "1948-08-01",
+    "magazine_issue_info": "v75 #8",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k12/k12355.htm#A5",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T01:20:09.416062"

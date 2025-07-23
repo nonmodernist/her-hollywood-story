@@ -48,12 +48,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Ladies' Home Journal",
-    "pub_date": "1958-04-01",
-    "issue_info": "v75 #4-6",
-    "parts": 3
+    "magazine_pub_date": "1958-04-01",
+    "magazine_issue_info": "v75 #4-6",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k06/k06114.htm#A2",
+    "serialized": true,
+    "serial_parts": 3
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T21:22:33.182503"

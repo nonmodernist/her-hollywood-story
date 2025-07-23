@@ -512,3 +512,58 @@
         align-items: flex-start;
     }
 }
+
+/* Magazine publication styling */
+.issue-info {
+    font-style: italic;
+    color: var(--text-secondary);
+    margin-top: 0.5rem;
+    font-size: 0.95rem;
+}
+
+.serialization-note {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.95rem;
+    color: var(--text-muted);
+    margin-top: 0.5rem;
+    background: var(--background-alt);
+    padding: 0.5rem 1rem;
+    border-left: 2px solid var(--accent);
+}
+
+.external-link {
+    margin-top: 1rem;
+}
+
+.external-link a {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* Speed demon styling */
+.speed-note {
+    background: #fff3cd;
+    border: 1px solid #ffeaa7;
+    padding: 0.75rem 1rem;
+    margin-bottom: 1rem;
+    border-radius: 3px;
+    font-style: italic;
+}
+
+/* Pattern badge in meta */
+.work-meta .pattern-badge {
+    margin-left: 1rem;
+}
+
+/* Adaptation statistics */
+.adaptation-stats {
+    margin-top: 1rem;
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    text-align: center;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border-light);
+}

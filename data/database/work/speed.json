@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Saturday Evening Post",
-    "pub_date": "1924-10-18",
-    "issue_info": "18 Oct-25 Oct 1924",
-    "parts": 2
+    "magazine_pub_date": "1924-10-18",
+    "magazine_issue_info": "18 Oct-25 Oct 1924",
+    "digitized_url": null,
+    "FMI_link": null,
+    "serialized": true,
+    "serial_parts": 2
   },
   "has_narrative": false,
   "last_updated": "2025-07-21T18:17:32.022095"

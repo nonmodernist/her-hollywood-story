@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Hearst's International-Cosmopolitan",
-    "pub_date": "1934-07-01",
-    "issue_info": "Vol. 97 No. 1",
-    "parts": null
+    "magazine_pub_date": "1934-07-01",
+    "magazine_issue_info": "Vol. 97 No. 1",
+    "digitized_url": "https://archive.org/details/sim_cosmopolitan_1934-07_97_1",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k03/k03432.htm#A3",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T01:18:14.610619"

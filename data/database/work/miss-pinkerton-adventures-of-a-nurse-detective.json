@@ -67,12 +67,15 @@
       "gap_years": 9
     }
   ],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "The Saturday Evening Post",
-    "pub_date": "1932-01-02",
-    "issue_info": "v204 #27",
-    "parts": 7
+    "magazine_pub_date": "1932-01-02",
+    "magazine_issue_info": "v204 #27",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09553.htm#A5",
+    "serialized": true,
+    "serial_parts": 7
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T20:25:23.954222"

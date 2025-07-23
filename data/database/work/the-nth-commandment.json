@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "The Saturday Evening Post",
-    "pub_date": "1914-12-05",
-    "issue_info": "v187 #23",
-    "parts": null
+    "magazine_pub_date": "1914-12-05",
+    "magazine_issue_info": "v187 #23",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1914-12-05_187_23",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09459.htm#A14",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T21:59:45.783084"

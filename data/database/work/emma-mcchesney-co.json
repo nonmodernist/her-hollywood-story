@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Cosmopolitan",
-    "pub_date": "1915-01-01",
-    "issue_info": null,
-    "parts": null
+    "magazine_pub_date": "1915-01-01",
+    "magazine_issue_info": null,
+    "digitized_url": "http://hdl.handle.net/2027/mdp.39015024196803",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k03/k03408.htm#A13",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T20:56:14.465526"

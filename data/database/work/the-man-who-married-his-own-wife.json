@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Hearst's International-Cosmopolitan",
-    "pub_date": "1922-04-01",
-    "issue_info": "April 1922",
-    "parts": null
+    "magazine_pub_date": "1922-04-01",
+    "magazine_issue_info": "April 1922",
+    "digitized_url": null,
+    "FMI_link": null,
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-21T18:29:45.516078"

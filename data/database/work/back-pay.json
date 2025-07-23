@@ -69,12 +69,15 @@
       "gap_years": 8
     }
   ],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Cosmopolitan",
-    "pub_date": "1919-11-01",
-    "issue_info": "Vol. 67 No. 6",
-    "parts": null
+    "magazine_pub_date": "1919-11-01",
+    "magazine_issue_info": "Vol. 67 No. 6",
+    "digitized_url": "http://hdl.handle.net/2027/mdp.39015082474985",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k03/k03413.htm#A9",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T21:36:58.604999"

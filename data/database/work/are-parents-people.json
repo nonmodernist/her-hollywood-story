@@ -47,14 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": {
-    "count": 1
-  },
-  "serialization": {
+  "has_photoplay_edition": true,
+  "magazine_publication": {
     "magazine_title": "Saturday Evening Post",
-    "pub_date": "1923-05-05",
-    "issue_info": "v195 #45-47",
-    "parts": 3
+    "magazine_pub_date": "1923-05-05",
+    "magazine_issue_info": "v195 #45-47",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1923-05-05_195_45/mode/2up",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09497.htm#A6",
+    "serialized": true,
+    "serial_parts": 3
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T14:15:55.307357"

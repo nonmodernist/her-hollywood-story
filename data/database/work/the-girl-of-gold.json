@@ -48,12 +48,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Snappy Stories",
-    "pub_date": "1919-12-01",
-    "issue_info": "Dec 1919-1 Mar 1920",
-    "parts": 4
+    "magazine_pub_date": "1919-12-01",
+    "magazine_issue_info": "Dec 1919-1 Mar 1920",
+    "digitized_url": null,
+    "FMI_link": null,
+    "serialized": true,
+    "serial_parts": 4
   },
   "has_narrative": false,
   "last_updated": "2025-07-21T18:32:00.253788"

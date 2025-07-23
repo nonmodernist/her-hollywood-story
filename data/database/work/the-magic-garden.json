@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "McCall's",
-    "pub_date": "1926-10-01",
-    "issue_info": "Volume LIV Number 1",
-    "parts": 6
+    "magazine_pub_date": "1926-10-01",
+    "magazine_issue_info": "Volume LIV Number 1",
+    "digitized_url": "https://archive.org/details/sim_rosie_1926-10_54_1",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k07/k07034.htm#A13",
+    "serialized": true,
+    "serial_parts": 6
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T01:32:16.293772"

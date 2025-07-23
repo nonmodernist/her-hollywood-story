@@ -103,12 +103,15 @@
       "gap_years": 13
     }
   ],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Cosmopolitan",
-    "pub_date": "1930-09-01",
-    "issue_info": "Vol. 89 No. 3",
-    "parts": 7
+    "magazine_pub_date": "1930-09-01",
+    "magazine_issue_info": "Vol. 89 No. 3",
+    "digitized_url": "https://archive.org/details/sim_cosmopolitan_1930-09_89_3",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k03/k03427.htm#A9",
+    "serialized": true,
+    "serial_parts": 7
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T21:38:55.970803"

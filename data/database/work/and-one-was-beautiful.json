@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Saturday Evening Post",
-    "pub_date": "1937-10-02",
-    "issue_info": "v210 #14-19",
-    "parts": 6
+    "magazine_pub_date": "1937-10-02",
+    "magazine_issue_info": "v210 #14-19",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1937-10-02_210_14",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09581.htm#A8",
+    "serialized": true,
+    "serial_parts": 6
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T14:17:22.05623"

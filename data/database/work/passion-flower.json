@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Woman's Journal",
-    "pub_date": "1929-05-01",
-    "issue_info": "v4, #19-25",
-    "parts": 7
+    "magazine_pub_date": "1929-05-01",
+    "magazine_issue_info": "v4, #19-25",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k12/k12359.htm#A5",
+    "serialized": true,
+    "serial_parts": 7
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T02:37:29.979575"

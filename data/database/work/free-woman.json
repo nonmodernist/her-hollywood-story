@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Red Book Magazine",
-    "pub_date": "1936-11-01",
-    "issue_info": "Nov-Dec 1936",
-    "parts": null
+    "magazine_pub_date": "1936-11-01",
+    "magazine_issue_info": "Nov-Dec 1936",
+    "digitized_url": null,
+    "FMI_link": null,
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-21T18:17:32.022095"

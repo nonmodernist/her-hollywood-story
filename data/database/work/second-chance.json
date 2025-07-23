@@ -48,12 +48,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Woman's Day",
-    "pub_date": "1948-08-01",
-    "issue_info": "Aug 1948",
-    "parts": null
+    "magazine_pub_date": "1948-08-01",
+    "magazine_issue_info": "Aug 1948",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k12/k12324.htm#A4",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T01:15:16.857432"

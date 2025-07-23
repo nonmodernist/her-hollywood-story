@@ -68,12 +68,15 @@
       "gap_years": 29
     }
   ],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Woman’s Home Companion",
-    "pub_date": "1929-11-01",
-    "issue_info": "v56 #11-?",
-    "parts": null
+    "magazine_pub_date": "1929-11-01",
+    "magazine_issue_info": "v56 #11-?",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k12/k12344.htm#A10",
+    "serialized": true,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T20:49:53.838644"

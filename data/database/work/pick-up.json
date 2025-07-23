@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Red Book Magazine",
-    "pub_date": "1928-11-01",
-    "issue_info": "Vol. LII No. 1",
-    "parts": null
+    "magazine_pub_date": "1928-11-01",
+    "magazine_issue_info": "Vol. LII No. 1",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09076.htm#A5",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T03:20:20.94431"

@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "The American Magazine",
-    "pub_date": "1917-04-01",
-    "issue_info": "v83 #4-6, v84 #1-5",
-    "parts": 8
+    "magazine_pub_date": "1917-04-01",
+    "magazine_issue_info": "v83 #4-6, v84 #1-5",
+    "digitized_url": "https://hdl.handle.net/2027/mdp.39015038078906",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k00/k00737.htm#A3",
+    "serialized": true,
+    "serial_parts": 8
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T20:58:06.676171"

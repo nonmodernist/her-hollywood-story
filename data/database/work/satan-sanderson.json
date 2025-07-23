@@ -47,13 +47,8 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
-    "parts": null
-  },
+  "has_photoplay_edition": false,
+  "magazine_publication": null,
   "has_narrative": false,
   "last_updated": "2025-07-16T14:13:31.585387"
 }

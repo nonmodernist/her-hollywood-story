@@ -108,15 +108,8 @@
       "gap_years": 20
     }
   ],
-  "photoplay_edition": {
-    "count": 0
-  },
-  "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
-    "parts": null
-  },
+  "has_photoplay_edition": true,
+  "magazine_publication": null,
   "has_narrative": false,
   "last_updated": "2025-07-21T17:39:30.350666"
 }

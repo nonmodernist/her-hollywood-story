@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Women's Stories",
-    "pub_date": "1914-05-15",
-    "issue_info": "15 May-1 Jun 1914",
-    "parts": 3
+    "magazine_pub_date": "1914-05-15",
+    "magazine_issue_info": "15 May-1 Jun 1914",
+    "digitized_url": null,
+    "FMI_link": null,
+    "serialized": true,
+    "serial_parts": 3
   },
   "has_narrative": false,
   "last_updated": "2025-07-21T18:17:32.022095"

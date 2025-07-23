@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "The Saturday Evening Post",
-    "pub_date": "1912-11-09",
-    "issue_info": "v185 #19",
-    "parts": null
+    "magazine_pub_date": "1912-11-09",
+    "magazine_issue_info": "v185 #19",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1912-11-09_185_19",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09451.htm#A5",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T20:11:46.071877"

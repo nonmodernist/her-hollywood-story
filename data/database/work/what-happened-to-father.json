@@ -67,12 +67,15 @@
       "gap_years": 12
     }
   ],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Lippincott's Monthly Magazine",
-    "pub_date": "1909-09-01",
-    "issue_info": "v84 #3",
-    "parts": null
+    "magazine_pub_date": "1909-09-01",
+    "magazine_issue_info": "v84 #3",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k06/k06393.htm#A5",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T20:46:28.437994"

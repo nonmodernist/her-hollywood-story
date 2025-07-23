@@ -67,12 +67,15 @@
       "gap_years": 7
     }
   ],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Scribner's Monthly",
-    "pub_date": "1876-08-01",
-    "issue_info": "v12 #4-6, v13 #1-6, v14 #1",
-    "parts": 10
+    "magazine_pub_date": "1876-08-01",
+    "magazine_issue_info": "v12 #4-6, v13 #1-6, v14 #1",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k02/k02707.htm#A4",
+    "serialized": true,
+    "serial_parts": 10
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T03:00:42.032552"

@@ -69,14 +69,15 @@
       "gap_years": 9
     }
   ],
-  "photoplay_edition": {
-    "count": 0
-  },
-  "serialization": {
+  "has_photoplay_edition": true,
+  "magazine_publication": {
     "magazine_title": "Scribner's Magazine",
-    "pub_date": "1905-12-01",
-    "issue_info": "v38 #6, v39 #1",
-    "parts": 2
+    "magazine_pub_date": "1905-12-01",
+    "magazine_issue_info": "v38 #6, v39 #1",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09898.htm#A7",
+    "serialized": true,
+    "serial_parts": 2
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T03:01:49.328338"

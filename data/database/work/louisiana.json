@@ -48,12 +48,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Scribner's Monthly",
-    "pub_date": "1880-02-01",
-    "issue_info": "v19 #4-6, v20 #1",
-    "parts": 4
+    "magazine_pub_date": "1880-02-01",
+    "magazine_issue_info": "v19 #4-6, v20 #1",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k02/k02711.htm#A6",
+    "serialized": true,
+    "serial_parts": 4
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T02:57:06.03111"

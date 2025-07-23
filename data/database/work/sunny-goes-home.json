@@ -69,12 +69,15 @@
       "gap_years": 13
     }
   ],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Saturday Evening Post ",
-    "pub_date": "1921-05-07",
-    "issue_info": null,
-    "parts": null
+    "magazine_pub_date": "1921-05-07",
+    "magazine_issue_info": null,
+    "digitized_url": null,
+    "FMI_link": null,
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-21T18:29:42.823139"

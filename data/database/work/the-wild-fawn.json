@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Munsey's Magazine",
-    "pub_date": "1919-09-01",
-    "issue_info": "Sep 1919-Feb 1920",
-    "parts": 6
+    "magazine_pub_date": "1919-09-01",
+    "magazine_issue_info": "Sep 1919-Feb 1920",
+    "digitized_url": null,
+    "FMI_link": null,
+    "serialized": true,
+    "serial_parts": 6
   },
   "has_narrative": false,
   "last_updated": "2025-07-21T18:29:33.575652"

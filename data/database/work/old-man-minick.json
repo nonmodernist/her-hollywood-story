@@ -91,12 +91,15 @@
       "gap_years": 7
     }
   ],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Woman's Home Companion",
-    "pub_date": "1922-06-05",
-    "issue_info": "v49 #6",
-    "parts": null
+    "magazine_pub_date": "1922-06-05",
+    "magazine_issue_info": "v49 #6",
+    "digitized_url": "https://hdl.handle.net/2027/mdp.39015014112653?urlappend=%3Bseq=578",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k12/k12340.htm#A5",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T21:16:15.200541"

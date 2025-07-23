@@ -87,12 +87,15 @@
       "gap_years": 12
     }
   ],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "McCall's",
-    "pub_date": "1925-02-01",
-    "issue_info": "Volume LII Number 5",
-    "parts": 8
+    "magazine_pub_date": "1925-02-01",
+    "magazine_issue_info": "Volume LII Number 5",
+    "digitized_url": "https://archive.org/details/sim_rosie_1925-02_52_5",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k07/k07033.htm#A13",
+    "serialized": true,
+    "serial_parts": 8
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T01:29:58.305797"

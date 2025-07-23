@@ -87,14 +87,15 @@
       "gap_years": 6
     }
   ],
-  "photoplay_edition": {
-    "count": 1
-  },
-  "serialization": {
+  "has_photoplay_edition": true,
+  "magazine_publication": {
     "magazine_title": "The Saturday Evening Post",
-    "pub_date": "1921-08-06",
-    "issue_info": "v194 #6-10",
-    "parts": 5
+    "magazine_pub_date": "1921-08-06",
+    "magazine_issue_info": "v194 #6-10",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1921-08-06_194_6",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09489.htm#A4",
+    "serialized": true,
+    "serial_parts": 5
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T14:30:21.054185"

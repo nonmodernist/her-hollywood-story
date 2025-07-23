@@ -48,12 +48,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "McClure's",
-    "pub_date": "1921-06-01",
-    "issue_info": "v53 #6-8, v54 #1-6",
-    "parts": null
+    "magazine_pub_date": "1921-06-01",
+    "magazine_issue_info": "v53 #6-8, v54 #1-6",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k07/k07085.htm#A8",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T20:30:13.33145"

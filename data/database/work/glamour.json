@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Hearst's International-Cosmopolitan",
-    "pub_date": "1932-03-01",
-    "issue_info": "Vol. 92 No. 3",
-    "parts": null
+    "magazine_pub_date": "1932-03-01",
+    "magazine_issue_info": "Vol. 92 No. 3",
+    "digitized_url": "https://archive.org/details/sim_cosmopolitan_1932-03_92_3",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k03/k03429.htm#A7",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T21:02:23.844081"

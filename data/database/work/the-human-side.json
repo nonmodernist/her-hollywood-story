@@ -48,12 +48,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Hearst's International-Cosmopolitan",
-    "pub_date": "1939-11-01",
-    "issue_info": "Vol. 107 No. 5",
-    "parts": null
+    "magazine_pub_date": "1939-11-01",
+    "magazine_issue_info": "Vol. 107 No. 5",
+    "digitized_url": "https://archive.org/details/sim_cosmopolitan_1939-11_107_5",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k03/k03437.htm#A9",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T03:24:01.714868"

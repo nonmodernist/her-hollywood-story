@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "The Saturday Evening Post",
-    "pub_date": "1927-04-16",
-    "issue_info": "v199 #42",
-    "parts": 10
+    "magazine_pub_date": "1927-04-16",
+    "magazine_issue_info": "v199 #42",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1927-04-16_199_42",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09524.htm#A4",
+    "serialized": true,
+    "serial_parts": 10
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T20:19:31.437669"

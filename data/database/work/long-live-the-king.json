@@ -48,14 +48,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": {
-    "count": 0
-  },
-  "serialization": {
+  "has_photoplay_edition": true,
+  "magazine_publication": {
     "magazine_title": "Munsey’s Magazine",
-    "pub_date": "1912-12-01",
-    "issue_info": "v48 #3",
-    "parts": null
+    "magazine_pub_date": "1912-12-01",
+    "magazine_issue_info": "v48 #3",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k07/k07312.htm#A1",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T20:30:26.451631"

@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "The Saturday Evening Post",
-    "pub_date": "1929-12-14",
-    "issue_info": "v202 #24-26",
-    "parts": 3
+    "magazine_pub_date": "1929-12-14",
+    "magazine_issue_info": "v202 #24-26",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1929-12-14_202_24",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09540.htm#A6",
+    "serialized": true,
+    "serial_parts": 3
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T14:40:54.817037"

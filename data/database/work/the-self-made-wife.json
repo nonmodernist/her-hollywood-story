@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Saturday Evening Post",
-    "pub_date": "1922-10-28",
-    "issue_info": "28 Oct-18 Nov 1922",
-    "parts": 3
+    "magazine_pub_date": "1922-10-28",
+    "magazine_issue_info": "28 Oct-18 Nov 1922",
+    "digitized_url": null,
+    "FMI_link": null,
+    "serialized": true,
+    "serial_parts": 3
   },
   "has_narrative": false,
   "last_updated": "2025-07-21T18:17:32.022095"

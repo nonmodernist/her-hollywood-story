@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Metropolitan",
-    "pub_date": "1917-10-01",
-    "issue_info": "v46 #5",
-    "parts": null
+    "magazine_pub_date": "1917-10-01",
+    "magazine_issue_info": "v46 #5",
+    "digitized_url": "https://hdl.handle.net/2027/uva.x030708296",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k07/k07138.htm#A10",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T21:30:49.090146"

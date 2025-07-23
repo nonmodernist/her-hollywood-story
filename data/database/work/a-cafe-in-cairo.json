@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "Ainslee's Magazine",
-    "pub_date": "1923-10-01",
-    "issue_info": "v52 #2-6, v53 #1-2",
-    "parts": 7
+    "magazine_pub_date": "1923-10-01",
+    "magazine_issue_info": "v52 #2-6, v53 #1-2",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k00/k00274.htm#A3",
+    "serialized": true,
+    "serial_parts": 7
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T01:40:05.308614"

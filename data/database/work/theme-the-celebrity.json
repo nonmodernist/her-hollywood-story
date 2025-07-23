@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "The Saturday Evening Post",
-    "pub_date": "1916-11-25",
-    "issue_info": "v189 #22",
-    "parts": null
+    "magazine_pub_date": "1916-11-25",
+    "magazine_issue_info": "v189 #22",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1916-11-25_189_22",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09466.htm#A10",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T20:35:46.704283"

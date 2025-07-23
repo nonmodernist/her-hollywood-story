@@ -69,12 +69,15 @@
       "gap_years": 5
     }
   ],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "All-Story Weekly",
-    "pub_date": "1918-04-06",
-    "issue_info": "Vol. LXXXII Number 4",
-    "parts": null
+    "magazine_pub_date": "1918-04-06",
+    "magazine_issue_info": "Vol. LXXXII Number 4",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k00/k00510.htm#A9",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T01:41:55.174264"

@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "The Saturday Evening Post",
-    "pub_date": "1936-03-21",
-    "issue_info": "v208 #38",
-    "parts": 6
+    "magazine_pub_date": "1936-03-21",
+    "magazine_issue_info": "v208 #38",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1936-03-21_208_38",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09573.htm#A3",
+    "serialized": true,
+    "serial_parts": 6
   },
   "has_narrative": false,
   "last_updated": "2025-07-23T01:13:27.754488"

@@ -40,6 +40,22 @@ function formatNameList(names) {
     return names.split('|').map(name => name.trim()).join(', ');
 }
 
+// date formatter helper
+function formatMagazineDate(dateStr) {
+    if (!dateStr) return '';
+    
+    // Handle YYYY-MM-DD format
+    const match = dateStr.match(/^(\d{4})-(\d{2})-\d{2}$/);
+    if (match) {
+        const months = ['January', 'February', 'March', 'April', 'May', 'June', 
+                       'July', 'August', 'September', 'October', 'November', 'December'];
+        const monthIndex = parseInt(match[2]) - 1;
+        return `${months[monthIndex]} ${match[1]}`;
+    }
+    
+    return dateStr;
+}
+
 // Configuration
 const ITEMS_PER_PAGE = 50;
 
@@ -512,6 +528,8 @@ function renderWorkDetail(work) {
                 by <a href="${getDatabaseURL('/author/' + work.author.slug)}">${work.author.name}</a> · 
                 ${capitalizeFirst(work.work_type?.replace('_', ' ') || 'Unknown type')} · 
                 ${work.publication_year || 'Publication year unknown'}
+                ${work.patterns.is_speed_demon ? '<span class="pattern-badge speed-demon" title="Adapted within 1 year">Hot off the Press</span>' : ''}
+
             </div>
             
             <div class="detail-sections">
@@ -528,9 +546,38 @@ function renderWorkDetail(work) {
                         <p>${work.literary_significance}</p>
                     </section>
                 ` : ''}
+
+                <!-- Magazine Publication Section -->
+                ${work.magazine_publication ? `
+                    <section class="detail-section">
+                        <h3>Original Publication</h3>
+                        <p><strong>${work.magazine_publication.magazine_title}</strong>${work.magazine_publication.magazine_pub_date ? ` · ${formatMagazineDate(work.magazine_publication.magazine_pub_date)}` : ''}</p>
+                        
+                        ${work.magazine_publication.magazine_issue_info ? 
+                            `<p class="issue-info">${work.magazine_publication.magazine_issue_info}</p>` : ''}
+                        
+                        ${work.magazine_publication.serialized && work.magazine_publication.serial_parts ? 
+                            `<p class="serialization-note">Serialized in ${work.magazine_publication.serial_parts} parts</p>` : ''}
+                        
+                        ${work.magazine_publication.FMI_link ? 
+                            `<p class="external-link"><a href="${work.magazine_publication.FMI_link}" target="_blank" rel="noopener">View in FictionMags Index →</a></p>` : ''}
+                    </section>
+                ` : ''}
                 
-                <section class="detail-section">
-                    <h3>Film Adaptations (${work.stats.adaptation_count})</h3>
+                <!-- Photoplay Edition Section (simplified for now) -->
+                ${work.has_photoplay_edition ? `
+                    <section class="detail-section">
+                        <h3>Photoplay Edition</h3>
+                        <p class="photoplay-note">A photoplay edition of this work was published. More details coming soon!</p>
+                    </section>
+                ` : ''}
+                
+                    <section class="detail-section">
+                    <h3>Film Adaptation${work.stats.adaptation_count > 1 ? 's' : ''} (${work.stats.adaptation_count})</h3>
+                    
+                    ${work.patterns.is_speed_demon ? `
+                        <p class="speed-note">⚡ Adapted just ${work.patterns.speed_demon_delay} year${work.patterns.speed_demon_delay !== 1 ? 's' : ''} after publication!</p>
+                    ` : ''}
                     <div class="adaptations-list">
                         ${work.adaptations.map((film, index) => `
                             <div class="adaptation-item">
@@ -545,6 +592,9 @@ function renderWorkDetail(work) {
                             </div>
                         `).join('')}
                     </div>
+                    ${work.adaptation_gaps && work.adaptation_gaps.length > 0 ? `
+                        <p class="adaptation-stats">Average gap between adaptations: ${work.stats.average_gap_between_adaptations} years</p>
+                    ` : ''}
                 </section>
             </div>
         </div>

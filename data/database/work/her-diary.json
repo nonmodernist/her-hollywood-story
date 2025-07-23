@@ -47,12 +47,15 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "The Saturday Evening Post",
-    "pub_date": "1917-02-17",
-    "issue_info": "v189 #34",
-    "parts": null
+    "magazine_pub_date": "1917-02-17",
+    "magazine_issue_info": "v189 #34",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1917-02-17_189_34",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09467.htm#A7",
+    "serialized": false,
+    "serial_parts": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T20:09:31.84957"

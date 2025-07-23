@@ -67,12 +67,15 @@
       "gap_years": 11
     }
   ],
-  "photoplay_edition": null,
-  "serialization": {
+  "has_photoplay_edition": false,
+  "magazine_publication": {
     "magazine_title": "The Saturday Evening Post",
-    "pub_date": "1933-10-21",
-    "issue_info": "v206 #17-20",
-    "parts": 4
+    "magazine_pub_date": "1933-10-21",
+    "magazine_issue_info": "v206 #17-20",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1933-10-21_206_17",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09561.htm#A3",
+    "serialized": true,
+    "serial_parts": 4
   },
   "has_narrative": false,
   "last_updated": "2025-07-22T14:22:46.038828"

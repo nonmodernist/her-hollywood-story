@@ -1,0 +1,80 @@
+{
+  "id": 362,
+  "slug": "sara-crewe-or-what-happened-at-miss-minchins",
+  "title": "Sara Crewe; or, What Happened at Miss Minchin’s",
+  "formatted_title": "Sara Crewe; or, What Happened at Miss Minchin’s",
+  "html_title": "<span class=\"work-title\">Sara Crewe; or, What Happened at Miss Minchin’s</span>",
+  "work_type": "novel",
+  "publication_year": 1887,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 3,
+    "slug": "frances-hodgson-burnett",
+    "name": "Frances Hodgson Burnett",
+    "birth_year": 1849,
+    "death_year": 1924,
+    "film_count": 17
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 22,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 22
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 30,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 426,
+      "slug": "the-little-princess-1917",
+      "title": "The Little Princess",
+      "html_title": "<span class=\"film-title\">The Little Princess</span>",
+      "year": 1917,
+      "studio": "Mary Pickford",
+      "directors": "Marshall Neilan",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 30
+    },
+    {
+      "id": 427,
+      "slug": "the-little-princess-1939",
+      "title": "The Little Princess",
+      "html_title": "<span class=\"film-title\">The Little Princess</span>",
+      "year": 1939,
+      "studio": "20th Century Fox",
+      "directors": "Walter Lang",
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "has_media": true,
+      "years_after_publication": 52
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1917,
+      "to_year": 1939,
+      "gap_years": 22
+    }
+  ],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": "St. Nicholas",
+    "pub_date": "1887-12-01",
+    "issue_info": "v15 #2-4",
+    "parts": 3
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-23T02:58:38.138639"
+}

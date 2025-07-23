@@ -371,7 +371,7 @@
         "html_title": "<span class=\"work-title\">Back Street</span>",
         "work_type": "novel",
         "genre": null,
-        "publication_year": 1931
+        "publication_year": 1930
       },
       "author": {
         "id": 25,
@@ -823,9 +823,9 @@
         "id": 213,
         "slug": "sister-act",
         "title": "Sister Act",
-        "formatted_title": "\"Sister Act\"",
-        "html_title": "<span class=\"work-title short-story\">\"Sister Act\"</span>",
-        "work_type": "short_story",
+        "formatted_title": "Sister Act",
+        "html_title": "<span class=\"work-title\">Sister Act</span>",
+        "work_type": "novella",
         "genre": null,
         "publication_year": 1937
       },
@@ -979,7 +979,7 @@
         "html_title": "<span class=\"work-title\">The Circular Staircase</span>",
         "work_type": "novel",
         "genre": null,
-        "publication_year": 1908
+        "publication_year": 1907
       },
       "author": {
         "id": 6,
@@ -1217,7 +1217,7 @@
             "html_title": "<span class=\"work-title\">Back Street</span>",
             "work_type": "novel",
             "genre": null,
-            "publication_year": 1931
+            "publication_year": 1930
           },
           "author": {
             "id": 25,
@@ -1669,9 +1669,9 @@
             "id": 213,
             "slug": "sister-act",
             "title": "Sister Act",
-            "formatted_title": "\"Sister Act\"",
-            "html_title": "<span class=\"work-title short-story\">\"Sister Act\"</span>",
-            "work_type": "short_story",
+            "formatted_title": "Sister Act",
+            "html_title": "<span class=\"work-title\">Sister Act</span>",
+            "work_type": "novella",
             "genre": null,
             "publication_year": 1937
           },
@@ -1825,7 +1825,7 @@
             "html_title": "<span class=\"work-title\">The Circular Staircase</span>",
             "work_type": "novel",
             "genre": null,
-            "publication_year": 1908
+            "publication_year": 1907
           },
           "author": {
             "id": 6,
@@ -3013,7 +3013,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-07-22T19:02:30.088Z",
+    "generated": "2025-07-23T13:53:15.674Z",
     "version": "2.0"
   }
 }

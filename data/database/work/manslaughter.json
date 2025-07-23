@@ -14,8 +14,8 @@
     "id": 24,
     "slug": "alice-duer-miller",
     "name": "Alice Duer Miller",
-    "birth_year": 1894,
-    "death_year": 1985,
+    "birth_year": 1874,
+    "death_year": 1942,
     "film_count": 22
   },
   "stats": {
@@ -88,17 +88,14 @@
     }
   ],
   "photoplay_edition": {
-    "year": 1932,
-    "publisher": "Grosset & Dunlap",
-    "notes": "8 pictures",
-    "count": 0
+    "count": 1
   },
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
-    "parts": null
+    "magazine_title": "The Saturday Evening Post",
+    "pub_date": "1921-08-06",
+    "issue_info": "v194 #6-10",
+    "parts": 5
   },
   "has_narrative": false,
-  "last_updated": "2025-07-21T17:39:30.350666"
+  "last_updated": "2025-07-22T14:30:21.054185"
 }

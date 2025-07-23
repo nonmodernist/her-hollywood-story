@@ -4,8 +4,8 @@
   "title": "The Dawn of a Tomorrow",
   "formatted_title": "The Dawn of a Tomorrow",
   "html_title": "<span class=\"work-title\">The Dawn of a Tomorrow</span>",
-  "work_type": "novel",
-  "publication_year": 1906,
+  "work_type": "novella",
+  "publication_year": 1905,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 9,
+    "speed_demon_delay": 10,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,7 +44,7 @@
         "Social"
       ],
       "has_media": true,
-      "years_after_publication": 9
+      "years_after_publication": 10
     },
     {
       "id": 430,
@@ -59,7 +59,7 @@
         "Crime"
       ],
       "has_media": true,
-      "years_after_publication": 18
+      "years_after_publication": 19
     }
   ],
   "adaptation_gaps": [
@@ -70,17 +70,14 @@
     }
   ],
   "photoplay_edition": {
-    "year": 1924,
-    "publisher": "Grosset & Dunlap",
-    "notes": "8 pictures",
     "count": 0
   },
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
-    "parts": null
+    "magazine_title": "Scribner's Magazine",
+    "pub_date": "1905-12-01",
+    "issue_info": "v38 #6, v39 #1",
+    "parts": 2
   },
   "has_narrative": false,
-  "last_updated": "2025-07-21T17:39:30.350666"
+  "last_updated": "2025-07-23T03:01:49.328338"
 }

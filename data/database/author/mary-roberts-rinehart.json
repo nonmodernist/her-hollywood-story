@@ -143,8 +143,8 @@
         "Comedy"
       ],
       "has_media": false,
-      "work_title": "Theme: the Celebrity",
-      "work_html_title": "<span class=\"work-title short-story\">\"Theme: the Celebrity\"</span>",
+      "work_title": "Theme: The Celebrity",
+      "work_html_title": "<span class=\"work-title short-story\">\"Theme: The Celebrity\"</span>",
       "work_id": 840
     },
     {
@@ -258,7 +258,7 @@
       ],
       "has_media": false,
       "work_title": "Affinities",
-      "work_html_title": "<span class=\"work-title short-story\">\"Affinities\"</span>",
+      "work_html_title": "<span class=\"work-title\">Affinities</span>",
       "work_id": 826
     },
     {
@@ -323,7 +323,7 @@
       ],
       "has_media": false,
       "work_title": "Her Majesty, the Queen",
-      "work_html_title": "<span class=\"work-title short-story\">\"Her Majesty, the Queen\"</span>",
+      "work_html_title": "<span class=\"work-title\">Her Majesty, the Queen</span>",
       "work_id": 833
     },
     {
@@ -420,8 +420,8 @@
         "Comedy"
       ],
       "has_media": false,
-      "work_title": "Make Them Happy",
-      "work_html_title": "<span class=\"work-title short-story\">\"Make Them Happy\"</span>",
+      "work_title": "Finders Keepers",
+      "work_html_title": "<span class=\"work-title short-story\">\"Finders Keepers\"</span>",
       "work_id": 836
     },
     {
@@ -566,7 +566,7 @@
       "formatted_title": "The Circular Staircase",
       "html_title": "<span class=\"work-title\">The Circular Staircase</span>",
       "work_type": "novel",
-      "publication_year": 1908,
+      "publication_year": 1907,
       "genre": null,
       "adaptation_count": 4,
       "is_remake_champion": true
@@ -590,7 +590,7 @@
       "formatted_title": "K — the Unknown",
       "html_title": "<span class=\"work-title\">K — the Unknown</span>",
       "work_type": "novel",
-      "publication_year": 1915,
+      "publication_year": 1914,
       "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
@@ -658,11 +658,11 @@
     {
       "id": 840,
       "slug": "theme-the-celebrity",
-      "title": "Theme: the Celebrity",
-      "formatted_title": "\"Theme: the Celebrity\"",
-      "html_title": "<span class=\"work-title short-story\">\"Theme: the Celebrity\"</span>",
+      "title": "Theme: The Celebrity",
+      "formatted_title": "\"Theme: The Celebrity\"",
+      "html_title": "<span class=\"work-title short-story\">\"Theme: The Celebrity\"</span>",
       "work_type": "short_story",
-      "publication_year": null,
+      "publication_year": 1916,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -674,7 +674,7 @@
       "formatted_title": "\"The G. A. C.\"",
       "html_title": "<span class=\"work-title short-story\">\"The G. A. C.\"</span>",
       "work_type": "short_story",
-      "publication_year": null,
+      "publication_year": 1917,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -719,10 +719,10 @@
       "id": 826,
       "slug": "affinities",
       "title": "Affinities",
-      "formatted_title": "\"Affinities\"",
-      "html_title": "<span class=\"work-title short-story\">\"Affinities\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1920,
+      "formatted_title": "Affinities",
+      "html_title": "<span class=\"work-title\">Affinities</span>",
+      "work_type": "novella",
+      "publication_year": 1913,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -734,7 +734,7 @@
       "formatted_title": "\"In the Pavilion\"",
       "html_title": "<span class=\"work-title short-story\">\"In the Pavilion\"</span>",
       "work_type": "short_story",
-      "publication_year": 1919,
+      "publication_year": 1912,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -745,8 +745,8 @@
       "title": "Long Live the King",
       "formatted_title": "Long Live the King",
       "html_title": "<span class=\"work-title\">Long Live the King</span>",
-      "work_type": "novel",
-      "publication_year": 1917,
+      "work_type": "novella",
+      "publication_year": 1912,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -767,9 +767,9 @@
       "id": 833,
       "slug": "her-majesty-the-queen",
       "title": "Her Majesty, the Queen",
-      "formatted_title": "\"Her Majesty, the Queen\"",
-      "html_title": "<span class=\"work-title short-story\">\"Her Majesty, the Queen\"</span>",
-      "work_type": "short_story",
+      "formatted_title": "Her Majesty, the Queen",
+      "html_title": "<span class=\"work-title\">Her Majesty, the Queen</span>",
+      "work_type": "novella",
       "publication_year": 1924,
       "genre": null,
       "adaptation_count": 1,
@@ -782,7 +782,7 @@
       "formatted_title": "The Breaking Point",
       "html_title": "<span class=\"work-title\">The Breaking Point</span>",
       "work_type": "novel",
-      "publication_year": 1922,
+      "publication_year": 1921,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -801,10 +801,10 @@
     },
     {
       "id": 836,
-      "slug": "make-them-happy",
-      "title": "Make Them Happy",
-      "formatted_title": "\"Make Them Happy\"",
-      "html_title": "<span class=\"work-title short-story\">\"Make Them Happy\"</span>",
+      "slug": "finders-keepers",
+      "title": "Finders Keepers",
+      "formatted_title": "\"Finders Keepers\"",
+      "html_title": "<span class=\"work-title short-story\">\"Finders Keepers\"</span>",
       "work_type": "short_story",
       "publication_year": 1919,
       "genre": null,
@@ -855,7 +855,7 @@
     "formatted_title": "The Circular Staircase",
     "html_title": "<span class=\"work-title\">The Circular Staircase</span>",
     "work_type": "novel",
-    "publication_year": 1908,
+    "publication_year": 1907,
     "genre": null,
     "adaptation_count": 4,
     "is_remake_champion": true

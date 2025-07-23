@@ -95,8 +95,8 @@
         "Drama"
       ],
       "has_media": true,
-      "work_title": "The Petal on the Current",
-      "work_html_title": "<span class=\"work-title short-story\">\"The Petal on the Current\"</span>",
+      "work_title": "A Petal on the Current",
+      "work_html_title": "<span class=\"work-title short-story\">\"A Petal on the Current\"</span>",
       "work_id": 53
     },
     {
@@ -112,7 +112,7 @@
       ],
       "has_media": true,
       "work_title": "Humoresque",
-      "work_html_title": "<span class=\"work-title short-story\">\"Humoresque\"</span>",
+      "work_html_title": "<span class=\"work-title\">Humoresque</span>",
       "work_id": 60
     },
     {
@@ -127,8 +127,8 @@
         "Melodrama"
       ],
       "has_media": true,
-      "work_title": "The Superman",
-      "work_html_title": "<span class=\"work-title short-story\">\"The Superman\"</span>",
+      "work_title": "Superman",
+      "work_html_title": "<span class=\"work-title short-story\">\"Superman\"</span>",
       "work_id": 75
     },
     {
@@ -227,7 +227,7 @@
       ],
       "has_media": true,
       "work_title": "Roulette",
-      "work_html_title": "<span class=\"work-title short-story\">\"Roulette\"</span>",
+      "work_html_title": "<span class=\"work-title\">Roulette</span>",
       "work_id": 143
     },
     {
@@ -243,8 +243,8 @@
         "with songs"
       ],
       "has_media": false,
-      "work_title": "Give the Little Girl a Hand",
-      "work_html_title": "<span class=\"work-title short-story\">\"Give the Little Girl a Hand\"</span>",
+      "work_title": "Give This Little Girl a Hand",
+      "work_html_title": "<span class=\"work-title short-story\">\"Give This Little Girl a Hand\"</span>",
       "work_id": 148
     },
     {
@@ -361,7 +361,7 @@
       ],
       "has_media": true,
       "work_title": "Sister Act",
-      "work_html_title": "<span class=\"work-title short-story\">\"Sister Act\"</span>",
+      "work_html_title": "<span class=\"work-title\">Sister Act</span>",
       "work_id": 213
     },
     {
@@ -377,7 +377,7 @@
       ],
       "has_media": true,
       "work_title": "Sister Act",
-      "work_html_title": "<span class=\"work-title short-story\">\"Sister Act\"</span>",
+      "work_html_title": "<span class=\"work-title\">Sister Act</span>",
       "work_id": 213
     },
     {
@@ -410,7 +410,7 @@
       ],
       "has_media": false,
       "work_title": "Sister Act",
-      "work_html_title": "<span class=\"work-title short-story\">\"Sister Act\"</span>",
+      "work_html_title": "<span class=\"work-title\">Sister Act</span>",
       "work_id": 213
     },
     {
@@ -427,7 +427,7 @@
       ],
       "has_media": true,
       "work_title": "Humoresque",
-      "work_html_title": "<span class=\"work-title short-story\">\"Humoresque\"</span>",
+      "work_html_title": "<span class=\"work-title\">Humoresque</span>",
       "work_id": 60
     },
     {
@@ -460,7 +460,7 @@
       ],
       "has_media": true,
       "work_title": "Sister Act",
-      "work_html_title": "<span class=\"work-title short-story\">\"Sister Act\"</span>",
+      "work_html_title": "<span class=\"work-title\">Sister Act</span>",
       "work_id": 213
     },
     {
@@ -505,7 +505,7 @@
       "formatted_title": "Back Street",
       "html_title": "<span class=\"work-title\">Back Street</span>",
       "work_type": "novel",
-      "publication_year": 1931,
+      "publication_year": 1930,
       "genre": null,
       "adaptation_count": 4,
       "is_remake_champion": true
@@ -514,9 +514,9 @@
       "id": 213,
       "slug": "sister-act",
       "title": "Sister Act",
-      "formatted_title": "\"Sister Act\"",
-      "html_title": "<span class=\"work-title short-story\">\"Sister Act\"</span>",
-      "work_type": "short_story",
+      "formatted_title": "Sister Act",
+      "html_title": "<span class=\"work-title\">Sister Act</span>",
+      "work_type": "novella",
       "publication_year": 1937,
       "genre": null,
       "adaptation_count": 4,
@@ -526,9 +526,9 @@
       "id": 60,
       "slug": "humoresque",
       "title": "Humoresque",
-      "formatted_title": "\"Humoresque\"",
-      "html_title": "<span class=\"work-title short-story\">\"Humoresque\"</span>",
-      "work_type": "short_story",
+      "formatted_title": "Humoresque",
+      "html_title": "<span class=\"work-title\">Humoresque</span>",
+      "work_type": "novella",
       "publication_year": 1919,
       "genre": null,
       "adaptation_count": 2,
@@ -541,7 +541,7 @@
       "formatted_title": "\"Back Pay\"",
       "html_title": "<span class=\"work-title short-story\">\"Back Pay\"</span>",
       "work_type": "short_story",
-      "publication_year": 1922,
+      "publication_year": 1919,
       "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
@@ -584,10 +584,10 @@
     },
     {
       "id": 53,
-      "slug": "the-petal-on-the-current",
-      "title": "The Petal on the Current",
-      "formatted_title": "\"The Petal on the Current\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Petal on the Current\"</span>",
+      "slug": "a-petal-on-the-current",
+      "title": "A Petal on the Current",
+      "formatted_title": "\"A Petal on the Current\"",
+      "html_title": "<span class=\"work-title short-story\">\"A Petal on the Current\"</span>",
       "work_type": "short_story",
       "publication_year": 1918,
       "genre": null,
@@ -596,10 +596,10 @@
     },
     {
       "id": 75,
-      "slug": "the-superman",
-      "title": "The Superman",
-      "formatted_title": "\"The Superman\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Superman\"</span>",
+      "slug": "superman",
+      "title": "Superman",
+      "formatted_title": "\"Superman\"",
+      "html_title": "<span class=\"work-title short-story\">\"Superman\"</span>",
       "work_type": "short_story",
       "publication_year": 1914,
       "genre": null,
@@ -613,7 +613,7 @@
       "formatted_title": "Star-Dust",
       "html_title": "<span class=\"work-title\">Star-Dust</span>",
       "work_type": "novel",
-      "publication_year": 1919,
+      "publication_year": 1920,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -649,7 +649,7 @@
       "formatted_title": "Mannequin",
       "html_title": "<span class=\"work-title\">Mannequin</span>",
       "work_type": "novel",
-      "publication_year": 1926,
+      "publication_year": 1925,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -658,20 +658,20 @@
       "id": 143,
       "slug": "roulette",
       "title": "Roulette",
-      "formatted_title": "\"Roulette\"",
-      "html_title": "<span class=\"work-title short-story\">\"Roulette\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1922,
+      "formatted_title": "Roulette",
+      "html_title": "<span class=\"work-title\">Roulette</span>",
+      "work_type": "novella",
+      "publication_year": 1921,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
       "id": 148,
-      "slug": "give-the-little-girl-a-hand",
-      "title": "Give the Little Girl a Hand",
-      "formatted_title": "\"Give the Little Girl a Hand\"",
-      "html_title": "<span class=\"work-title short-story\">\"Give the Little Girl a Hand\"</span>",
+      "slug": "give-this-little-girl-a-hand",
+      "title": "Give This Little Girl a Hand",
+      "formatted_title": "\"Give This Little Girl a Hand\"",
+      "html_title": "<span class=\"work-title short-story\">\"Give This Little Girl a Hand\"</span>",
       "work_type": "short_story",
       "publication_year": 1928,
       "genre": null,
@@ -722,7 +722,7 @@
     "formatted_title": "Back Street",
     "html_title": "<span class=\"work-title\">Back Street</span>",
     "work_type": "novel",
-    "publication_year": 1931,
+    "publication_year": 1930,
     "genre": null,
     "adaptation_count": 4,
     "is_remake_champion": true

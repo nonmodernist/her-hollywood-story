@@ -5,7 +5,7 @@
   "formatted_title": "The Vanity Pool",
   "html_title": "<span class=\"work-title\">The Vanity Pool</span>",
   "work_type": "novella",
-  "publication_year": null,
+  "publication_year": 1915,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 3,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,17 +44,17 @@
         "Society"
       ],
       "has_media": true,
-      "years_after_publication": 1918
+      "years_after_publication": 3
     }
   ],
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
     "magazine_title": "Young's Magazine",
-    "pub_date": null,
-    "issue_info": null,
+    "pub_date": "1915-05-01",
+    "issue_info": "v29 #5",
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-21T17:39:30.350666"
+  "last_updated": "2025-07-23T01:50:27.081346"
 }

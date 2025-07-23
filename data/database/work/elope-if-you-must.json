@@ -5,11 +5,11 @@
   "formatted_title": "Elope If You Must",
   "html_title": "<span class=\"work-title\">Elope If You Must</span>",
   "work_type": "novel",
-  "publication_year": 1926,
+  "publication_year": 1920,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
-  "attribution_notes": "This novel appeared under the Rath pseudonym 4 years after the death of the author and her husband as well as the release of the film version, both 1922. More research is needed.",
+  "attribution_notes": null,
   "author": {
     "id": 407,
     "slug": "ej-rath",
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": true,
-    "speed_demon_delay": -4,
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,17 +43,17 @@
         "Comedy"
       ],
       "has_media": false,
-      "years_after_publication": -4
+      "years_after_publication": 2
     }
   ],
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
-    "parts": null
+    "magazine_title": "All-Story Weekly",
+    "pub_date": "1920-02-14",
+    "issue_info": "Vol. CVII Number 1-4, Vol. CVIII Number 1-2",
+    "parts": 6
   },
   "has_narrative": false,
-  "last_updated": "2025-07-16T14:47:02.960101"
+  "last_updated": "2025-07-22T22:06:46.925585"
 }

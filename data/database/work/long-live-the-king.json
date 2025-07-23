@@ -4,8 +4,8 @@
   "title": "Long Live the King",
   "formatted_title": "Long Live the King",
   "html_title": "<span class=\"work-title\">Long Live the King</span>",
-  "work_type": "novel",
-  "publication_year": 1917,
+  "work_type": "novella",
+  "publication_year": 1912,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 6,
+    "speed_demon_delay": 11,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,22 +44,19 @@
         "Youth"
       ],
       "has_media": true,
-      "years_after_publication": 6
+      "years_after_publication": 11
     }
   ],
   "adaptation_gaps": [],
   "photoplay_edition": {
-    "year": 1923,
-    "publisher": "unknown",
-    "notes": null,
     "count": 0
   },
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
+    "magazine_title": "Munsey’s Magazine",
+    "pub_date": "1912-12-01",
+    "issue_info": "v48 #3",
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-21T17:39:30.350666"
+  "last_updated": "2025-07-22T20:30:26.451631"
 }

@@ -5,7 +5,7 @@
   "formatted_title": "K — the Unknown",
   "html_title": "<span class=\"work-title\">K — the Unknown</span>",
   "work_type": "novel",
-  "publication_year": 1915,
+  "publication_year": 1914,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 3,
+    "speed_demon_delay": 4,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,7 +43,7 @@
         "Drama"
       ],
       "has_media": false,
-      "years_after_publication": 3
+      "years_after_publication": 4
     },
     {
       "id": 930,
@@ -57,7 +57,7 @@
         "Melodrama"
       ],
       "has_media": false,
-      "years_after_publication": 9
+      "years_after_publication": 10
     }
   ],
   "adaptation_gaps": [
@@ -69,11 +69,11 @@
   ],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
-    "parts": null
+    "magazine_title": "McClure's",
+    "pub_date": "1914-10-01",
+    "issue_info": "v43 #6, v 44 #1-6, v45 #1-6",
+    "parts": 13
   },
   "has_narrative": false,
-  "last_updated": "2025-07-21T17:39:30.350666"
+  "last_updated": "2025-07-22T20:15:56.860013"
 }

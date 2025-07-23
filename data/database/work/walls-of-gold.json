@@ -5,7 +5,7 @@
   "formatted_title": "Walls of Gold",
   "html_title": "<span class=\"work-title\">Walls of Gold</span>",
   "work_type": "novel",
-  "publication_year": 1933,
+  "publication_year": 1932,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": true,
-    "speed_demon_delay": 0,
+    "speed_demon_delay": 1,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,17 +44,17 @@
         "Society"
       ],
       "has_media": false,
-      "years_after_publication": 0
+      "years_after_publication": 1
     }
   ],
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
-    "parts": null
+    "magazine_title": "The American Magazine",
+    "pub_date": "1932-10-01",
+    "issue_info": "Vol. CXIV No. 4-6, Vol. CXV No. 1-4",
+    "parts": 7
   },
   "has_narrative": false,
-  "last_updated": "2025-07-21T17:39:30.350666"
+  "last_updated": "2025-07-23T02:48:38.886051"
 }

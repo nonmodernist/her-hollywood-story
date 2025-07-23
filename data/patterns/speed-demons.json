@@ -5,111 +5,6 @@
   "demons": [
     {
       "work": {
-        "id": 804,
-        "slug": "elope-if-you-must",
-        "title": "Elope If You Must",
-        "formatted_title": "Elope If You Must",
-        "html_title": "<span class=\"work-title\">Elope If You Must</span>",
-        "work_type": "novel",
-        "genre": null,
-        "publication_year": 1926
-      },
-      "author": {
-        "id": 407,
-        "slug": "ej-rath",
-        "name": "E.J. Rath"
-      },
-      "firstAdaptation": {
-        "id": 897,
-        "slug": "elope-if-you-must-1922",
-        "title": "Elope If You Must",
-        "html_title": "<span class=\"film-title\">Elope If You Must</span>",
-        "year": 1922,
-        "studio": "Fox Film",
-        "directors": "C. R. Wallace"
-      },
-      "speed": {
-        "delay": -4,
-        "delayMonths": "-4 year",
-        "isZeroDelay": false
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1922
-      }
-    },
-    {
-      "work": {
-        "id": 975,
-        "slug": "lord-john-in-new-york",
-        "title": "Lord John in New York",
-        "formatted_title": "Lord John in New York",
-        "html_title": "<span class=\"work-title\">Lord John in New York</span>",
-        "work_type": "novel",
-        "genre": null,
-        "publication_year": 1918
-      },
-      "author": {
-        "id": 7,
-        "slug": "alice-muriel-williamson",
-        "name": "Alice Muriel Williamson"
-      },
-      "firstAdaptation": {
-        "id": 1087,
-        "slug": "lord-john-in-new-york-1915",
-        "title": "Lord John in New York",
-        "html_title": "<span class=\"film-title\">Lord John in New York</span>",
-        "year": 1915,
-        "studio": "Universal",
-        "directors": null
-      },
-      "speed": {
-        "delay": -3,
-        "delayMonths": "-3 year",
-        "isZeroDelay": false
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1915
-      }
-    },
-    {
-      "work": {
-        "id": 481,
-        "slug": "classified",
-        "title": "Classified",
-        "formatted_title": "\"Classified\"",
-        "html_title": "<span class=\"work-title short-story\">\"Classified\"</span>",
-        "work_type": "short_story",
-        "genre": null,
-        "publication_year": 1927
-      },
-      "author": {
-        "id": 40,
-        "slug": "edna-ferber",
-        "name": "Edna Ferber"
-      },
-      "firstAdaptation": {
-        "id": 551,
-        "slug": "classified-1925",
-        "title": "Classified",
-        "html_title": "<span class=\"film-title\">Classified</span>",
-        "year": 1925,
-        "studio": "Corinne Griffith Productions ",
-        "directors": "Alfred Santell"
-      },
-      "speed": {
-        "delay": -2,
-        "delayMonths": "-2 year",
-        "isZeroDelay": false
-      },
-      "context": {
-        "totalAdaptations": 2,
-        "lastAdaptation": 1929
-      }
-    },
-    {
-      "work": {
         "id": 304,
         "slug": "a-bride-for-henry",
         "title": "A Bride for Henry",
@@ -250,41 +145,6 @@
     },
     {
       "work": {
-        "id": 87,
-        "slug": "back-pay",
-        "title": "Back Pay",
-        "formatted_title": "\"Back Pay\"",
-        "html_title": "<span class=\"work-title short-story\">\"Back Pay\"</span>",
-        "work_type": "short_story",
-        "genre": null,
-        "publication_year": 1922
-      },
-      "author": {
-        "id": 25,
-        "slug": "fannie-hurst",
-        "name": "Fannie Hurst"
-      },
-      "firstAdaptation": {
-        "id": 91,
-        "slug": "back-pay-1922",
-        "title": "Back Pay",
-        "html_title": "<span class=\"film-title\">Back Pay</span>",
-        "year": 1922,
-        "studio": "Cosmopolitan",
-        "directors": "Frank Borzage"
-      },
-      "speed": {
-        "delay": 0,
-        "delayMonths": "Same year",
-        "isZeroDelay": true
-      },
-      "context": {
-        "totalAdaptations": 2,
-        "lastAdaptation": 1930
-      }
-    },
-    {
-      "work": {
         "id": 372,
         "slug": "barter",
         "title": "Barter",
@@ -355,47 +215,12 @@
     },
     {
       "work": {
-        "id": 742,
-        "slug": "beautys-daughter",
-        "title": "Beauty's Daughter",
-        "formatted_title": "Beauty's Daughter",
-        "html_title": "<span class=\"work-title\">Beauty's Daughter</span>",
-        "work_type": "novel",
-        "genre": null,
-        "publication_year": 1935
-      },
-      "author": {
-        "id": 376,
-        "slug": "kathleen-norris",
-        "name": "Kathleen Norris"
-      },
-      "firstAdaptation": {
-        "id": 832,
-        "slug": "navy-wife-1935",
-        "title": "Navy Wife",
-        "html_title": "<span class=\"film-title\">Navy Wife</span>",
-        "year": 1935,
-        "studio": "20th Century Fox",
-        "directors": "Allan Dwan"
-      },
-      "speed": {
-        "delay": 0,
-        "delayMonths": "Same year",
-        "isZeroDelay": true
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1935
-      }
-    },
-    {
-      "work": {
         "id": 186,
         "slug": "big-executive",
         "title": "Big Executive",
-        "formatted_title": "\"Big Executive\"",
-        "html_title": "<span class=\"work-title short-story\">\"Big Executive\"</span>",
-        "work_type": "short_story",
+        "formatted_title": "Big Executive",
+        "html_title": "<span class=\"work-title\">Big Executive</span>",
+        "work_type": "novella",
         "genre": null,
         "publication_year": 1933
       },
@@ -635,41 +460,6 @@
     },
     {
       "work": {
-        "id": 745,
-        "slug": "christine-of-the-hungry-heart",
-        "title": "Christine of the Hungry Heart",
-        "formatted_title": "\"Christine of the Hungry Heart\"",
-        "html_title": "<span class=\"work-title short-story\">\"Christine of the Hungry Heart\"</span>",
-        "work_type": "short_story",
-        "genre": null,
-        "publication_year": 1924
-      },
-      "author": {
-        "id": 376,
-        "slug": "kathleen-norris",
-        "name": "Kathleen Norris"
-      },
-      "firstAdaptation": {
-        "id": 835,
-        "slug": "christine-of-the-hungry-heart-1924",
-        "title": "Christine of the Hungry Heart",
-        "html_title": "<span class=\"film-title\">Christine of the Hungry Heart</span>",
-        "year": 1924,
-        "studio": "Thoman Ince",
-        "directors": "George Archainbaud"
-      },
-      "speed": {
-        "delay": 0,
-        "delayMonths": "Same year",
-        "isZeroDelay": true
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1924
-      }
-    },
-    {
-      "work": {
         "id": 443,
         "slug": "dance-hall",
         "title": "Dance Hall",
@@ -681,8 +471,8 @@
       },
       "author": {
         "id": 53,
-        "slug": "vina-delmar",
-        "name": "Vina Delmar"
+        "slug": "via-delmar",
+        "name": "Viña Delmar"
       },
       "firstAdaptation": {
         "id": 512,
@@ -1058,9 +848,9 @@
         "id": 833,
         "slug": "her-majesty-the-queen",
         "title": "Her Majesty, the Queen",
-        "formatted_title": "\"Her Majesty, the Queen\"",
-        "html_title": "<span class=\"work-title short-story\">\"Her Majesty, the Queen\"</span>",
-        "work_type": "short_story",
+        "formatted_title": "Her Majesty, the Queen",
+        "html_title": "<span class=\"work-title\">Her Majesty, the Queen</span>",
+        "work_type": "novella",
         "genre": null,
         "publication_year": 1924
       },
@@ -1125,28 +915,28 @@
     },
     {
       "work": {
-        "id": 751,
-        "slug": "manhattan-love-song",
-        "title": "Manhattan Love Song",
-        "formatted_title": "Manhattan Love Song",
-        "html_title": "<span class=\"work-title\">Manhattan Love Song</span>",
+        "id": 975,
+        "slug": "lord-john-in-new-york",
+        "title": "Lord John in New York",
+        "formatted_title": "Lord John in New York",
+        "html_title": "<span class=\"work-title\">Lord John in New York</span>",
         "work_type": "novel",
         "genre": null,
-        "publication_year": 1934
+        "publication_year": 1915
       },
       "author": {
-        "id": 376,
-        "slug": "kathleen-norris",
-        "name": "Kathleen Norris"
+        "id": 7,
+        "slug": "alice-muriel-williamson",
+        "name": "Alice Muriel Williamson"
       },
       "firstAdaptation": {
-        "id": 842,
-        "slug": "change-of-heart-1934",
-        "title": "Change of Heart",
-        "html_title": "<span class=\"film-title\">Change of Heart</span>",
-        "year": 1934,
-        "studio": "Fox Film",
-        "directors": "John G. Blystone"
+        "id": 1087,
+        "slug": "lord-john-in-new-york-1915",
+        "title": "Lord John in New York",
+        "html_title": "<span class=\"film-title\">Lord John in New York</span>",
+        "year": 1915,
+        "studio": "Universal",
+        "directors": null
       },
       "speed": {
         "delay": 0,
@@ -1155,42 +945,7 @@
       },
       "context": {
         "totalAdaptations": 1,
-        "lastAdaptation": 1934
-      }
-    },
-    {
-      "work": {
-        "id": 124,
-        "slug": "mannequin",
-        "title": "Mannequin",
-        "formatted_title": "Mannequin",
-        "html_title": "<span class=\"work-title\">Mannequin</span>",
-        "work_type": "novel",
-        "genre": null,
-        "publication_year": 1926
-      },
-      "author": {
-        "id": 25,
-        "slug": "fannie-hurst",
-        "name": "Fannie Hurst"
-      },
-      "firstAdaptation": {
-        "id": 130,
-        "slug": "mannequin-1926",
-        "title": "Mannequin",
-        "html_title": "<span class=\"film-title\">Mannequin</span>",
-        "year": 1926,
-        "studio": "Famous Players-Lasky",
-        "directors": "James Cruze"
-      },
-      "speed": {
-        "delay": 0,
-        "delayMonths": "Same year",
-        "isZeroDelay": true
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1926
+        "lastAdaptation": 1915
       }
     },
     {
@@ -1405,6 +1160,41 @@
     },
     {
       "work": {
+        "id": 373,
+        "slug": "nobodys-bride",
+        "title": "Nobody's Bride",
+        "formatted_title": "Nobody's Bride",
+        "html_title": "<span class=\"work-title\">Nobody's Bride</span>",
+        "work_type": "novella",
+        "genre": null,
+        "publication_year": 1918
+      },
+      "author": {
+        "id": 41,
+        "slug": "evelyn-campbell",
+        "name": "Evelyn Campbell"
+      },
+      "firstAdaptation": {
+        "id": 441,
+        "slug": "which-woman-1918",
+        "title": "Which Woman?",
+        "html_title": "<span class=\"film-title\">Which Woman?</span>",
+        "year": 1918,
+        "studio": "Bluebird Photoplays",
+        "directors": "Tod Browning|Harry Pollard"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 2,
+        "lastAdaptation": 1923
+      }
+    },
+    {
+      "work": {
         "id": 782,
         "slug": "no-more-orchids",
         "title": "No More Orchids",
@@ -1471,41 +1261,6 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1950
-      }
-    },
-    {
-      "work": {
-        "id": 754,
-        "slug": "passion-flower",
-        "title": "Passion Flower",
-        "formatted_title": "Passion Flower",
-        "html_title": "<span class=\"work-title\">Passion Flower</span>",
-        "work_type": "novel",
-        "genre": null,
-        "publication_year": 1930
-      },
-      "author": {
-        "id": 376,
-        "slug": "kathleen-norris",
-        "name": "Kathleen Norris"
-      },
-      "firstAdaptation": {
-        "id": 845,
-        "slug": "passion-flower-1930",
-        "title": "Passion Flower",
-        "html_title": "<span class=\"film-title\">Passion Flower</span>",
-        "year": 1930,
-        "studio": "MGM",
-        "directors": "William de Mille"
-      },
-      "speed": {
-        "delay": 0,
-        "delayMonths": "Same year",
-        "isZeroDelay": true
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1930
       }
     },
     {
@@ -2455,41 +2210,6 @@
     },
     {
       "work": {
-        "id": 131,
-        "slug": "the-magic-garden",
-        "title": "The Magic Garden",
-        "formatted_title": "The Magic Garden",
-        "html_title": "<span class=\"work-title\">The Magic Garden</span>",
-        "work_type": "novel",
-        "genre": null,
-        "publication_year": 1927
-      },
-      "author": {
-        "id": 12,
-        "slug": "gene-stratton-porter",
-        "name": "Gene Stratton-Porter"
-      },
-      "firstAdaptation": {
-        "id": 137,
-        "slug": "the-magic-garden-1927",
-        "title": "The Magic Garden",
-        "html_title": "<span class=\"film-title\">The Magic Garden</span>",
-        "year": 1927,
-        "studio": "Gene Stratton Porter Productions",
-        "directors": "J. Leo Meehan"
-      },
-      "speed": {
-        "delay": 0,
-        "delayMonths": "Same year",
-        "isZeroDelay": true
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1927
-      }
-    },
-    {
-      "work": {
         "id": 796,
         "slug": "the-man-hater",
         "title": "The Man Hater",
@@ -2560,41 +2280,6 @@
     },
     {
       "work": {
-        "id": 205,
-        "slug": "the-moons-our-home",
-        "title": "The Moon's Our Home",
-        "formatted_title": "The Moon's Our Home",
-        "html_title": "<span class=\"work-title\">The Moon's Our Home</span>",
-        "work_type": "novel",
-        "genre": null,
-        "publication_year": 1936
-      },
-      "author": {
-        "id": 57,
-        "slug": "faith-baldwin",
-        "name": "Faith Baldwin"
-      },
-      "firstAdaptation": {
-        "id": 237,
-        "slug": "the-moons-our-home-1936",
-        "title": "The Moon's Our Home",
-        "html_title": "<span class=\"film-title\">The Moon's Our Home</span>",
-        "year": 1936,
-        "studio": "Paramount",
-        "directors": "William A. Seiter"
-      },
-      "speed": {
-        "delay": 0,
-        "delayMonths": "Same year",
-        "isZeroDelay": true
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1936
-      }
-    },
-    {
-      "work": {
         "id": 514,
         "slug": "the-part-time-wife",
         "title": "The Part-Time Wife",
@@ -2661,41 +2346,6 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1931
-      }
-    },
-    {
-      "work": {
-        "id": 24,
-        "slug": "the-secret-of-the-storm-country",
-        "title": "The Secret of the Storm Country",
-        "formatted_title": "The Secret of the Storm Country",
-        "html_title": "<span class=\"work-title\">The Secret of the Storm Country</span>",
-        "work_type": "novel",
-        "genre": null,
-        "publication_year": 1917
-      },
-      "author": {
-        "id": 4,
-        "slug": "grace-miller-white",
-        "name": "Grace Miller White"
-      },
-      "firstAdaptation": {
-        "id": 26,
-        "slug": "the-secret-of-the-storm-country-1917",
-        "title": "The Secret of the Storm Country",
-        "html_title": "<span class=\"film-title\">The Secret of the Storm Country</span>",
-        "year": 1917,
-        "studio": "Norma Talmadge",
-        "directors": "Charles Miller"
-      },
-      "speed": {
-        "delay": 0,
-        "delayMonths": "Same year",
-        "isZeroDelay": true
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1917
       }
     },
     {
@@ -2945,41 +2595,6 @@
     },
     {
       "work": {
-        "id": 759,
-        "slug": "walls-of-gold",
-        "title": "Walls of Gold",
-        "formatted_title": "Walls of Gold",
-        "html_title": "<span class=\"work-title\">Walls of Gold</span>",
-        "work_type": "novel",
-        "genre": null,
-        "publication_year": 1933
-      },
-      "author": {
-        "id": 376,
-        "slug": "kathleen-norris",
-        "name": "Kathleen Norris"
-      },
-      "firstAdaptation": {
-        "id": 850,
-        "slug": "walls-of-gold-1933",
-        "title": "Walls of Gold",
-        "html_title": "<span class=\"film-title\">Walls of Gold</span>",
-        "year": 1933,
-        "studio": "Fox Film",
-        "directors": "Kenneth MacKenna"
-      },
-      "speed": {
-        "delay": 0,
-        "delayMonths": "Same year",
-        "isZeroDelay": true
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1933
-      }
-    },
-    {
-      "work": {
         "id": 171,
         "slug": "weekend-marriage",
         "title": "Weekend Marriage",
@@ -3053,9 +2668,9 @@
         "id": 197,
         "slug": "wife-vs-secretary",
         "title": "Wife vs. Secretary",
-        "formatted_title": "\"Wife vs. Secretary\"",
-        "html_title": "<span class=\"work-title short-story\">\"Wife vs. Secretary\"</span>",
-        "work_type": "short_story",
+        "formatted_title": "Wife vs. Secretary",
+        "html_title": "<span class=\"work-title\">Wife vs. Secretary</span>",
+        "work_type": "novella",
         "genre": null,
         "publication_year": 1935
       },
@@ -3225,6 +2840,41 @@
     },
     {
       "work": {
+        "id": 501,
+        "slug": "a-cafe-in-cairo",
+        "title": "A Cafe in Cairo",
+        "formatted_title": "\"A Cafe in Cairo\"",
+        "html_title": "<span class=\"work-title short-story\">\"A Cafe in Cairo\"</span>",
+        "work_type": "short_story",
+        "genre": null,
+        "publication_year": 1923
+      },
+      "author": {
+        "id": 223,
+        "slug": "izola-forrester",
+        "name": "Izola Forrester"
+      },
+      "firstAdaptation": {
+        "id": 573,
+        "slug": "a-cafe-in-cairo-1924",
+        "title": "A Cafe in Cairo",
+        "html_title": "<span class=\"film-title\">A Cafe in Cairo</span>",
+        "year": 1924,
+        "studio": "Hunt Stromberg Productions ",
+        "directors": "Chet Withey"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1924
+      }
+    },
+    {
+      "work": {
         "id": 924,
         "slug": "a-call-from-mitch-miller",
         "title": "A Call from Mitch Miller",
@@ -3271,8 +2921,8 @@
       },
       "author": {
         "id": 53,
-        "slug": "vina-delmar",
-        "name": "Vina Delmar"
+        "slug": "via-delmar",
+        "name": "Viña Delmar"
       },
       "firstAdaptation": {
         "id": 205,
@@ -3505,6 +3155,41 @@
     },
     {
       "work": {
+        "id": 53,
+        "slug": "a-petal-on-the-current",
+        "title": "A Petal on the Current",
+        "formatted_title": "\"A Petal on the Current\"",
+        "html_title": "<span class=\"work-title short-story\">\"A Petal on the Current\"</span>",
+        "work_type": "short_story",
+        "genre": null,
+        "publication_year": 1918
+      },
+      "author": {
+        "id": 25,
+        "slug": "fannie-hurst",
+        "name": "Fannie Hurst"
+      },
+      "firstAdaptation": {
+        "id": 56,
+        "slug": "the-petal-on-the-current-1919",
+        "title": "The Petal on the Current",
+        "html_title": "<span class=\"film-title\">The Petal on the Current</span>",
+        "year": 1919,
+        "studio": "Universal",
+        "directors": "Tod Browning"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1919
+      }
+    },
+    {
+      "work": {
         "id": 338,
         "slug": "applause",
         "title": "Applause",
@@ -3680,28 +3365,28 @@
     },
     {
       "work": {
-        "id": 185,
-        "slug": "back-street",
-        "title": "Back Street",
-        "formatted_title": "Back Street",
-        "html_title": "<span class=\"work-title\">Back Street</span>",
+        "id": 742,
+        "slug": "beautys-daughter",
+        "title": "Beauty's Daughter",
+        "formatted_title": "Beauty's Daughter",
+        "html_title": "<span class=\"work-title\">Beauty's Daughter</span>",
         "work_type": "novel",
         "genre": null,
-        "publication_year": 1931
+        "publication_year": 1934
       },
       "author": {
-        "id": 25,
-        "slug": "fannie-hurst",
-        "name": "Fannie Hurst"
+        "id": 376,
+        "slug": "kathleen-norris",
+        "name": "Kathleen Norris"
       },
       "firstAdaptation": {
-        "id": 202,
-        "slug": "back-street-1932",
-        "title": "Back Street",
-        "html_title": "<span class=\"film-title\">Back Street</span>",
-        "year": 1932,
-        "studio": "Universal",
-        "directors": "John M. Stahl"
+        "id": 832,
+        "slug": "navy-wife-1935",
+        "title": "Navy Wife",
+        "html_title": "<span class=\"film-title\">Navy Wife</span>",
+        "year": 1935,
+        "studio": "20th Century Fox",
+        "directors": "Allan Dwan"
       },
       "speed": {
         "delay": 1,
@@ -3709,8 +3394,8 @@
         "isZeroDelay": false
       },
       "context": {
-        "totalAdaptations": 4,
-        "lastAdaptation": 1961
+        "totalAdaptations": 1,
+        "lastAdaptation": 1935
       }
     },
     {
@@ -4135,6 +3820,76 @@
     },
     {
       "work": {
+        "id": 745,
+        "slug": "christine-of-the-hungry-heart",
+        "title": "Christine of the Hungry Heart",
+        "formatted_title": "Christine of the Hungry Heart",
+        "html_title": "<span class=\"work-title\">Christine of the Hungry Heart</span>",
+        "work_type": "novel",
+        "genre": null,
+        "publication_year": 1923
+      },
+      "author": {
+        "id": 376,
+        "slug": "kathleen-norris",
+        "name": "Kathleen Norris"
+      },
+      "firstAdaptation": {
+        "id": 835,
+        "slug": "christine-of-the-hungry-heart-1924",
+        "title": "Christine of the Hungry Heart",
+        "html_title": "<span class=\"film-title\">Christine of the Hungry Heart</span>",
+        "year": 1924,
+        "studio": "Thoman Ince",
+        "directors": "George Archainbaud"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1924
+      }
+    },
+    {
+      "work": {
+        "id": 481,
+        "slug": "classified",
+        "title": "Classified",
+        "formatted_title": "\"Classified\"",
+        "html_title": "<span class=\"work-title short-story\">\"Classified\"</span>",
+        "work_type": "short_story",
+        "genre": null,
+        "publication_year": 1924
+      },
+      "author": {
+        "id": 40,
+        "slug": "edna-ferber",
+        "name": "Edna Ferber"
+      },
+      "firstAdaptation": {
+        "id": 551,
+        "slug": "classified-1925",
+        "title": "Classified",
+        "html_title": "<span class=\"film-title\">Classified</span>",
+        "year": 1925,
+        "studio": "Corinne Griffith Productions ",
+        "directors": "Alfred Santell"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 2,
+        "lastAdaptation": 1929
+      }
+    },
+    {
+      "work": {
         "id": 230,
         "slug": "claudia",
         "title": "Claudia",
@@ -4170,47 +3925,12 @@
     },
     {
       "work": {
-        "id": 482,
-        "slug": "come-and-get-it",
-        "title": "Come and Get It",
-        "formatted_title": "Come and Get It",
-        "html_title": "<span class=\"work-title\">Come and Get It</span>",
-        "work_type": "novel",
-        "genre": null,
-        "publication_year": 1935
-      },
-      "author": {
-        "id": 40,
-        "slug": "edna-ferber",
-        "name": "Edna Ferber"
-      },
-      "firstAdaptation": {
-        "id": 554,
-        "slug": "come-and-get-it-1936",
-        "title": "Come and Get It",
-        "html_title": "<span class=\"film-title\">Come and Get It</span>",
-        "year": 1936,
-        "studio": "Howard Productions",
-        "directors": "Howard Hawks|William Wyler"
-      },
-      "speed": {
-        "delay": 1,
-        "delayMonths": "1 year",
-        "isZeroDelay": false
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1936
-      }
-    },
-    {
-      "work": {
         "id": 210,
         "slug": "comet-over-broadway",
         "title": "Comet Over Broadway",
-        "formatted_title": "\"Comet Over Broadway\"",
-        "html_title": "<span class=\"work-title short-story\">\"Comet Over Broadway\"</span>",
-        "work_type": "short_story",
+        "formatted_title": "Comet Over Broadway",
+        "html_title": "<span class=\"work-title\">Comet Over Broadway</span>",
+        "work_type": "novella",
         "genre": null,
         "publication_year": 1937
       },
@@ -4766,10 +4486,10 @@
     {
       "work": {
         "id": 148,
-        "slug": "give-the-little-girl-a-hand",
-        "title": "Give the Little Girl a Hand",
-        "formatted_title": "\"Give the Little Girl a Hand\"",
-        "html_title": "<span class=\"work-title short-story\">\"Give the Little Girl a Hand\"</span>",
+        "slug": "give-this-little-girl-a-hand",
+        "title": "Give This Little Girl a Hand",
+        "formatted_title": "\"Give This Little Girl a Hand\"",
+        "html_title": "<span class=\"work-title short-story\">\"Give This Little Girl a Hand\"</span>",
         "work_type": "short_story",
         "genre": null,
         "publication_year": 1928
@@ -5118,9 +4838,9 @@
         "id": 60,
         "slug": "humoresque",
         "title": "Humoresque",
-        "formatted_title": "\"Humoresque\"",
-        "html_title": "<span class=\"work-title short-story\">\"Humoresque\"</span>",
-        "work_type": "short_story",
+        "formatted_title": "Humoresque",
+        "html_title": "<span class=\"work-title\">Humoresque</span>",
+        "work_type": "novella",
         "genre": null,
         "publication_year": 1919
       },
@@ -5636,6 +5356,76 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1933
+      }
+    },
+    {
+      "work": {
+        "id": 751,
+        "slug": "manhattan-love-song",
+        "title": "Manhattan Love Song",
+        "formatted_title": "Manhattan Love Song",
+        "html_title": "<span class=\"work-title\">Manhattan Love Song</span>",
+        "work_type": "novel",
+        "genre": null,
+        "publication_year": 1933
+      },
+      "author": {
+        "id": 376,
+        "slug": "kathleen-norris",
+        "name": "Kathleen Norris"
+      },
+      "firstAdaptation": {
+        "id": 842,
+        "slug": "change-of-heart-1934",
+        "title": "Change of Heart",
+        "html_title": "<span class=\"film-title\">Change of Heart</span>",
+        "year": 1934,
+        "studio": "Fox Film",
+        "directors": "John G. Blystone"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1934
+      }
+    },
+    {
+      "work": {
+        "id": 124,
+        "slug": "mannequin",
+        "title": "Mannequin",
+        "formatted_title": "Mannequin",
+        "html_title": "<span class=\"work-title\">Mannequin</span>",
+        "work_type": "novel",
+        "genre": null,
+        "publication_year": 1925
+      },
+      "author": {
+        "id": 25,
+        "slug": "fannie-hurst",
+        "name": "Fannie Hurst"
+      },
+      "firstAdaptation": {
+        "id": 130,
+        "slug": "mannequin-1926",
+        "title": "Mannequin",
+        "html_title": "<span class=\"film-title\">Mannequin</span>",
+        "year": 1926,
+        "studio": "Famous Players-Lasky",
+        "directors": "James Cruze"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1926
       }
     },
     {
@@ -6235,6 +6025,41 @@
     },
     {
       "work": {
+        "id": 754,
+        "slug": "passion-flower",
+        "title": "Passion Flower",
+        "formatted_title": "Passion Flower",
+        "html_title": "<span class=\"work-title\">Passion Flower</span>",
+        "work_type": "novel",
+        "genre": null,
+        "publication_year": 1929
+      },
+      "author": {
+        "id": 376,
+        "slug": "kathleen-norris",
+        "name": "Kathleen Norris"
+      },
+      "firstAdaptation": {
+        "id": 845,
+        "slug": "passion-flower-1930",
+        "title": "Passion Flower",
+        "html_title": "<span class=\"film-title\">Passion Flower</span>",
+        "year": 1930,
+        "studio": "MGM",
+        "directors": "William de Mille"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1930
+      }
+    },
+    {
+      "work": {
         "id": 116,
         "slug": "peacock-feathers",
         "title": "Peacock Feathers",
@@ -6351,8 +6176,8 @@
       },
       "author": {
         "id": 53,
-        "slug": "vina-delmar",
-        "name": "Vina Delmar"
+        "slug": "via-delmar",
+        "name": "Viña Delmar"
       },
       "firstAdaptation": {
         "id": 208,
@@ -6620,41 +6445,6 @@
     },
     {
       "work": {
-        "id": 756,
-        "slug": "rose-of-the-world",
-        "title": "Rose of the World",
-        "formatted_title": "Rose of the World",
-        "html_title": "<span class=\"work-title\">Rose of the World</span>",
-        "work_type": "novel",
-        "genre": null,
-        "publication_year": 1924
-      },
-      "author": {
-        "id": 376,
-        "slug": "kathleen-norris",
-        "name": "Kathleen Norris"
-      },
-      "firstAdaptation": {
-        "id": 847,
-        "slug": "rose-of-the-world-1925",
-        "title": "Rose of the World",
-        "html_title": "<span class=\"film-title\">Rose of the World</span>",
-        "year": 1925,
-        "studio": "Warner Bros",
-        "directors": "Harry Beaumont"
-      },
-      "speed": {
-        "delay": 1,
-        "delayMonths": "1 year",
-        "isZeroDelay": false
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1925
-      }
-    },
-    {
-      "work": {
         "id": 122,
         "slug": "sadie-of-the-desert",
         "title": "Sadie of the Desert",
@@ -6725,28 +6515,28 @@
     },
     {
       "work": {
-        "id": 757,
-        "slug": "second-hand-wife",
-        "title": "Second Hand Wife",
-        "formatted_title": "Second Hand Wife",
-        "html_title": "<span class=\"work-title\">Second Hand Wife</span>",
-        "work_type": "novel",
+        "id": 149,
+        "slug": "sheba",
+        "title": "Sheba",
+        "formatted_title": "\"Sheba\"",
+        "html_title": "<span class=\"work-title short-story\">\"Sheba\"</span>",
+        "work_type": "short_story",
         "genre": null,
-        "publication_year": 1932
+        "publication_year": 1929
       },
       "author": {
-        "id": 376,
-        "slug": "kathleen-norris",
-        "name": "Kathleen Norris"
+        "id": 53,
+        "slug": "via-delmar",
+        "name": "Viña Delmar"
       },
       "firstAdaptation": {
-        "id": 848,
-        "slug": "second-hand-wife-1933",
-        "title": "Second Hand Wife",
-        "html_title": "<span class=\"film-title\">Second Hand Wife</span>",
-        "year": 1933,
-        "studio": "Fox Film",
-        "directors": "Hamilton MacFadden"
+        "id": 161,
+        "slug": "playing-around-1930",
+        "title": "Playing Around",
+        "html_title": "<span class=\"film-title\">Playing Around</span>",
+        "year": 1930,
+        "studio": "First National",
+        "directors": "Mervyn LeRoy"
       },
       "speed": {
         "delay": 1,
@@ -6755,7 +6545,7 @@
       },
       "context": {
         "totalAdaptations": 1,
-        "lastAdaptation": 1933
+        "lastAdaptation": 1930
       }
     },
     {
@@ -6763,9 +6553,9 @@
         "id": 213,
         "slug": "sister-act",
         "title": "Sister Act",
-        "formatted_title": "\"Sister Act\"",
-        "html_title": "<span class=\"work-title short-story\">\"Sister Act\"</span>",
-        "work_type": "short_story",
+        "formatted_title": "Sister Act",
+        "html_title": "<span class=\"work-title\">Sister Act</span>",
+        "work_type": "novella",
         "genre": null,
         "publication_year": 1937
       },
@@ -6900,6 +6690,41 @@
     },
     {
       "work": {
+        "id": 257,
+        "slug": "some-like-em-cold",
+        "title": "Some Like 'Em Cold!",
+        "formatted_title": "Some Like 'Em Cold!",
+        "html_title": "<span class=\"work-title\">Some Like 'Em Cold!</span>",
+        "work_type": "novella",
+        "genre": null,
+        "publication_year": 1949
+      },
+      "author": {
+        "id": 94,
+        "slug": "edna-anhalt",
+        "name": "Edna Anhalt"
+      },
+      "firstAdaptation": {
+        "id": 307,
+        "slug": "panic-in-the-streets-1950",
+        "title": "Panic in the Streets",
+        "html_title": "<span class=\"film-title\">Panic in the Streets</span>",
+        "year": 1950,
+        "studio": "20th Century Fox",
+        "directors": "Elia Kazan"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1950
+      }
+    },
+    {
+      "work": {
         "id": 330,
         "slug": "sonny",
         "title": "Sonny",
@@ -6966,6 +6791,41 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1925
+      }
+    },
+    {
+      "work": {
+        "id": 76,
+        "slug": "star-dust",
+        "title": "Star-Dust",
+        "formatted_title": "Star-Dust",
+        "html_title": "<span class=\"work-title\">Star-Dust</span>",
+        "work_type": "novel",
+        "genre": null,
+        "publication_year": 1920
+      },
+      "author": {
+        "id": 25,
+        "slug": "fannie-hurst",
+        "name": "Fannie Hurst"
+      },
+      "firstAdaptation": {
+        "id": 79,
+        "slug": "stardust-1921",
+        "title": "Stardust",
+        "html_title": "<span class=\"film-title\">Stardust</span>",
+        "year": 1921,
+        "studio": "Hobart Henley Productions",
+        "directors": "Hobart Henley"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1921
       }
     },
     {
@@ -7670,6 +7530,41 @@
     },
     {
       "work": {
+        "id": 831,
+        "slug": "the-g-a-c",
+        "title": "The G. A. C.",
+        "formatted_title": "\"The G. A. C.\"",
+        "html_title": "<span class=\"work-title short-story\">\"The G. A. C.\"</span>",
+        "work_type": "short_story",
+        "genre": null,
+        "publication_year": 1917
+      },
+      "author": {
+        "id": 6,
+        "slug": "mary-roberts-rinehart",
+        "name": "Mary Roberts Rinehart"
+      },
+      "firstAdaptation": {
+        "id": 925,
+        "slug": "her-country-first-1918",
+        "title": "Her Country First",
+        "html_title": "<span class=\"film-title\">Her Country First</span>",
+        "year": 1918,
+        "studio": "Famous Players-Lasky",
+        "directors": "James Young"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1918
+      }
+    },
+    {
+      "work": {
         "id": 289,
         "slug": "the-ghost-of-rosy-taylor",
         "title": "The Ghost of Rosy Taylor",
@@ -7915,6 +7810,41 @@
     },
     {
       "work": {
+        "id": 131,
+        "slug": "the-magic-garden",
+        "title": "The Magic Garden",
+        "formatted_title": "The Magic Garden",
+        "html_title": "<span class=\"work-title\">The Magic Garden</span>",
+        "work_type": "novel",
+        "genre": null,
+        "publication_year": 1926
+      },
+      "author": {
+        "id": 12,
+        "slug": "gene-stratton-porter",
+        "name": "Gene Stratton-Porter"
+      },
+      "firstAdaptation": {
+        "id": 137,
+        "slug": "the-magic-garden-1927",
+        "title": "The Magic Garden",
+        "html_title": "<span class=\"film-title\">The Magic Garden</span>",
+        "year": 1927,
+        "studio": "Gene Stratton Porter Productions",
+        "directors": "J. Leo Meehan"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1927
+      }
+    },
+    {
+      "work": {
         "id": 17,
         "slug": "the-man-from-the-bitter-roots",
         "title": "The Man from the Bitter Roots",
@@ -7946,6 +7876,76 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1916
+      }
+    },
+    {
+      "work": {
+        "id": 840,
+        "slug": "theme-the-celebrity",
+        "title": "Theme: The Celebrity",
+        "formatted_title": "\"Theme: The Celebrity\"",
+        "html_title": "<span class=\"work-title short-story\">\"Theme: The Celebrity\"</span>",
+        "work_type": "short_story",
+        "genre": null,
+        "publication_year": 1916
+      },
+      "author": {
+        "id": 6,
+        "slug": "mary-roberts-rinehart",
+        "name": "Mary Roberts Rinehart"
+      },
+      "firstAdaptation": {
+        "id": 936,
+        "slug": "babs-matinee-idol-1917",
+        "title": "Bab's Matinee Idol",
+        "html_title": "<span class=\"film-title\">Bab's Matinee Idol</span>",
+        "year": 1917,
+        "studio": "Famous Players",
+        "directors": "J. Searle Dawley"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1917
+      }
+    },
+    {
+      "work": {
+        "id": 205,
+        "slug": "the-moons-our-home",
+        "title": "The Moon's Our Home",
+        "formatted_title": "The Moon's Our Home",
+        "html_title": "<span class=\"work-title\">The Moon's Our Home</span>",
+        "work_type": "novel",
+        "genre": null,
+        "publication_year": 1935
+      },
+      "author": {
+        "id": 57,
+        "slug": "faith-baldwin",
+        "name": "Faith Baldwin"
+      },
+      "firstAdaptation": {
+        "id": 237,
+        "slug": "the-moons-our-home-1936",
+        "title": "The Moon's Our Home",
+        "html_title": "<span class=\"film-title\">The Moon's Our Home</span>",
+        "year": 1936,
+        "studio": "Paramount",
+        "directors": "William A. Seiter"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1936
       }
     },
     {
@@ -8086,41 +8086,6 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1921
-      }
-    },
-    {
-      "work": {
-        "id": 53,
-        "slug": "the-petal-on-the-current",
-        "title": "The Petal on the Current",
-        "formatted_title": "\"The Petal on the Current\"",
-        "html_title": "<span class=\"work-title short-story\">\"The Petal on the Current\"</span>",
-        "work_type": "short_story",
-        "genre": null,
-        "publication_year": 1918
-      },
-      "author": {
-        "id": 25,
-        "slug": "fannie-hurst",
-        "name": "Fannie Hurst"
-      },
-      "firstAdaptation": {
-        "id": 56,
-        "slug": "the-petal-on-the-current-1919",
-        "title": "The Petal on the Current",
-        "html_title": "<span class=\"film-title\">The Petal on the Current</span>",
-        "year": 1919,
-        "studio": "Universal",
-        "directors": "Tod Browning"
-      },
-      "speed": {
-        "delay": 1,
-        "delayMonths": "1 year",
-        "isZeroDelay": false
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1919
       }
     },
     {
@@ -8296,6 +8261,76 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1921
+      }
+    },
+    {
+      "work": {
+        "id": 24,
+        "slug": "the-secret-of-the-storm-country",
+        "title": "The Secret of the Storm Country",
+        "formatted_title": "The Secret of the Storm Country",
+        "html_title": "<span class=\"work-title\">The Secret of the Storm Country</span>",
+        "work_type": "novel",
+        "genre": null,
+        "publication_year": 1916
+      },
+      "author": {
+        "id": 4,
+        "slug": "grace-miller-white",
+        "name": "Grace Miller White"
+      },
+      "firstAdaptation": {
+        "id": 26,
+        "slug": "the-secret-of-the-storm-country-1917",
+        "title": "The Secret of the Storm Country",
+        "html_title": "<span class=\"film-title\">The Secret of the Storm Country</span>",
+        "year": 1917,
+        "studio": "Norma Talmadge",
+        "directors": "Charles Miller"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1917
+      }
+    },
+    {
+      "work": {
+        "id": 543,
+        "slug": "these-glamour-girls",
+        "title": "These Glamour Girls",
+        "formatted_title": "These Glamour Girls",
+        "html_title": "<span class=\"work-title\">These Glamour Girls</span>",
+        "work_type": "novel",
+        "genre": null,
+        "publication_year": 1938
+      },
+      "author": {
+        "id": 248,
+        "slug": "jane-hall",
+        "name": "Jane Hall"
+      },
+      "firstAdaptation": {
+        "id": 620,
+        "slug": "these-glamour-girls-1939",
+        "title": "These Glamour Girls",
+        "html_title": "<span class=\"film-title\">These Glamour Girls</span>",
+        "year": 1939,
+        "studio": "MGM",
+        "directors": "S. Sylvan Simon"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1939
       }
     },
     {
@@ -8860,6 +8895,41 @@
     },
     {
       "work": {
+        "id": 759,
+        "slug": "walls-of-gold",
+        "title": "Walls of Gold",
+        "formatted_title": "Walls of Gold",
+        "html_title": "<span class=\"work-title\">Walls of Gold</span>",
+        "work_type": "novel",
+        "genre": null,
+        "publication_year": 1932
+      },
+      "author": {
+        "id": 376,
+        "slug": "kathleen-norris",
+        "name": "Kathleen Norris"
+      },
+      "firstAdaptation": {
+        "id": 850,
+        "slug": "walls-of-gold-1933",
+        "title": "Walls of Gold",
+        "html_title": "<span class=\"film-title\">Walls of Gold</span>",
+        "year": 1933,
+        "studio": "Fox Film",
+        "directors": "Kenneth MacKenna"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1933
+      }
+    },
+    {
+      "work": {
         "id": 174,
         "slug": "westward-passage",
         "title": "Westward Passage",
@@ -8961,6 +9031,41 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1934
+      }
+    },
+    {
+      "work": {
+        "id": 208,
+        "slug": "wings-over-honolulu",
+        "title": "Wings Over Honolulu",
+        "formatted_title": "Wings Over Honolulu",
+        "html_title": "<span class=\"work-title\">Wings Over Honolulu</span>",
+        "work_type": "novella",
+        "genre": null,
+        "publication_year": 1936
+      },
+      "author": {
+        "id": 48,
+        "slug": "mildred-cram",
+        "name": "Mildred Cram"
+      },
+      "firstAdaptation": {
+        "id": 242,
+        "slug": "wings-over-honolulu-1937",
+        "title": "Wings over Honolulu",
+        "html_title": "<span class=\"film-title\">Wings over Honolulu</span>",
+        "year": 1937,
+        "studio": "Universal",
+        "directors": "H. C. Potter"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1937
       }
     },
     {
@@ -9179,41 +9284,6 @@
         },
         {
           "work": {
-            "id": 87,
-            "slug": "back-pay",
-            "title": "Back Pay",
-            "formatted_title": "\"Back Pay\"",
-            "html_title": "<span class=\"work-title short-story\">\"Back Pay\"</span>",
-            "work_type": "short_story",
-            "genre": null,
-            "publication_year": 1922
-          },
-          "author": {
-            "id": 25,
-            "slug": "fannie-hurst",
-            "name": "Fannie Hurst"
-          },
-          "firstAdaptation": {
-            "id": 91,
-            "slug": "back-pay-1922",
-            "title": "Back Pay",
-            "html_title": "<span class=\"film-title\">Back Pay</span>",
-            "year": 1922,
-            "studio": "Cosmopolitan",
-            "directors": "Frank Borzage"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 2,
-            "lastAdaptation": 1930
-          }
-        },
-        {
-          "work": {
             "id": 372,
             "slug": "barter",
             "title": "Barter",
@@ -9284,47 +9354,12 @@
         },
         {
           "work": {
-            "id": 742,
-            "slug": "beautys-daughter",
-            "title": "Beauty's Daughter",
-            "formatted_title": "Beauty's Daughter",
-            "html_title": "<span class=\"work-title\">Beauty's Daughter</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1935
-          },
-          "author": {
-            "id": 376,
-            "slug": "kathleen-norris",
-            "name": "Kathleen Norris"
-          },
-          "firstAdaptation": {
-            "id": 832,
-            "slug": "navy-wife-1935",
-            "title": "Navy Wife",
-            "html_title": "<span class=\"film-title\">Navy Wife</span>",
-            "year": 1935,
-            "studio": "20th Century Fox",
-            "directors": "Allan Dwan"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1935
-          }
-        },
-        {
-          "work": {
             "id": 186,
             "slug": "big-executive",
             "title": "Big Executive",
-            "formatted_title": "\"Big Executive\"",
-            "html_title": "<span class=\"work-title short-story\">\"Big Executive\"</span>",
-            "work_type": "short_story",
+            "formatted_title": "Big Executive",
+            "html_title": "<span class=\"work-title\">Big Executive</span>",
+            "work_type": "novella",
             "genre": null,
             "publication_year": 1933
           },
@@ -9564,41 +9599,6 @@
         },
         {
           "work": {
-            "id": 745,
-            "slug": "christine-of-the-hungry-heart",
-            "title": "Christine of the Hungry Heart",
-            "formatted_title": "\"Christine of the Hungry Heart\"",
-            "html_title": "<span class=\"work-title short-story\">\"Christine of the Hungry Heart\"</span>",
-            "work_type": "short_story",
-            "genre": null,
-            "publication_year": 1924
-          },
-          "author": {
-            "id": 376,
-            "slug": "kathleen-norris",
-            "name": "Kathleen Norris"
-          },
-          "firstAdaptation": {
-            "id": 835,
-            "slug": "christine-of-the-hungry-heart-1924",
-            "title": "Christine of the Hungry Heart",
-            "html_title": "<span class=\"film-title\">Christine of the Hungry Heart</span>",
-            "year": 1924,
-            "studio": "Thoman Ince",
-            "directors": "George Archainbaud"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1924
-          }
-        },
-        {
-          "work": {
             "id": 443,
             "slug": "dance-hall",
             "title": "Dance Hall",
@@ -9610,8 +9610,8 @@
           },
           "author": {
             "id": 53,
-            "slug": "vina-delmar",
-            "name": "Vina Delmar"
+            "slug": "via-delmar",
+            "name": "Viña Delmar"
           },
           "firstAdaptation": {
             "id": 512,
@@ -9987,9 +9987,9 @@
             "id": 833,
             "slug": "her-majesty-the-queen",
             "title": "Her Majesty, the Queen",
-            "formatted_title": "\"Her Majesty, the Queen\"",
-            "html_title": "<span class=\"work-title short-story\">\"Her Majesty, the Queen\"</span>",
-            "work_type": "short_story",
+            "formatted_title": "Her Majesty, the Queen",
+            "html_title": "<span class=\"work-title\">Her Majesty, the Queen</span>",
+            "work_type": "novella",
             "genre": null,
             "publication_year": 1924
           },
@@ -10054,28 +10054,28 @@
         },
         {
           "work": {
-            "id": 751,
-            "slug": "manhattan-love-song",
-            "title": "Manhattan Love Song",
-            "formatted_title": "Manhattan Love Song",
-            "html_title": "<span class=\"work-title\">Manhattan Love Song</span>",
+            "id": 975,
+            "slug": "lord-john-in-new-york",
+            "title": "Lord John in New York",
+            "formatted_title": "Lord John in New York",
+            "html_title": "<span class=\"work-title\">Lord John in New York</span>",
             "work_type": "novel",
             "genre": null,
-            "publication_year": 1934
+            "publication_year": 1915
           },
           "author": {
-            "id": 376,
-            "slug": "kathleen-norris",
-            "name": "Kathleen Norris"
+            "id": 7,
+            "slug": "alice-muriel-williamson",
+            "name": "Alice Muriel Williamson"
           },
           "firstAdaptation": {
-            "id": 842,
-            "slug": "change-of-heart-1934",
-            "title": "Change of Heart",
-            "html_title": "<span class=\"film-title\">Change of Heart</span>",
-            "year": 1934,
-            "studio": "Fox Film",
-            "directors": "John G. Blystone"
+            "id": 1087,
+            "slug": "lord-john-in-new-york-1915",
+            "title": "Lord John in New York",
+            "html_title": "<span class=\"film-title\">Lord John in New York</span>",
+            "year": 1915,
+            "studio": "Universal",
+            "directors": null
           },
           "speed": {
             "delay": 0,
@@ -10084,42 +10084,7 @@
           },
           "context": {
             "totalAdaptations": 1,
-            "lastAdaptation": 1934
-          }
-        },
-        {
-          "work": {
-            "id": 124,
-            "slug": "mannequin",
-            "title": "Mannequin",
-            "formatted_title": "Mannequin",
-            "html_title": "<span class=\"work-title\">Mannequin</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1926
-          },
-          "author": {
-            "id": 25,
-            "slug": "fannie-hurst",
-            "name": "Fannie Hurst"
-          },
-          "firstAdaptation": {
-            "id": 130,
-            "slug": "mannequin-1926",
-            "title": "Mannequin",
-            "html_title": "<span class=\"film-title\">Mannequin</span>",
-            "year": 1926,
-            "studio": "Famous Players-Lasky",
-            "directors": "James Cruze"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1926
+            "lastAdaptation": 1915
           }
         },
         {
@@ -10334,6 +10299,41 @@
         },
         {
           "work": {
+            "id": 373,
+            "slug": "nobodys-bride",
+            "title": "Nobody's Bride",
+            "formatted_title": "Nobody's Bride",
+            "html_title": "<span class=\"work-title\">Nobody's Bride</span>",
+            "work_type": "novella",
+            "genre": null,
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 41,
+            "slug": "evelyn-campbell",
+            "name": "Evelyn Campbell"
+          },
+          "firstAdaptation": {
+            "id": 441,
+            "slug": "which-woman-1918",
+            "title": "Which Woman?",
+            "html_title": "<span class=\"film-title\">Which Woman?</span>",
+            "year": 1918,
+            "studio": "Bluebird Photoplays",
+            "directors": "Tod Browning|Harry Pollard"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 2,
+            "lastAdaptation": 1923
+          }
+        },
+        {
+          "work": {
             "id": 782,
             "slug": "no-more-orchids",
             "title": "No More Orchids",
@@ -10400,41 +10400,6 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1950
-          }
-        },
-        {
-          "work": {
-            "id": 754,
-            "slug": "passion-flower",
-            "title": "Passion Flower",
-            "formatted_title": "Passion Flower",
-            "html_title": "<span class=\"work-title\">Passion Flower</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1930
-          },
-          "author": {
-            "id": 376,
-            "slug": "kathleen-norris",
-            "name": "Kathleen Norris"
-          },
-          "firstAdaptation": {
-            "id": 845,
-            "slug": "passion-flower-1930",
-            "title": "Passion Flower",
-            "html_title": "<span class=\"film-title\">Passion Flower</span>",
-            "year": 1930,
-            "studio": "MGM",
-            "directors": "William de Mille"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1930
           }
         },
         {
@@ -11384,41 +11349,6 @@
         },
         {
           "work": {
-            "id": 131,
-            "slug": "the-magic-garden",
-            "title": "The Magic Garden",
-            "formatted_title": "The Magic Garden",
-            "html_title": "<span class=\"work-title\">The Magic Garden</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1927
-          },
-          "author": {
-            "id": 12,
-            "slug": "gene-stratton-porter",
-            "name": "Gene Stratton-Porter"
-          },
-          "firstAdaptation": {
-            "id": 137,
-            "slug": "the-magic-garden-1927",
-            "title": "The Magic Garden",
-            "html_title": "<span class=\"film-title\">The Magic Garden</span>",
-            "year": 1927,
-            "studio": "Gene Stratton Porter Productions",
-            "directors": "J. Leo Meehan"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1927
-          }
-        },
-        {
-          "work": {
             "id": 796,
             "slug": "the-man-hater",
             "title": "The Man Hater",
@@ -11489,41 +11419,6 @@
         },
         {
           "work": {
-            "id": 205,
-            "slug": "the-moons-our-home",
-            "title": "The Moon's Our Home",
-            "formatted_title": "The Moon's Our Home",
-            "html_title": "<span class=\"work-title\">The Moon's Our Home</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1936
-          },
-          "author": {
-            "id": 57,
-            "slug": "faith-baldwin",
-            "name": "Faith Baldwin"
-          },
-          "firstAdaptation": {
-            "id": 237,
-            "slug": "the-moons-our-home-1936",
-            "title": "The Moon's Our Home",
-            "html_title": "<span class=\"film-title\">The Moon's Our Home</span>",
-            "year": 1936,
-            "studio": "Paramount",
-            "directors": "William A. Seiter"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1936
-          }
-        },
-        {
-          "work": {
             "id": 514,
             "slug": "the-part-time-wife",
             "title": "The Part-Time Wife",
@@ -11590,41 +11485,6 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1931
-          }
-        },
-        {
-          "work": {
-            "id": 24,
-            "slug": "the-secret-of-the-storm-country",
-            "title": "The Secret of the Storm Country",
-            "formatted_title": "The Secret of the Storm Country",
-            "html_title": "<span class=\"work-title\">The Secret of the Storm Country</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1917
-          },
-          "author": {
-            "id": 4,
-            "slug": "grace-miller-white",
-            "name": "Grace Miller White"
-          },
-          "firstAdaptation": {
-            "id": 26,
-            "slug": "the-secret-of-the-storm-country-1917",
-            "title": "The Secret of the Storm Country",
-            "html_title": "<span class=\"film-title\">The Secret of the Storm Country</span>",
-            "year": 1917,
-            "studio": "Norma Talmadge",
-            "directors": "Charles Miller"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1917
           }
         },
         {
@@ -11874,41 +11734,6 @@
         },
         {
           "work": {
-            "id": 759,
-            "slug": "walls-of-gold",
-            "title": "Walls of Gold",
-            "formatted_title": "Walls of Gold",
-            "html_title": "<span class=\"work-title\">Walls of Gold</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1933
-          },
-          "author": {
-            "id": 376,
-            "slug": "kathleen-norris",
-            "name": "Kathleen Norris"
-          },
-          "firstAdaptation": {
-            "id": 850,
-            "slug": "walls-of-gold-1933",
-            "title": "Walls of Gold",
-            "html_title": "<span class=\"film-title\">Walls of Gold</span>",
-            "year": 1933,
-            "studio": "Fox Film",
-            "directors": "Kenneth MacKenna"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1933
-          }
-        },
-        {
-          "work": {
             "id": 171,
             "slug": "weekend-marriage",
             "title": "Weekend Marriage",
@@ -11982,9 +11807,9 @@
             "id": 197,
             "slug": "wife-vs-secretary",
             "title": "Wife vs. Secretary",
-            "formatted_title": "\"Wife vs. Secretary\"",
-            "html_title": "<span class=\"work-title short-story\">\"Wife vs. Secretary\"</span>",
-            "work_type": "short_story",
+            "formatted_title": "Wife vs. Secretary",
+            "html_title": "<span class=\"work-title\">Wife vs. Secretary</span>",
+            "work_type": "novella",
             "genre": null,
             "publication_year": 1935
           },
@@ -12156,6 +11981,41 @@
       "oneYear": [
         {
           "work": {
+            "id": 501,
+            "slug": "a-cafe-in-cairo",
+            "title": "A Cafe in Cairo",
+            "formatted_title": "\"A Cafe in Cairo\"",
+            "html_title": "<span class=\"work-title short-story\">\"A Cafe in Cairo\"</span>",
+            "work_type": "short_story",
+            "genre": null,
+            "publication_year": 1923
+          },
+          "author": {
+            "id": 223,
+            "slug": "izola-forrester",
+            "name": "Izola Forrester"
+          },
+          "firstAdaptation": {
+            "id": 573,
+            "slug": "a-cafe-in-cairo-1924",
+            "title": "A Cafe in Cairo",
+            "html_title": "<span class=\"film-title\">A Cafe in Cairo</span>",
+            "year": 1924,
+            "studio": "Hunt Stromberg Productions ",
+            "directors": "Chet Withey"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1924
+          }
+        },
+        {
+          "work": {
             "id": 924,
             "slug": "a-call-from-mitch-miller",
             "title": "A Call from Mitch Miller",
@@ -12202,8 +12062,8 @@
           },
           "author": {
             "id": 53,
-            "slug": "vina-delmar",
-            "name": "Vina Delmar"
+            "slug": "via-delmar",
+            "name": "Viña Delmar"
           },
           "firstAdaptation": {
             "id": 205,
@@ -12436,6 +12296,41 @@
         },
         {
           "work": {
+            "id": 53,
+            "slug": "a-petal-on-the-current",
+            "title": "A Petal on the Current",
+            "formatted_title": "\"A Petal on the Current\"",
+            "html_title": "<span class=\"work-title short-story\">\"A Petal on the Current\"</span>",
+            "work_type": "short_story",
+            "genre": null,
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 25,
+            "slug": "fannie-hurst",
+            "name": "Fannie Hurst"
+          },
+          "firstAdaptation": {
+            "id": 56,
+            "slug": "the-petal-on-the-current-1919",
+            "title": "The Petal on the Current",
+            "html_title": "<span class=\"film-title\">The Petal on the Current</span>",
+            "year": 1919,
+            "studio": "Universal",
+            "directors": "Tod Browning"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1919
+          }
+        },
+        {
+          "work": {
             "id": 338,
             "slug": "applause",
             "title": "Applause",
@@ -12611,28 +12506,28 @@
         },
         {
           "work": {
-            "id": 185,
-            "slug": "back-street",
-            "title": "Back Street",
-            "formatted_title": "Back Street",
-            "html_title": "<span class=\"work-title\">Back Street</span>",
+            "id": 742,
+            "slug": "beautys-daughter",
+            "title": "Beauty's Daughter",
+            "formatted_title": "Beauty's Daughter",
+            "html_title": "<span class=\"work-title\">Beauty's Daughter</span>",
             "work_type": "novel",
             "genre": null,
-            "publication_year": 1931
+            "publication_year": 1934
           },
           "author": {
-            "id": 25,
-            "slug": "fannie-hurst",
-            "name": "Fannie Hurst"
+            "id": 376,
+            "slug": "kathleen-norris",
+            "name": "Kathleen Norris"
           },
           "firstAdaptation": {
-            "id": 202,
-            "slug": "back-street-1932",
-            "title": "Back Street",
-            "html_title": "<span class=\"film-title\">Back Street</span>",
-            "year": 1932,
-            "studio": "Universal",
-            "directors": "John M. Stahl"
+            "id": 832,
+            "slug": "navy-wife-1935",
+            "title": "Navy Wife",
+            "html_title": "<span class=\"film-title\">Navy Wife</span>",
+            "year": 1935,
+            "studio": "20th Century Fox",
+            "directors": "Allan Dwan"
           },
           "speed": {
             "delay": 1,
@@ -12640,8 +12535,8 @@
             "isZeroDelay": false
           },
           "context": {
-            "totalAdaptations": 4,
-            "lastAdaptation": 1961
+            "totalAdaptations": 1,
+            "lastAdaptation": 1935
           }
         },
         {
@@ -13066,6 +12961,76 @@
         },
         {
           "work": {
+            "id": 745,
+            "slug": "christine-of-the-hungry-heart",
+            "title": "Christine of the Hungry Heart",
+            "formatted_title": "Christine of the Hungry Heart",
+            "html_title": "<span class=\"work-title\">Christine of the Hungry Heart</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1923
+          },
+          "author": {
+            "id": 376,
+            "slug": "kathleen-norris",
+            "name": "Kathleen Norris"
+          },
+          "firstAdaptation": {
+            "id": 835,
+            "slug": "christine-of-the-hungry-heart-1924",
+            "title": "Christine of the Hungry Heart",
+            "html_title": "<span class=\"film-title\">Christine of the Hungry Heart</span>",
+            "year": 1924,
+            "studio": "Thoman Ince",
+            "directors": "George Archainbaud"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1924
+          }
+        },
+        {
+          "work": {
+            "id": 481,
+            "slug": "classified",
+            "title": "Classified",
+            "formatted_title": "\"Classified\"",
+            "html_title": "<span class=\"work-title short-story\">\"Classified\"</span>",
+            "work_type": "short_story",
+            "genre": null,
+            "publication_year": 1924
+          },
+          "author": {
+            "id": 40,
+            "slug": "edna-ferber",
+            "name": "Edna Ferber"
+          },
+          "firstAdaptation": {
+            "id": 551,
+            "slug": "classified-1925",
+            "title": "Classified",
+            "html_title": "<span class=\"film-title\">Classified</span>",
+            "year": 1925,
+            "studio": "Corinne Griffith Productions ",
+            "directors": "Alfred Santell"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 2,
+            "lastAdaptation": 1929
+          }
+        },
+        {
+          "work": {
             "id": 230,
             "slug": "claudia",
             "title": "Claudia",
@@ -13101,47 +13066,12 @@
         },
         {
           "work": {
-            "id": 482,
-            "slug": "come-and-get-it",
-            "title": "Come and Get It",
-            "formatted_title": "Come and Get It",
-            "html_title": "<span class=\"work-title\">Come and Get It</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1935
-          },
-          "author": {
-            "id": 40,
-            "slug": "edna-ferber",
-            "name": "Edna Ferber"
-          },
-          "firstAdaptation": {
-            "id": 554,
-            "slug": "come-and-get-it-1936",
-            "title": "Come and Get It",
-            "html_title": "<span class=\"film-title\">Come and Get It</span>",
-            "year": 1936,
-            "studio": "Howard Productions",
-            "directors": "Howard Hawks|William Wyler"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1936
-          }
-        },
-        {
-          "work": {
             "id": 210,
             "slug": "comet-over-broadway",
             "title": "Comet Over Broadway",
-            "formatted_title": "\"Comet Over Broadway\"",
-            "html_title": "<span class=\"work-title short-story\">\"Comet Over Broadway\"</span>",
-            "work_type": "short_story",
+            "formatted_title": "Comet Over Broadway",
+            "html_title": "<span class=\"work-title\">Comet Over Broadway</span>",
+            "work_type": "novella",
             "genre": null,
             "publication_year": 1937
           },
@@ -13697,10 +13627,10 @@
         {
           "work": {
             "id": 148,
-            "slug": "give-the-little-girl-a-hand",
-            "title": "Give the Little Girl a Hand",
-            "formatted_title": "\"Give the Little Girl a Hand\"",
-            "html_title": "<span class=\"work-title short-story\">\"Give the Little Girl a Hand\"</span>",
+            "slug": "give-this-little-girl-a-hand",
+            "title": "Give This Little Girl a Hand",
+            "formatted_title": "\"Give This Little Girl a Hand\"",
+            "html_title": "<span class=\"work-title short-story\">\"Give This Little Girl a Hand\"</span>",
             "work_type": "short_story",
             "genre": null,
             "publication_year": 1928
@@ -14049,9 +13979,9 @@
             "id": 60,
             "slug": "humoresque",
             "title": "Humoresque",
-            "formatted_title": "\"Humoresque\"",
-            "html_title": "<span class=\"work-title short-story\">\"Humoresque\"</span>",
-            "work_type": "short_story",
+            "formatted_title": "Humoresque",
+            "html_title": "<span class=\"work-title\">Humoresque</span>",
+            "work_type": "novella",
             "genre": null,
             "publication_year": 1919
           },
@@ -14567,6 +14497,76 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1933
+          }
+        },
+        {
+          "work": {
+            "id": 751,
+            "slug": "manhattan-love-song",
+            "title": "Manhattan Love Song",
+            "formatted_title": "Manhattan Love Song",
+            "html_title": "<span class=\"work-title\">Manhattan Love Song</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1933
+          },
+          "author": {
+            "id": 376,
+            "slug": "kathleen-norris",
+            "name": "Kathleen Norris"
+          },
+          "firstAdaptation": {
+            "id": 842,
+            "slug": "change-of-heart-1934",
+            "title": "Change of Heart",
+            "html_title": "<span class=\"film-title\">Change of Heart</span>",
+            "year": 1934,
+            "studio": "Fox Film",
+            "directors": "John G. Blystone"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1934
+          }
+        },
+        {
+          "work": {
+            "id": 124,
+            "slug": "mannequin",
+            "title": "Mannequin",
+            "formatted_title": "Mannequin",
+            "html_title": "<span class=\"work-title\">Mannequin</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1925
+          },
+          "author": {
+            "id": 25,
+            "slug": "fannie-hurst",
+            "name": "Fannie Hurst"
+          },
+          "firstAdaptation": {
+            "id": 130,
+            "slug": "mannequin-1926",
+            "title": "Mannequin",
+            "html_title": "<span class=\"film-title\">Mannequin</span>",
+            "year": 1926,
+            "studio": "Famous Players-Lasky",
+            "directors": "James Cruze"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1926
           }
         },
         {
@@ -15166,6 +15166,41 @@
         },
         {
           "work": {
+            "id": 754,
+            "slug": "passion-flower",
+            "title": "Passion Flower",
+            "formatted_title": "Passion Flower",
+            "html_title": "<span class=\"work-title\">Passion Flower</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1929
+          },
+          "author": {
+            "id": 376,
+            "slug": "kathleen-norris",
+            "name": "Kathleen Norris"
+          },
+          "firstAdaptation": {
+            "id": 845,
+            "slug": "passion-flower-1930",
+            "title": "Passion Flower",
+            "html_title": "<span class=\"film-title\">Passion Flower</span>",
+            "year": 1930,
+            "studio": "MGM",
+            "directors": "William de Mille"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1930
+          }
+        },
+        {
+          "work": {
             "id": 116,
             "slug": "peacock-feathers",
             "title": "Peacock Feathers",
@@ -15282,8 +15317,8 @@
           },
           "author": {
             "id": 53,
-            "slug": "vina-delmar",
-            "name": "Vina Delmar"
+            "slug": "via-delmar",
+            "name": "Viña Delmar"
           },
           "firstAdaptation": {
             "id": 208,
@@ -15551,41 +15586,6 @@
         },
         {
           "work": {
-            "id": 756,
-            "slug": "rose-of-the-world",
-            "title": "Rose of the World",
-            "formatted_title": "Rose of the World",
-            "html_title": "<span class=\"work-title\">Rose of the World</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1924
-          },
-          "author": {
-            "id": 376,
-            "slug": "kathleen-norris",
-            "name": "Kathleen Norris"
-          },
-          "firstAdaptation": {
-            "id": 847,
-            "slug": "rose-of-the-world-1925",
-            "title": "Rose of the World",
-            "html_title": "<span class=\"film-title\">Rose of the World</span>",
-            "year": 1925,
-            "studio": "Warner Bros",
-            "directors": "Harry Beaumont"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1925
-          }
-        },
-        {
-          "work": {
             "id": 122,
             "slug": "sadie-of-the-desert",
             "title": "Sadie of the Desert",
@@ -15656,28 +15656,28 @@
         },
         {
           "work": {
-            "id": 757,
-            "slug": "second-hand-wife",
-            "title": "Second Hand Wife",
-            "formatted_title": "Second Hand Wife",
-            "html_title": "<span class=\"work-title\">Second Hand Wife</span>",
-            "work_type": "novel",
+            "id": 149,
+            "slug": "sheba",
+            "title": "Sheba",
+            "formatted_title": "\"Sheba\"",
+            "html_title": "<span class=\"work-title short-story\">\"Sheba\"</span>",
+            "work_type": "short_story",
             "genre": null,
-            "publication_year": 1932
+            "publication_year": 1929
           },
           "author": {
-            "id": 376,
-            "slug": "kathleen-norris",
-            "name": "Kathleen Norris"
+            "id": 53,
+            "slug": "via-delmar",
+            "name": "Viña Delmar"
           },
           "firstAdaptation": {
-            "id": 848,
-            "slug": "second-hand-wife-1933",
-            "title": "Second Hand Wife",
-            "html_title": "<span class=\"film-title\">Second Hand Wife</span>",
-            "year": 1933,
-            "studio": "Fox Film",
-            "directors": "Hamilton MacFadden"
+            "id": 161,
+            "slug": "playing-around-1930",
+            "title": "Playing Around",
+            "html_title": "<span class=\"film-title\">Playing Around</span>",
+            "year": 1930,
+            "studio": "First National",
+            "directors": "Mervyn LeRoy"
           },
           "speed": {
             "delay": 1,
@@ -15686,7 +15686,7 @@
           },
           "context": {
             "totalAdaptations": 1,
-            "lastAdaptation": 1933
+            "lastAdaptation": 1930
           }
         },
         {
@@ -15694,9 +15694,9 @@
             "id": 213,
             "slug": "sister-act",
             "title": "Sister Act",
-            "formatted_title": "\"Sister Act\"",
-            "html_title": "<span class=\"work-title short-story\">\"Sister Act\"</span>",
-            "work_type": "short_story",
+            "formatted_title": "Sister Act",
+            "html_title": "<span class=\"work-title\">Sister Act</span>",
+            "work_type": "novella",
             "genre": null,
             "publication_year": 1937
           },
@@ -15831,6 +15831,41 @@
         },
         {
           "work": {
+            "id": 257,
+            "slug": "some-like-em-cold",
+            "title": "Some Like 'Em Cold!",
+            "formatted_title": "Some Like 'Em Cold!",
+            "html_title": "<span class=\"work-title\">Some Like 'Em Cold!</span>",
+            "work_type": "novella",
+            "genre": null,
+            "publication_year": 1949
+          },
+          "author": {
+            "id": 94,
+            "slug": "edna-anhalt",
+            "name": "Edna Anhalt"
+          },
+          "firstAdaptation": {
+            "id": 307,
+            "slug": "panic-in-the-streets-1950",
+            "title": "Panic in the Streets",
+            "html_title": "<span class=\"film-title\">Panic in the Streets</span>",
+            "year": 1950,
+            "studio": "20th Century Fox",
+            "directors": "Elia Kazan"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1950
+          }
+        },
+        {
+          "work": {
             "id": 330,
             "slug": "sonny",
             "title": "Sonny",
@@ -15897,6 +15932,41 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1925
+          }
+        },
+        {
+          "work": {
+            "id": 76,
+            "slug": "star-dust",
+            "title": "Star-Dust",
+            "formatted_title": "Star-Dust",
+            "html_title": "<span class=\"work-title\">Star-Dust</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1920
+          },
+          "author": {
+            "id": 25,
+            "slug": "fannie-hurst",
+            "name": "Fannie Hurst"
+          },
+          "firstAdaptation": {
+            "id": 79,
+            "slug": "stardust-1921",
+            "title": "Stardust",
+            "html_title": "<span class=\"film-title\">Stardust</span>",
+            "year": 1921,
+            "studio": "Hobart Henley Productions",
+            "directors": "Hobart Henley"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1921
           }
         },
         {
@@ -16601,6 +16671,41 @@
         },
         {
           "work": {
+            "id": 831,
+            "slug": "the-g-a-c",
+            "title": "The G. A. C.",
+            "formatted_title": "\"The G. A. C.\"",
+            "html_title": "<span class=\"work-title short-story\">\"The G. A. C.\"</span>",
+            "work_type": "short_story",
+            "genre": null,
+            "publication_year": 1917
+          },
+          "author": {
+            "id": 6,
+            "slug": "mary-roberts-rinehart",
+            "name": "Mary Roberts Rinehart"
+          },
+          "firstAdaptation": {
+            "id": 925,
+            "slug": "her-country-first-1918",
+            "title": "Her Country First",
+            "html_title": "<span class=\"film-title\">Her Country First</span>",
+            "year": 1918,
+            "studio": "Famous Players-Lasky",
+            "directors": "James Young"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1918
+          }
+        },
+        {
+          "work": {
             "id": 289,
             "slug": "the-ghost-of-rosy-taylor",
             "title": "The Ghost of Rosy Taylor",
@@ -16846,6 +16951,41 @@
         },
         {
           "work": {
+            "id": 131,
+            "slug": "the-magic-garden",
+            "title": "The Magic Garden",
+            "formatted_title": "The Magic Garden",
+            "html_title": "<span class=\"work-title\">The Magic Garden</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1926
+          },
+          "author": {
+            "id": 12,
+            "slug": "gene-stratton-porter",
+            "name": "Gene Stratton-Porter"
+          },
+          "firstAdaptation": {
+            "id": 137,
+            "slug": "the-magic-garden-1927",
+            "title": "The Magic Garden",
+            "html_title": "<span class=\"film-title\">The Magic Garden</span>",
+            "year": 1927,
+            "studio": "Gene Stratton Porter Productions",
+            "directors": "J. Leo Meehan"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1927
+          }
+        },
+        {
+          "work": {
             "id": 17,
             "slug": "the-man-from-the-bitter-roots",
             "title": "The Man from the Bitter Roots",
@@ -16877,6 +17017,76 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1916
+          }
+        },
+        {
+          "work": {
+            "id": 840,
+            "slug": "theme-the-celebrity",
+            "title": "Theme: The Celebrity",
+            "formatted_title": "\"Theme: The Celebrity\"",
+            "html_title": "<span class=\"work-title short-story\">\"Theme: The Celebrity\"</span>",
+            "work_type": "short_story",
+            "genre": null,
+            "publication_year": 1916
+          },
+          "author": {
+            "id": 6,
+            "slug": "mary-roberts-rinehart",
+            "name": "Mary Roberts Rinehart"
+          },
+          "firstAdaptation": {
+            "id": 936,
+            "slug": "babs-matinee-idol-1917",
+            "title": "Bab's Matinee Idol",
+            "html_title": "<span class=\"film-title\">Bab's Matinee Idol</span>",
+            "year": 1917,
+            "studio": "Famous Players",
+            "directors": "J. Searle Dawley"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1917
+          }
+        },
+        {
+          "work": {
+            "id": 205,
+            "slug": "the-moons-our-home",
+            "title": "The Moon's Our Home",
+            "formatted_title": "The Moon's Our Home",
+            "html_title": "<span class=\"work-title\">The Moon's Our Home</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1935
+          },
+          "author": {
+            "id": 57,
+            "slug": "faith-baldwin",
+            "name": "Faith Baldwin"
+          },
+          "firstAdaptation": {
+            "id": 237,
+            "slug": "the-moons-our-home-1936",
+            "title": "The Moon's Our Home",
+            "html_title": "<span class=\"film-title\">The Moon's Our Home</span>",
+            "year": 1936,
+            "studio": "Paramount",
+            "directors": "William A. Seiter"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1936
           }
         },
         {
@@ -17017,41 +17227,6 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1921
-          }
-        },
-        {
-          "work": {
-            "id": 53,
-            "slug": "the-petal-on-the-current",
-            "title": "The Petal on the Current",
-            "formatted_title": "\"The Petal on the Current\"",
-            "html_title": "<span class=\"work-title short-story\">\"The Petal on the Current\"</span>",
-            "work_type": "short_story",
-            "genre": null,
-            "publication_year": 1918
-          },
-          "author": {
-            "id": 25,
-            "slug": "fannie-hurst",
-            "name": "Fannie Hurst"
-          },
-          "firstAdaptation": {
-            "id": 56,
-            "slug": "the-petal-on-the-current-1919",
-            "title": "The Petal on the Current",
-            "html_title": "<span class=\"film-title\">The Petal on the Current</span>",
-            "year": 1919,
-            "studio": "Universal",
-            "directors": "Tod Browning"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1919
           }
         },
         {
@@ -17227,6 +17402,76 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1921
+          }
+        },
+        {
+          "work": {
+            "id": 24,
+            "slug": "the-secret-of-the-storm-country",
+            "title": "The Secret of the Storm Country",
+            "formatted_title": "The Secret of the Storm Country",
+            "html_title": "<span class=\"work-title\">The Secret of the Storm Country</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1916
+          },
+          "author": {
+            "id": 4,
+            "slug": "grace-miller-white",
+            "name": "Grace Miller White"
+          },
+          "firstAdaptation": {
+            "id": 26,
+            "slug": "the-secret-of-the-storm-country-1917",
+            "title": "The Secret of the Storm Country",
+            "html_title": "<span class=\"film-title\">The Secret of the Storm Country</span>",
+            "year": 1917,
+            "studio": "Norma Talmadge",
+            "directors": "Charles Miller"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1917
+          }
+        },
+        {
+          "work": {
+            "id": 543,
+            "slug": "these-glamour-girls",
+            "title": "These Glamour Girls",
+            "formatted_title": "These Glamour Girls",
+            "html_title": "<span class=\"work-title\">These Glamour Girls</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1938
+          },
+          "author": {
+            "id": 248,
+            "slug": "jane-hall",
+            "name": "Jane Hall"
+          },
+          "firstAdaptation": {
+            "id": 620,
+            "slug": "these-glamour-girls-1939",
+            "title": "These Glamour Girls",
+            "html_title": "<span class=\"film-title\">These Glamour Girls</span>",
+            "year": 1939,
+            "studio": "MGM",
+            "directors": "S. Sylvan Simon"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1939
           }
         },
         {
@@ -17791,6 +18036,41 @@
         },
         {
           "work": {
+            "id": 759,
+            "slug": "walls-of-gold",
+            "title": "Walls of Gold",
+            "formatted_title": "Walls of Gold",
+            "html_title": "<span class=\"work-title\">Walls of Gold</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1932
+          },
+          "author": {
+            "id": 376,
+            "slug": "kathleen-norris",
+            "name": "Kathleen Norris"
+          },
+          "firstAdaptation": {
+            "id": 850,
+            "slug": "walls-of-gold-1933",
+            "title": "Walls of Gold",
+            "html_title": "<span class=\"film-title\">Walls of Gold</span>",
+            "year": 1933,
+            "studio": "Fox Film",
+            "directors": "Kenneth MacKenna"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1933
+          }
+        },
+        {
+          "work": {
             "id": 174,
             "slug": "westward-passage",
             "title": "Westward Passage",
@@ -17896,6 +18176,41 @@
         },
         {
           "work": {
+            "id": 208,
+            "slug": "wings-over-honolulu",
+            "title": "Wings Over Honolulu",
+            "formatted_title": "Wings Over Honolulu",
+            "html_title": "<span class=\"work-title\">Wings Over Honolulu</span>",
+            "work_type": "novella",
+            "genre": null,
+            "publication_year": 1936
+          },
+          "author": {
+            "id": 48,
+            "slug": "mildred-cram",
+            "name": "Mildred Cram"
+          },
+          "firstAdaptation": {
+            "id": 242,
+            "slug": "wings-over-honolulu-1937",
+            "title": "Wings over Honolulu",
+            "html_title": "<span class=\"film-title\">Wings over Honolulu</span>",
+            "year": 1937,
+            "studio": "Universal",
+            "directors": "H. C. Potter"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1937
+          }
+        },
+        {
+          "work": {
             "id": 350,
             "slug": "you-never-can-tell",
             "title": "You Never Can Tell",
@@ -17968,41 +18283,6 @@
     },
     "byDecade": {
       "1910": [
-        {
-          "work": {
-            "id": 975,
-            "slug": "lord-john-in-new-york",
-            "title": "Lord John in New York",
-            "formatted_title": "Lord John in New York",
-            "html_title": "<span class=\"work-title\">Lord John in New York</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1918
-          },
-          "author": {
-            "id": 7,
-            "slug": "alice-muriel-williamson",
-            "name": "Alice Muriel Williamson"
-          },
-          "firstAdaptation": {
-            "id": 1087,
-            "slug": "lord-john-in-new-york-1915",
-            "title": "Lord John in New York",
-            "html_title": "<span class=\"film-title\">Lord John in New York</span>",
-            "year": 1915,
-            "studio": "Universal",
-            "directors": null
-          },
-          "speed": {
-            "delay": -3,
-            "delayMonths": "-3 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1915
-          }
-        },
         {
           "work": {
             "id": 22,
@@ -18180,6 +18460,41 @@
         },
         {
           "work": {
+            "id": 975,
+            "slug": "lord-john-in-new-york",
+            "title": "Lord John in New York",
+            "formatted_title": "Lord John in New York",
+            "html_title": "<span class=\"work-title\">Lord John in New York</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1915
+          },
+          "author": {
+            "id": 7,
+            "slug": "alice-muriel-williamson",
+            "name": "Alice Muriel Williamson"
+          },
+          "firstAdaptation": {
+            "id": 1087,
+            "slug": "lord-john-in-new-york-1915",
+            "title": "Lord John in New York",
+            "html_title": "<span class=\"film-title\">Lord John in New York</span>",
+            "year": 1915,
+            "studio": "Universal",
+            "directors": null
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1915
+          }
+        },
+        {
+          "work": {
             "id": 807,
             "slug": "mister-44",
             "title": "Mister 44",
@@ -18211,6 +18526,41 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1916
+          }
+        },
+        {
+          "work": {
+            "id": 373,
+            "slug": "nobodys-bride",
+            "title": "Nobody's Bride",
+            "formatted_title": "Nobody's Bride",
+            "html_title": "<span class=\"work-title\">Nobody's Bride</span>",
+            "work_type": "novella",
+            "genre": null,
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 41,
+            "slug": "evelyn-campbell",
+            "name": "Evelyn Campbell"
+          },
+          "firstAdaptation": {
+            "id": 441,
+            "slug": "which-woman-1918",
+            "title": "Which Woman?",
+            "html_title": "<span class=\"film-title\">Which Woman?</span>",
+            "year": 1918,
+            "studio": "Bluebird Photoplays",
+            "directors": "Tod Browning|Harry Pollard"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 2,
+            "lastAdaptation": 1923
           }
         },
         {
@@ -18425,41 +18775,6 @@
         },
         {
           "work": {
-            "id": 24,
-            "slug": "the-secret-of-the-storm-country",
-            "title": "The Secret of the Storm Country",
-            "formatted_title": "The Secret of the Storm Country",
-            "html_title": "<span class=\"work-title\">The Secret of the Storm Country</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1917
-          },
-          "author": {
-            "id": 4,
-            "slug": "grace-miller-white",
-            "name": "Grace Miller White"
-          },
-          "firstAdaptation": {
-            "id": 26,
-            "slug": "the-secret-of-the-storm-country-1917",
-            "title": "The Secret of the Storm Country",
-            "html_title": "<span class=\"film-title\">The Secret of the Storm Country</span>",
-            "year": 1917,
-            "studio": "Norma Talmadge",
-            "directors": "Charles Miller"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1917
-          }
-        },
-        {
-          "work": {
             "id": 12,
             "slug": "the-shop-girl",
             "title": "The Shop Girl",
@@ -18552,6 +18867,41 @@
             "year": 1919,
             "studio": "Famous Players-Lasky",
             "directors": "Walter Edwards"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1919
+          }
+        },
+        {
+          "work": {
+            "id": 53,
+            "slug": "a-petal-on-the-current",
+            "title": "A Petal on the Current",
+            "formatted_title": "\"A Petal on the Current\"",
+            "html_title": "<span class=\"work-title short-story\">\"A Petal on the Current\"</span>",
+            "work_type": "short_story",
+            "genre": null,
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 25,
+            "slug": "fannie-hurst",
+            "name": "Fannie Hurst"
+          },
+          "firstAdaptation": {
+            "id": 56,
+            "slug": "the-petal-on-the-current-1919",
+            "title": "The Petal on the Current",
+            "html_title": "<span class=\"film-title\">The Petal on the Current</span>",
+            "year": 1919,
+            "studio": "Universal",
+            "directors": "Tod Browning"
           },
           "speed": {
             "delay": 1,
@@ -19090,6 +19440,41 @@
         },
         {
           "work": {
+            "id": 831,
+            "slug": "the-g-a-c",
+            "title": "The G. A. C.",
+            "formatted_title": "\"The G. A. C.\"",
+            "html_title": "<span class=\"work-title short-story\">\"The G. A. C.\"</span>",
+            "work_type": "short_story",
+            "genre": null,
+            "publication_year": 1917
+          },
+          "author": {
+            "id": 6,
+            "slug": "mary-roberts-rinehart",
+            "name": "Mary Roberts Rinehart"
+          },
+          "firstAdaptation": {
+            "id": 925,
+            "slug": "her-country-first-1918",
+            "title": "Her Country First",
+            "html_title": "<span class=\"film-title\">Her Country First</span>",
+            "year": 1918,
+            "studio": "Famous Players-Lasky",
+            "directors": "James Young"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1918
+          }
+        },
+        {
+          "work": {
             "id": 289,
             "slug": "the-ghost-of-rosy-taylor",
             "title": "The Ghost of Rosy Taylor",
@@ -19195,28 +19580,28 @@
         },
         {
           "work": {
-            "id": 53,
-            "slug": "the-petal-on-the-current",
-            "title": "The Petal on the Current",
-            "formatted_title": "\"The Petal on the Current\"",
-            "html_title": "<span class=\"work-title short-story\">\"The Petal on the Current\"</span>",
+            "id": 840,
+            "slug": "theme-the-celebrity",
+            "title": "Theme: The Celebrity",
+            "formatted_title": "\"Theme: The Celebrity\"",
+            "html_title": "<span class=\"work-title short-story\">\"Theme: The Celebrity\"</span>",
             "work_type": "short_story",
             "genre": null,
-            "publication_year": 1918
+            "publication_year": 1916
           },
           "author": {
-            "id": 25,
-            "slug": "fannie-hurst",
-            "name": "Fannie Hurst"
+            "id": 6,
+            "slug": "mary-roberts-rinehart",
+            "name": "Mary Roberts Rinehart"
           },
           "firstAdaptation": {
-            "id": 56,
-            "slug": "the-petal-on-the-current-1919",
-            "title": "The Petal on the Current",
-            "html_title": "<span class=\"film-title\">The Petal on the Current</span>",
-            "year": 1919,
-            "studio": "Universal",
-            "directors": "Tod Browning"
+            "id": 936,
+            "slug": "babs-matinee-idol-1917",
+            "title": "Bab's Matinee Idol",
+            "html_title": "<span class=\"film-title\">Bab's Matinee Idol</span>",
+            "year": 1917,
+            "studio": "Famous Players",
+            "directors": "J. Searle Dawley"
           },
           "speed": {
             "delay": 1,
@@ -19225,7 +19610,7 @@
           },
           "context": {
             "totalAdaptations": 1,
-            "lastAdaptation": 1919
+            "lastAdaptation": 1917
           }
         },
         {
@@ -19261,6 +19646,41 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1916
+          }
+        },
+        {
+          "work": {
+            "id": 24,
+            "slug": "the-secret-of-the-storm-country",
+            "title": "The Secret of the Storm Country",
+            "formatted_title": "The Secret of the Storm Country",
+            "html_title": "<span class=\"work-title\">The Secret of the Storm Country</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1916
+          },
+          "author": {
+            "id": 4,
+            "slug": "grace-miller-white",
+            "name": "Grace Miller White"
+          },
+          "firstAdaptation": {
+            "id": 26,
+            "slug": "the-secret-of-the-storm-country-1917",
+            "title": "The Secret of the Storm Country",
+            "html_title": "<span class=\"film-title\">The Secret of the Storm Country</span>",
+            "year": 1917,
+            "studio": "Norma Talmadge",
+            "directors": "Charles Miller"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1917
           }
         },
         {
@@ -19407,111 +19827,6 @@
       "1920": [
         {
           "work": {
-            "id": 804,
-            "slug": "elope-if-you-must",
-            "title": "Elope If You Must",
-            "formatted_title": "Elope If You Must",
-            "html_title": "<span class=\"work-title\">Elope If You Must</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1926
-          },
-          "author": {
-            "id": 407,
-            "slug": "ej-rath",
-            "name": "E.J. Rath"
-          },
-          "firstAdaptation": {
-            "id": 897,
-            "slug": "elope-if-you-must-1922",
-            "title": "Elope If You Must",
-            "html_title": "<span class=\"film-title\">Elope If You Must</span>",
-            "year": 1922,
-            "studio": "Fox Film",
-            "directors": "C. R. Wallace"
-          },
-          "speed": {
-            "delay": -4,
-            "delayMonths": "-4 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1922
-          }
-        },
-        {
-          "work": {
-            "id": 481,
-            "slug": "classified",
-            "title": "Classified",
-            "formatted_title": "\"Classified\"",
-            "html_title": "<span class=\"work-title short-story\">\"Classified\"</span>",
-            "work_type": "short_story",
-            "genre": null,
-            "publication_year": 1927
-          },
-          "author": {
-            "id": 40,
-            "slug": "edna-ferber",
-            "name": "Edna Ferber"
-          },
-          "firstAdaptation": {
-            "id": 551,
-            "slug": "classified-1925",
-            "title": "Classified",
-            "html_title": "<span class=\"film-title\">Classified</span>",
-            "year": 1925,
-            "studio": "Corinne Griffith Productions ",
-            "directors": "Alfred Santell"
-          },
-          "speed": {
-            "delay": -2,
-            "delayMonths": "-2 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 2,
-            "lastAdaptation": 1929
-          }
-        },
-        {
-          "work": {
-            "id": 87,
-            "slug": "back-pay",
-            "title": "Back Pay",
-            "formatted_title": "\"Back Pay\"",
-            "html_title": "<span class=\"work-title short-story\">\"Back Pay\"</span>",
-            "work_type": "short_story",
-            "genre": null,
-            "publication_year": 1922
-          },
-          "author": {
-            "id": 25,
-            "slug": "fannie-hurst",
-            "name": "Fannie Hurst"
-          },
-          "firstAdaptation": {
-            "id": 91,
-            "slug": "back-pay-1922",
-            "title": "Back Pay",
-            "html_title": "<span class=\"film-title\">Back Pay</span>",
-            "year": 1922,
-            "studio": "Cosmopolitan",
-            "directors": "Frank Borzage"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 2,
-            "lastAdaptation": 1930
-          }
-        },
-        {
-          "work": {
             "id": 94,
             "slug": "black-oxen",
             "title": "Black Oxen",
@@ -19617,41 +19932,6 @@
         },
         {
           "work": {
-            "id": 745,
-            "slug": "christine-of-the-hungry-heart",
-            "title": "Christine of the Hungry Heart",
-            "formatted_title": "\"Christine of the Hungry Heart\"",
-            "html_title": "<span class=\"work-title short-story\">\"Christine of the Hungry Heart\"</span>",
-            "work_type": "short_story",
-            "genre": null,
-            "publication_year": 1924
-          },
-          "author": {
-            "id": 376,
-            "slug": "kathleen-norris",
-            "name": "Kathleen Norris"
-          },
-          "firstAdaptation": {
-            "id": 835,
-            "slug": "christine-of-the-hungry-heart-1924",
-            "title": "Christine of the Hungry Heart",
-            "html_title": "<span class=\"film-title\">Christine of the Hungry Heart</span>",
-            "year": 1924,
-            "studio": "Thoman Ince",
-            "directors": "George Archainbaud"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1924
-          }
-        },
-        {
-          "work": {
             "id": 443,
             "slug": "dance-hall",
             "title": "Dance Hall",
@@ -19663,8 +19943,8 @@
           },
           "author": {
             "id": 53,
-            "slug": "vina-delmar",
-            "name": "Vina Delmar"
+            "slug": "via-delmar",
+            "name": "Viña Delmar"
           },
           "firstAdaptation": {
             "id": 512,
@@ -19795,9 +20075,9 @@
             "id": 833,
             "slug": "her-majesty-the-queen",
             "title": "Her Majesty, the Queen",
-            "formatted_title": "\"Her Majesty, the Queen\"",
-            "html_title": "<span class=\"work-title short-story\">\"Her Majesty, the Queen\"</span>",
-            "work_type": "short_story",
+            "formatted_title": "Her Majesty, the Queen",
+            "html_title": "<span class=\"work-title\">Her Majesty, the Queen</span>",
+            "work_type": "novella",
             "genre": null,
             "publication_year": 1924
           },
@@ -19858,41 +20138,6 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1927
-          }
-        },
-        {
-          "work": {
-            "id": 124,
-            "slug": "mannequin",
-            "title": "Mannequin",
-            "formatted_title": "Mannequin",
-            "html_title": "<span class=\"work-title\">Mannequin</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1926
-          },
-          "author": {
-            "id": 25,
-            "slug": "fannie-hurst",
-            "name": "Fannie Hurst"
-          },
-          "firstAdaptation": {
-            "id": 130,
-            "slug": "mannequin-1926",
-            "title": "Mannequin",
-            "html_title": "<span class=\"film-title\">Mannequin</span>",
-            "year": 1926,
-            "studio": "Famous Players-Lasky",
-            "directors": "James Cruze"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1926
           }
         },
         {
@@ -20352,41 +20597,6 @@
         },
         {
           "work": {
-            "id": 131,
-            "slug": "the-magic-garden",
-            "title": "The Magic Garden",
-            "formatted_title": "The Magic Garden",
-            "html_title": "<span class=\"work-title\">The Magic Garden</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1927
-          },
-          "author": {
-            "id": 12,
-            "slug": "gene-stratton-porter",
-            "name": "Gene Stratton-Porter"
-          },
-          "firstAdaptation": {
-            "id": 137,
-            "slug": "the-magic-garden-1927",
-            "title": "The Magic Garden",
-            "html_title": "<span class=\"film-title\">The Magic Garden</span>",
-            "year": 1927,
-            "studio": "Gene Stratton Porter Productions",
-            "directors": "J. Leo Meehan"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1927
-          }
-        },
-        {
-          "work": {
             "id": 720,
             "slug": "the-man-who-married-his-own-wife",
             "title": "The Man Who Married His Own Wife",
@@ -20667,6 +20877,41 @@
         },
         {
           "work": {
+            "id": 501,
+            "slug": "a-cafe-in-cairo",
+            "title": "A Cafe in Cairo",
+            "formatted_title": "\"A Cafe in Cairo\"",
+            "html_title": "<span class=\"work-title short-story\">\"A Cafe in Cairo\"</span>",
+            "work_type": "short_story",
+            "genre": null,
+            "publication_year": 1923
+          },
+          "author": {
+            "id": 223,
+            "slug": "izola-forrester",
+            "name": "Izola Forrester"
+          },
+          "firstAdaptation": {
+            "id": 573,
+            "slug": "a-cafe-in-cairo-1924",
+            "title": "A Cafe in Cairo",
+            "html_title": "<span class=\"film-title\">A Cafe in Cairo</span>",
+            "year": 1924,
+            "studio": "Hunt Stromberg Productions ",
+            "directors": "Chet Withey"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1924
+          }
+        },
+        {
+          "work": {
             "id": 896,
             "slug": "agathas-aunt",
             "title": "Agatha's Aunt",
@@ -20912,6 +21157,76 @@
         },
         {
           "work": {
+            "id": 745,
+            "slug": "christine-of-the-hungry-heart",
+            "title": "Christine of the Hungry Heart",
+            "formatted_title": "Christine of the Hungry Heart",
+            "html_title": "<span class=\"work-title\">Christine of the Hungry Heart</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1923
+          },
+          "author": {
+            "id": 376,
+            "slug": "kathleen-norris",
+            "name": "Kathleen Norris"
+          },
+          "firstAdaptation": {
+            "id": 835,
+            "slug": "christine-of-the-hungry-heart-1924",
+            "title": "Christine of the Hungry Heart",
+            "html_title": "<span class=\"film-title\">Christine of the Hungry Heart</span>",
+            "year": 1924,
+            "studio": "Thoman Ince",
+            "directors": "George Archainbaud"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1924
+          }
+        },
+        {
+          "work": {
+            "id": 481,
+            "slug": "classified",
+            "title": "Classified",
+            "formatted_title": "\"Classified\"",
+            "html_title": "<span class=\"work-title short-story\">\"Classified\"</span>",
+            "work_type": "short_story",
+            "genre": null,
+            "publication_year": 1924
+          },
+          "author": {
+            "id": 40,
+            "slug": "edna-ferber",
+            "name": "Edna Ferber"
+          },
+          "firstAdaptation": {
+            "id": 551,
+            "slug": "classified-1925",
+            "title": "Classified",
+            "html_title": "<span class=\"film-title\">Classified</span>",
+            "year": 1925,
+            "studio": "Corinne Griffith Productions ",
+            "directors": "Alfred Santell"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 2,
+            "lastAdaptation": 1929
+          }
+        },
+        {
+          "work": {
             "id": 950,
             "slug": "curtain",
             "title": "Curtain",
@@ -21018,10 +21333,10 @@
         {
           "work": {
             "id": 148,
-            "slug": "give-the-little-girl-a-hand",
-            "title": "Give the Little Girl a Hand",
-            "formatted_title": "\"Give the Little Girl a Hand\"",
-            "html_title": "<span class=\"work-title short-story\">\"Give the Little Girl a Hand\"</span>",
+            "slug": "give-this-little-girl-a-hand",
+            "title": "Give This Little Girl a Hand",
+            "formatted_title": "\"Give This Little Girl a Hand\"",
+            "html_title": "<span class=\"work-title short-story\">\"Give This Little Girl a Hand\"</span>",
             "work_type": "short_story",
             "genre": null,
             "publication_year": 1928
@@ -21125,9 +21440,9 @@
             "id": 60,
             "slug": "humoresque",
             "title": "Humoresque",
-            "formatted_title": "\"Humoresque\"",
-            "html_title": "<span class=\"work-title short-story\">\"Humoresque\"</span>",
-            "work_type": "short_story",
+            "formatted_title": "Humoresque",
+            "html_title": "<span class=\"work-title\">Humoresque</span>",
+            "work_type": "novella",
             "genre": null,
             "publication_year": 1919
           },
@@ -21258,6 +21573,41 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1923
+          }
+        },
+        {
+          "work": {
+            "id": 124,
+            "slug": "mannequin",
+            "title": "Mannequin",
+            "formatted_title": "Mannequin",
+            "html_title": "<span class=\"work-title\">Mannequin</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1925
+          },
+          "author": {
+            "id": 25,
+            "slug": "fannie-hurst",
+            "name": "Fannie Hurst"
+          },
+          "firstAdaptation": {
+            "id": 130,
+            "slug": "mannequin-1926",
+            "title": "Mannequin",
+            "html_title": "<span class=\"film-title\">Mannequin</span>",
+            "year": 1926,
+            "studio": "Famous Players-Lasky",
+            "directors": "James Cruze"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1926
           }
         },
         {
@@ -21542,41 +21892,6 @@
         },
         {
           "work": {
-            "id": 756,
-            "slug": "rose-of-the-world",
-            "title": "Rose of the World",
-            "formatted_title": "Rose of the World",
-            "html_title": "<span class=\"work-title\">Rose of the World</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1924
-          },
-          "author": {
-            "id": 376,
-            "slug": "kathleen-norris",
-            "name": "Kathleen Norris"
-          },
-          "firstAdaptation": {
-            "id": 847,
-            "slug": "rose-of-the-world-1925",
-            "title": "Rose of the World",
-            "html_title": "<span class=\"film-title\">Rose of the World</span>",
-            "year": 1925,
-            "studio": "Warner Bros",
-            "directors": "Harry Beaumont"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1925
-          }
-        },
-        {
-          "work": {
             "id": 122,
             "slug": "sadie-of-the-desert",
             "title": "Sadie of the Desert",
@@ -21748,6 +22063,41 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1925
+          }
+        },
+        {
+          "work": {
+            "id": 76,
+            "slug": "star-dust",
+            "title": "Star-Dust",
+            "formatted_title": "Star-Dust",
+            "html_title": "<span class=\"work-title\">Star-Dust</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1920
+          },
+          "author": {
+            "id": 25,
+            "slug": "fannie-hurst",
+            "name": "Fannie Hurst"
+          },
+          "firstAdaptation": {
+            "id": 79,
+            "slug": "stardust-1921",
+            "title": "Stardust",
+            "html_title": "<span class=\"film-title\">Stardust</span>",
+            "year": 1921,
+            "studio": "Hobart Henley Productions",
+            "directors": "Hobart Henley"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1921
           }
         },
         {
@@ -22063,6 +22413,41 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1925
+          }
+        },
+        {
+          "work": {
+            "id": 131,
+            "slug": "the-magic-garden",
+            "title": "The Magic Garden",
+            "formatted_title": "The Magic Garden",
+            "html_title": "<span class=\"work-title\">The Magic Garden</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1926
+          },
+          "author": {
+            "id": 12,
+            "slug": "gene-stratton-porter",
+            "name": "Gene Stratton-Porter"
+          },
+          "firstAdaptation": {
+            "id": 137,
+            "slug": "the-magic-garden-1927",
+            "title": "The Magic Garden",
+            "html_title": "<span class=\"film-title\">The Magic Garden</span>",
+            "year": 1927,
+            "studio": "Gene Stratton Porter Productions",
+            "directors": "J. Leo Meehan"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1927
           }
         },
         {
@@ -22594,47 +22979,12 @@
         },
         {
           "work": {
-            "id": 742,
-            "slug": "beautys-daughter",
-            "title": "Beauty's Daughter",
-            "formatted_title": "Beauty's Daughter",
-            "html_title": "<span class=\"work-title\">Beauty's Daughter</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1935
-          },
-          "author": {
-            "id": 376,
-            "slug": "kathleen-norris",
-            "name": "Kathleen Norris"
-          },
-          "firstAdaptation": {
-            "id": 832,
-            "slug": "navy-wife-1935",
-            "title": "Navy Wife",
-            "html_title": "<span class=\"film-title\">Navy Wife</span>",
-            "year": 1935,
-            "studio": "20th Century Fox",
-            "directors": "Allan Dwan"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1935
-          }
-        },
-        {
-          "work": {
             "id": 186,
             "slug": "big-executive",
             "title": "Big Executive",
-            "formatted_title": "\"Big Executive\"",
-            "html_title": "<span class=\"work-title short-story\">\"Big Executive\"</span>",
-            "work_type": "short_story",
+            "formatted_title": "Big Executive",
+            "html_title": "<span class=\"work-title\">Big Executive</span>",
+            "work_type": "novella",
             "genre": null,
             "publication_year": 1933
           },
@@ -22804,41 +23154,6 @@
         },
         {
           "work": {
-            "id": 751,
-            "slug": "manhattan-love-song",
-            "title": "Manhattan Love Song",
-            "formatted_title": "Manhattan Love Song",
-            "html_title": "<span class=\"work-title\">Manhattan Love Song</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1934
-          },
-          "author": {
-            "id": 376,
-            "slug": "kathleen-norris",
-            "name": "Kathleen Norris"
-          },
-          "firstAdaptation": {
-            "id": 842,
-            "slug": "change-of-heart-1934",
-            "title": "Change of Heart",
-            "html_title": "<span class=\"film-title\">Change of Heart</span>",
-            "year": 1934,
-            "studio": "Fox Film",
-            "directors": "John G. Blystone"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1934
-          }
-        },
-        {
-          "work": {
             "id": 220,
             "slug": "miss-pinkerton-adventures-of-a-nurse-detective",
             "title": "Miss Pinkerton: Adventures of a Nurse Detective",
@@ -22940,41 +23255,6 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1932
-          }
-        },
-        {
-          "work": {
-            "id": 754,
-            "slug": "passion-flower",
-            "title": "Passion Flower",
-            "formatted_title": "Passion Flower",
-            "html_title": "<span class=\"work-title\">Passion Flower</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1930
-          },
-          "author": {
-            "id": 376,
-            "slug": "kathleen-norris",
-            "name": "Kathleen Norris"
-          },
-          "firstAdaptation": {
-            "id": 845,
-            "slug": "passion-flower-1930",
-            "title": "Passion Flower",
-            "html_title": "<span class=\"film-title\">Passion Flower</span>",
-            "year": 1930,
-            "studio": "MGM",
-            "directors": "William de Mille"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1930
           }
         },
         {
@@ -23259,41 +23539,6 @@
         },
         {
           "work": {
-            "id": 205,
-            "slug": "the-moons-our-home",
-            "title": "The Moon's Our Home",
-            "formatted_title": "The Moon's Our Home",
-            "html_title": "<span class=\"work-title\">The Moon's Our Home</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1936
-          },
-          "author": {
-            "id": 57,
-            "slug": "faith-baldwin",
-            "name": "Faith Baldwin"
-          },
-          "firstAdaptation": {
-            "id": 237,
-            "slug": "the-moons-our-home-1936",
-            "title": "The Moon's Our Home",
-            "html_title": "<span class=\"film-title\">The Moon's Our Home</span>",
-            "year": 1936,
-            "studio": "Paramount",
-            "directors": "William A. Seiter"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1936
-          }
-        },
-        {
-          "work": {
             "id": 616,
             "slug": "the-road-to-reno",
             "title": "The Road to Reno",
@@ -23399,41 +23644,6 @@
         },
         {
           "work": {
-            "id": 759,
-            "slug": "walls-of-gold",
-            "title": "Walls of Gold",
-            "formatted_title": "Walls of Gold",
-            "html_title": "<span class=\"work-title\">Walls of Gold</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1933
-          },
-          "author": {
-            "id": 376,
-            "slug": "kathleen-norris",
-            "name": "Kathleen Norris"
-          },
-          "firstAdaptation": {
-            "id": 850,
-            "slug": "walls-of-gold-1933",
-            "title": "Walls of Gold",
-            "html_title": "<span class=\"film-title\">Walls of Gold</span>",
-            "year": 1933,
-            "studio": "Fox Film",
-            "directors": "Kenneth MacKenna"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1933
-          }
-        },
-        {
-          "work": {
             "id": 171,
             "slug": "weekend-marriage",
             "title": "Weekend Marriage",
@@ -23472,9 +23682,9 @@
             "id": 197,
             "slug": "wife-vs-secretary",
             "title": "Wife vs. Secretary",
-            "formatted_title": "\"Wife vs. Secretary\"",
-            "html_title": "<span class=\"work-title short-story\">\"Wife vs. Secretary\"</span>",
-            "work_type": "short_story",
+            "formatted_title": "Wife vs. Secretary",
+            "html_title": "<span class=\"work-title\">Wife vs. Secretary</span>",
+            "work_type": "novella",
             "genre": null,
             "publication_year": 1935
           },
@@ -23585,8 +23795,8 @@
           },
           "author": {
             "id": 53,
-            "slug": "vina-delmar",
-            "name": "Vina Delmar"
+            "slug": "via-delmar",
+            "name": "Viña Delmar"
           },
           "firstAdaptation": {
             "id": 205,
@@ -23679,28 +23889,28 @@
         },
         {
           "work": {
-            "id": 185,
-            "slug": "back-street",
-            "title": "Back Street",
-            "formatted_title": "Back Street",
-            "html_title": "<span class=\"work-title\">Back Street</span>",
+            "id": 742,
+            "slug": "beautys-daughter",
+            "title": "Beauty's Daughter",
+            "formatted_title": "Beauty's Daughter",
+            "html_title": "<span class=\"work-title\">Beauty's Daughter</span>",
             "work_type": "novel",
             "genre": null,
-            "publication_year": 1931
+            "publication_year": 1934
           },
           "author": {
-            "id": 25,
-            "slug": "fannie-hurst",
-            "name": "Fannie Hurst"
+            "id": 376,
+            "slug": "kathleen-norris",
+            "name": "Kathleen Norris"
           },
           "firstAdaptation": {
-            "id": 202,
-            "slug": "back-street-1932",
-            "title": "Back Street",
-            "html_title": "<span class=\"film-title\">Back Street</span>",
-            "year": 1932,
-            "studio": "Universal",
-            "directors": "John M. Stahl"
+            "id": 832,
+            "slug": "navy-wife-1935",
+            "title": "Navy Wife",
+            "html_title": "<span class=\"film-title\">Navy Wife</span>",
+            "year": 1935,
+            "studio": "20th Century Fox",
+            "directors": "Allan Dwan"
           },
           "speed": {
             "delay": 1,
@@ -23708,8 +23918,8 @@
             "isZeroDelay": false
           },
           "context": {
-            "totalAdaptations": 4,
-            "lastAdaptation": 1961
+            "totalAdaptations": 1,
+            "lastAdaptation": 1935
           }
         },
         {
@@ -23784,47 +23994,12 @@
         },
         {
           "work": {
-            "id": 482,
-            "slug": "come-and-get-it",
-            "title": "Come and Get It",
-            "formatted_title": "Come and Get It",
-            "html_title": "<span class=\"work-title\">Come and Get It</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1935
-          },
-          "author": {
-            "id": 40,
-            "slug": "edna-ferber",
-            "name": "Edna Ferber"
-          },
-          "firstAdaptation": {
-            "id": 554,
-            "slug": "come-and-get-it-1936",
-            "title": "Come and Get It",
-            "html_title": "<span class=\"film-title\">Come and Get It</span>",
-            "year": 1936,
-            "studio": "Howard Productions",
-            "directors": "Howard Hawks|William Wyler"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1936
-          }
-        },
-        {
-          "work": {
             "id": 210,
             "slug": "comet-over-broadway",
             "title": "Comet Over Broadway",
-            "formatted_title": "\"Comet Over Broadway\"",
-            "html_title": "<span class=\"work-title short-story\">\"Comet Over Broadway\"</span>",
-            "work_type": "short_story",
+            "formatted_title": "Comet Over Broadway",
+            "html_title": "<span class=\"work-title\">Comet Over Broadway</span>",
+            "work_type": "novella",
             "genre": null,
             "publication_year": 1937
           },
@@ -24379,6 +24554,41 @@
         },
         {
           "work": {
+            "id": 751,
+            "slug": "manhattan-love-song",
+            "title": "Manhattan Love Song",
+            "formatted_title": "Manhattan Love Song",
+            "html_title": "<span class=\"work-title\">Manhattan Love Song</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1933
+          },
+          "author": {
+            "id": 376,
+            "slug": "kathleen-norris",
+            "name": "Kathleen Norris"
+          },
+          "firstAdaptation": {
+            "id": 842,
+            "slug": "change-of-heart-1934",
+            "title": "Change of Heart",
+            "html_title": "<span class=\"film-title\">Change of Heart</span>",
+            "year": 1934,
+            "studio": "Fox Film",
+            "directors": "John G. Blystone"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1934
+          }
+        },
+        {
+          "work": {
             "id": 622,
             "slug": "mareea-maria",
             "title": "Mareea Maria",
@@ -24554,6 +24764,41 @@
         },
         {
           "work": {
+            "id": 754,
+            "slug": "passion-flower",
+            "title": "Passion Flower",
+            "formatted_title": "Passion Flower",
+            "html_title": "<span class=\"work-title\">Passion Flower</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1929
+          },
+          "author": {
+            "id": 376,
+            "slug": "kathleen-norris",
+            "name": "Kathleen Norris"
+          },
+          "firstAdaptation": {
+            "id": 845,
+            "slug": "passion-flower-1930",
+            "title": "Passion Flower",
+            "html_title": "<span class=\"film-title\">Passion Flower</span>",
+            "year": 1930,
+            "studio": "MGM",
+            "directors": "William de Mille"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1930
+          }
+        },
+        {
+          "work": {
             "id": 189,
             "slug": "pretty-sadie-mckee",
             "title": "Pretty Sadie McKee",
@@ -24565,8 +24810,8 @@
           },
           "author": {
             "id": 53,
-            "slug": "vina-delmar",
-            "name": "Vina Delmar"
+            "slug": "via-delmar",
+            "name": "Viña Delmar"
           },
           "firstAdaptation": {
             "id": 208,
@@ -24624,28 +24869,28 @@
         },
         {
           "work": {
-            "id": 757,
-            "slug": "second-hand-wife",
-            "title": "Second Hand Wife",
-            "formatted_title": "Second Hand Wife",
-            "html_title": "<span class=\"work-title\">Second Hand Wife</span>",
-            "work_type": "novel",
+            "id": 149,
+            "slug": "sheba",
+            "title": "Sheba",
+            "formatted_title": "\"Sheba\"",
+            "html_title": "<span class=\"work-title short-story\">\"Sheba\"</span>",
+            "work_type": "short_story",
             "genre": null,
-            "publication_year": 1932
+            "publication_year": 1929
           },
           "author": {
-            "id": 376,
-            "slug": "kathleen-norris",
-            "name": "Kathleen Norris"
+            "id": 53,
+            "slug": "via-delmar",
+            "name": "Viña Delmar"
           },
           "firstAdaptation": {
-            "id": 848,
-            "slug": "second-hand-wife-1933",
-            "title": "Second Hand Wife",
-            "html_title": "<span class=\"film-title\">Second Hand Wife</span>",
-            "year": 1933,
-            "studio": "Fox Film",
-            "directors": "Hamilton MacFadden"
+            "id": 161,
+            "slug": "playing-around-1930",
+            "title": "Playing Around",
+            "html_title": "<span class=\"film-title\">Playing Around</span>",
+            "year": 1930,
+            "studio": "First National",
+            "directors": "Mervyn LeRoy"
           },
           "speed": {
             "delay": 1,
@@ -24654,7 +24899,7 @@
           },
           "context": {
             "totalAdaptations": 1,
-            "lastAdaptation": 1933
+            "lastAdaptation": 1930
           }
         },
         {
@@ -24662,9 +24907,9 @@
             "id": 213,
             "slug": "sister-act",
             "title": "Sister Act",
-            "formatted_title": "\"Sister Act\"",
-            "html_title": "<span class=\"work-title short-story\">\"Sister Act\"</span>",
-            "work_type": "short_story",
+            "formatted_title": "Sister Act",
+            "html_title": "<span class=\"work-title\">Sister Act</span>",
+            "work_type": "novella",
             "genre": null,
             "publication_year": 1937
           },
@@ -24904,6 +25149,41 @@
         },
         {
           "work": {
+            "id": 205,
+            "slug": "the-moons-our-home",
+            "title": "The Moon's Our Home",
+            "formatted_title": "The Moon's Our Home",
+            "html_title": "<span class=\"work-title\">The Moon's Our Home</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1935
+          },
+          "author": {
+            "id": 57,
+            "slug": "faith-baldwin",
+            "name": "Faith Baldwin"
+          },
+          "firstAdaptation": {
+            "id": 237,
+            "slug": "the-moons-our-home-1936",
+            "title": "The Moon's Our Home",
+            "html_title": "<span class=\"film-title\">The Moon's Our Home</span>",
+            "year": 1936,
+            "studio": "Paramount",
+            "directors": "William A. Seiter"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1936
+          }
+        },
+        {
+          "work": {
             "id": 190,
             "slug": "the-murder-of-steven-kester",
             "title": "The Murder of Steven Kester",
@@ -25005,6 +25285,41 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1930
+          }
+        },
+        {
+          "work": {
+            "id": 543,
+            "slug": "these-glamour-girls",
+            "title": "These Glamour Girls",
+            "formatted_title": "These Glamour Girls",
+            "html_title": "<span class=\"work-title\">These Glamour Girls</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1938
+          },
+          "author": {
+            "id": 248,
+            "slug": "jane-hall",
+            "name": "Jane Hall"
+          },
+          "firstAdaptation": {
+            "id": 620,
+            "slug": "these-glamour-girls-1939",
+            "title": "These Glamour Girls",
+            "html_title": "<span class=\"film-title\">These Glamour Girls</span>",
+            "year": 1939,
+            "studio": "MGM",
+            "directors": "S. Sylvan Simon"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1939
           }
         },
         {
@@ -25114,6 +25429,41 @@
         },
         {
           "work": {
+            "id": 759,
+            "slug": "walls-of-gold",
+            "title": "Walls of Gold",
+            "formatted_title": "Walls of Gold",
+            "html_title": "<span class=\"work-title\">Walls of Gold</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1932
+          },
+          "author": {
+            "id": 376,
+            "slug": "kathleen-norris",
+            "name": "Kathleen Norris"
+          },
+          "firstAdaptation": {
+            "id": 850,
+            "slug": "walls-of-gold-1933",
+            "title": "Walls of Gold",
+            "html_title": "<span class=\"film-title\">Walls of Gold</span>",
+            "year": 1933,
+            "studio": "Fox Film",
+            "directors": "Kenneth MacKenna"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1933
+          }
+        },
+        {
+          "work": {
             "id": 174,
             "slug": "westward-passage",
             "title": "Westward Passage",
@@ -25180,6 +25530,41 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1934
+          }
+        },
+        {
+          "work": {
+            "id": 208,
+            "slug": "wings-over-honolulu",
+            "title": "Wings Over Honolulu",
+            "formatted_title": "Wings Over Honolulu",
+            "html_title": "<span class=\"work-title\">Wings Over Honolulu</span>",
+            "work_type": "novella",
+            "genre": null,
+            "publication_year": 1936
+          },
+          "author": {
+            "id": 48,
+            "slug": "mildred-cram",
+            "name": "Mildred Cram"
+          },
+          "firstAdaptation": {
+            "id": 242,
+            "slug": "wings-over-honolulu-1937",
+            "title": "Wings over Honolulu",
+            "html_title": "<span class=\"film-title\">Wings over Honolulu</span>",
+            "year": 1937,
+            "studio": "Universal",
+            "directors": "H. C. Potter"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1937
           }
         }
       ],
@@ -26728,6 +27113,41 @@
         },
         {
           "work": {
+            "id": 257,
+            "slug": "some-like-em-cold",
+            "title": "Some Like 'Em Cold!",
+            "formatted_title": "Some Like 'Em Cold!",
+            "html_title": "<span class=\"work-title\">Some Like 'Em Cold!</span>",
+            "work_type": "novella",
+            "genre": null,
+            "publication_year": 1949
+          },
+          "author": {
+            "id": 94,
+            "slug": "edna-anhalt",
+            "name": "Edna Anhalt"
+          },
+          "firstAdaptation": {
+            "id": 307,
+            "slug": "panic-in-the-streets-1950",
+            "title": "Panic in the Streets",
+            "html_title": "<span class=\"film-title\">Panic in the Streets</span>",
+            "year": 1950,
+            "studio": "20th Century Fox",
+            "directors": "Elia Kazan"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1950
+          }
+        },
+        {
+          "work": {
             "id": 563,
             "slug": "strangers-on-a-train",
             "title": "Strangers on a Train",
@@ -27015,12 +27435,12 @@
         "id": 376,
         "slug": "kathleen-norris",
         "name": "Kathleen Norris",
-        "count": 12
+        "count": 10
       },
       {
-        "id": 25,
-        "slug": "fannie-hurst",
-        "name": "Fannie Hurst",
+        "id": 6,
+        "slug": "mary-roberts-rinehart",
+        "name": "Mary Roberts Rinehart",
         "count": 9
       },
       {
@@ -27030,16 +27450,22 @@
         "count": 9
       },
       {
-        "id": 6,
-        "slug": "mary-roberts-rinehart",
-        "name": "Mary Roberts Rinehart",
-        "count": 7
+        "id": 25,
+        "slug": "fannie-hurst",
+        "name": "Fannie Hurst",
+        "count": 8
       },
       {
         "id": 43,
         "slug": "adela-rogers-st-johns",
         "name": "Adela Rogers St. Johns",
         "count": 6
+      },
+      {
+        "id": 48,
+        "slug": "mildred-cram",
+        "name": "Mildred Cram",
+        "count": 5
       },
       {
         "id": 7,
@@ -27060,12 +27486,6 @@
         "count": 4
       },
       {
-        "id": 48,
-        "slug": "mildred-cram",
-        "name": "Mildred Cram",
-        "count": 4
-      },
-      {
         "id": 49,
         "slug": "beatrice-burton",
         "name": "Beatrice Burton",
@@ -27075,15 +27495,11 @@
     "topStudios": [
       {
         "studio": "Warner Bros",
-        "count": 27
+        "count": 26
       },
       {
         "studio": "MGM",
-        "count": 25
-      },
-      {
-        "studio": "Fox Film",
-        "count": 20
+        "count": 26
       },
       {
         "studio": "Paramount",
@@ -27091,7 +27507,11 @@
       },
       {
         "studio": "20th Century Fox",
-        "count": 17
+        "count": 18
+      },
+      {
+        "studio": "Fox Film",
+        "count": 18
       },
       {
         "studio": "Universal",
@@ -27099,11 +27519,11 @@
       },
       {
         "studio": "First National",
-        "count": 14
+        "count": 15
       },
       {
         "studio": "Famous Players-Lasky",
-        "count": 14
+        "count": 15
       },
       {
         "studio": "RKO",
@@ -27116,13 +27536,13 @@
     ]
   },
   "stats": {
-    "total": 258,
-    "sameYearCount": 89,
-    "oneYearCount": 166,
+    "total": 261,
+    "sameYearCount": 81,
+    "oneYearCount": 180,
     "peakDecade": "1920"
   },
   "metadata": {
-    "generated": "2025-07-22T19:02:30.084Z",
+    "generated": "2025-07-23T13:53:15.670Z",
     "version": "2.0"
   }
 }

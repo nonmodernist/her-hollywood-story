@@ -1,0 +1,476 @@
+{
+  "id": 53,
+  "slug": "via-delmar",
+  "name": "Viña Delmar",
+  "birth_year": 1903,
+  "death_year": 1990,
+  "nationality": "American",
+  "literary_movement": null,
+  "biographical_notes": "American playwright, screenwriter, and novelist (1903-1990). Born in Brooklyn. Died in Los Angeles. Occupations: playwright, screenwriter, novelist, writer",
+  "author_notes": null,
+  "wikidata_id": "Q3561703",
+  "stats": {
+    "total_films": 15,
+    "works_adapted": 13,
+    "first_adaptation": 1922,
+    "last_adaptation": 1953,
+    "year_span": 31,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 5
+      },
+      {
+        "genre": "Drama",
+        "count": 5
+      },
+      {
+        "genre": "Domestic",
+        "count": 4
+      },
+      {
+        "genre": "with songs",
+        "count": 3
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 2
+      }
+    ],
+    "films_by_decade": {
+      "1920": 2,
+      "1930": 9,
+      "1940": 3,
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 516,
+      "slug": "restless-souls-1922",
+      "title": "Restless Souls",
+      "html_title": "<span class=\"film-title\">Restless Souls</span>",
+      "year": 1922,
+      "studio": "Vitagraph",
+      "directors": "Robert Ensminger",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Playing Dead",
+      "work_html_title": "<span class=\"work-title\">Playing Dead</span>",
+      "work_id": 445
+    },
+    {
+      "id": 512,
+      "slug": "dance-hall-1929",
+      "title": "Dance Hall",
+      "html_title": "<span class=\"film-title\">Dance Hall</span>",
+      "year": 1929,
+      "studio": "RKO",
+      "directors": "Melville Brown",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "Dance Hall",
+      "work_html_title": "<span class=\"work-title short-story\">\"Dance Hall\"</span>",
+      "work_id": 443
+    },
+    {
+      "id": 161,
+      "slug": "playing-around-1930",
+      "title": "Playing Around",
+      "html_title": "<span class=\"film-title\">Playing Around</span>",
+      "year": 1930,
+      "studio": "First National",
+      "directors": "Mervyn LeRoy",
+      "genres": [
+        "Melodrama",
+        "Society"
+      ],
+      "has_media": false,
+      "work_title": "Sheba",
+      "work_html_title": "<span class=\"work-title short-story\">\"Sheba\"</span>",
+      "work_id": 149
+    },
+    {
+      "id": 176,
+      "slug": "bad-girl-1931",
+      "title": "Bad Girl",
+      "html_title": "<span class=\"film-title\">Bad Girl</span>",
+      "year": 1931,
+      "studio": "Fox Film",
+      "directors": "Frank Borzage",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": true,
+      "work_title": "Bad Girl",
+      "work_html_title": "<span class=\"work-title\">Bad Girl</span>",
+      "work_id": 162
+    },
+    {
+      "id": 191,
+      "slug": "uptown-new-york-1932",
+      "title": "Uptown New York",
+      "html_title": "<span class=\"film-title\">Uptown New York</span>",
+      "year": 1932,
+      "studio": "Sono-Art",
+      "directors": "Victor Schertzinger",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Uptown Woman",
+      "work_html_title": "<span class=\"work-title short-story\">\"Uptown Woman\"</span>",
+      "work_id": 176
+    },
+    {
+      "id": 205,
+      "slug": "chance-at-heaven-1933",
+      "title": "Chance at Heaven",
+      "html_title": "<span class=\"film-title\">Chance at Heaven</span>",
+      "year": 1933,
+      "studio": "RKO",
+      "directors": "William Seiter",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "A Chance at Heaven",
+      "work_html_title": "<span class=\"work-title\">A Chance at Heaven</span>",
+      "work_id": 187
+    },
+    {
+      "id": 206,
+      "slug": "pick-up-1933",
+      "title": "Pick-Up",
+      "html_title": "<span class=\"film-title\">Pick-Up</span>",
+      "year": 1933,
+      "studio": "Paramount",
+      "directors": "Marion Gering",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Pick-Up",
+      "work_html_title": "<span class=\"work-title short-story\">\"Pick-Up\"</span>",
+      "work_id": 188
+    },
+    {
+      "id": 208,
+      "slug": "sadie-mckee-1934",
+      "title": "Sadie McKee",
+      "html_title": "<span class=\"film-title\">Sadie McKee</span>",
+      "year": 1934,
+      "studio": "MGM",
+      "directors": "Clarence Brown",
+      "genres": [
+        "Melodrama",
+        "with songs"
+      ],
+      "has_media": true,
+      "work_title": "Pretty Sadie McKee",
+      "work_html_title": "<span class=\"work-title\">Pretty Sadie McKee</span>",
+      "work_id": 189
+    },
+    {
+      "id": 511,
+      "slug": "hands-across-the-table-1935",
+      "title": "Hands Across the Table",
+      "html_title": "<span class=\"film-title\">Hands Across the Table</span>",
+      "year": 1935,
+      "studio": "Paramount",
+      "directors": "Mitchell Leisen",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "has_media": true,
+      "work_title": "Bracelets",
+      "work_html_title": "<span class=\"work-title short-story\">\"Bracelets\"</span>",
+      "work_id": 442
+    },
+    {
+      "id": 510,
+      "slug": "bad-boy-1936",
+      "title": "Bad Boy",
+      "html_title": "<span class=\"film-title\">Bad Boy</span>",
+      "year": 1936,
+      "studio": "20th Century Fox",
+      "directors": "John Blystone",
+      "genres": [
+        "Comedy-drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Bad Boy",
+      "work_html_title": "<span class=\"work-title short-story\">\"Bad Boy\"</span>",
+      "work_id": 441
+    },
+    {
+      "id": 513,
+      "slug": "king-of-burlesque-1936",
+      "title": "King of Burlesque",
+      "html_title": "<span class=\"film-title\">King of Burlesque</span>",
+      "year": 1936,
+      "studio": "20th Century Fox",
+      "directors": "Sidney Lanfield",
+      "genres": [
+        "Musical comedy",
+        "Show business"
+      ],
+      "has_media": true,
+      "work_title": "Dance Hall",
+      "work_html_title": "<span class=\"work-title short-story\">\"Dance Hall\"</span>",
+      "work_id": 443
+    },
+    {
+      "id": 255,
+      "slug": "manhattan-heartbeat-1940",
+      "title": "Manhattan Heartbeat",
+      "html_title": "<span class=\"film-title\">Manhattan Heartbeat</span>",
+      "year": 1940,
+      "studio": "20th Century Fox",
+      "directors": "David Burton",
+      "genres": [
+        "Drama",
+        "Domestic"
+      ],
+      "has_media": false,
+      "work_title": "Bad Girl",
+      "work_html_title": "<span class=\"work-title\">Bad Girl</span>",
+      "work_id": 162
+    },
+    {
+      "id": 514,
+      "slug": "the-great-mans-lady-1942",
+      "title": "The Great Man's Lady",
+      "html_title": "<span class=\"film-title\">The Great Man's Lady</span>",
+      "year": 1942,
+      "studio": "Paramount",
+      "directors": "William A. Wellman",
+      "genres": [
+        "Romance",
+        "Historical"
+      ],
+      "has_media": false,
+      "work_title": "The Human Side",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Human Side\"</span>",
+      "work_id": 444
+    },
+    {
+      "id": 515,
+      "slug": "cynthia-1947",
+      "title": "Cynthia",
+      "html_title": "<span class=\"film-title\">Cynthia</span>",
+      "year": 1947,
+      "studio": "MGM",
+      "directors": "Robert Z. Leonard",
+      "genres": [
+        "Comedy-drama",
+        "Domestic",
+        "Teenage",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "The Rich Full Life",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Rich Full Life\"</span>",
+      "work_id": 446
+    },
+    {
+      "id": 320,
+      "slug": "about-mrs-leslie-1953",
+      "title": "About Mrs. Leslie",
+      "html_title": "<span class=\"film-title\">About Mrs. Leslie</span>",
+      "year": 1953,
+      "studio": "Paramount",
+      "directors": "Daniel Mann",
+      "genres": [
+        "Melodrama",
+        "with songs"
+      ],
+      "has_media": false,
+      "work_title": "About Mrs. Leslie",
+      "work_html_title": "<span class=\"work-title\">About Mrs. Leslie</span>",
+      "work_id": 268
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 443,
+      "slug": "dance-hall",
+      "title": "Dance Hall",
+      "formatted_title": "\"Dance Hall\"",
+      "html_title": "<span class=\"work-title short-story\">\"Dance Hall\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1929,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 162,
+      "slug": "bad-girl",
+      "title": "Bad Girl",
+      "formatted_title": "Bad Girl",
+      "html_title": "<span class=\"work-title\">Bad Girl</span>",
+      "work_type": "novel",
+      "publication_year": 1928,
+      "genre": null,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 445,
+      "slug": "playing-dead",
+      "title": "Playing Dead",
+      "formatted_title": "Playing Dead",
+      "html_title": "<span class=\"work-title\">Playing Dead</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 149,
+      "slug": "sheba",
+      "title": "Sheba",
+      "formatted_title": "\"Sheba\"",
+      "html_title": "<span class=\"work-title short-story\">\"Sheba\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1929,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 176,
+      "slug": "uptown-woman",
+      "title": "Uptown Woman",
+      "formatted_title": "\"Uptown Woman\"",
+      "html_title": "<span class=\"work-title short-story\">\"Uptown Woman\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1928,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 187,
+      "slug": "a-chance-at-heaven",
+      "title": "A Chance at Heaven",
+      "formatted_title": "A Chance at Heaven",
+      "html_title": "<span class=\"work-title\">A Chance at Heaven</span>",
+      "work_type": "novel",
+      "publication_year": 1932,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 188,
+      "slug": "pick-up",
+      "title": "Pick-Up",
+      "formatted_title": "\"Pick-Up\"",
+      "html_title": "<span class=\"work-title short-story\">\"Pick-Up\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1928,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 189,
+      "slug": "pretty-sadie-mckee",
+      "title": "Pretty Sadie McKee",
+      "formatted_title": "Pretty Sadie McKee",
+      "html_title": "<span class=\"work-title\">Pretty Sadie McKee</span>",
+      "work_type": "novella",
+      "publication_year": 1933,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 442,
+      "slug": "bracelets",
+      "title": "Bracelets",
+      "formatted_title": "\"Bracelets\"",
+      "html_title": "<span class=\"work-title short-story\">\"Bracelets\"</span>",
+      "work_type": "short_story",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 441,
+      "slug": "bad-boy",
+      "title": "Bad Boy",
+      "formatted_title": "\"Bad Boy\"",
+      "html_title": "<span class=\"work-title short-story\">\"Bad Boy\"</span>",
+      "work_type": "short_story",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 444,
+      "slug": "the-human-side",
+      "title": "The Human Side",
+      "formatted_title": "\"The Human Side\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Human Side\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1939,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 446,
+      "slug": "the-rich-full-life",
+      "title": "The Rich Full Life",
+      "formatted_title": "\"The Rich Full Life\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Rich Full Life\"</span>",
+      "work_type": "short_story",
+      "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 268,
+      "slug": "about-mrs-leslie",
+      "title": "About Mrs. Leslie",
+      "formatted_title": "About Mrs. Leslie",
+      "html_title": "<span class=\"work-title\">About Mrs. Leslie</span>",
+      "work_type": "novel",
+      "publication_year": 1950,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 443,
+    "slug": "dance-hall",
+    "title": "Dance Hall",
+    "formatted_title": "\"Dance Hall\"",
+    "html_title": "<span class=\"work-title short-story\">\"Dance Hall\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1929,
+    "genre": null,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-23T02:15:49.63359"
+}

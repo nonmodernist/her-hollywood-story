@@ -1,0 +1,59 @@
+{
+  "id": 75,
+  "slug": "superman",
+  "title": "Superman",
+  "formatted_title": "\"Superman\"",
+  "html_title": "<span class=\"work-title short-story\">\"Superman\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1914,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 25,
+    "slug": "fannie-hurst",
+    "name": "Fannie Hurst",
+    "birth_year": 1889,
+    "death_year": 1968,
+    "film_count": 27
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 7,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 78,
+      "slug": "just-around-the-corner-1921",
+      "title": "Just Around the Corner",
+      "html_title": "<span class=\"film-title\">Just Around the Corner</span>",
+      "year": 1921,
+      "studio": "Cosmopolitan",
+      "directors": "Frances Marion",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "years_after_publication": 7
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": "The Saturday Evening Post",
+    "pub_date": "1914-06-20",
+    "issue_info": "v186 #51",
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-22T22:02:17.721186"
+}

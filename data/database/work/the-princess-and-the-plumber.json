@@ -9,13 +9,13 @@
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
-  "attribution_notes": null,
+  "attribution_notes": "Published under \"Alice Duer\"",
   "author": {
     "id": 24,
     "slug": "alice-duer-miller",
     "name": "Alice Duer Miller",
-    "birth_year": 1894,
-    "death_year": 1985,
+    "birth_year": 1874,
+    "death_year": 1942,
     "film_count": 22
   },
   "stats": {
@@ -49,11 +49,11 @@
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": "Saturday Evening Post",
+    "magazine_title": "The Saturday Evening Post",
     "pub_date": "1929-12-14",
-    "issue_info": "14-28 Dec 1929",
-    "parts": null
+    "issue_info": "v202 #24-26",
+    "parts": 3
   },
   "has_narrative": false,
-  "last_updated": "2025-07-21T18:17:32.022095"
+  "last_updated": "2025-07-22T14:40:54.817037"
 }

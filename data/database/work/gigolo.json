@@ -2,9 +2,9 @@
   "id": 486,
   "slug": "gigolo",
   "title": "Gigolo",
-  "formatted_title": "Gigolo",
-  "html_title": "<span class=\"work-title\">Gigolo</span>",
-  "work_type": "novel",
+  "formatted_title": "\"Gigolo\"",
+  "html_title": "<span class=\"work-title short-story\">\"Gigolo\"</span>",
+  "work_type": "short_story",
   "publication_year": 1922,
   "genre": null,
   "plot_summary": null,
@@ -49,11 +49,11 @@
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
+    "magazine_title": "Woman's Home Companion",
+    "pub_date": "1922-11-01",
+    "issue_info": "v49 #11",
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-21T17:39:30.350666"
+  "last_updated": "2025-07-22T21:01:32.897886"
 }

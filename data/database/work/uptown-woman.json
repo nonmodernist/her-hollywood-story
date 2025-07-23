@@ -1,0 +1,59 @@
+{
+  "id": 176,
+  "slug": "uptown-woman",
+  "title": "Uptown Woman",
+  "formatted_title": "\"Uptown Woman\"",
+  "html_title": "<span class=\"work-title short-story\">\"Uptown Woman\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1928,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 53,
+    "slug": "via-delmar",
+    "name": "Viña Delmar",
+    "birth_year": 1903,
+    "death_year": 1990,
+    "film_count": 15
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 4,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 191,
+      "slug": "uptown-new-york-1932",
+      "title": "Uptown New York",
+      "html_title": "<span class=\"film-title\">Uptown New York</span>",
+      "year": 1932,
+      "studio": "Sono-Art",
+      "directors": "Victor Schertzinger",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 4
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_edition": null,
+  "serialization": {
+    "magazine_title": "Redbook",
+    "pub_date": "1928-07-01",
+    "issue_info": "Vol. LI No. 3",
+    "parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-23T03:17:25.835682"
+}

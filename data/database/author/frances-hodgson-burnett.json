@@ -142,8 +142,8 @@
         "Drama"
       ],
       "has_media": true,
-      "work_title": "Sara Crewe",
-      "work_html_title": "<span class=\"work-title\">Sara Crewe</span>",
+      "work_title": "Sara Crewe; or, What Happened at Miss Minchin’s",
+      "work_html_title": "<span class=\"work-title\">Sara Crewe; or, What Happened at Miss Minchin’s</span>",
       "work_id": 362
     },
     {
@@ -306,8 +306,8 @@
         "Historical"
       ],
       "has_media": true,
-      "work_title": "Sara Crewe",
-      "work_html_title": "<span class=\"work-title\">Sara Crewe</span>",
+      "work_title": "Sara Crewe; or, What Happened at Miss Minchin’s",
+      "work_html_title": "<span class=\"work-title\">Sara Crewe; or, What Happened at Miss Minchin’s</span>",
       "work_id": 362
     },
     {
@@ -348,8 +348,8 @@
       "title": "The Dawn of a Tomorrow",
       "formatted_title": "The Dawn of a Tomorrow",
       "html_title": "<span class=\"work-title\">The Dawn of a Tomorrow</span>",
-      "work_type": "novel",
-      "publication_year": 1906,
+      "work_type": "novella",
+      "publication_year": 1905,
       "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
@@ -361,19 +361,19 @@
       "formatted_title": "That Lass O' Lowrie's",
       "html_title": "<span class=\"work-title\">That Lass O' Lowrie's</span>",
       "work_type": "novel",
-      "publication_year": 1877,
+      "publication_year": 1876,
       "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
     },
     {
       "id": 362,
-      "slug": "sara-crewe",
-      "title": "Sara Crewe",
-      "formatted_title": "Sara Crewe",
-      "html_title": "<span class=\"work-title\">Sara Crewe</span>",
+      "slug": "sara-crewe-or-what-happened-at-miss-minchins",
+      "title": "Sara Crewe; or, What Happened at Miss Minchin’s",
+      "formatted_title": "Sara Crewe; or, What Happened at Miss Minchin’s",
+      "html_title": "<span class=\"work-title\">Sara Crewe; or, What Happened at Miss Minchin’s</span>",
       "work_type": "novel",
-      "publication_year": 1888,
+      "publication_year": 1887,
       "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
@@ -385,7 +385,7 @@
       "formatted_title": "The Secret Garden",
       "html_title": "<span class=\"work-title\">The Secret Garden</span>",
       "work_type": "novel",
-      "publication_year": 1913,
+      "publication_year": 1910,
       "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
@@ -397,7 +397,7 @@
       "formatted_title": "Little Lord Fauntleroy",
       "html_title": "<span class=\"work-title\">Little Lord Fauntleroy</span>",
       "work_type": "novel",
-      "publication_year": 1886,
+      "publication_year": 1885,
       "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
@@ -444,7 +444,7 @@
       "title": "Louisiana",
       "formatted_title": "Louisiana",
       "html_title": "<span class=\"work-title\">Louisiana</span>",
-      "work_type": "novel",
+      "work_type": "novella",
       "publication_year": 1880,
       "genre": null,
       "adaptation_count": 1,

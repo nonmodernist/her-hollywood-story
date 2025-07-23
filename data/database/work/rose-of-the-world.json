@@ -5,7 +5,7 @@
   "formatted_title": "Rose of the World",
   "html_title": "<span class=\"work-title\">Rose of the World</span>",
   "work_type": "novel",
-  "publication_year": 1924,
+  "publication_year": 1923,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": true,
-    "speed_demon_delay": 1,
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,17 +44,17 @@
         "Society"
       ],
       "has_media": false,
-      "years_after_publication": 1
+      "years_after_publication": 2
     }
   ],
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
-    "parts": null
+    "magazine_title": "The Delineator",
+    "pub_date": "1923-12-01",
+    "issue_info": "v103 #6, v104 #1-6",
+    "parts": 7
   },
   "has_narrative": false,
-  "last_updated": "2025-07-21T17:39:30.350666"
+  "last_updated": "2025-07-23T02:40:06.966267"
 }

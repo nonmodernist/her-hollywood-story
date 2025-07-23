@@ -5,7 +5,7 @@
   "formatted_title": "Little Lord Fauntleroy",
   "html_title": "<span class=\"work-title\">Little Lord Fauntleroy</span>",
   "work_type": "novel",
-  "publication_year": 1886,
+  "publication_year": 1885,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 35,
+    "speed_demon_delay": 36,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,7 +43,7 @@
         "Comedy-drama"
       ],
       "has_media": true,
-      "years_after_publication": 35
+      "years_after_publication": 36
     },
     {
       "id": 235,
@@ -57,7 +57,7 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 50
+      "years_after_publication": 51
     }
   ],
   "adaptation_gaps": [
@@ -68,17 +68,14 @@
     }
   ],
   "photoplay_edition": {
-    "year": 1936,
-    "publisher": "Saalfield",
-    "notes": "57 pictures. Abbreviated?",
-    "count": 0
+    "count": 1
   },
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
-    "parts": null
+    "magazine_title": "St. Nicholas",
+    "pub_date": "1885-11-01",
+    "issue_info": "v13 #1-12",
+    "parts": 12
   },
   "has_narrative": false,
-  "last_updated": "2025-07-21T17:39:30.350666"
+  "last_updated": "2025-07-23T02:55:48.26948"
 }

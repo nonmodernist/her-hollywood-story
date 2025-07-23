@@ -2,10 +2,10 @@
   "id": 143,
   "slug": "roulette",
   "title": "Roulette",
-  "formatted_title": "\"Roulette\"",
-  "html_title": "<span class=\"work-title short-story\">\"Roulette\"</span>",
-  "work_type": "short_story",
-  "publication_year": 1922,
+  "formatted_title": "Roulette",
+  "html_title": "<span class=\"work-title\">Roulette</span>",
+  "work_type": "novella",
+  "publication_year": 1921,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 6,
+    "speed_demon_delay": 7,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,17 +43,17 @@
         "Melodrama"
       ],
       "has_media": true,
-      "years_after_publication": 6
+      "years_after_publication": 7
     }
   ],
   "adaptation_gaps": [],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
+    "magazine_title": "Cosmopolitan",
+    "pub_date": "1921-05-01",
+    "issue_info": "Vol. 70 No. 5",
     "parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-21T17:39:30.350666"
+  "last_updated": "2025-07-22T21:54:00.594571"
 }

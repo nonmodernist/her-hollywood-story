@@ -5,7 +5,7 @@
   "formatted_title": "That Lass O' Lowrie's",
   "html_title": "<span class=\"work-title\">That Lass O' Lowrie's</span>",
   "work_type": "novel",
-  "publication_year": 1877,
+  "publication_year": 1876,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 39,
+    "speed_demon_delay": 40,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,7 +43,7 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 39
+      "years_after_publication": 40
     },
     {
       "id": 100,
@@ -57,7 +57,7 @@
         "Melodrama"
       ],
       "has_media": true,
-      "years_after_publication": 46
+      "years_after_publication": 47
     }
   ],
   "adaptation_gaps": [
@@ -69,11 +69,11 @@
   ],
   "photoplay_edition": null,
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
-    "parts": null
+    "magazine_title": "Scribner's Monthly",
+    "pub_date": "1876-08-01",
+    "issue_info": "v12 #4-6, v13 #1-6, v14 #1",
+    "parts": 10
   },
   "has_narrative": false,
-  "last_updated": "2025-07-21T17:39:30.350666"
+  "last_updated": "2025-07-23T03:00:42.032552"
 }

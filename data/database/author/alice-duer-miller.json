@@ -2,13 +2,13 @@
   "id": 24,
   "slug": "alice-duer-miller",
   "name": "Alice Duer Miller",
-  "birth_year": 1894,
-  "death_year": 1985,
+  "birth_year": 1874,
+  "death_year": 1942,
   "nationality": "American",
   "literary_movement": null,
-  "biographical_notes": "American screenwriter (1894-1985). Born in Milwaukee. Died in Woodland Hills. Occupations: screenwriter",
+  "biographical_notes": null,
   "author_notes": "also wrote under the pseud Clara Bartram",
-  "wikidata_id": "Q3611673",
+  "wikidata_id": "Q533042",
   "stats": {
     "total_films": 22,
     "works_adapted": 14,
@@ -275,7 +275,7 @@
       ],
       "has_media": false,
       "work_title": "Big Executive",
-      "work_html_title": "<span class=\"work-title short-story\">\"Big Executive\"</span>",
+      "work_html_title": "<span class=\"work-title\">Big Executive</span>",
       "work_id": 186
     },
     {
@@ -372,7 +372,7 @@
       ],
       "has_media": false,
       "work_title": "And One was Beautiful",
-      "work_html_title": "<span class=\"work-title short-story\">\"And One was Beautiful\"</span>",
+      "work_html_title": "<span class=\"work-title\">And One was Beautiful</span>",
       "work_id": 719
     },
     {
@@ -464,7 +464,7 @@
       "formatted_title": "Less Than Kin",
       "html_title": "<span class=\"work-title\">Less Than Kin</span>",
       "work_type": "novel",
-      "publication_year": 1909,
+      "publication_year": 1908,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -533,9 +533,9 @@
       "id": 186,
       "slug": "big-executive",
       "title": "Big Executive",
-      "formatted_title": "\"Big Executive\"",
-      "html_title": "<span class=\"work-title short-story\">\"Big Executive\"</span>",
-      "work_type": "short_story",
+      "formatted_title": "Big Executive",
+      "html_title": "<span class=\"work-title\">Big Executive</span>",
+      "work_type": "novella",
       "publication_year": 1933,
       "genre": null,
       "adaptation_count": 1,
@@ -557,10 +557,10 @@
       "id": 719,
       "slug": "and-one-was-beautiful",
       "title": "And One was Beautiful",
-      "formatted_title": "\"And One was Beautiful\"",
-      "html_title": "<span class=\"work-title short-story\">\"And One was Beautiful\"</span>",
-      "work_type": "short_story",
-      "publication_year": null,
+      "formatted_title": "And One was Beautiful",
+      "html_title": "<span class=\"work-title\">And One was Beautiful</span>",
+      "work_type": "novella",
+      "publication_year": 1937,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -591,5 +591,5 @@
     "is_remake_champion": true
   },
   "has_narrative": false,
-  "last_updated": "2025-07-20T01:09:49.285188"
+  "last_updated": "2025-07-22T01:21:51.719567"
 }

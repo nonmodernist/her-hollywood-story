@@ -80,7 +80,7 @@
       ],
       "has_media": true,
       "work_title": "The Gay Old Dog",
-      "work_html_title": "<span class=\"work-title short-story\">\"The Gay Old Dog\"</span>",
+      "work_html_title": "<span class=\"work-title\">The Gay Old Dog</span>",
       "work_id": 485
     },
     {
@@ -161,7 +161,7 @@
       ],
       "has_media": true,
       "work_title": "Gigolo",
-      "work_html_title": "<span class=\"work-title\">Gigolo</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Gigolo\"</span>",
       "work_id": 486
     },
     {
@@ -498,7 +498,7 @@
       "formatted_title": "\"Classified\"",
       "html_title": "<span class=\"work-title short-story\">\"Classified\"</span>",
       "work_type": "short_story",
-      "publication_year": 1927,
+      "publication_year": 1924,
       "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
@@ -531,9 +531,9 @@
       "id": 485,
       "slug": "the-gay-old-dog",
       "title": "The Gay Old Dog",
-      "formatted_title": "\"The Gay Old Dog\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Gay Old Dog\"</span>",
-      "work_type": "short_story",
+      "formatted_title": "The Gay Old Dog",
+      "html_title": "<span class=\"work-title\">The Gay Old Dog</span>",
+      "work_type": "novella",
       "publication_year": 1917,
       "genre": null,
       "adaptation_count": 1,
@@ -555,9 +555,9 @@
       "id": 486,
       "slug": "gigolo",
       "title": "Gigolo",
-      "formatted_title": "Gigolo",
-      "html_title": "<span class=\"work-title\">Gigolo</span>",
-      "work_type": "novel",
+      "formatted_title": "\"Gigolo\"",
+      "html_title": "<span class=\"work-title short-story\">\"Gigolo\"</span>",
+      "work_type": "short_story",
       "publication_year": 1922,
       "genre": null,
       "adaptation_count": 1,
@@ -570,7 +570,7 @@
       "formatted_title": "\"Mother Knows Best\"",
       "html_title": "<span class=\"work-title short-story\">\"Mother Knows Best\"</span>",
       "work_type": "short_story",
-      "publication_year": null,
+      "publication_year": 1925,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -582,7 +582,7 @@
       "formatted_title": "\"Not A Day Over Twenty-One\"",
       "html_title": "<span class=\"work-title short-story\">\"Not A Day Over Twenty-One\"</span>",
       "work_type": "short_story",
-      "publication_year": null,
+      "publication_year": 1921,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -606,7 +606,7 @@
       "formatted_title": "Come and Get It",
       "html_title": "<span class=\"work-title\">Come and Get It</span>",
       "work_type": "novel",
-      "publication_year": 1935,
+      "publication_year": 1934,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false

@@ -14,8 +14,8 @@
     "id": 24,
     "slug": "alice-duer-miller",
     "name": "Alice Duer Miller",
-    "birth_year": 1894,
-    "death_year": 1985,
+    "birth_year": 1874,
+    "death_year": 1942,
     "film_count": 22
   },
   "stats": {
@@ -69,17 +69,14 @@
     }
   ],
   "photoplay_edition": {
-    "year": 1935,
-    "publisher": "Grosset & Dunlap",
-    "notes": "Dust jacket",
-    "count": 0
+    "count": 1
   },
   "serialization": {
-    "magazine_title": null,
-    "pub_date": null,
-    "issue_info": null,
-    "parts": null
+    "magazine_title": "Ladies' Home Journal",
+    "pub_date": "1933-05-01",
+    "issue_info": "v50 #5-8",
+    "parts": 4
   },
   "has_narrative": false,
-  "last_updated": "2025-07-21T17:39:30.350666"
+  "last_updated": "2025-07-22T14:24:37.848856"
 }

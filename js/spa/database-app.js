@@ -10,9 +10,7 @@ function getBasePath() {
         return '/adapted-from-women';
     }
     
-    // Local development (Python server from inside site folder)
-    // When serving from site/, everything is at the root -- 
-    // ! fix this - we moved everything to root instead of site
+    // Local development (Python server)
     if (hostname === 'localhost' || hostname === '127.0.0.1' || hostname === '::' || hostname === '[::1]') {
         return '';  // No prefix needed!
     }
@@ -1254,7 +1252,7 @@ function createFilmListItem(film) {
         <div class="entry-meta">
             ${film.year || 'Unknown year'}<span class="meta-separator">·</span>
             Based on ${workSlug ? `<a href="${getDatabaseURL('/work/' + workSlug)}">${workTitle}</a>` : workTitle} 
-            by <a href="${getDatabaseURL('/author/' + film.authorSlug)}" class="author-name">${film.authorName || 'Unknown'}</a><span class="meta-separator">·</span>
+            by <a href="${getDatabaseURL('/author/' + film.authorSlug)}">${film.authorName || 'Unknown'}</a><span class="meta-separator">·</span>
             ${film.directors ? `Directed by  ${formatNameList(film.directors)}<span class="meta-separator">·</span>` : ''}
             ${film.studio || 'Unknown Studio'}
             ${film.isRemake ? '<span class="media-indicator" title="Remake/repeat adaptation">↻</span>' : ''}

@@ -76,13 +76,13 @@
 }
 
 .entry-title {
-    font-size: 1.3rem;
-    margin-bottom: 0.25rem;
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
 }
 
 .entry-meta {
     font-family: 'Source Sans 3', sans-serif;
-    font-size: 0.95rem;
+    font-size: 1rem;
     color: var(--text-secondary);
     line-height: 1.6;
 }
@@ -109,13 +109,13 @@
 }
 
 .author-name {
-    font-size: 1.3rem;
+    font-size: 1.75rem;
     margin-bottom: 0.25rem;
 }
 
 .author-lifespan {
     font-family: 'Source Sans 3', sans-serif;
-    font-size: 0.95rem;
+    font-size: 1rem;
     color: var(--text-muted);
 }
 
@@ -152,18 +152,18 @@
 }
 
 .work-title {
-    font-size: 1.3rem;
-    margin-bottom: 0.25rem;
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
 }
 
 .work-author {
-    font-style: italic;
+    font-style: normal;
     color: var(--text-secondary);
 }
 
 .work-meta {
     font-family: 'Source Sans 3', sans-serif;
-    font-size: 0.95rem;
+    font-size: 1rem;
     color: var(--text-secondary);
     margin-top: 0.5rem;
 }

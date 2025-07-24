@@ -247,20 +247,19 @@
 
 .preview-stats {
     font-family: 'Source Sans 3', sans-serif;
-    font-size: 0.95rem;
+    font-size: 1rem;
     color: var(--text-muted);
     text-transform: uppercase;
     letter-spacing: 0.05em;
 }
 
 .signature-work {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     margin-bottom: 1rem;
 }
 
 .preview-teaser {
     font-size: 1.3rem;
-    font-style: italic;
     color: var(--text-secondary);
     margin-bottom: 2rem;
 }
@@ -473,5 +472,28 @@
     
     .era-analysis {
         grid-template-columns: 1fr;
+    }
+}
+
+.explore-more {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border-light);
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+}
+
+.explore-more .button {
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (max-width: 760px) {
+    .explore-more {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 1rem;
     }
 }

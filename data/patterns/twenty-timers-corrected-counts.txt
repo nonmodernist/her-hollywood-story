@@ -1,0 +1,46 @@
+the build script currently doesn't count all instances of all studios, so this is a corrected version of the counts.
+
+AFTER EACH REBUILD, CHECK THIS FILE AND UPDATE THE COUNTS AS NECESSARY.
+
+      "studioConcentration": [
+        {
+          "studio": "Warner Bros",
+          "count": 13
+        },
+        {
+          "studio": "Universal",
+          "count": 11
+        },
+        {
+          "studio": "Famous Players-Lasky",
+          "count": 10
+        },
+        {
+          "studio": "Paramount",
+          "count": 9
+        },
+        {
+          "studio": "MGM",
+          "count": 7
+        },
+        {
+          "studio": "First National",
+          "count": 6
+        },
+        {
+          "studio": "RKO",
+          "count": 6
+        },
+        {
+          "studio": "Cosmopolitan Productions",
+          "count": 5
+        },
+        {
+          "studio": "Gene Stratton Porter Productions",
+          "count": 5
+        },
+        {
+          "studio": "Monogram",
+          "count": 4
+        }
+      ]

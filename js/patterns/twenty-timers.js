@@ -177,7 +177,7 @@ function createStudioNetwork(data) {
         if (displayName === 'Gene Stratton Porter Productions') {
             displayName = 'GSP Productions';
         } else if (displayName === 'Famous Players-Lasky') {
-            displayName = 'Famous Players-L.';
+            displayName = 'Famous Players-Lasky';
         }
         return {
             ...s,

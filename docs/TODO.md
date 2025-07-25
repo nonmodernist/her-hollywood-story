@@ -1,7 +1,7 @@
 ## Current Tasks
 
 **Data Work**
-- [ ] separate genres from subgenres/topics in supabase
+- [x] separate genres from subgenres/topics in supabase
 - [ ] Continue verifying magazine publication data in source_works table
   - in progress: 38/500
 - [ ] continue adding deep dive author data for 20 timers
@@ -17,6 +17,7 @@
 - [ ] add test plot summary to see how it will display on site
 
 **Pattern Pages**
+
 - [ ] draft Elastic Classic page & figure out what data is needed
 - [ ] Completely rewrite Hot Off the Press with real example films from the data
   - [ ] needs exact release dates for publication and film release - huge task
@@ -27,15 +28,19 @@
 
 **Technical Fixes**
 - [x] Fix author nationality filter to match updated field structure
+- [x] add links to digitized magazines on work detail pages
 - [ ] fix work archive link section to not show if null
 - [ ] Implement decade filter for authors (needs active decades in index)
 - [ ] Add superscript film count indicators for authors with 10+ films?
 - [ ] Make film/work title formatting consistent across all views
 - [ ] Redo pattern badges in list view - use typographical symbols with css styling
+  - [ ] twenty-timers
+  - [ ] hot off the press
+  - [ ] elastic classic
   - [ ] add pattern badge for works that appeared first in magazines
 - [ ] get WM images displaying on film detail pages
 - [ ] Add more fields to author detail pages (education, archives, awards from authors_rows.csv)
-- [x] add links to digitized magazines on work detail pages
+- [ ] Add footer to database
 
 **Content Writing**
 - [ ] Write mini deep dives for Twenty-Timers members (use the template structure)

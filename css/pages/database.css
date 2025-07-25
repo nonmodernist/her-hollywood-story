@@ -171,10 +171,6 @@
     line-height: 1.6;
 }
 
-.author-name {
-    font-style: italic;
-}
-
 .meta-separator {
     color: var(--text-muted);
     margin: 0 0.5rem;

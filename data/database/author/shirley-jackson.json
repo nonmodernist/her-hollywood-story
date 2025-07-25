@@ -19,14 +19,6 @@
       {
         "genre": "Melodrama",
         "count": 1
-      },
-      {
-        "genre": "Psychological",
-        "count": 1
-      },
-      {
-        "genre": "with songs",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "MGM",
       "directors": "Hugo Haas",
       "genres": [
-        "Melodrama",
-        "Psychological",
-        "with songs"
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "The Bird's Nest",

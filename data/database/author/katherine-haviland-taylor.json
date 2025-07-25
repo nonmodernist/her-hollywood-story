@@ -19,14 +19,6 @@
       {
         "genre": "Drama",
         "count": 3
-      },
-      {
-        "genre": "Medical",
-        "count": 2
-      },
-      {
-        "genre": "Rural",
-        "count": 2
       }
     ],
     "films_by_decade": {
@@ -64,9 +56,7 @@
       "studio": "RKO",
       "directors": "John Robertson",
       "genres": [
-        "Drama",
-        "Medical",
-        "Rural"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "The Failure",
@@ -82,9 +72,7 @@
       "studio": "RKO",
       "directors": "Garson Kanin",
       "genres": [
-        "Drama",
-        "Medical",
-        "Rural"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "The Failure",

@@ -19,18 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Historical",
-        "count": 1
-      },
-      {
-        "genre": "Northwest",
-        "count": 1
-      },
-      {
-        "genre": "with songs",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -51,10 +39,7 @@
       "studio": "Nassour Pictures",
       "directors": "Louis King",
       "genres": [
-        "Drama",
-        "Historical",
-        "Northwest",
-        "with songs"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Mrs. Mike",

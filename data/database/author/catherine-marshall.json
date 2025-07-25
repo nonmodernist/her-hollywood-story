@@ -19,10 +19,6 @@
       {
         "genre": "Biography",
         "count": 1
-      },
-      {
-        "genre": "Religious",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "20th Century Fox",
       "directors": "Henry Koster",
       "genres": [
-        "Biography",
-        "Religious"
+        "Biography"
       ],
       "has_media": false,
       "work_title": "A Man Called Peter: The Story of Peter Marshall",

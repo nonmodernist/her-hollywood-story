@@ -19,10 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Historical",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "Edison",
       "directors": "Alan Crosland",
       "genres": [
-        "Drama",
-        "Historical"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "The Little Chevalier",

@@ -19,10 +19,6 @@
       {
         "genre": "Mystery",
         "count": 8
-      },
-      {
-        "genre": "Medical",
-        "count": 2
       }
     ],
     "films_by_decade": {
@@ -92,8 +88,7 @@
       "studio": "Warner Bros",
       "directors": "Frank McDonald",
       "genres": [
-        "Mystery",
-        "Medical"
+        "Mystery"
       ],
       "has_media": false,
       "work_title": "From This Dark Stairway",
@@ -141,8 +136,7 @@
       "studio": "Warner Bros",
       "directors": "Bobby Connolly|Crane Wilbur",
       "genres": [
-        "Mystery",
-        "Medical"
+        "Mystery"
       ],
       "has_media": false,
       "work_title": "The Patient in Room 18",

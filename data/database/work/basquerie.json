@@ -4,8 +4,8 @@
   "title": "Basquerie",
   "formatted_title": "Basquerie",
   "html_title": "<span class=\"work-title\">Basquerie</span>",
-  "work_type": "novel",
-  "publication_year": 1927,
+  "work_type": "novella",
+  "publication_year": 1926,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 4,
+    "speed_demon_delay": 5,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,7 +44,7 @@
         "Romance"
       ],
       "has_media": false,
-      "years_after_publication": 4
+      "years_after_publication": 5
     },
     {
       "id": 259,
@@ -58,7 +58,7 @@
         "Romantic comedy"
       ],
       "has_media": false,
-      "years_after_publication": 14
+      "years_after_publication": 15
     }
   ],
   "adaptation_gaps": [
@@ -69,7 +69,15 @@
     }
   ],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Saturday Evening Post",
+    "magazine_pub_date": "1926-07-03",
+    "magazine_issue_info": "v199 #1",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1926-07-03_199_1",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09520.htm#A1",
+    "serialized": false,
+    "serial_parts": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-21T17:39:30.350666"
+  "last_updated": "2025-07-24T19:44:30.653292"
 }

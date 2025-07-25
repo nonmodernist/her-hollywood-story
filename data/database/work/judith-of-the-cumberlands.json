@@ -40,8 +40,7 @@
       "studio": "Signal Film Corp.",
       "directors": "J. P. McGowan",
       "genres": [
-        "Drama",
-        "Rural"
+        "Drama"
       ],
       "has_media": true,
       "years_after_publication": 8
@@ -49,7 +48,15 @@
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Putnam’s Monthly & The Reader",
+    "magazine_pub_date": "1908-06-01",
+    "magazine_issue_info": "Volume IV No. 3-6, Volume V No. 1-2",
+    "digitized_url": "http://hdl.handle.net/2027/hvd.32044092794379",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k08/k08816.htm#A2",
+    "serialized": true,
+    "serial_parts": 6
+  },
   "has_narrative": false,
-  "last_updated": "2025-06-17T03:48:03.914138"
+  "last_updated": "2025-07-24T18:48:02.217817"
 }

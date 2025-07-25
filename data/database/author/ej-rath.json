@@ -27,14 +27,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Crime",
-        "count": 1
-      },
-      {
-        "genre": "with songs",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -89,8 +81,7 @@
       "studio": "Vitagraph",
       "directors": "Ralph Ince",
       "genres": [
-        "Comedy",
-        "Crime"
+        "Comedy"
       ],
       "has_media": false,
       "work_title": "Too Many Crooks",
@@ -170,8 +161,7 @@
       "studio": "Sono-Art",
       "directors": "George J. Crone",
       "genres": [
-        "Comedy",
-        "with songs"
+        "Comedy"
       ],
       "has_media": false,
       "work_title": "The Dark Chapter, a Comedy of Class Distinctions",

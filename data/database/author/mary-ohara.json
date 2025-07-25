@@ -19,22 +19,6 @@
       {
         "genre": "Drama",
         "count": 3
-      },
-      {
-        "genre": "Animal",
-        "count": 3
-      },
-      {
-        "genre": "Youth",
-        "count": 2
-      },
-      {
-        "genre": "Horse race",
-        "count": 1
-      },
-      {
-        "genre": "Teenage",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -55,9 +39,7 @@
       "studio": "20th Century Fox",
       "directors": "Harold Schuster",
       "genres": [
-        "Drama",
-        "Animal",
-        "Youth"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "My Friend Flicka",
@@ -73,9 +55,7 @@
       "studio": "20th Century Fox",
       "directors": "Louis King",
       "genres": [
-        "Drama",
-        "Animal",
-        "Youth"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Thunderhead, Son of Flicka",
@@ -91,10 +71,7 @@
       "studio": "20th Century Fox",
       "directors": "Louis King",
       "genres": [
-        "Drama",
-        "Animal",
-        "Horse race",
-        "Teenage"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Green Grass of Wyoming",

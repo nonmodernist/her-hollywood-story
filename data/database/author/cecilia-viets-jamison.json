@@ -19,10 +19,6 @@
       {
         "genre": "Musical",
         "count": 1
-      },
-      {
-        "genre": "Historical",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "Bobby Breen Productions",
       "directors": "Kurt Neumann",
       "genres": [
-        "Musical",
-        "Historical"
+        "Musical"
       ],
       "has_media": false,
       "work_title": "Toinett's Philip",

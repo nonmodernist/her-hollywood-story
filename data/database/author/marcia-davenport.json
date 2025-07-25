@@ -21,15 +21,7 @@
         "count": 1
       },
       {
-        "genre": "Historical",
-        "count": 1
-      },
-      {
         "genre": "Drama",
-        "count": 1
-      },
-      {
-        "genre": "Domestic",
         "count": 1
       }
     ],
@@ -51,8 +43,7 @@
       "studio": "MGM",
       "directors": "Tay Garnett",
       "genres": [
-        "Romance",
-        "Historical"
+        "Romance"
       ],
       "has_media": true,
       "work_title": "The Valley of Decision",
@@ -68,8 +59,7 @@
       "studio": "MGM",
       "directors": "Mervyn LeRoy",
       "genres": [
-        "Drama",
-        "Domestic"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "East Side, West Side",

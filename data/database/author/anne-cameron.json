@@ -19,10 +19,6 @@
       {
         "genre": "Comedy",
         "count": 1
-      },
-      {
-        "genre": "Social",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "Fox Film",
       "directors": "James Cruze",
       "genres": [
-        "Comedy",
-        "Social"
+        "Comedy"
       ],
       "has_media": false,
       "work_title": "Green Dice",

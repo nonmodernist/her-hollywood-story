@@ -23,10 +23,6 @@
       {
         "genre": "Melodrama",
         "count": 3
-      },
-      {
-        "genre": "Rural",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -178,8 +174,7 @@
       "studio": "20th Century Fox",
       "directors": "Paul Guilfoyle",
       "genres": [
-        "Drama",
-        "Rural"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Tess of the Storm Country",

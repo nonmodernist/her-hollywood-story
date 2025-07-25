@@ -19,14 +19,6 @@
       {
         "genre": "Comedy-drama",
         "count": 1
-      },
-      {
-        "genre": "Domestic",
-        "count": 1
-      },
-      {
-        "genre": "Historical",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -48,9 +40,7 @@
       "studio": "20th Century Fox",
       "directors": "George Seaton",
       "genres": [
-        "Comedy-drama",
-        "Domestic",
-        "Historical"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "Chicken Every Sunday",

@@ -19,10 +19,6 @@
       {
         "genre": "Drama",
         "count": 3
-      },
-      {
-        "genre": "World War II",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -60,8 +56,7 @@
       "studio": "MGM",
       "directors": "Mervyn LeRoy",
       "genres": [
-        "Drama",
-        "World War II"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Escape",

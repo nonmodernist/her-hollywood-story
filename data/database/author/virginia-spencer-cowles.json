@@ -19,14 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Homefront",
-        "count": 1
-      },
-      {
-        "genre": "World War II",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "Universal",
       "directors": "John Rawlins",
       "genres": [
-        "Drama",
-        "Homefront",
-        "World War II"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Looking for Trouble",

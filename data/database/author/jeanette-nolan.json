@@ -19,14 +19,6 @@
       {
         "genre": "Comedy-drama",
         "count": 1
-      },
-      {
-        "genre": "Historical",
-        "count": 1
-      },
-      {
-        "genre": "with songs",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "Paramount",
       "directors": "Norman Z. McLeod",
       "genres": [
-        "Comedy-drama",
-        "Historical",
-        "with songs"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "Gather Ye Rosebuds",

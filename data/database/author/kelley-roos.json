@@ -23,10 +23,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Detective",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -63,8 +59,7 @@
       "studio": "Columbia",
       "directors": "Leigh Jason",
       "genres": [
-        "Drama",
-        "Detective"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "If the Shroud Fits",

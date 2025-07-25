@@ -19,14 +19,6 @@
       {
         "genre": "Drama",
         "count": 2
-      },
-      {
-        "genre": "Espionage",
-        "count": 2
-      },
-      {
-        "genre": "World War II",
-        "count": 2
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "MGM",
       "directors": "Richard Thorpe",
       "genres": [
-        "Drama",
-        "Espionage",
-        "World War II"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Above Suspicion",
@@ -65,9 +55,7 @@
       "studio": "MGM",
       "directors": "Jack Conway",
       "genres": [
-        "Drama",
-        "Espionage",
-        "World War II"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Assignment in Brittainy",

@@ -21,14 +21,6 @@
         "count": 4
       },
       {
-        "genre": "Society",
-        "count": 2
-      },
-      {
-        "genre": "Domestic",
-        "count": 1
-      },
-      {
         "genre": "Drama",
         "count": 1
       }
@@ -51,8 +43,7 @@
       "studio": "B. B. Productions",
       "directors": "Kenneth Webb",
       "genres": [
-        "Melodrama",
-        "Society"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "The Dangerous Inheritance; or, the Mystery of the Tittani\nRubies",
@@ -84,8 +75,7 @@
       "studio": "C. C. Burr Pictures",
       "directors": "Gregory La Cava",
       "genres": [
-        "Melodrama",
-        "Domestic"
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "Restless Wives",
@@ -101,8 +91,7 @@
       "studio": "C. C. Burr Pictures",
       "directors": "William Christy Cabanne",
       "genres": [
-        "Drama",
-        "Society"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "The Gray Path",

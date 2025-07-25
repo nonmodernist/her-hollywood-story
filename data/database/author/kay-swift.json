@@ -19,14 +19,6 @@
       {
         "genre": "Western",
         "count": 1
-      },
-      {
-        "genre": "Domestic",
-        "count": 1
-      },
-      {
-        "genre": "with songs",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "RKO",
       "directors": "George Marshall",
       "genres": [
-        "Western",
-        "Domestic",
-        "with songs"
+        "Western"
       ],
       "has_media": false,
       "work_title": "Who Could Ask for Anything More",

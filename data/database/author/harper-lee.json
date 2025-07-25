@@ -19,10 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Rural",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "Pakula-Mulligan Productions",
       "directors": "Robert Mulligan",
       "genres": [
-        "Drama",
-        "Rural"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "To Kill a Mockingbird",

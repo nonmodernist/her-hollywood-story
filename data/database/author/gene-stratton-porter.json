@@ -25,16 +25,16 @@
         "count": 7
       },
       {
-        "genre": "Rural",
-        "count": 7
-      },
-      {
-        "genre": "Domestic",
-        "count": 4
-      },
-      {
         "genre": "Romance",
         "count": 2
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 2
+      },
+      {
+        "genre": "Adventure",
+        "count": 1
       }
     ],
     "films_by_decade": {
@@ -139,8 +139,7 @@
       "studio": "Robertson-Cole",
       "directors": "Leo Meehan",
       "genres": [
-        "Melodrama",
-        "Domestic"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "The Harvester",
@@ -172,8 +171,7 @@
       "studio": "FBO",
       "directors": "Leo Meehan",
       "genres": [
-        "Melodrama",
-        "Northwest"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "Freckles",
@@ -189,8 +187,7 @@
       "studio": "Monogram",
       "directors": "Christy Cabanne",
       "genres": [
-        "Drama",
-        "Rural"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "A Girl of the Limberlost",
@@ -206,10 +203,7 @@
       "studio": "RKO",
       "directors": "Edward Killy|William Hamilton",
       "genres": [
-        "Drama",
-        "Gangster",
-        "Rural",
-        "Youth"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Freckles",
@@ -225,10 +219,7 @@
       "studio": "RKO",
       "directors": "George Stevens",
       "genres": [
-        "Comedy-drama",
-        "Domestic",
-        "Historical",
-        "Rural"
+        "Comedy-drama"
       ],
       "has_media": true,
       "work_title": "Laddie",
@@ -244,8 +235,7 @@
       "studio": "Monogram",
       "directors": "Christy Cabanne",
       "genres": [
-        "Melodrama",
-        "Rural"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "The Keeper of the Bees",
@@ -261,8 +251,7 @@
       "studio": "Republic",
       "directors": "Joseph Santley",
       "genres": [
-        "Comedy-drama",
-        "Rural"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "The Harvester",
@@ -278,8 +267,7 @@
       "studio": "Republic",
       "directors": "Karl Brown",
       "genres": [
-        "Melodrama",
-        "Domestic"
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "Michael O'Halloran",
@@ -311,8 +299,7 @@
       "studio": "Monogram",
       "directors": "Edward Dmytryk",
       "genres": [
-        "Drama",
-        "College"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Her Father's Daughter",
@@ -328,8 +315,7 @@
       "studio": "RKO",
       "directors": "Jack Hively",
       "genres": [
-        "Drama",
-        "Domestic"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Laddie",
@@ -345,8 +331,7 @@
       "studio": "Columbia",
       "directors": "Melchor Ferrer",
       "genres": [
-        "Drama",
-        "Rural"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "A Girl of the Limberlost",
@@ -378,8 +363,7 @@
       "studio": "Monogram/Windsor Pictures Corp.",
       "directors": "John Rawlins",
       "genres": [
-        "Drama",
-        "Teenage"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Michael O'Halloran",
@@ -395,9 +379,7 @@
       "studio": "20th Century Fox",
       "directors": "Andrew V. McLaglen",
       "genres": [
-        "Adventure",
-        "Rural",
-        "Youth"
+        "Adventure"
       ],
       "has_media": false,
       "work_title": "Freckles",

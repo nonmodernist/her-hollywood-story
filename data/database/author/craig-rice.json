@@ -17,10 +17,6 @@
     "year_span": 5,
     "top_genres": [
       {
-        "genre": "Crime",
-        "count": 3
-      },
-      {
         "genre": "Comedy-drama",
         "count": 2
       },
@@ -29,11 +25,11 @@
         "count": 1
       },
       {
-        "genre": "Detective",
+        "genre": "Screwball comedy",
         "count": 1
       },
       {
-        "genre": "Domestic",
+        "genre": "Drama",
         "count": 1
       }
     ],
@@ -56,8 +52,7 @@
       "studio": "RKO",
       "directors": "Eddie Sutherland",
       "genres": [
-        "Comedy",
-        "Crime"
+        "Comedy"
       ],
       "has_media": true,
       "work_title": "Having Wonderful Crime",
@@ -73,9 +68,7 @@
       "studio": "20th Century Fox",
       "directors": "Lloyd Bacon",
       "genres": [
-        "Comedy-drama",
-        "Detective",
-        "Domestic"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "Home Sweet Homicide",
@@ -91,8 +84,7 @@
       "studio": "United Artists",
       "directors": "Lewis R. Foster",
       "genres": [
-        "Comedy-drama",
-        "Crime"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "The Lucky Stiff",
@@ -108,8 +100,7 @@
       "studio": "MGM",
       "directors": "Norman Taurog",
       "genres": [
-        "Screwball comedy",
-        "with songs"
+        "Screwball comedy"
       ],
       "has_media": false,
       "work_title": "Once Upon a Train (The Loco Motive)",
@@ -125,9 +116,7 @@
       "studio": "Filmcraft Trading Corp.",
       "directors": "Cyril Endfield",
       "genres": [
-        "Drama",
-        "Crime",
-        "Newspaper"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Big Story",

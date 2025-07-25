@@ -19,10 +19,6 @@
       {
         "genre": "Drama",
         "count": 2
-      },
-      {
-        "genre": "Society",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -59,8 +55,7 @@
       "studio": "FBO",
       "directors": "Leo Meehan",
       "genres": [
-        "Drama",
-        "Society"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Wallflowers",

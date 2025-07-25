@@ -19,10 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "with songs",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "Paramount",
       "directors": "Rouben Mamoulian",
       "genres": [
-        "Drama",
-        "with songs"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Applause",

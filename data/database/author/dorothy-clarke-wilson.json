@@ -19,10 +19,6 @@
       {
         "genre": "Epic",
         "count": 1
-      },
-      {
-        "genre": "Biblical",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "Paramount",
       "directors": "Cecil B. DeMille",
       "genres": [
-        "Epic",
-        "Biblical"
+        "Epic"
       ],
       "has_media": false,
       "work_title": "The Prince of Egypt",

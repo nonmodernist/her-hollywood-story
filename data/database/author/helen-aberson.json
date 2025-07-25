@@ -19,18 +19,6 @@
       {
         "genre": "Childrens works",
         "count": 1
-      },
-      {
-        "genre": "Animal",
-        "count": 1
-      },
-      {
-        "genre": "Animation",
-        "count": 1
-      },
-      {
-        "genre": "with songs",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -51,10 +39,7 @@
       "studio": "Walt Disney",
       "directors": null,
       "genres": [
-        "Childrens works",
-        "Animal",
-        "Animation",
-        "with songs"
+        "Childrens works"
       ],
       "has_media": true,
       "work_title": "Dumbo, the Flying Elephant",

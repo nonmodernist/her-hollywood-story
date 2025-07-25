@@ -19,14 +19,6 @@
       {
         "genre": "Mystery",
         "count": 1
-      },
-      {
-        "genre": "Crime",
-        "count": 1
-      },
-      {
-        "genre": "Youth",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "Universal-International",
       "directors": "Harry Keller",
       "genres": [
-        "Mystery",
-        "Crime",
-        "Youth"
+        "Mystery"
       ],
       "has_media": false,
       "work_title": "The Gentle Web",

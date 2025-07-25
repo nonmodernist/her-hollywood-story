@@ -17,10 +17,6 @@
     "year_span": 2,
     "top_genres": [
       {
-        "genre": "Society",
-        "count": 2
-      },
-      {
         "genre": "Drama",
         "count": 1
       },
@@ -47,8 +43,7 @@
       "studio": "James Cruze",
       "directors": "Walter Lang",
       "genres": [
-        "Drama",
-        "Society"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Clipped Wings",
@@ -64,8 +59,7 @@
       "studio": "Fox Film",
       "directors": "Kenneth MacKenna",
       "genres": [
-        "Comedy-drama",
-        "Society"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "Widow's Night",

@@ -29,10 +29,6 @@
         "count": 1
       },
       {
-        "genre": "Gangster",
-        "count": 1
-      },
-      {
         "genre": "Comedy",
         "count": 1
       }
@@ -106,8 +102,7 @@
       "studio": "MGM",
       "directors": "George Hill",
       "genres": [
-        "Drama",
-        "Gangster"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "The Secret Six",
@@ -123,9 +118,7 @@
       "studio": "20th Century Fox",
       "directors": "Lewis Seiler",
       "genres": [
-        "Comedy",
-        "Domestic",
-        "with songs"
+        "Comedy"
       ],
       "has_media": false,
       "work_title": "Mollie, Bless Her",

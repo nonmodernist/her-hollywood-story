@@ -23,10 +23,6 @@
       {
         "genre": "Melodrama",
         "count": 1
-      },
-      {
-        "genre": "Suspense",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -64,8 +60,7 @@
       "studio": "Columbia",
       "directors": "Max Opuls",
       "genres": [
-        "Melodrama",
-        "Suspense"
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "The Blank Wall",

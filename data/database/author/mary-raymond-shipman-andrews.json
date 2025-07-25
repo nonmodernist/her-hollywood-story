@@ -19,10 +19,6 @@
       {
         "genre": "Drama",
         "count": 2
-      },
-      {
-        "genre": "World War I",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,7 +43,7 @@
       ],
       "has_media": false,
       "work_title": "The Courage of the Commonplace",
-      "work_html_title": "<span class=\"work-title\">The Courage of the Commonplace</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Courage of the Commonplace\"</span>",
       "work_id": 21
     },
     {
@@ -59,8 +55,7 @@
       "studio": "Edison",
       "directors": "Alan Crosland",
       "genres": [
-        "Drama",
-        "World War I"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "The Three Things",
@@ -73,9 +68,9 @@
       "id": 21,
       "slug": "the-courage-of-the-commonplace",
       "title": "The Courage of the Commonplace",
-      "formatted_title": "The Courage of the Commonplace",
-      "html_title": "<span class=\"work-title\">The Courage of the Commonplace</span>",
-      "work_type": "novel",
+      "formatted_title": "\"The Courage of the Commonplace\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Courage of the Commonplace\"</span>",
+      "work_type": "short_story",
       "publication_year": 1911,
       "genre": null,
       "adaptation_count": 1,
@@ -87,7 +82,7 @@
       "title": "The Three Things",
       "formatted_title": "The Three Things",
       "html_title": "<span class=\"work-title\">The Three Things</span>",
-      "work_type": "novel",
+      "work_type": "novella",
       "publication_year": 1915,
       "genre": null,
       "adaptation_count": 1,
@@ -98,9 +93,9 @@
     "id": 21,
     "slug": "the-courage-of-the-commonplace",
     "title": "The Courage of the Commonplace",
-    "formatted_title": "The Courage of the Commonplace",
-    "html_title": "<span class=\"work-title\">The Courage of the Commonplace</span>",
-    "work_type": "novel",
+    "formatted_title": "\"The Courage of the Commonplace\"",
+    "html_title": "<span class=\"work-title short-story\">\"The Courage of the Commonplace\"</span>",
+    "work_type": "short_story",
     "publication_year": 1911,
     "genre": null,
     "adaptation_count": 1,

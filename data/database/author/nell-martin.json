@@ -19,14 +19,6 @@
       {
         "genre": "Romance",
         "count": 1
-      },
-      {
-        "genre": "Show business",
-        "count": 1
-      },
-      {
-        "genre": "with songs",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "MGM",
       "directors": "William Nigh|Harry Beaumont",
       "genres": [
-        "Romance",
-        "Show business",
-        "with songs"
+        "Romance"
       ],
       "has_media": false,
       "work_title": "Lord Byron of Broadway",

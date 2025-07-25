@@ -21,14 +21,6 @@
         "count": 5
       },
       {
-        "genre": "Society",
-        "count": 2
-      },
-      {
-        "genre": "Historical",
-        "count": 2
-      },
-      {
         "genre": "Comedy",
         "count": 1
       },
@@ -89,8 +81,7 @@
       "studio": "Warner Bros",
       "directors": "Wesley Ruggles",
       "genres": [
-        "Drama",
-        "Society"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "The Age of Innocence",
@@ -106,8 +97,7 @@
       "studio": "Paramount",
       "directors": "Lothar Mendes",
       "genres": [
-        "Drama",
-        "Society"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "The Children",
@@ -139,9 +129,7 @@
       "studio": "RKO",
       "directors": "Philip Moeller",
       "genres": [
-        "Melodrama",
-        "Domestic",
-        "Historical"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "The Age of Innocence",
@@ -157,12 +145,11 @@
       "studio": "Warner Bros",
       "directors": "Edmund Goulding",
       "genres": [
-        "Drama",
-        "Historical"
+        "Drama"
       ],
       "has_media": true,
-      "work_title": "The Old Maid: The Fifties",
-      "work_html_title": "<span class=\"work-title\">The Old Maid: The Fifties</span>",
+      "work_title": "The Old Maid",
+      "work_html_title": "<span class=\"work-title\">The Old Maid</span>",
       "work_id": 217
     }
   ],
@@ -210,7 +197,7 @@
       "formatted_title": "The Children",
       "html_title": "<span class=\"work-title\">The Children</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1928,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -229,12 +216,12 @@
     },
     {
       "id": 217,
-      "slug": "the-old-maid-the-fifties",
-      "title": "The Old Maid: The Fifties",
-      "formatted_title": "The Old Maid: The Fifties",
-      "html_title": "<span class=\"work-title\">The Old Maid: The Fifties</span>",
+      "slug": "the-old-maid",
+      "title": "The Old Maid",
+      "formatted_title": "The Old Maid",
+      "html_title": "<span class=\"work-title\">The Old Maid</span>",
       "work_type": "novel",
-      "publication_year": 1924,
+      "publication_year": 1922,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false

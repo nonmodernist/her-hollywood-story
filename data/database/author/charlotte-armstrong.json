@@ -23,18 +23,6 @@
       {
         "genre": "Mystery",
         "count": 1
-      },
-      {
-        "genre": "Suspense",
-        "count": 1
-      },
-      {
-        "genre": "Domestic",
-        "count": 1
-      },
-      {
-        "genre": "Rural",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -72,8 +60,7 @@
       "studio": "20th Century Fox",
       "directors": "Roy Baker",
       "genres": [
-        "Drama",
-        "Suspense"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Mischief",
@@ -89,9 +76,7 @@
       "studio": "MGM",
       "directors": "David Bradley",
       "genres": [
-        "Drama",
-        "Domestic",
-        "Rural"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "The Enemy",

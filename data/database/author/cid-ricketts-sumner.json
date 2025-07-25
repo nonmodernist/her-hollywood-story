@@ -25,15 +25,7 @@
         "count": 1
       },
       {
-        "genre": "Social",
-        "count": 1
-      },
-      {
         "genre": "Romance",
-        "count": 1
-      },
-      {
-        "genre": "Rural",
         "count": 1
       }
     ],
@@ -57,8 +49,7 @@
       "studio": "20th Century Fox",
       "directors": "Elia Kazan",
       "genres": [
-        "Drama",
-        "Social"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Quality",
@@ -74,8 +65,7 @@
       "studio": "Universal-International",
       "directors": "Joseph Pevney",
       "genres": [
-        "Romance",
-        "Rural"
+        "Romance"
       ],
       "has_media": true,
       "work_title": "Tammy Out of Time",

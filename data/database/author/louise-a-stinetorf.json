@@ -19,10 +19,6 @@
       {
         "genre": "Adventure",
         "count": 1
-      },
-      {
-        "genre": "Jungle",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "20th Century Fox",
       "directors": "Henry Hathaway",
       "genres": [
-        "Adventure",
-        "Jungle"
+        "Adventure"
       ],
       "has_media": false,
       "work_title": "White Witch Doctor",

@@ -27,10 +27,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Social",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -84,8 +80,7 @@
       "studio": "Allied Artists",
       "directors": "Fred M. Wilcox",
       "genres": [
-        "Drama",
-        "Social"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "I Passed for White",

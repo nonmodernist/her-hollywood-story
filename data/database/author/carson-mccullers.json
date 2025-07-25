@@ -19,14 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Domestic",
-        "count": 1
-      },
-      {
-        "genre": "Teenage",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "Columbia",
       "directors": "Fred Zinnemann",
       "genres": [
-        "Drama",
-        "Domestic",
-        "Teenage"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "The Member of the Wedding",

@@ -19,14 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Sea",
-        "count": 1
-      },
-      {
-        "genre": "Youth",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "20th Century Fox",
       "directors": "Henry King",
       "genres": [
-        "Drama",
-        "Sea",
-        "Youth"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Spoonhandle",

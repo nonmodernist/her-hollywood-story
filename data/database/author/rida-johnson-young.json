@@ -25,15 +25,7 @@
         "count": 1
       },
       {
-        "genre": "College",
-        "count": 1
-      },
-      {
         "genre": "Melodrama",
-        "count": 1
-      },
-      {
-        "genre": "Society",
         "count": 1
       }
     ],
@@ -73,8 +65,7 @@
       "studio": "MGM",
       "directors": "Jack Conway",
       "genres": [
-        "Romance",
-        "College"
+        "Romance"
       ],
       "has_media": false,
       "work_title": "Brown of Harvard",
@@ -90,8 +81,7 @@
       "studio": "Fox Film",
       "directors": "John Ford",
       "genres": [
-        "Melodrama",
-        "Society"
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "The Story of Mother Machree",

@@ -25,15 +25,15 @@
         "count": 2
       },
       {
-        "genre": "Rural",
-        "count": 2
-      },
-      {
-        "genre": "Youth",
-        "count": 2
-      },
-      {
         "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Musical comedy",
+        "count": 1
+      },
+      {
+        "genre": "Comedy",
         "count": 1
       }
     ],
@@ -106,8 +106,7 @@
       "studio": "Dirigo Films ",
       "directors": "Sidney Olcott",
       "genres": [
-        "Drama",
-        "Rural"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Timothy's Quest",
@@ -123,8 +122,7 @@
       "studio": "Fox Film",
       "directors": "Alfred Santell",
       "genres": [
-        "Melodrama",
-        "Rural"
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "Rebecca of Sunnybrook Farm",
@@ -140,8 +138,7 @@
       "studio": "Paramount",
       "directors": "Charles Barton",
       "genres": [
-        "Comedy-drama",
-        "Youth"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "Timothy's Quest",
@@ -157,9 +154,7 @@
       "studio": "RKO",
       "directors": "Rowland V. Lee",
       "genres": [
-        "Drama",
-        "Domestic",
-        "Historical"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Mother Carey's Chickens",
@@ -175,8 +170,7 @@
       "studio": "20th Century Fox",
       "directors": "Allan Dwan",
       "genres": [
-        "Musical comedy",
-        "Youth"
+        "Musical comedy"
       ],
       "has_media": false,
       "work_title": "Rebecca of Sunnybrook Farm",
@@ -192,8 +186,7 @@
       "studio": "Walt Disney",
       "directors": "James Neilson",
       "genres": [
-        "Comedy",
-        "with songs"
+        "Comedy"
       ],
       "has_media": false,
       "work_title": "Mother Carey's Chickens",
@@ -233,7 +226,7 @@
       "formatted_title": "Mother Carey's Chickens",
       "html_title": "<span class=\"work-title\">Mother Carey's Chickens</span>",
       "work_type": "novel",
-      "publication_year": 1911,
+      "publication_year": 1910,
       "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false

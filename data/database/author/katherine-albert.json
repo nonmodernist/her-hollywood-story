@@ -19,14 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Domestic",
-        "count": 1
-      },
-      {
-        "genre": "Historical",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "RKO",
       "directors": "Allen Reisner",
       "genres": [
-        "Drama",
-        "Domestic",
-        "Historical"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "The Day They Gave Babies Away",

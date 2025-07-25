@@ -27,14 +27,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Horse race",
-        "count": 1
-      },
-      {
-        "genre": "Rural",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -65,22 +57,6 @@
       "work_id": 568
     },
     {
-      "id": 646,
-      "slug": "lena-rivers-1914",
-      "title": "Lena Rivers",
-      "html_title": "<span class=\"film-title\">Lena Rivers</span>",
-      "year": 1914,
-      "studio": "Whitman Features",
-      "directors": null,
-      "genres": [
-        "Melodrama"
-      ],
-      "has_media": false,
-      "work_title": "Lena Rivers",
-      "work_html_title": "<span class=\"work-title\">Lena Rivers</span>",
-      "work_id": 568
-    },
-    {
       "id": 647,
       "slug": "lena-rivers-1914",
       "title": "Lena Rivers",
@@ -91,6 +67,22 @@
       "genres": [
         "Melodrama",
         "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "Lena Rivers",
+      "work_html_title": "<span class=\"work-title\">Lena Rivers</span>",
+      "work_id": 568
+    },
+    {
+      "id": 646,
+      "slug": "lena-rivers-1914",
+      "title": "Lena Rivers",
+      "html_title": "<span class=\"film-title\">Lena Rivers</span>",
+      "year": 1914,
+      "studio": "Whitman Features",
+      "directors": null,
+      "genres": [
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "Lena Rivers",
@@ -138,9 +130,7 @@
       "studio": "Tiffany Productions",
       "directors": "Phil Rosen",
       "genres": [
-        "Melodrama",
-        "Horse race",
-        "Rural"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "Lena Rivers",

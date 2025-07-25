@@ -19,10 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Domestic",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "MGM",
       "directors": "Charles Brabin",
       "genres": [
-        "Drama",
-        "Domestic"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Wicked Woman",

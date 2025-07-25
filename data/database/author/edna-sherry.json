@@ -19,10 +19,6 @@
       {
         "genre": "Romance",
         "count": 1
-      },
-      {
-        "genre": "Suspense",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "RKO",
       "directors": "David Miller|Ralph Hoge",
       "genres": [
-        "Romance",
-        "Suspense"
+        "Romance"
       ],
       "has_media": false,
       "work_title": "Sudden Fear",

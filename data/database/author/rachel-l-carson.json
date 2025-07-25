@@ -19,10 +19,6 @@
       {
         "genre": "Documentary",
         "count": 1
-      },
-      {
-        "genre": "Sea",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "RKO",
       "directors": "Irwin Allen",
       "genres": [
-        "Documentary",
-        "Sea"
+        "Documentary"
       ],
       "has_media": false,
       "work_title": "The Sea Around Us",

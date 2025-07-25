@@ -137,8 +137,8 @@
         "Comedy"
       ],
       "has_media": false,
-      "work_title": "a novel?",
-      "work_html_title": "<span class=\"work-title\">a novel?</span>",
+      "work_title": "Unknown Novel",
+      "work_html_title": "<span class=\"work-title\">Unknown Novel</span>",
       "work_id": 45
     },
     {
@@ -271,10 +271,10 @@
     },
     {
       "id": 45,
-      "slug": "a-novel",
-      "title": "a novel?",
-      "formatted_title": "a novel?",
-      "html_title": "<span class=\"work-title\">a novel?</span>",
+      "slug": "unknown-novel",
+      "title": "Unknown Novel",
+      "formatted_title": "Unknown Novel",
+      "html_title": "<span class=\"work-title\">Unknown Novel</span>",
       "work_type": "novel",
       "publication_year": null,
       "genre": null,

@@ -21,14 +21,6 @@
         "count": 4
       },
       {
-        "genre": "Historical",
-        "count": 4
-      },
-      {
-        "genre": "Domestic",
-        "count": 2
-      },
-      {
         "genre": "Melodrama",
         "count": 1
       },
@@ -73,9 +65,7 @@
       "studio": "RKO",
       "directors": "George Cukor|John Davis Lodge",
       "genres": [
-        "Drama",
-        "Domestic",
-        "Historical"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Little Women",
@@ -91,8 +81,7 @@
       "studio": "Mascot Pictures",
       "directors": "Phil Rosen",
       "genres": [
-        "Drama",
-        "Historical"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Little Men",
@@ -124,9 +113,7 @@
       "studio": "MGM",
       "directors": "Mervyn LeRoy",
       "genres": [
-        "Drama",
-        "Domestic",
-        "Historical"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Little Women",
@@ -142,9 +129,7 @@
       "studio": "Eagle-Lion Films",
       "directors": "Arthur Dreifuss",
       "genres": [
-        "Comedy-drama",
-        "Historical",
-        "with songs"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "An Old Fashioned Girl",

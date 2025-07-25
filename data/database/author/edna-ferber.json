@@ -21,20 +21,20 @@
         "count": 11
       },
       {
-        "genre": "Historical",
-        "count": 9
-      },
-      {
         "genre": "Comedy-drama",
         "count": 5
       },
       {
-        "genre": "Domestic",
-        "count": 3
+        "genre": "Romance",
+        "count": 2
       },
       {
-        "genre": "Show business",
-        "count": 3
+        "genre": "Musical",
+        "count": 2
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
       }
     ],
     "films_by_decade": {
@@ -140,8 +140,7 @@
       "studio": "Famous Players-Lasky",
       "directors": "James Cruze",
       "genres": [
-        "Comedy-drama",
-        "Domestic"
+        "Comedy-drama"
       ],
       "has_media": true,
       "work_title": "Old Man Minick",
@@ -205,9 +204,7 @@
       "studio": "Universal",
       "directors": "Harry Pollard",
       "genres": [
-        "Musical",
-        "Historical",
-        "Show business"
+        "Musical"
       ],
       "has_media": true,
       "work_title": "Show Boat",
@@ -223,8 +220,7 @@
       "studio": "RKO",
       "directors": "Wesley Ruggles",
       "genres": [
-        "Drama",
-        "Historical"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Cimarron",
@@ -240,9 +236,7 @@
       "studio": "Warner Bros",
       "directors": "William A. Wellman",
       "genres": [
-        "Drama",
-        "Historical",
-        "Rural"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "So Big",
@@ -272,9 +266,7 @@
       "studio": "Warner Bros",
       "directors": "Archie Mayo",
       "genres": [
-        "Comedy-drama",
-        "Domestic",
-        "Elderly"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "Old Man Minick",
@@ -322,9 +314,7 @@
       "studio": "Universal",
       "directors": "James Whale",
       "genres": [
-        "Comedy-drama",
-        "Historical",
-        "Show business"
+        "Comedy-drama"
       ],
       "has_media": true,
       "work_title": "Show Boat",
@@ -340,9 +330,7 @@
       "studio": "Warner Bros",
       "directors": "Terry Morse",
       "genres": [
-        "Drama",
-        "Domestic",
-        "Elderly"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Old Man Minick",
@@ -358,8 +346,7 @@
       "studio": "Warner Bros",
       "directors": "Sam Wood",
       "genres": [
-        "Romance",
-        "Historical"
+        "Romance"
       ],
       "has_media": true,
       "work_title": "Saratoga Trunk",
@@ -375,9 +362,7 @@
       "studio": "MGM",
       "directors": "George Sidney",
       "genres": [
-        "Musical",
-        "Historical",
-        "Show business"
+        "Musical"
       ],
       "has_media": true,
       "work_title": "Show Boat",
@@ -393,9 +378,7 @@
       "studio": "Warner Bros",
       "directors": "Robert Wise",
       "genres": [
-        "Drama",
-        "Historical",
-        "Rural"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "So Big",
@@ -411,9 +394,7 @@
       "studio": "Warner Bros",
       "directors": "George Stevens",
       "genres": [
-        "Drama",
-        "Historical",
-        "with songs"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Giant",
@@ -445,8 +426,7 @@
       "studio": "Warner Bros",
       "directors": "Vincent Sherman",
       "genres": [
-        "Drama",
-        "Historical"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Ice Palace",

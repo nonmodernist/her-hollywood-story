@@ -31,10 +31,6 @@
       {
         "genre": "Comedy",
         "count": 1
-      },
-      {
-        "genre": "Show business",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -139,9 +135,7 @@
       "studio": "20th Century Fox",
       "directors": "Irving Cummings",
       "genres": [
-        "Comedy-drama",
-        "Show business",
-        "Youth"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "The Poor Little Rich Girl",

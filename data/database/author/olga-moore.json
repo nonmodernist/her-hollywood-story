@@ -19,10 +19,6 @@
       {
         "genre": "Romantic comedy",
         "count": 1
-      },
-      {
-        "genre": "Political",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "RKO",
       "directors": "Christy Cabanne",
       "genres": [
-        "Romantic comedy",
-        "Political"
+        "Romantic comedy"
       ],
       "has_media": false,
       "work_title": "Quintuplets to You",

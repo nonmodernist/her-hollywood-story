@@ -19,10 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Society",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "Warner Bros",
       "directors": "Philip Rosen",
       "genres": [
-        "Drama",
-        "Society"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Being Respectable",

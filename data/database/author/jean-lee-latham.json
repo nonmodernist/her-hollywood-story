@@ -19,14 +19,6 @@
       {
         "genre": "Childrens works",
         "count": 1
-      },
-      {
-        "genre": "Animation",
-        "count": 1
-      },
-      {
-        "genre": "with songs",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "Walt Disney",
       "directors": "Jack Kinney|Bill Roberts|Hamilton Luske",
       "genres": [
-        "Childrens works",
-        "Animation",
-        "with songs"
+        "Childrens works"
       ],
       "has_media": false,
       "work_title": "Jack and the Beanstalk",

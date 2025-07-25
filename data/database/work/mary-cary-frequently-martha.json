@@ -1,0 +1,54 @@
+{
+  "id": 80,
+  "slug": "mary-cary-frequently-martha",
+  "title": "Mary Cary: Frequently Martha",
+  "formatted_title": "Mary Cary: Frequently Martha",
+  "html_title": "<span class=\"work-title\">Mary Cary: Frequently Martha</span>",
+  "work_type": "novel",
+  "publication_year": 1910,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 35,
+    "slug": "kate-langley-bosher",
+    "name": "Kate Langley Bosher",
+    "birth_year": 1865,
+    "death_year": 1932,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 11,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 83,
+      "slug": "nobodys-kid-1921",
+      "title": "Nobody's Kid",
+      "html_title": "<span class=\"film-title\">Nobody's Kid</span>",
+      "year": 1921,
+      "studio": "Robertson-Cole",
+      "directors": "Howard Hickman",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 11
+    }
+  ],
+  "adaptation_gaps": [],
+  "has_photoplay_edition": false,
+  "magazine_publication": null,
+  "has_narrative": false,
+  "last_updated": "2025-07-24T20:47:08.888389"
+}

@@ -19,18 +19,6 @@
       {
         "genre": "Western",
         "count": 4
-      },
-      {
-        "genre": "with songs",
-        "count": 2
-      },
-      {
-        "genre": "Animal",
-        "count": 1
-      },
-      {
-        "genre": "Youth",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -68,10 +56,7 @@
       "studio": "Universal",
       "directors": "Louis Friedlander",
       "genres": [
-        "Western",
-        "Animal",
-        "with songs",
-        "Youth"
+        "Western"
       ],
       "has_media": false,
       "work_title": "Stormy",
@@ -87,8 +72,7 @@
       "studio": "Buck Jones Productions",
       "directors": "Lesley Selander",
       "genres": [
-        "Western",
-        "with songs"
+        "Western"
       ],
       "has_media": false,
       "work_title": "Empty Saddles",

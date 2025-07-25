@@ -31,10 +31,6 @@
       {
         "genre": "Drama",
         "count": 2
-      },
-      {
-        "genre": "Domestic",
-        "count": 2
       }
     ],
     "films_by_decade": {
@@ -59,8 +55,7 @@
       "directors": "Harold Entwhistle",
       "genres": [
         "Comedy",
-        "Melodrama",
-        "Carnival/Circus"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "Mrs. Wiggs of the Cabbage Patch",
@@ -140,8 +135,7 @@
       "studio": "Famous Players-Lasky",
       "directors": "Hugh Ford",
       "genres": [
-        "Comedy",
-        "Social"
+        "Comedy"
       ],
       "has_media": true,
       "work_title": "Mrs. Wiggs of the Cabbage Patch",
@@ -173,8 +167,7 @@
       "studio": "Paramount",
       "directors": "Norman Taurog",
       "genres": [
-        "Melodrama",
-        "Domestic"
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "Mrs. Wiggs of the Cabbage Patch",
@@ -190,8 +183,7 @@
       "studio": "Paramount",
       "directors": "Ralph Murphy",
       "genres": [
-        "Comedy-drama",
-        "Domestic"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "Mrs. Wiggs of the Cabbage Patch",

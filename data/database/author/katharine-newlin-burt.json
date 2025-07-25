@@ -25,10 +25,6 @@
         "count": 1
       },
       {
-        "genre": "Society",
-        "count": 1
-      },
-      {
         "genre": "Romance",
         "count": 1
       },
@@ -119,12 +115,11 @@
       "studio": "Metro-Goldwyn Pictures",
       "directors": "Robert G. Vignola",
       "genres": [
-        "Melodrama",
-        "Society"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "Summoned",
-      "work_html_title": "<span class=\"work-title short-story\">\"Summoned\"</span>",
+      "work_html_title": "<span class=\"work-title\">Summoned</span>",
       "work_id": 117
     },
     {
@@ -192,7 +187,7 @@
       "formatted_title": "\"Singed Wings\"",
       "html_title": "<span class=\"work-title short-story\">\"Singed Wings\"</span>",
       "work_type": "short_story",
-      "publication_year": null,
+      "publication_year": 1922,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -213,9 +208,9 @@
       "id": 117,
       "slug": "summoned",
       "title": "Summoned",
-      "formatted_title": "\"Summoned\"",
-      "html_title": "<span class=\"work-title short-story\">\"Summoned\"</span>",
-      "work_type": "short_story",
+      "formatted_title": "Summoned",
+      "html_title": "<span class=\"work-title\">Summoned</span>",
+      "work_type": "novella",
       "publication_year": 1923,
       "genre": null,
       "adaptation_count": 1,

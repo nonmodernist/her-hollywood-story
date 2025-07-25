@@ -19,10 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Medical",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "Fox Film",
       "directors": "Frank Borzage",
       "genres": [
-        "Drama",
-        "Medical"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Doctor's Wives",

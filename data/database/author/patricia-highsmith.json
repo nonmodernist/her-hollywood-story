@@ -19,10 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Suspense",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "Warner Bros",
       "directors": "Alfred Hitchcock",
       "genres": [
-        "Drama",
-        "Suspense"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Strangers on a Train",

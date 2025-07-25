@@ -25,15 +25,7 @@
         "count": 3
       },
       {
-        "genre": "Crime",
-        "count": 1
-      },
-      {
         "genre": "Comedy",
-        "count": 1
-      },
-      {
-        "genre": "Domestic",
         "count": 1
       }
     ],
@@ -73,8 +65,7 @@
       "studio": "Metro Pictures",
       "directors": "John Ince",
       "genres": [
-        "Drama",
-        "Crime"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Secret Strings",
@@ -170,8 +161,7 @@
       "studio": "RKO",
       "directors": "Herbert Brenon",
       "genres": [
-        "Melodrama",
-        "Domestic"
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "The Next Corner",

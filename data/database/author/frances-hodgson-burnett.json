@@ -25,15 +25,11 @@
         "count": 4
       },
       {
-        "genre": "Historical",
-        "count": 2
-      },
-      {
-        "genre": "Social",
+        "genre": "Comedy",
         "count": 1
       },
       {
-        "genre": "Comedy",
+        "genre": "Comedy-drama",
         "count": 1
       }
     ],
@@ -74,8 +70,7 @@
       "studio": "Famous Players",
       "directors": "James Kirkwood",
       "genres": [
-        "Drama",
-        "Social"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "The Dawn of a Tomorrow",
@@ -155,8 +150,7 @@
       "studio": "Select Pictures",
       "directors": "Rollin S. Sturgeon",
       "genres": [
-        "Drama",
-        "Society"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "The Shuttle",
@@ -172,8 +166,7 @@
       "studio": "Famous Players-Lasky",
       "directors": "Robert G. Vignola",
       "genres": [
-        "Drama",
-        "Rural"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Louisiana",
@@ -253,8 +246,7 @@
       "studio": "Famous Players-Lasky",
       "directors": "George Melford",
       "genres": [
-        "Melodrama",
-        "Crime"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "The Dawn of a Tomorrow",
@@ -302,8 +294,7 @@
       "studio": "20th Century Fox",
       "directors": "Walter Lang",
       "genres": [
-        "Drama",
-        "Historical"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Sara Crewe; or, What Happened at Miss Minchin’s",
@@ -319,9 +310,7 @@
       "studio": "MGM",
       "directors": "Fred M. Wilcox",
       "genres": [
-        "Drama",
-        "Historical",
-        "Youth"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "The Secret Garden",

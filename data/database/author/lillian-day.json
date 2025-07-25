@@ -21,15 +21,7 @@
         "count": 1
       },
       {
-        "genre": "Domestic",
-        "count": 1
-      },
-      {
         "genre": "Comedy",
-        "count": 1
-      },
-      {
-        "genre": "Teenage",
         "count": 1
       }
     ],
@@ -52,8 +44,7 @@
       "studio": "Warner Bros",
       "directors": "Arthur Greville Collins",
       "genres": [
-        "Drama",
-        "Domestic"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Living Up to Lizzie",
@@ -69,8 +60,7 @@
       "studio": "MGM",
       "directors": "Edward Buzzell",
       "genres": [
-        "Comedy",
-        "Teenage"
+        "Comedy"
       ],
       "has_media": true,
       "work_title": "The Youngest Profession",

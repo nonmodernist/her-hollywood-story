@@ -4,8 +4,8 @@
   "title": "The Dude Wrangler",
   "formatted_title": "The Dude Wrangler",
   "html_title": "<span class=\"work-title\">The Dude Wrangler</span>",
-  "work_type": "novel",
-  "publication_year": 1921,
+  "work_type": "novella",
+  "publication_year": 1907,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 9,
+    "speed_demon_delay": 23,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -44,12 +44,20 @@
         "Western"
       ],
       "has_media": true,
-      "years_after_publication": 9
+      "years_after_publication": 23
     }
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Red Book Magazine",
+    "magazine_pub_date": "1907-11-01",
+    "magazine_issue_info": "Vol. X No. 1",
+    "digitized_url": "https://archive.org/details/sim_redbook_1907-11_10_1",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09053.htm#A4",
+    "serialized": false,
+    "serial_parts": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-06-17T03:48:03.914138"
+  "last_updated": "2025-07-24T18:41:01.927112"
 }

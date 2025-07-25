@@ -19,10 +19,6 @@
       {
         "genre": "Musical",
         "count": 1
-      },
-      {
-        "genre": "Show business",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "20th Century Fox",
       "directors": "\"Mitele\" Leisen",
       "genres": [
-        "Musical",
-        "Show business"
+        "Musical"
       ],
       "has_media": false,
       "work_title": "Impressario",

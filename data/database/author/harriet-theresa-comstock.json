@@ -10,11 +10,11 @@
   "author_notes": null,
   "wikidata_id": "Q5664346",
   "stats": {
-    "total_films": 4,
-    "works_adapted": 4,
-    "first_adaptation": 1916,
+    "total_films": 5,
+    "works_adapted": 5,
+    "first_adaptation": 1913,
     "last_adaptation": 1924,
-    "year_span": 8,
+    "year_span": 11,
     "top_genres": [
       {
         "genre": "Drama",
@@ -23,14 +23,10 @@
       {
         "genre": "Melodrama",
         "count": 2
-      },
-      {
-        "genre": "Rural",
-        "count": 1
       }
     ],
     "films_by_decade": {
-      "1910": 2,
+      "1910": 3,
       "1920": 2
     }
   },
@@ -39,6 +35,20 @@
     "twenty_timer_rank": null
   },
   "films": [
+    {
+      "id": 1132,
+      "slug": "joyce-of-the-north-woods-1913",
+      "title": "Joyce of the North Woods",
+      "html_title": "<span class=\"film-title\">Joyce of the North Woods</span>",
+      "year": 1913,
+      "studio": "Edison",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "Joyce of the North Woods",
+      "work_html_title": "<span class=\"work-title\">Joyce of the North Woods</span>",
+      "work_id": 1017
+    },
     {
       "id": 16,
       "slug": "the-place-beyond-the-winds-1916",
@@ -64,8 +74,7 @@
       "studio": "Vitagraph",
       "directors": "Harry Davenport",
       "genres": [
-        "Drama",
-        "Rural"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "A Son of the Hills",
@@ -106,6 +115,18 @@
     }
   ],
   "adapted_works": [
+    {
+      "id": 1017,
+      "slug": "joyce-of-the-north-woods",
+      "title": "Joyce of the North Woods",
+      "formatted_title": "Joyce of the North Woods",
+      "html_title": "<span class=\"work-title\">Joyce of the North Woods</span>",
+      "work_type": "novel",
+      "publication_year": 1910,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
     {
       "id": 14,
       "slug": "the-place-beyond-the-winds",
@@ -156,13 +177,13 @@
     }
   ],
   "most_adapted_work": {
-    "id": 14,
-    "slug": "the-place-beyond-the-winds",
-    "title": "The Place Beyond the Winds",
-    "formatted_title": "The Place Beyond the Winds",
-    "html_title": "<span class=\"work-title\">The Place Beyond the Winds</span>",
+    "id": 1017,
+    "slug": "joyce-of-the-north-woods",
+    "title": "Joyce of the North Woods",
+    "formatted_title": "Joyce of the North Woods",
+    "html_title": "<span class=\"work-title\">Joyce of the North Woods</span>",
     "work_type": "novel",
-    "publication_year": 1914,
+    "publication_year": 1910,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false

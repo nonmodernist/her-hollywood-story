@@ -5,7 +5,7 @@
   "formatted_title": "Mother Carey's Chickens",
   "html_title": "<span class=\"work-title\">Mother Carey's Chickens</span>",
   "work_type": "novel",
-  "publication_year": 1911,
+  "publication_year": 1910,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 27,
+    "speed_demon_delay": 28,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -40,12 +40,10 @@
       "studio": "RKO",
       "directors": "Rowland V. Lee",
       "genres": [
-        "Drama",
-        "Domestic",
-        "Historical"
+        "Drama"
       ],
       "has_media": false,
-      "years_after_publication": 27
+      "years_after_publication": 28
     },
     {
       "id": 1079,
@@ -56,11 +54,10 @@
       "studio": "Walt Disney",
       "directors": "James Neilson",
       "genres": [
-        "Comedy",
-        "with songs"
+        "Comedy"
       ],
       "has_media": false,
-      "years_after_publication": 52
+      "years_after_publication": 53
     }
   ],
   "adaptation_gaps": [
@@ -71,7 +68,15 @@
     }
   ],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Ladies’ Home Journal",
+    "magazine_pub_date": "1910-11-01",
+    "magazine_issue_info": "v27 #14-?",
+    "digitized_url": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015011414193;view=2up;seq=1048",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k06/k06092.htm#A4",
+    "serialized": true,
+    "serial_parts": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-21T17:39:30.350666"
+  "last_updated": "2025-07-24T19:05:56.122401"
 }

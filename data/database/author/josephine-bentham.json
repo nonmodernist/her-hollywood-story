@@ -19,14 +19,6 @@
       {
         "genre": "Comedy",
         "count": 2
-      },
-      {
-        "genre": "Domestic",
-        "count": 1
-      },
-      {
-        "genre": "Teenage",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -64,9 +56,7 @@
       "studio": "Warner Bros",
       "directors": "Michael Curtiz",
       "genres": [
-        "Comedy",
-        "Domestic",
-        "Teenage"
+        "Comedy"
       ],
       "has_media": false,
       "work_title": "Janie",

@@ -19,14 +19,6 @@
       {
         "genre": "Comedy-drama",
         "count": 1
-      },
-      {
-        "genre": "Military",
-        "count": 1
-      },
-      {
-        "genre": "Postwar life",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "Allied Artists",
       "directors": "Edward L. Bernds",
       "genres": [
-        "Comedy-drama",
-        "Military",
-        "Postwar life"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "Mother, Sir!",

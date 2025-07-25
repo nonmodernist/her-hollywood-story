@@ -19,10 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Northwest",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "Fox Film",
       "directors": "Oscar C. Apfel",
       "genres": [
-        "Drama",
-        "Northwest"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Hope Rides with Me",

@@ -4,8 +4,8 @@
   "title": "In Folly's Trail",
   "formatted_title": "In Folly's Trail",
   "html_title": "<span class=\"work-title\">In Folly's Trail</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "work_type": "novella",
+  "publication_year": 1920,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": true,
+    "speed_demon_delay": 0,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,12 +43,20 @@
         "Drama"
       ],
       "has_media": false,
-      "years_after_publication": 1920
+      "years_after_publication": 0
     }
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Snappy Stories",
+    "magazine_pub_date": "1920-01-04",
+    "magazine_issue_info": "v48 #1",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k10/k10401.htm#A3",
+    "serialized": false,
+    "serial_parts": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-11T15:46:21.522532"
+  "last_updated": "2025-07-24T20:00:58.702688"
 }

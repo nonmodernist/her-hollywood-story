@@ -915,6 +915,41 @@
     },
     {
       "work": {
+        "id": 848,
+        "slug": "in-follys-trail",
+        "title": "In Folly's Trail",
+        "formatted_title": "In Folly's Trail",
+        "html_title": "<span class=\"work-title\">In Folly's Trail</span>",
+        "work_type": "novella",
+        "genre": null,
+        "publication_year": 1920
+      },
+      "author": {
+        "id": 26,
+        "slug": "katherine-leiser-robbins",
+        "name": "Katherine Leiser Robbins"
+      },
+      "firstAdaptation": {
+        "id": 946,
+        "slug": "in-follys-trail-1920",
+        "title": "In Folly's Trail",
+        "html_title": "<span class=\"film-title\">In Folly's Trail</span>",
+        "year": 1920,
+        "studio": "Universal",
+        "directors": "Rollin Sturgeon"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1920
+      }
+    },
+    {
+      "work": {
         "id": 975,
         "slug": "lord-john-in-new-york",
         "title": "Lord John in New York",
@@ -946,41 +981,6 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1915
-      }
-    },
-    {
-      "work": {
-        "id": 128,
-        "slug": "married",
-        "title": "Married?",
-        "formatted_title": "Married?",
-        "html_title": "<span class=\"work-title\">Married?</span>",
-        "work_type": "novel",
-        "genre": null,
-        "publication_year": 1926
-      },
-      "author": {
-        "id": 29,
-        "slug": "marjorie-benton-cooke",
-        "name": "Marjorie Benton Cooke"
-      },
-      "firstAdaptation": {
-        "id": 134,
-        "slug": "married-1926",
-        "title": "Married?",
-        "html_title": "<span class=\"film-title\">Married?</span>",
-        "year": 1926,
-        "studio": "Jans Productions",
-        "directors": "George Terwilliger"
-      },
-      "speed": {
-        "delay": 0,
-        "delayMonths": "Same year",
-        "isZeroDelay": true
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1926
       }
     },
     {
@@ -1615,6 +1615,41 @@
     },
     {
       "work": {
+        "id": 90,
+        "slug": "singed-wings",
+        "title": "Singed Wings",
+        "formatted_title": "\"Singed Wings\"",
+        "html_title": "<span class=\"work-title short-story\">\"Singed Wings\"</span>",
+        "work_type": "short_story",
+        "genre": null,
+        "publication_year": 1922
+      },
+      "author": {
+        "id": 32,
+        "slug": "katharine-newlin-burt",
+        "name": "Katharine Newlin Burt"
+      },
+      "firstAdaptation": {
+        "id": 94,
+        "slug": "singed-wings-1922",
+        "title": "Singed Wings",
+        "html_title": "<span class=\"film-title\">Singed Wings</span>",
+        "year": 1922,
+        "studio": "Famous Players-Lasky",
+        "directors": "Penrhyn Stanlaws"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1922
+      }
+    },
+    {
+      "work": {
         "id": 100,
         "slug": "so-big",
         "title": "So Big",
@@ -2031,6 +2066,41 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1942
+      }
+    },
+    {
+      "work": {
+        "id": 847,
+        "slug": "the-gilded-dream",
+        "title": "The Gilded Dream",
+        "formatted_title": "The Gilded Dream",
+        "html_title": "<span class=\"work-title\">The Gilded Dream</span>",
+        "work_type": "novella",
+        "genre": null,
+        "publication_year": 1920
+      },
+      "author": {
+        "id": 26,
+        "slug": "katherine-leiser-robbins",
+        "name": "Katherine Leiser Robbins"
+      },
+      "firstAdaptation": {
+        "id": 945,
+        "slug": "the-gilded-dream-1920",
+        "title": "The Gilded Dream",
+        "html_title": "<span class=\"film-title\">The Gilded Dream</span>",
+        "year": 1920,
+        "studio": "Universal",
+        "directors": "Rollin Sturgeon"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1920
       }
     },
     {
@@ -5710,41 +5780,6 @@
     },
     {
       "work": {
-        "id": 25,
-        "slug": "mrs-balfame",
-        "title": "Mrs. Balfame",
-        "formatted_title": "Mrs. Balfame",
-        "html_title": "<span class=\"work-title\">Mrs. Balfame</span>",
-        "work_type": "novel",
-        "genre": null,
-        "publication_year": 1916
-      },
-      "author": {
-        "id": 16,
-        "slug": "gertrude-atherton",
-        "name": "Gertrude Atherton"
-      },
-      "firstAdaptation": {
-        "id": 27,
-        "slug": "mrs-balfame-1917",
-        "title": "Mrs. Balfame",
-        "html_title": "<span class=\"film-title\">Mrs. Balfame</span>",
-        "year": 1917,
-        "studio": "Mutual Film Corp.",
-        "directors": "Frank Powell"
-      },
-      "speed": {
-        "delay": 1,
-        "delayMonths": "1 year",
-        "isZeroDelay": false
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1917
-      }
-    },
-    {
-      "work": {
         "id": 508,
         "slug": "mrs-mike",
         "title": "Mrs. Mike",
@@ -6126,41 +6161,6 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1941
-      }
-    },
-    {
-      "work": {
-        "id": 1013,
-        "slug": "points-west",
-        "title": "Points West",
-        "formatted_title": "Points West",
-        "html_title": "<span class=\"work-title\">Points West</span>",
-        "work_type": "novel",
-        "genre": null,
-        "publication_year": 1928
-      },
-      "author": {
-        "id": 33,
-        "slug": "b-m-bower",
-        "name": "B. M. Bower"
-      },
-      "firstAdaptation": {
-        "id": 1127,
-        "slug": "points-west-1929",
-        "title": "Points West",
-        "html_title": "<span class=\"film-title\">Points West</span>",
-        "year": 1929,
-        "studio": "Universal",
-        "directors": "Arthur Rosson"
-      },
-      "speed": {
-        "delay": 1,
-        "delayMonths": "1 year",
-        "isZeroDelay": false
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1929
       }
     },
     {
@@ -7180,6 +7180,41 @@
     },
     {
       "work": {
+        "id": 963,
+        "slug": "the-children",
+        "title": "The Children",
+        "formatted_title": "The Children",
+        "html_title": "<span class=\"work-title\">The Children</span>",
+        "work_type": "novel",
+        "genre": null,
+        "publication_year": 1928
+      },
+      "author": {
+        "id": 22,
+        "slug": "edith-wharton",
+        "name": "Edith Wharton"
+      },
+      "firstAdaptation": {
+        "id": 1072,
+        "slug": "the-marriage-playground-1929",
+        "title": "The Marriage Playground",
+        "html_title": "<span class=\"film-title\">The Marriage Playground</span>",
+        "year": 1929,
+        "studio": "Paramount",
+        "directors": "Lothar Mendes"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1929
+      }
+    },
+    {
+      "work": {
         "id": 408,
         "slug": "the-dear-pretender",
         "title": "The Dear Pretender",
@@ -7320,41 +7355,6 @@
     },
     {
       "work": {
-        "id": 266,
-        "slug": "the-enemy",
-        "title": "The Enemy",
-        "formatted_title": "\"The Enemy\"",
-        "html_title": "<span class=\"work-title short-story\">\"The Enemy\"</span>",
-        "work_type": "short_story",
-        "genre": null,
-        "publication_year": 1951
-      },
-      "author": {
-        "id": 85,
-        "slug": "charlotte-armstrong",
-        "name": "Charlotte Armstrong"
-      },
-      "firstAdaptation": {
-        "id": 318,
-        "slug": "talk-about-a-stranger-1952",
-        "title": "Talk About a Stranger",
-        "html_title": "<span class=\"film-title\">Talk About a Stranger</span>",
-        "year": 1952,
-        "studio": "MGM",
-        "directors": "David Bradley"
-      },
-      "speed": {
-        "delay": 1,
-        "delayMonths": "1 year",
-        "isZeroDelay": false
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1952
-      }
-    },
-    {
-      "work": {
         "id": 400,
         "slug": "the-enemy",
         "title": "The Enemy",
@@ -7386,6 +7386,41 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1916
+      }
+    },
+    {
+      "work": {
+        "id": 266,
+        "slug": "the-enemy",
+        "title": "The Enemy",
+        "formatted_title": "\"The Enemy\"",
+        "html_title": "<span class=\"work-title short-story\">\"The Enemy\"</span>",
+        "work_type": "short_story",
+        "genre": null,
+        "publication_year": 1951
+      },
+      "author": {
+        "id": 85,
+        "slug": "charlotte-armstrong",
+        "name": "Charlotte Armstrong"
+      },
+      "firstAdaptation": {
+        "id": 318,
+        "slug": "talk-about-a-stranger-1952",
+        "title": "Talk About a Stranger",
+        "html_title": "<span class=\"film-title\">Talk About a Stranger</span>",
+        "year": 1952,
+        "studio": "MGM",
+        "directors": "David Bradley"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1952
       }
     },
     {
@@ -8968,9 +9003,9 @@
         "id": 56,
         "slug": "whose-widow",
         "title": "Whose Widow?",
-        "formatted_title": "\"Whose Widow?\"",
-        "html_title": "<span class=\"work-title short-story\">\"Whose Widow?\"</span>",
-        "work_type": "short_story",
+        "formatted_title": "Whose Widow?",
+        "html_title": "<span class=\"work-title\">Whose Widow?</span>",
+        "work_type": "novella",
         "genre": null,
         "publication_year": 1918
       },
@@ -10054,6 +10089,41 @@
         },
         {
           "work": {
+            "id": 848,
+            "slug": "in-follys-trail",
+            "title": "In Folly's Trail",
+            "formatted_title": "In Folly's Trail",
+            "html_title": "<span class=\"work-title\">In Folly's Trail</span>",
+            "work_type": "novella",
+            "genre": null,
+            "publication_year": 1920
+          },
+          "author": {
+            "id": 26,
+            "slug": "katherine-leiser-robbins",
+            "name": "Katherine Leiser Robbins"
+          },
+          "firstAdaptation": {
+            "id": 946,
+            "slug": "in-follys-trail-1920",
+            "title": "In Folly's Trail",
+            "html_title": "<span class=\"film-title\">In Folly's Trail</span>",
+            "year": 1920,
+            "studio": "Universal",
+            "directors": "Rollin Sturgeon"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1920
+          }
+        },
+        {
+          "work": {
             "id": 975,
             "slug": "lord-john-in-new-york",
             "title": "Lord John in New York",
@@ -10085,41 +10155,6 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1915
-          }
-        },
-        {
-          "work": {
-            "id": 128,
-            "slug": "married",
-            "title": "Married?",
-            "formatted_title": "Married?",
-            "html_title": "<span class=\"work-title\">Married?</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1926
-          },
-          "author": {
-            "id": 29,
-            "slug": "marjorie-benton-cooke",
-            "name": "Marjorie Benton Cooke"
-          },
-          "firstAdaptation": {
-            "id": 134,
-            "slug": "married-1926",
-            "title": "Married?",
-            "html_title": "<span class=\"film-title\">Married?</span>",
-            "year": 1926,
-            "studio": "Jans Productions",
-            "directors": "George Terwilliger"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1926
           }
         },
         {
@@ -10754,6 +10789,41 @@
         },
         {
           "work": {
+            "id": 90,
+            "slug": "singed-wings",
+            "title": "Singed Wings",
+            "formatted_title": "\"Singed Wings\"",
+            "html_title": "<span class=\"work-title short-story\">\"Singed Wings\"</span>",
+            "work_type": "short_story",
+            "genre": null,
+            "publication_year": 1922
+          },
+          "author": {
+            "id": 32,
+            "slug": "katharine-newlin-burt",
+            "name": "Katharine Newlin Burt"
+          },
+          "firstAdaptation": {
+            "id": 94,
+            "slug": "singed-wings-1922",
+            "title": "Singed Wings",
+            "html_title": "<span class=\"film-title\">Singed Wings</span>",
+            "year": 1922,
+            "studio": "Famous Players-Lasky",
+            "directors": "Penrhyn Stanlaws"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1922
+          }
+        },
+        {
+          "work": {
             "id": 100,
             "slug": "so-big",
             "title": "So Big",
@@ -11170,6 +11240,41 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1942
+          }
+        },
+        {
+          "work": {
+            "id": 847,
+            "slug": "the-gilded-dream",
+            "title": "The Gilded Dream",
+            "formatted_title": "The Gilded Dream",
+            "html_title": "<span class=\"work-title\">The Gilded Dream</span>",
+            "work_type": "novella",
+            "genre": null,
+            "publication_year": 1920
+          },
+          "author": {
+            "id": 26,
+            "slug": "katherine-leiser-robbins",
+            "name": "Katherine Leiser Robbins"
+          },
+          "firstAdaptation": {
+            "id": 945,
+            "slug": "the-gilded-dream-1920",
+            "title": "The Gilded Dream",
+            "html_title": "<span class=\"film-title\">The Gilded Dream</span>",
+            "year": 1920,
+            "studio": "Universal",
+            "directors": "Rollin Sturgeon"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1920
           }
         },
         {
@@ -14851,41 +14956,6 @@
         },
         {
           "work": {
-            "id": 25,
-            "slug": "mrs-balfame",
-            "title": "Mrs. Balfame",
-            "formatted_title": "Mrs. Balfame",
-            "html_title": "<span class=\"work-title\">Mrs. Balfame</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1916
-          },
-          "author": {
-            "id": 16,
-            "slug": "gertrude-atherton",
-            "name": "Gertrude Atherton"
-          },
-          "firstAdaptation": {
-            "id": 27,
-            "slug": "mrs-balfame-1917",
-            "title": "Mrs. Balfame",
-            "html_title": "<span class=\"film-title\">Mrs. Balfame</span>",
-            "year": 1917,
-            "studio": "Mutual Film Corp.",
-            "directors": "Frank Powell"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1917
-          }
-        },
-        {
-          "work": {
             "id": 508,
             "slug": "mrs-mike",
             "title": "Mrs. Mike",
@@ -15267,41 +15337,6 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1941
-          }
-        },
-        {
-          "work": {
-            "id": 1013,
-            "slug": "points-west",
-            "title": "Points West",
-            "formatted_title": "Points West",
-            "html_title": "<span class=\"work-title\">Points West</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1928
-          },
-          "author": {
-            "id": 33,
-            "slug": "b-m-bower",
-            "name": "B. M. Bower"
-          },
-          "firstAdaptation": {
-            "id": 1127,
-            "slug": "points-west-1929",
-            "title": "Points West",
-            "html_title": "<span class=\"film-title\">Points West</span>",
-            "year": 1929,
-            "studio": "Universal",
-            "directors": "Arthur Rosson"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1929
           }
         },
         {
@@ -16321,6 +16356,41 @@
         },
         {
           "work": {
+            "id": 963,
+            "slug": "the-children",
+            "title": "The Children",
+            "formatted_title": "The Children",
+            "html_title": "<span class=\"work-title\">The Children</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1928
+          },
+          "author": {
+            "id": 22,
+            "slug": "edith-wharton",
+            "name": "Edith Wharton"
+          },
+          "firstAdaptation": {
+            "id": 1072,
+            "slug": "the-marriage-playground-1929",
+            "title": "The Marriage Playground",
+            "html_title": "<span class=\"film-title\">The Marriage Playground</span>",
+            "year": 1929,
+            "studio": "Paramount",
+            "directors": "Lothar Mendes"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1929
+          }
+        },
+        {
+          "work": {
             "id": 408,
             "slug": "the-dear-pretender",
             "title": "The Dear Pretender",
@@ -16461,41 +16531,6 @@
         },
         {
           "work": {
-            "id": 266,
-            "slug": "the-enemy",
-            "title": "The Enemy",
-            "formatted_title": "\"The Enemy\"",
-            "html_title": "<span class=\"work-title short-story\">\"The Enemy\"</span>",
-            "work_type": "short_story",
-            "genre": null,
-            "publication_year": 1951
-          },
-          "author": {
-            "id": 85,
-            "slug": "charlotte-armstrong",
-            "name": "Charlotte Armstrong"
-          },
-          "firstAdaptation": {
-            "id": 318,
-            "slug": "talk-about-a-stranger-1952",
-            "title": "Talk About a Stranger",
-            "html_title": "<span class=\"film-title\">Talk About a Stranger</span>",
-            "year": 1952,
-            "studio": "MGM",
-            "directors": "David Bradley"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1952
-          }
-        },
-        {
-          "work": {
             "id": 400,
             "slug": "the-enemy",
             "title": "The Enemy",
@@ -16527,6 +16562,41 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1916
+          }
+        },
+        {
+          "work": {
+            "id": 266,
+            "slug": "the-enemy",
+            "title": "The Enemy",
+            "formatted_title": "\"The Enemy\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Enemy\"</span>",
+            "work_type": "short_story",
+            "genre": null,
+            "publication_year": 1951
+          },
+          "author": {
+            "id": 85,
+            "slug": "charlotte-armstrong",
+            "name": "Charlotte Armstrong"
+          },
+          "firstAdaptation": {
+            "id": 318,
+            "slug": "talk-about-a-stranger-1952",
+            "title": "Talk About a Stranger",
+            "html_title": "<span class=\"film-title\">Talk About a Stranger</span>",
+            "year": 1952,
+            "studio": "MGM",
+            "directors": "David Bradley"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1952
           }
         },
         {
@@ -18109,9 +18179,9 @@
             "id": 56,
             "slug": "whose-widow",
             "title": "Whose Widow?",
-            "formatted_title": "\"Whose Widow?\"",
-            "html_title": "<span class=\"work-title short-story\">\"Whose Widow?\"</span>",
-            "work_type": "short_story",
+            "formatted_title": "Whose Widow?",
+            "html_title": "<span class=\"work-title\">Whose Widow?</span>",
+            "work_type": "novella",
             "genre": null,
             "publication_year": 1918
           },
@@ -19160,41 +19230,6 @@
         },
         {
           "work": {
-            "id": 25,
-            "slug": "mrs-balfame",
-            "title": "Mrs. Balfame",
-            "formatted_title": "Mrs. Balfame",
-            "html_title": "<span class=\"work-title\">Mrs. Balfame</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1916
-          },
-          "author": {
-            "id": 16,
-            "slug": "gertrude-atherton",
-            "name": "Gertrude Atherton"
-          },
-          "firstAdaptation": {
-            "id": 27,
-            "slug": "mrs-balfame-1917",
-            "title": "Mrs. Balfame",
-            "html_title": "<span class=\"film-title\">Mrs. Balfame</span>",
-            "year": 1917,
-            "studio": "Mutual Film Corp.",
-            "directors": "Frank Powell"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1917
-          }
-        },
-        {
-          "work": {
             "id": 429,
             "slug": "out-of-a-clear-sky",
             "title": "Out of a Clear Sky",
@@ -19793,9 +19828,9 @@
             "id": 56,
             "slug": "whose-widow",
             "title": "Whose Widow?",
-            "formatted_title": "\"Whose Widow?\"",
-            "html_title": "<span class=\"work-title short-story\">\"Whose Widow?\"</span>",
-            "work_type": "short_story",
+            "formatted_title": "Whose Widow?",
+            "html_title": "<span class=\"work-title\">Whose Widow?</span>",
+            "work_type": "novella",
             "genre": null,
             "publication_year": 1918
           },
@@ -20142,28 +20177,28 @@
         },
         {
           "work": {
-            "id": 128,
-            "slug": "married",
-            "title": "Married?",
-            "formatted_title": "Married?",
-            "html_title": "<span class=\"work-title\">Married?</span>",
-            "work_type": "novel",
+            "id": 848,
+            "slug": "in-follys-trail",
+            "title": "In Folly's Trail",
+            "formatted_title": "In Folly's Trail",
+            "html_title": "<span class=\"work-title\">In Folly's Trail</span>",
+            "work_type": "novella",
             "genre": null,
-            "publication_year": 1926
+            "publication_year": 1920
           },
           "author": {
-            "id": 29,
-            "slug": "marjorie-benton-cooke",
-            "name": "Marjorie Benton Cooke"
+            "id": 26,
+            "slug": "katherine-leiser-robbins",
+            "name": "Katherine Leiser Robbins"
           },
           "firstAdaptation": {
-            "id": 134,
-            "slug": "married-1926",
-            "title": "Married?",
-            "html_title": "<span class=\"film-title\">Married?</span>",
-            "year": 1926,
-            "studio": "Jans Productions",
-            "directors": "George Terwilliger"
+            "id": 946,
+            "slug": "in-follys-trail-1920",
+            "title": "In Folly's Trail",
+            "html_title": "<span class=\"film-title\">In Folly's Trail</span>",
+            "year": 1920,
+            "studio": "Universal",
+            "directors": "Rollin Sturgeon"
           },
           "speed": {
             "delay": 0,
@@ -20172,7 +20207,7 @@
           },
           "context": {
             "totalAdaptations": 1,
-            "lastAdaptation": 1926
+            "lastAdaptation": 1920
           }
         },
         {
@@ -20352,6 +20387,41 @@
         },
         {
           "work": {
+            "id": 90,
+            "slug": "singed-wings",
+            "title": "Singed Wings",
+            "formatted_title": "\"Singed Wings\"",
+            "html_title": "<span class=\"work-title short-story\">\"Singed Wings\"</span>",
+            "work_type": "short_story",
+            "genre": null,
+            "publication_year": 1922
+          },
+          "author": {
+            "id": 32,
+            "slug": "katharine-newlin-burt",
+            "name": "Katharine Newlin Burt"
+          },
+          "firstAdaptation": {
+            "id": 94,
+            "slug": "singed-wings-1922",
+            "title": "Singed Wings",
+            "html_title": "<span class=\"film-title\">Singed Wings</span>",
+            "year": 1922,
+            "studio": "Famous Players-Lasky",
+            "directors": "Penrhyn Stanlaws"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1922
+          }
+        },
+        {
+          "work": {
             "id": 100,
             "slug": "so-big",
             "title": "So Big",
@@ -20444,6 +20514,41 @@
             "year": 1920,
             "studio": "Allan Dwan Productions",
             "directors": "Allan Dwan"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1920
+          }
+        },
+        {
+          "work": {
+            "id": 847,
+            "slug": "the-gilded-dream",
+            "title": "The Gilded Dream",
+            "formatted_title": "The Gilded Dream",
+            "html_title": "<span class=\"work-title\">The Gilded Dream</span>",
+            "work_type": "novella",
+            "genre": null,
+            "publication_year": 1920
+          },
+          "author": {
+            "id": 26,
+            "slug": "katherine-leiser-robbins",
+            "name": "Katherine Leiser Robbins"
+          },
+          "firstAdaptation": {
+            "id": 945,
+            "slug": "the-gilded-dream-1920",
+            "title": "The Gilded Dream",
+            "html_title": "<span class=\"film-title\">The Gilded Dream</span>",
+            "year": 1920,
+            "studio": "Universal",
+            "directors": "Rollin Sturgeon"
           },
           "speed": {
             "delay": 0,
@@ -21822,41 +21927,6 @@
         },
         {
           "work": {
-            "id": 1013,
-            "slug": "points-west",
-            "title": "Points West",
-            "formatted_title": "Points West",
-            "html_title": "<span class=\"work-title\">Points West</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1928
-          },
-          "author": {
-            "id": 33,
-            "slug": "b-m-bower",
-            "name": "B. M. Bower"
-          },
-          "firstAdaptation": {
-            "id": 1127,
-            "slug": "points-west-1929",
-            "title": "Points West",
-            "html_title": "<span class=\"film-title\">Points West</span>",
-            "year": 1929,
-            "studio": "Universal",
-            "directors": "Arthur Rosson"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1929
-          }
-        },
-        {
-          "work": {
             "id": 419,
             "slug": "rosa-alvaro-entrante",
             "title": "Rosa Alvaro, Entrante",
@@ -22168,6 +22238,41 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1920
+          }
+        },
+        {
+          "work": {
+            "id": 963,
+            "slug": "the-children",
+            "title": "The Children",
+            "formatted_title": "The Children",
+            "html_title": "<span class=\"work-title\">The Children</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1928
+          },
+          "author": {
+            "id": 22,
+            "slug": "edith-wharton",
+            "name": "Edith Wharton"
+          },
+          "firstAdaptation": {
+            "id": 1072,
+            "slug": "the-marriage-playground-1929",
+            "title": "The Marriage Playground",
+            "html_title": "<span class=\"film-title\">The Marriage Playground</span>",
+            "year": 1929,
+            "studio": "Paramount",
+            "directors": "Lothar Mendes"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1929
           }
         },
         {
@@ -27462,6 +27567,12 @@
         "count": 6
       },
       {
+        "id": 32,
+        "slug": "katharine-newlin-burt",
+        "name": "Katharine Newlin Burt",
+        "count": 5
+      },
+      {
         "id": 48,
         "slug": "mildred-cram",
         "name": "Mildred Cram",
@@ -27474,21 +27585,15 @@
         "count": 4
       },
       {
-        "id": 16,
-        "slug": "gertrude-atherton",
-        "name": "Gertrude Atherton",
-        "count": 4
-      },
-      {
-        "id": 32,
-        "slug": "katharine-newlin-burt",
-        "name": "Katharine Newlin Burt",
-        "count": 4
-      },
-      {
         "id": 49,
         "slug": "beatrice-burton",
         "name": "Beatrice Burton",
+        "count": 4
+      },
+      {
+        "id": 53,
+        "slug": "via-delmar",
+        "name": "Viña Delmar",
         "count": 4
       }
     ],
@@ -27503,6 +27608,10 @@
       },
       {
         "studio": "Paramount",
+        "count": 19
+      },
+      {
+        "studio": "Universal",
         "count": 18
       },
       {
@@ -27514,15 +27623,11 @@
         "count": 18
       },
       {
-        "studio": "Universal",
-        "count": 17
+        "studio": "Famous Players-Lasky",
+        "count": 16
       },
       {
         "studio": "First National",
-        "count": 15
-      },
-      {
-        "studio": "Famous Players-Lasky",
         "count": 15
       },
       {
@@ -27536,13 +27641,13 @@
     ]
   },
   "stats": {
-    "total": 261,
-    "sameYearCount": 81,
-    "oneYearCount": 180,
+    "total": 262,
+    "sameYearCount": 83,
+    "oneYearCount": 179,
     "peakDecade": "1920"
   },
   "metadata": {
-    "generated": "2025-07-24T00:29:18.204Z",
+    "generated": "2025-07-25T00:30:20.221Z",
     "version": "2.0"
   }
 }

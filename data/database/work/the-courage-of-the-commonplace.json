@@ -2,9 +2,9 @@
   "id": 21,
   "slug": "the-courage-of-the-commonplace",
   "title": "The Courage of the Commonplace",
-  "formatted_title": "The Courage of the Commonplace",
-  "html_title": "<span class=\"work-title\">The Courage of the Commonplace</span>",
-  "work_type": "novel",
+  "formatted_title": "\"The Courage of the Commonplace\"",
+  "html_title": "<span class=\"work-title short-story\">\"The Courage of the Commonplace\"</span>",
+  "work_type": "short_story",
   "publication_year": 1911,
   "genre": null,
   "plot_summary": null,
@@ -48,7 +48,15 @@
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Scribner’s Magazine",
+    "magazine_pub_date": "1911-07-01",
+    "magazine_issue_info": "v50 #1",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09902.htm#A5",
+    "serialized": false,
+    "serial_parts": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-21T17:39:30.350666"
+  "last_updated": "2025-07-24T19:22:29.007589"
 }

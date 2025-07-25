@@ -5,7 +5,7 @@
   "formatted_title": "The Children",
   "html_title": "<span class=\"work-title\">The Children</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1928,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -40,16 +40,23 @@
       "studio": "Paramount",
       "directors": "Lothar Mendes",
       "genres": [
-        "Drama",
-        "Society"
+        "Drama"
       ],
       "has_media": false,
-      "years_after_publication": 1929
+      "years_after_publication": 1
     }
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Pictorial Review",
+    "magazine_pub_date": "1928-04-01",
+    "magazine_issue_info": "v29 #7-?",
+    "digitized_url": "http://digital.library.wisc.edu/1711.dl/GenderStudies.PictorialReviewMay1928",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k08/k08533.htm#A10",
+    "serialized": true,
+    "serial_parts": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-16T20:06:07.147458"
+  "last_updated": "2025-07-24T19:53:22.129562"
 }

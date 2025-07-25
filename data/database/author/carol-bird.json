@@ -19,10 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Detective",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "First National",
       "directors": "Roy Del Ruth",
       "genres": [
-        "Drama",
-        "Detective"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Missing Men",

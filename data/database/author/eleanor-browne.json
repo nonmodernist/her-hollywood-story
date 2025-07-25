@@ -19,10 +19,6 @@
       {
         "genre": "Romantic comedy",
         "count": 1
-      },
-      {
-        "genre": "Road",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "RKO",
       "directors": "Frank Woodruff",
       "genres": [
-        "Romantic comedy",
-        "Road"
+        "Romantic comedy"
       ],
       "has_media": false,
       "work_title": "Highway to Romance",

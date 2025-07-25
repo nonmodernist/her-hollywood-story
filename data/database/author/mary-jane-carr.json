@@ -19,10 +19,6 @@
       {
         "genre": "Western",
         "count": 1
-      },
-      {
-        "genre": "with songs",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "Walt Disney",
       "directors": "William Beaudine",
       "genres": [
-        "Western",
-        "with songs"
+        "Western"
       ],
       "has_media": true,
       "work_title": "Children of the Covered Wagon: A Story of the Old Oregon Trail",

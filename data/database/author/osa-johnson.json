@@ -19,10 +19,6 @@
       {
         "genre": "Documentary",
         "count": 1
-      },
-      {
-        "genre": "Compilation",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "Osa Johnson",
       "directors": null,
       "genres": [
-        "Documentary",
-        "Compilation"
+        "Documentary"
       ],
       "has_media": false,
       "work_title": "I Married Adventure",

@@ -19,10 +19,6 @@
       {
         "genre": "Comedy-drama",
         "count": 2
-      },
-      {
-        "genre": "Animal",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -44,8 +40,7 @@
       "studio": "MGM",
       "directors": "Richard Thorpe",
       "genres": [
-        "Comedy-drama",
-        "Animal"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "Greyfriars Bobby",

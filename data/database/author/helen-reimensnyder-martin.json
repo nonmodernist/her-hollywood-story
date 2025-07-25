@@ -21,15 +21,7 @@
         "count": 3
       },
       {
-        "genre": "Rural",
-        "count": 2
-      },
-      {
         "genre": "Melodrama",
-        "count": 1
-      },
-      {
-        "genre": "Society",
         "count": 1
       }
     ],
@@ -52,8 +44,7 @@
       "studio": "Realart",
       "directors": "John S. Robertson",
       "genres": [
-        "Drama",
-        "Rural"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Barnabetta",
@@ -69,8 +60,7 @@
       "studio": "Realart",
       "directors": "Frank Urson",
       "genres": [
-        "Drama",
-        "Rural"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Tillie, a Mennonite Maid",
@@ -102,8 +92,7 @@
       "studio": "B. P. Schulberg Productions",
       "directors": "Louis Gasnier",
       "genres": [
-        "Melodrama",
-        "Society"
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "The Parasite",

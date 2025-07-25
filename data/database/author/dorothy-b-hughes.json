@@ -23,10 +23,6 @@
       {
         "genre": "Mystery",
         "count": 1
-      },
-      {
-        "genre": "Espionage",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -48,8 +44,7 @@
       "studio": "RKO",
       "directors": "Richard Wallace",
       "genres": [
-        "Mystery",
-        "Espionage"
+        "Mystery"
       ],
       "has_media": true,
       "work_title": "The Fallen Sparrow",

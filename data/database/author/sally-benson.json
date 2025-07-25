@@ -21,19 +21,7 @@
         "count": 1
       },
       {
-        "genre": "Historical",
-        "count": 1
-      },
-      {
         "genre": "Comedy",
-        "count": 1
-      },
-      {
-        "genre": "Domestic",
-        "count": 1
-      },
-      {
-        "genre": "Teenage",
         "count": 1
       }
     ],
@@ -55,8 +43,7 @@
       "studio": "MGM",
       "directors": "Vincente Minnelli",
       "genres": [
-        "Musical",
-        "Historical"
+        "Musical"
       ],
       "has_media": true,
       "work_title": "Meet Me in St. Louis",
@@ -72,9 +59,7 @@
       "studio": "20th Century Fox",
       "directors": "George Seaton",
       "genres": [
-        "Comedy",
-        "Domestic",
-        "Teenage"
+        "Comedy"
       ],
       "has_media": false,
       "work_title": "Junior Miss",

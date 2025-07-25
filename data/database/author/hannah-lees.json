@@ -19,14 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Medical",
-        "count": 1
-      },
-      {
-        "genre": "Suspense",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "MGM",
       "directors": "Patrick Jackson",
       "genres": [
-        "Drama",
-        "Medical",
-        "Suspense"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Death in the Doll House",

@@ -19,14 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Newspaper",
-        "count": 1
-      },
-      {
-        "genre": "Show business",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "Imperial",
       "directors": "Lewis D. Collins",
       "genres": [
-        "Drama",
-        "Newspaper",
-        "Show business"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Broadway Virgin",

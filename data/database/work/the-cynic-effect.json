@@ -40,8 +40,7 @@
       "studio": "Dorothy Gish Productions",
       "directors": "F. Richard Jones",
       "genres": [
-        "Comedy",
-        "Rural"
+        "Comedy"
       ],
       "has_media": true,
       "years_after_publication": 2
@@ -50,14 +49,14 @@
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
   "magazine_publication": {
-    "magazine_title": "Redbook",
+    "magazine_title": "The Red Book Magazine",
     "magazine_pub_date": "1920-02-01",
-    "magazine_issue_info": "Feb 1920",
-    "digitized_url": null,
-    "FMI_link": null,
+    "magazine_issue_info": "Vol. XXXIV No. 4",
+    "digitized_url": "https://archive.org/details/sim_redbook_1920-02_34_4",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09067.htm#A4",
     "serialized": false,
     "serial_parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-21T18:17:32.022095"
+  "last_updated": "2025-07-24T19:49:11.921315"
 }

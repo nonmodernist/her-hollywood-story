@@ -25,16 +25,12 @@
         "count": 9
       },
       {
-        "genre": "Society",
-        "count": 5
-      },
-      {
-        "genre": "Domestic",
-        "count": 4
-      },
-      {
-        "genre": "with songs",
+        "genre": "Romance",
         "count": 3
+      },
+      {
+        "genre": "Musical",
+        "count": 1
       }
     ],
     "films_by_decade": {
@@ -140,8 +136,7 @@
       "studio": "Hobart Henley Productions",
       "directors": "Hobart Henley",
       "genres": [
-        "Melodrama",
-        "Society"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "Star-Dust",
@@ -157,8 +152,7 @@
       "studio": "Cosmopolitan Productions",
       "directors": "Frank Borzage",
       "genres": [
-        "Melodrama",
-        "Society"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "Back Pay",
@@ -174,8 +168,7 @@
       "studio": "Cosmopolitan Productions",
       "directors": "Frank Borzage",
       "genres": [
-        "Melodrama",
-        "Society"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "The Good Provider",
@@ -239,8 +232,7 @@
       "studio": "First National",
       "directors": "Millard Webb",
       "genres": [
-        "Melodrama",
-        "with songs"
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "Give This Little Girl a Hand",
@@ -256,8 +248,7 @@
       "studio": "First National",
       "directors": null,
       "genres": [
-        "Melodrama",
-        "Society"
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "Back Pay",
@@ -273,8 +264,7 @@
       "studio": "United Artists",
       "directors": "Herbert Brenon",
       "genres": [
-        "Melodrama",
-        "Society"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "Lummox",
@@ -322,9 +312,7 @@
       "studio": "RKO",
       "directors": "Gregory La Cava",
       "genres": [
-        "Drama",
-        "Domestic",
-        "Medical"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Night Bell",
@@ -356,8 +344,7 @@
       "studio": "Warner Bros",
       "directors": "Michael Curtiz",
       "genres": [
-        "Romance",
-        "Domestic"
+        "Romance"
       ],
       "has_media": true,
       "work_title": "Sister Act",
@@ -405,8 +392,7 @@
       "studio": "Warner Bros",
       "directors": "William Keighley",
       "genres": [
-        "Drama",
-        "Domestic"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Sister Act",
@@ -422,8 +408,7 @@
       "studio": "Warner Bros",
       "directors": "Jean Negulesco",
       "genres": [
-        "Melodrama",
-        "with songs"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "Humoresque",
@@ -454,9 +439,7 @@
       "directors": "Gordon Douglas",
       "genres": [
         "Musical",
-        "Romance",
-        "Domestic",
-        "Show business"
+        "Romance"
       ],
       "has_media": true,
       "work_title": "Sister Act",
@@ -472,8 +455,7 @@
       "studio": "Universal-International",
       "directors": "Douglas Sirk",
       "genres": [
-        "Melodrama",
-        "with songs"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "Imitation of Life",

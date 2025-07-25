@@ -19,14 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Cold War",
-        "count": 1
-      },
-      {
-        "genre": "Espionage",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "Columbia",
       "directors": "Robert Parrish",
       "genres": [
-        "Drama",
-        "Cold War",
-        "Espionage"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Trial by Terror",

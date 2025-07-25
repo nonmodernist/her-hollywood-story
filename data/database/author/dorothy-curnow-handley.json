@@ -19,14 +19,6 @@
       {
         "genre": "Comedy",
         "count": 1
-      },
-      {
-        "genre": "Homefront",
-        "count": 1
-      },
-      {
-        "genre": "with songs",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "Republic",
       "directors": "Joseph Santley",
       "genres": [
-        "Comedy",
-        "Homefront",
-        "with songs"
+        "Comedy"
       ],
       "has_media": false,
       "work_title": "Room for Two",

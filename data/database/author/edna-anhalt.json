@@ -19,10 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Disaster",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "20th Century Fox",
       "directors": "Elia Kazan",
       "genres": [
-        "Drama",
-        "Disaster"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Some Like 'Em Cold!",

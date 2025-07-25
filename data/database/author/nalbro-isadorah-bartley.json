@@ -21,15 +21,7 @@
         "count": 5
       },
       {
-        "genre": "Society",
-        "count": 1
-      },
-      {
         "genre": "Melodrama",
-        "count": 1
-      },
-      {
-        "genre": "Domestic",
         "count": 1
       },
       {
@@ -73,8 +65,7 @@
       "studio": "Universal",
       "directors": "Ida May Park",
       "genres": [
-        "Drama",
-        "Society"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "The Vanity Pool",
@@ -94,7 +85,7 @@
       ],
       "has_media": true,
       "work_title": "The Bramble Bush",
-      "work_html_title": "<span class=\"work-title short-story\">\"The Bramble Bush\"</span>",
+      "work_html_title": "<span class=\"work-title\">The Bramble Bush</span>",
       "work_id": 48
     },
     {
@@ -122,8 +113,7 @@
       "studio": "Albion",
       "directors": "Charles Giblyn",
       "genres": [
-        "Melodrama",
-        "Domestic"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "A Woman's Woman",
@@ -139,8 +129,7 @@
       "studio": "Dorothy Gish Productions",
       "directors": "F. Richard Jones",
       "genres": [
-        "Comedy",
-        "Rural"
+        "Comedy"
       ],
       "has_media": true,
       "work_title": "The Cynic Effect",
@@ -193,9 +182,9 @@
       "id": 48,
       "slug": "the-bramble-bush",
       "title": "The Bramble Bush",
-      "formatted_title": "\"The Bramble Bush\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Bramble Bush\"</span>",
-      "work_type": "short_story",
+      "formatted_title": "The Bramble Bush",
+      "html_title": "<span class=\"work-title\">The Bramble Bush</span>",
+      "work_type": "novella",
       "publication_year": 1914,
       "genre": null,
       "adaptation_count": 1,

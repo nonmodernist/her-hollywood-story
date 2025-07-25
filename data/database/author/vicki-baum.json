@@ -21,14 +21,6 @@
         "count": 3
       },
       {
-        "genre": "with songs",
-        "count": 3
-      },
-      {
-        "genre": "World War II",
-        "count": 1
-      },
-      {
         "genre": "Film noir",
         "count": 1
       },
@@ -72,8 +64,7 @@
       "studio": "Warner Bros",
       "directors": "Peter Godfrey",
       "genres": [
-        "Drama",
-        "World War II"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Hotel Berlin",
@@ -89,8 +80,7 @@
       "studio": "Republic",
       "directors": "Anthony Mann",
       "genres": [
-        "Film noir",
-        "with songs"
+        "Film noir"
       ],
       "has_media": true,
       "work_title": "Big Shot",
@@ -106,8 +96,7 @@
       "studio": "MGM",
       "directors": "Robert Z. Leonard",
       "genres": [
-        "Comedy-drama",
-        "with songs"
+        "Comedy-drama"
       ],
       "has_media": true,
       "work_title": "Grand Hotel",
@@ -123,8 +112,7 @@
       "studio": "RKO",
       "directors": "Nicholas Ray",
       "genres": [
-        "Drama",
-        "with songs"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Mortgage on Life",

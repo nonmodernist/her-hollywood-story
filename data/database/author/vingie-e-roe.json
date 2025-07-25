@@ -25,15 +25,11 @@
         "count": 2
       },
       {
-        "genre": "Northwest",
-        "count": 1
-      },
-      {
-        "genre": "Rural",
-        "count": 1
-      },
-      {
         "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Adventure",
         "count": 1
       }
     ],
@@ -57,8 +53,7 @@
       "studio": "New York Motion Picture Corp.",
       "directors": "William S. Hart",
       "genres": [
-        "Drama",
-        "Northwest"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "The Primal Lure: a Romance of Fort Lu Cerne",
@@ -90,8 +85,7 @@
       "studio": "De Luxe Pictures",
       "directors": "J. Searle Dawley",
       "genres": [
-        "Drama",
-        "Rural"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "The Alchemy of Love",
@@ -171,10 +165,7 @@
       "studio": "Republic",
       "directors": "R. G. Springsteen",
       "genres": [
-        "Adventure",
-        "Historical",
-        "Sea",
-        "with songs"
+        "Adventure"
       ],
       "has_media": false,
       "work_title": "The Golden Tide",

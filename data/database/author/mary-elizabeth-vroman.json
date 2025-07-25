@@ -19,10 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Youth",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "MGM",
       "directors": "Gerald Mayer",
       "genres": [
-        "Drama",
-        "Youth"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "See How They Run",

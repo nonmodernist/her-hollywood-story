@@ -19,14 +19,6 @@
       {
         "genre": "Drama",
         "count": 3
-      },
-      {
-        "genre": "Carnival/Circus",
-        "count": 1
-      },
-      {
-        "genre": "Society",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,8 +39,7 @@
       "studio": "Fox Film",
       "directors": "Scott Dunlap",
       "genres": [
-        "Drama",
-        "Carnival/Circus"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Her Elephant Man",
@@ -80,8 +71,7 @@
       "studio": "First National",
       "directors": "Arthur H. Sawyer|Webster Campbell|George Melford",
       "genres": [
-        "Drama",
-        "Society"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Sandra",

@@ -17,19 +17,11 @@
     "year_span": 2,
     "top_genres": [
       {
-        "genre": "Domestic",
-        "count": 2
-      },
-      {
         "genre": "Comedy-drama",
         "count": 1
       },
       {
         "genre": "Comedy",
-        "count": 1
-      },
-      {
-        "genre": "with songs",
         "count": 1
       }
     ],
@@ -51,8 +43,7 @@
       "studio": "20th Century Fox",
       "directors": "Walter Lang",
       "genres": [
-        "Comedy-drama",
-        "Domestic"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "Cheaper by the Dozen",
@@ -68,9 +59,7 @@
       "studio": "20th Century Fox",
       "directors": "Henry Levin",
       "genres": [
-        "Comedy",
-        "Domestic",
-        "with songs"
+        "Comedy"
       ],
       "has_media": false,
       "work_title": "Belles on their Toes",

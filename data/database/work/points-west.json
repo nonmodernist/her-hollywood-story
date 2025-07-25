@@ -5,7 +5,7 @@
   "formatted_title": "Points West",
   "html_title": "<span class=\"work-title\">Points West</span>",
   "work_type": "novel",
-  "publication_year": 1928,
+  "publication_year": 1927,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": true,
-    "speed_demon_delay": 1,
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,12 +43,20 @@
         "Western"
       ],
       "has_media": false,
-      "years_after_publication": 1
+      "years_after_publication": 2
     }
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Popular Magazine",
+    "magazine_pub_date": "1927-04-07",
+    "magazine_issue_info": "Vol. LXXXIII No. 6, Volume LXXXIV Number 1-3",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k08/k08669.htm#A9",
+    "serialized": true,
+    "serial_parts": 4
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-17T14:42:54.28113"
+  "last_updated": "2025-07-24T20:42:50.665666"
 }

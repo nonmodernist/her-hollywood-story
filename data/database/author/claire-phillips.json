@@ -19,18 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Espionage",
-        "count": 1
-      },
-      {
-        "genre": "with songs",
-        "count": 1
-      },
-      {
-        "genre": "World War II",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -51,10 +39,7 @@
       "studio": "Allied Artists",
       "directors": "Lesley Selander",
       "genres": [
-        "Drama",
-        "Espionage",
-        "with songs",
-        "World War II"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Manila Espionage",

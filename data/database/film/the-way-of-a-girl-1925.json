@@ -8,8 +8,7 @@
   "runtime_minutes": null,
   "country_of_production": null,
   "genres": [
-    "Melodrama",
-    "Society"
+    "Melodrama"
   ],
   "studio": "Metro-Goldwyn Pictures",
   "production_companies": "Metro-Goldwyn Pictures Corp.",
@@ -24,9 +23,9 @@
     "id": 117,
     "slug": "summoned",
     "title": "Summoned",
-    "formatted_title": "\"Summoned\"",
-    "html_title": "<span class=\"work-title short-story\">\"Summoned\"</span>",
-    "work_type": "short_story",
+    "formatted_title": "Summoned",
+    "html_title": "<span class=\"work-title\">Summoned</span>",
+    "work_type": "novella",
     "publication_year": 1923,
     "genre": null,
     "plot_summary": null,
@@ -63,5 +62,5 @@
   "has_media": true,
   "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-07-24T00:17:36.19677"
+  "last_updated": "2025-07-25T00:24:56.219871"
 }

@@ -25,15 +25,7 @@
         "count": 1
       },
       {
-        "genre": "Social",
-        "count": 1
-      },
-      {
         "genre": "Comedy-drama",
-        "count": 1
-      },
-      {
-        "genre": "Domestic",
         "count": 1
       }
     ],
@@ -72,8 +64,7 @@
       "studio": "Famous Players-Lasky",
       "directors": "Chester Withey",
       "genres": [
-        "Comedy",
-        "Social"
+        "Comedy"
       ],
       "has_media": false,
       "work_title": "The Two Benjamins",
@@ -89,9 +80,7 @@
       "studio": "RKO",
       "directors": "Melville Brown",
       "genres": [
-        "Comedy-drama",
-        "Domestic",
-        "Show business"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "Fanny Foley Herself",

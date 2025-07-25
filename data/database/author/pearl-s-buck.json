@@ -21,14 +21,6 @@
         "count": 3
       },
       {
-        "genre": "War",
-        "count": 1
-      },
-      {
-        "genre": "Medical",
-        "count": 1
-      },
-      {
         "genre": "Comedy-drama",
         "count": 1
       },
@@ -73,8 +65,7 @@
       "studio": "MGM",
       "directors": "Jack Conway|Harold S. Bucquet",
       "genres": [
-        "Drama",
-        "War"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Dragon Seed",
@@ -90,8 +81,7 @@
       "studio": "RKO",
       "directors": "Ray Enright",
       "genres": [
-        "Drama",
-        "Medical"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "China Sky",
@@ -123,8 +113,7 @@
       "studio": "Stratton Productions/Toho Co.",
       "directors": "Tad Danielewski",
       "genres": [
-        "Melodrama",
-        "Island"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "The Big Wave",

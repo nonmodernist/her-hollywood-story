@@ -19,14 +19,6 @@
       {
         "genre": "Drama",
         "count": 2
-      },
-      {
-        "genre": "Detective",
-        "count": 2
-      },
-      {
-        "genre": "Teenage",
-        "count": 2
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "Warner Bros",
       "directors": "William Clemens",
       "genres": [
-        "Drama",
-        "Detective",
-        "Teenage"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Password to Larkspur Lane",
@@ -65,9 +55,7 @@
       "studio": "Warner Bros",
       "directors": "William Clemens",
       "genres": [
-        "Drama",
-        "Detective",
-        "Teenage"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "The Hidden Staircase",

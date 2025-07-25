@@ -19,10 +19,6 @@
       {
         "genre": "Drama",
         "count": 2
-      },
-      {
-        "genre": "Northwest",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -59,12 +55,11 @@
       "studio": "Metro Pictures",
       "directors": "Edwin Carew",
       "genres": [
-        "Drama",
-        "Northwest"
+        "Drama"
       ],
       "has_media": true,
-      "work_title": "Madelon of the Redwoods",
-      "work_html_title": "<span class=\"work-title\">Madelon of the Redwoods</span>",
+      "work_title": "Madelon",
+      "work_html_title": "<span class=\"work-title\">Madelon</span>",
       "work_id": 47
     }
   ],
@@ -83,10 +78,10 @@
     },
     {
       "id": 47,
-      "slug": "madelon-of-the-redwoods",
-      "title": "Madelon of the Redwoods",
-      "formatted_title": "Madelon of the Redwoods",
-      "html_title": "<span class=\"work-title\">Madelon of the Redwoods</span>",
+      "slug": "madelon",
+      "title": "Madelon",
+      "formatted_title": "Madelon",
+      "html_title": "<span class=\"work-title\">Madelon</span>",
       "work_type": "novel",
       "publication_year": 1896,
       "genre": null,

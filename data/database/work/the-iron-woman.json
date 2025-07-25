@@ -5,7 +5,7 @@
   "formatted_title": "The Iron Woman",
   "html_title": "<span class=\"work-title\">The Iron Woman</span>",
   "work_type": "novel",
-  "publication_year": 1911,
+  "publication_year": 1910,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 5,
+    "speed_demon_delay": 6,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,12 +43,20 @@
         "Drama"
       ],
       "has_media": false,
-      "years_after_publication": 5
+      "years_after_publication": 6
     }
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Harper’s Monthly Magazine",
+    "magazine_pub_date": "1910-11-01",
+    "magazine_issue_info": "v121 #726-737",
+    "digitized_url": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015056097283;view=1up;seq=11",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k05/k05526.htm#A5",
+    "serialized": true,
+    "serial_parts": 12
+  },
   "has_narrative": false,
-  "last_updated": "2025-06-17T03:48:03.914138"
+  "last_updated": "2025-07-24T18:39:03.559645"
 }

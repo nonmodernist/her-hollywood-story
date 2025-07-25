@@ -19,10 +19,6 @@
       {
         "genre": "Romance",
         "count": 1
-      },
-      {
-        "genre": "Domestic",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "RKO",
       "directors": "Robert Milton",
       "genres": [
-        "Romance",
-        "Domestic"
+        "Romance"
       ],
       "has_media": false,
       "work_title": "Westward Passage",

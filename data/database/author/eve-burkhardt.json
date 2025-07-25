@@ -21,15 +21,7 @@
         "count": 1
       },
       {
-        "genre": "with songs",
-        "count": 1
-      },
-      {
         "genre": "Drama",
-        "count": 1
-      },
-      {
-        "genre": "Gangster",
         "count": 1
       }
     ],
@@ -51,8 +43,7 @@
       "studio": "Republic",
       "directors": "Joseph Santley",
       "genres": [
-        "Comedy",
-        "with songs"
+        "Comedy"
       ],
       "has_media": false,
       "work_title": "Dancing Feet",
@@ -68,8 +59,7 @@
       "studio": "Imperial",
       "directors": "Clifford Sanforth",
       "genres": [
-        "Drama",
-        "Gangster"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "I Demand Payment",

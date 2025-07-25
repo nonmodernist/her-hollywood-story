@@ -17,19 +17,11 @@
     "year_span": 8,
     "top_genres": [
       {
-        "genre": "Crime",
-        "count": 2
-      },
-      {
         "genre": "Melodrama",
         "count": 2
       },
       {
         "genre": "Drama",
-        "count": 1
-      },
-      {
-        "genre": "Suspense",
         "count": 1
       }
     ],
@@ -52,8 +44,7 @@
       "studio": "Challenge Pictures",
       "directors": "Arnold Laven",
       "genres": [
-        "Drama",
-        "Crime"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Case File: FBI",
@@ -69,8 +60,7 @@
       "studio": "Republic",
       "directors": "William A. Seiter",
       "genres": [
-        "Melodrama",
-        "Suspense"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "Make Haste to Live",
@@ -86,8 +76,7 @@
       "studio": "Geoffrey-Kate Productions",
       "directors": "Blake Edwards",
       "genres": [
-        "Melodrama",
-        "Crime"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "Operation Terror",

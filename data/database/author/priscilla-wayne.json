@@ -19,10 +19,6 @@
       {
         "genre": "Drama",
         "count": 2
-      },
-      {
-        "genre": "Teenage",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -59,8 +55,7 @@
       "studio": "Freuler Film Associates",
       "directors": "Howard Higgin",
       "genres": [
-        "Drama",
-        "Teenage"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Marriage on Approval",

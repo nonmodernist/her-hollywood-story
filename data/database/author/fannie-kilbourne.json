@@ -27,14 +27,6 @@
       {
         "genre": "Comedy",
         "count": 1
-      },
-      {
-        "genre": "Crime",
-        "count": 1
-      },
-      {
-        "genre": "with songs",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -89,9 +81,7 @@
       "studio": "Paramount",
       "directors": "Norman Taurog",
       "genres": [
-        "Comedy",
-        "Crime",
-        "with songs"
+        "Comedy"
       ],
       "has_media": false,
       "work_title": "Sunny Goes Home",

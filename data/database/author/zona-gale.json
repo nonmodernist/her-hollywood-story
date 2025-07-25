@@ -23,14 +23,6 @@
       {
         "genre": "Melodrama",
         "count": 1
-      },
-      {
-        "genre": "Domestic",
-        "count": 1
-      },
-      {
-        "genre": "Crime",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -68,8 +60,7 @@
       "studio": "B. P. Schulberg Productions",
       "directors": "Louis Gasnier",
       "genres": [
-        "Drama",
-        "Domestic"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Faint Perfume",
@@ -85,12 +76,11 @@
       "studio": "Liberty Pictures",
       "directors": "Christy Cabanne",
       "genres": [
-        "Drama",
-        "Crime"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "The Way",
-      "work_html_title": "<span class=\"work-title\">The Way</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Way\"</span>",
       "work_id": 516
     }
   ],
@@ -123,10 +113,10 @@
       "id": 516,
       "slug": "the-way",
       "title": "The Way",
-      "formatted_title": "The Way",
-      "html_title": "<span class=\"work-title\">The Way</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"The Way\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Way\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1908,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false

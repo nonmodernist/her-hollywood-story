@@ -21,10 +21,6 @@
         "count": 2
       },
       {
-        "genre": "Crime",
-        "count": 2
-      },
-      {
         "genre": "Melodrama",
         "count": 2
       },
@@ -33,8 +29,8 @@
         "count": 2
       },
       {
-        "genre": "Domestic",
-        "count": 2
+        "genre": "Drama",
+        "count": 1
       }
     ],
     "films_by_decade": {
@@ -56,8 +52,7 @@
       "studio": "Bluebird Photoplays",
       "directors": "Allen Holubar",
       "genres": [
-        "Drama",
-        "Society"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Barter",
@@ -73,8 +68,7 @@
       "studio": "Bluebird Photoplays",
       "directors": "Tod Browning|Harry Pollard",
       "genres": [
-        "Comedy-drama",
-        "Crime"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "Nobody's Bride",
@@ -90,8 +84,7 @@
       "studio": "Universal",
       "directors": "Herbert Blaché",
       "genres": [
-        "Melodrama",
-        "Crime"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "Nobody's Bride",
@@ -123,8 +116,7 @@
       "studio": "Banner Productions",
       "directors": "Al Santell",
       "genres": [
-        "Melodrama",
-        "Domestic"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "Empty Hearts",
@@ -140,8 +132,7 @@
       "studio": "Fox Film",
       "directors": "Frank Borzage",
       "genres": [
-        "Comedy-drama",
-        "Domestic"
+        "Comedy-drama"
       ],
       "has_media": true,
       "work_title": "Splurge",

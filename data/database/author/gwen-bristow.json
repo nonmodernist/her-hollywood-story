@@ -27,10 +27,6 @@
       {
         "genre": "Western",
         "count": 1
-      },
-      {
-        "genre": "with songs",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -85,8 +81,7 @@
       "studio": "Republic",
       "directors": "Joseph Inman Kane",
       "genres": [
-        "Western",
-        "with songs"
+        "Western"
       ],
       "has_media": false,
       "work_title": "Jubilee Trail",

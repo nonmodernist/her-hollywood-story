@@ -2,9 +2,9 @@
   "id": 117,
   "slug": "summoned",
   "title": "Summoned",
-  "formatted_title": "\"Summoned\"",
-  "html_title": "<span class=\"work-title short-story\">\"Summoned\"</span>",
-  "work_type": "short_story",
+  "formatted_title": "Summoned",
+  "html_title": "<span class=\"work-title\">Summoned</span>",
+  "work_type": "novella",
   "publication_year": 1923,
   "genre": null,
   "plot_summary": null,
@@ -40,8 +40,7 @@
       "studio": "Metro-Goldwyn Pictures",
       "directors": "Robert G. Vignola",
       "genres": [
-        "Melodrama",
-        "Society"
+        "Melodrama"
       ],
       "has_media": true,
       "years_after_publication": 2
@@ -52,12 +51,12 @@
   "magazine_publication": {
     "magazine_title": "Ainslee's",
     "magazine_pub_date": "1923-02-01",
-    "magazine_issue_info": "Feb 1923",
+    "magazine_issue_info": "Vol. L No. 6",
     "digitized_url": null,
-    "FMI_link": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k00/k00273.htm#A6",
     "serialized": false,
     "serial_parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-21T18:17:32.022095"
+  "last_updated": "2025-07-24T20:32:14.992402"
 }

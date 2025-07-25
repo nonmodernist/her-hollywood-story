@@ -21,10 +21,6 @@
         "count": 3
       },
       {
-        "genre": "Domestic",
-        "count": 3
-      },
-      {
         "genre": "Melodrama",
         "count": 2
       },
@@ -33,7 +29,7 @@
         "count": 2
       },
       {
-        "genre": "Society",
+        "genre": "Comedy-drama",
         "count": 1
       }
     ],
@@ -105,8 +101,7 @@
       "studio": "Realart",
       "directors": "Penrhyn Stanlaws",
       "genres": [
-        "Drama",
-        "Domestic"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Sweetie Peach",
@@ -122,8 +117,7 @@
       "studio": "Cosmopolitan Productions",
       "directors": "Robert G. Vignola",
       "genres": [
-        "Melodrama",
-        "Society"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "Beauty's Worth",
@@ -139,8 +133,7 @@
       "studio": "Famous Players-Lasky",
       "directors": "Paul Bern",
       "genres": [
-        "Comedy-drama",
-        "Domestic"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "Worldly Goods",
@@ -186,8 +179,7 @@
       "studio": "Paramount",
       "directors": "Alfred Santell",
       "genres": [
-        "Comedy",
-        "Domestic"
+        "Comedy"
       ],
       "has_media": false,
       "work_title": "Kayo, Oke",

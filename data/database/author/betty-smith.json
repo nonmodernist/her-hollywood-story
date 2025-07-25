@@ -19,14 +19,6 @@
       {
         "genre": "Melodrama",
         "count": 1
-      },
-      {
-        "genre": "Domestic",
-        "count": 1
-      },
-      {
-        "genre": "with songs",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "20th Century Fox",
       "directors": "Elia Kazan",
       "genres": [
-        "Melodrama",
-        "Domestic",
-        "with songs"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "A Tree Grows in Brooklyn",

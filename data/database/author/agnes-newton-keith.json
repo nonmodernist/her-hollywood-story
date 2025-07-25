@@ -19,10 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "World War II",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "20th Century Fox",
       "directors": "Jean Negulesco",
       "genres": [
-        "Drama",
-        "World War II"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Three Came Home",

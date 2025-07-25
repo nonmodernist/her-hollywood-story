@@ -27,14 +27,6 @@
       {
         "genre": "Melodrama",
         "count": 2
-      },
-      {
-        "genre": "Aviation",
-        "count": 1
-      },
-      {
-        "genre": "Domestic",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -89,8 +81,7 @@
       "studio": "Columbia",
       "directors": "Thornton Freeland",
       "genres": [
-        "Drama",
-        "Aviation"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Love Affair",
@@ -138,8 +129,7 @@
       "studio": "Universal-International",
       "directors": "Douglas Sirk",
       "genres": [
-        "Melodrama",
-        "Domestic"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "There's Always Tomorrow",

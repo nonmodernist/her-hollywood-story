@@ -23,10 +23,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Historical",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -48,8 +44,7 @@
       "directors": "John Sturges",
       "genres": [
         "Biography",
-        "Drama",
-        "Historical"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Yankee from Olympus",

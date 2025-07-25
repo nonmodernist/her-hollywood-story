@@ -23,18 +23,6 @@
       {
         "genre": "Comedy-drama",
         "count": 1
-      },
-      {
-        "genre": "Religious",
-        "count": 1
-      },
-      {
-        "genre": "Rural",
-        "count": 1
-      },
-      {
-        "genre": "with songs",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -72,10 +60,7 @@
       "studio": "20th Century Fox",
       "directors": "Henry King",
       "genres": [
-        "Comedy-drama",
-        "Religious",
-        "Rural",
-        "with songs"
+        "Comedy-drama"
       ],
       "has_media": true,
       "work_title": "Circuit Rider's Wife",

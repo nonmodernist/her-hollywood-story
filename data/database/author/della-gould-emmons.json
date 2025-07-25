@@ -19,10 +19,6 @@
       {
         "genre": "Adventure",
         "count": 1
-      },
-      {
-        "genre": "Historical",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "Paramount",
       "directors": "Rudolph Maté",
       "genres": [
-        "Adventure",
-        "Historical"
+        "Adventure"
       ],
       "has_media": false,
       "work_title": "Sacajawea of the Shoshones",

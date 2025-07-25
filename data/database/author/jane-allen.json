@@ -19,10 +19,6 @@
       {
         "genre": "Romantic comedy",
         "count": 2
-      },
-      {
-        "genre": "Road",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -59,8 +55,7 @@
       "studio": "RKO",
       "directors": "Mervyn LeRoy",
       "genres": [
-        "Romantic comedy",
-        "Road"
+        "Romantic comedy"
       ],
       "has_media": false,
       "work_title": "Thanks God! I'll Take It From Here",

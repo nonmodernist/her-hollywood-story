@@ -19,10 +19,6 @@
       {
         "genre": "Drama",
         "count": 2
-      },
-      {
-        "genre": "Sea",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -60,8 +56,7 @@
       "studio": "Paramount",
       "directors": "Jerry Hopper",
       "genres": [
-        "Drama",
-        "Sea"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Spawn of the North",

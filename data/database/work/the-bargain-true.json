@@ -48,7 +48,15 @@
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Saturday Evening Post",
+    "magazine_pub_date": "1918-05-11",
+    "magazine_issue_info": "v190 #45-47",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1918-05-11_190_45",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09472.htm#A11",
+    "serialized": true,
+    "serial_parts": 3
+  },
   "has_narrative": false,
-  "last_updated": "2025-06-17T03:48:03.914138"
+  "last_updated": "2025-07-24T19:46:56.274049"
 }

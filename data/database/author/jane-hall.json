@@ -19,14 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "College",
-        "count": 1
-      },
-      {
-        "genre": "Society",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "MGM",
       "directors": "S. Sylvan Simon",
       "genres": [
-        "Drama",
-        "College",
-        "Society"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "These Glamour Girls",

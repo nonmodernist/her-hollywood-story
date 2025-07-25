@@ -23,10 +23,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Crime",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -63,8 +59,7 @@
       "studio": "Metro Pictures",
       "directors": "Henry Otto",
       "genres": [
-        "Drama",
-        "Crime"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "The Island of Intrigue",

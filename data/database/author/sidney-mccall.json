@@ -19,10 +19,6 @@
       {
         "genre": "Drama",
         "count": 4
-      },
-      {
-        "genre": "Social",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -44,8 +40,7 @@
       "studio": "Metro Pictures",
       "directors": "Frank Reicher",
       "genres": [
-        "Drama",
-        "Social"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Red Horse Hill",

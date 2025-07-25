@@ -19,14 +19,6 @@
       {
         "genre": "Romance",
         "count": 1
-      },
-      {
-        "genre": "Historical",
-        "count": 1
-      },
-      {
-        "genre": "Rural",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "Samuel Goldwyn Productions",
       "directors": "Irving Reis|Nicholas Ray",
       "genres": [
-        "Romance",
-        "Historical",
-        "Rural"
+        "Romance"
       ],
       "has_media": false,
       "work_title": "Roseanna McCoy",

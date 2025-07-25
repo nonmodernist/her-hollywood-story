@@ -25,16 +25,16 @@
         "count": 7
       },
       {
-        "genre": "Society",
-        "count": 5
-      },
-      {
-        "genre": "Domestic",
-        "count": 4
-      },
-      {
         "genre": "Romance",
         "count": 2
+      },
+      {
+        "genre": "Romantic comedy",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
       }
     ],
     "films_by_decade": {
@@ -73,8 +73,7 @@
       "studio": "B. B. Features",
       "directors": "Howard Hickman",
       "genres": [
-        "Drama",
-        "Society"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Josselyn's Wife",
@@ -122,8 +121,7 @@
       "studio": "Selznick Pictures",
       "directors": "William P. S. Earle",
       "genres": [
-        "Melodrama",
-        "Society"
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "Poor Dear Margaret Kirby",
@@ -139,8 +137,7 @@
       "studio": "International Film Service ",
       "directors": "Albert Capellani",
       "genres": [
-        "Drama",
-        "Domestic"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Sisters",
@@ -188,8 +185,7 @@
       "studio": "Thomas H. Ince Productions",
       "directors": "George Archainbaud",
       "genres": [
-        "Drama",
-        "Domestic"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Christine of the Hungry Heart",
@@ -205,8 +201,7 @@
       "studio": "Warner Bros",
       "directors": "Harry Beaumont",
       "genres": [
-        "Melodrama",
-        "Society"
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "Rose of the World",
@@ -222,8 +217,7 @@
       "studio": "Tiffany Productions",
       "directors": "Richard Thorpe",
       "genres": [
-        "Melodrama",
-        "Domestic"
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "Josselyn's Wife",
@@ -239,8 +233,7 @@
       "studio": "Robertson-Cole",
       "directors": "J. Leo Meehan",
       "genres": [
-        "Melodrama",
-        "Society"
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "Mother",
@@ -304,8 +297,7 @@
       "studio": "Fox Film",
       "directors": "Hamilton MacFadden",
       "genres": [
-        "Drama",
-        "Domestic"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Second Hand Wife",
@@ -321,8 +313,7 @@
       "studio": "Fox Film",
       "directors": "Kenneth MacKenna",
       "genres": [
-        "Melodrama",
-        "Society"
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "Walls of Gold",
@@ -355,9 +346,7 @@
       "studio": "20th Century Fox",
       "directors": "Allan Dwan",
       "genres": [
-        "Melodrama",
-        "Medical",
-        "Military"
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "Beauty's Daughter",

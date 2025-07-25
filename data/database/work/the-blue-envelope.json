@@ -48,7 +48,15 @@
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Woman's Home Companion",
+    "magazine_pub_date": "1916-03-01",
+    "magazine_issue_info": "v43 #3-8",
+    "digitized_url": "https://hdl.handle.net/2027/mdp.39015013734101?urlappend=%3Bseq=148",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k12/k12336.htm#A12",
+    "serialized": true,
+    "serial_parts": 6
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-16T14:32:15.609212"
+  "last_updated": "2025-07-24T20:57:29.420166"
 }

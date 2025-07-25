@@ -8,8 +8,7 @@
   "runtime_minutes": null,
   "country_of_production": "United States",
   "genres": [
-    "Drama",
-    "Northwest"
+    "Drama"
   ],
   "studio": "Metro Pictures",
   "production_companies": "Metro Pictures Corp.",
@@ -22,10 +21,10 @@
   "afi_catalog_id": 2011,
   "source_work": {
     "id": 47,
-    "slug": "madelon-of-the-redwoods",
-    "title": "Madelon of the Redwoods",
-    "formatted_title": "Madelon of the Redwoods",
-    "html_title": "<span class=\"work-title\">Madelon of the Redwoods</span>",
+    "slug": "madelon",
+    "title": "Madelon",
+    "formatted_title": "Madelon",
+    "html_title": "<span class=\"work-title\">Madelon</span>",
     "work_type": "novel",
     "publication_year": 1896,
     "genre": null,
@@ -76,5 +75,5 @@
   "has_media": true,
   "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-23T17:51:25.248854"
+  "last_updated": "2025-07-25T00:24:56.219871"
 }

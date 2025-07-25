@@ -19,14 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Historical",
-        "count": 1
-      },
-      {
-        "genre": "Social",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "The Nazimova Productions",
       "directors": "Albert Capellani",
       "genres": [
-        "Drama",
-        "Historical",
-        "Social"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "The Red Lantern: Being the Story of the Goddess of the Red Lantern Light",

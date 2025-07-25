@@ -19,18 +19,6 @@
       {
         "genre": "Drama",
         "count": 2
-      },
-      {
-        "genre": "Historical",
-        "count": 1
-      },
-      {
-        "genre": "Suspense",
-        "count": 1
-      },
-      {
-        "genre": "Social",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -52,9 +40,7 @@
       "studio": "20th Century Fox",
       "directors": "Joseph L. Mankiewicz",
       "genres": [
-        "Drama",
-        "Historical",
-        "Suspense"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Dragonwyck",
@@ -70,8 +56,7 @@
       "studio": "Universal-International",
       "directors": "Joseph Pevney",
       "genres": [
-        "Drama",
-        "Social"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Foxfire",

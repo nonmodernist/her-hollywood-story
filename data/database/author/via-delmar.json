@@ -25,16 +25,16 @@
         "count": 5
       },
       {
-        "genre": "Domestic",
-        "count": 4
-      },
-      {
-        "genre": "with songs",
-        "count": 3
-      },
-      {
         "genre": "Comedy-drama",
         "count": 2
+      },
+      {
+        "genre": "Romantic comedy",
+        "count": 1
+      },
+      {
+        "genre": "Musical comedy",
+        "count": 1
       }
     ],
     "films_by_decade": {
@@ -90,8 +90,7 @@
       "studio": "First National",
       "directors": "Mervyn LeRoy",
       "genres": [
-        "Melodrama",
-        "Society"
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "Sheba",
@@ -107,8 +106,7 @@
       "studio": "Fox Film",
       "directors": "Frank Borzage",
       "genres": [
-        "Drama",
-        "Domestic"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Bad Girl",
@@ -172,8 +170,7 @@
       "studio": "MGM",
       "directors": "Clarence Brown",
       "genres": [
-        "Melodrama",
-        "with songs"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "Pretty Sadie McKee",
@@ -205,8 +202,7 @@
       "studio": "20th Century Fox",
       "directors": "John Blystone",
       "genres": [
-        "Comedy-drama",
-        "Domestic"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "Bad Boy",
@@ -222,8 +218,7 @@
       "studio": "20th Century Fox",
       "directors": "Sidney Lanfield",
       "genres": [
-        "Musical comedy",
-        "Show business"
+        "Musical comedy"
       ],
       "has_media": true,
       "work_title": "Dance Hall",
@@ -239,8 +234,7 @@
       "studio": "20th Century Fox",
       "directors": "David Burton",
       "genres": [
-        "Drama",
-        "Domestic"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Bad Girl",
@@ -256,8 +250,7 @@
       "studio": "Paramount",
       "directors": "William A. Wellman",
       "genres": [
-        "Romance",
-        "Historical"
+        "Romance"
       ],
       "has_media": false,
       "work_title": "The Human Side",
@@ -273,10 +266,7 @@
       "studio": "MGM",
       "directors": "Robert Z. Leonard",
       "genres": [
-        "Comedy-drama",
-        "Domestic",
-        "Teenage",
-        "with songs"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "The Rich Full Life",
@@ -292,8 +282,7 @@
       "studio": "Paramount",
       "directors": "Daniel Mann",
       "genres": [
-        "Melodrama",
-        "with songs"
+        "Melodrama"
       ],
       "has_media": false,
       "work_title": "About Mrs. Leslie",

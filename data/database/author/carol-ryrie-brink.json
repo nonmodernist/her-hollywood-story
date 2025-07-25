@@ -19,14 +19,6 @@
       {
         "genre": "Drama",
         "count": 1
-      },
-      {
-        "genre": "Domestic",
-        "count": 1
-      },
-      {
-        "genre": "Historical",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -47,9 +39,7 @@
       "studio": "Universal-International",
       "directors": "Douglas Sirk",
       "genres": [
-        "Drama",
-        "Domestic",
-        "Historical"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "Stopover",

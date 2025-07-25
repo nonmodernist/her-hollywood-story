@@ -19,18 +19,6 @@
       {
         "genre": "Drama",
         "count": 2
-      },
-      {
-        "genre": "Historical",
-        "count": 1
-      },
-      {
-        "genre": "Sea",
-        "count": 1
-      },
-      {
-        "genre": "Suspense",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -51,9 +39,7 @@
       "studio": "Paramount",
       "directors": "Cecil B. DeMille",
       "genres": [
-        "Drama",
-        "Historical",
-        "Sea"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "Reap the Wild Wind",
@@ -69,8 +55,7 @@
       "studio": "MGM",
       "directors": "Vincente Minnelli",
       "genres": [
-        "Drama",
-        "Suspense"
+        "Drama"
       ],
       "has_media": false,
       "work_title": "You Were There",

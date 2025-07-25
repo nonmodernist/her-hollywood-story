@@ -19,10 +19,6 @@
       {
         "genre": "Comedy-drama",
         "count": 1
-      },
-      {
-        "genre": "Domestic",
-        "count": 1
       }
     ],
     "films_by_decade": {
@@ -43,8 +39,7 @@
       "studio": "Fox Film",
       "directors": "David Butler",
       "genres": [
-        "Comedy-drama",
-        "Domestic"
+        "Comedy-drama"
       ],
       "has_media": false,
       "work_title": "The Department Store",

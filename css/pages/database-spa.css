@@ -152,7 +152,7 @@
 }
 
 .work-title {
-    font-size: 1.75rem;
+    /* font-size: 1.75rem; */
     margin-bottom: 0.5rem;
 }
 
@@ -537,8 +537,8 @@
 
 .external-link a {
     font-family: 'Source Sans 3', sans-serif;
-    font-size: 0.95rem;
-    text-transform: uppercase;
+    font-size: 1rem;
+    text-transform: none;
     letter-spacing: 0.05em;
 }
 
@@ -566,4 +566,36 @@
     text-align: center;
     padding-top: 1rem;
     border-top: 1px solid var(--border-light);
+}
+
+/* Archive links styling */
+.archive-links {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border-light);
+}
+
+.archive-link {
+    margin: 0.75rem 0;
+}
+
+.archive-link a {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 1.05rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: normal;
+}
+
+.archive-link a::before {
+    content: "📖 ";
+    margin-right: 0.25rem;
+    filter: grayscale(100%);
+}
+
+/* Different icon for external database */
+.external-link a::before {
+    content: "🔗 ";
+    margin-right: 0.25rem;
+    filter: grayscale(100%);
 }

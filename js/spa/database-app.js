@@ -556,10 +556,28 @@ function renderWorkDetail(work) {
                         
                         ${work.magazine_publication.serialized && work.magazine_publication.serial_parts ? 
                             `<p class="serialization-note">Serialized in ${work.magazine_publication.serial_parts} parts</p>` : ''}
-                        
-                        ${work.magazine_publication.FMI_link ? 
-                            `<p class="external-link"><a href="${work.magazine_publication.FMI_link}" target="_blank" rel="noopener">View in FictionMags Index →</a></p>` : ''}
-                    </section>
+            <!-- Archive Links Section -->
+        <div class="archive-links">
+            ${work.magazine_publication.digitized_url ? `
+                <p class="archive-link">
+                    <a href="${work.magazine_publication.digitized_url}" 
+                       target="_blank" 
+                       rel="noopener">
+                        Read the full magazine issue →
+                    </a>
+                </p>
+            ` : ''}
+            
+            ${work.magazine_publication.FMI_link ? `
+                <p class="external-link">
+                    <a href="${work.magazine_publication.FMI_link}" 
+                       target="_blank" 
+                       rel="noopener">
+                        View in FictionMags Index →
+                    </a>
+                </p>
+            ` : ''}
+        </div></section>
                 ` : ''}
                 
                 <!-- Photoplay Edition Section (simplified for now) -->
@@ -810,10 +828,9 @@ function addAuthorFilters() {
     ]);
     
     // Nationality filter
-    // TODO needs fix to match updated field
     const nationalityFilter = createFilter('nationality', 'Nationality', [
-        { value: '', label: 'All Countries' },
-        { value: 'United States', label: 'United States' },
+        { value: '', label: 'All Nationalities' },
+        { value: 'American', label: 'American' },
         { value: 'Other', label: 'Other' }
     ]);
     
@@ -1097,7 +1114,7 @@ function filterAuthor(author, filters) {
     
     // Nationality filter
     if (filters.nationality) {
-        if (filters.nationality === 'Other' && author.nationality === 'United States') return false;
+        if (filters.nationality === 'Other' && author.nationality === 'American') return false;
         if (filters.nationality !== 'Other' && author.nationality !== filters.nationality) return false;
     }
     
@@ -1276,7 +1293,7 @@ function createAuthorListItem(author) {
         <div class="author-info">
             <div class="author-name">
                 <a href="${getDatabaseURL('/author/' + author.slug)}">${author.name}</a>
-                ${author.isTwentyTimer ? '<span class="pattern-badge twenty-timer">Twenty-Timer</span>' : ''}
+                ${author.isTwentyTimer ? '<span class="pattern-badge twenty-timer">20 Timer</span>' : ''}
             </div>
             <div class="author-lifespan">${lifespan}</div>
         </div>
@@ -1311,7 +1328,8 @@ function createWorkListItem(work) {
     return div;
 }
 
-// Create grid items (implement later)
+// Create grid items 
+// TODO (implement later)
 function createGridItem(item, type) {
     // For now, just use list items
     return createListItem(item, type);

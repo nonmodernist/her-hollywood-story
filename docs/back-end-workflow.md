@@ -6,16 +6,17 @@ This project maintains a database of American women writers whose works were ada
 ## Directory Structure
 ```
 adapted-from-women/
-├── database-scripts/
+├── back-end-scripts/
 │   ├── 01_enrichment/          # All enrichment scripts
 │   │   ├── authors/
 │   │   │   └── wikidata_authors.py
 │   │   ├── films/
-│   │   │   ├── afi_catalog.py
+│   │   │   ├── new_afi_catalog.py
 │   │   │   ├── wikidata_films.py
 │   │   │   └── lost_films.py
 │   │   └── media/
-│   │       └── wikimedia_film_images.py
+│   │       ├── wikimedia_author_search_twenty_timers.py
+│   │       └── wikimedia_commons_search_fixed.py
 │   │
 │   ├── 02_upload/              # Scripts that upload to Supabase
 │   │   └── upload_zotero.py
@@ -51,53 +52,45 @@ adapted-from-women/
 ## Phase 2: Data Enrichment (Automated Scripts)
 
 ### A. Author Enrichment
-**Script:** `database-scripts/01_enrichment/authors/wikidata_authors.py`
+**Script:** `back-end-scripts/01_enrichment/authors/wikidata_authors.py`
 - **Input:** Reads from `authors` table
 - **Output:** Updates Supabase directly
 - **Adds:** birth/death years, nationality, literary movement, biographical notes, wikidata_id
 - **When to run:** After adding new authors
 
-### B. Source Work Enrichment - DEPRECATED
-**Script:** `database-scripts/01_enrichment/source_works/google_books.py`
-- **Input:** Reads from `source_works` table
-- **Output:** CSV to `back-end-data/temp/google_books_enrichment.csv`
-- **Adds:** verified publication year, ~~genre, plot summary~~
-- **Next step:** Run `database-scripts/02_upload/upload_google_books.py`
-- **When to run:** After adding new source works
+### B. Film Enrichment
 
-### C. Film Enrichment
-
-#### C1. AFI Catalog
-**Script:** `database-scripts/01_enrichment/films/afi_catalog.py`
+#### B1. AFI Catalog
+**Script:** `back-end-scripts/01_enrichment/films/new_afi_catalog.py`
 - **Input:** Reads from `films` table or from exported table of selected films
-- **Output:** CSV to `back-end-data/temp/afi_enrichment.csv`
+- **Output:** Updates Supabase directly
 - **Adds:** AFI catalog ID, directors, writers, cast, production companies
-- **Next step:** Run `database-scripts/02_upload/upload_afi_data.py`
 
-#### C2. Wikidata Films
-**Script:** `scripts/01_enrichment/films/wikidata_films.py`
+#### B2. Wikidata Films
+**Script:** `back-end-scripts/01_enrichment/films/wikidata_films.py`
 - **Input:** Reads from `films` table
-- **Output:** CSV to `data/temp/wikidata_films_enrichment.csv`
+- **Output:** Updates Supabase directly
 - **Adds:** Runtime, country of production, color_info
-- **Next step:** Run `scripts/02_upload/upload_wikidata_films.py`
 
-#### C3. Lost Films Check
-**Script:** `scripts/01_enrichment/films/lost_films.py`
+#### B3. Lost Films Check
+**Script:** `back-end-scripts/01_enrichment/films/lost_films.py`
 - **Input:** Reads from `films` table + `back-end-data/reference/lost_films_list.pdf`
 - **Output:** Updates Supabase directly
 - **Adds:** availability
 - **When to run:** After major film additions
 
-### D. Media Collection
-**Script:** `scripts/01_enrichment/media/wikimedia_images.py`
+### C. Media Collection
+**Scripts:** 
+- `back-end-scripts/01_enrichment/media/wikimedia_commons_search_fixed.py`
+- `back-end-scripts/01_enrichment/media/wikimedia_author_search_twenty_timers.py`
 - **Input:** Reads from `films` table
 - **Output:** Updates Supabase `film_media` table directly
 - **Adds:** Posters, stills, promotional materials from Wikimedia
 - **When to run:** After adding new films or periodically for all films
 - **Next step:** Manually check `film_media` table for false positives and high quality images to feature
 
-### E. Citation Import
-**Script:** `scripts/03_citations/import_zotero.py`
+### D. Citation Import
+**Script:** `back-end-scripts/02_upload/upload_zotero.py`
 - **Input:** JSON export from Zotero
 - **Output:** Updates Supabase `citations` table
 - **Process:** Export from Zotero as JSON → Run script
@@ -105,14 +98,14 @@ adapted-from-women/
 
 ## Phase 3: Publishing to Website
 
-**Script:** `scripts/04_export/export_for_website.py`
+**Script:** `back-end-scripts/03_export/export_for_website.py`
 - **Function:** Exports all required tables from Supabase as CSVs
 - **Output:** 
-  - `data/exports/authors_rows.csv`
-  - `data/exports/source_works_rows.csv`
-  - `data/exports/films_rows.csv`
-  - `data/exports/film_media.csv`
-- **Next step:** Copy files to website's `data/` directory and push to GitHub
+  - `back-end-data/exports/authors_rows.csv`
+  - `back-end-data/exports/source_works_rows.csv`
+  - `back-end-data/exports/films_rows.csv`
+  - `back-end-data/exports/film_media.csv`
+- **Next step:** Copy files to website's `back-end-data/` directory and push to GitHub
 
 ## Recommended Batch Processing Workflow
 
@@ -125,31 +118,25 @@ adapted-from-women/
 2. **Run Enrichment Suite** (in order):
    ```bash
    # Authors
-   python3 scripts/01_enrichment/authors/wikidata_authors.py
-   
-   # Source Works
-   python3 scripts/01_enrichment/source_works/google_books.py
-   python3 scripts/02_upload/upload_google_books.py
+   python3 back-end-scripts/01_enrichment/authors/wikidata_authors.py
    
    # Films
-   python3 scripts/01_enrichment/films/wikidata_films.py
-   python3 scripts/02_upload/upload_wikidata_films.py
-   
-   python3 scripts/01_enrichment/films/afi_catalog.py
-   python3 scripts/02_upload/upload_afi_data.py
+   python3 back-end-scripts/01_enrichment/films/wikidata_films.py
+   python3 back-end-scripts/01_enrichment/films/new_afi_catalog.py
    
    # Media
-   python3 scripts/01_enrichment/media/wikimedia_images.py
+   python3 back-end-scripts/01_enrichment/media/wikimedia_commons_search_fixed.py
+   python3 back-end-scripts/01_enrichment/media/wikimedia_author_search_twenty_timers.py
    ```
 
 3. **Check Lost Films** (optional)
    ```bash
-   python3 scripts/01_enrichment/films/lost_films.py
+   python3 back-end-scripts/01_enrichment/films/lost_films.py
    ```
 
 4. **Export and Publish**
    ```bash
-   python3 scripts/04_export/export_for_website.py
+   python3 back-end-scripts/03_export/export_for_website.py
    # Then manually copy CSVs to website and push to GitHub
    ```
 
@@ -177,16 +164,15 @@ adapted-from-women/
 
 ## Quick Reference Card
 
-| Task                    | Script                     | Output                         |
-| ----------------------- | -------------------------- | ------------------------------ |
-| Enrich authors          | `wikidata_authors.py`      | Direct to Supabase             |
-| Enrich source works     | `google_books.py`          | CSV → needs upload script      |
-| Enrich films (Wikidata) | `wikidata_films.py`        | CSV → needs upload script      |
-| Enrich films (AFI)      | `afi_catalog.py`           | CSV → needs upload to Supabase |
-| Check lost films        | `lost_films.py`            | Direct to Supabase             |
-| Collect media           | `wikimedia_film_images.py` | Direct to Supabase             |
-| Import citations        | `upload_zotero.py`         | Direct to Supabase             |
-| Export for website      | `export_for_website.py`    | 4 CSV files                    |
+| Task                    | Script                                                                          | Output             |
+| ----------------------- | ------------------------------------------------------------------------------- | ------------------ |
+| Enrich authors          | `wikidata_authors.py`                                                           | Direct to Supabase |
+| Enrich films (Wikidata) | `wikidata_films.py`                                                             | Direct to Supabase |
+| Enrich films (AFI)      | `new_afi_catalog.py`                                                            | Direct to Supabase |
+| Check lost films        | `lost_films.py`                                                                 | Direct to Supabase |
+| Collect media           | `wikimedia_commons_search_fixed.py`, `wikimedia_author_search_twenty_timers.py` | Direct to Supabase |
+| Import citations        | `upload_zotero.py`                                                              | Direct to Supabase |
+| Export for website      | `export_for_website.py`                                                         | 4 CSV files        |
 
 ## Automation Opportunities
 
@@ -200,7 +186,7 @@ Consider creating a master script `run_full_enrichment.py` that:
 
 Before running any enrichment:
 1. Export current data using Supabase's backup feature
-2. Keep versioned backups in `data/backups/YYYY-MM-DD/`
+2. Keep versioned backups in `back-end-data/backups/YYYY-MM-DD/`
 3. Test scripts on a small subset first
 
 ## Troubleshooting
@@ -209,4 +195,4 @@ Common issues and solutions:
 - **API rate limits**: Add delays between requests in enrichment scripts
 - **Duplicate entries**: Check for existing data before inserting
 - **Missing dependencies**: Maintain a `requirements.txt` file
-- **Field mapping errors**: Document all field mappings in `docs/field_mappings.md`
+- **Field mapping errors**: Document all field mappings in `docs/data-structure.md`

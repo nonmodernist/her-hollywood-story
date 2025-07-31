@@ -755,30 +755,34 @@
       "studioConcentration": [
         {
           "studio": "Warner Bros",
-          "count": 16
+          "count": 17
         },
         {
           "studio": "Universal",
-          "count": 9
+          "count": 11
         },
         {
           "studio": "Famous Players-Lasky",
-          "count": 8
+          "count": 10
         },
         {
           "studio": "Paramount",
-          "count": 8
-        },
-        {
-          "studio": "Cosmopolitan Productions",
-          "count": 5
-        },
-        {
-          "studio": "First National",
-          "count": 5
+          "count": 9
         },
         {
           "studio": "MGM",
+          "count": 7
+        },
+        {
+          "studio": "First National",
+          "count": 6
+        },
+        {
+          "studio": "RKO",
+          "count": 6
+        },
+        {
+          "studio": "Cosmopolitan Productions",
           "count": 5
         },
         {
@@ -788,16 +792,12 @@
         {
           "studio": "Monogram",
           "count": 4
-        },
-        {
-          "studio": "Famous Players",
-          "count": 3
         }
       ]
     }
   },
   "metadata": {
-    "generated": "2025-07-31T17:14:57.681Z",
+    "generated": "2025-07-31T17:25:38.250Z",
     "version": "2.0"
   }
 }

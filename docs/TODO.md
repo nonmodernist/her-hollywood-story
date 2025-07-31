@@ -21,7 +21,7 @@
 - [ ] Completely rewrite Hot Off the Press with real example films from the data
   - [ ] Create case study timelines with actual films for Hot Off the Press - pick a few
   - [x] Add real genre data to enable genre breakdown chart
-- [ ] Write content for "Authors Take Control" pattern page using research notes
+- [ ] Write content for the authors' studios pattern page using research notes
 - [ ] Write content for "Himbos" pattern page
 
 **Technical Fixes**

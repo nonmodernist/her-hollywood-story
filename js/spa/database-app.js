@@ -448,8 +448,19 @@ function renderFilmDetail(film) {
                 ${film.media?.length ? `
                     <section class="detail-section">
                         <h3>Media Gallery</h3>
-                        <div class="media-count">${film.media.length} images available</div>
-                        <!-- Media gallery would go here -->
+                        <div class="media-gallery">
+                            ${film.media.map(media => `
+                                <div class="media-item">
+                                    <a href="${media.url}" target="_blank" rel="noopener">
+                                        <img src="${media.thumbnail_url}" alt="${media.caption || media.title}" loading="lazy">
+                                    </a>
+                                    <div class="media-caption">
+                                        ${media.caption ? `<p>${media.caption}</p>` : ''}
+                                        <small>Source: ${media.source} ${media.attribution ? `• ${media.attribution}` : ''}</small>
+                                    </div>
+                                </div>
+                            `).join('')}
+                        </div>
                     </section>
                 ` : ''}
             </div>

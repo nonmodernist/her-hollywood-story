@@ -2,9 +2,9 @@
   "id": 316,
   "slug": "roaming-lady",
   "title": "Roaming Lady",
-  "formatted_title": "Roaming Lady",
-  "html_title": "<span class=\"work-title\">Roaming Lady</span>",
-  "work_type": "novel",
+  "formatted_title": "\"Roaming Lady\"",
+  "html_title": "<span class=\"work-title short-story\">\"Roaming Lady\"</span>",
+  "work_type": "short_story",
   "publication_year": 1933,
   "genre": null,
   "plot_summary": null,
@@ -48,7 +48,15 @@
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Liberty",
+    "magazine_pub_date": "1933-08-12",
+    "magazine_issue_info": "v10 #32",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k06/k06249.htm#A1",
+    "serialized": false,
+    "serial_parts": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-06-20T23:50:48.903727"
+  "last_updated": "2025-07-30T22:03:26.719769"
 }

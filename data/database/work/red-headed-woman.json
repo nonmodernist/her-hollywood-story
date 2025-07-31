@@ -48,7 +48,15 @@
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": true,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Saturday Evening Post",
+    "magazine_pub_date": "1931-08-22",
+    "magazine_issue_info": "v204 #8-14",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1931-08-22_204_8",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09571.htm#A5",
+    "serialized": true,
+    "serial_parts": 7
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-02T16:53:37.414679"
+  "last_updated": "2025-07-30T18:36:34.93735"
 }

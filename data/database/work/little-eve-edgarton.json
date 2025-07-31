@@ -48,7 +48,15 @@
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Everybody's Magazine",
+    "magazine_pub_date": "1914-01-01",
+    "magazine_issue_info": "Vol. XXX No. 1-4",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k04/k04474.htm#A16",
+    "serialized": true,
+    "serial_parts": 4
+  },
   "has_narrative": false,
-  "last_updated": "2025-06-20T23:28:25.613804"
+  "last_updated": "2025-07-30T21:36:12.974113"
 }

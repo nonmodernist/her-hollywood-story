@@ -5,7 +5,7 @@
   "formatted_title": "Stella Dallas",
   "html_title": "<span class=\"work-title\">Stella Dallas</span>",
   "work_type": "novel",
-  "publication_year": 1923,
+  "publication_year": 1922,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 2,
+    "speed_demon_delay": 3,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,7 +43,7 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 2
+      "years_after_publication": 3
     },
     {
       "id": 241,
@@ -57,7 +57,7 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 14
+      "years_after_publication": 15
     }
   ],
   "adaptation_gaps": [
@@ -68,7 +68,15 @@
     }
   ],
   "has_photoplay_edition": true,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The American Magazine",
+    "magazine_pub_date": "1922-10-01",
+    "magazine_issue_info": "v94 #4-6, v95 #1-5",
+    "digitized_url": "https://hdl.handle.net/2027/mdp.39015056074191",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k00/k00744.htm#A13",
+    "serialized": true,
+    "serial_parts": 8
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-21T17:39:30.350666"
+  "last_updated": "2025-07-25T03:46:21.726804"
 }

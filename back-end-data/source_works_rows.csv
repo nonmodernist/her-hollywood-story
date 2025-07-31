@@ -1,7 +1,7 @@
 id,title,author_id,publication_year,genre,plot_summary,literary_significance,created_at,updated_at,attribution_notes,has_photoplay_edition,photoplay_edition_count,work_type,magazine_title,magazine_pub_date,magazine_issue_info,serialized,serial_parts,digitized_url,FMI_link
 268,About Mrs. Leslie,53,1950,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 228,Above Suspicion,79,1941,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
-304,A Bride for Henry,116,1937,,,,2025-06-18T15:14:46.134706,2025-07-21T18:17:32.022095,,,0,short_story,Liberty,1937-01-30,,False,,,
+304,A Bride for Henry,116,1937,,,,2025-06-18T15:14:46.134706,2025-07-30T21:53:33.084205,,,0,short_story,Liberty,1937-01-30,v14 #5,False,,,http://www.philsp.com/homeville/fmi/k06/k06264.htm#A12
 501,A Cafe in Cairo,223,1923,,,,2025-07-02T23:58:53.454687,2025-07-23T01:40:05.308614,,,0,short_story,Ainslee's Magazine,1923-10-01,"v52 #2-6, v53 #1-2",True,7,,http://www.philsp.com/homeville/fmi/k00/k00274.htm#A3
 924,A Call from Mitch Miller,469,1956,,,,2025-07-16T17:55:31.627145,2025-07-21T18:31:06.97129,,,0,short_story,Good Housekeeping,1956-06-01,Jun 1956,False,,,
 187,A Chance at Heaven,53,1932,,,,2025-06-17T03:48:03.914138,2025-07-23T03:15:42.728625,,,0,novel,Liberty,1932-04-09,v9 #15-20,True,6,,http://www.philsp.com/homeville/fmi/k06/k06233.htm#A12
@@ -16,12 +16,12 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 785,A Gentle Ill Wind,395,1916,,,,2025-07-09T23:47:26.796172,2025-07-21T18:29:04.58208,,,0,short_story,All-Story Magazine,1916-12-02,,False,,,
 926,A Girl Named Mary,467,1918,,,,2025-07-16T17:57:25.889955,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 99,A Girl of the Limberlost,12,1909,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,True,0,novel,,,,False,,,
-219,A Girl's Best Friend is Wall Street,73,1938,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,Hearst's International-Cosmopolitan,1938-12-01,Dec 1938,False,,,
+219,A Girl's Best Friend is Wall Street,73,1938,,,,2025-06-17T03:48:03.914138,2025-07-30T18:51:02.59998,,,0,short_story,Hearst's International-Cosmopolitan,1938-12-01,Vol. 105 No. 6,False,,https://archive.org/details/sim_cosmopolitan_1938-12_105_6,http://www.philsp.com/homeville/fmi/k03/k03439.htm#A7
 4,A Lady of Quality,3,1896,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,True,0,novel,,,,False,,,
 639,A Lion is in the Streets,307,1945,,,,2025-07-08T02:19:59.704451,2025-07-09T14:15:14.166278,,,0,novel,,,,False,,,
 778,All Kneeling,391,1928,,,,2025-07-09T23:43:08.654862,2025-07-16T14:13:29.041998,,,0,novel,,,,False,,,
 495,All This and Heaven Too,220,1938,,,,2025-07-02T23:53:30.584525,2025-07-21T13:29:07.775716,,,0,novel,,,,False,,,
-104,A Lost Lady,42,1923,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,True,0,novel,,,,False,,,
+104,A Lost Lady,42,1923,,,,2025-06-17T03:48:03.914138,2025-07-25T03:31:01.690331,,True,1,novella,The Century Magazine,1923-04-01,"v105 #6, v106 #1-2",True,3,,http://www.philsp.com/homeville/fmi/k02/k02760.htm#A4
 693,A Man Called Peter: The Story of Peter Marshall,347,1951,,,,2025-07-09T00:49:49.040263,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 467,A Man Without Friends,207,1940,,,,2025-06-24T13:53:51.524793,2025-07-09T16:39:33.978161,,,0,novel,,,,False,,,
 683,Amarilly of Clothes-Line Alley,342,1915,,,,2025-07-09T00:37:53.368179,2025-07-21T13:29:36.531376,,,0,novel,,,,False,,,
@@ -33,7 +33,7 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 496,And Now Tomorrow,220,1942,,,,2025-07-02T23:53:30.584525,2025-07-09T14:15:14.646895,,,0,novel,,,,False,,,
 719,And One was Beautiful,24,1937,,,,2025-07-09T01:05:36.086255,2025-07-22T14:17:22.05623,,,0,novella,Saturday Evening Post,1937-10-02,v210 #14-19,True,6,https://archive.org/details/sim_saturday-evening-post_1937-10-02_210_14,http://www.philsp.com/homeville/fmi/k09/k09581.htm#A8
 769,And They Shall Walk,383,1943,,,,2025-07-09T15:14:34.94381,2025-07-21T17:39:30.350666,co-writer Elizabeth Kenny,,0,novel,,,,False,,,
-209,Angle Shooter,43,1937,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,Hearst's International-Cosmopolitan,1937-03-01,Mar 1937,False,,,
+209,Angle Shooter,43,1937,,,,2025-06-17T03:48:03.914138,2025-07-25T03:34:23.729906,,,0,novella,Hearst's International-Cosmopolitan,1937-03-01,Vol. 102 No. 3,False,,https://archive.org/details/sim_cosmopolitan_1937-03_102_3,http://www.philsp.com/homeville/fmi/k03/k03434.htm#A12
 638,Anna and the King of Siam,306,1944,,,,2025-07-08T02:14:25.725659,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 247,An Old Fashioned Girl,28,1870,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 774,Anything Can Happen,387,1944,,,,2025-07-09T23:40:37.144926,2025-07-21T13:30:55.909097,,,0,novel,,,,False,,,
@@ -43,10 +43,10 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 416,A Question of Honor,180,1920,,,,2025-06-19T19:50:32.852914,2025-07-21T17:39:30.350666,,,0,short_story,People's Home Journal,,Apr-Jun 1920,False,,,
 114,Are Parents People?,24,1923,,,,2025-06-17T03:48:03.914138,2025-07-22T14:15:55.307357,,True,1,novella,Saturday Evening Post,1923-05-05,v195 #45-47,True,3,https://archive.org/details/sim_saturday-evening-post_1923-05-05_195_45/mode/2up,http://www.philsp.com/homeville/fmi/k09/k09497.htm#A6
 10,A Romance of Billy-Goat Hill,5,1912,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
-137,A Runaway Enchantress,51,1926,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,Liberty,1926-07-31,,False,,,
+137,A Runaway Enchantress,51,1926,,,,2025-06-17T03:48:03.914138,2025-07-25T04:09:49.049987,,,0,short_story,Liberty,1926-07-31,v3 #13,False,,,http://www.philsp.com/homeville/fmi/k06/k06210.htm#A4
 992,Ask Any Girl,502,1958,,,,2025-07-16T20:28:07.51755,2025-07-21T13:02:05.498896,,,0,novel,,,,False,,,
 28,A Son of the Hills,8,1913,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
-229,Assignment in Brittainy,79,1942,,,,2025-06-17T03:48:03.914138,2025-06-20T23:11:03.816409,,,0,novel,,,,False,,,
+229,Assignment in Brittainy,79,1942,,,,2025-06-17T03:48:03.914138,2025-07-30T18:58:29.310406,,,0,novel,The Saturday Evening Post,1942-05-02,v214 #44-51,True,8,https://archive.org/details/sim_saturday-evening-post_1942-05-02_214_44,http://www.philsp.com/homeville/fmi/k09/k09625.htm#A7
 385,As the Earth Turns,160,1933,,,,2025-06-19T18:05:29.54376,2025-06-20T21:03:01.498048,,,0,novel,,,,False,,,
 456,a story,57,,,,,2025-06-23T03:32:50.457701,2025-07-21T17:39:30.350666,,,0,short_story,,,,False,,,
 236,A Tree Grows in Brooklyn,83,1943,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
@@ -54,7 +54,7 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 812,At the Sign of the Jack O'Lantern,408,1905,,,,2025-07-11T15:26:12.14593,2025-07-21T13:32:20.833814,,,0,novel,,,,False,,,
 591,Audrey,285,1902,,,,2025-07-06T15:03:06.413601,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 204,August Week-end,57,1933,,,,2025-06-17T03:48:03.914138,2025-07-23T01:09:57.316219,,,0,novella,Hearst's International-Cosmopolitan,1933-08-01,Vol. 95 No. 2,False,,https://archive.org/details/sim_cosmopolitan_1933-08_95_2,http://www.philsp.com/homeville/fmi/k03/k03431.htm#A1
-320,Avalanche,127,1944,,,,2025-06-18T15:29:55.383082,2025-06-20T21:02:57.202034,,,0,novel,,,,False,,,
+320,Avalanche,127,1943,,,,2025-06-18T15:29:55.383082,2025-07-30T22:09:37.747619,,,0,novel,The Saturday Evening Post,1943-10-23,v216 #17-23,True,7,https://archive.org/details/sim_saturday-evening-post_1943-10-23_216_17,http://www.philsp.com/homeville/fmi/k09/k09631.htm#A11
 816,A Weaver of Dreams,408,1911,,,,2025-07-11T15:26:12.14593,2025-07-16T14:13:29.392978,,,0,novel,,,,False,,,
 83,A Woman's Woman,21,1919,,,,2025-06-17T03:48:03.914138,2025-07-21T13:12:40.503055,,,0,novel,,,,False,,,
 827,Bab's Burglar,6,1917,,,,2025-07-11T15:42:10.41529,2025-07-22T20:06:25.050008,,,0,short_story,The Saturday Evening Post,1917-05-12,v189 #46,False,,https://archive.org/details/sim_saturday-evening-post_1917-05-12_189_46,http://www.philsp.com/homeville/fmi/k09/k09468.htm#A6
@@ -62,10 +62,10 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 185,Back Street,25,1930,,,,2025-06-17T03:48:03.914138,2025-07-22T21:38:55.970803,,,0,novel,Cosmopolitan,1930-09-01,Vol. 89 No. 3,True,7,https://archive.org/details/sim_cosmopolitan_1930-09_89_3,http://www.philsp.com/homeville/fmi/k03/k03427.htm#A9
 441,Bad Boy,53,,,,,2025-06-23T01:09:40.491456,2025-07-21T17:39:30.350666,,,0,short_story,,,,False,,,
 162,Bad Girl,53,1928,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,True,0,novel,,,,False,,,
-339,Ballyhoo,140,1927,,,,2025-06-18T15:43:15.817523,2025-06-20T21:03:01.022848,,,0,novel,,,,False,,,
 696,Barnabetta,349,1914,,,,2025-07-09T00:52:32.856985,2025-07-09T14:15:15.236033,,,0,novel,,,,False,,,
-372,Barter,41,1917,,,,2025-06-19T17:59:57.574093,2025-07-21T18:17:32.022095,,,0,novella,Snappy Stories,1917-09-04,,False,,,
+372,Barter,41,1917,,,,2025-06-19T17:59:57.574093,2025-07-25T03:26:26.764989,,,0,novella,Snappy Stories,1917-09-04,Vol. XXIX No. 2,False,,,http://www.philsp.com/homeville/fmi/k10/k10394.htm#A7
 163,Basquerie,20,1926,,,,2025-06-17T03:48:03.914138,2025-07-24T19:44:30.653292,,,0,novella,The Saturday Evening Post,1926-07-03,v199 #1,False,,https://archive.org/details/sim_saturday-evening-post_1926-07-03_199_1,http://www.philsp.com/homeville/fmi/k09/k09520.htm#A1
+183,Beachcomber,48,1932,,,,2025-06-17T03:48:03.914138,2025-07-25T03:57:08.022051,,,0,novella,College Humor,1932-03-01,#99,False,,,http://www.philsp.com/homeville/fmi/k02/k02993.htm#A7
 175,Beauty,57,1933,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 742,Beauty's Daughter,376,1934,,,,2025-07-09T15:08:53.006928,2025-07-23T02:27:25.276842,,,0,novel,The American Magazine,1934-10-01,"v118 #4-6, v119 #1-3",True,6,https://archive.org/details/TheAmericanMagazineV119N01193501,http://www.philsp.com/homeville/fmi/k00/k00752.htm#A8
 89,Beauty's Worth,38,1920,,,,2025-06-17T03:48:03.914138,2025-07-24T20:52:55.302309,,,0,short_story,The Saturday Evening Post,1920-02-14,v192 #33,False,,https://archive.org/details/sim_saturday-evening-post_1920-02-14_192_33,http://www.philsp.com/homeville/fmi/k09/k09482.htm#A3
@@ -78,13 +78,12 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 981,Beulah,215,1860,,,,2025-07-16T20:23:40.575044,2025-07-21T15:11:57.691648,,,0,novel,,,,False,,,
 818,Big Business Girl,410,1930,,,,2025-07-11T15:28:27.175678,2025-07-21T18:17:32.022095,,,0,short_story,College Humor,1930-08-01,Aug-Oct 1930,False,,,
 186,Big Executive,24,1933,,,,2025-06-17T03:48:03.914138,2025-07-22T14:18:32.076965,,,0,novella,Heast's International-Cosmopolitan,1933-03-01,Vol. 94 No. 3,False,,https://archive.org/details/sim_cosmopolitan_1933-03_94_3,http://www.philsp.com/homeville/fmi/k03/k03430.htm#A6
-297,Big Shot,113,1936,,,,2025-06-18T15:10:00.31105,2025-07-21T18:17:32.022095,,,0,short_story,Collier's,1936-09-19,,False,,,
 820,Big Story,82,,,,,2025-07-11T15:30:06.57852,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 597,Black Butterflies,288,1927,,,,2025-07-06T15:05:43.597852,2025-07-09T14:15:22.202852,,,0,novel,,,,False,,,
 817,Black Market Babies,409,1944,,,,2025-07-11T15:28:04.279144,2025-07-21T18:31:04.689738,,,0,short_story,Woman's Home Companion,1944-12-01,Dec 1944,False,,,
 94,Black Oxen,16,1923,,,,2025-06-17T03:48:03.914138,2025-07-02T16:24:19.269716,,True,0,novel,,,,False,,,
 570,Black Sheep,269,,,,,2025-07-05T22:41:48.710359,2025-07-21T17:39:30.350666,,,0,short_story,,,,False,,,
-206,Bless Their Hearts,60,1936,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,Good Housekeeping,1936-01-01,Jan 1936,False,,,
+206,Bless Their Hearts,60,1936,,,,2025-06-17T03:48:03.914138,2025-07-25T04:22:50.558234,,,0,short_story,Good Housekeeping,1936-01-01,v102 #1,False,,,http://www.philsp.com/homeville/fmi/k05/k05212.htm#A12
 575,Blind Date,273,1931,,,,2025-07-05T22:45:47.574614,2025-07-09T14:15:15.79423,,,0,novel,,,,False,,,
 587,Blind Hearts,281,,,,,2025-07-06T14:59:38.027464,2025-07-21T17:39:30.350666,,,0,short_story,,,,False,,,
 493,Blood On Her Shoe,219,1942,,,,2025-07-02T23:52:09.375946,2025-07-21T15:18:15.643294,,,0,novel,,,,False,,,
@@ -97,8 +96,8 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 442,Bracelets,53,,,,,2025-06-23T01:09:40.491456,2025-07-21T17:39:30.350666,,,0,short_story,,,,False,,,
 195,Bread Upon the Waters,22,1934,,,,2025-06-17T03:48:03.914138,2025-07-24T19:51:17.298021,,,0,short_story,Hearst's International-Cosmopolitan,1934-02-01,Vol. 96 No. 2,False,,https://archive.org/details/sim_cosmopolitan_1934-02_96_2,http://www.philsp.com/homeville/fmi/k03/k03431.htm#A7
 918,Bridge to the Sun,465,1957,,,,2025-07-16T17:52:51.630243,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
-779,Brilliant Marriage,56,,,,,2025-07-09T23:43:57.83315,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
-211,Bringing Up Baby,69,1937,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,Collier's,1937-04-10,,False,,,
+779,Brilliant Marriage,56,1935,,,,2025-07-09T23:43:57.83315,2025-07-25T04:15:43.44316,,,0,novella,Redbook,1935-07-01,Vol. LXV No. 3,False,,https://archive.org/details/sim_redbook_1935-07_65_3,http://www.philsp.com/homeville/fmi/k09/k09082.htm#A9
+211,Bringing Up Baby,69,1937,,,,2025-06-17T03:48:03.914138,2025-07-30T18:48:11.802111,,,0,short_story,Collier's,1937-04-10,v99 #15,False,,,http://www.philsp.com/homeville/fmi/k03/k03095.htm#A12
 358,Broadway Virgin,148,1931,,,,2025-06-18T16:22:28.055539,2025-06-20T21:02:58.400175,,,0,novel,,,,False,,,
 107,Broken Laws,43,,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,short_story,,,,False,,,
 156,Brook Evans,58,1928,,,,2025-06-17T03:48:03.914138,2025-06-20T21:02:53.82928,,,0,novel,,,,False,,,
@@ -132,9 +131,9 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 349,Class,144,,,,,2025-06-18T15:49:36.7694,2025-06-18T15:49:36.7694,,,0,novel,,,,False,,,
 481,Classified,40,1924,,,,2025-07-02T23:51:00.154972,2025-07-22T20:51:11.360651,,,0,short_story,Cosmopolitan,1924-11-01,Vol. 77 No. 5,False,,http://hdl.handle.net/2027/mdp.39015056096566,http://www.philsp.com/homeville/fmi/k03/k03419.htm#A6
 541,Class Prophecy,246,1935,,,,2025-07-04T02:07:12.220174,2025-07-21T18:30:18.51816,,,0,short_story,McCall's Magazine,1935-11-01,Nov 1935,False,,,
-230,Claudia,80,1942,,,,2025-06-17T03:48:03.914138,2025-06-20T21:02:54.86758,,,0,novel,,,,False,,,
-239,Claudia and David,80,1940,,,,2025-06-17T03:48:03.914138,2025-06-20T21:02:55.157061,,,0,novel,,,,False,,,
-244,Clementine,87,1946,,,,2025-06-17T03:48:03.914138,2025-07-21T16:24:59.553179,,,0,novel,,,,False,,,
+230,Claudia,80,1942,,,,2025-06-17T03:48:03.914138,2025-07-30T18:59:58.116864,,True,1,novel,,,,False,,,
+239,Claudia and David,80,1940,,,,2025-06-17T03:48:03.914138,2025-07-30T19:00:06.563573,,True,1,novel,,,,False,,,
+244,Clementine,87,1946,,,,2025-06-17T03:48:03.914138,2025-07-30T20:48:17.852012,,,0,novel,Liberty,1946-10-05,"Vol. 23 No. 40, October 5",False,,,http://www.philsp.com/homeville/fmi/k06/k06306.htm#A11
 636,Clipped Wings,305,1928,,,,2025-07-08T02:13:48.884094,2025-07-21T18:30:03.065528,,,0,short_story,Delineator,1928-02-01,Feb-Mar 1928,False,,,
 583,Close Harmony,279,,,,,2025-07-06T14:57:03.4899,2025-07-21T17:39:30.350666,,,0,short_story,,,,False,,,
 919,Clothes,466,,,,,2025-07-16T17:53:26.201122,2025-07-16T17:53:26.201122,,,0,novel,,,,False,,,
@@ -178,7 +177,7 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 804,Elope If You Must,407,1920,,,,2025-07-11T15:02:26.266047,2025-07-22T22:06:46.925585,,,0,novel,All-Story Weekly,1920-02-14,"Vol. CVII Number 1-4, Vol. CVIII Number 1-2",True,6,,http://www.philsp.com/homeville/fmi/k00/k00522.htm#A3
 483,Emma McChesney & Co.,40,1915,,,,2025-07-02T23:51:00.154972,2025-07-22T20:56:14.465526,,,0,collection,Cosmopolitan,1915-01-01,,False,,http://hdl.handle.net/2027/mdp.39015024196803,http://www.philsp.com/homeville/fmi/k03/k03408.htm#A13
 830,Empire Builders,6,1916,,,,2025-07-11T15:42:10.41529,2025-07-22T20:07:52.768539,,,0,short_story,The Saturday Evening Post,1916-05-20,v188 #47,False,,https://archive.org/details/sim_saturday-evening-post_1916-05-20_188_47,http://www.philsp.com/homeville/fmi/k09/k09464.htm#A12
-102,Empty Hearts,41,1924,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,short_story,Metropolitan,,Sep 1924-Oct 1924,False,,,
+102,Empty Hearts,41,1924,,,,2025-06-17T03:48:03.914138,2025-07-25T03:27:26.229085,,,0,short_story,Metropolitan Magazine,1924-09-01,v59 #6-?,True,2,,http://www.philsp.com/homeville/fmi/k07/k07144.htm#A3
 983,Empty Saddles,498,,,,,2025-07-16T20:25:10.480012,2025-07-16T20:25:10.480012,,,0,novel,,,,False,,,
 212,Enemy Territory,70,1937,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,Pictorial Review,1937-02-01,Feb 1937,False,,,
 387,"Enrico Caruso, His Life and Death",162,1945,,,,2025-06-19T18:06:50.215567,2025-06-21T00:13:40.406241,,,0,novel,,,,False,,,
@@ -196,7 +195,7 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 484,Fanny Herself,40,1917,,,,2025-07-02T23:51:00.154972,2025-07-22T20:58:06.676171,,,0,novel,The American Magazine,1917-04-01,"v83 #4-6, v84 #1-5",True,8,https://hdl.handle.net/2027/mdp.39015038078906,http://www.philsp.com/homeville/fmi/k00/k00737.htm#A3
 663,February Hill,325,1934,,,,2025-07-08T02:38:01.451406,2025-07-09T14:15:17.194669,,,0,novel,,,,False,,,
 109,Feet of Clay,44,1923,,,,2025-06-17T03:48:03.914138,2025-07-02T16:33:13.897979,,True,0,novel,,,,False,,,
-192,Fifty-Two Weeks for Florette,39,1921,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,Saturday Evening Post,1921-08-13,,False,,,
+192,Fifty-Two Weeks for Florette,39,1921,,,,2025-06-17T03:48:03.914138,2025-07-25T03:20:06.684035,,,0,short_story,The Saturday Evening Post,1921-08-13,v194 #7,False,,https://archive.org/details/sim_saturday-evening-post_1921-08-13_194_7,http://www.philsp.com/homeville/fmi/k09/k09489.htm#A5
 836,Finders Keepers,6,1919,,,,2025-07-11T15:42:10.41529,2025-07-22T20:23:17.944833,,,0,short_story,The Saturday Evening Post,1919-10-04,v192 #14,False,,https://archive.org/details/sim_saturday-evening-post_1919-10-04_192_14,http://www.philsp.com/homeville/fmi/k09/k09480.htm#A5
 169,Five and Ten,25,1929,,,,2025-06-17T03:48:03.914138,2025-07-22T21:40:04.079867,,,0,novel,Hearst's International-Cosmopolitan,1929-04-01,Vol. 86 No. 4,True,6,https://archive.org/details/sim_cosmopolitan_1929-04_86_4,http://www.philsp.com/homeville/fmi/k03/k03426.htm#A3
 892,Five Little Peppers and How they Grew,446,1881,,,,2025-07-16T15:08:15.309126,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
@@ -214,14 +213,14 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 736,Fraternity,355,1941,,,,2025-07-09T01:54:11.242352,2025-07-21T18:30:56.85439,,,0,short_story,Collier's,1941-02-01,,False,,,
 19,Freckles,12,1904,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 222,Freckles Comes Home,74,1929,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
-215,Free Woman,63,1936,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,Red Book Magazine,1936-11-01,Nov-Dec 1936,False,,,
+215,Free Woman,63,1936,,,,2025-06-17T03:48:03.914138,2025-07-30T18:26:47.005408,,,0,novella,Redbook Magazine,1936-11-01,Vol. 68 No. 1-2,True,2,,http://www.philsp.com/homeville/fmi/k09/k09101.htm#A9
 450,Friends in the End,199,1911,,,,2025-06-23T01:15:47.859857,2025-07-09T14:15:17.353151,,,0,novel,,,,False,,,
 512,From the Valley of the Missing,4,1911,,,,2025-07-03T17:44:40.077375,2025-07-23T01:35:54.139999,,True,0,novel,,,,False,,,
 460,From This Dark Stairway,205,1931,,,,2025-06-24T13:52:38.20728,2025-07-21T19:09:14.167477,,,0,novel,,,,False,,,
 448,Fugitive Lady,198,1946,,,,2025-06-23T01:13:22.582533,2025-07-21T19:09:39.246221,,,0,novel,,,,False,,,
 388,Gardenia,59,,,,,2025-06-19T18:08:48.946603,2025-06-19T18:08:48.946603,,,0,novel,,,,False,,,
 741,Gather Ye Rosebuds,375,1946,,,,2025-07-09T14:48:27.41768,2025-07-16T14:13:35.911971,,,0,novel,,,,False,,,
-140,Gentlemen Prefer Blondes,52,1925,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,True,0,novel,,,,False,,,
+140,Gentlemen Prefer Blondes,52,1925,,,,2025-06-17T03:48:03.914138,2025-07-25T04:11:30.146383,,True,1,novel,Harper's Bazar,1925-03-01,,True,6,,http://www.philsp.com/homeville/fmi/k05/k05448.htm#A32
 567,Gentlemen's Agreement,267,1947,,,,2025-07-05T22:39:47.660966,2025-07-09T14:15:23.166685,,,0,novel,,,,False,,,
 275,Giant,40,1952,,,,2025-06-17T03:48:03.914138,2025-07-22T21:00:09.680805,,,0,novel,Ladies' Home Journal,1952-06-01,v69 #6-11,True,6,,http://www.philsp.com/homeville/fmi/k06/k06112.htm#A14
 486,Gigolo,40,1922,,,,2025-07-02T23:51:00.154972,2025-07-22T21:01:32.897886,,,0,short_story,Woman's Home Companion,1922-11-01,v49 #11,False,,https://hdl.handle.net/2027/mdp.39015014112653?urlappend=%3Bseq=1146,http://www.philsp.com/homeville/fmi/k12/k12340.htm#A10
@@ -276,7 +275,7 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 136,Honeymoon Hate,7,1927,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,Saturday Evening Post,1927-07-09,9 Jul-16 Jul 1927,True,2,,
 560,Hope Rides with Me,261,,,,,2025-07-05T22:36:25.367315,2025-07-05T22:36:25.367315,,,0,novel,,,,False,,,
 776,Horsie,389,,,,,2025-07-09T23:42:16.454528,2025-07-09T23:42:16.454528,,,0,novel,,,,False,,,
-296,Hotel Berlin,113,1943,,,,2025-06-18T15:10:00.31105,2025-06-24T15:36:59.428797,,,0,novel,,,,False,,,
+296,Hotel Berlin,113,1943,,,,2025-06-18T15:10:00.31105,2025-07-30T21:46:40.655653,,,0,novel,Collier's,1943-11-06,v112 #19-23,True,5,,http://www.philsp.com/homeville/fmi/k03/k03127.htm#A7
 646,House of Refuge,312,1932,,,,2025-07-08T02:26:06.674552,2025-07-09T14:15:18.03018,,,0,novel,,,,False,,,
 325,How Could You Jean?,130,1917,,,,2025-06-18T15:33:21.785013,2025-07-02T16:36:42.511968,,True,0,novel,,,,False,,,
 579,Human Desire,275,,,,,2025-07-06T14:47:36.25002,2025-07-06T14:47:36.25002,,,0,novel,,,,False,,,
@@ -292,7 +291,7 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 868,I'll Cry Tomorrow,427,1954,,,,2025-07-11T16:04:34.680309,2025-07-16T14:13:34.460181,co-writers Mike Connolly and Gerald Frank,,0,novel,,,,False,,,
 370,I'll Tell My Husband,151,1938,,,,2025-06-18T16:28:33.097086,2025-06-21T00:05:54.883101,,,0,novel,,,,False,,,
 819,I Loved You Wednesday,411,,,,,2025-07-11T15:28:58.814598,2025-07-11T15:28:58.814598,,,0,novel,,,,False,,,
-311,Imagine Us!,122,1942,,,,2025-06-18T15:23:08.427358,2025-07-21T18:17:32.022095,,,0,short_story,Good Housekeeping,1942-12-01,,False,,,
+311,Imagine Us!,122,1942,,,,2025-06-18T15:23:08.427358,2025-07-30T21:58:14.492786,,,0,short_story,Good Housekeeping,1942-12-01,,False,,,http://www.philsp.com/homeville/fmi/k05/k05222.htm#A10
 589,I Married Adventure,283,1916,,,,2025-07-06T15:00:49.365422,2025-07-09T14:15:18.19879,co-writer Martin Johnson,,0,novel,,,,False,,,
 677,"I, Mary MacLane",337,1917,,,,2025-07-09T00:22:39.50956,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 191,Imitation of Life,25,1933,,,,2025-06-17T03:48:03.914138,2025-07-22T21:43:26.844867,,True,1,novel,,,,False,,,
@@ -320,8 +319,8 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 332,Jubilee Trail,136,1950,,,,2025-06-18T15:37:36.359624,2025-06-20T23:55:58.499454,,,0,novel,,,,False,,,
 18,Judith of the Cumberlands,11,1908,,,,2025-06-17T03:48:03.914138,2025-07-24T18:48:02.217817,,,0,novel,Putnam’s Monthly & The Reader,1908-06-01,"Volume IV No. 3-6, Volume V No. 1-2",True,6,http://hdl.handle.net/2027/hvd.32044092794379,http://www.philsp.com/homeville/fmi/k08/k08816.htm#A2
 61,Judy of Rogue's Harbor,4,1918,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
-302,Junior Miss,115,1941,,,,2025-06-18T15:13:51.431464,2025-06-20T21:02:56.521769,,,0,novel,,,,False,,,
-621,"Kayo, Oke",38,,,,,2025-07-07T18:18:16.264808,2025-07-07T18:18:16.264808,,,0,novel,,,,False,,,
+302,Junior Miss,115,1941,,,,2025-06-18T15:13:51.431464,2025-07-30T21:51:15.432017,,,0,short_story,The New Yorker,1939-10-28,,False,,,http://www.philsp.com/homeville/fmi/k07/k07679.htm#A14
+621,Kayo! Oke!,38,1930,,,,2025-07-07T18:18:16.264808,2025-07-25T03:08:55.054636,,,0,short_story,The Saturday Evening Post,1930-08-02,v203 #5,False,,https://archive.org/details/sim_saturday-evening-post_1930-08-02_203_5,http://www.philsp.com/homeville/fmi/k09/k09545.htm#A1
 31,Kildares of Storm,20,1916,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 596,Kitchen Privileges,287,1935,,,,2025-07-06T15:04:48.109443,2025-07-21T18:30:15.678999,,,0,short_story,Ladies' Home Journal ,1935-09-01,Sep 1935,False,,,
 695,Kitty,348,1943,,,,2025-07-09T00:51:09.112525,2025-07-09T14:15:18.55712,,,0,novel,,,,False,,,
@@ -329,7 +328,7 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 120,Laddie,12,1913,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 72,Ladies Must Live,24,1917,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 558,Lady with a Past,259,1931,,,,2025-07-05T22:34:57.488858,2025-07-09T14:15:18.632069,,,0,novel,,,,False,,,
-232,Laura,59,1943,,,,2025-06-17T03:48:03.914138,2025-06-23T14:46:51.9904,,,0,novel,,,,False,,,
+232,Laura,59,1942,,,,2025-06-17T03:48:03.914138,2025-07-25T04:20:32.809364,"Originally serialized as ""Ring Twice for Laura""",,0,novel,Collier's,1942-10-17,v110 #16-22,True,7,,http://www.philsp.com/homeville/fmi/k03/k03118.htm#A6
 814,Lavender and Old Lace,408,1902,,,,2025-07-11T15:26:12.14593,2025-07-16T14:13:30.536004,,,0,novel,,,,False,,,
 962,Lawless Honeymoon,490,,,,,2025-07-16T20:04:42.733517,2025-07-16T20:04:42.733517,,,0,novel,,,,False,,,
 568,Lena Rivers,268,1856,,,,2025-07-05T22:40:52.692533,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
@@ -342,7 +341,7 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 584,Listen Baby,279,,,,,2025-07-06T14:57:03.4899,2025-07-06T14:57:03.4899,,,0,novel,,,,False,,,
 618,Little Aliens,298,1910,,,,2025-07-07T18:14:53.578582,2025-07-09T14:15:18.837014,,,0,novel,,,,False,,,
 590,Little Colonel,284,,,,,2025-07-06T15:01:17.103044,2025-07-06T15:01:17.103044,,,0,novel,,,,False,,,
-280,Little Eve Edgarton,107,1914,,,,2025-06-18T03:45:28.419856,2025-06-20T23:28:25.613804,,,0,novel,,,,False,,,
+280,Little Eve Edgarton,107,1914,,,,2025-06-18T03:45:28.419856,2025-07-30T21:36:12.974113,,,0,novel,Everybody's Magazine,1914-01-01,Vol. XXX No. 1-4,True,4,,http://www.philsp.com/homeville/fmi/k04/k04474.htm#A16
 73,Little Lord Fauntleroy,3,1885,,,,2025-06-17T03:48:03.914138,2025-07-23T02:55:48.26948,,True,1,novel,St. Nicholas,1885-11-01,v13 #1-12,True,12,,http://www.philsp.com/homeville/fmi/k10/k10621.htm#A7
 336,Little Lost Sister,138,1914,,,,2025-06-18T15:38:57.224634,2025-06-20T21:02:57.871773,,,0,novel,,,,False,,,
 193,Little Men,28,1872,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,True,0,novel,,,,False,,,
@@ -358,7 +357,7 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 161,Lost Ecstasy,6,1927,,,,2025-06-17T03:48:03.914138,2025-07-22T20:19:31.437669,,,0,novel,The Saturday Evening Post,1927-04-16,v199 #42,True,10,https://archive.org/details/sim_saturday-evening-post_1927-04-16_199_42,http://www.philsp.com/homeville/fmi/k09/k09524.htm#A4
 363,Louisiana,3,1880,,,,2025-06-18T16:26:19.495342,2025-07-23T02:57:06.03111,,,0,novella,Scribner's Monthly,1880-02-01,"v19 #4-6, v20 #1",True,4,,http://www.philsp.com/homeville/fmi/k02/k02711.htm#A6
 181,Love Affair,56,1930,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,College Humor,1930-08-01,Aug 1930,False,,,
-135,Love O' Women,43,1926,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,Hearst's International-Cosmopolitan,1926-02-01,Feb 1926,False,,,
+135,Love O' Women,43,1926,,,,2025-06-17T03:48:03.914138,2025-07-25T03:35:43.133043,,,0,short_story,Hearst's International-Cosmopolitan,1926-02-01,Vol. 80 No. 2,False,,https://archive.org/details/sim_cosmopolitan_1926-02_80_2,http://www.philsp.com/homeville/fmi/k03/k03421.htm#A6
 948,Love Past Thirty,486,,,,,2025-07-16T19:57:51.520829,2025-07-16T19:57:51.520829,,,0,novel,,,,False,,,
 121,Lovey Mary,5,1903,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 746,Lucretia Lombard,376,1922,,,,2025-07-09T15:08:53.006928,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
@@ -368,22 +367,22 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 952,Madame Peacock,487,,,,,2025-07-16T20:02:16.109624,2025-07-16T20:02:16.109624,,,0,novel,,,,False,,,
 47,Madelon,15,1896,,,,2025-06-17T03:48:03.914138,2025-07-24T19:27:50.039252,,,0,novel,,,,False,,,
 547,Magic Fire,252,1953,,,,2025-07-05T22:28:56.062405,2025-07-09T14:15:19.066572,,,0,novel,,,,False,,,
-345,Maid of Honor,63,1932,,,,2025-06-18T15:48:54.473886,2025-07-21T18:17:32.022095,,,0,short_story,Hearst's International-Cosmopolitan,1932-09-01,Sep 1932,False,,,
+345,Maid of Honor,63,1932,,,,2025-06-18T15:48:54.473886,2025-07-30T18:27:37.967526,,,0,short_story,Hearst's International-Cosmopolitan,1932-09-01,Vol. 93 No. 3,False,,https://archive.org/details/sim_cosmopolitan_1932-09_93_3,http://www.philsp.com/homeville/fmi/k03/k03432.htm#A13
 531,Make Haste to Live,241,,,,,2025-07-04T01:57:00.93435,2025-07-04T01:57:00.93435,co-writer Gordon Gordon,,0,novel,,,,False,,,
 550,Making Her His Wife,253,1918,,,,2025-07-05T22:29:57.765279,2025-07-16T14:13:35.459028,,,0,novel,,,,False,,,
-245,Mama's Bank Account,88,1934,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
+245,Mama's Bank Account,88,1943,,,,2025-06-17T03:48:03.914138,2025-07-30T20:50:11.636552,,,0,novel,,,,False,,,
 78,Mam'selle Jo,8,1918,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
 751,Manhattan Love Song,376,1933,,,,2025-07-09T15:08:53.006928,2025-07-23T02:33:42.251261,,,0,novel,Collier's,1933-07-15,v92 #3-12,True,10,,http://www.philsp.com/homeville/fmi/k03/k03077.htm#A6
 786,Manila Espionage,397,,,,,2025-07-09T23:51:00.846964,2025-07-09T23:51:24.837161,co-writer Myron B. Goldsmith,,0,novel,,,,False,,,
 124,Mannequin,25,1925,,,,2025-06-17T03:48:03.914138,2025-07-22T21:47:36.835695,,,0,novel,Liberty,1925-12-05,"v2 #31-42 [the $50,000 prize story]",True,12,,http://www.philsp.com/homeville/fmi/k06/k06206.htm#A7
-346,Mannequin,63,,,,,2025-06-18T15:48:54.473886,2025-07-21T17:39:30.350666,,,0,short_story,,,,False,,,
-259,Man on the Run,95,1948,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,American Magazine,1948-04-01,April 1948,False,,,
+259,Man on the Run,95,1948,,,,2025-06-17T03:48:03.914138,2025-07-30T20:59:43.573434,,,0,novella,The American Magazine,1948-04-01,v145 #4,False,,,http://www.philsp.com/homeville/fmi/k00/k00772.htm#A7
 85,Manslaughter,24,1921,,,,2025-06-17T03:48:03.914138,2025-07-22T14:30:21.054185,,True,1,novel,The Saturday Evening Post,1921-08-06,v194 #6-10,True,5,https://archive.org/details/sim_saturday-evening-post_1921-08-06_194_6,http://www.philsp.com/homeville/fmi/k09/k09489.htm#A4
 634,Marcene,303,,,,,2025-07-07T18:36:59.694038,2025-07-07T18:36:59.694038,,,0,novel,,,,False,,,
-622,Mareea Maria,38,1929,,,,2025-07-07T18:18:16.264808,2025-07-09T14:15:22.454579,,,0,novel,,,,False,,,
-233,Marriage is a Private Affair,81,1941,,,,2025-06-17T03:48:03.914138,2025-07-02T17:43:38.844319,,True,0,novel,,,,False,,,
+622,Mareea - Maria: A Novel of Marriage in Haste,38,1929,,,,2025-07-07T18:18:16.264808,2025-07-25T03:10:42.751303,,,0,novel,Woman's Home Companion,1929-02-01,v56 #2-?,True,,,http://www.philsp.com/homeville/fmi/k12/k12343.htm#A20
+233,Marriage is a Private Affair,81,1941,,,,2025-06-17T03:48:03.914138,2025-07-30T19:03:23.555006,,True,1,novel,Ladies' Home Journal,1941-05-01,v58 #3-9,True,7,,http://www.philsp.com/homeville/fmi/k06/k06117.htm#A5
 949,Marriage on Approval,486,,,,,2025-07-16T19:57:51.520829,2025-07-16T19:57:51.520829,,,0,novel,,,,False,,,
 128,Married?,29,1920,,,,2025-06-17T03:48:03.914138,2025-07-24T20:24:30.203089,,,0,novel,The American Magazine,1920-11-01,"v90 #5-6, v91 #1-4",True,6,https://hdl.handle.net/2027/mdp.39015022183654,http://www.philsp.com/homeville/fmi/k00/k00743.htm#A3
+346,Marry for Money,63,1937,,,,2025-06-18T15:48:54.473886,2025-07-30T18:32:44.062345,,,0,short_story,Cosmopolitan,1937-02-01,Vol. 102 No. 2,False,,https://archive.org/details/sim_cosmopolitan_1937-02_102_2,http://www.philsp.com/homeville/fmi/k03/k03437.htm#A11
 551,Martyrs of the Alamo,254,,,,,2025-07-05T22:30:36.3407,2025-07-05T22:30:36.3407,,,0,novel,,,,False,,,
 80,Mary Cary: Frequently Martha,35,1910,,,,2025-06-17T03:48:03.914138,2025-07-24T20:47:08.888389,,,0,novel,,,,False,,,
 943,Mary Moreland,480,1915,,,,2025-07-16T18:55:41.44608,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
@@ -395,14 +394,14 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 91,Michael O'Halloran,12,1915,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,True,0,novel,,,,False,,,
 717,Michael Thwaite's Wife,360,1909,,,,2025-07-09T01:03:31.082687,2025-07-16T14:13:34.611392,,,0,novel,,,,False,,,
 837,Mind Over Motor,6,1912,,,,2025-07-11T15:42:10.41529,2025-07-22T20:24:16.141315,,,0,short_story,The Saturday Evening Post,1912-10-05,v185 #14,False,,https://archive.org/details/sim_saturday-evening-post_1912-10-05_185_14,http://www.philsp.com/homeville/fmi/k09/k09450.htm#A12
-265,Mischief,85,1951,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
+265,Mischief,85,1950,,,,2025-06-17T03:48:03.914138,2025-07-30T19:12:08.688116,,,0,novella,Good Housekeeping,1950-04-01,v130 #4-5,True,2,http://hearth.library.cornell.edu/cgi/t/text/text-idx?c=hearth;idno=6417403_1413_004,http://www.philsp.com/homeville/fmi/k05/k05226.htm#A2
 407,Miss Aesop Butters Her Bread,172,,,,,2025-06-19T19:40:21.503879,2025-06-19T19:40:21.503879,co-writer William Joyce,,0,novel,,,,False,,,
 63,Miss Antique,21,1919,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,Snappy Stories,1919-01-01,,False,,,
 221,Miss Bishop,55,1933,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
 802,Miss Dulcie from Dixie,406,1917,,,,2025-07-11T14:47:00.302156,2025-07-16T14:13:30.702597,,,0,novel,,,,False,,,
 307,Missing Men,118,1932,,,,2025-06-18T15:17:04.567924,2025-06-20T21:02:56.742563,co-writer John H. Ayers,,0,novel,,,,False,,,
 71,Miss Lulu Bett,34,1920,,,,2025-06-17T03:48:03.914138,2025-06-20T21:02:52.981359,,,0,novel,,,,False,,,
-313,Miss Maitland Private Secretary,123,1919,,,,2025-06-18T15:24:11.745418,2025-06-20T21:02:59.967517,,,0,novel,,,,False,,,
+313,Miss Maitland Private Secretary,123,1919,,,,2025-06-18T15:24:11.745418,2025-07-30T22:01:09.601286,,,0,short_story,The Ladies' Home Journal,1919-03-01,v36 #3,False,,,http://www.philsp.com/homeville/fmi/k06/k06104.htm#A23
 220,Miss Pinkerton: Adventures of a Nurse Detective,6,1932,,,,2025-06-17T03:48:03.914138,2025-07-22T20:25:23.954222,,,0,novel,The Saturday Evening Post,1932-01-02,v204 #27,True,7,,http://www.philsp.com/homeville/fmi/k09/k09553.htm#A5
 930,Miss Susie Slagle's,472,,,,,2025-07-16T17:58:37.652839,2025-07-16T17:58:37.652839,,,0,novel,,,,False,,,
 807,Mister 44,407,1916,,,,2025-07-11T15:02:26.266047,2025-07-16T14:13:37.289608,,,0,novel,,,,False,,,
@@ -418,8 +417,9 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 308,"Mother, Sir!",120,1953,,,,2025-06-18T15:18:22.364147,2025-06-20T23:49:31.52783,,,0,novel,,,,False,,,
 1003,Mother Wore Tights,508,,,,,2025-07-16T20:33:06.535996,2025-07-16T20:33:06.535996,,,0,novel,,,,False,,,
 397,Mountain Madness,166,1917,,,,2025-06-19T19:32:27.509979,2025-06-20T21:02:59.301846,,,0,novel,,,,False,,,
-251,Mountain Prelude,84,1947,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
+251,Mountain Prelude,84,1947,,,,2025-06-17T03:48:03.914138,2025-07-30T19:09:31.67916,,,0,novel,The Saturday Evening Post,1947-04-26,v219 #43-48,True,6,https://archive.org/details/sim_saturday-evening-post_1947-04-26_219_43,http://www.philsp.com/homeville/fmi/k09/k09644.htm#A3
 226,"Mr. and Mrs. Cugat, Record of a Happy Marriage",77,1941,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,collection,,,,False,,,
+1018,Mr. Cohen Takes a Walk,6,1934,,,,2025-07-31T02:27:15.22563,2025-07-31T02:35:46.329083,,False,0,short_story,Good Housekeeping,1933-02-01,v96 #2,False,,,http://www.philsp.com/homeville/fmi/k05/k05214.htm#A16
 26,Mr. Opp,5,1909,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 25,Mrs. Balfame,16,1915,,,,2025-06-17T03:48:03.914138,2025-07-24T19:31:10.432011,,,0,novel,The Blue Book Magazine,1915-10-01,"Vol. 21 No. 6, Vol. 22 No. 1-5",True,6,,http://www.philsp.com/homeville/fmi/k01/k01926.htm#A3
 772,Mrs. Hoyle of the Hotel Royalston,385,,,,,2025-07-09T15:15:38.322982,2025-07-09T15:15:38.322982,,,0,novel,,,,False,,,
@@ -434,10 +434,10 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 392,My Memories of Vernon Castle,163,1919,,,,2025-06-19T18:09:55.017203,2025-06-21T00:15:53.174326,,,0,novel,,,,False,,,
 585,My Reputation,280,1945,,,,2025-07-06T14:57:52.041163,2025-07-09T14:15:19.317187,,,0,novel,,,,False,,,
 119,My Wife and I,2,1871,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
-413,Navy Born,48,,,,,2025-06-19T19:46:43.339392,2025-06-19T19:46:43.339392,,,0,novel,,,,False,,,
+413,Navy Born,48,1934,,,,2025-06-19T19:46:43.339392,2025-07-25T03:53:40.313326,,,0,short_story,Hearst's International-Cosmopolitan,1934-03-01,Vol. 96 No. 3,False,,https://archive.org/details/sim_cosmopolitan_1934-03_96_3,http://www.philsp.com/homeville/fmi/k03/k03431.htm#A8
 203,Next Time We Live,56,1935,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 179,Night Bell,25,,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,short_story,,,,False,,,
-347,Night Club,63,1929,,,,2025-06-18T15:48:54.473886,2025-07-16T14:13:34.680377,,,0,novel,,,,False,,,
+347,Night Club,63,1929,,,,2025-06-18T15:48:54.473886,2025-07-30T18:29:42.837777,,,0,collection,,,,False,,,
 680,Night Nurse,339,1930,,,,2025-07-09T00:24:55.737177,2025-07-16T14:13:37.42466,published under Perkins' pseud Dora Macy,,0,novel,,,,False,,,
 994,Night Shift,503,,,,,2025-07-16T20:28:40.163779,2025-07-16T20:28:40.163779,,,0,novel,,,,False,,,
 1006,Nine Days of Father Serra,510,,,,,2025-07-16T20:35:11.559173,2025-07-16T20:35:11.559173,,,0,novel,,,,False,,,
@@ -445,7 +445,7 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 782,No More Orchids,339,1932,,,,2025-07-09T23:46:09.066983,2025-07-16T14:36:50.356964,,,0,novel,,,,False,,,
 556,North Star,258,,,,,2025-07-05T22:34:06.243758,2025-07-05T22:34:06.243758,,,0,novel,,,,False,,,
 897,No Sad Songs for Me,451,,,,,2025-07-16T15:40:21.580218,2025-07-16T15:40:21.580218,,,0,novel,,,,False,,,
-284,No Surrender,108,1942,,,,2025-06-18T03:52:53.654745,2025-07-21T13:28:15.614654,,,0,novel,,,,False,,,
+284,No Surrender,108,1942,,,,2025-06-18T03:52:53.654745,2025-07-30T21:40:20.488147,,,0,novel,The Saturday Evening Post,1942-07-18,v215 #3-10,True,8,https://archive.org/details/sim_saturday-evening-post_1942-07-18_215_3,http://www.philsp.com/homeville/fmi/k09/k09626.htm#A8
 490,Not A Day Over Twenty-One,40,1921,,,,2025-07-02T23:51:00.154972,2025-07-22T21:14:45.029403,,,0,short_story,Collier's,1921-08-13,v68 #7,False,,,http://www.philsp.com/homeville/fmi/k03/k03037.htm#A6
 889,Notices,445,,,,,2025-07-16T15:07:47.070337,2025-07-16T15:07:47.070337,,,0,novel,,,,False,,,
 869,Now I'll Tell,428,,,,,2025-07-11T16:05:04.970552,2025-07-11T16:05:04.970552,,,0,novel,,,,False,,,
@@ -454,11 +454,11 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 390,Odd Thursday,59,,,,,2025-06-19T18:08:48.946603,2025-06-19T18:08:48.946603,,,0,novel,,,,False,,,
 562,"Oh, Annice!",263,,,,,2025-07-05T22:37:33.280106,2025-07-05T22:37:33.280106,,,0,novel,,,,False,,,
 566,Oil for the Lamps of China,266,1933,,,,2025-07-05T22:39:17.185836,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
-282,Old Dad,107,1919,,,,2025-06-18T03:45:28.419856,2025-06-20T23:29:17.819245,,,0,novel,,,,False,,,
+282,Old-Dad,107,1918,,,,2025-06-18T03:45:28.419856,2025-07-30T21:37:25.151905,,,0,novel,Woman's Home Companion,0918-10-01,,True,2,,http://www.philsp.com/homeville/fmi/k12/k12362.htm#A16
 506,Old Lady Number 31,224,1911,,,,2025-07-02T23:59:57.641208,2025-07-09T14:15:19.514711,,,0,novel,,,,False,,,
 491,Old Man Minick,40,1922,,,,2025-07-02T23:51:00.154972,2025-07-22T21:16:15.200541,,,0,short_story,Woman's Home Companion,1922-06-05,v49 #6,False,,https://hdl.handle.net/2027/mdp.39015014112653?urlappend=%3Bseq=578,http://www.philsp.com/homeville/fmi/k12/k12340.htm#A5
 927,Once There Was a Princess,467,,,,,2025-07-16T17:57:25.889955,2025-07-16T17:57:25.889955,,,0,novel,,,,False,,,
-260,Once Upon a Train (The Loco Motive),82,1950,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,co-writer Stuart Palmer,,0,short_story,Ellery Queen's Mystery Magazine,1950-10-01,Oct 1950,False,,,
+260,Once Upon a Train (The Loco Motive),82,1950,,,,2025-06-17T03:48:03.914138,2025-07-30T19:06:14.670676,co-writer Stuart Palmer,,0,novella,Ellery Queen's Mystery Magazine,1950-10-01,"v16, #83",False,,,http://www.philsp.com/homeville/fmi/k04/k04140.htm#A8
 539,One Clear Call,244,1914,,,,2025-07-04T02:04:47.418126,2025-07-09T14:15:19.5862,,,0,novel,,,,False,,,
 310,One Hour Late,122,,,,,2025-06-18T15:23:08.427358,2025-06-18T15:23:08.427358,,,0,novel,,,,False,,,
 954,One Man's Secret,487,,,,,2025-07-16T20:02:16.109624,2025-07-16T20:02:16.109624,,,0,novel,,,,False,,,
@@ -474,14 +474,14 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 612,Password to Larkspur Lane,293,1933,,,,2025-07-07T18:10:08.390277,2025-07-16T14:13:31.016469,,,0,novel,,,,False,,,
 34,Patience Sparhawk and Her Times,16,1897,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
 594,Peabody's Mermaid,286,1946,,,,2025-07-06T15:04:15.381863,2025-07-16T14:13:31.094874,co-writer Guy Pearce Jones,,0,novel,,,,False,,,
-116,Peacock Feathers,47,1924,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
+116,Peacock Feathers,47,1924,,,,2025-06-17T03:48:03.914138,2025-07-25T03:49:55.870658,,,0,novel,Good Housekeeping,1924-02-01,"v78 #2-6, v79 #1-2",True,7,https://archive.org/details/sim_good-housekeeping_1924-02_78_2,http://www.philsp.com/homeville/fmi/k05/k05200.htm#A11
 326,Pegeen,130,1915,,,,2025-06-18T15:33:21.785013,2025-06-20T21:02:57.435525,,,0,novel,,,,False,,,
 685,Penny of Top Hill Trail,342,1919,,,,2025-07-09T00:37:53.368179,2025-07-16T14:13:37.491169,,,0,novel,,,,False,,,
 399,Penny Serenade,167,1940,,,,2025-06-19T19:33:08.044763,2025-06-21T00:18:04.137409,,,0,novel,,,,False,,,
 783,Personal Maid,339,1931,,,,2025-07-09T23:46:09.066983,2025-07-16T14:13:31.164236,,,0,novel,,,,False,,,
 854,Person-To-Person Call,421,,,,,2025-07-11T15:59:38.514905,2025-07-11T15:59:38.514905,,,0,novel,,,,False,,,
 922,Persuasive Peggy,468,,,,,2025-07-16T17:55:07.014826,2025-07-16T17:55:07.014826,,,0,novel,,,,False,,,
-714,Peyton Place,359,1957,,,,2025-07-09T01:02:26.526513,2025-07-09T14:15:19.735451,,,0,novel,,,,False,,,
+714,Peyton Place,359,1956,,,,2025-07-09T01:02:26.526513,2025-07-25T02:52:22.357743,,,0,novel,,,,False,,,
 548,Phantom Crown: The Story of Maximilian and Carlotta of Mexico,252,,,,,2025-07-05T22:28:56.062405,2025-07-05T22:28:56.062405,,,0,novel,,,,False,,,
 188,Pick-Up,53,1928,,,,2025-06-17T03:48:03.914138,2025-07-23T03:20:20.94431,,,0,short_story,Red Book Magazine,1928-11-01,Vol. LII No. 1,False,,,http://www.philsp.com/homeville/fmi/k09/k09076.htm#A5
 592,Pioneers of the Old South; A Chronicle of English Colonial Beginnings,285,1921,,,,2025-07-06T15:03:06.413601,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
@@ -507,17 +507,17 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 908,Reap the Wild Wind,454,,,,,2025-07-16T15:51:08.354003,2025-07-16T15:51:08.354003,,,0,novel,,,,False,,,
 20,Rebecca of Sunnybrook Farm,13,1903,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,True,0,novel,,,,False,,,
 341,Redhead,142,1933,,,,2025-06-18T15:46:53.208207,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
-178,Red-Headed Woman,63,1931,,,,2025-06-17T03:48:03.914138,2025-07-02T16:53:37.414679,,True,0,novel,,,,False,,,
+178,Red-Headed Woman,63,1931,,,,2025-06-17T03:48:03.914138,2025-07-30T18:36:34.93735,,True,1,novel,The Saturday Evening Post,1931-08-22,v204 #8-14,True,7,https://archive.org/details/sim_saturday-evening-post_1931-08-22_204_8,http://www.philsp.com/homeville/fmi/k09/k09571.htm#A5
 709,Red Horse Hill,218,1909,,,,2025-07-09T00:58:19.839471,2025-07-09T14:15:19.803404,,,0,novel,,,,False,,,
-623,Relative Values,38,,,,,2025-07-07T18:18:16.264808,2025-07-07T18:18:16.264808,,,0,novel,,,,False,,,
+623,Relative Value,38,1923,,,,2025-07-07T18:18:16.264808,2025-07-25T03:12:35.111693,,,0,short_story,The Saturday Evening Post,1923-01-27,v195 #31,False,,https://archive.org/details/sim_saturday-evening-post_1923-01-27_195_31,http://www.philsp.com/homeville/fmi/k09/k09495.htm#A9
 374,Remorse,41,,,,,2025-06-19T17:59:57.574093,2025-06-19T17:59:57.574093,,,0,novel,,,,False,,,
 504,Restless Wives,223,,,,,2025-07-02T23:58:53.454687,2025-07-02T23:58:53.454687,,,0,novel,,,,False,,,
 715,Return to Peyton Place,359,1961,,,,2025-07-09T01:02:26.526513,2025-07-16T14:13:36.376424,,,0,novel,,,,False,,,
 972,Reveries of a Station House,493,1916,,,,2025-07-16T20:16:37.170354,2025-07-21T17:39:30.350666,,,0,poem,,,,False,,,
 738,Revolt,355,,,,,2025-07-09T01:54:11.242352,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 242,Ride the Pink Horse,78,1946,,,,2025-06-17T03:48:03.914138,2025-06-20T23:16:34.415108,,,0,novel,,,,False,,,
-316,Roaming Lady,125,1933,,,,2025-06-18T15:27:13.07822,2025-06-20T23:50:48.903727,,,0,novel,,,,False,,,
-103,Roles,39,1924,,,,2025-06-17T03:48:03.914138,2025-06-20T22:10:29.78139,,,0,novel,,,,False,,,
+316,Roaming Lady,125,1933,,,,2025-06-18T15:27:13.07822,2025-07-30T22:03:26.719769,,,0,short_story,Liberty,1933-08-12,v10 #32,False,,,http://www.philsp.com/homeville/fmi/k06/k06249.htm#A1
+103,Roles,39,1923,,,,2025-06-17T03:48:03.914138,2025-07-25T03:22:07.845174,,,0,novel,The Saturday Evening Post,1923-09-08,v196 #10-15,True,6,https://archive.org/details/sim_saturday-evening-post_1923-09-15_196_11,http://www.philsp.com/homeville/fmi/k09/k09499.htm#A10
 437,Romance of a Million Dollars,196,,,,,2025-06-23T01:04:47.210496,2025-06-23T01:04:47.210496,,,0,novel,,,,False,,,
 866,Room for One More,425,1951,,,,2025-07-11T16:03:10.533775,2025-07-16T14:13:31.378755,,,0,novel,,,,False,,,
 544,Room for Two,249,,,,,2025-07-05T22:26:48.549834,2025-07-05T22:26:48.549834,,,0,novel,,,,False,,,
@@ -531,7 +531,7 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 787,Roughly Speaking,398,1943,,,,2025-07-09T23:52:00.593708,2025-07-16T14:13:36.460995,,,0,novel,,,,False,,,
 143,Roulette,25,1921,,,,2025-06-17T03:48:03.914138,2025-07-22T21:54:00.594571,,,0,novella,Cosmopolitan,1921-05-01,Vol. 70 No. 5,False,,http://hdl.handle.net/2027/mdp.39015049025086,http://www.philsp.com/homeville/fmi/k03/k03415.htm#A3
 472,Sacajawea of the Shoshones,211,1943,,,,2025-06-24T13:56:55.436765,2025-07-16T14:13:31.506773,,,0,novel,,,,False,,,
-122,Sadie of the Desert,48,1925,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,Red Book Magazine,1925-10-01,Oct 1925,False,,,
+122,Sadie of the Desert,48,1925,,,,2025-06-17T03:48:03.914138,2025-07-25T03:54:20.746552,,,0,short_story,The Red Book Magazine,1925-10-01,Vol. XLV No. 6,False,,https://archive.org/details/sim_redbook_1925-10_45_6,http://www.philsp.com/homeville/fmi/k09/k09073.htm#A4
 141,Sally's Shoulders,49,1927,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
 113,Salome of the Tenements,36,1923,,,,2025-06-17T03:48:03.914138,2025-07-24T20:51:26.696751,,True,1,novel,Beautiful Womanhood,1923-02-01,,True,,,http://www.philsp.com/homeville/fmi/k01/k01662.htm#A14
 505,Salvage,223,,,,,2025-07-02T23:58:53.454687,2025-07-02T23:58:53.454687,,,0,novel,,,,False,,,
@@ -544,14 +544,14 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 356,Satan Never Sleeps,146,1962,,,,2025-06-18T16:21:09.473982,2025-06-20T21:03:01.893917,,,0,novel,,,,False,,,
 845,Satan Sanderson,417,1907,,,,2025-07-11T15:45:32.571898,2025-07-16T14:13:31.585387,,,0,novel,,,,False,,,
 1000,Scandal House,505,,,,,2025-07-16T20:31:01.820811,2025-07-16T20:31:01.820811,,,0,novel,,,,False,,,
-184,Scotch Valley,48,1927,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
+184,Scotch Valley,48,1927,,,,2025-06-17T03:48:03.914138,2025-07-25T03:55:58.351492,,,0,novel,The American Magazine,1927-05-01,"v103 #5-6, v104 #1-4",True,6,,http://www.philsp.com/homeville/fmi/k00/k00746.htm#A23
 524,Search for the Spring,234,,,,,2025-07-04T01:07:17.690489,2025-07-04T01:07:17.690489,,,0,novel,,,,False,,,
 255,Second Chance,57,1948,,,,2025-06-17T03:48:03.914138,2025-07-23T01:15:16.857432,,,0,short_story,Woman's Day,1948-08-01,Aug 1948,False,,,http://www.philsp.com/homeville/fmi/k12/k12324.htm#A4
-157,Second Choice,39,1928,,,,2025-06-17T03:48:03.914138,2025-06-20T22:18:57.037518,,,0,novel,,,,False,,,
+157,Second Choice,39,1928,,,,2025-06-17T03:48:03.914138,2025-07-25T03:23:29.807882,,,0,novel,The Saturday Evening Post,1928-03-10,v200 #37-43,True,7,https://archive.org/details/sim_saturday-evening-post_1928-03-10_200_37,http://www.philsp.com/homeville/fmi/k09/k09529.htm#A9
 757,Second Hand Wife,376,1931,,,,2025-07-09T15:08:53.006928,2025-07-23T02:42:05.058818,,,0,novel,The Delineator,1931-09-10,"v119 #3-6, v120 #1-4",True,8,http://digital.library.wisc.edu/1711.dl/GenderStudies.DelineatorSep1931,http://www.philsp.com/homeville/fmi/k03/k03742.htm#A9
 511,Secretary of Frivolous Affairs,228,1911,,,,2025-07-03T00:04:00.150701,2025-07-09T14:15:22.379181,,,0,novel,,,,False,,,
 604,Secret Strings,289,,,,,2025-07-06T15:07:55.205463,2025-07-06T15:07:55.205463,,,0,novel,,,,False,,,
-269,See How They Run,100,1951,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,Ladies' Home Journal,1951-06-01,June 1951,False,,,
+269,See How They Run,100,1951,,,,2025-06-17T03:48:03.914138,2025-07-30T21:19:36.100507,,,0,short_story,Ladies' Home Journal,1951-06-01,v68 #6,False,,,http://www.philsp.com/homeville/fmi/k06/k06120.htm#A9
 1014,Seven Days,6,1908,,,,2025-07-18T17:14:32.502355,2025-07-22T20:29:05.869147,,False,0,short_story,Lippincott's Monthly Magazine,1908-12-01,"v53 #6-8, v54 #1-6",True,9,,http://www.philsp.com/homeville/fmi/k06/k06392.htm#A15
 149,Sheba,53,1929,,,,2025-06-17T03:48:03.914138,2025-07-23T03:23:08.872552,,,0,short_story,The Red Book Magazine,1929-02-01,Vol. LII No. 4,False,,https://archive.org/details/sim_redbook_1929-02_52_4,http://www.philsp.com/homeville/fmi/k09/k09076.htm#A8
 200,She Married Her Boss,66,,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,short_story,,,,False,,,
@@ -562,7 +562,7 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 90,Singed Wings,32,1922,,,,2025-06-17T03:48:03.914138,2025-07-24T20:30:40.700223,,,0,short_story,Cosmopolitan,1922-03-01,Vol. 72 No. 3,False,,http://hdl.handle.net/2027/mdp.39015022382454,http://www.philsp.com/homeville/fmi/k03/k03416.htm#A2
 213,Sister Act,25,1937,,,,2025-06-17T03:48:03.914138,2025-07-22T21:55:21.439517,,,0,novella,Hearst's International-Cosmopolitan,1937-03-01,Vol. 102 No. 3,False,,https://archive.org/details/sim_cosmopolitan_1937-03_102_3,http://www.philsp.com/homeville/fmi/k03/k03434.htm#A12
 758,Sisters,376,1918,,,,2025-07-09T15:08:53.006928,2025-07-23T02:44:13.42154,,,0,novel,Good Housekeeping,1918-06-01,"v66 #6, v67 #1-6, v68 #1-5",True,12,,http://www.philsp.com/homeville/fmi/k05/k05196.htm#A1
-625,Sitting on the World,38,,,,,2025-07-07T18:18:16.264808,2025-07-07T18:18:16.264808,,,0,novel,,,,False,,,
+625,Sitting on the World,38,1920,,,,2025-07-07T18:18:16.264808,2025-07-25T03:13:33.208211,,,0,short_story,The Saturday Evening Post,1920-01-03,v192 #27,False,,https://archive.org/details/sim_saturday-evening-post_1920-01-03_192_27,http://www.philsp.com/homeville/fmi/k09/k09481.htm#A6
 180,Skyscraper,57,1931,,,,2025-06-17T03:48:03.914138,2025-07-23T01:16:49.196278,,True,1,novel,Hearst's International-Cosmopolitan,1931-06-01,Vol. XC No. 6,True,6,https://archive.org/details/sim_cosmopolitan_1931-06_90_6,http://www.philsp.com/homeville/fmi/k03/k03428.htm#A8
 761,Slippy McGee; Sometimes Known as the Butterfly Man,378,1917,,,,2025-07-09T15:11:06.310164,2025-07-21T12:55:06.654105,,,0,novel,,,,False,,,
 632,Sloth,302,,,,,2025-07-07T18:36:26.946727,2025-07-07T18:36:26.946727,,,0,novel,,,,False,,,
@@ -577,13 +577,12 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 703,Speed,351,1924,,,,2025-07-09T00:54:43.344029,2025-07-21T18:17:32.022095,,,0,short_story,Saturday Evening Post,1924-10-18,18 Oct-25 Oct 1924,True,2,,
 815,Spinner in the Sun,408,1906,,,,2025-07-11T15:26:12.14593,2025-07-16T14:13:35.529952,,,0,novel,,,,False,,,
 202,Spinster Dinner,57,1934,,,,2025-06-17T03:48:03.914138,2025-07-23T01:18:14.610619,,,0,novella,Hearst's International-Cosmopolitan,1934-07-01,Vol. 97 No. 1,False,,https://archive.org/details/sim_cosmopolitan_1934-07_97_1,http://www.philsp.com/homeville/fmi/k03/k03432.htm#A3
-375,Splurge,41,1924,,,,2025-06-19T17:59:57.574093,2025-06-21T00:08:43.279756,,,0,novel,,,,False,,,
 729,Spoonhandle,368,1946,,,,2025-07-09T01:10:37.369118,2025-07-09T14:15:19.88569,,,0,novel,,,,False,,,
 340,Spring Fever,141,,,,,2025-06-18T15:46:18.48074,2025-07-21T17:39:30.350666,co-writer Katherien Pinkerton,,0,short_story,,,,False,,,
 788,Spring Fever,399,,,,,2025-07-09T23:54:11.74898,2025-07-09T23:54:11.74898,,,0,novel,,,,False,,,
 76,Star-Dust,25,1920,,,,2025-06-17T03:48:03.914138,2025-07-22T21:57:35.563751,,,0,novel,Cosmopolitan,1920-03-01,"Vol. 68 No. 3-6, Vol. 69 No. 1-6",True,10,http://hdl.handle.net/2027/mdp.39015030763745,http://www.philsp.com/homeville/fmi/k03/k03413.htm#A12
 984,Starr of the Southwest,498,,,,,2025-07-16T20:25:10.480012,2025-07-16T20:25:10.480012,,,0,novel,,,,False,,,
-112,Stella Dallas,45,1923,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,True,0,novel,,,,False,,,
+112,Stella Dallas,45,1922,,,,2025-06-17T03:48:03.914138,2025-07-25T03:46:21.726804,,True,1,novel,The American Magazine,1922-10-01,"v94 #4-6, v95 #1-5",True,8,https://hdl.handle.net/2027/mdp.39015056074191,http://www.philsp.com/homeville/fmi/k00/k00744.htm#A13
 476,St. Elmo,215,1866,,,,2025-06-24T13:58:34.257963,2025-07-21T17:39:30.350666,,True,0,novel,,,,False,,,
 666,Stolen Love,327,,,,,2025-07-08T02:42:36.386362,2025-07-16T14:31:22.865458,,,0,novel,,,,False,,,
 947,Stolen Thunder,485,1930,,,,2025-07-16T19:56:50.185405,2025-07-21T18:17:32.022095,,,0,short_story,Saturday Evening Post,1930-06-07,,False,,,
@@ -603,21 +602,21 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 629,Sunny Goes Home,300,1921,,,,2025-07-07T18:34:45.433844,2025-07-21T18:29:42.823139,,,0,short_story,Saturday Evening Post ,1921-05-07,,False,,,
 75,Superman,25,1914,,,,2025-06-17T03:48:03.914138,2025-07-22T22:02:17.721186,,,0,short_story,The Saturday Evening Post,1914-06-20,v186 #51,False,,https://archive.org/details/sim_saturday-evening-post_1914-06-20_186_51,http://www.philsp.com/homeville/fmi/k09/k09458.htm#A5
 771,Suspense,384,1918,,,,2025-07-09T15:15:15.02922,2025-07-16T14:13:31.803965,,,0,novel,,,,False,,,
-626,Sweetie Peach,38,,,,,2025-07-07T18:18:16.264808,2025-07-07T18:18:16.264808,,,0,novel,,,,False,,,
+626,Sweetie Peach,38,1920,,,,2025-07-07T18:18:16.264808,2025-07-25T03:15:12.579966,,,0,short_story,The Saturday Evening Post,1920-03-06,v192 #36,False,,https://archive.org/details/sim_saturday-evening-post_1920-03-06_192_36,http://www.philsp.com/homeville/fmi/k09/k09482.htm#A6
 263,Take Care of My Little Girl,87,1950,,,,2025-06-17T03:48:03.914138,2025-06-20T21:02:55.625793,,,0,novel,,,,False,,,
 276,Tammy Out of Time,90,1948,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
-909,Tammy Tell Me True,90,,,,,2025-07-16T15:58:56.710593,2025-07-16T15:58:56.710593,,,0,novel,,,,False,,,
+909,Tammy Tell Me True,90,1959,,,,2025-07-16T15:58:56.710593,2025-07-30T20:52:08.443594,,,0,novel,,,,False,,,
 576,Tango,273,,,,,2025-07-05T22:45:47.574614,2025-07-05T22:45:47.574614,,,0,novel,,,,False,,,
 569,Tempest and Sunshine,268,1844,,,,2025-07-05T22:40:52.692533,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 525,Ten Against Caeser,236,,,,,2025-07-04T01:35:07.929398,2025-07-04T01:35:07.929398,,,0,novel,,,,False,,,
 474,Tenth Avenue Angel,213,,,,,2025-06-24T13:57:45.32645,2025-06-24T13:57:45.32645,,,0,novel,,,,False,,,
 5,Tess of the Storm Country,4,1909,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,True,0,novel,,,,False,,,
-285,Thanks God! I'll Take It From Here,73,,,,,2025-06-18T03:59:27.863428,2025-06-18T03:59:27.863428,"Jane Shore writing as Jane Allen, co-writer Mae Livingston",,0,novel,,,,False,,,
+285,Thanks God! I'll Take It From Here,73,1946,,,,2025-06-18T03:59:27.863428,2025-07-30T18:51:49.928563,"Jane Shore writing as Jane Allen, co-writer Mae Livingston",,0,novel,,,,False,,,
 860,Tharon of Lost Valley,422,,,,,2025-07-11T16:01:17.386678,2025-07-11T16:01:17.386678,,,0,novel,,,,False,,,
 873,That Girl Montana,431,1901,,,,2025-07-11T16:07:10.045248,2025-07-16T14:13:31.874729,,,0,novel,,,,False,,,
 243,That Hagen Girl,86,1946,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
 96,That Lass O' Lowrie's,3,1876,,,,2025-06-17T03:48:03.914138,2025-07-23T03:00:42.032552,,,0,novel,Scribner's Monthly,1876-08-01,"v12 #4-6, v13 #1-6, v14 #1",True,10,,http://www.philsp.com/homeville/fmi/k02/k02707.htm#A4
-321,The Adventures of a Ready Letter Writer,128,1920,,,,2025-06-18T15:30:56.813333,2025-07-21T18:17:32.022095,,,0,short_story,Saturday Evening Post,1920-11-13,,False,,,
+321,The Adventures of a Ready Letter Writer,128,1920,,,,2025-06-18T15:30:56.813333,2025-07-30T22:11:35.420091,,,0,short_story,The Saturday Evening Post,1920-11-13,v193 #20,False,,https://archive.org/details/sim_saturday-evening-post_1920-11-13_193_20,http://www.philsp.com/homeville/fmi/k09/k09506.htm#A2
 718,The Adventuress,24,,,,,2025-07-09T01:05:36.086255,2025-07-21T17:39:30.350666,,,0,short_story,,,,False,,,
 106,The Age of Innocence,22,1920,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 855,The Alchemy of Love,422,,,,,2025-07-11T16:01:17.386678,2025-07-11T16:01:17.386678,,,0,novel,,,,False,,,
@@ -629,10 +628,10 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 553,The Azure Shore,256,,,,,2025-07-05T22:32:40.729819,2025-07-05T22:32:40.729819,co-writer Frederic Hatton,,0,novel,,,,False,,,
 1001,The Baby's had a Hard Day,506,1940,,,,2025-07-16T20:31:33.186907,2025-07-21T18:30:52.426954,,,0,short_story,Liberty,1940-05-04,,False,,,
 38,The Bargain True,21,1918,,,,2025-06-17T03:48:03.914138,2025-07-24T19:46:56.274049,,,0,novel,The Saturday Evening Post,1918-05-11,v190 #45-47,True,3,https://archive.org/details/sim_saturday-evening-post_1918-05-11_190_45,http://www.philsp.com/homeville/fmi/k09/k09472.htm#A11
-183,The Beachcomber,48,1932,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,College Humor,1932-02-01,Feb-Mar 1932,False,,,
 552,The Bellamy Trial,255,1927,,,,2025-07-05T22:31:07.372388,2025-07-09T14:15:20.116942,,,0,novel,,,,False,,,
 669,The Best Man,330,1913,,,,2025-07-08T02:50:50.141539,2025-07-21T18:31:27.618145,,,0,novella,Lippincott's Monthly Magazine,1913-09-01,Sep 1913,False,,,
 458,The Big Little Person,204,,,,,2025-06-24T13:50:39.670118,2025-06-24T13:50:39.670118,,,0,novel,,,,False,,,
+297,The Big Shot,113,1936,,,,2025-06-18T15:10:00.31105,2025-07-30T21:45:37.491059,,,0,short_story,Collier's,1936-09-19,v98 #12,False,,,http://www.philsp.com/homeville/fmi/k03/k03093.htm#A8
 352,The Big Wave,146,1948,,,,2025-06-18T16:21:09.473982,2025-06-21T00:01:57.594752,,,0,novel,,,,False,,,
 967,The Bird's Christmas Carol,13,1887,,,,2025-07-16T20:15:54.14386,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 580,The Bird's Nest,276,,,,,2025-07-06T14:48:35.840393,2025-07-06T14:48:35.840393,,,0,novel,,,,False,,,
@@ -648,13 +647,13 @@ id,title,author_id,publication_year,genre,plot_summary,literary_significance,cre
 68,The Branding Iron,32,1919,,,,2025-06-17T03:48:03.914138,2025-07-24T20:33:48.980537,,,0,novel,Everybody's Magazine,1919-01-01,"v40 #1-6, v41 #1",True,7,,http://www.philsp.com/homeville/fmi/k04/k04472.htm#A8
 828,The Breaking Point,6,1921,,,,2025-07-11T15:42:10.41529,2025-07-22T20:30:13.33145,,,0,novel,McClure's,1921-06-01,"v53 #6-8, v54 #1-6",False,,,http://www.philsp.com/homeville/fmi/k07/k07085.htm#A8
 708,The Breath of God,218,,,,,2025-07-09T00:58:19.839471,2025-07-09T00:58:19.839471,,,0,novel,,,,False,,,
-201,The Bride Comes Home,67,1935,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,Hearst's International-Cosmopolitan,1935-02-01,Feb 1935,False,,,
+201,The Bride Comes Home,67,1935,,,,2025-06-17T03:48:03.914138,2025-07-30T18:45:27.113068,,,0,short_story,Hearst's International-Cosmopolitan,1935-02-01,Vol. 98 No. 2,False,,https://archive.org/details/sim_cosmopolitan_1935-02_98_2,http://www.philsp.com/homeville/fmi/k03/k03435.htm#A10
 744,The Callahans and the Murphys,376,1924,,,,2025-07-09T15:08:53.006928,2025-07-21T17:39:30.350666,,,0,collection,,,,False,,,
 607,The Call of Life,290,1918,,,,2025-07-06T15:08:39.823642,2025-07-21T18:29:22.786261,,,0,novella,Redbook,1918-08-01,Aug-Dec 1918,True,5,,
 74,The Charm School,24,1919,,,,2025-06-17T03:48:03.914138,2025-07-22T14:38:28.364335,,,0,novel,The Saturday Evening Post,1919-06-21,v191 #51-53,True,3,https://archive.org/details/sim_saturday-evening-post_1919-06-21_191_51,http://www.philsp.com/homeville/fmi/k09/k09478.htm#A2
 885,The Chessboard,441,,,,,2025-07-16T15:04:24.138963,2025-07-16T15:04:24.138963,,,0,novel,,,,False,,,
 963,The Children,22,1928,,,,2025-07-16T20:06:07.147458,2025-07-24T19:53:22.129562,,,0,novel,Pictorial Review,1928-04-01,v29 #7-?,True,,http://digital.library.wisc.edu/1711.dl/GenderStudies.PictorialReviewMay1928,http://www.philsp.com/homeville/fmi/k08/k08533.htm#A10
-7,The Circular Staircase,6,1907,,,,2025-06-17T03:48:03.914138,2025-07-22T20:32:58.762702,,,0,novel,The All-Story Magazine,1907-11-01,"Vol. IX No. 3-4, Vol. X No. 1-3",True,5,,http://www.philsp.com/homeville/fmi/k00/k00479.htm#A2
+7,The Circular Staircase,6,1907,Mystery,,,2025-06-17T03:48:03.914138,2025-07-31T00:56:04.919763,,,0,novel,The All-Story Magazine,1907-11-01,"Vol. IX No. 3-4, Vol. X No. 1-3",True,5,,http://www.philsp.com/homeville/fmi/k00/k00479.htm#A2
 21,The Courage of the Commonplace,14,1911,,,,2025-06-17T03:48:03.914138,2025-07-24T19:22:29.007589,,,0,short_story,Scribner’s Magazine,1911-07-01,v50 #1,False,,,http://www.philsp.com/homeville/fmi/k09/k09902.htm#A5
 668,The Cradle of the Deep,329,1920,,,,2025-07-08T02:47:44.717668,2025-07-21T13:01:29.366744,,,0,novel,,,,False,,,
 601,The Creeping Tides: a Romance of an Old Neighborhood,289,1915,,,,2025-07-06T15:07:55.205463,2025-07-16T14:13:35.035758,,,0,novel,,,,False,,,
@@ -676,6 +675,7 @@ Rubies",223,1920,,,,2025-07-02T23:58:53.454687,2025-07-09T14:15:22.760893,,,0,no
 656,The Devil's Riddle,321,,,,,2025-07-08T02:35:05.922692,2025-07-08T02:35:05.922692,,,0,novel,,,,False,,,
 538,The Devil to Pay,244,1918,,,,2025-07-04T02:04:47.418126,2025-07-09T14:15:20.426709,,,0,novel,,,,False,,,
 253,The Doctor Wears Three Faces,91,1949,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
+1019,The Dog in the Orchard,6,1940,,,,2025-07-31T02:37:34.468775,2025-07-31T02:37:34.468775,,False,0,short_story,Hearst's International-Cosmopolitan,1940-09-01,Vol. 109 No. 3,False,,https://archive.org/details/sim_cosmopolitan_1940-09_109_3,http://www.philsp.com/homeville/fmi/k03/k03441.htm#A7
 480,The Dragon Painter,218,1906,,,,2025-07-02T23:47:09.609517,2025-07-16T14:13:32.266398,,,0,novel,,,,False,,,
 160,The Dude Wrangler,10,1907,,,,2025-06-17T03:48:03.914138,2025-07-24T18:41:01.927112,,,0,novella,The Red Book Magazine,1907-11-01,Vol. X No. 1,False,,https://archive.org/details/sim_redbook_1907-11_10_1,http://www.philsp.com/homeville/fmi/k09/k09053.htm#A4
 396,The Eagle's Mate,166,1914,,,,2025-06-19T19:32:27.509979,2025-07-03T15:27:22.518031,,True,0,novel,,,,False,,,
@@ -683,11 +683,11 @@ Rubies",223,1920,,,,2025-07-02T23:58:53.454687,2025-07-09T14:15:22.760893,,,0,no
 433,The Eleventh Virgin,193,,,,,2025-06-23T01:02:15.470205,2025-06-23T01:02:15.470205,,,0,novel,,,,False,,,
 670,The Enchanted Barn,330,1918,,,,2025-07-08T02:50:50.141539,2025-07-16T14:13:32.340683,,,0,novel,,,,False,,,
 400,The Enemy,168,1915,,,,2025-06-19T19:35:20.353074,2025-06-20T21:03:01.567527,,,0,novel,,,,False,,,
-266,The Enemy,85,1951,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,short_story,,,,False,,,
+266,The Enemy,85,1951,,,,2025-06-17T03:48:03.914138,2025-07-30T19:11:03.03851,,,0,novella,Ellery Queen's Mystery Magazine,1951-05-01,"Vol. 17, Whole No. 90",False,,,http://www.philsp.com/homeville/fmi/k04/k04141.htm#A2
 377,The Eternal Masculine,154,,,,,2025-06-19T18:01:09.399678,2025-06-19T18:01:09.399678,,,0,novel,,,,False,,,
 914,The Failure,462,1932,,,,2025-07-16T17:50:46.150541,2025-07-21T18:30:11.840055,,,0,short_story,American Magazine,1932-11-01,Nov 1932,False,,,
 227,The Fallen Sparrow,78,1942,,,,2025-06-17T03:48:03.914138,2025-06-20T23:09:44.478888,,,0,novel,,,,False,,,
-159,The Feeder,48,1926,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,Redbook,1926-05-01,May 1926,False,,,
+159,The Feeder,48,1926,,,,2025-06-17T03:48:03.914138,2025-07-25T03:57:49.899231,,,0,short_story,The Red Book Magazine,1926-05-01,Vol. XLVII No. 1,False,,https://archive.org/details/sim_redbook_1926-05_47_1,http://www.philsp.com/homeville/fmi/k09/k09073.htm#A11
 449,The Fighting Blade,199,1912,,,,2025-06-23T01:15:47.859857,2025-07-09T14:15:20.527666,,,0,novel,,,,False,,,
 70,The Fighting Sherpherdess,10,1919,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
 883,The Finger Man,439,,,,,2025-07-16T15:01:10.143538,2025-07-16T15:01:10.143538,,,0,novel,,,,False,,,
@@ -701,11 +701,11 @@ Rubies",223,1920,,,,2025-07-02T23:58:53.454687,2025-07-09T14:15:22.760893,,,0,no
 322,The Fortieth Door,129,1920,,,,2025-06-18T15:32:15.721667,2025-06-20T23:53:48.481149,,,0,novel,,,,False,,,
 671,The Frightened Child,331,1948,,,,2025-07-08T02:51:15.906943,2025-07-16T14:13:36.971877,,,0,novel,,,,False,,,
 864,The Frightened Stiff,424,1942,,,,2025-07-11T16:02:44.130718,2025-07-16T14:48:56.352304,,,0,novel,,,,False,,,
-912,The Fuzzy Pink Nightgown,95,,,,,2025-07-16T17:50:07.559759,2025-07-16T17:50:07.559759,,,0,novel,,,,False,,,
+912,The Fuzzy Pink Nightgown,95,1956,,,,2025-07-16T17:50:07.559759,2025-07-30T20:58:21.384197,,,0,novel,,,,False,,,
 831,The G. A. C.,6,1917,,,,2025-07-11T15:42:10.41529,2025-07-22T20:34:25.812699,,,0,short_story,The Saturday Evening Post,1917-06-02,v189 #49,False,,https://archive.org/details/sim_saturday-evening-post_1917-06-02_189_49,http://www.philsp.com/homeville/fmi/k09/k09468.htm#A9
 485,The Gay Old Dog,40,1917,,,,2025-07-02T23:51:00.154972,2025-07-22T21:30:49.090146,,,0,novella,Metropolitan,1917-10-01,v46 #5,False,,https://hdl.handle.net/2027/uva.x030708296,http://www.philsp.com/homeville/fmi/k07/k07138.htm#A10
 871,The Gentle Web,430,,,,,2025-07-11T16:06:20.32633,2025-07-11T16:06:20.32633,co-writer Larry Marcus,,0,novel,,,,False,,,
-289,The Ghost of Rosy Taylor,110,1917,,,,2025-06-18T14:12:28.071702,2025-07-21T18:17:32.022095,,,0,short_story,Saturday Evening Post,1917-11-17,,False,,,
+289,The Ghost of Rosy Taylor,110,1917,,,,2025-06-18T14:12:28.071702,2025-07-30T21:42:33.752287,,,0,short_story,The Saturday Evening Post,1917-11-17,v190 #20,False,,https://archive.org/details/sim_saturday-evening-post_1917-11-17_190_20,http://www.philsp.com/homeville/fmi/k09/k09490.htm#A7
 847,The Gilded Dream,26,1920,,,,2025-07-11T15:46:21.522532,2025-07-24T20:02:48.267502,co-writer Lorne H. Fontaine (pseud of Helen Gardenhire-Martens),,0,novella,Young's Magazine,1920-03-01,Volume XXXIX No. 1,False,,,http://www.philsp.com/homeville/fmi/k12/k12512.htm#A10
 942,The Girl from His Town,480,1910,,,,2025-07-16T18:55:41.44608,2025-07-21T13:07:33.614797,,,0,novel,,,,False,,,
 599,The Girl in the Mirror,288,1919,,,,2025-07-06T15:05:43.597852,2025-07-21T13:07:50.748255,,,0,novel,,,,False,,,
@@ -723,14 +723,14 @@ Rubies",223,1920,,,,2025-07-02T23:58:53.454687,2025-07-09T14:15:22.760893,,,0,no
 290,The Gossamer World,57,1948,,,,2025-06-18T14:21:28.040821,2025-07-23T01:20:09.416062,,,0,short_story,Woman's Home Companion,1948-08-01,v75 #8,False,,,http://www.philsp.com/homeville/fmi/k12/k12355.htm#A5
 798,The Grandflapper,405,,,,,2025-07-10T00:01:31.990449,2025-07-10T00:01:31.990449,,,0,novel,,,,False,,,
 503,The Gray Path,223,,,,,2025-07-02T23:58:53.454687,2025-07-02T23:58:53.454687,,,0,novel,,,,False,,,
-196,The Great God Four-Flush,43,1923,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,short_story,Hearst's International-Cosmopolitan,,,False,,,
+196,The Great God Four-Flush,43,1923,,,,2025-06-17T03:48:03.914138,2025-07-25T03:37:16.939752,,,0,short_story,Hearst's International-Cosmopolitan,1923-05-01,Vol. 74 No. 5,False,,http://hdl.handle.net/2027/mdp.39015049024949,http://www.philsp.com/homeville/fmi/k03/k03417.htm#A6
 851,The Great Meadow,419,1930,,,,2025-07-11T15:58:19.719284,2025-07-16T14:13:32.408472,,,0,novel,,,,False,,,
 65,The Guests of Hercules,7,1912,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
 278,The Hanging Tree,105,1957,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
 69,The Happy Family,33,1910,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
 293,The Harbor Road,111,1919,,,,2025-06-18T15:05:55.566171,2025-06-20T21:02:56.072268,,,0,novel,,,,False,,,
 132,The Harvester,12,1911,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
-146,The Haunted Lady,43,1925,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,Hearst's International-Cosmopolitan,1925-05-01,May 1925,False,,,
+146,The Haunted Lady,43,1925,,,,2025-06-17T03:48:03.914138,2025-07-25T03:38:18.407405,,,0,short_story,Hearst's International-Cosmopolitan,1925-05-01,Vol. XXXVIII No. 8,False,,https://archive.org/details/Macleans-Magazine-1925-04-15,http://www.philsp.com/homeville/fmi/k06/k06751.htm#A2
 748,The Heart of Rachael,376,1916,,,,2025-07-09T15:08:53.006928,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 857,The Heart of the Night Wind,422,,,,,2025-07-11T16:01:17.386678,2025-07-11T16:01:17.386678,,,0,novel,,,,False,,,
 611,The Hidden Staircase,293,1930,,,,2025-07-07T18:10:08.390277,2025-07-09T14:15:20.598901,,,0,novel,,,,False,,,
@@ -754,7 +754,7 @@ Rubies",223,1920,,,,2025-07-02T23:58:53.454687,2025-07-09T14:15:22.760893,,,0,no
 535,The Leavenworth Case,243,1878,,,,2025-07-04T01:59:47.589373,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 98,The Leopardess,32,1923,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,short_story,,,,False,,,
 44,The Life Mask,7,1913,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
-272,The Life of Lucy Gallant,103,1953,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novella,Good Housekeeping,,,False,,,
+272,The Life of Lucy Gallant,103,1953,,,,2025-06-17T03:48:03.914138,2025-07-30T21:27:43.450598,,,0,novella,Good Housekeeping,1953-05-01,,False,,,
 431,The Little Chevalier,191,1903,,,,2025-06-23T01:00:55.110513,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 966,The Little Horse,492,1944,,,,2025-07-16T20:13:50.819056,2025-07-21T18:31:02.65992,,,0,short_story,Good Housekeeping,1944-06-01,Jun 1944,False,,,
 760,The Little Savior,377,,,,,2025-07-09T15:10:43.870199,2025-07-21T17:39:30.350666,,,0,short_story,Young's Magazine,,,False,,,
@@ -774,7 +774,7 @@ Rubies",223,1920,,,,2025-07-02T23:58:53.454687,2025-07-09T14:15:22.760893,,,0,no
 662,The Man Inside,324,1914,,,,2025-07-08T02:37:32.149779,2025-07-09T14:15:20.679569,,,0,novel,,,,False,,,
 936,The Man Who Beat Dan Dolan,477,,,,,2025-07-16T18:52:05.643272,2025-07-16T18:52:05.643272,,,0,novel,,,,False,,,
 720,The Man Who Married His Own Wife,361,1922,,,,2025-07-09T01:06:32.299395,2025-07-21T18:29:45.516078,co-writer John Fleming Wilson,,0,short_story,Hearst's International-Cosmopolitan,1922-04-01,April 1922,False,,,
-586,The Man Who Shot Liberty Valance,105,,,,,2025-07-06T14:59:12.336595,2025-07-06T14:59:12.336595,,,0,novel,,,,False,,,
+586,The Man Who Shot Liberty Valance,105,1949,,,,2025-07-06T14:59:12.336595,2025-07-30T21:32:11.710782,,,0,novella,Cosmopolitan,1949-07-01,Vol. 127 No. 1,False,,https://archive.org/details/sim_cosmopolitan_1949-07_127_1,http://www.philsp.com/homeville/fmi/k03/k03450.htm#A10
 455,The Marble Forest,202,1951,,,,2025-06-23T01:18:32.768474,2025-07-09T14:15:22.860358,,,0,novel,,,,False,,,
 793,The Marrying of Emmy,402,,,,,2025-07-09T23:58:07.626029,2025-07-09T23:58:07.626029,,,0,novel,,,,False,,,
 536,The Mayor's Wife,243,1907,,,,2025-07-04T01:59:47.589373,2025-07-21T03:13:30.893459,,,0,novel,,,,False,,,
@@ -784,7 +784,6 @@ Rubies",223,1920,,,,2025-07-02T23:58:53.454687,2025-07-09T14:15:22.760893,,,0,no
 537,The Millionaire Baby,243,1905,,,,2025-07-04T01:59:47.589373,2025-07-09T14:15:20.749834,,,0,novel,,,,False,,,
 205,The Moon's Our Home,57,1935,,,,2025-06-17T03:48:03.914138,2025-07-23T01:21:39.070808,,,0,novel,Hearst's International-Cosmopolitan,1935-09-01,Vol. 99 No. 3,True,5,https://archive.org/details/sim_cosmopolitan_1935-09_99_3,http://www.philsp.com/homeville/fmi/k03/k03433.htm#A7
 190,The Murder of Steven Kester,64,1933,,,,2025-06-17T03:48:03.914138,2025-06-20T21:02:54.486045,,,0,novel,,,,False,,,
-318,The Music Lovers,126,1937,,,,2025-06-18T15:28:26.388459,2025-06-20T21:02:57.124517,co-writer Barbara Von Meck,,0,novel,,,,False,,,
 463,The Mystery of Hunting's End,205,,,,,2025-06-24T13:52:38.20728,2025-06-24T13:52:38.20728,,,0,novel,,,,False,,,
 961,The Naked Truth,489,,,,,2025-07-16T20:03:43.567921,2025-07-16T20:03:43.567921,,,0,novel,,,,False,,,
 808,The Nervous Wreck,407,1923,,,,2025-07-11T15:02:26.266047,2025-07-16T14:13:34.757143,,,0,novel,,,,False,,,
@@ -845,16 +844,16 @@ Rubies",223,1920,,,,2025-07-02T23:58:53.454687,2025-07-09T14:15:22.760893,,,0,no
 24,The Secret of the Storm Country,4,1916,,,,2025-06-17T03:48:03.914138,2025-07-23T01:35:32.516977,,,0,novel,Woman's World,1916-12-01,v32 #12,True,,,http://www.philsp.com/homeville/fmi/k12/k12370.htm#A16
 692,The Secret Six,346,1931,,,,2025-07-09T00:48:55.82802,2025-07-09T14:15:21.043031,,,0,novel,,,,False,,,
 402,These Days,169,1928,,,,2025-06-19T19:36:43.489894,2025-06-20T21:02:59.371964,,,0,novel,,,,False,,,
-624,The See-Saw: a Story of Today,38,,,,,2025-07-07T18:18:16.264808,2025-07-07T18:18:16.264808,,,0,novel,,,,False,,,
+624,The See-Saw: a Story of Today,38,1918,,,,2025-07-07T18:18:16.264808,2025-07-25T03:17:15.687187,,,0,novel,McClure's,1918-11-01,"v50 #13-14, v51 #1-4",True,6,,http://www.philsp.com/homeville/fmi/k07/k07082.htm#A8
 543,These Glamour Girls,248,1938,,,,2025-07-05T22:25:45.139192,2025-07-23T01:48:56.872768,,,0,novel,Hearst's International-Cosmpolitan,1938-12-01,Vol. 105 No. 6,False,,https://archive.org/details/sim_cosmopolitan_1938-12_105_6,http://www.philsp.com/homeville/fmi/k03/k03436.htm#A7
-95,The Self-Made Wife,39,1922,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,Saturday Evening Post,1922-10-28,28 Oct-18 Nov 1922,True,3,,
+95,The Self-Made Wife,39,1922,,,,2025-06-17T03:48:03.914138,2025-07-25T03:24:46.724803,,,0,novella,The Saturday Evening Post,1922-10-28,v195 #18-21,True,4,https://archive.org/details/sim_saturday-evening-post_1922-10-28_195_18,http://www.philsp.com/homeville/fmi/k09/k09494.htm#A4
 702,The Shadow of Rosalie Byrnes,351,1919,,,,2025-07-09T00:54:43.344029,2025-07-16T14:13:32.843515,,,0,novel,,,,False,,,
 12,The Shop Girl,7,1916,,,,2025-06-17T03:48:03.914138,2025-07-02T18:21:08.260432,,True,0,novel,,,,False,,,
 365,The Shuttle,3,1908,,,,2025-06-18T16:26:19.495342,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 564,The Shuttle Soul,265,,,,,2025-07-05T22:38:34.355743,2025-07-05T22:38:34.355743,,,0,novel,,,,False,,,
-147,The Single Standard,43,1928,,,,2025-06-17T03:48:03.914138,2025-07-02T16:58:56.550847,,True,0,novel,,,,False,,,
+147,The Single Standard,43,1927,,,,2025-06-17T03:48:03.914138,2025-07-25T03:41:16.719047,,True,1,novel,Hearst's International-Cosmopolitan,1927-12-01,"Vol. 83 No. 6, v84 No. 1-4",True,5,https://archive.org/details/sim_cosmopolitan_1927-12_83_6,http://www.philsp.com/homeville/fmi/k03/k03424.htm#A6
 574,The Sin of Susan Slade,272,,,,,2025-07-05T22:43:52.668591,2025-07-05T22:43:52.668591,,,0,novel,,,,False,,,
-123,The Skyrocket,43,1925,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
+123,The Skyrocket,43,1925,,,,2025-06-17T03:48:03.914138,2025-07-25T03:42:25.948965,,,0,novel,Cosmopolitan,,Vol. 78 No. 1-4,True,4,https://archive.org/details/sim_cosmopolitan_1925-01_78_1,http://www.philsp.com/homeville/fmi/k03/k03419.htm#A8
 945,The Snake Pit,483,1946,,,,2025-07-16T19:55:47.87785,2025-07-21T00:24:04.306551,,,0,novel,,,,False,,,
 698,The Snob,349,1924,,,,2025-07-09T00:52:32.856985,2025-07-09T14:15:21.184227,,,0,novel,,,,False,,,
 730,The Snowbird,369,,,,,2025-07-09T01:11:03.597831,2025-07-09T01:11:03.597831,,,0,novel,,,,False,,,
@@ -864,6 +863,7 @@ Rubies",223,1920,,,,2025-07-02T23:58:53.454687,2025-07-09T14:15:22.760893,,,0,no
 605,The Spirit of the Road,289,,,,,2025-07-06T15:07:55.205463,2025-07-06T15:07:55.205463,,,0,novel,,,,False,,,
 991,The Spite Bride,501,,,,,2025-07-16T20:27:25.475525,2025-07-16T20:27:25.475525,,,0,novel,,,,False,,,
 859,The Splendid Road,422,,,,,2025-07-11T16:01:17.386678,2025-07-11T16:01:17.386678,,,0,novel,,,,False,,,
+375,The Splurge,41,1924,,,,2025-06-19T17:59:57.574093,2025-07-25T03:28:53.701779,,,0,short_story,McCall's,1924-11-01,Volume LII Number 2,False,,https://archive.org/details/sim_rosie_1924-11_52_2,http://www.philsp.com/homeville/fmi/k07/k07033.htm#A10
 955,The Stage Door,487,,,,,2025-07-16T20:02:16.109624,2025-07-16T20:02:16.109624,,,0,novel,,,,False,,,
 884,The Stars in Their Courses,440,,,,,2025-07-16T15:03:57.759781,2025-07-16T15:03:57.759781,,,0,novel,,,,False,,,
 838,The State versus Elinor Norton,6,1934,,,,2025-07-11T15:42:10.41529,2025-07-22T20:38:24.936314,,,0,novel,Ladies' Home Journal,,Part ? of ? appeared in v51 #1 (January 1934),True,,,http://www.philsp.com/homeville/fmi/k06/k06106.htm#A17
@@ -883,7 +883,7 @@ Rubies",223,1920,,,,2025-07-02T23:58:53.454687,2025-07-09T14:15:22.760893,,,0,no
 939,The Two Sisters,478,,,,,2025-07-16T18:54:18.778742,2025-07-16T18:54:18.778742,,,0,novel,,,,False,,,
 578,The Unafraid,274,1913,,,,2025-07-06T14:47:09.078725,2025-07-09T14:15:21.406734,,,0,novel,,,,False,,,
 393,The Underside,164,1917,,,,2025-06-19T19:30:30.766111,2025-07-21T18:17:32.022095,,,0,short_story,Saturday Evening Post,1917-08-11,,False,,,
-241,The Unsuspected,85,1945,,,,2025-06-17T03:48:03.914138,2025-07-02T18:52:34.097783,,True,0,novel,,,,False,,,
+241,The Unsuspected,85,1945,,,,2025-06-17T03:48:03.914138,2025-07-30T19:12:59.871157,,True,1,novel,The Saturday Evening Post,1945-08-11,v218 #6,True,8,https://archive.org/details/sim_saturday-evening-post_1945-08-11_218_6,http://www.philsp.com/homeville/fmi/k09/k09637.htm#A13
 846,The Valiants of Virginia,417,1912,,,,2025-07-11T15:45:32.571898,2025-07-16T14:13:33.22778,,,0,novel,,,,False,,,
 935,The Valley of Content,476,,,,,2025-07-16T18:51:31.872856,2025-07-16T18:51:31.872856,,,0,novel,,,,False,,,
 426,The Valley of Decision,188,,,,,2025-06-23T00:58:01.182186,2025-06-23T00:58:01.182186,,,0,novel,,,,False,,,
@@ -904,15 +904,15 @@ Rubies",223,1920,,,,2025-07-02T23:58:53.454687,2025-07-09T14:15:22.760893,,,0,no
 958,The Witness Chair,487,,,,,2025-07-16T20:02:16.109624,2025-07-16T20:02:16.109624,,,0,novel,,,,False,,,
 923,The Woman's Law,468,1914,,,,2025-07-16T17:55:07.014826,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 13,The Woman Who Dared,7,1903,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
-152,The Woman Who Was Forgotten,55,1926,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,American Magazine,1926-06-01,June 1926,False,,,
+152,The Woman Who Was Forgotten,55,1926,,,,2025-06-17T03:48:03.914138,2025-07-25T04:14:06.133682,,,0,short_story,The American Magazine,1926-06-01,v101 #6,False,,https://hdl.handle.net/2027/mdp.39015011256768,http://www.philsp.com/homeville/fmi/k00/k00746.htm#A12
 686,The Woman who was Scared,343,,,,,2025-07-09T00:46:17.847341,2025-07-21T17:39:30.350666,,,0,short_story,,,,False,,,
-108,The Worst Woman in Hollywood,43,1924,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,Cosmopolitan,1924-02-01,Feb 1924,False,,,
+108,The Worst Woman in Hollywood,43,1924,,,,2025-06-17T03:48:03.914138,2025-07-25T03:43:17.946505,,,0,short_story,Cosmopolitan,1924-02-01,Vol. 76 No. 2,False,,http://hdl.handle.net/2027/mdp.39015056096558,http://www.philsp.com/homeville/fmi/k03/k03418.htm#A6
 457,They Call It Sin,203,1932,,,,2025-06-24T13:50:18.892742,2025-07-16T14:13:33.526586,,,0,novel,,,,False,,,
 240,The Yearling,84,1938,,,,2025-06-17T03:48:03.914138,2025-07-02T17:57:54.289877,,True,0,novel,,,,False,,,
 642,The Years are So Long,310,1934,,,,2025-07-08T02:23:27.833248,2025-07-16T14:13:36.831145,,,0,novel,,,,False,,,
 435,The Youngest Profession,194,1940,,,,2025-06-23T01:03:22.511094,2025-07-09T14:15:21.474758,,,0,novel,,,,False,,,
 420,The Young Widow,184,1942,,,,2025-06-19T19:52:55.004119,2025-06-21T00:22:48.60698,,,0,novel,,,,False,,,
-199,Thin Air,48,1934,,,,2025-06-17T03:48:03.914138,2025-07-21T18:17:32.022095,,,0,short_story,Hearst's International-Cosmopolitan,1934-11-01,Nov 1934,False,,,
+199,Thin Air,48,1934,,,,2025-06-17T03:48:03.914138,2025-07-25T03:58:53.24817,,,0,short_story,Hearst's International-Cosmopolitan,1934-11-01,Vol. 97 No. 5,False,,https://archive.org/details/sim_cosmopolitan_1934-11_97_5,http://www.philsp.com/homeville/fmi/k03/k03432.htm#A7
 261,Three Came Home,96,1948,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
 764,"Thunderhead, Son of Flicka",379,1943,,,,2025-07-09T15:11:56.283672,2025-07-21T00:26:49.225708,,,0,novel,,,,False,,,
 699,"Tillie, a Mennonite Maid",349,1904,,,,2025-07-09T00:52:32.856985,2025-07-16T14:13:33.604455,,,0,novel,,,,False,,,
@@ -938,7 +938,7 @@ Rubies",223,1920,,,,2025-07-02T23:58:53.454687,2025-07-09T14:15:22.760893,,,0,no
 614,"Turn About, Eleanor",295,1917,,,,2025-07-07T18:11:57.972938,2025-07-16T14:13:34.889485,,,0,novel,,,,False,,,
 706,Turn Home,353,1947,,,,2025-07-09T00:56:17.639089,2025-07-16T14:13:35.321554,,,0,novel,,,,False,,,
 842,Twenty-Three and a Half Hours' Leave,6,1918,,,,2025-07-11T15:42:10.41529,2025-07-22T20:44:54.745048,,,0,short_story,The Saturday Evening Post ,1918-08-24,v191 #8,False,,https://archive.org/details/sim_saturday-evening-post_1918-08-24_191_8,http://www.philsp.com/homeville/fmi/k09/k09474.htm#A2
-507,Twenty-Two,80,,,,,2025-07-03T00:01:10.748125,2025-07-03T00:01:10.748125,,,0,novel,,,,False,,,
+507,Twenty-Two,80,1943,,,,2025-07-03T00:01:10.748125,2025-07-30T19:00:43.25771,,,0,short_story,Redbook,1943-10-01,Vol. 81 No. 6,False,,,http://www.philsp.com/homeville/fmi/k09/k09108.htm#A13
 588,Two-Bit Seats,282,,,,,2025-07-06T15:00:04.807335,2025-07-06T15:00:04.807335,,,0,novel,,,,False,,,
 898,Two Shall be Born,452,,,,,2025-07-16T15:42:42.856061,2025-07-16T15:42:42.856061,,,0,novel,,,,False,,,
 800,Two Weeks with Pay,405,,,,,2025-07-10T00:01:31.990449,2025-07-10T00:01:31.990449,,,0,novel,,,,False,,,
@@ -954,7 +954,7 @@ Rubies",223,1920,,,,2025-07-02T23:58:53.454687,2025-07-09T14:15:22.760893,,,0,no
 861,Val of Paradise,422,,,,,2025-07-11T16:01:17.386678,2025-07-11T16:01:17.386678,,,0,novel,,,,False,,,
 960,Vicky Van,488,,,,,2025-07-16T20:02:51.513032,2025-07-16T20:02:51.513032,,,0,novel,,,,False,,,
 327,Wake Up and Live,131,1936,,,,2025-06-18T15:33:56.898085,2025-06-20T23:54:23.427226,,,0,novel,,,,False,,,
-144,Wallflowers,47,1927,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
+144,Wallflowers,47,1926,,,,2025-06-17T03:48:03.914138,2025-07-25T03:51:21.529986,,,0,novel,Good Housekeeping,1926-09-01,v83 #3-?,True,,https://archive.org/details/sim_good-housekeeping_1926-09_83_3,http://www.philsp.com/homeville/fmi/k05/k05203.htm#A5
 759,Walls of Gold,376,1932,,,,2025-07-09T15:08:53.006928,2025-07-23T02:48:38.886051,,,0,novel,The American Magazine,1932-10-01,"Vol. CXIV No. 4-6, Vol. CXV No. 1-4",True,7,,http://www.philsp.com/homeville/fmi/k00/k00751.htm#A3
 171,Weekend Marriage,57,1932,,,,2025-06-17T03:48:03.914138,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 406,Weep No More,172,1955,,,,2025-06-19T19:40:21.503879,2025-06-20T21:03:00.872135,,,0,novel,,,,False,,,
@@ -976,11 +976,11 @@ Rubies",223,1920,,,,2025-07-02T23:58:53.454687,2025-07-09T14:15:22.760893,,,0,no
 453,Who Knows?,200,,,,,2025-06-23T01:17:15.436258,2025-06-23T01:17:15.436258,co-writer James Dorrance,,0,novel,,,,False,,,
 56,Whose Widow?,30,1918,,,,2025-06-17T03:48:03.914138,2025-07-24T20:28:05.723675,,,0,novella,Smith's Magazine,1918-08-01,v27 #5,False,,,http://www.philsp.com/homeville/fmi/k10/k10363.htm#A7
 43,Why Not?,17,1915,,,,2025-06-17T03:48:03.914138,2025-06-17T03:48:03.914138,,,0,novel,,,,False,,,
-194,Wicked Woman,65,1933,,,,2025-06-17T03:48:03.914138,2025-06-20T21:03:01.18329,,,0,novel,,,,False,,,
+194,Wicked Woman,65,1933,,,,2025-06-17T03:48:03.914138,2025-07-30T18:40:27.159273,,,0,novel,The Household Magazine,1933-07-01,Volume 33 Number 7-?,True,,,http://www.philsp.com/homeville/fmi/k05/k05692.htm#A13
 637,Widow's Night,305,,,,,2025-07-08T02:13:48.884094,2025-07-08T02:13:48.884094,,,0,novel,,,,False,,,
 197,Wife vs. Secretary,57,1935,,,,2025-06-17T03:48:03.914138,2025-07-23T01:24:51.033019,,,0,novella,Hearst's International-Cosmopolitan,1935-05-01,Vol. 98 No. 5,False,,https://archive.org/details/sim_cosmopolitan_1935-05_98_5,http://www.philsp.com/homeville/fmi/k03/k03433.htm#A3
 479,Wild Beauty,217,,,,,2025-07-02T23:45:38.381962,2025-07-02T23:45:38.381962,,,0,novel,,,,False,,,
-312,Wild Calendar,122,1946,,,,2025-06-18T15:23:08.427358,2025-06-20T21:02:56.896723,,,0,novel,,,,False,,,
+312,Wild Calendar,122,1945,,,,2025-06-18T15:23:08.427358,2025-07-30T21:59:21.69083,,,0,novel,Woman's Home Companion,1945-07-01,v72 #7-?,True,,,http://www.philsp.com/homeville/fmi/k12/k12377.htm#A13
 768,Wild Geese,383,1925,,,,2025-07-09T15:14:34.94381,2025-07-21T17:39:30.350666,,,0,novel,,,,False,,,
 862,Wild Honey,422,,,,,2025-07-11T16:01:17.386678,2025-07-11T16:01:17.386678,,,0,novel,,,,False,,,
 875,Willie the Worm,432,,,,,2025-07-11T16:07:58.297585,2025-07-11T16:07:58.297585,,,0,novel,,,,False,,,
@@ -995,12 +995,12 @@ Rubies",223,1920,,,,2025-07-02T23:58:53.454687,2025-07-09T14:15:22.760893,,,0,no
 645,With This Ring,311,1925,,,,2025-07-08T02:25:03.661198,2025-07-16T14:13:35.39532,,,0,novel,,,,False,,,
 288,Woman Accused,16,1933,,,,2025-06-18T04:09:15.330871,2025-07-21T17:39:30.350666,"co-writers Vicki Baum, Vina Delmar, Sophie Kerr, and Ursula Parrott",True,0,novel,Liberty,,21 Jan-18 Feb 1933,False,4,,
 682,Women Like Men,341,,,,,2025-07-09T00:36:40.75176,2025-07-09T00:36:40.75176,,,0,novel,,,,False,,,
-627,Worldly Goods,38,,,,,2025-07-07T18:18:16.264808,2025-07-07T18:18:16.264808,,,0,novel,,,,False,,,
+627,Worldly Goods,38,1923,,,,2025-07-07T18:18:16.264808,2025-07-25T03:18:38.751449,,,0,novel,Ladies' Home Journal,1923-12-01,"v40 #12, v41 #1-3",True,4,,http://www.philsp.com/homeville/fmi/k06/k06100.htm#A5
 317,Yankee from Olympus,126,1944,,,,2025-06-18T15:28:26.388459,2025-06-20T21:02:57.044932,,,0,novel,,,,False,,,
-376,Yesterday's Wife,41,1920,,,,2025-06-19T17:59:57.574093,2025-07-21T18:17:32.022095,,,0,short_story,Snappy Stories,1920-05-01,,False,,,
+376,Yesterday's Wife,41,1920,,,,2025-06-19T17:59:57.574093,2025-07-25T03:29:22.512687,,,0,novella,Snappy Stories,1920-05-01,v50 #2,False,,,http://www.philsp.com/homeville/fmi/k10/k10402.htm#A4
 687,You Can't Fool a Marine,344,,,,,2025-07-09T00:46:50.156582,2025-07-09T00:46:50.156582,,,0,novel,,,,False,,,
 350,You Never Can Tell,144,1919,,,,2025-06-18T15:49:36.7694,2025-07-21T18:17:32.022095,,,0,short_story,Saturday Evening Post,1919-11-22,,False,,,
-348,Young Man of Manhattan,63,1930,,,,2025-06-18T15:48:54.473886,2025-06-20T21:03:00.499512,,,0,novel,,,,False,,,
-254,Young Man With a Horn,92,1949,,,,2025-06-17T03:48:03.914138,2025-06-20T21:02:55.550987,,,0,novel,,,,False,,,
+348,Young Man of Manhattan,63,1929,,,,2025-06-18T15:48:54.473886,2025-07-30T18:37:45.603207,,,0,novel,The Saturday Evening Post,1929-10-19,v202 #16-21,True,6,https://archive.org/details/sim_saturday-evening-post_1929-10-19_202_16,http://www.philsp.com/homeville/fmi/k09/k09559.htm#A5
+254,Young Man With a Horn,92,1938,,,,2025-06-17T03:48:03.914138,2025-07-30T20:54:26.024428,,,0,novel,,,,False,,,
 726,You're Only Human Once,365,1944,,,,2025-07-09T01:09:22.675549,2025-07-16T14:13:34.259279,,,0,novel,,,,False,,,
 901,You Were There,454,,,,,2025-07-16T15:44:18.184162,2025-07-16T15:44:18.184162,,,0,novel,,,,False,,,

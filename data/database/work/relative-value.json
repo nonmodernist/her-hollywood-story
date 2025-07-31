@@ -1,0 +1,62 @@
+{
+  "id": 623,
+  "slug": "relative-value",
+  "title": "Relative Value",
+  "formatted_title": "\"Relative Value\"",
+  "html_title": "<span class=\"work-title short-story\">\"Relative Value\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1923,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 38,
+    "slug": "sophie-kerr",
+    "name": "Sophie Kerr",
+    "birth_year": 1880,
+    "death_year": 1965,
+    "film_count": 9
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 707,
+      "slug": "young-ideas-1924",
+      "title": "Young Ideas",
+      "html_title": "<span class=\"film-title\">Young Ideas</span>",
+      "year": 1924,
+      "studio": "Universal",
+      "directors": "Robert F. Hill",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "has_photoplay_edition": false,
+  "magazine_publication": {
+    "magazine_title": "The Saturday Evening Post",
+    "magazine_pub_date": "1923-01-27",
+    "magazine_issue_info": "v195 #31",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1923-01-27_195_31",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09495.htm#A9",
+    "serialized": false,
+    "serial_parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-25T03:12:35.111693"
+}

@@ -48,7 +48,15 @@
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": true,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Saturday Evening Post",
+    "magazine_pub_date": "1945-08-11",
+    "magazine_issue_info": "v218 #6",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1945-08-11_218_6",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09637.htm#A13",
+    "serialized": true,
+    "serial_parts": 8
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-02T18:52:34.097783"
+  "last_updated": "2025-07-30T19:12:59.871157"
 }

@@ -2,9 +2,9 @@
   "id": 215,
   "slug": "free-woman",
   "title": "Free Woman",
-  "formatted_title": "\"Free Woman\"",
-  "html_title": "<span class=\"work-title short-story\">\"Free Woman\"</span>",
-  "work_type": "short_story",
+  "formatted_title": "Free Woman",
+  "html_title": "<span class=\"work-title\">Free Woman</span>",
+  "work_type": "novella",
   "publication_year": 1936,
   "genre": null,
   "plot_summary": null,
@@ -49,14 +49,14 @@
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
   "magazine_publication": {
-    "magazine_title": "Red Book Magazine",
+    "magazine_title": "Redbook Magazine",
     "magazine_pub_date": "1936-11-01",
-    "magazine_issue_info": "Nov-Dec 1936",
+    "magazine_issue_info": "Vol. 68 No. 1-2",
     "digitized_url": null,
-    "FMI_link": null,
-    "serialized": false,
-    "serial_parts": null
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09101.htm#A9",
+    "serialized": true,
+    "serial_parts": 2
   },
   "has_narrative": false,
-  "last_updated": "2025-07-21T18:17:32.022095"
+  "last_updated": "2025-07-30T18:26:47.005408"
 }

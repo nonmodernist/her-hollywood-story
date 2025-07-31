@@ -48,7 +48,15 @@
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Collier's",
+    "magazine_pub_date": "1943-11-06",
+    "magazine_issue_info": "v112 #19-23",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k03/k03127.htm#A7",
+    "serialized": true,
+    "serial_parts": 5
+  },
   "has_narrative": false,
-  "last_updated": "2025-06-24T15:36:59.428797"
+  "last_updated": "2025-07-30T21:46:40.655653"
 }

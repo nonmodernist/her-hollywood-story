@@ -5,7 +5,7 @@
   "formatted_title": "Roles",
   "html_title": "<span class=\"work-title\">Roles</span>",
   "work_type": "novel",
-  "publication_year": 1924,
+  "publication_year": 1923,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": true,
-    "speed_demon_delay": 0,
+    "speed_demon_delay": 1,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,12 +43,20 @@
         "Romantic comedy"
       ],
       "has_media": true,
-      "years_after_publication": 0
+      "years_after_publication": 1
     }
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Saturday Evening Post",
+    "magazine_pub_date": "1923-09-08",
+    "magazine_issue_info": "v196 #10-15",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1923-09-15_196_11",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09499.htm#A10",
+    "serialized": true,
+    "serial_parts": 6
+  },
   "has_narrative": false,
-  "last_updated": "2025-06-20T22:10:29.78139"
+  "last_updated": "2025-07-25T03:22:07.845174"
 }

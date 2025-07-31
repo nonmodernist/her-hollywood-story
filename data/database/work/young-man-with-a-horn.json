@@ -5,7 +5,7 @@
   "formatted_title": "Young Man With a Horn",
   "html_title": "<span class=\"work-title\">Young Man With a Horn</span>",
   "work_type": "novel",
-  "publication_year": 1949,
+  "publication_year": 1938,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": true,
-    "speed_demon_delay": 1,
+    "is_speed_demon": false,
+    "speed_demon_delay": 12,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,12 +43,12 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 1
+      "years_after_publication": 12
     }
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
   "magazine_publication": null,
   "has_narrative": false,
-  "last_updated": "2025-06-20T21:02:55.550987"
+  "last_updated": "2025-07-30T20:54:26.024428"
 }

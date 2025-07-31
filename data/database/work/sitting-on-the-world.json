@@ -2,10 +2,10 @@
   "id": 625,
   "slug": "sitting-on-the-world",
   "title": "Sitting on the World",
-  "formatted_title": "Sitting on the World",
-  "html_title": "<span class=\"work-title\">Sitting on the World</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "formatted_title": "\"Sitting on the World\"",
+  "html_title": "<span class=\"work-title short-story\">\"Sitting on the World\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1920,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": true,
+    "speed_demon_delay": 0,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,12 +43,20 @@
         "Drama"
       ],
       "has_media": false,
-      "years_after_publication": 1920
+      "years_after_publication": 0
     }
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Saturday Evening Post",
+    "magazine_pub_date": "1920-01-03",
+    "magazine_issue_info": "v192 #27",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1920-01-03_192_27",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09481.htm#A6",
+    "serialized": false,
+    "serial_parts": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-07T18:18:16.264808"
+  "last_updated": "2025-07-25T03:13:33.208211"
 }

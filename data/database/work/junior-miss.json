@@ -2,9 +2,9 @@
   "id": 302,
   "slug": "junior-miss",
   "title": "Junior Miss",
-  "formatted_title": "Junior Miss",
-  "html_title": "<span class=\"work-title\">Junior Miss</span>",
-  "work_type": "novel",
+  "formatted_title": "\"Junior Miss\"",
+  "html_title": "<span class=\"work-title short-story\">\"Junior Miss\"</span>",
+  "work_type": "short_story",
   "publication_year": 1941,
   "genre": null,
   "plot_summary": null,
@@ -48,7 +48,15 @@
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The New Yorker",
+    "magazine_pub_date": "1939-10-28",
+    "magazine_issue_info": null,
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k07/k07679.htm#A14",
+    "serialized": false,
+    "serial_parts": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-06-20T21:02:56.521769"
+  "last_updated": "2025-07-30T21:51:15.432017"
 }

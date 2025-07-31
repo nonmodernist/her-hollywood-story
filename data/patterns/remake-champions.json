@@ -978,14 +978,14 @@
         "formatted_title": "The Circular Staircase",
         "html_title": "<span class=\"work-title\">The Circular Staircase</span>",
         "work_type": "novel",
-        "genre": null,
+        "genre": "Mystery",
         "publication_year": 1907
       },
       "author": {
         "id": 6,
         "slug": "mary-roberts-rinehart",
         "name": "Mary Roberts Rinehart",
-        "filmCount": 31
+        "filmCount": 33
       },
       "adaptations": [
         {
@@ -1117,7 +1117,7 @@
         "id": 6,
         "slug": "mary-roberts-rinehart",
         "name": "Mary Roberts Rinehart",
-        "filmCount": 31,
+        "filmCount": 33,
         "worksRemade": 1,
         "totalRemakes": 4
       },
@@ -1824,14 +1824,14 @@
             "formatted_title": "The Circular Staircase",
             "html_title": "<span class=\"work-title\">The Circular Staircase</span>",
             "work_type": "novel",
-            "genre": null,
+            "genre": "Mystery",
             "publication_year": 1907
           },
           "author": {
             "id": 6,
             "slug": "mary-roberts-rinehart",
             "name": "Mary Roberts Rinehart",
-            "filmCount": 31
+            "filmCount": 33
           },
           "adaptations": [
             {
@@ -3013,7 +3013,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-07-25T00:30:20.225Z",
+    "generated": "2025-07-31T17:14:57.686Z",
     "version": "2.0"
   }
 }

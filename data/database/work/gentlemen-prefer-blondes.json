@@ -68,7 +68,15 @@
     }
   ],
   "has_photoplay_edition": true,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Harper's Bazar",
+    "magazine_pub_date": "1925-03-01",
+    "magazine_issue_info": null,
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k05/k05448.htm#A32",
+    "serialized": true,
+    "serial_parts": 6
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-21T17:39:30.350666"
+  "last_updated": "2025-07-25T04:11:30.146383"
 }

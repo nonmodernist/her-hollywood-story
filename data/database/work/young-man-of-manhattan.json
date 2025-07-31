@@ -5,7 +5,7 @@
   "formatted_title": "Young Man of Manhattan",
   "html_title": "<span class=\"work-title\">Young Man of Manhattan</span>",
   "work_type": "novel",
-  "publication_year": 1930,
+  "publication_year": 1929,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": true,
-    "speed_demon_delay": 0,
+    "speed_demon_delay": 1,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,12 +43,20 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 0
+      "years_after_publication": 1
     }
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Saturday Evening Post",
+    "magazine_pub_date": "1929-10-19",
+    "magazine_issue_info": "v202 #16-21",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1929-10-19_202_16",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09559.htm#A5",
+    "serialized": true,
+    "serial_parts": 6
+  },
   "has_narrative": false,
-  "last_updated": "2025-06-20T21:03:00.499512"
+  "last_updated": "2025-07-30T18:37:45.603207"
 }

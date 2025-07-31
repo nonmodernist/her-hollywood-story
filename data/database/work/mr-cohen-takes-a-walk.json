@@ -1,0 +1,60 @@
+{
+  "id": 1018,
+  "slug": "mr-cohen-takes-a-walk",
+  "title": "Mr. Cohen Takes a Walk",
+  "formatted_title": "\"Mr. Cohen Takes a Walk\"",
+  "html_title": "<span class=\"work-title short-story\">\"Mr. Cohen Takes a Walk\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1934,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 6,
+    "slug": "mary-roberts-rinehart",
+    "name": "Mary Roberts Rinehart",
+    "birth_year": 1876,
+    "death_year": 1958,
+    "film_count": 33
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1133,
+      "slug": "mr-cohen-takes-a-walk-1936",
+      "title": "Mr. Cohen Takes a Walk",
+      "html_title": "<span class=\"film-title\">Mr. Cohen Takes a Walk</span>",
+      "year": 1936,
+      "studio": "Warner Bros",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "years_after_publication": 2
+    }
+  ],
+  "adaptation_gaps": [],
+  "has_photoplay_edition": false,
+  "magazine_publication": {
+    "magazine_title": "Good Housekeeping",
+    "magazine_pub_date": "1933-02-01",
+    "magazine_issue_info": "v96 #2",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k05/k05214.htm#A16",
+    "serialized": false,
+    "serial_parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-31T02:35:46.329083"
+}

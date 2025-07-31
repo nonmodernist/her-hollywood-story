@@ -6,7 +6,7 @@ This project maintains a database of American women writers whose works were ada
 ## Directory Structure
 ```
 adapted-from-women/
-├── scripts/
+├── database-scripts/
 │   ├── 01_enrichment/          # All enrichment scripts
 │   │   ├── authors/
 │   │   │   └── wikidata_authors.py
@@ -14,20 +14,16 @@ adapted-from-women/
 │   │   │   ├── afi_catalog.py
 │   │   │   ├── wikidata_films.py
 │   │   │   └── lost_films.py
-│   │   ├── source_works/
-│   │   │   └── google_books.py
 │   │   └── media/
 │   │       └── wikimedia_film_images.py
 │   │
 │   ├── 02_upload/              # Scripts that upload to Supabase
-│   │   ├── upload_wikidata_films.py
-│   │   ├── upload_google_books.py
 │   │   └── upload_zotero.py
 │   │
 │   └── 03_export/              # Export and publishing scripts
 │       └── export_for_website.py
 │
-├── data/
+├── back-end-data/
 │   │ ├── films_rows.csv
 │   │ ├── film_media.csv
 │   │ ├── authors.csv
@@ -37,7 +33,7 @@ adapted-from-women/
 │
 └── docs/
     ├── workflow.md             # This document
-    └── field_mappings.md       # Database field documentation - to be created
+    └── data-structure.md       # Database field documentation
 ```
 
 ## Phase 1: Core Data Entry (Manual in Supabase)
@@ -55,28 +51,28 @@ adapted-from-women/
 ## Phase 2: Data Enrichment (Automated Scripts)
 
 ### A. Author Enrichment
-**Script:** `scripts/01_enrichment/authors/wikidata_authors.py`
+**Script:** `database-scripts/01_enrichment/authors/wikidata_authors.py`
 - **Input:** Reads from `authors` table
 - **Output:** Updates Supabase directly
-- **Adds:** birth/death years, nationality, ~~literary movement~~, biographical notes, wikidata_id
+- **Adds:** birth/death years, nationality, literary movement, biographical notes, wikidata_id
 - **When to run:** After adding new authors
 
-### B. Source Work Enrichment
-**Script:** `scripts/01_enrichment/source_works/google_books.py`
+### B. Source Work Enrichment - DEPRECATED
+**Script:** `database-scripts/01_enrichment/source_works/google_books.py`
 - **Input:** Reads from `source_works` table
-- **Output:** CSV to `data/temp/google_books_enrichment.csv`
+- **Output:** CSV to `back-end-data/temp/google_books_enrichment.csv`
 - **Adds:** verified publication year, ~~genre, plot summary~~
-- **Next step:** Run `scripts/02_upload/upload_google_books.py`
+- **Next step:** Run `database-scripts/02_upload/upload_google_books.py`
 - **When to run:** After adding new source works
 
 ### C. Film Enrichment
 
 #### C1. AFI Catalog
-**Script:** `scripts/01_enrichment/films/afi_catalog.py`
+**Script:** `database-scripts/01_enrichment/films/afi_catalog.py`
 - **Input:** Reads from `films` table or from exported table of selected films
-- **Output:** CSV to `data/temp/afi_enrichment.csv`
+- **Output:** CSV to `back-end-data/temp/afi_enrichment.csv`
 - **Adds:** AFI catalog ID, directors, writers, cast, production companies
-- **Next step:** Run `scripts/02_upload/upload_afi_data.py`
+- **Next step:** Run `database-scripts/02_upload/upload_afi_data.py`
 
 #### C2. Wikidata Films
 **Script:** `scripts/01_enrichment/films/wikidata_films.py`
@@ -87,7 +83,7 @@ adapted-from-women/
 
 #### C3. Lost Films Check
 **Script:** `scripts/01_enrichment/films/lost_films.py`
-- **Input:** Reads from `films` table + `data/reference/lost_films_list.pdf`
+- **Input:** Reads from `films` table + `back-end-data/reference/lost_films_list.pdf`
 - **Output:** Updates Supabase directly
 - **Adds:** availability
 - **When to run:** After major film additions

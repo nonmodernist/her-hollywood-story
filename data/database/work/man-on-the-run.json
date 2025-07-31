@@ -2,9 +2,9 @@
   "id": 259,
   "slug": "man-on-the-run",
   "title": "Man on the Run",
-  "formatted_title": "\"Man on the Run\"",
-  "html_title": "<span class=\"work-title short-story\">\"Man on the Run\"</span>",
-  "work_type": "short_story",
+  "formatted_title": "Man on the Run",
+  "html_title": "<span class=\"work-title\">Man on the Run</span>",
+  "work_type": "novella",
   "publication_year": 1948,
   "genre": null,
   "plot_summary": null,
@@ -14,8 +14,8 @@
     "id": 95,
     "slug": "sylvia-tate",
     "name": "Sylvia Tate",
-    "birth_year": null,
-    "death_year": null,
+    "birth_year": 1918,
+    "death_year": 1961,
     "film_count": 2
   },
   "stats": {
@@ -49,14 +49,14 @@
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
   "magazine_publication": {
-    "magazine_title": "American Magazine",
+    "magazine_title": "The American Magazine",
     "magazine_pub_date": "1948-04-01",
-    "magazine_issue_info": "April 1948",
+    "magazine_issue_info": "v145 #4",
     "digitized_url": null,
-    "FMI_link": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k00/k00772.htm#A7",
     "serialized": false,
     "serial_parts": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-21T18:17:32.022095"
+  "last_updated": "2025-07-30T20:59:43.573434"
 }

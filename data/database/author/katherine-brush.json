@@ -140,8 +140,8 @@
         "Drama"
       ],
       "has_media": true,
-      "work_title": "Mannequin",
-      "work_html_title": "<span class=\"work-title short-story\">\"Mannequin\"</span>",
+      "work_title": "Marry for Money",
+      "work_html_title": "<span class=\"work-title short-story\">\"Marry for Money\"</span>",
       "work_id": 346
     },
     {
@@ -157,7 +157,7 @@
       ],
       "has_media": true,
       "work_title": "Free Woman",
-      "work_html_title": "<span class=\"work-title short-story\">\"Free Woman\"</span>",
+      "work_html_title": "<span class=\"work-title\">Free Woman</span>",
       "work_id": 215
     }
   ],
@@ -180,7 +180,7 @@
       "title": "Night Club",
       "formatted_title": "Night Club",
       "html_title": "<span class=\"work-title\">Night Club</span>",
-      "work_type": "novel",
+      "work_type": "collection",
       "publication_year": 1929,
       "genre": null,
       "adaptation_count": 1,
@@ -193,7 +193,7 @@
       "formatted_title": "Young Man of Manhattan",
       "html_title": "<span class=\"work-title\">Young Man of Manhattan</span>",
       "work_type": "novel",
-      "publication_year": 1930,
+      "publication_year": 1929,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -224,12 +224,12 @@
     },
     {
       "id": 346,
-      "slug": "mannequin",
-      "title": "Mannequin",
-      "formatted_title": "\"Mannequin\"",
-      "html_title": "<span class=\"work-title short-story\">\"Mannequin\"</span>",
+      "slug": "marry-for-money",
+      "title": "Marry for Money",
+      "formatted_title": "\"Marry for Money\"",
+      "html_title": "<span class=\"work-title short-story\">\"Marry for Money\"</span>",
       "work_type": "short_story",
-      "publication_year": null,
+      "publication_year": 1937,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -238,9 +238,9 @@
       "id": 215,
       "slug": "free-woman",
       "title": "Free Woman",
-      "formatted_title": "\"Free Woman\"",
-      "html_title": "<span class=\"work-title short-story\">\"Free Woman\"</span>",
-      "work_type": "short_story",
+      "formatted_title": "Free Woman",
+      "html_title": "<span class=\"work-title\">Free Woman</span>",
+      "work_type": "novella",
       "publication_year": 1936,
       "genre": null,
       "adaptation_count": 1,
@@ -260,5 +260,5 @@
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-20T01:09:49.285188"
+  "last_updated": "2025-07-30T18:25:49.972161"
 }

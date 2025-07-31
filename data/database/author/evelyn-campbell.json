@@ -104,7 +104,7 @@
       ],
       "has_media": true,
       "work_title": "Yesterday's Wife",
-      "work_html_title": "<span class=\"work-title short-story\">\"Yesterday's Wife\"</span>",
+      "work_html_title": "<span class=\"work-title\">Yesterday's Wife</span>",
       "work_id": 376
     },
     {
@@ -135,8 +135,8 @@
         "Comedy-drama"
       ],
       "has_media": true,
-      "work_title": "Splurge",
-      "work_html_title": "<span class=\"work-title\">Splurge</span>",
+      "work_title": "The Splurge",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Splurge\"</span>",
       "work_id": 375
     },
     {
@@ -185,9 +185,9 @@
       "id": 376,
       "slug": "yesterdays-wife",
       "title": "Yesterday's Wife",
-      "formatted_title": "\"Yesterday's Wife\"",
-      "html_title": "<span class=\"work-title short-story\">\"Yesterday's Wife\"</span>",
-      "work_type": "short_story",
+      "formatted_title": "Yesterday's Wife",
+      "html_title": "<span class=\"work-title\">Yesterday's Wife</span>",
+      "work_type": "novella",
       "publication_year": 1920,
       "genre": null,
       "adaptation_count": 1,
@@ -207,11 +207,11 @@
     },
     {
       "id": 375,
-      "slug": "splurge",
-      "title": "Splurge",
-      "formatted_title": "Splurge",
-      "html_title": "<span class=\"work-title\">Splurge</span>",
-      "work_type": "novel",
+      "slug": "the-splurge",
+      "title": "The Splurge",
+      "formatted_title": "\"The Splurge\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Splurge\"</span>",
+      "work_type": "short_story",
       "publication_year": 1924,
       "genre": null,
       "adaptation_count": 1,

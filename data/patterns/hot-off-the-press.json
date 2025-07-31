@@ -435,6 +435,33 @@
     },
     {
       "work": {
+        "id": 625,
+        "slug": "sitting-on-the-world",
+        "title": "Sitting on the World",
+        "html_title": "<span class=\"work-title short-story\">\"Sitting on the World\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1920
+      },
+      "author": {
+        "id": 38,
+        "slug": "sophie-kerr",
+        "name": "Sophie Kerr"
+      },
+      "film": {
+        "id": 709,
+        "slug": "fickle-women-1920",
+        "title": "Fickle Women",
+        "html_title": "<span class=\"film-title\">Fickle Women</span>",
+        "year": 1920,
+        "studio": "D. N. Schwab Productions",
+        "directors": "Frederick J. Butler|Hugh McClung",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
         "id": 712,
         "slug": "the-forbidden-thing",
         "title": "The Forbidden Thing",
@@ -781,33 +808,6 @@
         "directors": "Al Santell",
         "genres": [
           "Melodrama"
-        ]
-      }
-    },
-    {
-      "work": {
-        "id": 103,
-        "slug": "roles",
-        "title": "Roles",
-        "html_title": "<span class=\"work-title\">Roles</span>",
-        "work_type": "novel",
-        "publication_year": 1924
-      },
-      "author": {
-        "id": 39,
-        "slug": "elizabeth-alexander",
-        "name": "Elizabeth Alexander"
-      },
-      "film": {
-        "id": 108,
-        "slug": "changing-husbands-1924",
-        "title": "Changing Husbands",
-        "html_title": "<span class=\"film-title\">Changing Husbands</span>",
-        "year": 1924,
-        "studio": "Famous Players-Lasky",
-        "directors": "Frank Urson|Paul Iribe",
-        "genres": [
-          "Romantic comedy"
         ]
       }
     },
@@ -1195,7 +1195,7 @@
         "slug": "night-club",
         "title": "Night Club",
         "html_title": "<span class=\"work-title\">Night Club</span>",
-        "work_type": "novel",
+        "work_type": "collection",
         "publication_year": 1929
       },
       "author": {
@@ -1267,33 +1267,6 @@
         "directors": "E. Mason Hopper",
         "genres": [
           "Romance"
-        ]
-      }
-    },
-    {
-      "work": {
-        "id": 348,
-        "slug": "young-man-of-manhattan",
-        "title": "Young Man of Manhattan",
-        "html_title": "<span class=\"work-title\">Young Man of Manhattan</span>",
-        "work_type": "novel",
-        "publication_year": 1930
-      },
-      "author": {
-        "id": 63,
-        "slug": "katherine-brush",
-        "name": "Katherine Brush"
-      },
-      "film": {
-        "id": 412,
-        "slug": "young-man-of-manhattan-1930",
-        "title": "Young Man of Manhattan",
-        "html_title": "<span class=\"film-title\">Young Man of Manhattan</span>",
-        "year": 1930,
-        "studio": "Paramount",
-        "directors": "Monta Bell",
-        "genres": [
-          "Drama"
         ]
       }
     },
@@ -1516,10 +1489,10 @@
     {
       "work": {
         "id": 183,
-        "slug": "the-beachcomber",
-        "title": "The Beachcomber",
-        "html_title": "<span class=\"work-title short-story\">\"The Beachcomber\"</span>",
-        "work_type": "short_story",
+        "slug": "beachcomber",
+        "title": "Beachcomber",
+        "html_title": "<span class=\"work-title\">Beachcomber</span>",
+        "work_type": "novella",
         "publication_year": 1932
       },
       "author": {
@@ -1871,8 +1844,8 @@
         "id": 209,
         "slug": "angle-shooter",
         "title": "Angle Shooter",
-        "html_title": "<span class=\"work-title short-story\">\"Angle Shooter\"</span>",
-        "work_type": "short_story",
+        "html_title": "<span class=\"work-title\">Angle Shooter</span>",
+        "work_type": "novella",
         "publication_year": 1937
       },
       "author": {
@@ -1944,6 +1917,33 @@
         "directors": "William Nigh",
         "genres": [
           "Comedy"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 346,
+        "slug": "marry-for-money",
+        "title": "Marry for Money",
+        "html_title": "<span class=\"work-title short-story\">\"Marry for Money\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1937
+      },
+      "author": {
+        "id": 63,
+        "slug": "katherine-brush",
+        "name": "Katherine Brush"
+      },
+      "film": {
+        "id": 410,
+        "slug": "mannequin-1937",
+        "title": "Mannequin",
+        "html_title": "<span class=\"film-title\">Mannequin</span>",
+        "year": 1937,
+        "studio": "MGM",
+        "directors": "Frank Borzage",
+        "genres": [
+          "Drama"
         ]
       }
     },
@@ -2084,6 +2084,33 @@
     },
     {
       "work": {
+        "id": 285,
+        "slug": "thanks-god-ill-take-it-from-here",
+        "title": "Thanks God! I'll Take It From Here",
+        "html_title": "<span class=\"work-title\">Thanks God! I'll Take It From Here</span>",
+        "work_type": "novel",
+        "publication_year": 1946
+      },
+      "author": {
+        "id": 73,
+        "slug": "jane-allen",
+        "name": "Jane Allen"
+      },
+      "film": {
+        "id": 348,
+        "slug": "without-reservations-1946",
+        "title": "Without Reservations",
+        "html_title": "<span class=\"film-title\">Without Reservations</span>",
+        "year": 1946,
+        "studio": "RKO",
+        "directors": "Mervyn LeRoy",
+        "genres": [
+          "Romantic comedy"
+        ]
+      }
+    },
+    {
+      "work": {
         "id": 567,
         "slug": "gentlemens-agreement",
         "title": "Gentlemen's Agreement",
@@ -2114,8 +2141,8 @@
         "id": 260,
         "slug": "once-upon-a-train-the-loco-motive",
         "title": "Once Upon a Train (The Loco Motive)",
-        "html_title": "<span class=\"work-title short-story\">\"Once Upon a Train (The Loco Motive)\"</span>",
-        "work_type": "short_story",
+        "html_title": "<span class=\"work-title\">Once Upon a Train (The Loco Motive)</span>",
+        "work_type": "novella",
         "publication_year": 1950
       },
       "author": {
@@ -2160,33 +2187,6 @@
         "directors": "Robert Parrish",
         "genres": [
           "Drama"
-        ]
-      }
-    },
-    {
-      "work": {
-        "id": 714,
-        "slug": "peyton-place",
-        "title": "Peyton Place",
-        "html_title": "<span class=\"work-title\">Peyton Place</span>",
-        "work_type": "novel",
-        "publication_year": 1957
-      },
-      "author": {
-        "id": 359,
-        "slug": "grace-metalious",
-        "name": "Grace Metalious"
-      },
-      "film": {
-        "id": 803,
-        "slug": "peyton-place-1957",
-        "title": "Peyton Place",
-        "html_title": "<span class=\"film-title\">Peyton Place</span>",
-        "year": 1957,
-        "studio": "20th Century Fox",
-        "directors": "Mark Robson",
-        "genres": [
-          "Melodrama"
         ]
       }
     },
@@ -2255,18 +2255,18 @@
       "1910s": 15,
       "1920s": 32,
       "1930s": 26,
-      "1940s": 5,
-      "1950s": 3,
+      "1940s": 6,
+      "1950s": 2,
       "1960s": 2
     },
     "byGenre": [
       {
         "genre": "Drama",
-        "count": 31
+        "count": 32
       },
       {
         "genre": "Melodrama",
-        "count": 18
+        "count": 17
       },
       {
         "genre": "Comedy-drama",
@@ -2308,33 +2308,33 @@
     "byWorkType": [
       {
         "type": "novel",
-        "count": 53
+        "count": 50
       },
       {
         "type": "short story",
-        "count": 23
+        "count": 22
       },
       {
         "type": "novella",
-        "count": 7
+        "count": 10
+      },
+      {
+        "type": "collection",
+        "count": 1
       }
     ],
     "topStudios": [
+      {
+        "studio": "MGM",
+        "count": 9
+      },
       {
         "studio": "First National",
         "count": 8
       },
       {
-        "studio": "MGM",
-        "count": 8
-      },
-      {
         "studio": "Paramount",
-        "count": 8
-      },
-      {
-        "studio": "Famous Players-Lasky",
-        "count": 6
+        "count": 7
       },
       {
         "studio": "Fox Film",
@@ -2345,11 +2345,11 @@
         "count": 5
       },
       {
-        "studio": "Columbia",
-        "count": 4
+        "studio": "Famous Players-Lasky",
+        "count": 5
       },
       {
-        "studio": "20th Century Fox",
+        "studio": "Columbia",
         "count": 4
       },
       {
@@ -2358,6 +2358,10 @@
       },
       {
         "studio": "Vitagraph",
+        "count": 3
+      },
+      {
+        "studio": "Bluebird Photoplays",
         "count": 3
       }
     ],
@@ -2383,6 +2387,10 @@
         "count": 3
       },
       {
+        "name": "Sophie Kerr",
+        "count": 2
+      },
+      {
         "name": "Kathleen Norris",
         "count": 2
       },
@@ -2397,15 +2405,11 @@
       {
         "name": "Lillian Bennett-Thompson",
         "count": 2
-      },
-      {
-        "name": "Adela Rogers St. Johns",
-        "count": 2
       }
     ]
   },
   "metadata": {
-    "generated": "2025-07-25T02:22:44.750Z",
+    "generated": "2025-07-31T17:14:57.688Z",
     "version": "1.1"
   }
 }

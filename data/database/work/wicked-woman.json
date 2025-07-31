@@ -48,7 +48,15 @@
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Household Magazine",
+    "magazine_pub_date": "1933-07-01",
+    "magazine_issue_info": "Volume 33 Number 7-?",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k05/k05692.htm#A13",
+    "serialized": true,
+    "serial_parts": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-06-20T21:03:01.18329"
+  "last_updated": "2025-07-30T18:40:27.159273"
 }

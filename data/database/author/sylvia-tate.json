@@ -2,12 +2,12 @@
   "id": 95,
   "slug": "sylvia-tate",
   "name": "Sylvia Tate",
-  "birth_year": null,
-  "death_year": null,
+  "birth_year": 1918,
+  "death_year": 1961,
   "nationality": "American",
   "literary_movement": null,
   "biographical_notes": null,
-  "author_notes": null,
+  "author_notes": "https://ancestors.familysearch.org/en/LNP8-BMN/desylivia-evelyn-tate-1918-1961",
   "wikidata_id": null,
   "stats": {
     "total_films": 2,
@@ -47,7 +47,7 @@
       ],
       "has_media": true,
       "work_title": "Man on the Run",
-      "work_html_title": "<span class=\"work-title short-story\">\"Man on the Run\"</span>",
+      "work_html_title": "<span class=\"work-title\">Man on the Run</span>",
       "work_id": 259
     },
     {
@@ -72,9 +72,9 @@
       "id": 259,
       "slug": "man-on-the-run",
       "title": "Man on the Run",
-      "formatted_title": "\"Man on the Run\"",
-      "html_title": "<span class=\"work-title short-story\">\"Man on the Run\"</span>",
-      "work_type": "short_story",
+      "formatted_title": "Man on the Run",
+      "html_title": "<span class=\"work-title\">Man on the Run</span>",
+      "work_type": "novella",
       "publication_year": 1948,
       "genre": null,
       "adaptation_count": 1,
@@ -87,7 +87,7 @@
       "formatted_title": "The Fuzzy Pink Nightgown",
       "html_title": "<span class=\"work-title\">The Fuzzy Pink Nightgown</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1956,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -97,14 +97,14 @@
     "id": 259,
     "slug": "man-on-the-run",
     "title": "Man on the Run",
-    "formatted_title": "\"Man on the Run\"",
-    "html_title": "<span class=\"work-title short-story\">\"Man on the Run\"</span>",
-    "work_type": "short_story",
+    "formatted_title": "Man on the Run",
+    "html_title": "<span class=\"work-title\">Man on the Run</span>",
+    "work_type": "novella",
     "publication_year": 1948,
     "genre": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-20T01:09:49.285188"
+  "last_updated": "2025-07-30T21:15:22.244025"
 }

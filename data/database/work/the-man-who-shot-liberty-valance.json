@@ -4,8 +4,8 @@
   "title": "The Man Who Shot Liberty Valance",
   "formatted_title": "The Man Who Shot Liberty Valance",
   "html_title": "<span class=\"work-title\">The Man Who Shot Liberty Valance</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "work_type": "novella",
+  "publication_year": 1949,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 13,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,12 +43,20 @@
         "Western"
       ],
       "has_media": false,
-      "years_after_publication": 1962
+      "years_after_publication": 13
     }
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Cosmopolitan",
+    "magazine_pub_date": "1949-07-01",
+    "magazine_issue_info": "Vol. 127 No. 1",
+    "digitized_url": "https://archive.org/details/sim_cosmopolitan_1949-07_127_1",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k03/k03450.htm#A10",
+    "serialized": false,
+    "serial_parts": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-06T14:59:12.336595"
+  "last_updated": "2025-07-30T21:32:11.710782"
 }

@@ -4,8 +4,8 @@
   "title": "Mischief",
   "formatted_title": "Mischief",
   "html_title": "<span class=\"work-title\">Mischief</span>",
-  "work_type": "novel",
-  "publication_year": 1951,
+  "work_type": "novella",
+  "publication_year": 1950,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": true,
-    "speed_demon_delay": 1,
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,12 +43,20 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 1
+      "years_after_publication": 2
     }
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Good Housekeeping",
+    "magazine_pub_date": "1950-04-01",
+    "magazine_issue_info": "v130 #4-5",
+    "digitized_url": "http://hearth.library.cornell.edu/cgi/t/text/text-idx?c=hearth;idno=6417403_1413_004",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k05/k05226.htm#A2",
+    "serialized": true,
+    "serial_parts": 2
+  },
   "has_narrative": false,
-  "last_updated": "2025-06-17T03:48:03.914138"
+  "last_updated": "2025-07-30T19:12:08.688116"
 }

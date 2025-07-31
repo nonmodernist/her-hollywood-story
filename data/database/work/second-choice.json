@@ -48,7 +48,15 @@
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Saturday Evening Post",
+    "magazine_pub_date": "1928-03-10",
+    "magazine_issue_info": "v200 #37-43",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1928-03-10_200_37",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09529.htm#A9",
+    "serialized": true,
+    "serial_parts": 7
+  },
   "has_narrative": false,
-  "last_updated": "2025-06-20T22:18:57.037518"
+  "last_updated": "2025-07-25T03:23:29.807882"
 }

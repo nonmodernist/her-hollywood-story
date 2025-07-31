@@ -1,0 +1,60 @@
+{
+  "id": 1019,
+  "slug": "the-dog-in-the-orchard",
+  "title": "The Dog in the Orchard",
+  "formatted_title": "\"The Dog in the Orchard\"",
+  "html_title": "<span class=\"work-title short-story\">\"The Dog in the Orchard\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1940,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 6,
+    "slug": "mary-roberts-rinehart",
+    "name": "Mary Roberts Rinehart",
+    "birth_year": 1876,
+    "death_year": 1958,
+    "film_count": 33
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1134,
+      "slug": "the-dog-in-the-orchard-1941",
+      "title": "The Dog in the Orchard",
+      "html_title": "<span class=\"film-title\">The Dog in the Orchard</span>",
+      "year": 1941,
+      "studio": "Warner Bros",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "has_photoplay_edition": false,
+  "magazine_publication": {
+    "magazine_title": "Hearst's International-Cosmopolitan",
+    "magazine_pub_date": "1940-09-01",
+    "magazine_issue_info": "Vol. 109 No. 3",
+    "digitized_url": "https://archive.org/details/sim_cosmopolitan_1940-09_109_3",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k03/k03441.htm#A7",
+    "serialized": false,
+    "serial_parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-31T02:37:34.468775"
+}

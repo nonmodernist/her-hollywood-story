@@ -10,8 +10,8 @@
   "author_notes": null,
   "wikidata_id": "Q460366",
   "stats": {
-    "total_films": 31,
-    "works_adapted": 24,
+    "total_films": 33,
+    "works_adapted": 26,
     "first_adaptation": 1915,
     "last_adaptation": 1959,
     "year_span": 44,
@@ -40,8 +40,8 @@
     "films_by_decade": {
       "1910": 10,
       "1920": 13,
-      "1930": 5,
-      "1940": 2,
+      "1930": 6,
+      "1940": 3,
       "1950": 1
     }
   },
@@ -486,6 +486,20 @@
       "work_id": 838
     },
     {
+      "id": 1133,
+      "slug": "mr-cohen-takes-a-walk-1936",
+      "title": "Mr. Cohen Takes a Walk",
+      "html_title": "<span class=\"film-title\">Mr. Cohen Takes a Walk</span>",
+      "year": 1936,
+      "studio": "Warner Bros",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "Mr. Cohen Takes a Walk",
+      "work_html_title": "<span class=\"work-title short-story\">\"Mr. Cohen Takes a Walk\"</span>",
+      "work_id": 1018
+    },
+    {
       "id": 939,
       "slug": "23-12-hours-leave-1937",
       "title": "23 1/2 Hours Leave",
@@ -500,6 +514,20 @@
       "work_title": "Twenty-Three and a Half Hours' Leave",
       "work_html_title": "<span class=\"work-title short-story\">\"Twenty-Three and a Half Hours' Leave\"</span>",
       "work_id": 842
+    },
+    {
+      "id": 1134,
+      "slug": "the-dog-in-the-orchard-1941",
+      "title": "The Dog in the Orchard",
+      "html_title": "<span class=\"film-title\">The Dog in the Orchard</span>",
+      "year": 1941,
+      "studio": "Warner Bros",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "The Dog in the Orchard",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Dog in the Orchard\"</span>",
+      "work_id": 1019
     },
     {
       "id": 261,
@@ -559,7 +587,7 @@
       "html_title": "<span class=\"work-title\">The Circular Staircase</span>",
       "work_type": "novel",
       "publication_year": 1907,
-      "genre": null,
+      "genre": "Mystery",
       "adaptation_count": 4,
       "is_remake_champion": true
     },
@@ -828,6 +856,30 @@
       "is_remake_champion": false
     },
     {
+      "id": 1018,
+      "slug": "mr-cohen-takes-a-walk",
+      "title": "Mr. Cohen Takes a Walk",
+      "formatted_title": "\"Mr. Cohen Takes a Walk\"",
+      "html_title": "<span class=\"work-title short-story\">\"Mr. Cohen Takes a Walk\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1934,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1019,
+      "slug": "the-dog-in-the-orchard",
+      "title": "The Dog in the Orchard",
+      "formatted_title": "\"The Dog in the Orchard\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Dog in the Orchard\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1940,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 841,
       "slug": "tish",
       "title": "Tish",
@@ -848,7 +900,7 @@
     "html_title": "<span class=\"work-title\">The Circular Staircase</span>",
     "work_type": "novel",
     "publication_year": 1907,
-    "genre": null,
+    "genre": "Mystery",
     "adaptation_count": 4,
     "is_remake_champion": true
   },

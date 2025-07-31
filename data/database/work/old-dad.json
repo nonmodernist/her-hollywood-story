@@ -1,11 +1,11 @@
 {
   "id": 282,
   "slug": "old-dad",
-  "title": "Old Dad",
-  "formatted_title": "Old Dad",
-  "html_title": "<span class=\"work-title\">Old Dad</span>",
+  "title": "Old-Dad",
+  "formatted_title": "Old-Dad",
+  "html_title": "<span class=\"work-title\">Old-Dad</span>",
   "work_type": "novel",
-  "publication_year": 1919,
+  "publication_year": 1918,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": true,
-    "speed_demon_delay": 1,
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,12 +43,20 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 1
+      "years_after_publication": 2
     }
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Woman's Home Companion",
+    "magazine_pub_date": "0918-10-01",
+    "magazine_issue_info": null,
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k12/k12362.htm#A16",
+    "serialized": true,
+    "serial_parts": 2
+  },
   "has_narrative": false,
-  "last_updated": "2025-06-20T23:29:17.819245"
+  "last_updated": "2025-07-30T21:37:25.151905"
 }

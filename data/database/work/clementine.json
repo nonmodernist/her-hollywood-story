@@ -48,7 +48,15 @@
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Liberty",
+    "magazine_pub_date": "1946-10-05",
+    "magazine_issue_info": "Vol. 23 No. 40, October 5",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k06/k06306.htm#A11",
+    "serialized": false,
+    "serial_parts": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-21T16:24:59.553179"
+  "last_updated": "2025-07-30T20:48:17.852012"
 }

@@ -5,7 +5,7 @@
   "formatted_title": "Wild Calendar",
   "html_title": "<span class=\"work-title\">Wild Calendar</span>",
   "work_type": "novel",
-  "publication_year": 1946,
+  "publication_year": 1945,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 3,
+    "speed_demon_delay": 4,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,12 +43,20 @@
         "Film noir"
       ],
       "has_media": false,
-      "years_after_publication": 3
+      "years_after_publication": 4
     }
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Woman's Home Companion",
+    "magazine_pub_date": "1945-07-01",
+    "magazine_issue_info": "v72 #7-?",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k12/k12377.htm#A13",
+    "serialized": true,
+    "serial_parts": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-06-20T21:02:56.896723"
+  "last_updated": "2025-07-30T21:59:21.69083"
 }

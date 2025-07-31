@@ -5,7 +5,7 @@
   "formatted_title": "The Single Standard",
   "html_title": "<span class=\"work-title\">The Single Standard</span>",
   "work_type": "novel",
-  "publication_year": 1928,
+  "publication_year": 1927,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -25,8 +25,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": true,
-    "speed_demon_delay": 1,
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,12 +43,20 @@
         "Romance"
       ],
       "has_media": true,
-      "years_after_publication": 1
+      "years_after_publication": 2
     }
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": true,
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Hearst's International-Cosmopolitan",
+    "magazine_pub_date": "1927-12-01",
+    "magazine_issue_info": "Vol. 83 No. 6, v84 No. 1-4",
+    "digitized_url": "https://archive.org/details/sim_cosmopolitan_1927-12_83_6",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k03/k03424.htm#A6",
+    "serialized": true,
+    "serial_parts": 5
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-02T16:58:56.550847"
+  "last_updated": "2025-07-25T03:41:16.719047"
 }

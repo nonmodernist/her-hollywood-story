@@ -7,15 +7,15 @@
       "id": 6,
       "name": "Mary Roberts Rinehart",
       "slug": "mary-roberts-rinehart",
-      "filmCount": 31,
+      "filmCount": 33,
       "yearStart": 1915,
       "yearEnd": 1959,
       "yearSpan": 44,
       "filmsByDecade": {
         "1910": 10,
         "1920": 13,
-        "1930": 5,
-        "1940": 2,
+        "1930": 6,
+        "1940": 3,
         "1950": 1
       },
       "mostAdaptedWorks": [
@@ -57,6 +57,10 @@
       ],
       "topStudios": [
         {
+          "studio": "Warner Bros",
+          "count": 4
+        },
+        {
           "studio": "Famous Players",
           "count": 3
         },
@@ -70,10 +74,6 @@
         },
         {
           "studio": "Ward Lascelle Productions",
-          "count": 2
-        },
-        {
-          "studio": "Universal",
           "count": 2
         }
       ],
@@ -746,43 +746,39 @@
   ],
   "patterns": {
     "collectiveStats": {
-      "totalFilms": 125,
+      "totalFilms": 127,
       "averageFilmsPerAuthor": 25,
       "collectiveYearSpan": {
         "start": 1915,
         "end": 1961
       },
-     "studioConcentration": [
+      "studioConcentration": [
         {
           "studio": "Warner Bros",
-          "count": 13
+          "count": 16
         },
         {
           "studio": "Universal",
-          "count": 11
-        },
-        {
-          "studio": "Famous Players-Lasky",
-          "count": 10
-        },
-        {
-          "studio": "Paramount",
           "count": 9
         },
         {
-          "studio": "MGM",
-          "count": 7
+          "studio": "Famous Players-Lasky",
+          "count": 8
         },
         {
-          "studio": "First National",
-          "count": 6
-        },
-        {
-          "studio": "RKO",
-          "count": 6
+          "studio": "Paramount",
+          "count": 8
         },
         {
           "studio": "Cosmopolitan Productions",
+          "count": 5
+        },
+        {
+          "studio": "First National",
+          "count": 5
+        },
+        {
+          "studio": "MGM",
           "count": 5
         },
         {
@@ -792,12 +788,16 @@
         {
           "studio": "Monogram",
           "count": 4
+        },
+        {
+          "studio": "Famous Players",
+          "count": 3
         }
       ]
     }
   },
   "metadata": {
-    "generated": "2025-07-25T00:30:20.220Z",
+    "generated": "2025-07-31T17:14:57.681Z",
     "version": "2.0"
   }
 }

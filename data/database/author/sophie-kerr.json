@@ -89,7 +89,7 @@
       ],
       "has_media": false,
       "work_title": "Sitting on the World",
-      "work_html_title": "<span class=\"work-title\">Sitting on the World</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Sitting on the World\"</span>",
       "work_id": 625
     },
     {
@@ -105,7 +105,7 @@
       ],
       "has_media": false,
       "work_title": "Sweetie Peach",
-      "work_html_title": "<span class=\"work-title\">Sweetie Peach</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Sweetie Peach\"</span>",
       "work_id": 626
     },
     {
@@ -152,8 +152,8 @@
         "Comedy"
       ],
       "has_media": false,
-      "work_title": "Relative Values",
-      "work_html_title": "<span class=\"work-title\">Relative Values</span>",
+      "work_title": "Relative Value",
+      "work_html_title": "<span class=\"work-title short-story\">\"Relative Value\"</span>",
       "work_id": 623
     },
     {
@@ -166,8 +166,8 @@
       "directors": null,
       "genres": [],
       "has_media": false,
-      "work_title": "Mareea Maria",
-      "work_html_title": "<span class=\"work-title\">Mareea Maria</span>",
+      "work_title": "Mareea - Maria: A Novel of Marriage in Haste",
+      "work_html_title": "<span class=\"work-title\">Mareea - Maria: A Novel of Marriage in Haste</span>",
       "work_id": 622
     },
     {
@@ -182,8 +182,8 @@
         "Comedy"
       ],
       "has_media": false,
-      "work_title": "Kayo, Oke",
-      "work_html_title": "<span class=\"work-title\">Kayo, Oke</span>",
+      "work_title": "Kayo! Oke!",
+      "work_html_title": "<span class=\"work-title short-story\">\"Kayo! Oke!\"</span>",
       "work_id": 621
     }
   ],
@@ -207,7 +207,7 @@
       "formatted_title": "The See-Saw: a Story of Today",
       "html_title": "<span class=\"work-title\">The See-Saw: a Story of Today</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1918,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -216,10 +216,10 @@
       "id": 625,
       "slug": "sitting-on-the-world",
       "title": "Sitting on the World",
-      "formatted_title": "Sitting on the World",
-      "html_title": "<span class=\"work-title\">Sitting on the World</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"Sitting on the World\"",
+      "html_title": "<span class=\"work-title short-story\">\"Sitting on the World\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1920,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -228,10 +228,10 @@
       "id": 626,
       "slug": "sweetie-peach",
       "title": "Sweetie Peach",
-      "formatted_title": "Sweetie Peach",
-      "html_title": "<span class=\"work-title\">Sweetie Peach</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"Sweetie Peach\"",
+      "html_title": "<span class=\"work-title short-story\">\"Sweetie Peach\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1920,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -255,29 +255,29 @@
       "formatted_title": "Worldly Goods",
       "html_title": "<span class=\"work-title\">Worldly Goods</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1923,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
       "id": 623,
-      "slug": "relative-values",
-      "title": "Relative Values",
-      "formatted_title": "Relative Values",
-      "html_title": "<span class=\"work-title\">Relative Values</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "slug": "relative-value",
+      "title": "Relative Value",
+      "formatted_title": "\"Relative Value\"",
+      "html_title": "<span class=\"work-title short-story\">\"Relative Value\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1923,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
       "id": 622,
-      "slug": "mareea-maria",
-      "title": "Mareea Maria",
-      "formatted_title": "Mareea Maria",
-      "html_title": "<span class=\"work-title\">Mareea Maria</span>",
+      "slug": "mareea-maria-a-novel-of-marriage-in-haste",
+      "title": "Mareea - Maria: A Novel of Marriage in Haste",
+      "formatted_title": "Mareea - Maria: A Novel of Marriage in Haste",
+      "html_title": "<span class=\"work-title\">Mareea - Maria: A Novel of Marriage in Haste</span>",
       "work_type": "novel",
       "publication_year": 1929,
       "genre": null,
@@ -287,11 +287,11 @@
     {
       "id": 621,
       "slug": "kayo-oke",
-      "title": "Kayo, Oke",
-      "formatted_title": "Kayo, Oke",
-      "html_title": "<span class=\"work-title\">Kayo, Oke</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "title": "Kayo! Oke!",
+      "formatted_title": "\"Kayo! Oke!\"",
+      "html_title": "<span class=\"work-title short-story\">\"Kayo! Oke!\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1930,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false

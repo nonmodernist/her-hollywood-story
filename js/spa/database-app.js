@@ -121,7 +121,6 @@ const elements = {
     showingCount: null,
     totalCount: null,
     clearFilters: null,
-    statsBar: null,
     viewButtons: null
 };
 
@@ -323,7 +322,6 @@ function cacheElements() {
     elements.showingCount = document.getElementById('showingCount');
     elements.totalCount = document.getElementById('totalCount');
     elements.clearFilters = document.getElementById('clearFilters');
-    elements.statsBar = document.getElementById('statsBar');
     elements.viewButtons = document.querySelectorAll('.view-btn');
 }
 
@@ -696,9 +694,6 @@ async function switchTab(tabName) {
     // Update sort options
     updateSortOptions(tabName);
 
-    // Update stats bar
-    updateStatsBar(tabName);
-
     // Filter and render
     filterAndRender();
 }
@@ -973,50 +968,6 @@ function updateSortOptions(tabName) {
     }
 }
 
-// Update stats bar based on tab
-// TODO add and remove stats to be more interesting/relevant
-function updateStatsBar(tabName) {
-    const data = app.data[tabName];
-    if (!data) return;
-
-    const metadata = data.metadata;
-    const statsBar = elements.statsBar;
-    statsBar.innerHTML = '';
-
-    switch (tabName) {
-        case 'films':
-            addStat('Total Films', metadata.totalCount);
-           // addStat('Years', `${metadata.yearRange[0]}–${metadata.yearRange[1]}`);
-            //  addStat('With Images', metadata.withMedia);
-            addStat('Studios', metadata.studioCount || 250);
-            break;
-
-        case 'authors':
-            addStat('Total Authors', metadata.totalCount);
-            addStat('Twenty-Timers', metadata.twentyTimers || 5);
-           // addStat('Total Films', metadata.totalFilms || 1119);
-            // addStat('Most Prolific', `${metadata.mostProlific?.name || 'Loading...'} (${metadata.mostProlific?.films || 0})`);
-            break;
-
-        case 'works':
-            addStat('Total Works', metadata.totalCount);
-            //  addStat('Adapted to Film', metadata.totalCount);
-            addStat('Elastic Classics', metadata.remakeChampions || 13);
-            // addStat('Speed Demons', metadata.speedDemons || 219);
-            break;
-    }
-}
-
-// Add a stat to the stats bar
-function addStat(label, value) {
-    const stat = document.createElement('div');
-    stat.className = 'stat';
-    stat.innerHTML = `
-        <div class="stat-number">${typeof value === 'number' ? value.toLocaleString() : value}</div>
-        <div class="stat-label">${label}</div>
-    `;
-    elements.statsBar.appendChild(stat);
-}
 
 // Filter and render the current data
 function filterAndRender() {

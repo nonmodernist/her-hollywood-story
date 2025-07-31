@@ -539,7 +539,6 @@ function renderWorkDetail(work) {
                 by <a href="${getDatabaseURL('/author/' + work.author.slug)}">${work.author.name}</a> · 
                 ${capitalizeFirst(work.work_type?.replace('_', ' ') || 'Unknown type')} · 
                 ${work.publication_year || 'Publication year unknown'}
-                ${work.patterns.is_speed_demon ? '<span class="pattern-badge speed-demon" title="Adapted within 1 year">Hot off the Press</span>' : ''}
 
             </div>
             
@@ -604,10 +603,6 @@ function renderWorkDetail(work) {
                 
                     <section class="detail-section">
                     <h3>Film Adaptation${work.stats.adaptation_count > 1 ? 's' : ''} (${work.stats.adaptation_count})</h3>
-                    
-                    ${work.patterns.is_speed_demon ? `
-                        <p class="speed-note">⚡ Adapted just ${work.patterns.speed_demon_delay} year${work.patterns.speed_demon_delay !== 1 ? 's' : ''} after publication!</p>
-                    ` : ''}
                     <div class="adaptations-list">
                         ${work.adaptations.map((film, index) => `
                             <div class="adaptation-item">
@@ -991,23 +986,23 @@ function updateStatsBar(tabName) {
     switch (tabName) {
         case 'films':
             addStat('Total Films', metadata.totalCount);
-            addStat('Years', `${metadata.yearRange[0]}–${metadata.yearRange[1]}`);
+           // addStat('Years', `${metadata.yearRange[0]}–${metadata.yearRange[1]}`);
             //  addStat('With Images', metadata.withMedia);
-            addStat('Studios', metadata.studioCount || 253);
+            addStat('Studios', metadata.studioCount || 250);
             break;
 
         case 'authors':
             addStat('Total Authors', metadata.totalCount);
             addStat('Twenty-Timers', metadata.twentyTimers || 5);
-            addStat('Total Films', metadata.totalFilms || 1119);
+           // addStat('Total Films', metadata.totalFilms || 1119);
             // addStat('Most Prolific', `${metadata.mostProlific?.name || 'Loading...'} (${metadata.mostProlific?.films || 0})`);
             break;
 
         case 'works':
             addStat('Total Works', metadata.totalCount);
             //  addStat('Adapted to Film', metadata.totalCount);
-            addStat('Remake Champions', metadata.remakeChampions || 13);
-            addStat('Speed Demons', metadata.speedDemons || 219);
+            addStat('Elastic Classics', metadata.remakeChampions || 13);
+            // addStat('Speed Demons', metadata.speedDemons || 219);
             break;
     }
 }
@@ -1325,11 +1320,15 @@ function createWorkListItem(work) {
     const div = document.createElement('div');
     div.className = 'work-entry';
 
+    // Check if the work was adapted in the same year it was published
+    const isSameYearAdaptation = work.publicationYear && work.firstAdaptationYear && 
+                                 work.publicationYear === work.firstAdaptationYear;
+
     div.innerHTML = `
         <div class="work-title">
             <a href="${getDatabaseURL('/work/' + work.slug)}">${work.html_title || work.title}</a>
-            ${work.isRemakeChampion ? '<span class="pattern-badge remake-champion">Remake Champion</span>' : ''}
-            ${work.isSpeedDemon ? '<span class="pattern-badge speed-demon">Speed Demon</span>' : ''}
+            ${work.isRemakeChampion ? '<span class="media-indicator" title="Adapted 4 or more times">↻</span>' : ''}
+            ${isSameYearAdaptation ? '<span class="media-indicator" title="Adapted in the same year it was published">⚡</span>' : ''}
         </div>
         <div class="work-author">by <a href="${getDatabaseURL('/author/' + work.authorSlug)}">${work.authorName}</a></div>
         <div class="work-meta">

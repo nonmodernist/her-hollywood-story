@@ -423,6 +423,25 @@ function renderFilmDetail(film) {
                     ${film.cast_members ? `<p><strong>Cast:</strong> ${formatNameList(film.cast_members)}</p>` : ''}
                     ${film.genres?.length ? `<p><strong>Genres:</strong> ${film.genres.join(', ')}</p>` : ''}
                 </section>
+
+                                ${film.media?.length ? `
+                    <section class="detail-section">
+                        <h3>Media Gallery</h3>
+                        <div class="media-gallery">
+                            ${film.media.map(media => `
+                                <div class="media-item">
+                                    <a href="${media.url}" target="_blank" rel="noopener">
+                                        <img src="${media.thumbnail_url}" alt="${media.caption || media.title}" loading="lazy">
+                                    </a>
+                                    <div class="media-caption">
+                                        ${media.caption ? `<p>${media.caption}</p>` : ''}
+                                        <small>Source: ${media.source} ${media.attribution ? `• ${media.attribution}` : ''}</small>
+                                    </div>
+                                </div>
+                            `).join('')}
+                        </div>
+                    </section>
+                ` : ''}
                 
                 <section class="detail-section">
                     <h3>Source Work</h3>
@@ -445,24 +464,7 @@ function renderFilmDetail(film) {
                     </section>
                 ` : ''}
                 
-                ${film.media?.length ? `
-                    <section class="detail-section">
-                        <h3>Media Gallery</h3>
-                        <div class="media-gallery">
-                            ${film.media.map(media => `
-                                <div class="media-item">
-                                    <a href="${media.url}" target="_blank" rel="noopener">
-                                        <img src="${media.thumbnail_url}" alt="${media.caption || media.title}" loading="lazy">
-                                    </a>
-                                    <div class="media-caption">
-                                        ${media.caption ? `<p>${media.caption}</p>` : ''}
-                                        <small>Source: ${media.source} ${media.attribution ? `• ${media.attribution}` : ''}</small>
-                                    </div>
-                                </div>
-                            `).join('')}
-                        </div>
-                    </section>
-                ` : ''}
+
             </div>
         </div>
     `;

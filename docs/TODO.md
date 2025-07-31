@@ -34,9 +34,9 @@
   - [ ] hot off the press (lightning bolt)
   - [ ] elastic classic ?????
   - [ ] add pattern badge for works that appeared first in magazines
-- [ ] get WM images displaying on film detail pages
+- [x] get WM images displaying on film detail pages
 - [ ] Add more fields to author detail pages (education, archives, awards from authors_rows.csv)
-- [ ] Add footer to database
+- [x] Add footer to database
 
 **Content Writing**
 - [ ] Write mini deep dives for Twenty-Timers members (use the template structure)

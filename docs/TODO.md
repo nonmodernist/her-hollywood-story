@@ -1,9 +1,9 @@
 ## Current Tasks
 
 **Data Work**
-- [x] separate genres from subgenres/topics in supabase
+
 - [ ] Continue verifying magazine publication data in source_works table
-  - in progress: 38/500
+  - in progress by author: 140/500
 - [ ] continue adding deep dive author data for 20 timers
   - [X] Alice Duer Miller
   - [ ] Mary Roberts Rinehart
@@ -12,7 +12,6 @@
   - [ ] Gene Stratton-Porter
 - [ ] Verify and add photoplay edition details where marked as has_photoplay_edition
   - [ ] pick up ILL library books about photoplay editions
-- [ ] Add exact release dates for films to enable magazine→film timeline visualization
 - [ ] transfer availability info from ~130 films in previous dataset
 - [ ] add test plot summary to see how it will display on site
 
@@ -20,23 +19,20 @@
 
 - [ ] draft Elastic Classic page & figure out what data is needed
 - [ ] Completely rewrite Hot Off the Press with real example films from the data
-  - [ ] needs exact release dates for publication and film release - huge task
-  - [ ] Create case study timelines with actual films for Hot Off the Press
-  - [ ] Add real genre data to enable genre breakdown chart
-- [ ] Write content for "Authors Take Control" pattern page using your research notes
+  - [ ] Create case study timelines with actual films for Hot Off the Press - pick a few
+  - [x] Add real genre data to enable genre breakdown chart
+- [ ] Write content for "Authors Take Control" pattern page using research notes
 - [ ] Write content for "Himbos" pattern page
 
 **Technical Fixes**
-- [x] Fix author nationality filter to match updated field structure
-- [x] add links to digitized magazines on work detail pages
-- [ ] fix work archive link section to not show if null
+
+- [ ] fix work archive link section to not show if null?? attempted this but it's complicated - revisit
 - [ ] Implement decade filter for authors (needs active decades in index)
-- [ ] Add superscript film count indicators for authors with 10+ films?
-- [ ] Make film/work title formatting consistent across all views
+~~- [ ] Add superscript film count indicators for authors with 10+ films?~~ SKIP THIS FOR NOW
 - [ ] Redo pattern badges in list view - use typographical symbols with css styling
-  - [ ] twenty-timers
-  - [ ] hot off the press
-  - [ ] elastic classic
+  - [x] twenty-timers (stacked asterisks)
+  - [ ] hot off the press (lightning bolt)
+  - [ ] elastic classic ?????
   - [ ] add pattern badge for works that appeared first in magazines
 - [ ] get WM images displaying on film detail pages
 - [ ] Add more fields to author detail pages (education, archives, awards from authors_rows.csv)
@@ -69,3 +65,19 @@
 - [ ] Test all database filters with real searches
 - [ ] Verify all numbers shown on pattern pages match actual data
 - [ ] Check that pattern badges appear correctly in list views
+
+
+### Tasks for Student Workers
+
+- Add exact release dates for films to enable magazine→film timeline visualization
+- spot check magazine data
+
+
+
+
+### Finished
+
+- [x] separate genres from subgenres/topics in supabase
+- [x] Fix author nationality filter to match updated field structure
+- [x] add links to digitized magazines on work detail pages
+- [x] Make film/work title formatting consistent across all views - probably done?

@@ -1,0 +1,2411 @@
+{
+  "pattern": "hot-off-the-press",
+  "title": "Hot Off the Press",
+  "description": "Films adapted the same year as publication",
+  "adaptations": [
+    {
+      "work": {
+        "id": 396,
+        "slug": "the-eagles-mate",
+        "title": "The Eagle's Mate",
+        "html_title": "<span class=\"work-title\">The Eagle's Mate</span>",
+        "work_type": "novel",
+        "publication_year": 1914
+      },
+      "author": {
+        "id": 166,
+        "slug": "anna-alice-chapin",
+        "name": "Anna Alice Chapin"
+      },
+      "film": {
+        "id": 464,
+        "slug": "the-eagles-mate-1914",
+        "title": "The Eagle's Mate",
+        "html_title": "<span class=\"film-title\">The Eagle's Mate</span>",
+        "year": 1914,
+        "studio": "Famous Players",
+        "directors": "James Kirkwood",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 975,
+        "slug": "lord-john-in-new-york",
+        "title": "Lord John in New York",
+        "html_title": "<span class=\"work-title\">Lord John in New York</span>",
+        "work_type": "novel",
+        "publication_year": 1915
+      },
+      "author": {
+        "id": 7,
+        "slug": "alice-muriel-williamson",
+        "name": "Alice Muriel Williamson"
+      },
+      "film": {
+        "id": 1087,
+        "slug": "lord-john-in-new-york-1915",
+        "title": "Lord John in New York",
+        "html_title": "<span class=\"film-title\">Lord John in New York</span>",
+        "year": 1915,
+        "studio": "Universal",
+        "directors": null,
+        "genres": []
+      }
+    },
+    {
+      "work": {
+        "id": 12,
+        "slug": "the-shop-girl",
+        "title": "The Shop Girl",
+        "html_title": "<span class=\"work-title\">The Shop Girl</span>",
+        "work_type": "novel",
+        "publication_year": 1916
+      },
+      "author": {
+        "id": 7,
+        "slug": "alice-muriel-williamson",
+        "name": "Alice Muriel Williamson"
+      },
+      "film": {
+        "id": 14,
+        "slug": "the-shop-girl-1916",
+        "title": "The Shop Girl",
+        "html_title": "<span class=\"film-title\">The Shop Girl</span>",
+        "year": 1916,
+        "studio": "Vitagraph",
+        "directors": "George D. Baker",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 620,
+        "slug": "the-blue-envelope",
+        "title": "The Blue Envelope",
+        "html_title": "<span class=\"work-title\">The Blue Envelope</span>",
+        "work_type": "novel",
+        "publication_year": 1916
+      },
+      "author": {
+        "id": 38,
+        "slug": "sophie-kerr",
+        "name": "Sophie Kerr"
+      },
+      "film": {
+        "id": 704,
+        "slug": "the-blue-envelope-mystery-1916",
+        "title": "The Blue Envelope Mystery",
+        "html_title": "<span class=\"film-title\">The Blue Envelope Mystery</span>",
+        "year": 1916,
+        "studio": "Vitagraph",
+        "directors": "Wilfrid North",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 807,
+        "slug": "mister-44",
+        "title": "Mister 44",
+        "html_title": "<span class=\"work-title\">Mister 44</span>",
+        "work_type": "novel",
+        "publication_year": 1916
+      },
+      "author": {
+        "id": 407,
+        "slug": "ej-rath",
+        "name": "E.J. Rath"
+      },
+      "film": {
+        "id": 899,
+        "slug": "mister-44-1916",
+        "title": "Mister 44",
+        "html_title": "<span class=\"film-title\">Mister 44</span>",
+        "year": 1916,
+        "studio": "Yorke Film",
+        "directors": "Henry Otto",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 22,
+        "slug": "an-alabaster-box",
+        "title": "An Alabaster Box",
+        "html_title": "<span class=\"work-title\">An Alabaster Box</span>",
+        "work_type": "novel",
+        "publication_year": 1917
+      },
+      "author": {
+        "id": 15,
+        "slug": "mary-wilkins-freeman",
+        "name": "Mary Wilkins Freeman"
+      },
+      "film": {
+        "id": 24,
+        "slug": "an-alabaster-box-1917",
+        "title": "An Alabaster Box",
+        "html_title": "<span class=\"film-title\">An Alabaster Box</span>",
+        "year": 1917,
+        "studio": "Vitagraph",
+        "directors": "Chester Withey",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 372,
+        "slug": "barter",
+        "title": "Barter",
+        "html_title": "<span class=\"work-title\">Barter</span>",
+        "work_type": "novella",
+        "publication_year": 1917
+      },
+      "author": {
+        "id": 41,
+        "slug": "evelyn-campbell",
+        "name": "Evelyn Campbell"
+      },
+      "film": {
+        "id": 440,
+        "slug": "a-soul-for-sale-1917",
+        "title": "A Soul for Sale",
+        "html_title": "<span class=\"film-title\">A Soul for Sale</span>",
+        "year": 1917,
+        "studio": "Bluebird Photoplays",
+        "directors": "Allen Holubar",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 796,
+        "slug": "the-man-hater",
+        "title": "The Man Hater",
+        "html_title": "<span class=\"work-title short-story\">\"The Man Hater\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1917
+      },
+      "author": {
+        "id": 404,
+        "slug": "mary-brecht-pulver",
+        "name": "Mary Brecht Pulver "
+      },
+      "film": {
+        "id": 888,
+        "slug": "the-man-hater-1917",
+        "title": "The Man Hater",
+        "html_title": "<span class=\"film-title\">The Man Hater</span>",
+        "year": 1917,
+        "studio": "Triangle Film",
+        "directors": "Albert Parker",
+        "genres": [
+          "Comedy-drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 827,
+        "slug": "babs-burglar",
+        "title": "Bab's Burglar",
+        "html_title": "<span class=\"work-title short-story\">\"Bab's Burglar\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1917
+      },
+      "author": {
+        "id": 6,
+        "slug": "mary-roberts-rinehart",
+        "name": "Mary Roberts Rinehart"
+      },
+      "film": {
+        "id": 921,
+        "slug": "babs-burglar-1917",
+        "title": "Bab's Burglar",
+        "html_title": "<span class=\"film-title\">Bab's Burglar</span>",
+        "year": 1917,
+        "studio": "Famous Players",
+        "directors": "J. Searle Dawley",
+        "genres": [
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 832,
+        "slug": "her-diary",
+        "title": "Her Diary",
+        "html_title": "<span class=\"work-title short-story\">\"Her Diary\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1917
+      },
+      "author": {
+        "id": 6,
+        "slug": "mary-roberts-rinehart",
+        "name": "Mary Roberts Rinehart"
+      },
+      "film": {
+        "id": 926,
+        "slug": "babs-diary-1917",
+        "title": "Bab's Diary",
+        "html_title": "<span class=\"film-title\">Bab's Diary</span>",
+        "year": 1917,
+        "studio": "Famous Players",
+        "directors": "J. Searle Dawley",
+        "genres": [
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 38,
+        "slug": "the-bargain-true",
+        "title": "The Bargain True",
+        "html_title": "<span class=\"work-title\">The Bargain True</span>",
+        "work_type": "novel",
+        "publication_year": 1918
+      },
+      "author": {
+        "id": 21,
+        "slug": "nalbro-isadorah-bartley",
+        "name": "Nalbro Isadorah Bartley"
+      },
+      "film": {
+        "id": 40,
+        "slug": "the-lure-of-luxury-1918",
+        "title": "The Lure of Luxury",
+        "html_title": "<span class=\"film-title\">The Lure of Luxury</span>",
+        "year": 1918,
+        "studio": "Bluebird Photoplays",
+        "directors": "Elsie Jane Wilson",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 39,
+        "slug": "the-firefly-of-france",
+        "title": "The Firefly of France",
+        "html_title": "<span class=\"work-title\">The Firefly of France</span>",
+        "work_type": "novel",
+        "publication_year": 1918
+      },
+      "author": {
+        "id": 23,
+        "slug": "marion-polk-angelotti",
+        "name": "Marion Polk Angelotti"
+      },
+      "film": {
+        "id": 41,
+        "slug": "the-firefly-of-france-1918",
+        "title": "The Firefly of France",
+        "html_title": "<span class=\"film-title\">The Firefly of France</span>",
+        "year": 1918,
+        "studio": "Famous Players-Lasky",
+        "directors": "Donald Crisp",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 373,
+        "slug": "nobodys-bride",
+        "title": "Nobody's Bride",
+        "html_title": "<span class=\"work-title\">Nobody's Bride</span>",
+        "work_type": "novella",
+        "publication_year": 1918
+      },
+      "author": {
+        "id": 41,
+        "slug": "evelyn-campbell",
+        "name": "Evelyn Campbell"
+      },
+      "film": {
+        "id": 441,
+        "slug": "which-woman-1918",
+        "title": "Which Woman?",
+        "html_title": "<span class=\"film-title\">Which Woman?</span>",
+        "year": 1918,
+        "studio": "Bluebird Photoplays",
+        "directors": "Tod Browning|Harry Pollard",
+        "genres": [
+          "Comedy-drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 287,
+        "slug": "the-avalanche-a-mystery-story",
+        "title": "The Avalanche: A Mystery Story",
+        "html_title": "<span class=\"work-title\">The Avalanche: A Mystery Story</span>",
+        "work_type": "novel",
+        "publication_year": 1919
+      },
+      "author": {
+        "id": 16,
+        "slug": "gertrude-atherton",
+        "name": "Gertrude Atherton"
+      },
+      "film": {
+        "id": 349,
+        "slug": "the-avalanche-1919",
+        "title": "The Avalanche",
+        "html_title": "<span class=\"film-title\">The Avalanche</span>",
+        "year": 1919,
+        "studio": "Famous Players-Lasky",
+        "directors": "George Fitzmaurice",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 789,
+        "slug": "dawn",
+        "title": "Dawn",
+        "html_title": "<span class=\"work-title\">Dawn</span>",
+        "work_type": "novel",
+        "publication_year": 1919
+      },
+      "author": {
+        "id": 400,
+        "slug": "eleanor-h-porter",
+        "name": "Eleanor H. Porter"
+      },
+      "film": {
+        "id": 880,
+        "slug": "dawn-1919",
+        "title": "Dawn",
+        "html_title": "<span class=\"film-title\">Dawn</span>",
+        "year": 1919,
+        "studio": "J. Stuart Blackton Productions",
+        "directors": "J. Stuart Blackton",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 57,
+        "slug": "storm-country-polly",
+        "title": "Storm Country Polly",
+        "html_title": "<span class=\"work-title\">Storm Country Polly</span>",
+        "work_type": "novel",
+        "publication_year": 1920
+      },
+      "author": {
+        "id": 4,
+        "slug": "grace-miller-white",
+        "name": "Grace Miller White"
+      },
+      "film": {
+        "id": 60,
+        "slug": "polly-of-the-storm-country-1920",
+        "title": "Polly of the Storm Country",
+        "html_title": "<span class=\"film-title\">Polly of the Storm Country</span>",
+        "year": 1920,
+        "studio": "Chaplin-Mayer Pictures",
+        "directors": "Arthur H. Rosson",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 712,
+        "slug": "the-forbidden-thing",
+        "title": "The Forbidden Thing",
+        "html_title": "<span class=\"work-title short-story\">\"The Forbidden Thing\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1920
+      },
+      "author": {
+        "id": 357,
+        "slug": "mary-mears",
+        "name": "Mary Mears"
+      },
+      "film": {
+        "id": 801,
+        "slug": "the-forbidden-thing-1920",
+        "title": "The Forbidden Thing",
+        "html_title": "<span class=\"film-title\">The Forbidden Thing</span>",
+        "year": 1920,
+        "studio": "Allan Dwan Productions",
+        "directors": "Allan Dwan",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 725,
+        "slug": "uncle-sam-of-freedom-ridge",
+        "title": "Uncle Sam of Freedom Ridge",
+        "html_title": "<span class=\"work-title\">Uncle Sam of Freedom Ridge</span>",
+        "work_type": "novel",
+        "publication_year": 1920
+      },
+      "author": {
+        "id": 364,
+        "slug": "margaret-prescott-montague",
+        "name": "Margaret Prescott Montague"
+      },
+      "film": {
+        "id": 819,
+        "slug": "uncle-sam-of-freedom-ridge-1920",
+        "title": "Uncle Sam of Freedom Ridge",
+        "html_title": "<span class=\"film-title\">Uncle Sam of Freedom Ridge</span>",
+        "year": 1920,
+        "studio": "Harry Levey Productions",
+        "directors": "George A. Beranger",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 747,
+        "slug": "harriet-and-the-piper",
+        "title": "Harriet and the Piper",
+        "html_title": "<span class=\"work-title\">Harriet and the Piper</span>",
+        "work_type": "novel",
+        "publication_year": 1920
+      },
+      "author": {
+        "id": 376,
+        "slug": "kathleen-norris",
+        "name": "Kathleen Norris"
+      },
+      "film": {
+        "id": 837,
+        "slug": "harriet-and-the-piper-1920",
+        "title": "Harriet and the Piper",
+        "html_title": "<span class=\"film-title\">Harriet and the Piper</span>",
+        "year": 1920,
+        "studio": "Anita Stewart Productions",
+        "directors": "Bertram Bracken",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 847,
+        "slug": "the-gilded-dream",
+        "title": "The Gilded Dream",
+        "html_title": "<span class=\"work-title\">The Gilded Dream</span>",
+        "work_type": "novella",
+        "publication_year": 1920
+      },
+      "author": {
+        "id": 26,
+        "slug": "katherine-leiser-robbins",
+        "name": "Katherine Leiser Robbins"
+      },
+      "film": {
+        "id": 945,
+        "slug": "the-gilded-dream-1920",
+        "title": "The Gilded Dream",
+        "html_title": "<span class=\"film-title\">The Gilded Dream</span>",
+        "year": 1920,
+        "studio": "Universal",
+        "directors": "Rollin Sturgeon",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 848,
+        "slug": "in-follys-trail",
+        "title": "In Folly's Trail",
+        "html_title": "<span class=\"work-title\">In Folly's Trail</span>",
+        "work_type": "novella",
+        "publication_year": 1920
+      },
+      "author": {
+        "id": 26,
+        "slug": "katherine-leiser-robbins",
+        "name": "Katherine Leiser Robbins"
+      },
+      "film": {
+        "id": 946,
+        "slug": "in-follys-trail-1920",
+        "title": "In Folly's Trail",
+        "html_title": "<span class=\"film-title\">In Folly's Trail</span>",
+        "year": 1920,
+        "studio": "Universal",
+        "directors": "Rollin Sturgeon",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 90,
+        "slug": "singed-wings",
+        "title": "Singed Wings",
+        "html_title": "<span class=\"work-title short-story\">\"Singed Wings\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1922
+      },
+      "author": {
+        "id": 32,
+        "slug": "katharine-newlin-burt",
+        "name": "Katharine Newlin Burt"
+      },
+      "film": {
+        "id": 94,
+        "slug": "singed-wings-1922",
+        "title": "Singed Wings",
+        "html_title": "<span class=\"film-title\">Singed Wings</span>",
+        "year": 1922,
+        "studio": "Famous Players-Lasky",
+        "directors": "Penrhyn Stanlaws",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 300,
+        "slug": "where-the-heart-lies",
+        "title": "Where the Heart Lies",
+        "html_title": "<span class=\"work-title short-story\">\"Where the Heart Lies\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1922
+      },
+      "author": {
+        "id": 114,
+        "slug": "lillian-bennett-thompson",
+        "name": "Lillian Bennett-Thompson"
+      },
+      "film": {
+        "id": 364,
+        "slug": "the-love-gambler-1922",
+        "title": "The Love Gambler",
+        "html_title": "<span class=\"film-title\">The Love Gambler</span>",
+        "year": 1922,
+        "studio": "Fox Film",
+        "directors": "Joseph Franz",
+        "genres": [
+          "Western"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 301,
+        "slug": "without-compromise",
+        "title": "Without Compromise",
+        "html_title": "<span class=\"work-title\">Without Compromise</span>",
+        "work_type": "novel",
+        "publication_year": 1922
+      },
+      "author": {
+        "id": 114,
+        "slug": "lillian-bennett-thompson",
+        "name": "Lillian Bennett-Thompson"
+      },
+      "film": {
+        "id": 365,
+        "slug": "without-compromise-1922",
+        "title": "Without Compromise",
+        "html_title": "<span class=\"film-title\">Without Compromise</span>",
+        "year": 1922,
+        "studio": "Fox Film",
+        "directors": "Emmett J. Flynn",
+        "genres": [
+          "Western"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 720,
+        "slug": "the-man-who-married-his-own-wife",
+        "title": "The Man Who Married His Own Wife",
+        "html_title": "<span class=\"work-title short-story\">\"The Man Who Married His Own Wife\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1922
+      },
+      "author": {
+        "id": 361,
+        "slug": "mary-ashe-miller",
+        "name": "Mary Ashe Miller"
+      },
+      "film": {
+        "id": 813,
+        "slug": "the-man-who-married-his-own-wife-1922",
+        "title": "The Man Who Married His Own Wife",
+        "html_title": "<span class=\"film-title\">The Man Who Married His Own Wife</span>",
+        "year": 1922,
+        "studio": "Universal",
+        "directors": "Stuart Paton",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 94,
+        "slug": "black-oxen",
+        "title": "Black Oxen",
+        "html_title": "<span class=\"work-title\">Black Oxen</span>",
+        "work_type": "novel",
+        "publication_year": 1923
+      },
+      "author": {
+        "id": 16,
+        "slug": "gertrude-atherton",
+        "name": "Gertrude Atherton"
+      },
+      "film": {
+        "id": 98,
+        "slug": "black-oxen-1923",
+        "title": "Black Oxen",
+        "html_title": "<span class=\"film-title\">Black Oxen</span>",
+        "year": 1923,
+        "studio": "Frank Lloyd Productions",
+        "directors": "Frank Lloyd",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 98,
+        "slug": "the-leopardess",
+        "title": "The Leopardess",
+        "html_title": "<span class=\"work-title short-story\">\"The Leopardess\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1923
+      },
+      "author": {
+        "id": 32,
+        "slug": "katharine-newlin-burt",
+        "name": "Katharine Newlin Burt"
+      },
+      "film": {
+        "id": 102,
+        "slug": "the-leopardess-1923",
+        "title": "The Leopardess",
+        "html_title": "<span class=\"film-title\">The Leopardess</span>",
+        "year": 1923,
+        "studio": "Famous Players-Lasky",
+        "directors": "Henry Kolker",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 100,
+        "slug": "so-big",
+        "title": "So Big",
+        "html_title": "<span class=\"work-title\">So Big</span>",
+        "work_type": "novel",
+        "publication_year": 1924
+      },
+      "author": {
+        "id": 40,
+        "slug": "edna-ferber",
+        "name": "Edna Ferber"
+      },
+      "film": {
+        "id": 105,
+        "slug": "so-big-1924",
+        "title": "So Big",
+        "html_title": "<span class=\"film-title\">So Big</span>",
+        "year": 1924,
+        "studio": "First National",
+        "directors": "Charles Brabin",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 102,
+        "slug": "empty-hearts",
+        "title": "Empty Hearts",
+        "html_title": "<span class=\"work-title short-story\">\"Empty Hearts\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1924
+      },
+      "author": {
+        "id": 41,
+        "slug": "evelyn-campbell",
+        "name": "Evelyn Campbell"
+      },
+      "film": {
+        "id": 107,
+        "slug": "empty-hearts-1924",
+        "title": "Empty Hearts",
+        "html_title": "<span class=\"film-title\">Empty Hearts</span>",
+        "year": 1924,
+        "studio": "Banner Productions",
+        "directors": "Al Santell",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 103,
+        "slug": "roles",
+        "title": "Roles",
+        "html_title": "<span class=\"work-title\">Roles</span>",
+        "work_type": "novel",
+        "publication_year": 1924
+      },
+      "author": {
+        "id": 39,
+        "slug": "elizabeth-alexander",
+        "name": "Elizabeth Alexander"
+      },
+      "film": {
+        "id": 108,
+        "slug": "changing-husbands-1924",
+        "title": "Changing Husbands",
+        "html_title": "<span class=\"film-title\">Changing Husbands</span>",
+        "year": 1924,
+        "studio": "Famous Players-Lasky",
+        "directors": "Frank Urson|Paul Iribe",
+        "genres": [
+          "Romantic comedy"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 105,
+        "slug": "sandra",
+        "title": "Sandra",
+        "html_title": "<span class=\"work-title\">Sandra</span>",
+        "work_type": "novel",
+        "publication_year": 1924
+      },
+      "author": {
+        "id": 31,
+        "slug": "pearl-doles-bell",
+        "name": "Pearl Doles Bell"
+      },
+      "film": {
+        "id": 110,
+        "slug": "sandra-1924",
+        "title": "Sandra",
+        "html_title": "<span class=\"film-title\">Sandra</span>",
+        "year": 1924,
+        "studio": "First National",
+        "directors": "Arthur H. Sawyer|Webster Campbell|George Melford",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 108,
+        "slug": "the-worst-woman-in-hollywood",
+        "title": "The Worst Woman in Hollywood",
+        "html_title": "<span class=\"work-title short-story\">\"The Worst Woman in Hollywood\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1924
+      },
+      "author": {
+        "id": 43,
+        "slug": "adela-rogers-st-johns",
+        "name": "Adela Rogers St. Johns"
+      },
+      "film": {
+        "id": 113,
+        "slug": "inez-from-hollywood-1924",
+        "title": "Inez From Hollywood",
+        "html_title": "<span class=\"film-title\">Inez From Hollywood</span>",
+        "year": 1924,
+        "studio": "Sam E. Rork Productions",
+        "directors": "Alfred E. Green",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 698,
+        "slug": "the-snob",
+        "title": "The Snob",
+        "html_title": "<span class=\"work-title\">The Snob</span>",
+        "work_type": "novel",
+        "publication_year": 1924
+      },
+      "author": {
+        "id": 349,
+        "slug": "helen-reimensnyder-martin",
+        "name": "Helen Reimensnyder Martin"
+      },
+      "film": {
+        "id": 784,
+        "slug": "the-snob-1924",
+        "title": "The Snob",
+        "html_title": "<span class=\"film-title\">The Snob</span>",
+        "year": 1924,
+        "studio": "MGM",
+        "directors": "Monta Bell",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 833,
+        "slug": "her-majesty-the-queen",
+        "title": "Her Majesty, the Queen",
+        "html_title": "<span class=\"work-title\">Her Majesty, the Queen</span>",
+        "work_type": "novella",
+        "publication_year": 1924
+      },
+      "author": {
+        "id": 6,
+        "slug": "mary-roberts-rinehart",
+        "name": "Mary Roberts Rinehart"
+      },
+      "film": {
+        "id": 927,
+        "slug": "her-love-story-1924",
+        "title": "Her Love Story",
+        "html_title": "<span class=\"film-title\">Her Love Story</span>",
+        "year": 1924,
+        "studio": "Famous Players-Lasky",
+        "directors": "Allan Dwan",
+        "genres": [
+          "Romance"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 111,
+        "slug": "the-keeper-of-the-bees",
+        "title": "The Keeper of the Bees",
+        "html_title": "<span class=\"work-title\">The Keeper of the Bees</span>",
+        "work_type": "novel",
+        "publication_year": 1925
+      },
+      "author": {
+        "id": 12,
+        "slug": "gene-stratton-porter",
+        "name": "Gene Stratton-Porter"
+      },
+      "film": {
+        "id": 116,
+        "slug": "the-keeper-of-the-bees-1925",
+        "title": "The Keeper of the Bees",
+        "html_title": "<span class=\"film-title\">The Keeper of the Bees</span>",
+        "year": 1925,
+        "studio": "Gene Stratton Porter Productions",
+        "directors": "James Leo Meehan",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 115,
+        "slug": "chickie",
+        "title": "Chickie",
+        "html_title": "<span class=\"work-title\">Chickie</span>",
+        "work_type": "novel",
+        "publication_year": 1925
+      },
+      "author": {
+        "id": 46,
+        "slug": "elenore-meherin",
+        "name": "Elenore Meherin"
+      },
+      "film": {
+        "id": 120,
+        "slug": "chickie-1925",
+        "title": "Chickie",
+        "html_title": "<span class=\"film-title\">Chickie</span>",
+        "year": 1925,
+        "studio": "First National",
+        "directors": "John Francis Dillon",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 337,
+        "slug": "bobbed-hair",
+        "title": "Bobbed Hair",
+        "html_title": "<span class=\"work-title\">Bobbed Hair</span>",
+        "work_type": "novel",
+        "publication_year": 1925
+      },
+      "author": {
+        "id": 139,
+        "slug": "bernice-brown",
+        "name": "Bernice Brown"
+      },
+      "film": {
+        "id": 400,
+        "slug": "bobbed-hair-1925",
+        "title": "Bobbed Hair",
+        "html_title": "<span class=\"film-title\">Bobbed Hair</span>",
+        "year": 1925,
+        "studio": "Warner Bros",
+        "directors": "Alan Crosland",
+        "genres": [
+          "Romantic comedy"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 514,
+        "slug": "the-part-time-wife",
+        "title": "The Part-Time Wife",
+        "html_title": "<span class=\"work-title short-story\">\"The Part-Time Wife\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1925
+      },
+      "author": {
+        "id": 230,
+        "slug": "peggy-gaddis",
+        "name": "Peggy Gaddis"
+      },
+      "film": {
+        "id": 587,
+        "slug": "the-part-time-wife-1925",
+        "title": "The Part Time Wife",
+        "html_title": "<span class=\"film-title\">The Part Time Wife</span>",
+        "year": 1925,
+        "studio": "Gotham Productions",
+        "directors": "Henry McCarty",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 645,
+        "slug": "with-this-ring",
+        "title": "With This Ring",
+        "html_title": "<span class=\"work-title\">With This Ring</span>",
+        "work_type": "novel",
+        "publication_year": 1925
+      },
+      "author": {
+        "id": 311,
+        "slug": "fannie-heaslip-lea",
+        "name": "Fannie Heaslip Lea"
+      },
+      "film": {
+        "id": 731,
+        "slug": "with-this-ring-1925",
+        "title": "With This Ring",
+        "html_title": "<span class=\"film-title\">With This Ring</span>",
+        "year": 1925,
+        "studio": "B. P. Schulberg Productions",
+        "directors": "Fred Windermere",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 125,
+        "slug": "sandy",
+        "title": "Sandy",
+        "html_title": "<span class=\"work-title\">Sandy</span>",
+        "work_type": "novel",
+        "publication_year": 1926
+      },
+      "author": {
+        "id": 46,
+        "slug": "elenore-meherin",
+        "name": "Elenore Meherin"
+      },
+      "film": {
+        "id": 131,
+        "slug": "sandy-1926",
+        "title": "Sandy",
+        "html_title": "<span class=\"film-title\">Sandy</span>",
+        "year": 1926,
+        "studio": "Fox Film",
+        "directors": "Harry Beaumont",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 126,
+        "slug": "footloose",
+        "title": "Footloose",
+        "html_title": "<span class=\"work-title\">Footloose</span>",
+        "work_type": "novel",
+        "publication_year": 1926
+      },
+      "author": {
+        "id": 49,
+        "slug": "beatrice-burton",
+        "name": "Beatrice Burton"
+      },
+      "film": {
+        "id": 132,
+        "slug": "footloose-widows-1926",
+        "title": "Footloose Widows",
+        "html_title": "<span class=\"film-title\">Footloose Widows</span>",
+        "year": 1926,
+        "studio": "Warner Bros",
+        "directors": "Roy Del Ruth",
+        "genres": [
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 136,
+        "slug": "honeymoon-hate",
+        "title": "Honeymoon Hate",
+        "html_title": "<span class=\"work-title short-story\">\"Honeymoon Hate\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1927
+      },
+      "author": {
+        "id": 7,
+        "slug": "alice-muriel-williamson",
+        "name": "Alice Muriel Williamson"
+      },
+      "film": {
+        "id": 143,
+        "slug": "honeymoon-hate-1927",
+        "title": "Honeymoon Hate",
+        "html_title": "<span class=\"film-title\">Honeymoon Hate</span>",
+        "year": 1927,
+        "studio": "Paramount",
+        "directors": "Luther Reed",
+        "genres": [
+          "Romantic comedy"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 753,
+        "slug": "my-best-girl",
+        "title": "My Best Girl",
+        "html_title": "<span class=\"work-title\">My Best Girl</span>",
+        "work_type": "novel",
+        "publication_year": 1927
+      },
+      "author": {
+        "id": 376,
+        "slug": "kathleen-norris",
+        "name": "Kathleen Norris"
+      },
+      "film": {
+        "id": 844,
+        "slug": "my-best-girl-1927",
+        "title": "My Best Girl",
+        "html_title": "<span class=\"film-title\">My Best Girl</span>",
+        "year": 1927,
+        "studio": "Mary Pickford Productions",
+        "directors": "Sam Taylor",
+        "genres": [
+          "Romantic comedy"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 142,
+        "slug": "the-little-yellow-house",
+        "title": "The Little Yellow House",
+        "html_title": "<span class=\"work-title\">The Little Yellow House</span>",
+        "work_type": "novel",
+        "publication_year": 1928
+      },
+      "author": {
+        "id": 49,
+        "slug": "beatrice-burton",
+        "name": "Beatrice Burton"
+      },
+      "film": {
+        "id": 153,
+        "slug": "the-little-yellow-house-1928",
+        "title": "The Little Yellow House",
+        "html_title": "<span class=\"film-title\">The Little Yellow House</span>",
+        "year": 1928,
+        "studio": "FBO",
+        "directors": "James Leo Meehan",
+        "genres": [
+          "Romance"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 347,
+        "slug": "night-club",
+        "title": "Night Club",
+        "html_title": "<span class=\"work-title\">Night Club</span>",
+        "work_type": "novel",
+        "publication_year": 1929
+      },
+      "author": {
+        "id": 63,
+        "slug": "katherine-brush",
+        "name": "Katherine Brush"
+      },
+      "film": {
+        "id": 411,
+        "slug": "night-club-1929",
+        "title": "Night Club",
+        "html_title": "<span class=\"film-title\">Night Club</span>",
+        "year": 1929,
+        "studio": "Paramount",
+        "directors": "Robert Florey",
+        "genres": [
+          "Musical"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 443,
+        "slug": "dance-hall",
+        "title": "Dance Hall",
+        "html_title": "<span class=\"work-title short-story\">\"Dance Hall\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1929
+      },
+      "author": {
+        "id": 53,
+        "slug": "via-delmar",
+        "name": "Viña Delmar"
+      },
+      "film": {
+        "id": 512,
+        "slug": "dance-hall-1929",
+        "title": "Dance Hall",
+        "html_title": "<span class=\"film-title\">Dance Hall</span>",
+        "year": 1929,
+        "studio": "RKO",
+        "directors": "Melville Brown",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 510,
+        "slug": "their-own-desire",
+        "title": "Their Own Desire",
+        "html_title": "<span class=\"work-title\">Their Own Desire</span>",
+        "work_type": "novel",
+        "publication_year": 1929
+      },
+      "author": {
+        "id": 227,
+        "slug": "sarita-fuller",
+        "name": "Sarita Fuller"
+      },
+      "film": {
+        "id": 582,
+        "slug": "their-own-desire-1929",
+        "title": "Their Own Desire",
+        "html_title": "<span class=\"film-title\">Their Own Desire</span>",
+        "year": 1929,
+        "studio": "MGM",
+        "directors": "E. Mason Hopper",
+        "genres": [
+          "Romance"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 348,
+        "slug": "young-man-of-manhattan",
+        "title": "Young Man of Manhattan",
+        "html_title": "<span class=\"work-title\">Young Man of Manhattan</span>",
+        "work_type": "novel",
+        "publication_year": 1930
+      },
+      "author": {
+        "id": 63,
+        "slug": "katherine-brush",
+        "name": "Katherine Brush"
+      },
+      "film": {
+        "id": 412,
+        "slug": "young-man-of-manhattan-1930",
+        "title": "Young Man of Manhattan",
+        "html_title": "<span class=\"film-title\">Young Man of Manhattan</span>",
+        "year": 1930,
+        "studio": "Paramount",
+        "directors": "Monta Bell",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 382,
+        "slug": "mothers-cry",
+        "title": "Mother's Cry",
+        "html_title": "<span class=\"work-title\">Mother's Cry</span>",
+        "work_type": "novel",
+        "publication_year": 1930
+      },
+      "author": {
+        "id": 157,
+        "slug": "helen-grace-carlisle",
+        "name": "Helen Grace Carlisle"
+      },
+      "film": {
+        "id": 451,
+        "slug": "mothers-cry-1930",
+        "title": "Mother's Cry",
+        "html_title": "<span class=\"film-title\">Mother's Cry</span>",
+        "year": 1930,
+        "studio": "First National",
+        "directors": "Hobart Henley",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 947,
+        "slug": "stolen-thunder",
+        "title": "Stolen Thunder",
+        "html_title": "<span class=\"work-title short-story\">\"Stolen Thunder\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1930
+      },
+      "author": {
+        "id": 485,
+        "slug": "mary-watkins-cushing",
+        "name": "Mary Watkins Cushing"
+      },
+      "film": {
+        "id": 1055,
+        "slug": "oh-for-a-man-1930",
+        "title": "Oh, for a Man!",
+        "html_title": "<span class=\"film-title\">Oh, for a Man!</span>",
+        "year": 1930,
+        "studio": "Fox Film",
+        "directors": "Hamilton MacFadden",
+        "genres": [
+          "Comedy-drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 166,
+        "slug": "girls-together",
+        "title": "Girls Together",
+        "html_title": "<span class=\"work-title short-story\">\"Girls Together\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1931
+      },
+      "author": {
+        "id": 48,
+        "slug": "mildred-cram",
+        "name": "Mildred Cram"
+      },
+      "film": {
+        "id": 180,
+        "slug": "this-modern-age-1931",
+        "title": "This Modern Age",
+        "html_title": "<span class=\"film-title\">This Modern Age</span>",
+        "year": 1931,
+        "studio": "MGM",
+        "directors": "Nicholas Grindé",
+        "genres": [
+          "Romance"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 527,
+        "slug": "sob-sister",
+        "title": "Sob Sister",
+        "html_title": "<span class=\"work-title\">Sob Sister</span>",
+        "work_type": "novel",
+        "publication_year": 1931
+      },
+      "author": {
+        "id": 238,
+        "slug": "mildred-gilman",
+        "name": "Mildred Gilman"
+      },
+      "film": {
+        "id": 603,
+        "slug": "sob-sister-1931",
+        "title": "Sob Sister",
+        "html_title": "<span class=\"film-title\">Sob Sister</span>",
+        "year": 1931,
+        "studio": "Fox Film",
+        "directors": "Alfred Santell",
+        "genres": [
+          "Comedy-drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 616,
+        "slug": "the-road-to-reno",
+        "title": "The Road to Reno",
+        "html_title": "<span class=\"work-title\">The Road to Reno</span>",
+        "work_type": "novel",
+        "publication_year": 1931
+      },
+      "author": {
+        "id": 296,
+        "slug": "virginia-kellogg",
+        "name": "Virginia Kellogg"
+      },
+      "film": {
+        "id": 700,
+        "slug": "the-road-to-reno-1931",
+        "title": "The Road to Reno",
+        "html_title": "<span class=\"film-title\">The Road to Reno</span>",
+        "year": 1931,
+        "studio": "Paramount",
+        "directors": "Richard Wallace",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 692,
+        "slug": "the-secret-six",
+        "title": "The Secret Six",
+        "html_title": "<span class=\"work-title\">The Secret Six</span>",
+        "work_type": "novel",
+        "publication_year": 1931
+      },
+      "author": {
+        "id": 346,
+        "slug": "frances-marion",
+        "name": "Frances Marion"
+      },
+      "film": {
+        "id": 778,
+        "slug": "the-secret-six-1931",
+        "title": "The Secret Six",
+        "html_title": "<span class=\"film-title\">The Secret Six</span>",
+        "year": 1931,
+        "studio": "MGM",
+        "directors": "George Hill",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 783,
+        "slug": "personal-maid",
+        "title": "Personal Maid",
+        "html_title": "<span class=\"work-title\">Personal Maid</span>",
+        "work_type": "novel",
+        "publication_year": 1931
+      },
+      "author": {
+        "id": 339,
+        "slug": "grace-perkins",
+        "name": "Grace Perkins"
+      },
+      "film": {
+        "id": 874,
+        "slug": "personal-maid-1931",
+        "title": "Personal Maid",
+        "html_title": "<span class=\"film-title\">Personal Maid</span>",
+        "year": 1931,
+        "studio": "Paramount",
+        "directors": "Monta Bell",
+        "genres": [
+          "Comedy-drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 171,
+        "slug": "weekend-marriage",
+        "title": "Weekend Marriage",
+        "html_title": "<span class=\"work-title\">Weekend Marriage</span>",
+        "work_type": "novel",
+        "publication_year": 1932
+      },
+      "author": {
+        "id": 57,
+        "slug": "faith-baldwin",
+        "name": "Faith Baldwin"
+      },
+      "film": {
+        "id": 186,
+        "slug": "week-end-marriage-1932",
+        "title": "Week-end Marriage",
+        "html_title": "<span class=\"film-title\">Week-end Marriage</span>",
+        "year": 1932,
+        "studio": "First National",
+        "directors": "Thornton Freeland",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 183,
+        "slug": "the-beachcomber",
+        "title": "The Beachcomber",
+        "html_title": "<span class=\"work-title short-story\">\"The Beachcomber\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1932
+      },
+      "author": {
+        "id": 48,
+        "slug": "mildred-cram",
+        "name": "Mildred Cram"
+      },
+      "film": {
+        "id": 200,
+        "slug": "sinners-in-the-sun-1932",
+        "title": "Sinners in the Sun",
+        "html_title": "<span class=\"film-title\">Sinners in the Sun</span>",
+        "year": 1932,
+        "studio": "Paramount",
+        "directors": "Alexander Hall|William C. de Mille",
+        "genres": [
+          "Romance"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 220,
+        "slug": "miss-pinkerton-adventures-of-a-nurse-detective",
+        "title": "Miss Pinkerton: Adventures of a Nurse Detective",
+        "html_title": "<span class=\"work-title\">Miss Pinkerton: Adventures of a Nurse Detective</span>",
+        "work_type": "novel",
+        "publication_year": 1932
+      },
+      "author": {
+        "id": 6,
+        "slug": "mary-roberts-rinehart",
+        "name": "Mary Roberts Rinehart"
+      },
+      "film": {
+        "id": 933,
+        "slug": "miss-pinkerton-1932",
+        "title": "Miss Pinkerton",
+        "html_title": "<span class=\"film-title\">Miss Pinkerton</span>",
+        "year": 1932,
+        "studio": "First National",
+        "directors": "Lloyd Bacon",
+        "genres": [
+          "Mystery"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 457,
+        "slug": "they-call-it-sin",
+        "title": "They Call It Sin",
+        "html_title": "<span class=\"work-title\">They Call It Sin</span>",
+        "work_type": "novel",
+        "publication_year": 1932
+      },
+      "author": {
+        "id": 203,
+        "slug": "alberta-stedman-eagan",
+        "name": "Alberta Stedman Eagan"
+      },
+      "film": {
+        "id": 526,
+        "slug": "they-call-it-sin-1932",
+        "title": "They Call It Sin",
+        "html_title": "<span class=\"film-title\">They Call It Sin</span>",
+        "year": 1932,
+        "studio": "First National",
+        "directors": "Thornton Freeland",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 737,
+        "slug": "the-goldfish-bowl",
+        "title": "The Goldfish Bowl",
+        "html_title": "<span class=\"work-title\">The Goldfish Bowl</span>",
+        "work_type": "novel",
+        "publication_year": 1932
+      },
+      "author": {
+        "id": 355,
+        "slug": "mary-c-mccall-jr",
+        "name": "Mary C. McCall Jr."
+      },
+      "film": {
+        "id": 795,
+        "slug": "its-tough-to-be-famous-1932",
+        "title": "It's Tough to be Famous",
+        "html_title": "<span class=\"film-title\">It's Tough to be Famous</span>",
+        "year": 1932,
+        "studio": "First National",
+        "directors": "Alfred E. Green",
+        "genres": [
+          "Comedy-drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 782,
+        "slug": "no-more-orchids",
+        "title": "No More Orchids",
+        "html_title": "<span class=\"work-title\">No More Orchids</span>",
+        "work_type": "novel",
+        "publication_year": 1932
+      },
+      "author": {
+        "id": 339,
+        "slug": "grace-perkins",
+        "name": "Grace Perkins"
+      },
+      "film": {
+        "id": 873,
+        "slug": "no-more-orchids-1932",
+        "title": "No More Orchids",
+        "html_title": "<span class=\"film-title\">No More Orchids</span>",
+        "year": 1932,
+        "studio": "Columbia",
+        "directors": "Walter Lang",
+        "genres": [
+          "Comedy-drama",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 175,
+        "slug": "beauty",
+        "title": "Beauty",
+        "html_title": "<span class=\"work-title\">Beauty</span>",
+        "work_type": "novel",
+        "publication_year": 1933
+      },
+      "author": {
+        "id": 57,
+        "slug": "faith-baldwin",
+        "name": "Faith Baldwin"
+      },
+      "film": {
+        "id": 190,
+        "slug": "beauty-for-sale-1933",
+        "title": "Beauty for Sale",
+        "html_title": "<span class=\"film-title\">Beauty for Sale</span>",
+        "year": 1933,
+        "studio": "MGM",
+        "directors": "Richard Boleslavsky",
+        "genres": [
+          "Comedy-drama",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 186,
+        "slug": "big-executive",
+        "title": "Big Executive",
+        "html_title": "<span class=\"work-title\">Big Executive</span>",
+        "work_type": "novella",
+        "publication_year": 1933
+      },
+      "author": {
+        "id": 24,
+        "slug": "alice-duer-miller",
+        "name": "Alice Duer Miller"
+      },
+      "film": {
+        "id": 203,
+        "slug": "big-executive-1933",
+        "title": "Big Executive",
+        "html_title": "<span class=\"film-title\">Big Executive</span>",
+        "year": 1933,
+        "studio": "Paramount",
+        "directors": "Erle C. Kenton",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 288,
+        "slug": "woman-accused",
+        "title": "Woman Accused",
+        "html_title": "<span class=\"work-title\">Woman Accused</span>",
+        "work_type": "novel",
+        "publication_year": 1933
+      },
+      "author": {
+        "id": 16,
+        "slug": "gertrude-atherton",
+        "name": "Gertrude Atherton"
+      },
+      "film": {
+        "id": 350,
+        "slug": "the-woman-accused-1933",
+        "title": "The Woman Accused",
+        "html_title": "<span class=\"film-title\">The Woman Accused</span>",
+        "year": 1933,
+        "studio": "Paramount",
+        "directors": "Paul Sloane",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 341,
+        "slug": "redhead",
+        "title": "Redhead",
+        "html_title": "<span class=\"work-title\">Redhead</span>",
+        "work_type": "novel",
+        "publication_year": 1933
+      },
+      "author": {
+        "id": 142,
+        "slug": "vera-brown",
+        "name": "Vera Brown"
+      },
+      "film": {
+        "id": 404,
+        "slug": "redhead-1933",
+        "title": "Redhead",
+        "html_title": "<span class=\"film-title\">Redhead</span>",
+        "year": 1933,
+        "studio": "Monogram",
+        "directors": "Melville Brown",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 195,
+        "slug": "bread-upon-the-waters",
+        "title": "Bread Upon the Waters",
+        "html_title": "<span class=\"work-title short-story\">\"Bread Upon the Waters\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1934
+      },
+      "author": {
+        "id": 22,
+        "slug": "edith-wharton",
+        "name": "Edith Wharton"
+      },
+      "film": {
+        "id": 218,
+        "slug": "strange-wives-1934",
+        "title": "Strange Wives",
+        "html_title": "<span class=\"film-title\">Strange Wives</span>",
+        "year": 1934,
+        "studio": "Universal",
+        "directors": "Richard Thorpe",
+        "genres": [
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 403,
+        "slug": "she-was-a-lady",
+        "title": "She Was a Lady",
+        "html_title": "<span class=\"work-title\">She Was a Lady</span>",
+        "work_type": "novel",
+        "publication_year": 1934
+      },
+      "author": {
+        "id": 170,
+        "slug": "elisabeth-cobb",
+        "name": "Elisabeth Cobb"
+      },
+      "film": {
+        "id": 471,
+        "slug": "she-was-a-lady-1934",
+        "title": "She Was a Lady",
+        "html_title": "<span class=\"film-title\">She Was a Lady</span>",
+        "year": 1934,
+        "studio": "Fox Film",
+        "directors": "Hamilton MacFadden",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 197,
+        "slug": "wife-vs-secretary",
+        "title": "Wife vs. Secretary",
+        "html_title": "<span class=\"work-title\">Wife vs. Secretary</span>",
+        "work_type": "novella",
+        "publication_year": 1935
+      },
+      "author": {
+        "id": 57,
+        "slug": "faith-baldwin",
+        "name": "Faith Baldwin"
+      },
+      "film": {
+        "id": 221,
+        "slug": "wife-vs-secretary-1935",
+        "title": "Wife Vs. Secretary",
+        "html_title": "<span class=\"film-title\">Wife Vs. Secretary</span>",
+        "year": 1935,
+        "studio": "MGM",
+        "directors": "Clarence Brown",
+        "genres": [
+          "Comedy-drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 206,
+        "slug": "bless-their-hearts",
+        "title": "Bless Their Hearts",
+        "html_title": "<span class=\"work-title short-story\">\"Bless Their Hearts\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1936
+      },
+      "author": {
+        "id": 60,
+        "slug": "sara-addington",
+        "name": "Sara Addington"
+      },
+      "film": {
+        "id": 238,
+        "slug": "and-so-they-were-married-1936",
+        "title": "And So They Were Married",
+        "html_title": "<span class=\"film-title\">And So They Were Married</span>",
+        "year": 1936,
+        "studio": "Columbia",
+        "directors": "Elliott Nugent",
+        "genres": [
+          "Romantic comedy"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 209,
+        "slug": "angle-shooter",
+        "title": "Angle Shooter",
+        "html_title": "<span class=\"work-title short-story\">\"Angle Shooter\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1937
+      },
+      "author": {
+        "id": 43,
+        "slug": "adela-rogers-st-johns",
+        "name": "Adela Rogers St. Johns"
+      },
+      "film": {
+        "id": 243,
+        "slug": "back-in-circulation-1937",
+        "title": "Back in Circulation",
+        "html_title": "<span class=\"film-title\">Back in Circulation</span>",
+        "year": 1937,
+        "studio": "Warner Bros",
+        "directors": "Ray Enright",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 291,
+        "slug": "portia-on-trial",
+        "title": "Portia on Trial",
+        "html_title": "<span class=\"work-title short-story\">\"Portia on Trial\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1937
+      },
+      "author": {
+        "id": 57,
+        "slug": "faith-baldwin",
+        "name": "Faith Baldwin"
+      },
+      "film": {
+        "id": 353,
+        "slug": "portia-on-trial-1937",
+        "title": "Portia on Trial",
+        "html_title": "<span class=\"film-title\">Portia on Trial</span>",
+        "year": 1937,
+        "studio": "Republic",
+        "directors": "George Nicholls Jr.",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 304,
+        "slug": "a-bride-for-henry",
+        "title": "A Bride for Henry",
+        "html_title": "<span class=\"work-title short-story\">\"A Bride for Henry\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1937
+      },
+      "author": {
+        "id": 116,
+        "slug": "josephine-bentham",
+        "name": "Josephine Bentham"
+      },
+      "film": {
+        "id": 368,
+        "slug": "a-bride-for-henry-1937",
+        "title": "A Bride for Henry",
+        "html_title": "<span class=\"film-title\">A Bride for Henry</span>",
+        "year": 1937,
+        "studio": "Monogram",
+        "directors": "William Nigh",
+        "genres": [
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 643,
+        "slug": "four-marys",
+        "title": "Four Marys",
+        "html_title": "<span class=\"work-title\">Four Marys</span>",
+        "work_type": "novel",
+        "publication_year": 1937
+      },
+      "author": {
+        "id": 311,
+        "slug": "fannie-heaslip-lea",
+        "name": "Fannie Heaslip Lea"
+      },
+      "film": {
+        "id": 729,
+        "slug": "man-proof-1937",
+        "title": "Man-Proof",
+        "html_title": "<span class=\"film-title\">Man-Proof</span>",
+        "year": 1937,
+        "studio": "MGM",
+        "directors": "Richard Thorpe",
+        "genres": [
+          "Comedy-drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 736,
+        "slug": "fraternity",
+        "title": "Fraternity",
+        "html_title": "<span class=\"work-title short-story\">\"Fraternity\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1941
+      },
+      "author": {
+        "id": 355,
+        "slug": "mary-c-mccall-jr",
+        "name": "Mary C. McCall Jr."
+      },
+      "film": {
+        "id": 794,
+        "slug": "on-the-sunny-side-1941",
+        "title": "On the Sunny Side",
+        "html_title": "<span class=\"film-title\">On the Sunny Side</span>",
+        "year": 1941,
+        "studio": "20th Century Fox",
+        "directors": "Harold Schuster",
+        "genres": [
+          "Comedy-drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 864,
+        "slug": "the-frightened-stiff",
+        "title": "The Frightened Stiff",
+        "html_title": "<span class=\"work-title\">The Frightened Stiff</span>",
+        "work_type": "novel",
+        "publication_year": 1942
+      },
+      "author": {
+        "id": 424,
+        "slug": "kelley-roos",
+        "name": "Kelley Roos"
+      },
+      "film": {
+        "id": 962,
+        "slug": "a-night-to-remember-1942",
+        "title": "A Night to Remember",
+        "html_title": "<span class=\"film-title\">A Night to Remember</span>",
+        "year": 1942,
+        "studio": "Columbia",
+        "directors": "Richard Wallace",
+        "genres": [
+          "Mystery"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 404,
+        "slug": "dark-waters",
+        "title": "Dark Waters",
+        "html_title": "<span class=\"work-title\">Dark Waters</span>",
+        "work_type": "novel",
+        "publication_year": 1944
+      },
+      "author": {
+        "id": 171,
+        "slug": "marian-cockrell",
+        "name": "Marian Cockrell"
+      },
+      "film": {
+        "id": 472,
+        "slug": "dark-waters-1944",
+        "title": "Dark Waters",
+        "html_title": "<span class=\"film-title\">Dark Waters</span>",
+        "year": 1944,
+        "studio": "Benedict Bogeaus Productions",
+        "directors": "Andre DeToth",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 353,
+        "slug": "china-sky",
+        "title": "China Sky",
+        "html_title": "<span class=\"work-title\">China Sky</span>",
+        "work_type": "novel",
+        "publication_year": 1945
+      },
+      "author": {
+        "id": 146,
+        "slug": "pearl-s-buck",
+        "name": "Pearl S. Buck"
+      },
+      "film": {
+        "id": 417,
+        "slug": "china-sky-1945",
+        "title": "China Sky",
+        "html_title": "<span class=\"film-title\">China Sky</span>",
+        "year": 1945,
+        "studio": "RKO",
+        "directors": "Ray Enright",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 567,
+        "slug": "gentlemens-agreement",
+        "title": "Gentlemen's Agreement",
+        "html_title": "<span class=\"work-title\">Gentlemen's Agreement</span>",
+        "work_type": "novel",
+        "publication_year": 1947
+      },
+      "author": {
+        "id": 267,
+        "slug": "laura-z-hobson",
+        "name": "Laura Z. Hobson"
+      },
+      "film": {
+        "id": 645,
+        "slug": "gentlemans-agreement-1947",
+        "title": "Gentleman's Agreement",
+        "html_title": "<span class=\"film-title\">Gentleman's Agreement</span>",
+        "year": 1947,
+        "studio": "20th Century Fox",
+        "directors": "Elia Kazan",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 260,
+        "slug": "once-upon-a-train-the-loco-motive",
+        "title": "Once Upon a Train (The Loco Motive)",
+        "html_title": "<span class=\"work-title short-story\">\"Once Upon a Train (The Loco Motive)\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1950
+      },
+      "author": {
+        "id": 82,
+        "slug": "craig-rice",
+        "name": "Craig Rice"
+      },
+      "film": {
+        "id": 310,
+        "slug": "mrs-omalley-and-mr-malone-1950",
+        "title": "Mrs. O'Malley and Mr. Malone",
+        "html_title": "<span class=\"film-title\">Mrs. O'Malley and Mr. Malone</span>",
+        "year": 1950,
+        "studio": "MGM",
+        "directors": "Norman Taurog",
+        "genres": [
+          "Screwball comedy"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 518,
+        "slug": "trial-by-terror",
+        "title": "Trial by Terror",
+        "html_title": "<span class=\"work-title\">Trial by Terror</span>",
+        "work_type": "novel",
+        "publication_year": 1952
+      },
+      "author": {
+        "id": 232,
+        "slug": "pauline-gallico",
+        "name": "Pauline Gallico"
+      },
+      "film": {
+        "id": 591,
+        "slug": "assignment-paris-1952",
+        "title": "Assignment--Paris",
+        "html_title": "<span class=\"film-title\">Assignment--Paris</span>",
+        "year": 1952,
+        "studio": "Columbia",
+        "directors": "Robert Parrish",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 714,
+        "slug": "peyton-place",
+        "title": "Peyton Place",
+        "html_title": "<span class=\"work-title\">Peyton Place</span>",
+        "work_type": "novel",
+        "publication_year": 1957
+      },
+      "author": {
+        "id": 359,
+        "slug": "grace-metalious",
+        "name": "Grace Metalious"
+      },
+      "film": {
+        "id": 803,
+        "slug": "peyton-place-1957",
+        "title": "Peyton Place",
+        "html_title": "<span class=\"film-title\">Peyton Place</span>",
+        "year": 1957,
+        "studio": "20th Century Fox",
+        "directors": "Mark Robson",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 715,
+        "slug": "return-to-peyton-place",
+        "title": "Return to Peyton Place",
+        "html_title": "<span class=\"work-title\">Return to Peyton Place</span>",
+        "work_type": "novel",
+        "publication_year": 1961
+      },
+      "author": {
+        "id": 359,
+        "slug": "grace-metalious",
+        "name": "Grace Metalious"
+      },
+      "film": {
+        "id": 804,
+        "slug": "return-to-peyton-place-1961",
+        "title": "Return to Peyton Place",
+        "html_title": "<span class=\"film-title\">Return to Peyton Place</span>",
+        "year": 1961,
+        "studio": "Associated Producers",
+        "directors": "José Ferrer",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 356,
+        "slug": "satan-never-sleeps",
+        "title": "Satan Never Sleeps",
+        "html_title": "<span class=\"work-title\">Satan Never Sleeps</span>",
+        "work_type": "novel",
+        "publication_year": 1962
+      },
+      "author": {
+        "id": 146,
+        "slug": "pearl-s-buck",
+        "name": "Pearl S. Buck"
+      },
+      "film": {
+        "id": 420,
+        "slug": "satan-never-sleeps-1962",
+        "title": "Satan Never Sleeps",
+        "html_title": "<span class=\"film-title\">Satan Never Sleeps</span>",
+        "year": 1962,
+        "studio": "20th Century Fox",
+        "directors": "Leo McCarey|Jack Cardiff",
+        "genres": [
+          "Comedy-drama"
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "total": 83,
+    "yearRange": {
+      "earliest": 1914,
+      "latest": 1962
+    },
+    "byDecade": {
+      "1910s": 15,
+      "1920s": 32,
+      "1930s": 26,
+      "1940s": 5,
+      "1950s": 3,
+      "1960s": 2
+    },
+    "byGenre": [
+      {
+        "genre": "Drama",
+        "count": 31
+      },
+      {
+        "genre": "Melodrama",
+        "count": 18
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 12
+      },
+      {
+        "genre": "Romance",
+        "count": 7
+      },
+      {
+        "genre": "Comedy",
+        "count": 5
+      },
+      {
+        "genre": "Romantic comedy",
+        "count": 5
+      },
+      {
+        "genre": "Western",
+        "count": 2
+      },
+      {
+        "genre": "Mystery",
+        "count": 2
+      },
+      {
+        "genre": "Unknown",
+        "count": 1
+      },
+      {
+        "genre": "Musical",
+        "count": 1
+      },
+      {
+        "genre": "Screwball comedy",
+        "count": 1
+      }
+    ],
+    "byWorkType": [
+      {
+        "type": "novel",
+        "count": 53
+      },
+      {
+        "type": "short story",
+        "count": 23
+      },
+      {
+        "type": "novella",
+        "count": 7
+      }
+    ],
+    "topStudios": [
+      {
+        "studio": "First National",
+        "count": 8
+      },
+      {
+        "studio": "MGM",
+        "count": 8
+      },
+      {
+        "studio": "Paramount",
+        "count": 8
+      },
+      {
+        "studio": "Famous Players-Lasky",
+        "count": 6
+      },
+      {
+        "studio": "Fox Film",
+        "count": 6
+      },
+      {
+        "studio": "Universal",
+        "count": 5
+      },
+      {
+        "studio": "Columbia",
+        "count": 4
+      },
+      {
+        "studio": "20th Century Fox",
+        "count": 4
+      },
+      {
+        "studio": "Famous Players",
+        "count": 3
+      },
+      {
+        "studio": "Vitagraph",
+        "count": 3
+      }
+    ],
+    "topAuthors": [
+      {
+        "name": "Mary Roberts Rinehart",
+        "count": 4
+      },
+      {
+        "name": "Faith Baldwin",
+        "count": 4
+      },
+      {
+        "name": "Alice Muriel Williamson",
+        "count": 3
+      },
+      {
+        "name": "Evelyn Campbell",
+        "count": 3
+      },
+      {
+        "name": "Gertrude Atherton",
+        "count": 3
+      },
+      {
+        "name": "Kathleen Norris",
+        "count": 2
+      },
+      {
+        "name": "Katherine Leiser Robbins",
+        "count": 2
+      },
+      {
+        "name": "Katharine Newlin Burt",
+        "count": 2
+      },
+      {
+        "name": "Lillian Bennett-Thompson",
+        "count": 2
+      },
+      {
+        "name": "Adela Rogers St. Johns",
+        "count": 2
+      }
+    ]
+  },
+  "metadata": {
+    "generated": "2025-07-25T02:22:44.750Z",
+    "version": "1.1"
+  }
+}

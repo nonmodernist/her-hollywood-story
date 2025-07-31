@@ -3,22 +3,16 @@
 // Load the data and initialize visualizations
 async function initHotOffThePress() {
     try {
-        // Load the speed-demons data
-        const response = await fetch('../data/patterns/speed-demons.json');
+        // Load the hot-off-the-press data
+        const response = await fetch('../data/patterns/hot-off-the-press.json');
         if (!response.ok) {
-            throw new Error('Failed to load speed-demons data');
+            throw new Error('Failed to load hot-off-the-press data');
         }
         
-        const rawData = await response.json();
-        
-        // Filter to only same-year adaptations (delay = 0)
-        const sameYearDemons = rawData.demons.filter(d => d.speed.delay === 0);
-        
-        // Process the data for visualizations
-        const data = processSpeedData(sameYearDemons);
+        const data = await response.json();
         
         // Update counts in the hero section
-        updateHeroStats(sameYearDemons.length);
+        updateHeroStats(data.stats.total);
         
         // Create visualizations
         createRushTimeline(data);
@@ -26,10 +20,10 @@ async function initHotOffThePress() {
         createStudioSpeedChart(data);
         
         // Update specific sections with real data
-        updateSpeedRecords(sameYearDemons);
-        updateAuthorList(data);
-        updateEraStats(data);
-        updateFascinatingFacts(data, sameYearDemons);
+        updateSpeedRecords(data.adaptations);
+        updateAuthorList(data.stats.topAuthors);
+        updateEraStats(data.stats.byDecade);
+        updateFascinatingFacts(data);
         
     } catch (error) {
         console.error('Error loading hot-off-the-press data:', error);
@@ -38,89 +32,87 @@ async function initHotOffThePress() {
     }
 }
 
-// Process the raw speed data into visualization-ready format
-function processSpeedData(sameYearDemons) {
-    const data = {
-        byDecade: {},
-        byGenre: {},
-        byStudio: {},
-        byAuthor: {},
-        byYear: {},
-        topAuthors: [],
-        earliestYear: 9999,
-        latestYear: 0
-    };
-    
-    // Initialize decades
-    for (let decade = 1910; decade <= 1960; decade += 10) {
-        data.byDecade[decade + 's'] = 0;
-    }
-    
-    // Process each film
-    sameYearDemons.forEach(demon => {
-        const year = demon.firstAdaptation.year;
-        const decade = Math.floor(year / 10) * 10 + 's';
-        const studio = demon.firstAdaptation.studio || 'Unknown';
-        const authorName = demon.author.name;
-        
-        // Track year range
-        if (year < data.earliestYear) data.earliestYear = year;
-        if (year > data.latestYear) data.latestYear = year;
-        
-        // Count by decade
-        if (data.byDecade[decade] !== undefined) {
-            data.byDecade[decade]++;
-        }
-        
-        // Count by studio
-        data.byStudio[studio] = (data.byStudio[studio] || 0) + 1;
-        
-        // Count by author
-        data.byAuthor[authorName] = (data.byAuthor[authorName] || 0) + 1;
-        
-        // Count by specific year
-        data.byYear[year] = (data.byYear[year] || 0) + 1;
-        
-        // Genre would need to come from film data, not available in speed-demons.json
-        // For now, we'll skip genre analysis
-    });
-    
-    // Get top authors
-    const authorCounts = Object.entries(data.byAuthor)
-        .map(([name, count]) => ({ name, count }))
-        .sort((a, b) => b.count - a.count)
-        .slice(0, 10);
-    
-    data.topAuthors = authorCounts;
-    
-    // Consolidate smaller studios into "Others"
-    const studioEntries = Object.entries(data.byStudio).sort((a, b) => b[1] - a[1]);
-    const topStudios = {};
-    let othersCount = 0;
-    
-    studioEntries.forEach(([studio, count], index) => {
-        if (index < 6) {
-            topStudios[studio] = count;
-        } else {
-            othersCount += count;
-        }
-    });
-    
-    if (othersCount > 0) {
-        topStudios['Others'] = othersCount;
-    }
-    
-    data.byStudio = topStudios;
-    
-    return data;
-}
-
 // Update hero stats with actual count
 function updateHeroStats(count) {
     const statItem = document.querySelector('.hero-stats .stat-item');
     if (statItem) {
         statItem.textContent = `${count} films`;
     }
+}
+
+// Create genre breakdown chart
+function createGenreBreakdown(data) {
+    const container = document.getElementById('genreBreakdown');
+    if (!container) return;
+    
+    container.innerHTML = '';
+    const canvas = document.createElement('canvas');
+    canvas.style.maxHeight = '300px';
+    container.appendChild(canvas);
+    
+    // Get top 6 genres
+    const topGenres = data.stats.byGenre.slice(0, 6);
+    const genres = topGenres.map(g => g.genre);
+    const values = topGenres.map(g => g.count);
+    
+    new Chart(canvas, {
+        type: 'doughnut',
+        data: {
+            labels: genres,
+            datasets: [{
+                data: values,
+                backgroundColor: [
+                    'rgba(139, 0, 0, 0.9)',
+                    'rgba(180, 40, 40, 0.9)',
+                    'rgba(160, 60, 60, 0.9)',
+                    'rgba(120, 20, 20, 0.9)',
+                    'rgba(200, 80, 80, 0.9)',
+                    'rgba(100, 10, 10, 0.9)'
+                ],
+                borderWidth: 2,
+                borderColor: '#fff'
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            devicePixelRatio: window.devicePixelRatio || 1,
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'Genres That Needed Speed',
+                    font: {
+                        size: 16,
+                        style: 'italic',
+                        family: "'EB Garamond', serif"
+                    },
+                    color: '#4a4a4a',
+                    padding: 20
+                },
+                legend: {
+                    position: 'right',
+                    labels: {
+                        font: {
+                            family: "'Source Sans 3', sans-serif",
+                            size: 14
+                        },
+                        padding: 10
+                    }
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            const label = context.label || '';
+                            const value = context.parsed;
+                            const total = context.dataset.data.reduce((a, b) => a + b, 0);
+                            const percentage = ((value / total) * 100).toFixed(1);
+                            return `${label}: ${value} films (${percentage}%)`;
+                        }
+                    }
+                }
+            }
+        }
+    });
 }
 
 // Create timeline visualization
@@ -133,8 +125,8 @@ function createRushTimeline(data) {
     canvas.style.maxHeight = '300px';
     container.appendChild(canvas);
     
-    const decades = Object.keys(data.byDecade);
-    const values = Object.values(data.byDecade);
+    const decades = Object.keys(data.stats.byDecade);
+    const values = Object.values(data.stats.byDecade);
     
     new Chart(canvas, {
         type: 'line',
@@ -156,10 +148,11 @@ function createRushTimeline(data) {
         options: {
             responsive: true,
             maintainAspectRatio: false,
+            devicePixelRatio: window.devicePixelRatio || 1,
             plugins: {
                 title: {
                     display: true,
-                    text: 'The Rush to Adapt: Same-Year Films by Decade',
+                    text: 'Same-Year Films by Decade',
                     font: {
                         size: 16,
                         style: 'italic',
@@ -186,7 +179,7 @@ function createRushTimeline(data) {
                         stepSize: 5,
                         font: {
                             family: "'Source Sans 3', sans-serif",
-                            size: 11
+                            size: 14
                         },
                         color: '#767676'
                     },
@@ -211,90 +204,6 @@ function createRushTimeline(data) {
     });
 }
 
-// Create genre breakdown chart
-function createGenreBreakdown(data) {
-    const container = document.getElementById('genreBreakdown');
-    if (!container) return;
-    
-    // Since we don't have genre data in speed-demons.json, show a placeholder
-    container.innerHTML = `
-        <div style="padding: 2rem; text-align: center; color: #767676;">
-            <p style="font-style: italic;">Genre analysis will be available once film genre data is verified.</p>
-            <p style="font-size: 0.9rem; margin-top: 1rem;">This visualization will reveal which types of stories studios rushed to adapt.</p>
-        </div>
-    `;
-    
-    // TODO: Once we have genre data, implement the doughnut chart
-    // The code below is preserved for when we have the data
-    /*
-    container.innerHTML = '';
-    const canvas = document.createElement('canvas');
-    canvas.style.maxHeight = '300px';
-    container.appendChild(canvas);
-    
-    const genres = Object.keys(data.byGenre);
-    const values = Object.values(data.byGenre);
-    
-    new Chart(canvas, {
-        type: 'doughnut',
-        data: {
-            labels: genres,
-            datasets: [{
-                data: values,
-                backgroundColor: [
-                    'rgba(139, 0, 0, 0.9)',
-                    'rgba(180, 40, 40, 0.9)',
-                    'rgba(160, 60, 60, 0.9)',
-                    'rgba(120, 20, 20, 0.9)',
-                    'rgba(200, 80, 80, 0.9)',
-                    'rgba(100, 10, 10, 0.9)'
-                ],
-                borderWidth: 2,
-                borderColor: '#fff'
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-                title: {
-                    display: true,
-                    text: 'Genres That Demanded Speed',
-                    font: {
-                        size: 16,
-                        style: 'italic',
-                        family: "'EB Garamond', serif"
-                    },
-                    color: '#4a4a4a',
-                    padding: 20
-                },
-                legend: {
-                    position: 'right',
-                    labels: {
-                        font: {
-                            family: "'Source Sans 3', sans-serif",
-                            size: 11
-                        },
-                        padding: 10
-                    }
-                },
-                tooltip: {
-                    callbacks: {
-                        label: function(context) {
-                            const label = context.label || '';
-                            const value = context.parsed;
-                            const total = context.dataset.data.reduce((a, b) => a + b, 0);
-                            const percentage = ((value / total) * 100).toFixed(1);
-                            return `${label}: ${value} films (${percentage}%)`;
-                        }
-                    }
-                }
-            }
-        }
-    });
-    */
-}
-
 // Create studio speed chart
 function createStudioSpeedChart(data) {
     const container = document.getElementById('studioSpeed');
@@ -305,8 +214,9 @@ function createStudioSpeedChart(data) {
     canvas.style.maxHeight = '300px';
     container.appendChild(canvas);
     
-    const studios = Object.keys(data.byStudio).slice(0, 6); // Top 6 studios
-    const values = Object.values(data.byStudio).slice(0, 6);
+    // Use top 6 studios from the data
+    const studios = data.stats.topStudios.slice(0, 6).map(s => s.studio);
+    const values = data.stats.topStudios.slice(0, 6).map(s => s.count);
     
     new Chart(canvas, {
         type: 'bar',
@@ -323,6 +233,7 @@ function createStudioSpeedChart(data) {
         options: {
             responsive: true,
             maintainAspectRatio: false,
+            devicePixelRatio: window.devicePixelRatio || 1,
             plugins: {
                 title: {
                     display: true,
@@ -346,7 +257,7 @@ function createStudioSpeedChart(data) {
                         stepSize: 2,
                         font: {
                             family: "'Source Sans 3', sans-serif",
-                            size: 11
+                            size: 14
                         },
                         color: '#767676'
                     },
@@ -371,66 +282,75 @@ function createStudioSpeedChart(data) {
     });
 }
 
-// Update specific elements once we have real data
-function updateSpeedRecords(sameYearDemons) {
-    // Sort by year to find interesting examples
-    const sortedByYear = [...sameYearDemons].sort((a, b) => a.firstAdaptation.year - b.firstAdaptation.year);
-    
-    // Get earliest, middle, and latest examples
+// Update speed records with real examples
+function updateSpeedRecords(adaptations) {
+    // Get interesting examples from different eras
     const examples = [
-        sortedByYear[0], // Earliest
-        sortedByYear[Math.floor(sortedByYear.length / 2)], // Middle
-        sortedByYear[sortedByYear.length - 1] // Latest
-    ];
+        adaptations.find(a => a.film.year < 1920), // Early example
+        adaptations.find(a => a.film.year >= 1925 && a.film.year < 1935), // Peak era
+        adaptations[adaptations.length - 1] // Latest example
+    ].filter(Boolean);
     
     const recordCards = document.querySelectorAll('.record-card');
     
-    examples.forEach((demon, index) => {
-        if (recordCards[index] && demon) {
+    examples.forEach((adaptation, index) => {
+        if (recordCards[index] && adaptation) {
             const card = recordCards[index];
             const titleEl = card.querySelector('.record-title');
             const timelineEl = card.querySelector('.record-timeline');
             const detailEl = card.querySelector('.record-detail');
             
             if (titleEl) {
-                titleEl.innerHTML = demon.work.html_title;
+                titleEl.innerHTML = adaptation.work.html_title;
             }
             
             if (timelineEl) {
                 timelineEl.innerHTML = `
-                    <span class="timeline-item">Published: ${demon.work.publication_year}</span>
+                    <span class="timeline-item">Published: ${adaptation.work.publication_year}</span>
                     <span class="timeline-arrow">→</span>
-                    <span class="timeline-item">Released: ${demon.firstAdaptation.year}</span>
+                    <span class="timeline-item">Released: ${adaptation.film.year}</span>
                 `;
             }
             
             if (detailEl) {
-                detailEl.textContent = `${demon.firstAdaptation.studio || 'Unknown studio'} • Dir: ${demon.firstAdaptation.directors || 'Unknown'}`;
+                detailEl.textContent = `${adaptation.film.studio || 'Unknown studio'} • Dir: ${adaptation.film.directors || 'Unknown'}`;
             }
         }
     });
 }
 
-function updateAuthorList(data) {
+// Update author list
+function updateAuthorList(topAuthors) {
     const container = document.querySelector('.author-speed-list');
-    if (!container || !data.topAuthors) return;
+    if (!container) return;
     
-    container.innerHTML = data.topAuthors.map(author => `
+    container.innerHTML = topAuthors.slice(0, 5).map(author => `
         <div class="speed-author">
             <h3>${author.name} - ${author.count} same-year adaptation${author.count !== 1 ? 's' : ''}</h3>
-            <p>Notable for: ${author.note || 'Multiple rapid adaptations'}</p>
+            <p>Notable for: ${getAuthorNote(author.name)}</p>
         </div>
     `).join('');
 }
 
-function updateEraStats(data) {
-    // Calculate era stats from decade data
-    const silent = (data.byDecade['1910s'] || 0) + (data.byDecade['1920s'] || 0);
-    const earlyTalkies = data.byDecade['1930s'] || 0;
-    const studioPeak = data.byDecade['1940s'] || 0;
-    const television = (data.byDecade['1950s'] || 0) + (data.byDecade['1960s'] || 0);
+// Helper function to get author notes
+function getAuthorNote(authorName) {
+    const notes = {
+        'Mary Roberts Rinehart': 'Mystery queen who mastered the magazine-to-movie pipeline',
+        'Faith Baldwin': 'Romance writer whose stories captured contemporary life',
+        'Alice Muriel Williamson': 'Adventure novelist with a knack for timely tales',
+        'Evelyn Campbell': 'Society stories that studios couldn\'t resist',
+        'Gertrude Atherton': 'California chronicler with studio connections'
+    };
+    return notes[authorName] || 'Multiple rapid adaptations';
+}
+
+// Update era stats
+function updateEraStats(byDecade) {
+    const silent = (byDecade['1910s'] || 0) + (byDecade['1920s'] || 0);
+    const earlyTalkies = byDecade['1930s'] || 0;
+    const studioPeak = byDecade['1940s'] || 0;
+    const television = (byDecade['1950s'] || 0) + (byDecade['1960s'] || 0);
     
-    // Update the era cards
     const eraCards = document.querySelectorAll('.era-card');
     const eraCounts = [silent, earlyTalkies, studioPeak, television];
     
@@ -442,26 +362,21 @@ function updateEraStats(data) {
     });
 }
 
-// Add new function to update fascinating facts
-function updateFascinatingFacts(data, sameYearDemons) {
+// Update fascinating facts
+function updateFascinatingFacts(data) {
     const factCards = document.querySelectorAll('.fact-card');
     
     // Find the most prolific year
-    const yearCounts = Object.entries(data.byYear).sort((a, b) => b[1] - a[1]);
-    const topYear = yearCounts[0];
-    
-    // Find earliest and latest
-    const earliest = sameYearDemons.reduce((min, d) => 
-        d.firstAdaptation.year < min.firstAdaptation.year ? d : min
-    );
-    const latest = sameYearDemons.reduce((max, d) => 
-        d.firstAdaptation.year > max.firstAdaptation.year ? d : max
-    );
+    const yearCounts = {};
+    data.adaptations.forEach(a => {
+        yearCounts[a.film.year] = (yearCounts[a.film.year] || 0) + 1;
+    });
+    const topYear = Object.entries(yearCounts).sort((a, b) => b[1] - a[1])[0];
     
     // Update fact cards
     if (factCards[0]) {
         factCards[0].querySelector('p').textContent = 
-            `Verified same-year adaptations in our database: ${sameYearDemons.length} films`;
+            `${data.stats.total} verified same-year adaptations in our database`;
     }
     
     if (factCards[1] && topYear) {
@@ -471,19 +386,20 @@ function updateFascinatingFacts(data, sameYearDemons) {
     
     if (factCards[2]) {
         factCards[2].querySelector('p').textContent = 
-            `${data.earliestYear} to ${data.latestYear} — ${data.latestYear - data.earliestYear} years of rapid adaptation`;
+            `${data.stats.yearRange.earliest} to ${data.stats.yearRange.latest} — ${data.stats.yearRange.latest - data.stats.yearRange.earliest} years of rapid adaptation`;
     }
     
-    if (factCards[3] && latest) {
+    if (factCards[3]) {
+        const latest = data.adaptations[data.adaptations.length - 1];
         factCards[3].querySelector('p').innerHTML = 
-            `The final same-year adaptation in our database: ${latest.work.html_title} (${latest.firstAdaptation.year})`;
+            `The final same-year adaptation: ${latest.work.html_title} (${latest.film.year})`;
     }
 }
 
 // Fallback for when data doesn't load
 function showStaticContent() {
     document.querySelectorAll('#rushTimeline, #genreBreakdown, #studioSpeed').forEach(el => {
-        el.innerHTML = '<p style="text-align: center; color: #767676; font-style: italic;">Visualization will be available once data verification is complete.</p>';
+        el.innerHTML = '<p style="text-align: center; color: #767676; font-style: italic;">Visualization loading...</p>';
     });
 }
 

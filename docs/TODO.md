@@ -28,15 +28,14 @@
 
 - [ ] fix work archive link section to not show if null?? attempted this but it's complicated - revisit
 - [ ] Implement decade filter for authors (needs active decades in index)
-~~- [ ] Add superscript film count indicators for authors with 10+ films?~~ SKIP THIS FOR NOW
 - [ ] Redo pattern badges in list view - use typographical symbols with css styling
   - [x] twenty-timers (stacked asterisks)
-  - [ ] hot off the press (lightning bolt)
+  - [x] hot off the press (lightning bolt) - can i make this not an emoji?
   - [ ] elastic classic ?????
   - [ ] add pattern badge for works that appeared first in magazines
-- [x] get WM images displaying on film detail pages
 - [ ] Add more fields to author detail pages (education, archives, awards from authors_rows.csv)
-- [x] Add footer to database
+- [ ] figure out how to use featured poster image in grid view? or scrap grid view entirely?
+
 
 **Content Writing**
 - [ ] Write mini deep dives for Twenty-Timers members (use the template structure)
@@ -52,7 +51,6 @@
 - [ ] Find and add author portraits from Wikimedia for pattern pages
   - [ ] 10 timers club
 - [ ] Add book covers from HathiTrust/Internet Archive where available
-- [ ] Create credits template for image attribution
 
 **Documentation**
 - [ ] Update About page with research journey
@@ -70,7 +68,8 @@
 ### Tasks for Student Workers
 
 - Add exact release dates for films to enable magazine→film timeline visualization
-- spot check magazine data
+- Spot check magazine data OR film data
+- Add film runtimes
 
 
 
@@ -81,3 +80,6 @@
 - [x] Fix author nationality filter to match updated field structure
 - [x] add links to digitized magazines on work detail pages
 - [x] Make film/work title formatting consistent across all views - probably done?
+- [x] Add footer to database
+- [x] get WM images displaying on film detail pages
+~~- [ ] Add superscript film count indicators for authors with 10+ films?~~ SKIP THIS FOR NOW

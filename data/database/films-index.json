@@ -20074,7 +20074,7 @@
         "Adventure",
         "Documentary"
       ],
-      "studio": "The Van Beuren Corp",
+      "studio": "The Van Beuren Corp.",
       "directors": "Herman Raymaker",
       "hasMedia": false,
       "mediaCount": 0,
@@ -20088,7 +20088,7 @@
       "authorSlug": "joan-lowell",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "adventure girl herman raymaker joan lowell|nicholas wagner|william sawyer|otto siegler the van beuren corp the cradle of the deep joan lowell adventure documentary"
+      "searchText": "adventure girl herman raymaker joan lowell|nicholas wagner|william sawyer|otto siegler the van beuren corp. the cradle of the deep joan lowell adventure documentary"
     },
     {
       "id": 754,
@@ -20534,7 +20534,7 @@
         "Comedy-drama",
         "Western"
       ],
-      "studio": null,
+      "studio": "Andrew J. Callaghan Productions",
       "directors": "Arthur Berthelet",
       "hasMedia": false,
       "mediaCount": 0,
@@ -20548,7 +20548,7 @@
       "authorSlug": "belle-k-maniates",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "penny of top hill trail arthur berthelet finis fox|beatrice van sam lauder|bessie love|wheeler oakman|raymond cannon|harry de vere|lizette thorne|gloria hunt|george stone|herbert hertier penny of top hill trail belle k. maniates comedy-drama western"
+      "searchText": "penny of top hill trail arthur berthelet finis fox|beatrice van sam lauder|bessie love|wheeler oakman|raymond cannon|harry de vere|lizette thorne|gloria hunt|george stone|herbert hertier andrew j. callaghan productions penny of top hill trail belle k. maniates comedy-drama western"
     },
     {
       "id": 772,
@@ -30227,8 +30227,8 @@
       "genres": [
         "Musical"
       ],
-      "studio": null,
-      "directors": null,
+      "studio": "Cameo Pictures Corp.",
+      "directors": "Clifford Sanforth",
       "hasMedia": false,
       "mediaCount": 0,
       "workId": 1016,
@@ -30241,7 +30241,7 @@
       "authorSlug": "alma-sioux-scarberry",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "high hat high hat, a radio romance alma sioux scarberry musical"
+      "searchText": "high hat clifford sanforth sherman l. lowe frank luther|dorothy dare|lona andre|franklin pangborn|ferdinand munier|robert warwick|esther muir|gavin gordon|clarence muse|downey sisters cameo pictures corp. high hat, a radio romance alma sioux scarberry musical"
     },
     {
       "id": 1132,
@@ -30276,9 +30276,11 @@
       "html_title": "<span class=\"film-title\">Mr. Cohen Takes a Walk</span>",
       "year": 1936,
       "decade": 1930,
-      "genres": [],
+      "genres": [
+        "Comedy-drama"
+      ],
       "studio": "Warner Bros",
-      "directors": null,
+      "directors": "William Beaudine",
       "hasMedia": false,
       "mediaCount": 0,
       "workId": 1018,
@@ -30291,7 +30293,7 @@
       "authorSlug": "mary-roberts-rinehart",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "mr. cohen takes a walk warner bros mr. cohen takes a walk mary roberts rinehart"
+      "searchText": "mr. cohen takes a walk william beaudine brock williams paul graetz|violet farebrother|chili bouchier|michael brantford|ralph truman|barry livesey|sam springson|kenneth villiers|meriel forbes|george merritt warner bros mr. cohen takes a walk mary roberts rinehart comedy-drama"
     },
     {
       "id": 1134,
@@ -30317,10 +30319,64 @@
       "isRemake": false,
       "adaptationNumber": 1,
       "searchText": "the dog in the orchard warner bros the dog in the orchard mary roberts rinehart"
+    },
+    {
+      "id": 1135,
+      "slug": "esmeralda-1915",
+      "title": "Esmeralda",
+      "formatted_title": "Esmeralda",
+      "html_title": "<span class=\"film-title\">Esmeralda</span>",
+      "year": 1915,
+      "decade": 1910,
+      "genres": [
+        "Drama"
+      ],
+      "studio": "Famous Players",
+      "directors": "James Kirkwood",
+      "hasMedia": false,
+      "mediaCount": 0,
+      "workId": 361,
+      "workTitle": "Esmerelda",
+      "workFormattedTitle": "\"Esmerelda\"",
+      "workHtmlTitle": "<span class=\"work-title short-story\">\"Esmerelda\"</span>",
+      "workSlug": "esmerelda",
+      "authorId": 3,
+      "authorName": "Frances Hodgson Burnett",
+      "authorSlug": "frances-hodgson-burnett",
+      "isRemake": false,
+      "adaptationNumber": 1,
+      "searchText": "esmeralda james kirkwood mary pickford|ida waterman|fuller mellish|arthur hoops|william buckley|charles waldron famous players esmerelda frances hodgson burnett drama"
+    },
+    {
+      "id": 1136,
+      "slug": "good-references-1920",
+      "title": "Good References",
+      "formatted_title": "Good References",
+      "html_title": "<span class=\"film-title\">Good References</span>",
+      "year": 1920,
+      "decade": 1920,
+      "genres": [
+        "Comedy-drama"
+      ],
+      "studio": "First National",
+      "directors": "R. William Neill",
+      "hasMedia": false,
+      "mediaCount": 0,
+      "workId": 805,
+      "workTitle": "Good References",
+      "workFormattedTitle": "Good References",
+      "workHtmlTitle": "<span class=\"work-title\">Good References</span>",
+      "workSlug": "good-references",
+      "authorId": 407,
+      "authorName": "E.J. Rath",
+      "authorSlug": "ej-rath",
+      "isRemake": false,
+      "adaptationNumber": 1,
+      "searchText": "good references r. william neill dorothy farnum constance talmadge|vincent coleman|ned sparks|nellie p. spaulding|mona liza|matthew l. betts|arnold lucy|dorothy walters first national good references e.j. rath comedy-drama"
     }
   ],
   "metadata": {
-    "totalCount": 1122,
+    "totalCount": 1124,
     "yearRange": [
       1910,
       1963
@@ -30442,7 +30498,7 @@
       {
         "value": 3,
         "label": "Frances Hodgson Burnett",
-        "count": 17
+        "count": 18
       },
       {
         "value": 57,
@@ -30460,6 +30516,11 @@
         "count": 12
       },
       {
+        "value": 407,
+        "label": "E.J. Rath",
+        "count": 11
+      },
+      {
         "value": 487,
         "label": "Rita Weiman",
         "count": 11
@@ -30467,11 +30528,6 @@
       {
         "value": 7,
         "label": "Alice Muriel Williamson",
-        "count": 10
-      },
-      {
-        "value": 407,
-        "label": "E.J. Rath",
         "count": 10
       },
       {
@@ -30734,7 +30790,7 @@
       {
         "value": "Famous Players",
         "label": "Famous Players",
-        "count": 12
+        "count": 13
       },
       {
         "value": "Famous Players-Lasky",
@@ -30754,7 +30810,7 @@
       {
         "value": "First National",
         "label": "First National",
-        "count": 26
+        "count": 27
       },
       {
         "value": "Fox Film",
@@ -30976,7 +31032,7 @@
       {
         "value": "Comedy-drama",
         "label": "Comedy-drama",
-        "count": 127
+        "count": 129
       },
       {
         "value": "Documentary",
@@ -30986,7 +31042,7 @@
       {
         "value": "Drama",
         "label": "Drama",
-        "count": 453
+        "count": 454
       },
       {
         "value": "Epic",

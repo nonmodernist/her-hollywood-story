@@ -30,7 +30,7 @@
       },
       {
         "genre": "Comedy-drama",
-        "count": 5
+        "count": 6
       },
       {
         "genre": "Melodrama",
@@ -492,8 +492,10 @@
       "html_title": "<span class=\"film-title\">Mr. Cohen Takes a Walk</span>",
       "year": 1936,
       "studio": "Warner Bros",
-      "directors": null,
-      "genres": [],
+      "directors": "William Beaudine",
+      "genres": [
+        "Comedy-drama"
+      ],
       "has_media": false,
       "work_title": "Mr. Cohen Takes a Walk",
       "work_html_title": "<span class=\"work-title short-story\">\"Mr. Cohen Takes a Walk\"</span>",

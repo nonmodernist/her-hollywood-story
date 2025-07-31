@@ -104,8 +104,8 @@
       "deathYear": 1924,
       "nationality": "British-American",
       "literaryMovement": null,
-      "filmCount": 17,
-      "workCount": 11,
+      "filmCount": 18,
+      "workCount": 12,
       "firstAdaptation": 1913,
       "lastAdaptation": 1949,
       "yearSpan": 36,
@@ -161,6 +161,22 @@
       "searchText": "adela rogers st. johns"
     },
     {
+      "id": 407,
+      "slug": "ej-rath",
+      "name": "E.J. Rath",
+      "birthYear": 1885,
+      "deathYear": 1922,
+      "nationality": "American",
+      "literaryMovement": null,
+      "filmCount": 11,
+      "workCount": 9,
+      "firstAdaptation": 1916,
+      "lastAdaptation": 1932,
+      "yearSpan": 16,
+      "isTwentyTimer": false,
+      "searchText": "e.j. rath"
+    },
+    {
       "id": 487,
       "slug": "rita-weiman",
       "name": "Rita Weiman",
@@ -191,22 +207,6 @@
       "yearSpan": 12,
       "isTwentyTimer": false,
       "searchText": "alice muriel williamson"
-    },
-    {
-      "id": 407,
-      "slug": "ej-rath",
-      "name": "E.J. Rath",
-      "birthYear": 1885,
-      "deathYear": 1922,
-      "nationality": "American",
-      "literaryMovement": null,
-      "filmCount": 10,
-      "workCount": 8,
-      "firstAdaptation": 1916,
-      "lastAdaptation": 1932,
-      "yearSpan": 16,
-      "isTwentyTimer": false,
-      "searchText": "e.j. rath"
     },
     {
       "id": 2,
@@ -7890,7 +7890,7 @@
     }
   ],
   "metadata": {
-    "totalCount": 497,
+    "totalCount": 496,
     "withFilms": 493
   }
 }

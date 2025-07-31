@@ -1,0 +1,54 @@
+{
+  "id": 805,
+  "slug": "good-references",
+  "title": "Good References",
+  "formatted_title": "Good References",
+  "html_title": "<span class=\"work-title\">Good References</span>",
+  "work_type": "novel",
+  "publication_year": 1920,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 407,
+    "slug": "ej-rath",
+    "name": "E.J. Rath",
+    "birth_year": 1885,
+    "death_year": 1922,
+    "film_count": 11
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 0,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1136,
+      "slug": "good-references-1920",
+      "title": "Good References",
+      "html_title": "<span class=\"film-title\">Good References</span>",
+      "year": 1920,
+      "studio": "First National",
+      "directors": "R. William Neill",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 0
+    }
+  ],
+  "adaptation_gaps": [],
+  "has_photoplay_edition": false,
+  "magazine_publication": null,
+  "has_narrative": false,
+  "last_updated": "2025-07-31T21:05:39.525875"
+}

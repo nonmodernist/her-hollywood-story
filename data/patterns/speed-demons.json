@@ -810,6 +810,41 @@
     },
     {
       "work": {
+        "id": 805,
+        "slug": "good-references",
+        "title": "Good References",
+        "formatted_title": "Good References",
+        "html_title": "<span class=\"work-title\">Good References</span>",
+        "work_type": "novel",
+        "genre": null,
+        "publication_year": 1920
+      },
+      "author": {
+        "id": 407,
+        "slug": "ej-rath",
+        "name": "E.J. Rath"
+      },
+      "firstAdaptation": {
+        "id": 1136,
+        "slug": "good-references-1920",
+        "title": "Good References",
+        "html_title": "<span class=\"film-title\">Good References</span>",
+        "year": 1920,
+        "studio": "First National",
+        "directors": "R. William Neill"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1920
+      }
+    },
+    {
+      "work": {
         "id": 747,
         "slug": "harriet-and-the-piper",
         "title": "Harriet and the Piper",
@@ -10120,6 +10155,41 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1931
+          }
+        },
+        {
+          "work": {
+            "id": 805,
+            "slug": "good-references",
+            "title": "Good References",
+            "formatted_title": "Good References",
+            "html_title": "<span class=\"work-title\">Good References</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1920
+          },
+          "author": {
+            "id": 407,
+            "slug": "ej-rath",
+            "name": "E.J. Rath"
+          },
+          "firstAdaptation": {
+            "id": 1136,
+            "slug": "good-references-1920",
+            "title": "Good References",
+            "html_title": "<span class=\"film-title\">Good References</span>",
+            "year": 1920,
+            "studio": "First National",
+            "directors": "R. William Neill"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1920
           }
         },
         {
@@ -20387,6 +20457,41 @@
         },
         {
           "work": {
+            "id": 805,
+            "slug": "good-references",
+            "title": "Good References",
+            "formatted_title": "Good References",
+            "html_title": "<span class=\"work-title\">Good References</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1920
+          },
+          "author": {
+            "id": 407,
+            "slug": "ej-rath",
+            "name": "E.J. Rath"
+          },
+          "firstAdaptation": {
+            "id": 1136,
+            "slug": "good-references-1920",
+            "title": "Good References",
+            "html_title": "<span class=\"film-title\">Good References</span>",
+            "year": 1920,
+            "studio": "First National",
+            "directors": "R. William Neill"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1920
+          }
+        },
+        {
+          "work": {
             "id": 747,
             "slug": "harriet-and-the-piper",
             "title": "Harriet and the Piper",
@@ -28043,12 +28148,12 @@
         "count": 18
       },
       {
-        "studio": "20th Century Fox",
+        "studio": "First National",
         "count": 16
       },
       {
-        "studio": "First National",
-        "count": 15
+        "studio": "20th Century Fox",
+        "count": 16
       },
       {
         "studio": "RKO",
@@ -28061,13 +28166,13 @@
     ]
   },
   "stats": {
-    "total": 266,
-    "sameYearCount": 83,
+    "total": 267,
+    "sameYearCount": 84,
     "oneYearCount": 183,
     "peakDecade": "1920"
   },
   "metadata": {
-    "generated": "2025-07-31T17:25:38.252Z",
+    "generated": "2025-07-31T22:21:49.564Z",
     "version": "2.0"
   }
 }

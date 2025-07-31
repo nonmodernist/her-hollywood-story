@@ -543,6 +543,33 @@
     },
     {
       "work": {
+        "id": 805,
+        "slug": "good-references",
+        "title": "Good References",
+        "html_title": "<span class=\"work-title\">Good References</span>",
+        "work_type": "novel",
+        "publication_year": 1920
+      },
+      "author": {
+        "id": 407,
+        "slug": "ej-rath",
+        "name": "E.J. Rath"
+      },
+      "film": {
+        "id": 1136,
+        "slug": "good-references-1920",
+        "title": "Good References",
+        "html_title": "<span class=\"film-title\">Good References</span>",
+        "year": 1920,
+        "studio": "First National",
+        "directors": "R. William Neill",
+        "genres": [
+          "Comedy-drama"
+        ]
+      }
+    },
+    {
+      "work": {
         "id": 847,
         "slug": "the-gilded-dream",
         "title": "The Gilded Dream",
@@ -2246,14 +2273,14 @@
     }
   ],
   "stats": {
-    "total": 83,
+    "total": 84,
     "yearRange": {
       "earliest": 1914,
       "latest": 1962
     },
     "byDecade": {
       "1910s": 15,
-      "1920s": 32,
+      "1920s": 33,
       "1930s": 26,
       "1940s": 6,
       "1950s": 2,
@@ -2270,7 +2297,7 @@
       },
       {
         "genre": "Comedy-drama",
-        "count": 12
+        "count": 13
       },
       {
         "genre": "Romance",
@@ -2308,7 +2335,7 @@
     "byWorkType": [
       {
         "type": "novel",
-        "count": 50
+        "count": 51
       },
       {
         "type": "short story",
@@ -2325,12 +2352,12 @@
     ],
     "topStudios": [
       {
-        "studio": "MGM",
+        "studio": "First National",
         "count": 9
       },
       {
-        "studio": "First National",
-        "count": 8
+        "studio": "MGM",
+        "count": 9
       },
       {
         "studio": "Paramount",
@@ -2391,6 +2418,10 @@
         "count": 2
       },
       {
+        "name": "E.J. Rath",
+        "count": 2
+      },
+      {
         "name": "Kathleen Norris",
         "count": 2
       },
@@ -2401,15 +2432,11 @@
       {
         "name": "Katharine Newlin Burt",
         "count": 2
-      },
-      {
-        "name": "Lillian Bennett-Thompson",
-        "count": 2
       }
     ]
   },
   "metadata": {
-    "generated": "2025-07-31T17:21:17.421Z",
+    "generated": "2025-07-31T22:21:49.569Z",
     "version": "1.1"
   }
 }

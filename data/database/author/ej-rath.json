@@ -10,8 +10,8 @@
   "author_notes": "pseud of Edith Rathbone Jacobs Brainerd and her husband",
   "wikidata_id": "Q80999500",
   "stats": {
-    "total_films": 10,
-    "works_adapted": 8,
+    "total_films": 11,
+    "works_adapted": 9,
     "first_adaptation": 1916,
     "last_adaptation": 1932,
     "year_span": 16,
@@ -27,11 +27,15 @@
       {
         "genre": "Drama",
         "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
+        "count": 1
       }
     ],
     "films_by_decade": {
       "1910": 3,
-      "1920": 4,
+      "1920": 5,
       "1930": 3
     }
   },
@@ -87,6 +91,22 @@
       "work_title": "Too Many Crooks",
       "work_html_title": "<span class=\"work-title\">Too Many Crooks</span>",
       "work_id": 810
+    },
+    {
+      "id": 1136,
+      "slug": "good-references-1920",
+      "title": "Good References",
+      "html_title": "<span class=\"film-title\">Good References</span>",
+      "year": 1920,
+      "studio": "First National",
+      "directors": "R. William Neill",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "Good References",
+      "work_html_title": "<span class=\"work-title\">Good References</span>",
+      "work_id": 805
     },
     {
       "id": 897,
@@ -246,6 +266,18 @@
       "html_title": "<span class=\"work-title\">Sam</span>",
       "work_type": "novel",
       "publication_year": null,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 805,
+      "slug": "good-references",
+      "title": "Good References",
+      "formatted_title": "Good References",
+      "html_title": "<span class=\"work-title\">Good References</span>",
+      "work_type": "novel",
+      "publication_year": 1920,
       "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false

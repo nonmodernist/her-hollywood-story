@@ -1,0 +1,62 @@
+{
+  "id": 361,
+  "slug": "esmerelda",
+  "title": "Esmerelda",
+  "formatted_title": "\"Esmerelda\"",
+  "html_title": "<span class=\"work-title short-story\">\"Esmerelda\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1877,
+  "genre": null,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 3,
+    "slug": "frances-hodgson-burnett",
+    "name": "Frances Hodgson Burnett",
+    "birth_year": 1849,
+    "death_year": 1924,
+    "film_count": 18
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 38,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1135,
+      "slug": "esmeralda-1915",
+      "title": "Esmeralda",
+      "html_title": "<span class=\"film-title\">Esmeralda</span>",
+      "year": 1915,
+      "studio": "Famous Players",
+      "directors": "James Kirkwood",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 38
+    }
+  ],
+  "adaptation_gaps": [],
+  "has_photoplay_edition": false,
+  "magazine_publication": {
+    "magazine_title": "Scribner's Monthly",
+    "magazine_pub_date": "1877-05-01",
+    "magazine_issue_info": "v14 #1",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k02/k02708.htm#A3",
+    "serialized": false,
+    "serial_parts": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-07-23T02:53:51.849444"
+}

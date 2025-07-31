@@ -1211,7 +1211,7 @@ function createFilmListItem(film) {
     const div = document.createElement('div');
     div.className = 'film-entry';
 
-    const mediaIndicator = film.hasMedia ? '<span class="media-indicator">🖻</span>' : '';
+    const mediaIndicator = film.hasMedia ? '<span class="media-indicator" title="Media gallery available">🖻</span>' : '';
 
     // Debug log to check film structure
     if (!film.sourceWorkSlug && !film.workSlug) {
@@ -1232,7 +1232,7 @@ function createFilmListItem(film) {
             by <a href="${getDatabaseURL('/author/' + film.authorSlug)}">${film.authorName || 'Unknown'}</a><span class="meta-separator">·</span>
             ${film.directors ? `Directed by  ${formatNameList(film.directors)}<span class="meta-separator">·</span>` : ''}
             ${film.studio || 'Unknown Studio'}
-            ${film.isRemake ? '<span class="media-indicator" title="Remake/repeat adaptation">↻</span>' : ''}
+            ${film.isRemake ? '<span class="media-indicator" title="Based on a source that was adapted more than once">𝄏</span>' : ''}
 
         </div>
     `;
@@ -1253,7 +1253,7 @@ function createAuthorListItem(author) {
         <div class="author-info">
             <div class="author-name">
                 <a href="${getDatabaseURL('/author/' + author.slug)}">${author.name}</a>
-                ${author.isTwentyTimer ? '<span class="media-indicator">⁑</span>' : ''}
+                ${author.isTwentyTimer ? '<span class="media-indicator" title="Member of the Twenty Timers Club">⁑</span>' : ''}
             </div>
             <div class="author-lifespan">${lifespan}</div>
         </div>
@@ -1278,8 +1278,8 @@ function createWorkListItem(work) {
     div.innerHTML = `
         <div class="work-title">
             <a href="${getDatabaseURL('/work/' + work.slug)}">${work.html_title || work.title}</a>
-            ${work.isRemakeChampion ? '<span class="media-indicator" title="Adapted 4 or more times">↻</span>' : ''}
-            ${isSameYearAdaptation ? '<span class="media-indicator" title="Adapted in the same year it was published">⚡</span>' : ''}
+            ${work.isRemakeChampion ? '<span class="media-indicator" title="Adapted 4 or more times">⸬</span>' : ''}
+            ${isSameYearAdaptation ? '<span class="media-indicator" title="Adapted in the same year it was published">🗲</span>' : ''}
         </div>
         <div class="work-author">by <a href="${getDatabaseURL('/author/' + work.authorSlug)}">${work.authorName}</a></div>
         <div class="work-meta">

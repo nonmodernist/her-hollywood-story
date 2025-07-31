@@ -38,8 +38,10 @@
       "html_title": "<span class=\"film-title\">Mr. Cohen Takes a Walk</span>",
       "year": 1936,
       "studio": "Warner Bros",
-      "directors": null,
-      "genres": [],
+      "directors": "William Beaudine",
+      "genres": [
+        "Comedy-drama"
+      ],
       "has_media": false,
       "years_after_publication": 2
     }

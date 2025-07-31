@@ -6,15 +6,17 @@
   "html_title": "<span class=\"film-title\">Mr. Cohen Takes a Walk</span>",
   "release_year": 1936,
   "runtime_minutes": null,
-  "country_of_production": null,
-  "genres": [],
+  "country_of_production": "United Kingdom",
+  "genres": [
+    "Comedy-drama"
+  ],
   "studio": "Warner Bros",
-  "production_companies": null,
-  "distribution_companies": null,
-  "directors": null,
-  "writers": null,
-  "cast_members": null,
-  "color_info": null,
+  "production_companies": "Warner Bros.--First National Productions, Ltd.",
+  "distribution_companies": "Warner Bros. Pictures, Inc.",
+  "directors": "William Beaudine",
+  "writers": "Brock Williams",
+  "cast_members": "Paul Graetz|Violet Farebrother|Chili Bouchier|Michael Brantford|Ralph Truman|Barry Livesey|Sam Springson|Kenneth Villiers|Meriel Forbes|George Merritt",
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 5280,
   "source_work": {
@@ -46,5 +48,5 @@
   "has_media": false,
   "media_count": 0,
   "has_narrative": false,
-  "last_updated": "2025-07-31T15:14:26.256986"
+  "last_updated": "2025-07-31T21:16:29.648562"
 }

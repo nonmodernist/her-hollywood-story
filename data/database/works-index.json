@@ -6967,6 +6967,24 @@
       "searchText": "suicide bridge betty burbridge"
     },
     {
+      "id": 361,
+      "slug": "esmerelda",
+      "title": "Esmerelda",
+      "formatted_title": "\"Esmerelda\"",
+      "html_title": "<span class=\"work-title short-story\">\"Esmerelda\"</span>",
+      "workType": "short_story",
+      "authorId": 3,
+      "authorName": "Frances Hodgson Burnett",
+      "authorSlug": "frances-hodgson-burnett",
+      "publicationYear": 1877,
+      "genre": null,
+      "adaptationCount": 1,
+      "yearSpan": 0,
+      "isRemakeChampion": false,
+      "firstAdaptationYear": 1915,
+      "searchText": "esmerelda frances hodgson burnett"
+    },
+    {
       "id": 363,
       "slug": "louisiana",
       "title": "Louisiana",
@@ -14401,6 +14419,24 @@
       "searchText": "elope if you must e.j. rath"
     },
     {
+      "id": 805,
+      "slug": "good-references",
+      "title": "Good References",
+      "formatted_title": "Good References",
+      "html_title": "<span class=\"work-title\">Good References</span>",
+      "workType": "novel",
+      "authorId": 407,
+      "authorName": "E.J. Rath",
+      "authorSlug": "ej-rath",
+      "publicationYear": 1920,
+      "genre": null,
+      "adaptationCount": 1,
+      "yearSpan": 0,
+      "isRemakeChampion": false,
+      "firstAdaptationYear": 1920,
+      "searchText": "good references e.j. rath"
+    },
+    {
       "id": 806,
       "slug": "lets-go",
       "title": "Let's Go",
@@ -17948,8 +17984,8 @@
     }
   ],
   "metadata": {
-    "totalCount": 1004,
-    "withAdaptations": 997,
+    "totalCount": 1000,
+    "withAdaptations": 999,
     "remakeChampions": 13
   }
 }

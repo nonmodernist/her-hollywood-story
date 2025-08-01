@@ -5,7 +5,7 @@
   "formatted_title": "Misbehaving Ladies",
   "html_title": "<span class=\"film-title\">Misbehaving Ladies</span>",
   "release_year": 1931,
-  "runtime_minutes": null,
+  "runtime_minutes": 75,
   "country_of_production": "United States",
   "genres": [
     "Comedy"
@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5069,
+      "media_type": "poster",
+      "title": "Misbehaving Ladies (1931) - Poster",
+      "caption": "Theatrical poster for Misbehaving Ladies (1931)",
+      "url": "https://image.tmdb.org/t/p/original/u9fHZmJcXxwJr6K51fZdO3cUdiT.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/u9fHZmJcXxwJr6K51fZdO3cUdiT.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/428972",
+      "license": "fair_use",
+      "attribution": "First National",
+      "is_featured": "True"
+    },
+    {
+      "id": 5070,
+      "media_type": "poster",
+      "title": "Misbehaving Ladies (1931) - Poster",
+      "caption": "Theatrical poster for Misbehaving Ladies (1931)",
+      "url": "https://image.tmdb.org/t/p/original/cOa5G4lhHA7b2FsQClKiAvidDUm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/cOa5G4lhHA7b2FsQClKiAvidDUm.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/428972",
+      "license": "fair_use",
+      "attribution": "First National",
+      "is_featured": "False"
+    },
+    {
+      "id": 5071,
+      "media_type": "poster",
+      "title": "Misbehaving Ladies (1931) - Poster",
+      "caption": "Theatrical poster for Misbehaving Ladies (1931)",
+      "url": "https://image.tmdb.org/t/p/original/vyFUGyJdMUbSVx9TkwCaagj4JlE.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/vyFUGyJdMUbSVx9TkwCaagj4JlE.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/428972",
+      "license": "fair_use",
+      "attribution": "First National",
+      "is_featured": "False"
+    },
+    {
+      "id": 5072,
+      "media_type": "still",
+      "title": "Misbehaving Ladies (1931) - Still",
+      "caption": "Scene from Misbehaving Ladies (1931)",
+      "url": "https://image.tmdb.org/t/p/original/gWDAThzcdMoGIVWZHRNKc9hucTj.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/gWDAThzcdMoGIVWZHRNKc9hucTj.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/428972",
+      "license": "fair_use",
+      "attribution": "First National",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:10:43.746227"
+  "last_updated": "2025-08-01T17:12:40.675643"
 }

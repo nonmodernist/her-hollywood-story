@@ -5,7 +5,7 @@
   "formatted_title": "The Mad Parade",
   "html_title": "<span class=\"film-title\">The Mad Parade</span>",
   "release_year": 1931,
-  "runtime_minutes": null,
+  "runtime_minutes": 63,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4492,
+      "media_type": "poster",
+      "title": "The Mad Parade (1931) - Poster",
+      "caption": "Theatrical poster for The Mad Parade (1931)",
+      "url": "https://image.tmdb.org/t/p/original/5RjUqMdFaVpj5YGXihTDVN4N5Ui.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/5RjUqMdFaVpj5YGXihTDVN4N5Ui.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/305801",
+      "license": "fair_use",
+      "attribution": "Liberty Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 4493,
+      "media_type": "poster",
+      "title": "The Mad Parade (1931) - Poster",
+      "caption": "Theatrical poster for The Mad Parade (1931)",
+      "url": "https://image.tmdb.org/t/p/original/aABC4bbip3MjXSfBBCf7GTWfnZh.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/aABC4bbip3MjXSfBBCf7GTWfnZh.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/305801",
+      "license": "fair_use",
+      "attribution": "Liberty Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 4494,
+      "media_type": "still",
+      "title": "The Mad Parade (1931) - Still",
+      "caption": "Scene from The Mad Parade (1931)",
+      "url": "https://image.tmdb.org/t/p/original/Acyto1B8dhiCwZuvCgAvH2T9hQh.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/Acyto1B8dhiCwZuvCgAvH2T9hQh.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/305801",
+      "license": "fair_use",
+      "attribution": "Liberty Productions",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:17:34.024456"
+  "last_updated": "2025-08-01T17:12:42.514526"
 }

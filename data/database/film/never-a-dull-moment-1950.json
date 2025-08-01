@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5026,
+      "media_type": "poster",
+      "title": "Never a Dull Moment (1950) - Poster",
+      "caption": "Theatrical poster for Never a Dull Moment (1950)",
+      "url": "https://image.tmdb.org/t/p/original/tmJrfz5u9M5zoF6XKfyRnEloliK.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/tmJrfz5u9M5zoF6XKfyRnEloliK.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/196862",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "True"
+    },
+    {
+      "id": 5027,
+      "media_type": "poster",
+      "title": "Never a Dull Moment (1950) - Poster",
+      "caption": "Theatrical poster for Never a Dull Moment (1950)",
+      "url": "https://image.tmdb.org/t/p/original/43r7QKEsX2Qg0MJZykCoFMBykhq.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/43r7QKEsX2Qg0MJZykCoFMBykhq.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/196862",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 5028,
+      "media_type": "poster",
+      "title": "Never a Dull Moment (1950) - Poster",
+      "caption": "Theatrical poster for Never a Dull Moment (1950)",
+      "url": "https://image.tmdb.org/t/p/original/1LeQ8TNPiiqXmCTBc3JuJvMjbok.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1LeQ8TNPiiqXmCTBc3JuJvMjbok.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/196862",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 5029,
+      "media_type": "still",
+      "title": "Never a Dull Moment (1950) - Still",
+      "caption": "Scene from Never a Dull Moment (1950)",
+      "url": "https://image.tmdb.org/t/p/original/xN4EONNbk0LyKBJytzLLntfPHpK.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/xN4EONNbk0LyKBJytzLLntfPHpK.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/196862",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:15:13.161445"
 }

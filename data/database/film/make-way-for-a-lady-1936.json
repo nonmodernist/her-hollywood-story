@@ -5,7 +5,7 @@
   "formatted_title": "Make Way for a Lady",
   "html_title": "<span class=\"film-title\">Make Way for a Lady</span>",
   "release_year": 1936,
-  "runtime_minutes": null,
+  "runtime_minutes": 65,
   "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4283,
+      "media_type": "poster",
+      "title": "Make Way for a Lady (1936) - Poster",
+      "caption": "Theatrical poster for Make Way for a Lady (1936)",
+      "url": "https://image.tmdb.org/t/p/original/qRlkZEAUWcSRfIuDpCyukCa8M3h.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/qRlkZEAUWcSRfIuDpCyukCa8M3h.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/117422",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 4284,
+      "media_type": "poster",
+      "title": "Make Way for a Lady (1936) - Poster",
+      "caption": "Theatrical poster for Make Way for a Lady (1936)",
+      "url": "https://image.tmdb.org/t/p/original/8jYVLWol4LdCuWRdrqqC9WE2GBI.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/8jYVLWol4LdCuWRdrqqC9WE2GBI.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/117422",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 4285,
+      "media_type": "poster",
+      "title": "Make Way for a Lady (1936) - Poster",
+      "caption": "Theatrical poster for Make Way for a Lady (1936)",
+      "url": "https://image.tmdb.org/t/p/original/bueSjfH9yuNjjIZPDdtmd4GPDzE.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/bueSjfH9yuNjjIZPDdtmd4GPDzE.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/117422",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 4286,
+      "media_type": "still",
+      "title": "Make Way for a Lady (1936) - Still",
+      "caption": "Scene from Make Way for a Lady (1936)",
+      "url": "https://image.tmdb.org/t/p/original/5VgT7D9gDHeH262iBDyu1bAE1eg.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/5VgT7D9gDHeH262iBDyu1bAE1eg.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/117422",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:16:48.911928"
+  "last_updated": "2025-08-01T17:13:39.087275"
 }

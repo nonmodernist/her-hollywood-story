@@ -69,9 +69,75 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3276,
+      "media_type": "poster",
+      "title": "So Big (1953) - Poster",
+      "caption": "Theatrical poster for So Big (1953)",
+      "url": "https://image.tmdb.org/t/p/original/8rTEMhPkEqiSiYu9dF85kg672Cj.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/8rTEMhPkEqiSiYu9dF85kg672Cj.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/68977",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 3277,
+      "media_type": "poster",
+      "title": "So Big (1953) - Poster",
+      "caption": "Theatrical poster for So Big (1953)",
+      "url": "https://image.tmdb.org/t/p/original/vf19UNuHdFQFrhP9wuvxSWChZ20.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/vf19UNuHdFQFrhP9wuvxSWChZ20.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/68977",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 3278,
+      "media_type": "poster",
+      "title": "So Big (1953) - Poster",
+      "caption": "Theatrical poster for So Big (1953)",
+      "url": "https://image.tmdb.org/t/p/original/3pfburUMlUBavlab2hnr4N7hDdz.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/3pfburUMlUBavlab2hnr4N7hDdz.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/68977",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 3279,
+      "media_type": "poster",
+      "title": "So Big (1953) - Poster",
+      "caption": "Theatrical poster for So Big (1953)",
+      "url": "https://image.tmdb.org/t/p/original/9s6LZVl0yBsnt7pglgEgO21623v.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/9s6LZVl0yBsnt7pglgEgO21623v.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/68977",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 3280,
+      "media_type": "still",
+      "title": "So Big (1953) - Still",
+      "caption": "Scene from So Big (1953)",
+      "url": "https://image.tmdb.org/t/p/original/cTeRb6VQfL70HqSlSoOFYXzDEcp.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/cTeRb6VQfL70HqSlSoOFYXzDEcp.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/68977",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:06:15.894309"
 }

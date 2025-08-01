@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1779,
+      "media_type": "still",
+      "title": "The Better Half (1918) - 2.jpg",
+      "caption": "Still from the American drama film The Better Half (1918) with Alice Brady, who plays twin sisters, and an unidentified actor, on page 42 of the October 5, 1918 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/The_Better_Half_%281918%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/The_Better_Half_%281918%29_-_2.jpg/300px-The_Better_Half_%281918%29_-_2.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Better_Half_(1918)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Select Pictures Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 1780,
+      "media_type": "still",
+      "title": "The Better Half (1918) - 1.jpg",
+      "caption": "Still from the American drama film The Better Half (1918) with Alice Brady, who plays twin sisters, here one finding the other after she committed suicide, on page 43 of the September 14, 1918 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/The_Better_Half_%281918%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/The_Better_Half_%281918%29_-_1.jpg/300px-The_Better_Half_%281918%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Better_Half_(1918)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Select Pictures Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 1781,
+      "media_type": "still",
+      "title": "The Better Half (1918) - 3.jpg",
+      "caption": "Still from the American drama film The Better Half (1918) with Alice Brady, who plays twin sisters, and David Powell, on page 39 of the October 12, 1918 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/The_Better_Half_%281918%29_-_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Better_Half_%281918%29_-_3.jpg/300px-The_Better_Half_%281918%29_-_3.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Better_Half_(1918)_-_3.jpg",
+      "license": "public_domain",
+      "attribution": "Select Pictures Corporation",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

@@ -62,16 +62,16 @@
   },
   "media": [
     {
-      "id": 385,
-      "media_type": "still",
-      "title": "Beverly Bayne and Elliott Dexter in The Age of Innocence.jpg",
-      "caption": "Beverly Bayne (left) and Elliott Dexter in The Age of Innocence. Text from back of photograph: No one would suspect that this is Beverly Bayne's first offense smoking, but s'fact. It was only because this scene with Elliott Dexter in the Warner production \"The Age of Innocence\" required the sophistication of a cigarette and liquers, that Miss Bayne was prevailed upon by Director Ruggles.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Beverly_Bayne_and_Elliott_Dexter_in_The_Age_of_Innocence.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Beverly_Bayne_and_Elliott_Dexter_in_The_Age_of_Innocence.jpg/300px-Beverly_Bayne_and_Elliott_Dexter_in_The_Age_of_Innocence.jpg",
-      "source": "wikimedia",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Beverly_Bayne_and_Elliott_Dexter_in_The_Age_of_Innocence.jpg",
-      "license": "public_domain",
-      "attribution": "Warner Bros. Pictures",
+      "id": 2566,
+      "media_type": "poster",
+      "title": "The Age of Innocence (1924) - Poster",
+      "caption": "Theatrical poster for The Age of Innocence (1924)",
+      "url": "https://image.tmdb.org/t/p/original/ueocxfoQzW5nIdrjXbyB454kdw8.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ueocxfoQzW5nIdrjXbyB454kdw8.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/278294",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
       "is_featured": "False"
     },
     {
@@ -81,7 +81,7 @@
       "caption": "Edith Roberts (center foreground, left) and Elliott Dexter (center foreground, right) with other cast members in The Age of Innocence",
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Edith_Roberts%2C_Elliott_Dexter%2C_and_others_in_The_Age_of_Innocence.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Edith_Roberts%2C_Elliott_Dexter%2C_and_others_in_The_Age_of_Innocence.jpg/300px-Edith_Roberts%2C_Elliott_Dexter%2C_and_others_in_The_Age_of_Innocence.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Edith_Roberts,_Elliott_Dexter,_and_others_in_The_Age_of_Innocence.jpg",
       "license": "public_domain",
       "attribution": "Warner Bros. Pictures",
@@ -94,7 +94,7 @@
       "caption": "Beverly Bayne (left) and Edith Roberts in The Age of Innocence",
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Beverly_Bayne_and_Edith_Roberts_in_The_Age_of_Innocence.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Beverly_Bayne_and_Edith_Roberts_in_The_Age_of_Innocence.jpg/300px-Beverly_Bayne_and_Edith_Roberts_in_The_Age_of_Innocence.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Beverly_Bayne_and_Edith_Roberts_in_The_Age_of_Innocence.jpg",
       "license": "public_domain",
       "attribution": "Warner Bros. Pictures",
@@ -107,15 +107,28 @@
       "caption": "Elliott Dexter (left) and Beverly Bayne in The Age of Innocence. Text from back of photograph: \"Two old-time movie favorites, both Beverly Bayne and Elliott Dexter have recently returned to the screen after a long period of inactivity, to meet for the first time on the Warner lot, where they discovered much to their delighted surprise, that they were to portray the leading roles in the Warner adaptation of The Age of Innocence.\"",
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Elliott_Dexter_and_Beverly_Bayne_in_The_Age_of_Innocence.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Elliott_Dexter_and_Beverly_Bayne_in_The_Age_of_Innocence.jpg/300px-Elliott_Dexter_and_Beverly_Bayne_in_The_Age_of_Innocence.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Elliott_Dexter_and_Beverly_Bayne_in_The_Age_of_Innocence.jpg",
+      "license": "public_domain",
+      "attribution": "Warner Bros. Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 385,
+      "media_type": "still",
+      "title": "Beverly Bayne and Elliott Dexter in The Age of Innocence.jpg",
+      "caption": "Beverly Bayne (left) and Elliott Dexter in The Age of Innocence. Text from back of photograph: No one would suspect that this is Beverly Bayne's first offense smoking, but s'fact. It was only because this scene with Elliott Dexter in the Warner production \"The Age of Innocence\" required the sophistication of a cigarette and liquers, that Miss Bayne was prevailed upon by Director Ruggles.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Beverly_Bayne_and_Elliott_Dexter_in_The_Age_of_Innocence.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Beverly_Bayne_and_Elliott_Dexter_in_The_Age_of_Innocence.jpg/300px-Beverly_Bayne_and_Elliott_Dexter_in_The_Age_of_Innocence.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Beverly_Bayne_and_Elliott_Dexter_in_The_Age_of_Innocence.jpg",
       "license": "public_domain",
       "attribution": "Warner Bros. Pictures",
       "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 4,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:03:21.019853"
 }

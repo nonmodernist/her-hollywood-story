@@ -5,7 +5,7 @@
   "formatted_title": "Collegiate",
   "html_title": "<span class=\"film-title\">Collegiate</span>",
   "release_year": 1935,
-  "runtime_minutes": null,
+  "runtime_minutes": 80,
   "country_of_production": "United States",
   "genres": [
     "Musical"
@@ -87,9 +87,36 @@
     "is_first": false,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2846,
+      "media_type": "poster",
+      "title": "Collegiate (1935) - Poster",
+      "caption": "Theatrical poster for Collegiate (1935)",
+      "url": "https://image.tmdb.org/t/p/original/nBoKDHy6k8GSjy9IDtWogwHX07J.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/nBoKDHy6k8GSjy9IDtWogwHX07J.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/529183",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "True"
+    },
+    {
+      "id": 2847,
+      "media_type": "still",
+      "title": "Collegiate (1935) - Still",
+      "caption": "Scene from Collegiate (1935)",
+      "url": "https://image.tmdb.org/t/p/original/oJzTJT86NgbXLsOfFizX4RXGE40.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/oJzTJT86NgbXLsOfFizX4RXGE40.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/529183",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:12:19.714869"
+  "last_updated": "2025-08-01T17:13:32.616132"
 }

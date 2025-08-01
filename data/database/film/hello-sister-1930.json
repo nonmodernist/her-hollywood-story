@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4363,
+      "media_type": "poster",
+      "title": "Hello Sister (1930) - Poster",
+      "caption": "Theatrical poster for Hello Sister (1930)",
+      "url": "https://image.tmdb.org/t/p/original/lQDcjJnZ6poUtuc1DJ3qwvPTKHZ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/lQDcjJnZ6poUtuc1DJ3qwvPTKHZ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/550137",
+      "license": "fair_use",
+      "attribution": "James Cruze",
+      "is_featured": "False"
+    },
+    {
+      "id": 4364,
+      "media_type": "poster",
+      "title": "Hello Sister (1930) - Poster",
+      "caption": "Theatrical poster for Hello Sister (1930)",
+      "url": "https://image.tmdb.org/t/p/original/6Z4OwhcJbalnqNjpkl5ivA6mQoC.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/6Z4OwhcJbalnqNjpkl5ivA6mQoC.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/550137",
+      "license": "fair_use",
+      "attribution": "James Cruze",
+      "is_featured": "False"
+    },
+    {
+      "id": 4365,
+      "media_type": "still",
+      "title": "Hello Sister (1930) - Still",
+      "caption": "Scene from Hello Sister (1930)",
+      "url": "https://image.tmdb.org/t/p/original/zgtxm5XFNKQn6KhW5Xwm1lZakxU.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/zgtxm5XFNKQn6KhW5Xwm1lZakxU.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/550137",
+      "license": "fair_use",
+      "attribution": "James Cruze",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:11:43.268677"
 }

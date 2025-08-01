@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4747,
+      "media_type": "poster",
+      "title": "Roughly Speaking (1945) - Poster",
+      "caption": "Theatrical poster for Roughly Speaking (1945)",
+      "url": "https://image.tmdb.org/t/p/original/kFgbfSGeBBFfPGmna18GJ4yR4Wb.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kFgbfSGeBBFfPGmna18GJ4yR4Wb.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/147859",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "True"
+    },
+    {
+      "id": 4748,
+      "media_type": "poster",
+      "title": "Roughly Speaking (1945) - Poster",
+      "caption": "Theatrical poster for Roughly Speaking (1945)",
+      "url": "https://image.tmdb.org/t/p/original/vGnhsH59QM0kUUFqkWn51z27OId.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/vGnhsH59QM0kUUFqkWn51z27OId.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/147859",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4749,
+      "media_type": "poster",
+      "title": "Roughly Speaking (1945) - Poster",
+      "caption": "Theatrical poster for Roughly Speaking (1945)",
+      "url": "https://image.tmdb.org/t/p/original/xH1PtbEGXbVrkJph1S86tORsxLB.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/xH1PtbEGXbVrkJph1S86tORsxLB.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/147859",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4750,
+      "media_type": "still",
+      "title": "Roughly Speaking (1945) - Still",
+      "caption": "Scene from Roughly Speaking (1945)",
+      "url": "https://image.tmdb.org/t/p/original/4gzizbEeFt4zWtHUMVdIwCgLSkQ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/4gzizbEeFt4zWtHUMVdIwCgLSkQ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/147859",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4751,
+      "media_type": "still",
+      "title": "Roughly Speaking (1945) - Still",
+      "caption": "Scene from Roughly Speaking (1945)",
+      "url": "https://image.tmdb.org/t/p/original/zjF06iUDDIhG0kjTNDCGgO7QFqL.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/zjF06iUDDIhG0kjTNDCGgO7QFqL.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/147859",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:13:34.051314"
 }

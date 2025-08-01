@@ -44,9 +44,23 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2279,
+      "media_type": "production_photo",
+      "title": "Vickyvan-1919-newspaperad.jpg",
+      "caption": "Publicity for the 1919 film The Woman Next Door / Vicky Van",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Vickyvan-1919-newspaperad.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Vickyvan-1919-newspaperad.jpg/300px-Vickyvan-1919-newspaperad.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Vickyvan-1919-newspaperad.jpg",
+      "license": "public_domain",
+      "attribution": "The Chattanooga news",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:15:54.081289"
 }

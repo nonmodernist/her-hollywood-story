@@ -69,9 +69,114 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2957,
+      "media_type": "poster",
+      "title": "Rebecca of Sunnybrook Farm (1938) - Poster",
+      "caption": "Theatrical poster for Rebecca of Sunnybrook Farm (1938)",
+      "url": "https://image.tmdb.org/t/p/original/9sm4ygPGxnOZkZV6214clSBrDUd.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/9sm4ygPGxnOZkZV6214clSBrDUd.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/38716",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "True"
+    },
+    {
+      "id": 2958,
+      "media_type": "poster",
+      "title": "Rebecca of Sunnybrook Farm (1938) - Poster",
+      "caption": "Theatrical poster for Rebecca of Sunnybrook Farm (1938)",
+      "url": "https://image.tmdb.org/t/p/original/qmSBcS2FGTd5TE3cYyIvcbyrWNO.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/qmSBcS2FGTd5TE3cYyIvcbyrWNO.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/38716",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 2959,
+      "media_type": "poster",
+      "title": "Rebecca of Sunnybrook Farm (1938) - Poster",
+      "caption": "Theatrical poster for Rebecca of Sunnybrook Farm (1938)",
+      "url": "https://image.tmdb.org/t/p/original/vzelUEZK4XEfsMeTSA8r2WKihQK.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/vzelUEZK4XEfsMeTSA8r2WKihQK.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/38716",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 2960,
+      "media_type": "poster",
+      "title": "Rebecca of Sunnybrook Farm (1938) - Poster",
+      "caption": "Theatrical poster for Rebecca of Sunnybrook Farm (1938)",
+      "url": "https://image.tmdb.org/t/p/original/8VbcymI5t0NO6Ngdm5vxdDAaJ1L.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/8VbcymI5t0NO6Ngdm5vxdDAaJ1L.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/38716",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 2961,
+      "media_type": "poster",
+      "title": "Rebecca of Sunnybrook Farm (1938) - Poster",
+      "caption": "Theatrical poster for Rebecca of Sunnybrook Farm (1938)",
+      "url": "https://image.tmdb.org/t/p/original/1DM9ATQHBF9ZCKinJVa80Pb2oUB.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1DM9ATQHBF9ZCKinJVa80Pb2oUB.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/38716",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 2962,
+      "media_type": "still",
+      "title": "Rebecca of Sunnybrook Farm (1938) - Still",
+      "caption": "Scene from Rebecca of Sunnybrook Farm (1938)",
+      "url": "https://image.tmdb.org/t/p/original/ciN4RzQW1MmkgAMdrGcVmQOI1n9.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/ciN4RzQW1MmkgAMdrGcVmQOI1n9.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/38716",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 2963,
+      "media_type": "still",
+      "title": "Rebecca of Sunnybrook Farm (1938) - Still",
+      "caption": "Scene from Rebecca of Sunnybrook Farm (1938)",
+      "url": "https://image.tmdb.org/t/p/original/1L3G986Unckg6upSUwyd8RGIYoH.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/1L3G986Unckg6upSUwyd8RGIYoH.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/38716",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 2964,
+      "media_type": "still",
+      "title": "Rebecca of Sunnybrook Farm (1938) - Still",
+      "caption": "Scene from Rebecca of Sunnybrook Farm (1938)",
+      "url": "https://image.tmdb.org/t/p/original/3Fd9i7BFdLWkPWaCrpN11IRMQmz.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/3Fd9i7BFdLWkPWaCrpN11IRMQmz.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/38716",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 8,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:05:11.703016"
 }

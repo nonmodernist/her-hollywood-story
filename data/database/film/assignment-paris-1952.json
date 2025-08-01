@@ -44,9 +44,88 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4021,
+      "media_type": "poster",
+      "title": "Assignment--Paris (1952) - Poster",
+      "caption": "Theatrical poster for Assignment--Paris (1952)",
+      "url": "https://image.tmdb.org/t/p/original/5N3wG9U42ChaurEjuwMQvNAc7ks.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/5N3wG9U42ChaurEjuwMQvNAc7ks.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/87294",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "True"
+    },
+    {
+      "id": 4022,
+      "media_type": "poster",
+      "title": "Assignment--Paris (1952) - Poster",
+      "caption": "Theatrical poster for Assignment--Paris (1952)",
+      "url": "https://image.tmdb.org/t/p/original/4n13GShsVehmXDmlhZZiZYKEhS6.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/4n13GShsVehmXDmlhZZiZYKEhS6.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/87294",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    },
+    {
+      "id": 4023,
+      "media_type": "poster",
+      "title": "Assignment--Paris (1952) - Poster",
+      "caption": "Theatrical poster for Assignment--Paris (1952)",
+      "url": "https://image.tmdb.org/t/p/original/wkWJmkokSY7oiWnricECUEUtU9x.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/wkWJmkokSY7oiWnricECUEUtU9x.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/87294",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    },
+    {
+      "id": 4024,
+      "media_type": "poster",
+      "title": "Assignment--Paris (1952) - Poster",
+      "caption": "Theatrical poster for Assignment--Paris (1952)",
+      "url": "https://image.tmdb.org/t/p/original/jAaY3exbGJLVcFS2hRJeXq3FMcu.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/jAaY3exbGJLVcFS2hRJeXq3FMcu.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/87294",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    },
+    {
+      "id": 4025,
+      "media_type": "still",
+      "title": "Assignment--Paris (1952) - Still",
+      "caption": "Scene from Assignment--Paris (1952)",
+      "url": "https://image.tmdb.org/t/p/original/wGIUxIHIWwITJJaL8GXL4MFgM3i.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/wGIUxIHIWwITJJaL8GXL4MFgM3i.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/87294",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    },
+    {
+      "id": 4026,
+      "media_type": "still",
+      "title": "Assignment--Paris (1952) - Still",
+      "caption": "Scene from Assignment--Paris (1952)",
+      "url": "https://image.tmdb.org/t/p/original/x5FamXfFBy8mtvmOfCR54O6QnHu.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/x5FamXfFBy8mtvmOfCR54O6QnHu.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/87294",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:09:54.821606"
 }

@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3271,
+      "media_type": "poster",
+      "title": "Talk About a Stranger (1952) - Poster",
+      "caption": "Theatrical poster for Talk About a Stranger (1952)",
+      "url": "https://image.tmdb.org/t/p/original/dt3kIO57I0y58YPKh2JAXxZfXGw.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dt3kIO57I0y58YPKh2JAXxZfXGw.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/77678",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "True"
+    },
+    {
+      "id": 3272,
+      "media_type": "poster",
+      "title": "Talk About a Stranger (1952) - Poster",
+      "caption": "Theatrical poster for Talk About a Stranger (1952)",
+      "url": "https://image.tmdb.org/t/p/original/tERZbSpE0vcPMd3ffpYotRo3lFW.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/tERZbSpE0vcPMd3ffpYotRo3lFW.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/77678",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3273,
+      "media_type": "poster",
+      "title": "Talk About a Stranger (1952) - Poster",
+      "caption": "Theatrical poster for Talk About a Stranger (1952)",
+      "url": "https://image.tmdb.org/t/p/original/cYzhYLZSDRHBlvpUbRZKO4Vn45t.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/cYzhYLZSDRHBlvpUbRZKO4Vn45t.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/77678",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3274,
+      "media_type": "still",
+      "title": "Talk About a Stranger (1952) - Still",
+      "caption": "Scene from Talk About a Stranger (1952)",
+      "url": "https://image.tmdb.org/t/p/original/qbA4t0x8Cdvkd0L3VT3868SvqNv.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/qbA4t0x8Cdvkd0L3VT3868SvqNv.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/77678",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3275,
+      "media_type": "still",
+      "title": "Talk About a Stranger (1952) - Still",
+      "caption": "Scene from Talk About a Stranger (1952)",
+      "url": "https://image.tmdb.org/t/p/original/77ETiF1Vh0mjWoOZ9MZl4YR2QXI.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/77ETiF1Vh0mjWoOZ9MZl4YR2QXI.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/77678",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:06:14.733412"
 }

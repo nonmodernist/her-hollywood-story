@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4743,
+      "media_type": "poster",
+      "title": "I Was an American Spy (1951) - Poster",
+      "caption": "Theatrical poster for I Was an American Spy (1951)",
+      "url": "https://image.tmdb.org/t/p/original/gf61s9QAfe3V7fKin0Y8CSLA9sv.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/gf61s9QAfe3V7fKin0Y8CSLA9sv.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/83779",
+      "license": "fair_use",
+      "attribution": "Allied Artists",
+      "is_featured": "True"
+    },
+    {
+      "id": 4744,
+      "media_type": "poster",
+      "title": "I Was an American Spy (1951) - Poster",
+      "caption": "Theatrical poster for I Was an American Spy (1951)",
+      "url": "https://image.tmdb.org/t/p/original/d39FKuO51EbLoBkLHfax3mxktc6.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/d39FKuO51EbLoBkLHfax3mxktc6.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/83779",
+      "license": "fair_use",
+      "attribution": "Allied Artists",
+      "is_featured": "False"
+    },
+    {
+      "id": 4745,
+      "media_type": "poster",
+      "title": "I Was an American Spy (1951) - Poster",
+      "caption": "Theatrical poster for I Was an American Spy (1951)",
+      "url": "https://image.tmdb.org/t/p/original/6NGOoRbRzXIoRtDJfoCI0pLSdYh.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/6NGOoRbRzXIoRtDJfoCI0pLSdYh.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/83779",
+      "license": "fair_use",
+      "attribution": "Allied Artists",
+      "is_featured": "False"
+    },
+    {
+      "id": 4746,
+      "media_type": "still",
+      "title": "I Was an American Spy (1951) - Still",
+      "caption": "Scene from I Was an American Spy (1951)",
+      "url": "https://image.tmdb.org/t/p/original/17YvZypnzoiYfDZlljk8s9iLJBm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/17YvZypnzoiYfDZlljk8s9iLJBm.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/83779",
+      "license": "fair_use",
+      "attribution": "Allied Artists",
+      "is_featured": "False"
+    },
+    {
+      "id": 1943,
+      "media_type": "advertisement",
+      "title": "1951 - Boulevard Drive-In - - 27 Jun MC - Allentown PA.jpg",
+      "caption": "Boulevard Drive-In",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/1951_-_Boulevard_Drive-In_-_-_27_Jun_MC_-_Allentown_PA.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/1951_-_Boulevard_Drive-In_-_-_27_Jun_MC_-_Allentown_PA.jpg/300px-1951_-_Boulevard_Drive-In_-_-_27_Jun_MC_-_Allentown_PA.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1951_-_Boulevard_Drive-In_-_-_27_Jun_MC_-_Allentown_PA.jpg",
+      "license": "public_domain",
+      "attribution": "Self Scanned",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:13:32.913158"
 }

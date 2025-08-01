@@ -5,7 +5,7 @@
   "formatted_title": "Bright Road",
   "html_title": "<span class=\"film-title\">Bright Road</span>",
   "release_year": 1953,
-  "runtime_minutes": null,
+  "runtime_minutes": 68,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -44,9 +44,101 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3289,
+      "media_type": "poster",
+      "title": "Bright Road (1953) - Poster",
+      "caption": "Theatrical poster for Bright Road (1953)",
+      "url": "https://image.tmdb.org/t/p/original/KjNdGay7ANEfE6P3ArebvAK5hm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/KjNdGay7ANEfE6P3ArebvAK5hm.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/89547",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "True"
+    },
+    {
+      "id": 3290,
+      "media_type": "poster",
+      "title": "Bright Road (1953) - Poster",
+      "caption": "Theatrical poster for Bright Road (1953)",
+      "url": "https://image.tmdb.org/t/p/original/QeFChSNW5Rtn1Hj1gFWOkgTlr6.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/QeFChSNW5Rtn1Hj1gFWOkgTlr6.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/89547",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3291,
+      "media_type": "poster",
+      "title": "Bright Road (1953) - Poster",
+      "caption": "Theatrical poster for Bright Road (1953)",
+      "url": "https://image.tmdb.org/t/p/original/bocuIqvkn4hX8OaB9WK3nRnBOUW.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/bocuIqvkn4hX8OaB9WK3nRnBOUW.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/89547",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3292,
+      "media_type": "poster",
+      "title": "Bright Road (1953) - Poster",
+      "caption": "Theatrical poster for Bright Road (1953)",
+      "url": "https://image.tmdb.org/t/p/original/a5h9fEsR4O6iCUJ0FImOVO4l7rj.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/a5h9fEsR4O6iCUJ0FImOVO4l7rj.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/89547",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3293,
+      "media_type": "still",
+      "title": "Bright Road (1953) - Still",
+      "caption": "Scene from Bright Road (1953)",
+      "url": "https://image.tmdb.org/t/p/original/xpzTJHGmwgzEHxMieBtiNnEUhP7.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/xpzTJHGmwgzEHxMieBtiNnEUhP7.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/89547",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3294,
+      "media_type": "still",
+      "title": "Bright Road (1953) - Still",
+      "caption": "Scene from Bright Road (1953)",
+      "url": "https://image.tmdb.org/t/p/original/nxP43fsifuDjbRSPXz4OlyfX59e.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/nxP43fsifuDjbRSPXz4OlyfX59e.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/89547",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3295,
+      "media_type": "still",
+      "title": "Bright Road (1953) - Still",
+      "caption": "Scene from Bright Road (1953)",
+      "url": "https://image.tmdb.org/t/p/original/rokWbnjlyTsi4iS6K8EcF5OLPaq.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/rokWbnjlyTsi4iS6K8EcF5OLPaq.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/89547",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 7,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:16:27.422033"
+  "last_updated": "2025-08-01T17:13:54.620662"
 }

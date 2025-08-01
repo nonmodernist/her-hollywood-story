@@ -44,9 +44,23 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1582,
+      "media_type": "still",
+      "title": "Willie Giant - Fun and Fancy Free.png",
+      "caption": "Screenshot of Willie the Giant from the trailer for the film Fun and Fancy Free.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Willie_Giant_-_Fun_and_Fancy_Free.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Willie_Giant_-_Fun_and_Fancy_Free.png/300px-Willie_Giant_-_Fun_and_Fancy_Free.png",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Willie_Giant_-_Fun_and_Fancy_Free.png",
+      "license": "public_domain",
+      "attribution": "Walt Disney",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

@@ -69,9 +69,62 @@
     "is_first": false,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2674,
+      "media_type": "poster",
+      "title": "Manslaughter (1930) - Poster",
+      "caption": "Theatrical poster for Manslaughter (1930)",
+      "url": "https://image.tmdb.org/t/p/original/A1M5oViN2bkYczUGd9yGzLkC9vA.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/A1M5oViN2bkYczUGd9yGzLkC9vA.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/162957",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "True"
+    },
+    {
+      "id": 2675,
+      "media_type": "poster",
+      "title": "Manslaughter (1930) - Poster",
+      "caption": "Theatrical poster for Manslaughter (1930)",
+      "url": "https://image.tmdb.org/t/p/original/svhmfpuNiiYcIvKBzz2tsIG1EbY.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/svhmfpuNiiYcIvKBzz2tsIG1EbY.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/162957",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    },
+    {
+      "id": 2676,
+      "media_type": "poster",
+      "title": "Manslaughter (1930) - Poster",
+      "caption": "Theatrical poster for Manslaughter (1930)",
+      "url": "https://image.tmdb.org/t/p/original/ki5h8PwgOeYTwWpxPw5UW0DdrWw.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ki5h8PwgOeYTwWpxPw5UW0DdrWw.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/162957",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    },
+    {
+      "id": 2677,
+      "media_type": "still",
+      "title": "Manslaughter (1930) - Still",
+      "caption": "Scene from Manslaughter (1930)",
+      "url": "https://image.tmdb.org/t/p/original/iTHo09w2hkKwb2njWkVOcRGLAs8.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/iTHo09w2hkKwb2njWkVOcRGLAs8.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/162957",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:03:59.674652"
 }

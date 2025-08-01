@@ -5,7 +5,7 @@
   "formatted_title": "Playing With Souls",
   "html_title": "<span class=\"film-title\">Playing With Souls</span>",
   "release_year": 1925,
-  "runtime_minutes": null,
+  "runtime_minutes": 70,
   "country_of_production": "United States",
   "genres": [
     "Melodrama"
@@ -46,13 +46,39 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 3717,
+      "media_type": "poster",
+      "title": "Playing With Souls (1925) - Poster",
+      "caption": "Theatrical poster for Playing With Souls (1925)",
+      "url": "https://image.tmdb.org/t/p/original/nSRlgeemi77K1WwYpfbXbsKf6h6.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/nSRlgeemi77K1WwYpfbXbsKf6h6.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/916831",
+      "license": "fair_use",
+      "attribution": "Thomas H. Ince Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 3718,
+      "media_type": "still",
+      "title": "Playing With Souls (1925) - Still",
+      "caption": "Scene from Playing With Souls (1925)",
+      "url": "https://image.tmdb.org/t/p/original/5J3EncqycQzskZU2hAgcWzdAIev.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/5J3EncqycQzskZU2hAgcWzdAIev.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/916831",
+      "license": "fair_use",
+      "attribution": "Thomas H. Ince Productions",
+      "is_featured": "False"
+    },
+    {
       "id": 1103,
       "media_type": "advertisement",
       "title": "Playing with Souls (1925) - 1.jpg",
       "caption": "Advertisement for the American drama film Playing with Souls (1925) with Clive Brook, Jacqueline Logan, and William Collier, Jr., on page 18 of the March 21, 1925 Exhibitors Herald.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Playing_with_Souls_%281925%29_-_1.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Playing_with_Souls_%281925%29_-_1.jpg/300px-Playing_with_Souls_%281925%29_-_1.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Playing_with_Souls_(1925)_-_1.jpg",
       "license": "public_domain",
       "attribution": "Thomas H. Ince Corporation / First National Pictures",
@@ -60,7 +86,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:11:42.076253"
+  "last_updated": "2025-08-01T17:09:34.713918"
 }

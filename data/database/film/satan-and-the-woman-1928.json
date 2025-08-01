@@ -44,9 +44,23 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1676,
+      "media_type": "poster",
+      "title": "Satan and the Woman.jpg",
+      "caption": "Poster for the 1928 film w:Satan and the Woman",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Satan_and_the_Woman.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Satan_and_the_Woman.jpg/300px-Satan_and_the_Woman.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Satan_and_the_Woman.jpg",
+      "license": "public_domain",
+      "attribution": "Excellent Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

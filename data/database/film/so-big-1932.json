@@ -69,9 +69,88 @@
     "is_first": false,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2764,
+      "media_type": "poster",
+      "title": "So Big (1932) - Poster",
+      "caption": "Theatrical poster for So Big (1932)",
+      "url": "https://image.tmdb.org/t/p/original/41SiOxy1lIRGVOQgL2tzsno0dhA.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/41SiOxy1lIRGVOQgL2tzsno0dhA.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/98536",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "True"
+    },
+    {
+      "id": 2765,
+      "media_type": "poster",
+      "title": "So Big (1932) - Poster",
+      "caption": "Theatrical poster for So Big (1932)",
+      "url": "https://image.tmdb.org/t/p/original/Yi69aF4JZrzmJFwxb8B5HZMryW.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/Yi69aF4JZrzmJFwxb8B5HZMryW.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/98536",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 2766,
+      "media_type": "poster",
+      "title": "So Big (1932) - Poster",
+      "caption": "Theatrical poster for So Big (1932)",
+      "url": "https://image.tmdb.org/t/p/original/wAUYe9p4jofV4RZrv0geS4y3YtZ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/wAUYe9p4jofV4RZrv0geS4y3YtZ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/98536",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 2767,
+      "media_type": "still",
+      "title": "So Big (1932) - Still",
+      "caption": "Scene from So Big (1932)",
+      "url": "https://image.tmdb.org/t/p/original/adDqkSALhTjCMOi0m6JN3RJ00Mi.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/adDqkSALhTjCMOi0m6JN3RJ00Mi.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/98536",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 2768,
+      "media_type": "still",
+      "title": "So Big (1932) - Still",
+      "caption": "Scene from So Big (1932)",
+      "url": "https://image.tmdb.org/t/p/original/tS9gULYVNsDamOTMsiB0G9DEsV5.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/tS9gULYVNsDamOTMsiB0G9DEsV5.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/98536",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 2769,
+      "media_type": "still",
+      "title": "So Big (1932) - Still",
+      "caption": "Scene from So Big (1932)",
+      "url": "https://image.tmdb.org/t/p/original/lqmAJRluN3an8FHb7StMJQw655a.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/lqmAJRluN3an8FHb7StMJQw655a.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/98536",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:04:25.864517"
 }

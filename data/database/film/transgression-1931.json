@@ -60,9 +60,88 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4287,
+      "media_type": "poster",
+      "title": "Transgression (1931) - Poster",
+      "caption": "Theatrical poster for Transgression (1931)",
+      "url": "https://image.tmdb.org/t/p/original/5R8roPkkEB0jt18WYyePJhCBtmn.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/5R8roPkkEB0jt18WYyePJhCBtmn.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/109661",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 4288,
+      "media_type": "still",
+      "title": "Transgression (1931) - Still",
+      "caption": "Scene from Transgression (1931)",
+      "url": "https://image.tmdb.org/t/p/original/jsc7WocJRqInXxRSHBH99g2xxbZ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/jsc7WocJRqInXxRSHBH99g2xxbZ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/109661",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 4289,
+      "media_type": "still",
+      "title": "Transgression (1931) - Still",
+      "caption": "Scene from Transgression (1931)",
+      "url": "https://image.tmdb.org/t/p/original/vBiNjC6PnDVYtobQJNe5eXbZlPR.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/vBiNjC6PnDVYtobQJNe5eXbZlPR.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/109661",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 4290,
+      "media_type": "still",
+      "title": "Transgression (1931) - Still",
+      "caption": "Scene from Transgression (1931)",
+      "url": "https://image.tmdb.org/t/p/original/6sIEvj90cHAbxmZyEFPPh4xUQAa.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/6sIEvj90cHAbxmZyEFPPh4xUQAa.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/109661",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 1535,
+      "media_type": "still",
+      "title": "Byzantine - Box with Scenes from the Fall of Adam and Eve and the Story of Joseph - Walters 71295 - Three Quarter (2).jpg",
+      "caption": "The front of this casket depicts the Fall of Adam and the Temptation of Eve, flanking the Sorrowing Adam below the lockplate. A fourth plaque on the back of the casket portrays Adam hiding behind a tree and covering his nudity. The large rectangular plaque set into the casket's lid shows the Old Testament patriarch Jacob ordering his son Joseph to follow his brothers, and the Angel of the Lord guiding his way. These Old Testament images must have been intened as moral examples for the box's owne",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Byzantine_-_Box_with_Scenes_from_the_Fall_of_Adam_and_Eve_and_the_Story_of_Joseph_-_Walters_71295_-_Three_Quarter_%282%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Byzantine_-_Box_with_Scenes_from_the_Fall_of_Adam_and_Eve_and_the_Story_of_Joseph_-_Walters_71295_-_Three_Quarter_%282%29.jpg/300px-Byzantine_-_Box_with_Scenes_from_the_Fall_of_Adam_and_Eve_and_the_Story_of_Joseph_-_Walters_71295_-_Three_Quarter_%282%29.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Byzantine_-_Box_with_Scenes_from_the_Fall_of_Adam_and_Eve_and_the_Story_of_Joseph_-_Walters_71295_-_Three_Quarter_(2).jpg",
+      "license": "public_domain",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 1534,
+      "media_type": "still",
+      "title": "Byzantine - Box with Scenes from the Fall of Adam and Eve and the Story of Joseph - Walters 71295 - Back.jpg",
+      "caption": "The front of this casket depicts the Fall of Adam and the Temptation of Eve, flanking the Sorrowing Adam below the lockplate. A fourth plaque on the back of the casket portrays Adam hiding behind a tree and covering his nudity. The large rectangular plaque set into the casket's lid shows the Old Testament patriarch Jacob ordering his son Joseph to follow his brothers, and the Angel of the Lord guiding his way. These Old Testament images must have been intened as moral examples for the box's owne",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Byzantine_-_Box_with_Scenes_from_the_Fall_of_Adam_and_Eve_and_the_Story_of_Joseph_-_Walters_71295_-_Back.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Byzantine_-_Box_with_Scenes_from_the_Fall_of_Adam_and_Eve_and_the_Story_of_Joseph_-_Walters_71295_-_Back.jpg/300px-Byzantine_-_Box_with_Scenes_from_the_Fall_of_Adam_and_Eve_and_the_Story_of_Joseph_-_Walters_71295_-_Back.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Byzantine_-_Box_with_Scenes_from_the_Fall_of_Adam_and_Eve_and_the_Story_of_Joseph_-_Walters_71295_-_Back.jpg",
+      "license": "public_domain",
+      "attribution": "RKO",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:11:13.989685"
 }

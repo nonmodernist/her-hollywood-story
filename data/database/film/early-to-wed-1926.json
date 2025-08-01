@@ -5,7 +5,7 @@
   "formatted_title": "Early To Wed",
   "html_title": "<span class=\"film-title\">Early To Wed</span>",
   "release_year": 1926,
-  "runtime_minutes": null,
+  "runtime_minutes": 60,
   "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
@@ -46,13 +46,39 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 3655,
+      "media_type": "poster",
+      "title": "Early To Wed (1926) - Poster",
+      "caption": "Theatrical poster for Early To Wed (1926)",
+      "url": "https://image.tmdb.org/t/p/original/pywavaHQhOKppfkiq8OcF8LWgmt.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/pywavaHQhOKppfkiq8OcF8LWgmt.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/782369",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "True"
+    },
+    {
+      "id": 3656,
+      "media_type": "poster",
+      "title": "Early To Wed (1926) - Poster",
+      "caption": "Theatrical poster for Early To Wed (1926)",
+      "url": "https://image.tmdb.org/t/p/original/vkp2qtewIDFz9LUuNehPlPrls1x.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/vkp2qtewIDFz9LUuNehPlPrls1x.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/782369",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "False"
+    },
+    {
       "id": 1079,
       "media_type": "still",
       "title": "Early to Wed (1926) - 2.jpg",
       "caption": "Still from the American comedy film Early to Wed (1926) with Matt Moore and Katherine Perry, on page 2249 of the May 8, 1926 Motion Picture News.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Early_to_Wed_%281926%29_-_2.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Early_to_Wed_%281926%29_-_2.jpg/300px-Early_to_Wed_%281926%29_-_2.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Early_to_Wed_(1926)_-_2.jpg",
       "license": "public_domain",
       "attribution": "Fox Film Corporation",
@@ -65,7 +91,7 @@
       "caption": "Advertisement for the American comedy film Early to Wed (1926), on page 42 of the April 7, 1926 Variety.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Early_to_Wed_%281926%29_-_1.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Early_to_Wed_%281926%29_-_1.jpg/300px-Early_to_Wed_%281926%29_-_1.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Early_to_Wed_(1926)_-_1.jpg",
       "license": "public_domain",
       "attribution": "Fox Film Corporation",
@@ -78,7 +104,7 @@
       "caption": null,
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Early_to_Wed_ad_in_The_Film_Daily%2C_Jan-Jun_1926_%28page_928_crop%29.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Early_to_Wed_ad_in_The_Film_Daily%2C_Jan-Jun_1926_%28page_928_crop%29.jpg/300px-Early_to_Wed_ad_in_The_Film_Daily%2C_Jan-Jun_1926_%28page_928_crop%29.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Early_to_Wed_ad_in_The_Film_Daily,_Jan-Jun_1926_(page_928_crop).jpg",
       "license": "public_domain",
       "attribution": "New York, Wid's Films and Film Folks, Inc.",
@@ -91,7 +117,7 @@
       "caption": "Poster for the American comedy film Early to Wed (1926).",
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Early_to_Wed_%28poster%29.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Early_to_Wed_%28poster%29.jpg/300px-Early_to_Wed_%28poster%29.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Early_to_Wed_(poster).jpg",
       "license": "public_domain",
       "attribution": "Fox Film",
@@ -99,7 +125,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 4,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:10:46.136065"
+  "last_updated": "2025-08-01T17:09:38.386787"
 }

@@ -62,13 +62,26 @@
   },
   "media": [
     {
+      "id": 3933,
+      "media_type": "poster",
+      "title": "Classified (1925) - Poster",
+      "caption": "Theatrical poster for Classified (1925)",
+      "url": "https://image.tmdb.org/t/p/original/vCOBOOI7NhvfFklqgoaH4BoPFj9.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/vCOBOOI7NhvfFklqgoaH4BoPFj9.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/1059556",
+      "license": "fair_use",
+      "attribution": "Corinne Griffith Productions ",
+      "is_featured": "True"
+    },
+    {
       "id": 1259,
       "media_type": "advertisement",
       "title": "Classified (1925) - 1.jpg",
       "caption": "Advertisement for the American drama film Classified (1925) with Corinne Griffith, on page 6 of the October 21, 1925 Film Daily.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Classified_%281925%29_-_1.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Classified_%281925%29_-_1.jpg/300px-Classified_%281925%29_-_1.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Classified_(1925)_-_1.jpg",
       "license": "public_domain",
       "attribution": "First National Pictures",
@@ -81,7 +94,7 @@
       "caption": "Poster for the 1925 film, Classified",
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Classified-1925-Poster.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Classified-1925-Poster.jpg/300px-Classified-1925-Poster.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Classified-1925-Poster.jpg",
       "license": "public_domain",
       "attribution": "First National Pictures",
@@ -94,7 +107,7 @@
       "caption": "Still from the American drama film Classified (1925) with Jack Mulhall and Corinne Griffith, on page 50 of the October 17, 1925 Exhibitors Herald.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Classified_%281925%29_-_3.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Classified_%281925%29_-_3.jpg/300px-Classified_%281925%29_-_3.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Classified_(1925)_-_3.jpg",
       "license": "public_domain",
       "attribution": "First National Pictures",
@@ -107,7 +120,7 @@
       "caption": "Still cut for publication from the American drama film Classified (1925) with Corinne Griffith, on page 446 of the December 5, 1925 The Moving Picture World.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Classified_%281925%29_-_2.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Classified_%281925%29_-_2.jpg/300px-Classified_%281925%29_-_2.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Classified_(1925)_-_2.jpg",
       "license": "public_domain",
       "attribution": "First National Pictures",
@@ -120,7 +133,7 @@
       "caption": "Lobby card for the 1925 film Classified.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Classified_lobby_card.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Classified_lobby_card.jpg/300px-Classified_lobby_card.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Classified_lobby_card.jpg",
       "license": "public_domain",
       "attribution": "First National",
@@ -128,7 +141,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 5,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:09:22.173563"
 }

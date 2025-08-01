@@ -5,7 +5,7 @@
   "formatted_title": "Singed",
   "html_title": "<span class=\"film-title\">Singed</span>",
   "release_year": 1927,
-  "runtime_minutes": null,
+  "runtime_minutes": 60,
   "country_of_production": "United States",
   "genres": [
     "Melodrama"
@@ -46,13 +46,65 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 2620,
+      "media_type": "poster",
+      "title": "Singed (1927) - Poster",
+      "caption": "Theatrical poster for Singed (1927)",
+      "url": "https://image.tmdb.org/t/p/original/rk8VtgDOLAlOL6CxuGolNEU1rVJ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/rk8VtgDOLAlOL6CxuGolNEU1rVJ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/616409",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "False"
+    },
+    {
+      "id": 2621,
+      "media_type": "poster",
+      "title": "Singed (1927) - Poster",
+      "caption": "Theatrical poster for Singed (1927)",
+      "url": "https://image.tmdb.org/t/p/original/m1ZTKt1sirGJ3dK91ZcVPys3Tcc.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/m1ZTKt1sirGJ3dK91ZcVPys3Tcc.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/616409",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "False"
+    },
+    {
+      "id": 2622,
+      "media_type": "poster",
+      "title": "Singed (1927) - Poster",
+      "caption": "Theatrical poster for Singed (1927)",
+      "url": "https://image.tmdb.org/t/p/original/pRIIAri7HJGR0kMoiOiNfTYu3Ia.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/pRIIAri7HJGR0kMoiOiNfTYu3Ia.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/616409",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "False"
+    },
+    {
+      "id": 2623,
+      "media_type": "still",
+      "title": "Singed (1927) - Still",
+      "caption": "Scene from Singed (1927)",
+      "url": "https://image.tmdb.org/t/p/original/rZVYPFTZljVaxfs2Ln5iLIP8WA0.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/rZVYPFTZljVaxfs2Ln5iLIP8WA0.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/616409",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "False"
+    },
+    {
       "id": 517,
       "media_type": "still",
       "title": "Singed (1927) - 1.jpg",
       "caption": "Still from the American drama film Singed (1927) with Blanche Sweet, from the December 1927 Cinelandia. The upper portion of the background may have been altered for publication.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Singed_%281927%29_-_1.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Singed_%281927%29_-_1.jpg/300px-Singed_%281927%29_-_1.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Singed_(1927)_-_1.jpg",
       "license": "public_domain",
       "attribution": "Fox Film Corporation",
@@ -65,7 +117,7 @@
       "caption": "Poster by H. C. Miner Litho Co., for the American drama film Singed (1927).",
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/SINGED_Poster_Blanche_Sweet.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SINGED_Poster_Blanche_Sweet.jpg/300px-SINGED_Poster_Blanche_Sweet.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:SINGED_Poster_Blanche_Sweet.jpg",
       "license": "public_domain",
       "attribution": "H.C. Miner Litho. Co.",
@@ -73,7 +125,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 2,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:11:22.056391"
+  "last_updated": "2025-08-01T17:09:41.532717"
 }

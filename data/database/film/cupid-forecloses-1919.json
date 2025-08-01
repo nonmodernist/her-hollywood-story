@@ -5,7 +5,7 @@
   "formatted_title": "Cupid Forecloses",
   "html_title": "<span class=\"film-title\">Cupid Forecloses</span>",
   "release_year": 1919,
-  "runtime_minutes": null,
+  "runtime_minutes": 50,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4355,
+      "media_type": "poster",
+      "title": "Cupid Forecloses (1919) - Poster",
+      "caption": "Theatrical poster for Cupid Forecloses (1919)",
+      "url": "https://image.tmdb.org/t/p/original/eR570TimbDu8v39bYEos3pYw3lU.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/eR570TimbDu8v39bYEos3pYw3lU.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/768897",
+      "license": "fair_use",
+      "attribution": "Vitagraph",
+      "is_featured": "False"
+    },
+    {
+      "id": 1569,
+      "media_type": "advertisement",
+      "title": "Cupid Forecloses (1919) - Love.jpg",
+      "caption": "Ad for the American film Cupid Forecloses (1919) with Bessie Love, on page 458 of the July 12, 1919 Motion Picture News.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Cupid_Forecloses_%281919%29_-_Love.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cupid_Forecloses_%281919%29_-_Love.jpg/300px-Cupid_Forecloses_%281919%29_-_Love.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cupid_Forecloses_(1919)_-_Love.jpg",
+      "license": "public_domain",
+      "attribution": "Vitagraph Company of America",
+      "is_featured": "False"
+    },
+    {
+      "id": 1570,
+      "media_type": "still",
+      "title": "Cupid Forecloses (1919) - Love 2.jpg",
+      "caption": "Still from the American film Cupid Forecloses (1919) with Bessie Love, on page 716 of the July 19, 1919 Motion Picture News.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Cupid_Forecloses_%281919%29_-_Love_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cupid_Forecloses_%281919%29_-_Love_2.jpg/300px-Cupid_Forecloses_%281919%29_-_Love_2.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cupid_Forecloses_(1919)_-_Love_2.jpg",
+      "license": "public_domain",
+      "attribution": "Vitagraph Company of America",
+      "is_featured": "False"
+    },
+    {
+      "id": 1571,
+      "media_type": "still",
+      "title": "Cupid Forecloses (1919) - Love 3.jpg",
+      "caption": "Still from the American film Cupid Forecloses (1919) with Bessie Love, on page 745 of the July 19, 1919 Motion Picture News'",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Cupid_Forecloses_%281919%29_-_Love_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Cupid_Forecloses_%281919%29_-_Love_3.jpg/300px-Cupid_Forecloses_%281919%29_-_Love_3.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cupid_Forecloses_(1919)_-_Love_3.jpg",
+      "license": "public_domain",
+      "attribution": "Vitagraph Company of America",
+      "is_featured": "False"
+    },
+    {
+      "id": 1572,
+      "media_type": "still",
+      "title": "Cupid Forecloses (1919) - Love 4.jpg",
+      "caption": "Still from the American film Cupid Forecloses (1919) with Bessie Love, on page 2000 of the June 28, 1919 Moving Picture World.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cupid_Forecloses_%281919%29_-_Love_4.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cupid_Forecloses_%281919%29_-_Love_4.jpg/300px-Cupid_Forecloses_%281919%29_-_Love_4.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cupid_Forecloses_(1919)_-_Love_4.jpg",
+      "license": "public_domain",
+      "attribution": "Vitagraph Company of America",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:13:23.424399"
+  "last_updated": "2025-08-01T17:04:46.883441"
 }

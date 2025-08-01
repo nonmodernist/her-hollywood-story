@@ -5,7 +5,7 @@
   "formatted_title": "Lord Byron of Broadway",
   "html_title": "<span class=\"film-title\">Lord Byron of Broadway</span>",
   "release_year": 1930,
-  "runtime_minutes": null,
+  "runtime_minutes": 80,
   "country_of_production": "United States",
   "genres": [
     "Romance"
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4542,
+      "media_type": "poster",
+      "title": "Lord Byron of Broadway (1930) - Poster",
+      "caption": "Theatrical poster for Lord Byron of Broadway (1930)",
+      "url": "https://image.tmdb.org/t/p/original/A1utbQrOK9nTjhTQfnW9rRm9U1F.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/A1utbQrOK9nTjhTQfnW9rRm9U1F.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/107779",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 4543,
+      "media_type": "poster",
+      "title": "Lord Byron of Broadway (1930) - Poster",
+      "caption": "Theatrical poster for Lord Byron of Broadway (1930)",
+      "url": "https://image.tmdb.org/t/p/original/k459aggxD2Jc9Ftx6jbkUZtGEnY.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/k459aggxD2Jc9Ftx6jbkUZtGEnY.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/107779",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 4544,
+      "media_type": "still",
+      "title": "Lord Byron of Broadway (1930) - Still",
+      "caption": "Scene from Lord Byron of Broadway (1930)",
+      "url": "https://image.tmdb.org/t/p/original/vpvaJLEpmoeGeYob9zlzFJivgDk.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/vpvaJLEpmoeGeYob9zlzFJivgDk.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/107779",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:17:13.339982"
+  "last_updated": "2025-08-01T17:12:39.757516"
 }

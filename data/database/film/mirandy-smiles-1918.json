@@ -44,9 +44,23 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1680,
+      "media_type": "still",
+      "title": "Mirandy Smiles (1918) - 1.jpg",
+      "caption": "Still from the American drama film Mirandy Smiles (1918) with an unidentified actor and Vivian Martin, on page 23 of the November 30, 1918 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Mirandy_Smiles_%281918%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mirandy_Smiles_%281918%29_-_1.jpg/300px-Mirandy_Smiles_%281918%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mirandy_Smiles_(1918)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Famous Players-Lasky Corporation / Paramount Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:12:13.470016"
 }

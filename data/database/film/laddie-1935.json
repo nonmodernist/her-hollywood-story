@@ -71,13 +71,39 @@
   },
   "media": [
     {
+      "id": 2868,
+      "media_type": "poster",
+      "title": "Laddie (1935) - Poster",
+      "caption": "Theatrical poster for Laddie (1935)",
+      "url": "https://image.tmdb.org/t/p/original/uTSYgll0uxh65zZuIt0ypPLFH1P.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/uTSYgll0uxh65zZuIt0ypPLFH1P.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/295408",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "True"
+    },
+    {
+      "id": 2869,
+      "media_type": "still",
+      "title": "Laddie (1935) - Still",
+      "caption": "Scene from Laddie (1935)",
+      "url": "https://image.tmdb.org/t/p/original/71dm7cl1IsASJbqglmVPO3x9lws.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/71dm7cl1IsASJbqglmVPO3x9lws.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/295408",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
       "id": 662,
       "media_type": "lobby_card",
       "title": "Laddie lobby card.jpg",
       "caption": "Lobby card for the 1935 film Laddie.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Laddie_lobby_card.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Laddie_lobby_card.jpg/300px-Laddie_lobby_card.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Laddie_lobby_card.jpg",
       "license": "public_domain",
       "attribution": "RKO",
@@ -85,7 +111,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:04:50.676888"
 }

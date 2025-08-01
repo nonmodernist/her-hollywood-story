@@ -5,7 +5,7 @@
   "formatted_title": "Meet the Stewarts",
   "html_title": "<span class=\"film-title\">Meet the Stewarts</span>",
   "release_year": 1942,
-  "runtime_minutes": null,
+  "runtime_minutes": 73,
   "country_of_production": "United States",
   "genres": [
     "Romantic comedy"
@@ -44,9 +44,88 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3846,
+      "media_type": "poster",
+      "title": "Meet the Stewarts (1942) - Poster",
+      "caption": "Theatrical poster for Meet the Stewarts (1942)",
+      "url": "https://image.tmdb.org/t/p/original/wPcn3kMSCjjRE7Fwe0KlUaJMTn2.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/wPcn3kMSCjjRE7Fwe0KlUaJMTn2.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/97822",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    },
+    {
+      "id": 3847,
+      "media_type": "poster",
+      "title": "Meet the Stewarts (1942) - Poster",
+      "caption": "Theatrical poster for Meet the Stewarts (1942)",
+      "url": "https://image.tmdb.org/t/p/original/wUFE1YjoT6DARxDDvN0PeKktqHs.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/wUFE1YjoT6DARxDDvN0PeKktqHs.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/97822",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    },
+    {
+      "id": 3848,
+      "media_type": "poster",
+      "title": "Meet the Stewarts (1942) - Poster",
+      "caption": "Theatrical poster for Meet the Stewarts (1942)",
+      "url": "https://image.tmdb.org/t/p/original/dacerIotCCd38Fnjo9iZdzoD2Hq.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dacerIotCCd38Fnjo9iZdzoD2Hq.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/97822",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    },
+    {
+      "id": 3849,
+      "media_type": "still",
+      "title": "Meet the Stewarts (1942) - Still",
+      "caption": "Scene from Meet the Stewarts (1942)",
+      "url": "https://image.tmdb.org/t/p/original/8rl9aYH5riwoDh4K6oU9jvasc5I.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/8rl9aYH5riwoDh4K6oU9jvasc5I.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/97822",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    },
+    {
+      "id": 3850,
+      "media_type": "still",
+      "title": "Meet the Stewarts (1942) - Still",
+      "caption": "Scene from Meet the Stewarts (1942)",
+      "url": "https://image.tmdb.org/t/p/original/af5MQXGL3BE80zKu5Iv9Sdw5rwG.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/af5MQXGL3BE80zKu5Iv9Sdw5rwG.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/97822",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    },
+    {
+      "id": 3851,
+      "media_type": "still",
+      "title": "Meet the Stewarts (1942) - Still",
+      "caption": "Scene from Meet the Stewarts (1942)",
+      "url": "https://image.tmdb.org/t/p/original/oqwQqs39nGIK9S1b3zJy7PP7MzB.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/oqwQqs39nGIK9S1b3zJy7PP7MzB.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/97822",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:09:03.084535"
+  "last_updated": "2025-08-01T17:13:46.490277"
 }

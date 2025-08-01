@@ -5,7 +5,7 @@
   "formatted_title": "Little Men",
   "html_title": "<span class=\"film-title\">Little Men</span>",
   "release_year": 1934,
-  "runtime_minutes": null,
+  "runtime_minutes": 72,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -60,9 +60,36 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2835,
+      "media_type": "poster",
+      "title": "Little Men (1934) - Poster",
+      "caption": "Theatrical poster for Little Men (1934)",
+      "url": "https://image.tmdb.org/t/p/original/lDqCUPhmFM6pDdFFMgMJibdO1Co.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/lDqCUPhmFM6pDdFFMgMJibdO1Co.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43606",
+      "license": "fair_use",
+      "attribution": "Mascot Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2836,
+      "media_type": "still",
+      "title": "Little Men (1934) - Still",
+      "caption": "Scene from Little Men (1934)",
+      "url": "https://image.tmdb.org/t/p/original/Afb2kTrMIriIT5lmIC3QACCQrof.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/Afb2kTrMIriIT5lmIC3QACCQrof.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43606",
+      "license": "fair_use",
+      "attribution": "Mascot Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:12:01.41023"
+  "last_updated": "2025-08-01T17:12:51.741081"
 }

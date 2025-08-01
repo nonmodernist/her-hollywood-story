@@ -46,13 +46,26 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 2471,
+      "media_type": "poster",
+      "title": "The Amateur Wife (1920) - Poster",
+      "caption": "Theatrical poster for The Amateur Wife (1920)",
+      "url": "https://image.tmdb.org/t/p/original/ekn6hv7VOMLuv58GogydCDpRi1O.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ekn6hv7VOMLuv58GogydCDpRi1O.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/872759",
+      "license": "fair_use",
+      "attribution": "Famous Players-Lasky",
+      "is_featured": "False"
+    },
+    {
       "id": 162,
       "media_type": "still",
       "title": "The Amateur Wife (1920) - 2.jpg",
       "caption": "Newspaper ad for the American drama film The Amateur Wife (1920) with Irene Castle, on page 9 of the May 15, 1920 Duluth Herald. The ad, made from a still provided by Paramount, likely an error, does not mention the title of the film or the actress. This was provided in a summary of what theaters were playing that was on page 8 of the newspaper.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/The_Amateur_Wife_%281920%29_-_2.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/The_Amateur_Wife_%281920%29_-_2.jpg/300px-The_Amateur_Wife_%281920%29_-_2.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:The_Amateur_Wife_(1920)_-_2.jpg",
       "license": "public_domain",
       "attribution": "Paramount Pictures",
@@ -65,7 +78,7 @@
       "caption": "Irene Castle in the American drama film The Amateur Wife (1920), directed by Edward Dillon.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Irene_Castle_in_The_Amateur_Wife_by_Edward_Dillon_Film_Daily_1920.png",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Irene_Castle_in_The_Amateur_Wife_by_Edward_Dillon_Film_Daily_1920.png/300px-Irene_Castle_in_The_Amateur_Wife_by_Edward_Dillon_Film_Daily_1920.png",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Irene_Castle_in_The_Amateur_Wife_by_Edward_Dillon_Film_Daily_1920.png",
       "license": "public_domain",
       "attribution": "Paramount Pictures",
@@ -78,7 +91,7 @@
       "caption": "Still from the American drama film The Amateur Wife (1920) with an unidentified actress and Irene Castle, on page 73 of the March 6, 1920 Exhibitors Herald.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/The_Amateur_Wife_%281920%29_-_3.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/The_Amateur_Wife_%281920%29_-_3.jpg/300px-The_Amateur_Wife_%281920%29_-_3.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:The_Amateur_Wife_(1920)_-_3.jpg",
       "license": "public_domain",
       "attribution": "Paramount Pictures",
@@ -86,7 +99,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 3,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:02:45.788508"
 }

@@ -5,7 +5,7 @@
   "formatted_title": "Freckles",
   "html_title": "<span class=\"film-title\">Freckles</span>",
   "release_year": 1960,
-  "runtime_minutes": null,
+  "runtime_minutes": 83,
   "country_of_production": "United States",
   "genres": [
     "Adventure"
@@ -78,9 +78,36 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3375,
+      "media_type": "poster",
+      "title": "Freckles (1960) - Poster",
+      "caption": "Theatrical poster for Freckles (1960)",
+      "url": "https://image.tmdb.org/t/p/original/9T9XiXP7R7c4JcE0461Noe8c3Xi.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/9T9XiXP7R7c4JcE0461Noe8c3Xi.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/243638",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 3376,
+      "media_type": "still",
+      "title": "Freckles (1960) - Still",
+      "caption": "Scene from Freckles (1960)",
+      "url": "https://image.tmdb.org/t/p/original/1yh37AK3kyDGyKS1qt2F4T4BFG6.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/1yh37AK3kyDGyKS1qt2F4T4BFG6.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/243638",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:08:07.686247"
+  "last_updated": "2025-08-01T17:13:56.876236"
 }

@@ -5,7 +5,7 @@
   "formatted_title": "August Week-end",
   "html_title": "<span class=\"film-title\">August Week-end</span>",
   "release_year": 1936,
-  "runtime_minutes": null,
+  "runtime_minutes": 62,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -44,9 +44,36 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2911,
+      "media_type": "poster",
+      "title": "August Week-end (1936) - Poster",
+      "caption": "Theatrical poster for August Week-end (1936)",
+      "url": "https://image.tmdb.org/t/p/original/6LxjPYnAvNcj88H80ScHav141gN.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/6LxjPYnAvNcj88H80ScHav141gN.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/214888",
+      "license": "fair_use",
+      "attribution": "Chesterfield",
+      "is_featured": "True"
+    },
+    {
+      "id": 2912,
+      "media_type": "still",
+      "title": "August Week-end (1936) - Still",
+      "caption": "Scene from August Week-end (1936)",
+      "url": "https://image.tmdb.org/t/p/original/3vHsKcay0AlWMtVN1xBHbcMAXi.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/3vHsKcay0AlWMtVN1xBHbcMAXi.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/214888",
+      "license": "fair_use",
+      "attribution": "Chesterfield",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:06:52.758161"
+  "last_updated": "2025-08-01T17:13:33.517155"
 }

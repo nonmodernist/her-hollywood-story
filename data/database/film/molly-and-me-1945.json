@@ -5,7 +5,7 @@
   "formatted_title": "Molly and Me",
   "html_title": "<span class=\"film-title\">Molly and Me</span>",
   "release_year": 1945,
-  "runtime_minutes": null,
+  "runtime_minutes": 77,
   "country_of_production": "United States",
   "genres": [
     "Comedy"
@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4517,
+      "media_type": "poster",
+      "title": "Molly and Me (1945) - Poster",
+      "caption": "Theatrical poster for Molly and Me (1945)",
+      "url": "https://image.tmdb.org/t/p/original/806EBXHYmXrvejE34YHRBAwEpb4.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/806EBXHYmXrvejE34YHRBAwEpb4.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/352719",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "True"
+    },
+    {
+      "id": 4518,
+      "media_type": "poster",
+      "title": "Molly and Me (1945) - Poster",
+      "caption": "Theatrical poster for Molly and Me (1945)",
+      "url": "https://image.tmdb.org/t/p/original/2qsOVEBD4l6hnOCLk68th3QxlCP.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/2qsOVEBD4l6hnOCLk68th3QxlCP.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/352719",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4519,
+      "media_type": "still",
+      "title": "Molly and Me (1945) - Still",
+      "caption": "Scene from Molly and Me (1945)",
+      "url": "https://image.tmdb.org/t/p/original/oBjYi0KPVJCSHHJGjV8Siocm7VY.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/oBjYi0KPVJCSHHJGjV8Siocm7VY.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/352719",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4520,
+      "media_type": "still",
+      "title": "Molly and Me (1945) - Still",
+      "caption": "Scene from Molly and Me (1945)",
+      "url": "https://image.tmdb.org/t/p/original/bSo71Rfo0zkXvxJ3TRTaN4sVTXP.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/bSo71Rfo0zkXvxJ3TRTaN4sVTXP.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/352719",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:17:23.529346"
+  "last_updated": "2025-08-01T17:13:50.57737"
 }

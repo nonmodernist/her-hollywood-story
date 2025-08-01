@@ -5,7 +5,7 @@
   "formatted_title": "Tarnished",
   "html_title": "<span class=\"film-title\">Tarnished</span>",
   "release_year": 1950,
-  "runtime_minutes": null,
+  "runtime_minutes": 60,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4546,
+      "media_type": "poster",
+      "title": "Tarnished (1950) - Poster",
+      "caption": "Theatrical poster for Tarnished (1950)",
+      "url": "https://image.tmdb.org/t/p/original/7tRX9P8U0eMVkh1FsO5fuNsFcXp.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/7tRX9P8U0eMVkh1FsO5fuNsFcXp.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/79938",
+      "license": "fair_use",
+      "attribution": "Republic",
+      "is_featured": "False"
+    },
+    {
+      "id": 4547,
+      "media_type": "still",
+      "title": "Tarnished (1950) - Still",
+      "caption": "Scene from Tarnished (1950)",
+      "url": "https://image.tmdb.org/t/p/original/wcCSIgfJjBXFA4Pj2eNOg4oTYWE.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/wcCSIgfJjBXFA4Pj2eNOg4oTYWE.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/79938",
+      "license": "fair_use",
+      "attribution": "Republic",
+      "is_featured": "False"
+    },
+    {
+      "id": 4548,
+      "media_type": "still",
+      "title": "Tarnished (1950) - Still",
+      "caption": "Scene from Tarnished (1950)",
+      "url": "https://image.tmdb.org/t/p/original/w60ZIkiq7Isrb7UmM3rB2w9NqmQ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/w60ZIkiq7Isrb7UmM3rB2w9NqmQ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/79938",
+      "license": "fair_use",
+      "attribution": "Republic",
+      "is_featured": "False"
+    },
+    {
+      "id": 4549,
+      "media_type": "still",
+      "title": "Tarnished (1950) - Still",
+      "caption": "Scene from Tarnished (1950)",
+      "url": "https://image.tmdb.org/t/p/original/9AtQpj8N10RFR1UBOxQSa1vAvwk.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/9AtQpj8N10RFR1UBOxQSa1vAvwk.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/79938",
+      "license": "fair_use",
+      "attribution": "Republic",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:17:25.882893"
+  "last_updated": "2025-08-01T17:13:53.725015"
 }

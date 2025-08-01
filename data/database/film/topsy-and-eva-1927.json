@@ -30,7 +30,7 @@
     "genre": null,
     "plot_summary": null,
     "literary_significance": null,
-    "adaptation_count": 7,
+    "adaptation_count": 6,
     "year_to_adaptation": 75
   },
   "author": {
@@ -40,7 +40,7 @@
     "birth_year": 1811,
     "death_year": 1896,
     "nationality": "American",
-    "film_count": 9
+    "film_count": 8
   },
   "other_adaptations": [
     {
@@ -71,15 +71,6 @@
       "studio": "World Producing"
     },
     {
-      "id": 7,
-      "slug": "uncle-toms-cabin-1914",
-      "title": "Uncle Tom's Cabin",
-      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
-      "year": 1914,
-      "directors": "William Robert Daly",
-      "studio": "World Producing"
-    },
-    {
       "id": 39,
       "slug": "uncle-toms-cabin-1918",
       "title": "Uncle Tom's Cabin",
@@ -100,12 +91,51 @@
   ],
   "adaptation_context": {
     "is_remake": true,
-    "total_adaptations": 7,
-    "adaptation_number": 6,
+    "total_adaptations": 6,
+    "adaptation_number": 5,
     "is_first": false,
     "is_latest": false
   },
   "media": [
+    {
+      "id": 2626,
+      "media_type": "poster",
+      "title": "Topsy and Eva (1927) - Poster",
+      "caption": "Theatrical poster for Topsy and Eva (1927)",
+      "url": "https://image.tmdb.org/t/p/original/pWVzrSt4LGRQldrlEGrTfXru5MC.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/pWVzrSt4LGRQldrlEGrTfXru5MC.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/189849",
+      "license": "fair_use",
+      "attribution": "Feature Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 2627,
+      "media_type": "poster",
+      "title": "Topsy and Eva (1927) - Poster",
+      "caption": "Theatrical poster for Topsy and Eva (1927)",
+      "url": "https://image.tmdb.org/t/p/original/j8Q8JnHcD3qG8ZVnWaZgtSA7VOo.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/j8Q8JnHcD3qG8ZVnWaZgtSA7VOo.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/189849",
+      "license": "fair_use",
+      "attribution": "Feature Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 2628,
+      "media_type": "still",
+      "title": "Topsy and Eva (1927) - Still",
+      "caption": "Scene from Topsy and Eva (1927)",
+      "url": "https://image.tmdb.org/t/p/original/lsRMWGwKvJri2JMUDAnb8sXfLhm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/lsRMWGwKvJri2JMUDAnb8sXfLhm.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/189849",
+      "license": "fair_use",
+      "attribution": "Feature Productions",
+      "is_featured": "False"
+    },
     {
       "id": 523,
       "media_type": "poster",
@@ -113,7 +143,7 @@
       "caption": "Poster for w:Topsy and Eva",
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Topsy_and_Eva_poster.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Topsy_and_Eva_poster.jpg/300px-Topsy_and_Eva_poster.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Topsy_and_Eva_poster.jpg",
       "license": "public_domain",
       "attribution": "United Artists (distributor)",
@@ -126,15 +156,15 @@
       "caption": "Topsy and Eva Subjects (LCTGM): motion pictures, actresses",
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Topsy_and_Eva_%28SAYRE_14490%29.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Topsy_and_Eva_%28SAYRE_14490%29.jpg/300px-Topsy_and_Eva_%28SAYRE_14490%29.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Topsy_and_Eva_(SAYRE_14490).jpg",
       "license": "public_domain",
-      "attribution": "Unknown authorUnknown author",
+      "attribution": "Feature Productions",
       "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 2,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:03:46.743256"
 }

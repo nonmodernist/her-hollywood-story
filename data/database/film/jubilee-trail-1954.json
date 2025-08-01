@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3539,
+      "media_type": "poster",
+      "title": "Jubilee Trail (1954) - Poster",
+      "caption": "Theatrical poster for Jubilee Trail (1954)",
+      "url": "https://image.tmdb.org/t/p/original/idIsginSspwV2cRIiF9ZEmGsThY.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/idIsginSspwV2cRIiF9ZEmGsThY.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/200444",
+      "license": "fair_use",
+      "attribution": "Republic",
+      "is_featured": "False"
+    },
+    {
+      "id": 3540,
+      "media_type": "poster",
+      "title": "Jubilee Trail (1954) - Poster",
+      "caption": "Theatrical poster for Jubilee Trail (1954)",
+      "url": "https://image.tmdb.org/t/p/original/caeLy4DPdQKrnlkEMOlgdGjJ2ko.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/caeLy4DPdQKrnlkEMOlgdGjJ2ko.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/200444",
+      "license": "fair_use",
+      "attribution": "Republic",
+      "is_featured": "False"
+    },
+    {
+      "id": 3541,
+      "media_type": "poster",
+      "title": "Jubilee Trail (1954) - Poster",
+      "caption": "Theatrical poster for Jubilee Trail (1954)",
+      "url": "https://image.tmdb.org/t/p/original/32vTYs2xaiiEYw64SFweSRaKqy2.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/32vTYs2xaiiEYw64SFweSRaKqy2.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/200444",
+      "license": "fair_use",
+      "attribution": "Republic",
+      "is_featured": "False"
+    },
+    {
+      "id": 3542,
+      "media_type": "poster",
+      "title": "Jubilee Trail (1954) - Poster",
+      "caption": "Theatrical poster for Jubilee Trail (1954)",
+      "url": "https://image.tmdb.org/t/p/original/cHiKOGmW19OwJi2Lq0eXKAVVPtf.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/cHiKOGmW19OwJi2Lq0eXKAVVPtf.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/200444",
+      "license": "fair_use",
+      "attribution": "Republic",
+      "is_featured": "False"
+    },
+    {
+      "id": 3543,
+      "media_type": "still",
+      "title": "Jubilee Trail (1954) - Still",
+      "caption": "Scene from Jubilee Trail (1954)",
+      "url": "https://image.tmdb.org/t/p/original/uUK6XNqkttzaDUh5igzLtuLhG8A.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/uUK6XNqkttzaDUh5igzLtuLhG8A.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/200444",
+      "license": "fair_use",
+      "attribution": "Republic",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:07:17.582376"
 }

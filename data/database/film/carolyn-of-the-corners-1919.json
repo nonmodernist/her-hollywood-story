@@ -5,7 +5,7 @@
   "formatted_title": "Carolyn of the Corners",
   "html_title": "<span class=\"film-title\">Carolyn of the Corners</span>",
   "release_year": 1919,
-  "runtime_minutes": null,
+  "runtime_minutes": 60,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -46,13 +46,39 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 3907,
+      "media_type": "poster",
+      "title": "Carolyn of the Corners (1919) - Poster",
+      "caption": "Theatrical poster for Carolyn of the Corners (1919)",
+      "url": "https://image.tmdb.org/t/p/original/otsp0Sml9gLdJ6LRNZ9SupRLVGn.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/otsp0Sml9gLdJ6LRNZ9SupRLVGn.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/344549",
+      "license": "fair_use",
+      "attribution": "Anderson-Brunton",
+      "is_featured": "False"
+    },
+    {
+      "id": 3908,
+      "media_type": "poster",
+      "title": "Carolyn of the Corners (1919) - Poster",
+      "caption": "Theatrical poster for Carolyn of the Corners (1919)",
+      "url": "https://image.tmdb.org/t/p/original/stTSRPQGZj0hQ1lUVMjDHFHLSMZ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/stTSRPQGZj0hQ1lUVMjDHFHLSMZ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/344549",
+      "license": "fair_use",
+      "attribution": "Anderson-Brunton",
+      "is_featured": "False"
+    },
+    {
       "id": 1242,
       "media_type": "advertisement",
       "title": "Carolyn of the Corners (1919) - 1.jpg",
       "caption": "Ad for the American drama film Carolyn of the Corners (1919) with Bessie Love, insert after page 1158 of the March 1, 1919 Moving Picture World.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Carolyn_of_the_Corners_%281919%29_-_1.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Carolyn_of_the_Corners_%281919%29_-_1.jpg/300px-Carolyn_of_the_Corners_%281919%29_-_1.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Carolyn_of_the_Corners_(1919)_-_1.jpg",
       "license": "public_domain",
       "attribution": "Anderson-Brunton Company / Pathé Exchange / MaDan (artist signature)",
@@ -60,7 +86,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:12:59.526696"
+  "last_updated": "2025-08-01T17:04:45.948571"
 }

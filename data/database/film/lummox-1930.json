@@ -46,21 +46,47 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 2682,
+      "media_type": "poster",
+      "title": "Lummox (1930) - Poster",
+      "caption": "Theatrical poster for Lummox (1930)",
+      "url": "https://image.tmdb.org/t/p/original/sg3CHQkttiW7162ojSXqnD5s4CV.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/sg3CHQkttiW7162ojSXqnD5s4CV.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/423774",
+      "license": "fair_use",
+      "attribution": "United Artists",
+      "is_featured": "False"
+    },
+    {
+      "id": 2683,
+      "media_type": "still",
+      "title": "Lummox (1930) - Still",
+      "caption": "Scene from Lummox (1930)",
+      "url": "https://image.tmdb.org/t/p/original/lEZl5vgYv2YWy8IjhZ81mxEIt8x.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/lEZl5vgYv2YWy8IjhZ81mxEIt8x.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/423774",
+      "license": "fair_use",
+      "attribution": "United Artists",
+      "is_featured": "False"
+    },
+    {
       "id": 594,
       "media_type": "lobby_card",
       "title": "Lummox.jpg",
       "caption": "Lummox film title card",
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Lummox.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Lummox.jpg/300px-Lummox.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Lummox.jpg",
       "license": "public_domain",
-      "attribution": "Unknown authorUnknown author",
+      "attribution": "United Artists",
       "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:04:03.162633"
 }

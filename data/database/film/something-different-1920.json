@@ -46,27 +46,27 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 160,
-      "media_type": "still",
-      "title": "Something Different (1920) - 2.jpg",
-      "caption": "Still from the American drama film Something Different (1920) with Ward Crane and Constance Binney, on page 83 of the February 12, 1921 Exhibitors Herald.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Something_Different_%281920%29_-_2.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Something_Different_%281920%29_-_2.jpg/300px-Something_Different_%281920%29_-_2.jpg",
-      "source": "wikimedia",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Something_Different_(1920)_-_2.jpg",
-      "license": "public_domain",
-      "attribution": "Realart Pictures Corporation",
-      "is_featured": "False"
-    },
-    {
       "id": 161,
       "media_type": "still",
       "title": "Something Different (1920) - 1.jpg",
       "caption": "Still from the American drama film Something Different (1920) with Constance Binney and Ward Crane, on page 75 of the January 8, 1921 Exhibitors Herald.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Something_Different_%281920%29_-_1.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Something_Different_%281920%29_-_1.jpg/300px-Something_Different_%281920%29_-_1.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Something_Different_(1920)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Realart Pictures Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 160,
+      "media_type": "still",
+      "title": "Something Different (1920) - 2.jpg",
+      "caption": "Still from the American drama film Something Different (1920) with Ward Crane and Constance Binney, on page 83 of the February 12, 1921 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Something_Different_%281920%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Something_Different_%281920%29_-_2.jpg/300px-Something_Different_%281920%29_-_2.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Something_Different_(1920)_-_2.jpg",
       "license": "public_domain",
       "attribution": "Realart Pictures Corporation",
       "is_featured": "False"
@@ -75,5 +75,5 @@
   "has_media": true,
   "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:02:44.568641"
 }

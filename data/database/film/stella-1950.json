@@ -5,7 +5,7 @@
   "formatted_title": "Stella",
   "html_title": "<span class=\"film-title\">Stella</span>",
   "release_year": 1950,
-  "runtime_minutes": null,
+  "runtime_minutes": 83,
   "country_of_production": "United States",
   "genres": [
     "Comedy"
@@ -46,13 +46,52 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 3843,
+      "media_type": "poster",
+      "title": "Stella (1950) - Poster",
+      "caption": "Theatrical poster for Stella (1950)",
+      "url": "https://image.tmdb.org/t/p/original/7S5tJqsQSzvVTAYFk4kUFd73bv6.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/7S5tJqsQSzvVTAYFk4kUFd73bv6.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/173662",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 3844,
+      "media_type": "poster",
+      "title": "Stella (1950) - Poster",
+      "caption": "Theatrical poster for Stella (1950)",
+      "url": "https://image.tmdb.org/t/p/original/scUdLklRJGibFCosKNu6JXt4hjV.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/scUdLklRJGibFCosKNu6JXt4hjV.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/173662",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 3845,
+      "media_type": "still",
+      "title": "Stella (1950) - Still",
+      "caption": "Scene from Stella (1950)",
+      "url": "https://image.tmdb.org/t/p/original/5An6kpIsfzk7ie009Q8SXiM3xfb.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/5An6kpIsfzk7ie009Q8SXiM3xfb.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/173662",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
       "id": 1218,
       "media_type": "production_photo",
       "title": "Ann Sheridan and David Wayne.jpg",
       "caption": "Promotion photo from Stella (1950) featuring Ann Sheridan and David Wayne",
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Ann_Sheridan_and_David_Wayne.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ann_Sheridan_and_David_Wayne.jpg/300px-Ann_Sheridan_and_David_Wayne.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Ann_Sheridan_and_David_Wayne.jpg",
       "license": "public_domain",
       "attribution": "not credited",
@@ -65,7 +104,7 @@
       "caption": "Promotion photo from Stella (1950) featuring Ann Sheridan",
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Ann_Sheridan_without_David_Wayne.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ann_Sheridan_without_David_Wayne.jpg/300px-Ann_Sheridan_without_David_Wayne.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Ann_Sheridan_without_David_Wayne.jpg",
       "license": "public_domain",
       "attribution": "not credited",
@@ -73,7 +112,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 2,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:13:39.511565"
+  "last_updated": "2025-08-01T17:13:53.287056"
 }

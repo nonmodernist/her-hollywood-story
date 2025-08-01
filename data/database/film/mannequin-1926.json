@@ -5,7 +5,7 @@
   "formatted_title": "Mannequin",
   "html_title": "<span class=\"film-title\">Mannequin</span>",
   "release_year": 1926,
-  "runtime_minutes": null,
+  "runtime_minutes": 70,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -46,13 +46,52 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 2597,
+      "media_type": "poster",
+      "title": "Mannequin (1926) - Poster",
+      "caption": "Theatrical poster for Mannequin (1926)",
+      "url": "https://image.tmdb.org/t/p/original/i2dn9Gx22JJhbxxis1rMcLP3MeQ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/i2dn9Gx22JJhbxxis1rMcLP3MeQ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/503496",
+      "license": "fair_use",
+      "attribution": "Famous Players-Lasky",
+      "is_featured": "True"
+    },
+    {
+      "id": 2598,
+      "media_type": "poster",
+      "title": "Mannequin (1926) - Poster",
+      "caption": "Theatrical poster for Mannequin (1926)",
+      "url": "https://image.tmdb.org/t/p/original/5kWQan0WS4LWHidj2bkcoggHquM.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/5kWQan0WS4LWHidj2bkcoggHquM.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/503496",
+      "license": "fair_use",
+      "attribution": "Famous Players-Lasky",
+      "is_featured": "False"
+    },
+    {
+      "id": 2599,
+      "media_type": "still",
+      "title": "Mannequin (1926) - Still",
+      "caption": "Scene from Mannequin (1926)",
+      "url": "https://image.tmdb.org/t/p/original/tyb2cAHXUH5UfVHgZSePvvcpCRn.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/tyb2cAHXUH5UfVHgZSePvvcpCRn.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/503496",
+      "license": "fair_use",
+      "attribution": "Famous Players-Lasky",
+      "is_featured": "False"
+    },
+    {
       "id": 477,
       "media_type": "still",
       "title": "Mannequin (1926) - 3.jpg",
       "caption": "Still from the American romantic drama film Mannequin (1926) with Alice Joyce, on page 86 of the January 2, 1926 Motion Picture News.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Mannequin_%281926%29_-_3.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Mannequin_%281926%29_-_3.jpg/300px-Mannequin_%281926%29_-_3.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Mannequin_(1926)_-_3.jpg",
       "license": "public_domain",
       "attribution": "Paramount Pictures",
@@ -65,7 +104,7 @@
       "caption": "Lobby card from the American romantic drama film Mannequin (1926). There are no copyright marks as can be seen at the links. At bottom left is Country of origin USA At bottom right is This lobby display leased from Famous Players Lasky Corporation.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Mannequin_1926_lobby_card.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mannequin_1926_lobby_card.jpg/300px-Mannequin_1926_lobby_card.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Mannequin_1926_lobby_card.jpg",
       "license": "public_domain",
       "attribution": "Paramount Pictures",
@@ -78,7 +117,7 @@
       "caption": "Still from the American romantic drama film Mannequin (1926) with Bess Flowers, on page 40 of the December 12, 1925 Exhibitors Herald. Playing a mannequin, the dress she is wearing was called \"Noir and Rouge.\"",
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Mannequin_%281926%29_-_2.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mannequin_%281926%29_-_2.jpg/300px-Mannequin_%281926%29_-_2.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Mannequin_(1926)_-_2.jpg",
       "license": "public_domain",
       "attribution": "Paramount Pictures",
@@ -91,7 +130,7 @@
       "caption": "Still from the American romantic drama film Mannequin (1926) with Charlotte Bird, on page 40 of the December 12, 1925 Exhibitors Herald. Playing a mannequin, the dress she is wearing was called \"Jazz.\"",
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mannequin_%281926%29_-_1.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mannequin_%281926%29_-_1.jpg/300px-Mannequin_%281926%29_-_1.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Mannequin_(1926)_-_1.jpg",
       "license": "public_domain",
       "attribution": "Paramount Pictures",
@@ -99,7 +138,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 4,
+  "media_count": 7,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:07:23.992664"
+  "last_updated": "2025-08-01T17:09:36.516452"
 }

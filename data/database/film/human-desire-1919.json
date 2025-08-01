@@ -5,7 +5,7 @@
   "formatted_title": "Human Desire",
   "html_title": "<span class=\"film-title\">Human Desire</span>",
   "release_year": 1919,
-  "runtime_minutes": null,
+  "runtime_minutes": 56,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -44,9 +44,101 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4227,
+      "media_type": "poster",
+      "title": "Human Desire (1919) - Poster",
+      "caption": "Theatrical poster for Human Desire (1919)",
+      "url": "https://image.tmdb.org/t/p/original/t4qxiwBRjlLcWaEhmKQjQmluEvr.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/t4qxiwBRjlLcWaEhmKQjQmluEvr.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/513832",
+      "license": "fair_use",
+      "attribution": "Anita Stewart Productions ",
+      "is_featured": "False"
+    },
+    {
+      "id": 1471,
+      "media_type": "advertisement",
+      "title": "Human Desire (1919) - 3.jpg",
+      "caption": "Advertisement for the American film Human Desire (1919) with Anita Stewart, on page 35 of the July 26, 1919 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Human_Desire_%281919%29_-_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Human_Desire_%281919%29_-_3.jpg/300px-Human_Desire_%281919%29_-_3.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Human_Desire_(1919)_-_3.jpg",
+      "license": "public_domain",
+      "attribution": "Anita Stewart Productions / First National",
+      "is_featured": "False"
+    },
+    {
+      "id": 1473,
+      "media_type": "still",
+      "title": "Human Desire (1919) - 1.jpg",
+      "caption": "Still from the American romantic drama film Human Desire (1919) with Anita Stewart, on page 11 of the March 20, 1920 Duluth Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Human_Desire_%281919%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Human_Desire_%281919%29_-_1.jpg/300px-Human_Desire_%281919%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Human_Desire_(1919)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "First National Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 1472,
+      "media_type": "advertisement",
+      "title": "Human Desire (1919) - Ad 1.jpg",
+      "caption": "Ad for the American film Human Desire (1919) with Anita Stewart, on page 1890 of the June 28, 1919 Moving Picture World.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Human_Desire_%281919%29_-_Ad_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Human_Desire_%281919%29_-_Ad_1.jpg/300px-Human_Desire_%281919%29_-_Ad_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Human_Desire_(1919)_-_Ad_1.jpg",
+      "license": "public_domain",
+      "attribution": "Anita Stewart Productions / First National",
+      "is_featured": "False"
+    },
+    {
+      "id": 1474,
+      "media_type": "lobby_card",
+      "title": "Human Desire lobby card.jpg",
+      "caption": "Lobby card for the American romantic drama film Human Desire (1919).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Human_Desire_lobby_card.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Human_Desire_lobby_card.jpg/300px-Human_Desire_lobby_card.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Human_Desire_lobby_card.jpg",
+      "license": "public_domain",
+      "attribution": "First National Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 1469,
+      "media_type": "advertisement",
+      "title": "Human Desire (1919) - Ad 2.jpg",
+      "caption": "Advertisement for the American film Human Desire (1919) with Anita Stewart, on the cover of the June 15, 1919 Film Daily.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Human_Desire_%281919%29_-_Ad_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Human_Desire_%281919%29_-_Ad_2.jpg/300px-Human_Desire_%281919%29_-_Ad_2.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Human_Desire_(1919)_-_Ad_2.jpg",
+      "license": "public_domain",
+      "attribution": "Anita Stewart Productions / First National",
+      "is_featured": "False"
+    },
+    {
+      "id": 1470,
+      "media_type": "advertisement",
+      "title": "Human Desire (1919) - 2.jpg",
+      "caption": "Advertisement for the American film Human Desire (1919) with Anita Stewart, on page 15 of the July 19, 1919 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Human_Desire_%281919%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Human_Desire_%281919%29_-_2.jpg/300px-Human_Desire_%281919%29_-_2.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Human_Desire_(1919)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Anita Stewart Productions / First National",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 7,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:16:45.494595"
+  "last_updated": "2025-08-01T17:04:49.213545"
 }

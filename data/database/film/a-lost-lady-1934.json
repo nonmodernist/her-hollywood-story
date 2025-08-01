@@ -60,9 +60,88 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2819,
+      "media_type": "poster",
+      "title": "A Lost Lady (1934) - Poster",
+      "caption": "Theatrical poster for A Lost Lady (1934)",
+      "url": "https://image.tmdb.org/t/p/original/fvTyOuyOz7JqaOAo2GJz3pdvw6y.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/fvTyOuyOz7JqaOAo2GJz3pdvw6y.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/235678",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "True"
+    },
+    {
+      "id": 2820,
+      "media_type": "poster",
+      "title": "A Lost Lady (1934) - Poster",
+      "caption": "Theatrical poster for A Lost Lady (1934)",
+      "url": "https://image.tmdb.org/t/p/original/lHESoQvVIxYC58mrZOmipYhz6G7.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/lHESoQvVIxYC58mrZOmipYhz6G7.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/235678",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 2821,
+      "media_type": "poster",
+      "title": "A Lost Lady (1934) - Poster",
+      "caption": "Theatrical poster for A Lost Lady (1934)",
+      "url": "https://image.tmdb.org/t/p/original/lTiK8CYfa6GN5ILGo0U4kYlquyK.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/lTiK8CYfa6GN5ILGo0U4kYlquyK.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/235678",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 2822,
+      "media_type": "poster",
+      "title": "A Lost Lady (1934) - Poster",
+      "caption": "Theatrical poster for A Lost Lady (1934)",
+      "url": "https://image.tmdb.org/t/p/original/ugezObYHP2AUidP0Iw03wKK8aJw.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ugezObYHP2AUidP0Iw03wKK8aJw.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/235678",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 2823,
+      "media_type": "poster",
+      "title": "A Lost Lady (1934) - Poster",
+      "caption": "Theatrical poster for A Lost Lady (1934)",
+      "url": "https://image.tmdb.org/t/p/original/vqABDe1SQim5cEd1oFU3dXajl3y.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/vqABDe1SQim5cEd1oFU3dXajl3y.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/235678",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 2824,
+      "media_type": "still",
+      "title": "A Lost Lady (1934) - Still",
+      "caption": "Scene from A Lost Lady (1934)",
+      "url": "https://image.tmdb.org/t/p/original/u1cMkL8qrfbcb3wtO279qH2l3ct.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/u1cMkL8qrfbcb3wtO279qH2l3ct.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/235678",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:04:37.883237"
 }

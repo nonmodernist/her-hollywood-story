@@ -5,7 +5,7 @@
   "formatted_title": "So This is Love",
   "html_title": "<span class=\"film-title\">So This is Love</span>",
   "release_year": 1953,
-  "runtime_minutes": null,
+  "runtime_minutes": 101,
   "country_of_production": "United States",
   "genres": [
     "Musical"
@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4609,
+      "media_type": "poster",
+      "title": "So This is Love (1953) - Poster",
+      "caption": "Theatrical poster for So This is Love (1953)",
+      "url": "https://image.tmdb.org/t/p/original/3sMECAOuWyzJ5P3bwJe5hrC2246.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/3sMECAOuWyzJ5P3bwJe5hrC2246.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/242631",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4610,
+      "media_type": "poster",
+      "title": "So This is Love (1953) - Poster",
+      "caption": "Theatrical poster for So This is Love (1953)",
+      "url": "https://image.tmdb.org/t/p/original/pnTgCNydMuK77HKtgpuyl7MgTot.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/pnTgCNydMuK77HKtgpuyl7MgTot.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/242631",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4611,
+      "media_type": "poster",
+      "title": "So This is Love (1953) - Poster",
+      "caption": "Theatrical poster for So This is Love (1953)",
+      "url": "https://image.tmdb.org/t/p/original/sqCGaBR9ujjeGxQxiy9w6mXskyf.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/sqCGaBR9ujjeGxQxiy9w6mXskyf.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/242631",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4612,
+      "media_type": "still",
+      "title": "So This is Love (1953) - Still",
+      "caption": "Scene from So This is Love (1953)",
+      "url": "https://image.tmdb.org/t/p/original/AsfLRmXuIVKdc3USFamFqqm2vNl.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/AsfLRmXuIVKdc3USFamFqqm2vNl.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/242631",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4613,
+      "media_type": "still",
+      "title": "So This is Love (1953) - Still",
+      "caption": "Scene from So This is Love (1953)",
+      "url": "https://image.tmdb.org/t/p/original/86t1kvOdM6xUpfjRdEPjwa6Jla5.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/86t1kvOdM6xUpfjRdEPjwa6Jla5.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/242631",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:17:27.120298"
+  "last_updated": "2025-08-01T17:13:55.072424"
 }

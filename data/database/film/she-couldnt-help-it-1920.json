@@ -60,9 +60,36 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1777,
+      "media_type": "still",
+      "title": "She Couldn't Help It (1920) - 2.jpg",
+      "caption": "Still from the American comedy film She Couldn't Help It (1920) with Bebe Daniels and Wade Boteler, on page 78 of the January 22, 1921 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/She_Couldn%27t_Help_It_%281920%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/She_Couldn%27t_Help_It_%281920%29_-_2.jpg/300px-She_Couldn%27t_Help_It_%281920%29_-_2.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:She_Couldn't_Help_It_(1920)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Realart Pictures Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 1778,
+      "media_type": "advertisement",
+      "title": "She Couldn't Help It (1920) - 1.jpg",
+      "caption": "Newspaper advertisement for the American comedy film She Couldn't Help It (1920) with Bebe Daniels, on page 13 of the January 20, 1921 Duluth Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/She_Couldn%27t_Help_It_%281920%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/She_Couldn%27t_Help_It_%281920%29_-_1.jpg/300px-She_Couldn%27t_Help_It_%281920%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:She_Couldn't_Help_It_(1920)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Realart Pictures Corporation",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

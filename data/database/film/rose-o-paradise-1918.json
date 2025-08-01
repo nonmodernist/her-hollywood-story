@@ -5,7 +5,7 @@
   "formatted_title": "Rose O' Paradise",
   "html_title": "<span class=\"film-title\">Rose O' Paradise</span>",
   "release_year": 1918,
-  "runtime_minutes": null,
+  "runtime_minutes": 60,
   "country_of_production": "United States",
   "genres": [
     "Melodrama"
@@ -44,9 +44,36 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5146,
+      "media_type": "poster",
+      "title": "Rose O' Paradise (1918) - Poster",
+      "caption": "Theatrical poster for Rose O' Paradise (1918)",
+      "url": "https://image.tmdb.org/t/p/original/eXflKFgQqGuUFen2XjKDvAClNIa.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/eXflKFgQqGuUFen2XjKDvAClNIa.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/379338",
+      "license": "fair_use",
+      "attribution": "Paralta Plays",
+      "is_featured": "False"
+    },
+    {
+      "id": 2298,
+      "media_type": "still",
+      "title": "Rose o' Paradise (1918) - 1.jpg",
+      "caption": "Still from the American drama film Rose o' Paradise (1918) with Bessie Barriscale, on page 21 of the May 18, 1918 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Rose_o%27_Paradise_%281918%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Rose_o%27_Paradise_%281918%29_-_1.jpg/300px-Rose_o%27_Paradise_%281918%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rose_o'_Paradise_(1918)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Paralta Plays Inc. / General Film Company",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:11:00.776549"
+  "last_updated": "2025-08-01T17:04:34.354437"
 }

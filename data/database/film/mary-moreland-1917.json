@@ -44,9 +44,23 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2222,
+      "media_type": "advertisement",
+      "title": "Mary Moreland.jpg",
+      "caption": "Advertisement in Moving Picture World, Jul 1917",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mary_Moreland.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mary_Moreland.jpg/300px-Mary_Moreland.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mary_Moreland.jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:18:12.731347"
+  "last_updated": "2025-08-01T16:15:39.016641"
 }

@@ -44,9 +44,23 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1852,
+      "media_type": "advertisement",
+      "title": "The Heart of Rachael Bessie Barriscale 1918.png",
+      "caption": "ad for The Heart of Rachael (1918), directed by Howard Hickman",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_Heart_of_Rachael_Bessie_Barriscale_1918.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/The_Heart_of_Rachael_Bessie_Barriscale_1918.png/300px-The_Heart_of_Rachael_Bessie_Barriscale_1918.png",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Heart_of_Rachael_Bessie_Barriscale_1918.png",
+      "license": "public_domain",
+      "attribution": "Bessie Barriscale Productions",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

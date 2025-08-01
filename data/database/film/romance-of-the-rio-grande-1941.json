@@ -5,7 +5,7 @@
   "formatted_title": "Romance of the Rio Grande",
   "html_title": "<span class=\"film-title\">Romance of the Rio Grande</span>",
   "release_year": 1941,
-  "runtime_minutes": null,
+  "runtime_minutes": 72,
   "country_of_production": "United States",
   "genres": [
     "Western"
@@ -69,9 +69,36 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4049,
+      "media_type": "poster",
+      "title": "Romance of the Rio Grande (1941) - Poster",
+      "caption": "Theatrical poster for Romance of the Rio Grande (1941)",
+      "url": "https://image.tmdb.org/t/p/original/6mYQwFEmLFyC53TdC55Vu5Nmftc.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/6mYQwFEmLFyC53TdC55Vu5Nmftc.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/224023",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4050,
+      "media_type": "still",
+      "title": "Romance of the Rio Grande (1941) - Still",
+      "caption": "Scene from Romance of the Rio Grande (1941)",
+      "url": "https://image.tmdb.org/t/p/original/66M6q7oo7NxgxrOaMlFAqS8Gd7n.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/66M6q7oo7NxgxrOaMlFAqS8Gd7n.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/224023",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:12:56.148084"
+  "last_updated": "2025-08-01T17:13:45.989527"
 }

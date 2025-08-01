@@ -5,7 +5,7 @@
   "formatted_title": "A Girl of the Limberlost",
   "html_title": "<span class=\"film-title\">A Girl of the Limberlost</span>",
   "release_year": 1934,
-  "runtime_minutes": null,
+  "runtime_minutes": 78,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -80,13 +80,52 @@
   },
   "media": [
     {
+      "id": 2801,
+      "media_type": "poster",
+      "title": "A Girl of the Limberlost (1934) - Poster",
+      "caption": "Theatrical poster for A Girl of the Limberlost (1934)",
+      "url": "https://image.tmdb.org/t/p/original/8AhCWtoAXzoGZ4bIhaCMWQYbAop.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/8AhCWtoAXzoGZ4bIhaCMWQYbAop.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/224247",
+      "license": "fair_use",
+      "attribution": "Monogram",
+      "is_featured": "True"
+    },
+    {
+      "id": 2802,
+      "media_type": "poster",
+      "title": "A Girl of the Limberlost (1934) - Poster",
+      "caption": "Theatrical poster for A Girl of the Limberlost (1934)",
+      "url": "https://image.tmdb.org/t/p/original/uZ2dzG7JWh8wNueoAiIX3KvOyb.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/uZ2dzG7JWh8wNueoAiIX3KvOyb.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/224247",
+      "license": "fair_use",
+      "attribution": "Monogram",
+      "is_featured": "False"
+    },
+    {
+      "id": 2803,
+      "media_type": "still",
+      "title": "A Girl of the Limberlost (1934) - Still",
+      "caption": "Scene from A Girl of the Limberlost (1934)",
+      "url": "https://image.tmdb.org/t/p/original/eHFmxoGWhVoIQS7RQUUd1E6DXAU.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/eHFmxoGWhVoIQS7RQUUd1E6DXAU.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/224247",
+      "license": "fair_use",
+      "attribution": "Monogram",
+      "is_featured": "False"
+    },
+    {
       "id": 636,
       "media_type": "advertisement",
       "title": "Parents' Magazine Award for A Girl of the Limberlost.jpg",
       "caption": "Parents' Magazine Award for A Girl of the Limberlost (1934 film)",
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Parents%27_Magazine_Award_for_A_Girl_of_the_Limberlost.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Parents%27_Magazine_Award_for_A_Girl_of_the_Limberlost.jpg/300px-Parents%27_Magazine_Award_for_A_Girl_of_the_Limberlost.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Parents'_Magazine_Award_for_A_Girl_of_the_Limberlost.jpg",
       "license": "public_domain",
       "attribution": "Monogram Pictures",
@@ -99,7 +138,7 @@
       "caption": "Magazine spread with photos from Monogram Pictures' A Girl of the Limberlost (1934)",
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/The_Girl_of_the_Limberlost_magazine_spread.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Girl_of_the_Limberlost_magazine_spread.jpg/300px-The_Girl_of_the_Limberlost_magazine_spread.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:The_Girl_of_the_Limberlost_magazine_spread.jpg",
       "license": "public_domain",
       "attribution": "Monogram Pictures",
@@ -107,7 +146,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 2,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:09:35.791101"
+  "last_updated": "2025-08-01T17:12:50.781965"
 }

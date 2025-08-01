@@ -5,7 +5,7 @@
   "formatted_title": "Fast Life",
   "html_title": "<span class=\"film-title\">Fast Life</span>",
   "release_year": 1932,
-  "runtime_minutes": null,
+  "runtime_minutes": 82,
   "country_of_production": "United States",
   "genres": [
     "Comedy"
@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4773,
+      "media_type": "poster",
+      "title": "Fast Life (1932) - Poster",
+      "caption": "Theatrical poster for Fast Life (1932)",
+      "url": "https://image.tmdb.org/t/p/original/oGVt8n6CZbEZGFyqxhAZGK6IvkR.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/oGVt8n6CZbEZGFyqxhAZGK6IvkR.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/152570",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 4774,
+      "media_type": "still",
+      "title": "Fast Life (1932) - Still",
+      "caption": "Scene from Fast Life (1932)",
+      "url": "https://image.tmdb.org/t/p/original/dDJdv3LvXk5XZqo9I3YMY2ssqQ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/dDJdv3LvXk5XZqo9I3YMY2ssqQ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/152570",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 1986,
+      "media_type": "production_photo",
+      "title": "Fast Life (SAYRE 14784).jpg",
+      "caption": "Fast Life Subjects (LCTGM): motion pictures, actors, actresses, actors",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Fast_Life_%28SAYRE_14784%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Fast_Life_%28SAYRE_14784%29.jpg/300px-Fast_Life_%28SAYRE_14784%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fast_Life_(SAYRE_14784).jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    },
+    {
+      "id": 1985,
+      "media_type": "production_photo",
+      "title": "Fast Life (SAYRE 14253).jpg",
+      "caption": "Fast Life Subjects (LCTGM): motion pictures, actors, actresses, actors",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Fast_Life_%28SAYRE_14253%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fast_Life_%28SAYRE_14253%29.jpg/300px-Fast_Life_%28SAYRE_14253%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fast_Life_(SAYRE_14253).jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:15:02.907377"
+  "last_updated": "2025-08-01T17:12:45.702647"
 }

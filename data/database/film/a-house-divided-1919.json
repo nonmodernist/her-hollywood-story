@@ -46,13 +46,26 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 3500,
+      "media_type": "poster",
+      "title": "A House Divided (1919) - Poster",
+      "caption": "Theatrical poster for A House Divided (1919)",
+      "url": "https://image.tmdb.org/t/p/original/gDNQAK5FEEF24GGNBC91xBTcjZS.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/gDNQAK5FEEF24GGNBC91xBTcjZS.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/1418977",
+      "license": "fair_use",
+      "attribution": "J. Stuart Blackton Productions",
+      "is_featured": "True"
+    },
+    {
       "id": 951,
       "media_type": "still",
       "title": "A House Divided (1919) - 3.jpg",
       "caption": "Still from the American film A House Divided (1919) with Sylvia Breamer, on page 936 of the May 10, 1919 Moving Picture World.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/A_House_Divided_%281919%29_-_3.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/A_House_Divided_%281919%29_-_3.jpg/300px-A_House_Divided_%281919%29_-_3.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:A_House_Divided_(1919)_-_3.jpg",
       "license": "public_domain",
       "attribution": "J. Stuart Blackton Feature Pictures",
@@ -65,7 +78,7 @@
       "caption": "Still from the American film A House Divided (1919) with Herbert Rawlinson and Sylvia Breamer, on page 565 of the April 26, 1919 Moving Picture World.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/A_House_Divided_%281919%29_-_2.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A_House_Divided_%281919%29_-_2.jpg/300px-A_House_Divided_%281919%29_-_2.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:A_House_Divided_(1919)_-_2.jpg",
       "license": "public_domain",
       "attribution": "J. Stuart Blackton Feature Pictures",
@@ -78,7 +91,7 @@
       "caption": "Still from the American film A House Divided (1919) with Herbert Rawlinson, Lawrence Grossmith, and Sylvia Breamer, on page 661 of the February 1, 1919 Moving Picture World.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/A_House_Divided_%281919%29_-_1.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/A_House_Divided_%281919%29_-_1.jpg/300px-A_House_Divided_%281919%29_-_1.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:A_House_Divided_(1919)_-_1.jpg",
       "license": "public_domain",
       "attribution": "J. Stuart Blackton Feature Pictures",
@@ -91,7 +104,7 @@
       "caption": "Advertisement in Moving Picture World, May 1919 for A House Divided (1919).",
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/A_House_Divided.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/A_House_Divided.jpg/300px-A_House_Divided.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:A_House_Divided.jpg",
       "license": "public_domain",
       "attribution": "J. Stuart Blackton Feature Pictures / Film Clearing House",
@@ -99,7 +112,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 4,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:09:46.134065"
+  "last_updated": "2025-08-01T16:07:04.731517"
 }

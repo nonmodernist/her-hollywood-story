@@ -5,7 +5,7 @@
   "formatted_title": "It's a Great Life",
   "html_title": "<span class=\"film-title\">It's a Great Life</span>",
   "release_year": 1920,
-  "runtime_minutes": null,
+  "runtime_minutes": 60,
   "country_of_production": "United States",
   "genres": [
     "Comedy"
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4823,
+      "media_type": "poster",
+      "title": "It's a Great Life (1920) - Poster",
+      "caption": "Theatrical poster for It's a Great Life (1920)",
+      "url": "https://image.tmdb.org/t/p/original/vxgunb7aoDGTNfJ2DBdvkSQoAkt.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/vxgunb7aoDGTNfJ2DBdvkSQoAkt.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/744183",
+      "license": "fair_use",
+      "attribution": "Eminent Authors Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 4824,
+      "media_type": "still",
+      "title": "It's a Great Life (1920) - Still",
+      "caption": "Scene from It's a Great Life (1920)",
+      "url": "https://image.tmdb.org/t/p/original/sJ9iwbnLDPBlJrwRcvW78A3gAXD.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/sJ9iwbnLDPBlJrwRcvW78A3gAXD.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/744183",
+      "license": "fair_use",
+      "attribution": "Eminent Authors Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2044,
+      "media_type": "still",
+      "title": "It's a Great Life (1920) 1.jpg",
+      "caption": "Cullen Landis and Clara Horton in the film It's a Great Life - cropped screenshot",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/It%27s_a_Great_Life_%281920%29_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/It%27s_a_Great_Life_%281920%29_1.jpg/300px-It%27s_a_Great_Life_%281920%29_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:It's_a_Great_Life_(1920)_1.jpg",
+      "license": "public_domain",
+      "attribution": "film screenshot (Eminent Authors Pictures Inc. / Goldwyn Distributing Company)",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:14:43.639606"
+  "last_updated": "2025-08-01T17:04:51.083803"
 }

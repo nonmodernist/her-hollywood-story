@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1916,
+      "media_type": "still",
+      "title": "The Island of Intrigue (1919) - 1.jpg",
+      "caption": "Still from the American film The Island of Intrigue (1919) with Jack Mower and May Allison, on page 43 of the April 5, 1919 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/The_Island_of_Intrigue_%281919%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/The_Island_of_Intrigue_%281919%29_-_1.jpg/300px-The_Island_of_Intrigue_%281919%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Island_of_Intrigue_(1919)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Metro Pictures Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 1917,
+      "media_type": "still",
+      "title": "The Island of Intrigue (1919) - 2.jpg",
+      "caption": "Still from the American film The Island of Intrigue (1919) with May Allison, Jack Mower, and two unidentified actors, on page 48 of the May 3, 1919 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/The_Island_of_Intrigue_%281919%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/The_Island_of_Intrigue_%281919%29_-_2.jpg/300px-The_Island_of_Intrigue_%281919%29_-_2.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Island_of_Intrigue_(1919)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Metro Pictures Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 1918,
+      "media_type": "advertisement",
+      "title": "The Island of Intrigue (1919) - Ad 1.jpg",
+      "caption": "Ad for the American film The Island of Intrigue (1919) with May Allison and an unidentified actor, on page 155 of the April 12, 1919 Moving Picture World.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/The_Island_of_Intrigue_%281919%29_-_Ad_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/The_Island_of_Intrigue_%281919%29_-_Ad_1.jpg/300px-The_Island_of_Intrigue_%281919%29_-_Ad_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Island_of_Intrigue_(1919)_-_Ad_1.jpg",
+      "license": "public_domain",
+      "attribution": "Metro Pictures Corporation",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:17:28.304489"
+  "last_updated": "2025-08-01T16:13:21.141149"
 }

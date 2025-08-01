@@ -78,9 +78,75 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4947,
+      "media_type": "poster",
+      "title": "Five Little Peppers and How They Grew (1939) - Poster",
+      "caption": "Theatrical poster for Five Little Peppers and How They Grew (1939)",
+      "url": "https://image.tmdb.org/t/p/original/tmIDy1ANrFSnt6mdxq1F7TfVWbg.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/tmIDy1ANrFSnt6mdxq1F7TfVWbg.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/239023",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "True"
+    },
+    {
+      "id": 4948,
+      "media_type": "poster",
+      "title": "Five Little Peppers and How They Grew (1939) - Poster",
+      "caption": "Theatrical poster for Five Little Peppers and How They Grew (1939)",
+      "url": "https://image.tmdb.org/t/p/original/96JTkW8TFdGmGbjxHv1ON2EXlAO.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/96JTkW8TFdGmGbjxHv1ON2EXlAO.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/239023",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    },
+    {
+      "id": 4949,
+      "media_type": "poster",
+      "title": "Five Little Peppers and How They Grew (1939) - Poster",
+      "caption": "Theatrical poster for Five Little Peppers and How They Grew (1939)",
+      "url": "https://image.tmdb.org/t/p/original/zIqFYGTxmJgIlJniHlRUMHntwRF.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/zIqFYGTxmJgIlJniHlRUMHntwRF.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/239023",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    },
+    {
+      "id": 4950,
+      "media_type": "still",
+      "title": "Five Little Peppers and How They Grew (1939) - Still",
+      "caption": "Scene from Five Little Peppers and How They Grew (1939)",
+      "url": "https://image.tmdb.org/t/p/original/xrPFZgeeMonaVV0gIlqAbAE3gkX.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/xrPFZgeeMonaVV0gIlqAbAE3gkX.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/239023",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    },
+    {
+      "id": 4951,
+      "media_type": "still",
+      "title": "Five Little Peppers and How They Grew (1939) - Still",
+      "caption": "Scene from Five Little Peppers and How They Grew (1939)",
+      "url": "https://image.tmdb.org/t/p/original/tW6cl8W2QuWq1sR5A6uno85lQP5.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/tW6cl8W2QuWq1sR5A6uno85lQP5.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/239023",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:14:53.333752"
 }

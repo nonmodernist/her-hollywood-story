@@ -61,9 +61,88 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4224,
+      "media_type": "poster",
+      "title": "Chip of the Flying U (1926) - Poster",
+      "caption": "Theatrical poster for Chip of the Flying U (1926)",
+      "url": "https://image.tmdb.org/t/p/original/dddERLi1FGOvG3CS300AOpFVSVz.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dddERLi1FGOvG3CS300AOpFVSVz.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/288739",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "True"
+    },
+    {
+      "id": 4225,
+      "media_type": "still",
+      "title": "Chip of the Flying U (1926) - Still",
+      "caption": "Scene from Chip of the Flying U (1926)",
+      "url": "https://image.tmdb.org/t/p/original/laHfB0QMq7zU7vNwgITVVYom4xg.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/laHfB0QMq7zU7vNwgITVVYom4xg.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/288739",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "False"
+    },
+    {
+      "id": 1463,
+      "media_type": "still",
+      "title": "Chip of the Flying U (1926) - 1.jpg",
+      "caption": "Still from the American comedy western film Chip of the Flying U (1926) with Virginia Brown Faire and Hoot Gibson, on page 23 of the June 1926 Film Fun.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Chip_of_the_Flying_U_%281926%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Chip_of_the_Flying_U_%281926%29_-_1.jpg/300px-Chip_of_the_Flying_U_%281926%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Chip_of_the_Flying_U_(1926)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 1464,
+      "media_type": "still",
+      "title": "Chip of the Flying U (1926) - 2.jpg",
+      "caption": "Production still from the American comedy western film Chip of the Flying U (1926) with author Bertha Muzzy Sinclair aka B. M. Bower and Hoot Gibson, on page 293 of the July 24, 1926 Motion Picture News.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Chip_of_the_Flying_U_%281926%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Chip_of_the_Flying_U_%281926%29_-_2.jpg/300px-Chip_of_the_Flying_U_%281926%29_-_2.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Chip_of_the_Flying_U_(1926)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 1465,
+      "media_type": "lobby_card",
+      "title": "Chip of the Flying U lobby card.jpg",
+      "caption": "Lobby card for the American comedy western film Chip of the Flying U (1926).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Chip_of_the_Flying_U_lobby_card.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Chip_of_the_Flying_U_lobby_card.jpg/300px-Chip_of_the_Flying_U_lobby_card.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Chip_of_the_Flying_U_lobby_card.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 1466,
+      "media_type": "poster",
+      "title": "Chip of the Flying U poster.jpg",
+      "caption": "Poster for the American comedy western film Chip of the Flying U (1926).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Chip_of_the_Flying_U_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Chip_of_the_Flying_U_poster.jpg/300px-Chip_of_the_Flying_U_poster.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Chip_of_the_Flying_U_poster.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:10:51.839164"
 }

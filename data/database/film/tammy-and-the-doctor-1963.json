@@ -60,9 +60,114 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5017,
+      "media_type": "poster",
+      "title": "Tammy and the Doctor (1963) - Poster",
+      "caption": "Theatrical poster for Tammy and the Doctor (1963)",
+      "url": "https://image.tmdb.org/t/p/original/eGC9ND9f0k0JDqTrfFLr3NIVe6E.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/eGC9ND9f0k0JDqTrfFLr3NIVe6E.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/68720",
+      "license": "fair_use",
+      "attribution": "Ross Hunter Productions",
+      "is_featured": "True"
+    },
+    {
+      "id": 5018,
+      "media_type": "poster",
+      "title": "Tammy and the Doctor (1963) - Poster",
+      "caption": "Theatrical poster for Tammy and the Doctor (1963)",
+      "url": "https://image.tmdb.org/t/p/original/60WoG3furfrt6KyN6tkoURnAuxI.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/60WoG3furfrt6KyN6tkoURnAuxI.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/68720",
+      "license": "fair_use",
+      "attribution": "Ross Hunter Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 5019,
+      "media_type": "poster",
+      "title": "Tammy and the Doctor (1963) - Poster",
+      "caption": "Theatrical poster for Tammy and the Doctor (1963)",
+      "url": "https://image.tmdb.org/t/p/original/p0i8hwp2t40nz5DlryEt4ZoNHjc.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/p0i8hwp2t40nz5DlryEt4ZoNHjc.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/68720",
+      "license": "fair_use",
+      "attribution": "Ross Hunter Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 5020,
+      "media_type": "still",
+      "title": "Tammy and the Doctor (1963) - Still",
+      "caption": "Scene from Tammy and the Doctor (1963)",
+      "url": "https://image.tmdb.org/t/p/original/npmePtR5Cm07GksQD38i2WYGi8Z.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/npmePtR5Cm07GksQD38i2WYGi8Z.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/68720",
+      "license": "fair_use",
+      "attribution": "Ross Hunter Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 5021,
+      "media_type": "still",
+      "title": "Tammy and the Doctor (1963) - Still",
+      "caption": "Scene from Tammy and the Doctor (1963)",
+      "url": "https://image.tmdb.org/t/p/original/u2Fg4UTelZSS6hbaao3r8Zmcieo.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/u2Fg4UTelZSS6hbaao3r8Zmcieo.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/68720",
+      "license": "fair_use",
+      "attribution": "Ross Hunter Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 2172,
+      "media_type": "production_photo",
+      "title": "Peter Fonda 1962. Promo Photo (Tammy and the Doctor) (cropped).jpg",
+      "caption": "Peter Fonda pictured in 1962 for his film debut in Tammy and the Doctor, released in 1963. Promo Photo, 8x10 inches",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Peter_Fonda_1962._Promo_Photo_%28Tammy_and_the_Doctor%29_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Peter_Fonda_1962._Promo_Photo_%28Tammy_and_the_Doctor%29_%28cropped%29.jpg/300px-Peter_Fonda_1962._Promo_Photo_%28Tammy_and_the_Doctor%29_%28cropped%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Peter_Fonda_1962._Promo_Photo_(Tammy_and_the_Doctor)_(cropped).jpg",
+      "license": "public_domain",
+      "attribution": "Universal Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2171,
+      "media_type": "production_photo",
+      "title": "Peter Fonda 1962. Promo Photo (Tammy and the Doctor) (no borders).jpg",
+      "caption": "Peter Fonda pictured in 1962 for his film debut in Tammy and the Doctor, released in 1963. Promo Photo, 8x10 inches",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Peter_Fonda_1962._Promo_Photo_%28Tammy_and_the_Doctor%29_%28no_borders%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Peter_Fonda_1962._Promo_Photo_%28Tammy_and_the_Doctor%29_%28no_borders%29.jpg/300px-Peter_Fonda_1962._Promo_Photo_%28Tammy_and_the_Doctor%29_%28no_borders%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Peter_Fonda_1962._Promo_Photo_(Tammy_and_the_Doctor)_(no_borders).jpg",
+      "license": "public_domain",
+      "attribution": "Universal Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2173,
+      "media_type": "production_photo",
+      "title": "Peter Fonda 1962. Promo Photo (Tammy and the Doctor).jpg",
+      "caption": "Peter Fonda pictured in 1962 for his film debut in Tammy and the Doctor, released in 1963. Promo Photo, 8x10 inches",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Peter_Fonda_1962._Promo_Photo_%28Tammy_and_the_Doctor%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Peter_Fonda_1962._Promo_Photo_%28Tammy_and_the_Doctor%29.jpg/300px-Peter_Fonda_1962._Promo_Photo_%28Tammy_and_the_Doctor%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Peter_Fonda_1962._Promo_Photo_(Tammy_and_the_Doctor).jpg",
+      "license": "public_domain",
+      "attribution": "Universal Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 8,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:15:10.803682"
 }

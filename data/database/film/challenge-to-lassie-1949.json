@@ -60,9 +60,88 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3163,
+      "media_type": "poster",
+      "title": "Challenge to Lassie (1949) - Poster",
+      "caption": "Theatrical poster for Challenge to Lassie (1949)",
+      "url": "https://image.tmdb.org/t/p/original/wUNmG2x2U71fzzCFkdiEwAXSlAo.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/wUNmG2x2U71fzzCFkdiEwAXSlAo.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43398",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "True"
+    },
+    {
+      "id": 3164,
+      "media_type": "poster",
+      "title": "Challenge to Lassie (1949) - Poster",
+      "caption": "Theatrical poster for Challenge to Lassie (1949)",
+      "url": "https://image.tmdb.org/t/p/original/8fq7DAO0Ejtk0VmjNkumashDimr.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/8fq7DAO0Ejtk0VmjNkumashDimr.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43398",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3165,
+      "media_type": "poster",
+      "title": "Challenge to Lassie (1949) - Poster",
+      "caption": "Theatrical poster for Challenge to Lassie (1949)",
+      "url": "https://image.tmdb.org/t/p/original/189H7Ho8wCVgVX11Q6X4reVu6iy.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/189H7Ho8wCVgVX11Q6X4reVu6iy.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43398",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3166,
+      "media_type": "still",
+      "title": "Challenge to Lassie (1949) - Still",
+      "caption": "Scene from Challenge to Lassie (1949)",
+      "url": "https://image.tmdb.org/t/p/original/x2n4DGnGsXdRyuOrWDHkWnudlaW.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/x2n4DGnGsXdRyuOrWDHkWnudlaW.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43398",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3167,
+      "media_type": "still",
+      "title": "Challenge to Lassie (1949) - Still",
+      "caption": "Scene from Challenge to Lassie (1949)",
+      "url": "https://image.tmdb.org/t/p/original/2SGzC9hFHFAQzzk4bswtiDANgEg.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/2SGzC9hFHFAQzzk4bswtiDANgEg.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43398",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3168,
+      "media_type": "still",
+      "title": "Challenge to Lassie (1949) - Still",
+      "caption": "Scene from Challenge to Lassie (1949)",
+      "url": "https://image.tmdb.org/t/p/original/4IT4eKzpP9JuoRNCe69OjpJvacH.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/4IT4eKzpP9JuoRNCe69OjpJvacH.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43398",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:05:54.908989"
 }

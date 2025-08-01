@@ -5,7 +5,7 @@
   "formatted_title": "On Your Back",
   "html_title": "<span class=\"film-title\">On Your Back</span>",
   "release_year": 1930,
-  "runtime_minutes": null,
+  "runtime_minutes": 70,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5120,
+      "media_type": "poster",
+      "title": "On Your Back (1930) - Poster",
+      "caption": "Theatrical poster for On Your Back (1930)",
+      "url": "https://image.tmdb.org/t/p/original/7ba27HFOIDQ0bbs2WmqcAGq2bYH.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/7ba27HFOIDQ0bbs2WmqcAGq2bYH.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/412315",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "False"
+    },
+    {
+      "id": 2260,
+      "media_type": "poster",
+      "title": "To the women of Britain. Some of your men folk are holding back on your account. Won't you prove your love for your country by persuading them to go? LCCN2003663158.jpg",
+      "caption": "Title: To the women of Britain. Some of your men folk are holding back on your account. Won't you prove your love for your country by persuading them to go? Physical description: 1 print (poster) : lithograph, color ; 74 x 50 cm. Notes: The Romwell Press, Strand, London.; Poster no. 55.; Poster is text only.; Title from item.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/To_the_women_of_Britain._Some_of_your_men_folk_are_holding_back_on_your_account._Won%27t_you_prove_your_love_for_your_country_by_persuading_them_to_go%3F_LCCN2003663158.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/To_the_women_of_Britain._Some_of_your_men_folk_are_holding_back_on_your_account._Won%27t_you_prove_your_love_for_your_country_by_persuading_them_to_go%3F_LCCN2003663158.jpg/300px-To_the_women_of_Britain._Some_of_your_men_folk_are_holding_back_on_your_account._Won%27t_you_prove_your_love_for_your_country_by_persuading_them_to_go%3F_LCCN2003663158.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:To_the_women_of_Britain._Some_of_your_men_folk_are_holding_back_on_your_account._Won't_you_prove_your_love_for_your_country_by_persuading_them_to_go?_LCCN2003663158.jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    },
+    {
+      "id": 2259,
+      "media_type": "production_photo",
+      "title": "Silent film juvenile Farina in \"Your Own Back Yard\" (SAYRE 805).jpg",
+      "caption": "Silent film juvenile Fariha in \"Your Own Back Yard.\" Subjects (LCTGM): children as actors, motion pictures",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Silent_film_juvenile_Farina_in_%22Your_Own_Back_Yard%22_%28SAYRE_805%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Silent_film_juvenile_Farina_in_%22Your_Own_Back_Yard%22_%28SAYRE_805%29.jpg/300px-Silent_film_juvenile_Farina_in_%22Your_Own_Back_Yard%22_%28SAYRE_805%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Silent_film_juvenile_Farina_in_\"Your_Own_Back_Yard\"_(SAYRE_805).jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:11:10.997986"
+  "last_updated": "2025-08-01T17:12:38.332596"
 }

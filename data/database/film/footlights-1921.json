@@ -5,7 +5,7 @@
   "formatted_title": "Footlights",
   "html_title": "<span class=\"film-title\">Footlights</span>",
   "release_year": 1921,
-  "runtime_minutes": null,
+  "runtime_minutes": 70,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -60,9 +60,88 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5116,
+      "media_type": "poster",
+      "title": "Footlights (1921) - Poster",
+      "caption": "Theatrical poster for Footlights (1921)",
+      "url": "https://image.tmdb.org/t/p/original/gG8lMcU0Bj3WHiP64J2wC3nY2o7.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/gG8lMcU0Bj3WHiP64J2wC3nY2o7.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/602595",
+      "license": "fair_use",
+      "attribution": "Famous Players-Lasky",
+      "is_featured": "False"
+    },
+    {
+      "id": 2249,
+      "media_type": "advertisement",
+      "title": "Footlights (1921) - 1.jpg",
+      "caption": "Advertisement for the American romantic drama film Footlights (1921) with Elsie Ferguson and Reginald Denny, on page 14 of the September 24, 1921 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Footlights_%281921%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Footlights_%281921%29_-_1.jpg/300px-Footlights_%281921%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Footlights_(1921)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2250,
+      "media_type": "production_photo",
+      "title": "Footlights-1921-Elsie Ferguson publicity face.jpg",
+      "caption": "Footlights is a 1921 American silent film romantic drama directed by John S. Robertson.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Footlights-1921-Elsie_Ferguson_publicity_face.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Footlights-1921-Elsie_Ferguson_publicity_face.jpg/300px-Footlights-1921-Elsie_Ferguson_publicity_face.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Footlights-1921-Elsie_Ferguson_publicity_face.jpg",
+      "license": "public_domain",
+      "attribution": "paramount pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2251,
+      "media_type": "production_photo",
+      "title": "Elsie-ferguson-oldphoto-Footlights-publicity-1921.jpg",
+      "caption": "Publicity photo for the 1921 film Footlights",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Elsie-ferguson-oldphoto-Footlights-publicity-1921.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Elsie-ferguson-oldphoto-Footlights-publicity-1921.jpg/300px-Elsie-ferguson-oldphoto-Footlights-publicity-1921.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Elsie-ferguson-oldphoto-Footlights-publicity-1921.jpg",
+      "license": "public_domain",
+      "attribution": "paramount pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2252,
+      "media_type": "still",
+      "title": "Elsie Ferguson in Footlights.jpg",
+      "caption": "Elsie Ferguson in the American film Footlights (1921) - publicity still (original image damaged, modified and cropped : see source)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Elsie_Ferguson_in_Footlights.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Elsie_Ferguson_in_Footlights.jpg/300px-Elsie_Ferguson_in_Footlights.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Elsie_Ferguson_in_Footlights.jpg",
+      "license": "public_domain",
+      "attribution": "unknown (Famous Players-Lasky)",
+      "is_featured": "False"
+    },
+    {
+      "id": 2248,
+      "media_type": "still",
+      "title": "Footlights (1921) - Ferguson & Denny.jpg",
+      "caption": "Still from the American silent film Footlights (1921) with Elsie Ferguson and Reginald Denny, page 59 of the October 1921 Photoplay.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Footlights_%281921%29_-_Ferguson_%26_Denny.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Footlights_%281921%29_-_Ferguson_%26_Denny.jpg/300px-Footlights_%281921%29_-_Ferguson_%26_Denny.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Footlights_(1921)_-_Ferguson_&_Denny.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:15:48.705444"
+  "last_updated": "2025-08-01T17:09:23.770367"
 }

@@ -5,7 +5,7 @@
   "formatted_title": "3-Ring Marriage",
   "html_title": "<span class=\"film-title\">3-Ring Marriage</span>",
   "release_year": 1928,
-  "runtime_minutes": null,
+  "runtime_minutes": 60,
   "country_of_production": "United States",
   "genres": [
     "Melodrama"
@@ -44,9 +44,88 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5193,
+      "media_type": "poster",
+      "title": "3-Ring Marriage (1928) - Poster",
+      "caption": "Theatrical poster for 3-Ring Marriage (1928)",
+      "url": "https://image.tmdb.org/t/p/original/8fgbsoczGVfUBtGYQqPTP2PzBnB.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/8fgbsoczGVfUBtGYQqPTP2PzBnB.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/533233",
+      "license": "fair_use",
+      "attribution": "First National",
+      "is_featured": "False"
+    },
+    {
+      "id": 5194,
+      "media_type": "poster",
+      "title": "3-Ring Marriage (1928) - Poster",
+      "caption": "Theatrical poster for 3-Ring Marriage (1928)",
+      "url": "https://image.tmdb.org/t/p/original/7frS5PXqgrfFgQ2krroytVKZxn8.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/7frS5PXqgrfFgQ2krroytVKZxn8.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/533233",
+      "license": "fair_use",
+      "attribution": "First National",
+      "is_featured": "False"
+    },
+    {
+      "id": 5195,
+      "media_type": "still",
+      "title": "3-Ring Marriage (1928) - Still",
+      "caption": "Scene from 3-Ring Marriage (1928)",
+      "url": "https://image.tmdb.org/t/p/original/6p8dBvvTZG3DR46o849KekOfakd.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/6p8dBvvTZG3DR46o849KekOfakd.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/533233",
+      "license": "fair_use",
+      "attribution": "First National",
+      "is_featured": "False"
+    },
+    {
+      "id": 2317,
+      "media_type": "lobby_card",
+      "title": "Three Ring Marriage lobby card 2.jpg",
+      "caption": "Lobby card for the American drama film Three Ring Marriage (1928) aka The 3-Ring Marriage with Lloyd Hughes, Mary Astor, Yola d'Avril, and Harry Earles (aka Harry Doll Earles).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Three_Ring_Marriage_lobby_card_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Three_Ring_Marriage_lobby_card_2.jpg/300px-Three_Ring_Marriage_lobby_card_2.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Three_Ring_Marriage_lobby_card_2.jpg",
+      "license": "public_domain",
+      "attribution": "First National Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2318,
+      "media_type": "lobby_card",
+      "title": "Three Ring Marriage lobby card.jpg",
+      "caption": "Lobby card for the American drama film Three Ring Marriage (1928) aka The 3-Ring Marriage with Lloyd Hughes and Mary Astor.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Three_Ring_Marriage_lobby_card.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Three_Ring_Marriage_lobby_card.jpg/300px-Three_Ring_Marriage_lobby_card.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Three_Ring_Marriage_lobby_card.jpg",
+      "license": "public_domain",
+      "attribution": "First National Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2316,
+      "media_type": "poster",
+      "title": "Three Ring Marriage poster.jpg",
+      "caption": "Poster for the American drama film Three Ring Marriage (1928) aka The 3-Ring Marriage with Lloyd Hughes and Mary Astor.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Three_Ring_Marriage_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Three_Ring_Marriage_poster.jpg/300px-Three_Ring_Marriage_poster.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Three_Ring_Marriage_poster.jpg",
+      "license": "public_domain",
+      "attribution": "First National Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:18:10.413178"
+  "last_updated": "2025-08-01T17:12:32.641834"
 }

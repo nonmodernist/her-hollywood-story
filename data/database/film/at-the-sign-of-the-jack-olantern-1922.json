@@ -5,7 +5,7 @@
   "formatted_title": "At the Sign of the Jack O'Lantern",
   "html_title": "<span class=\"film-title\">At the Sign of the Jack O'Lantern</span>",
   "release_year": 1922,
-  "runtime_minutes": null,
+  "runtime_minutes": 60,
   "country_of_production": "United States",
   "genres": [
     "Comedy"
@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4777,
+      "media_type": "poster",
+      "title": "At the Sign of the Jack O'Lantern (1922) - Poster",
+      "caption": "Theatrical poster for At the Sign of the Jack O'Lantern (1922)",
+      "url": "https://image.tmdb.org/t/p/original/u7n2KmvREJWPvg6oQ8Es1T0G0rH.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/u7n2KmvREJWPvg6oQ8Es1T0G0rH.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/456045",
+      "license": "fair_use",
+      "attribution": "Renco Film",
+      "is_featured": "False"
+    },
+    {
+      "id": 1996,
+      "media_type": "still",
+      "title": "At the Sign of the Jack O'Lantern (1922) - 1.jpg",
+      "caption": "Still from the American film At the Sign of the Jack O'Lantern (1922) with Betty Ross Clarke and Earl Schenck, on page 54 of the January 21, 1922 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/At_the_Sign_of_the_Jack_O%27Lantern_%281922%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/At_the_Sign_of_the_Jack_O%27Lantern_%281922%29_-_1.jpg/300px-At_the_Sign_of_the_Jack_O%27Lantern_%281922%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:At_the_Sign_of_the_Jack_O'Lantern_(1922)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Renco Film Co. / W. W. Hodkinson Corp.",
+      "is_featured": "False"
+    },
+    {
+      "id": 1995,
+      "media_type": "still",
+      "title": "At the Sign of the Jack O'Lantern (1922) - 2.jpg",
+      "caption": "Still from the American film At the Sign of the Jack O'Lantern (1922) with Betty Ross Clarke, on page 77 of the February 11, 1922 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/At_the_Sign_of_the_Jack_O%27Lantern_%281922%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/At_the_Sign_of_the_Jack_O%27Lantern_%281922%29_-_2.jpg/300px-At_the_Sign_of_the_Jack_O%27Lantern_%281922%29_-_2.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:At_the_Sign_of_the_Jack_O'Lantern_(1922)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Renco Film Co. / W. W. Hodkinson Corp.",
+      "is_featured": "False"
+    },
+    {
+      "id": 1997,
+      "media_type": "production_photo",
+      "title": "At the Sign of the Jack O'Lantern 1922 silent film.jpg",
+      "caption": "Photo of actors from the American film At the Sign of the Jack O'Lantern (1922) on page 13 of the April 1922 issue of Motion Picture News Booking Guide. Picture cropped from page 13. Other information Photo of actors from the American film At the Sign of the Jack O'Lantern (1922) on page 13 of the April 1922 issue of Motion Picture News Booking Guide. Picture cropped from page 13.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/At_the_Sign_of_the_Jack_O%27Lantern_1922_silent_film.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/At_the_Sign_of_the_Jack_O%27Lantern_1922_silent_film.jpg/300px-At_the_Sign_of_the_Jack_O%27Lantern_1922_silent_film.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:At_the_Sign_of_the_Jack_O'Lantern_1922_silent_film.jpg",
+      "license": "public_domain",
+      "attribution": "W. W. Hodkinson Corp. (Life time: unknown)",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:17:54.865875"
+  "last_updated": "2025-08-01T17:09:25.71951"
 }

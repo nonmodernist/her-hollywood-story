@@ -5,7 +5,7 @@
   "formatted_title": "While the Patient Slept",
   "html_title": "<span class=\"film-title\">While the Patient Slept</span>",
   "release_year": 1935,
-  "runtime_minutes": null,
+  "runtime_minutes": 66,
   "country_of_production": "United States",
   "genres": [
     "Mystery"
@@ -60,9 +60,36 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3872,
+      "media_type": "poster",
+      "title": "While the Patient Slept (1935) - Poster",
+      "caption": "Theatrical poster for While the Patient Slept (1935)",
+      "url": "https://image.tmdb.org/t/p/original/xhnJtYefuY5xPVMrVcQsGAhOAf3.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/xhnJtYefuY5xPVMrVcQsGAhOAf3.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/156970",
+      "license": "fair_use",
+      "attribution": "First National",
+      "is_featured": "True"
+    },
+    {
+      "id": 3873,
+      "media_type": "still",
+      "title": "While the Patient Slept (1935) - Still",
+      "caption": "Scene from While the Patient Slept (1935)",
+      "url": "https://image.tmdb.org/t/p/original/qoMtVy8GOpGezLbJZuKdAsAd0mD.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/qoMtVy8GOpGezLbJZuKdAsAd0mD.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/156970",
+      "license": "fair_use",
+      "attribution": "First National",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:12:11.376403"
+  "last_updated": "2025-08-01T17:13:32.157874"
 }

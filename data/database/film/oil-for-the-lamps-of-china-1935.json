@@ -60,9 +60,62 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4185,
+      "media_type": "poster",
+      "title": "Oil for the Lamps of China (1935) - Poster",
+      "caption": "Theatrical poster for Oil for the Lamps of China (1935)",
+      "url": "https://image.tmdb.org/t/p/original/5izZfC7iKfmjpvQ1gS9AUON1Zps.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/5izZfC7iKfmjpvQ1gS9AUON1Zps.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/234136",
+      "license": "fair_use",
+      "attribution": "First National",
+      "is_featured": "True"
+    },
+    {
+      "id": 4186,
+      "media_type": "still",
+      "title": "Oil for the Lamps of China (1935) - Still",
+      "caption": "Scene from Oil for the Lamps of China (1935)",
+      "url": "https://image.tmdb.org/t/p/original/skiG5gXEIOKOrNB1cNyDcdyfRVj.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/skiG5gXEIOKOrNB1cNyDcdyfRVj.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/234136",
+      "license": "fair_use",
+      "attribution": "First National",
+      "is_featured": "False"
+    },
+    {
+      "id": 4187,
+      "media_type": "still",
+      "title": "Oil for the Lamps of China (1935) - Still",
+      "caption": "Scene from Oil for the Lamps of China (1935)",
+      "url": "https://image.tmdb.org/t/p/original/pWpbkVJOWn6bsmSb1H1Sf9IGarm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/pWpbkVJOWn6bsmSb1H1Sf9IGarm.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/234136",
+      "license": "fair_use",
+      "attribution": "First National",
+      "is_featured": "False"
+    },
+    {
+      "id": 4188,
+      "media_type": "still",
+      "title": "Oil for the Lamps of China (1935) - Still",
+      "caption": "Scene from Oil for the Lamps of China (1935)",
+      "url": "https://image.tmdb.org/t/p/original/eG9TQyTiAZJX92nKuoJ0mbjvyk9.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/eG9TQyTiAZJX92nKuoJ0mbjvyk9.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/234136",
+      "license": "fair_use",
+      "attribution": "First National",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:10:37.864505"
 }

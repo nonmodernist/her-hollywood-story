@@ -60,9 +60,36 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1991,
+      "media_type": "still",
+      "title": "Too Many Crooks (1919) - 1.jpg",
+      "caption": "Still from the American comedy film Too Many Crooks (1919) with two unidentified actors, Anders Randolf, Gladys Leslie, Thomas J. McGrane (?), and Jean Paige, on page 1667 of the June 14, 1919 Moving Picture World.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Too_Many_Crooks_%281919%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Too_Many_Crooks_%281919%29_-_1.jpg/300px-Too_Many_Crooks_%281919%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Too_Many_Crooks_(1919)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Vitagraph Company of America",
+      "is_featured": "False"
+    },
+    {
+      "id": 1992,
+      "media_type": "still",
+      "title": "Too Many Crooks (1919) - 2.jpg",
+      "caption": "Still from the American comedy film Too Many Crooks (1919) with Gladys Leslie and Jean Paige, the actors not identified, on page 52 of the June 28, 1919 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Too_Many_Crooks_%281919%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Too_Many_Crooks_%281919%29_-_2.jpg/300px-Too_Many_Crooks_%281919%29_-_2.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Too_Many_Crooks_(1919)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Vitagraph Company of America",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:14:38.075468"
+  "last_updated": "2025-08-01T16:13:46.798127"
 }

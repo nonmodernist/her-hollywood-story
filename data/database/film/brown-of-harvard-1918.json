@@ -5,7 +5,7 @@
   "formatted_title": "Brown of Harvard",
   "html_title": "<span class=\"film-title\">Brown of Harvard</span>",
   "release_year": 1918,
-  "runtime_minutes": null,
+  "runtime_minutes": 60,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -60,9 +60,88 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5269,
+      "media_type": "poster",
+      "title": "Brown of Harvard (1918) - Poster",
+      "caption": "Theatrical poster for Brown of Harvard (1918)",
+      "url": "https://image.tmdb.org/t/p/original/1komthopva2gr3EL1QECGj2si1O.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1komthopva2gr3EL1QECGj2si1O.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/961715",
+      "license": "fair_use",
+      "attribution": "Selig Polyscope",
+      "is_featured": "False"
+    },
+    {
+      "id": 2389,
+      "media_type": "still",
+      "title": "Brown of Harvard (1918) - Moore.jpg",
+      "caption": "Still from the American film Brown of Harvard (1918) with Tom Moore, Walter Hiers (in back), and several unidentified actors, on page 756 of the July 19, 1919 Motion Picture News.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Brown_of_Harvard_%281918%29_-_Moore.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Brown_of_Harvard_%281918%29_-_Moore.jpg/300px-Brown_of_Harvard_%281918%29_-_Moore.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Brown_of_Harvard_(1918)_-_Moore.jpg",
+      "license": "public_domain",
+      "attribution": "Perfection Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2387,
+      "media_type": "advertisement",
+      "title": "Brown of Harvard (1918) - Ad 1.jpg",
+      "caption": "Ad for the American film Brown of Harvard (1918) with Tom Moore and Hazel Daly, page 1218 of the August 9, 1919 Motion Picture News.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Brown_of_Harvard_%281918%29_-_Ad_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Brown_of_Harvard_%281918%29_-_Ad_1.jpg/300px-Brown_of_Harvard_%281918%29_-_Ad_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Brown_of_Harvard_(1918)_-_Ad_1.jpg",
+      "license": "public_domain",
+      "attribution": "Perfection Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2390,
+      "media_type": "still",
+      "title": "Brown of Harvard (1918) - 3.jpg",
+      "caption": "Still from the American film Brown of Harvard (1918) with Tom Moore, Hazel Daly, Walter Hiers, and several unidentified actors, on page 1983 of the June 28, 1919 Moving Picture World.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Brown_of_Harvard_%281918%29_-_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brown_of_Harvard_%281918%29_-_3.jpg/300px-Brown_of_Harvard_%281918%29_-_3.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Brown_of_Harvard_(1918)_-_3.jpg",
+      "license": "public_domain",
+      "attribution": "Perfection Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2391,
+      "media_type": "still",
+      "title": "Brown of Harvard (1918) - 4.jpg",
+      "caption": "Still from the American film Brown of Harvard (1918) with Hazel Daly, Tom Moore, and an unidentified actor and actress, on page 25 of the January 12, 1918 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Brown_of_Harvard_%281918%29_-_4.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brown_of_Harvard_%281918%29_-_4.jpg/300px-Brown_of_Harvard_%281918%29_-_4.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Brown_of_Harvard_(1918)_-_4.jpg",
+      "license": "public_domain",
+      "attribution": "Perfection Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2388,
+      "media_type": "still",
+      "title": "Brown of Harvard (1918) - 2.jpg",
+      "caption": "Still from the American film Brown of Harvard (1918), on page 1983 of the June 28, 1919 Moving Picture World.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Brown_of_Harvard_%281918%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Brown_of_Harvard_%281918%29_-_2.jpg/300px-Brown_of_Harvard_%281918%29_-_2.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Brown_of_Harvard_(1918)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Perfection Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:15:37.278878"
+  "last_updated": "2025-08-01T17:04:40.05178"
 }

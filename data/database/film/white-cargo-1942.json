@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2130,
+      "media_type": "still",
+      "title": "White Cargo (1942).png",
+      "caption": "White Cargo, by Richard Thorpe (1942)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/White_Cargo_%281942%29.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/White_Cargo_%281942%29.png/300px-White_Cargo_%281942%29.png",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:White_Cargo_(1942).png",
+      "license": "public_domain",
+      "attribution": "tcm",
+      "is_featured": "False"
+    },
+    {
+      "id": 2131,
+      "media_type": "still",
+      "title": "Walter Pidgeon in White Cargo (1942).png",
+      "caption": "Walter Pidgeon in White Cargo (1942), by Richard Thorpe (1942)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Walter_Pidgeon_in_White_Cargo_%281942%29.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Walter_Pidgeon_in_White_Cargo_%281942%29.png/300px-Walter_Pidgeon_in_White_Cargo_%281942%29.png",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Walter_Pidgeon_in_White_Cargo_(1942).png",
+      "license": "public_domain",
+      "attribution": "Metro-Goldwyn-Mayer",
+      "is_featured": "False"
+    },
+    {
+      "id": 2132,
+      "media_type": "still",
+      "title": "Hedy Lamarr and Walter Pidgeon in White Cargo (1942).png",
+      "caption": "Hedy Lamarr and Walter Pidgeon in White Cargo (1942), directed by Richard Thorpe.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Hedy_Lamarr_and_Walter_Pidgeon_in_White_Cargo_%281942%29.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Hedy_Lamarr_and_Walter_Pidgeon_in_White_Cargo_%281942%29.png/300px-Hedy_Lamarr_and_Walter_Pidgeon_in_White_Cargo_%281942%29.png",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hedy_Lamarr_and_Walter_Pidgeon_in_White_Cargo_(1942).png",
+      "license": "public_domain",
+      "attribution": "Metro-Goldwyn-Mayer",
+      "is_featured": "False"
+    },
+    {
+      "id": 2133,
+      "media_type": "still",
+      "title": "Frank Morgan in White Cargo (1942).png",
+      "caption": "Frank Morgan in a trailer for White Cargo (1942), a film by Richard Thorpe.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Frank_Morgan_in_White_Cargo_%281942%29.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Frank_Morgan_in_White_Cargo_%281942%29.png/300px-Frank_Morgan_in_White_Cargo_%281942%29.png",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Frank_Morgan_in_White_Cargo_(1942).png",
+      "license": "public_domain",
+      "attribution": "Metro-Goldwyn-Mayer (MGM)",
+      "is_featured": "False"
+    },
+    {
+      "id": 2134,
+      "media_type": "still",
+      "title": "Richard Ainley-Walter Pidgeon in White Cargo.png",
+      "caption": "Richard Ainley (left) and Walter Pidgeon in the American film White Cargo (1942) - publicity still (cropped).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Richard_Ainley-Walter_Pidgeon_in_White_Cargo.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Richard_Ainley-Walter_Pidgeon_in_White_Cargo.png/300px-Richard_Ainley-Walter_Pidgeon_in_White_Cargo.png",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Richard_Ainley-Walter_Pidgeon_in_White_Cargo.png",
+      "license": "public_domain",
+      "attribution": "unknown (MGM)",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

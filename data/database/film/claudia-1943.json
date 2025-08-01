@@ -16,7 +16,7 @@
   "directors": "Edmund Goulding",
   "writers": null,
   "cast_members": "Dorothy McGuire|Robert Young|Ina Claire|Reginald Gardiner|Olga Baclanova|Jean Howard|Frank Tweddell|Else Janssen|John Royce|Frank Fenton",
-  "color_info": "black-and-white",
+  "color_info": "color",
   "adaptation_notes": null,
   "afi_catalog_id": 360,
   "source_work": {
@@ -46,21 +46,86 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 3052,
+      "media_type": "poster",
+      "title": "Claudia (1943) - Poster",
+      "caption": "Theatrical poster for Claudia (1943)",
+      "url": "https://image.tmdb.org/t/p/original/2LbiFfm82i7LcF4H6n4Xz91psq4.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/2LbiFfm82i7LcF4H6n4Xz91psq4.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/184957",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "True"
+    },
+    {
+      "id": 3053,
+      "media_type": "poster",
+      "title": "Claudia (1943) - Poster",
+      "caption": "Theatrical poster for Claudia (1943)",
+      "url": "https://image.tmdb.org/t/p/original/znhW189JcofLe80RrPiMUHDXWxH.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/znhW189JcofLe80RrPiMUHDXWxH.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/184957",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 3054,
+      "media_type": "poster",
+      "title": "Claudia (1943) - Poster",
+      "caption": "Theatrical poster for Claudia (1943)",
+      "url": "https://image.tmdb.org/t/p/original/hmlyt2NCLyyhg8NPSdu9kzNdI9U.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/hmlyt2NCLyyhg8NPSdu9kzNdI9U.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/184957",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 3055,
+      "media_type": "poster",
+      "title": "Claudia (1943) - Poster",
+      "caption": "Theatrical poster for Claudia (1943)",
+      "url": "https://image.tmdb.org/t/p/original/s47RAubqRhEiTBy1SYqf7EA1Vlg.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/s47RAubqRhEiTBy1SYqf7EA1Vlg.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/184957",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 3056,
+      "media_type": "still",
+      "title": "Claudia (1943) - Still",
+      "caption": "Scene from Claudia (1943)",
+      "url": "https://image.tmdb.org/t/p/original/lZic8mSaALKgoagl0Sa8BiMzq1s.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/lZic8mSaALKgoagl0Sa8BiMzq1s.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/184957",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
       "id": 753,
       "media_type": "still",
       "title": "Elsa Janssen in Claudia.jpg",
       "caption": "Elsa Janssen in Claudia - publicity still (original image cropped &amp; modified : see source)",
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Elsa_Janssen_in_Claudia.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Elsa_Janssen_in_Claudia.jpg/300px-Elsa_Janssen_in_Claudia.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Elsa_Janssen_in_Claudia.jpg",
       "license": "public_domain",
-      "attribution": "unknown (20th Century Fox)",
+      "attribution": "20th Century Fox",
       "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:05:34.940439"
 }

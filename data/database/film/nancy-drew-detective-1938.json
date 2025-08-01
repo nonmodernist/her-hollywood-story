@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4302,
+      "media_type": "poster",
+      "title": "Nancy Drew, Detective (1938) - Poster",
+      "caption": "Theatrical poster for Nancy Drew, Detective (1938)",
+      "url": "https://image.tmdb.org/t/p/original/Ptkn6MnB2pyFJpJuHyxSBG3Qlh.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/Ptkn6MnB2pyFJpJuHyxSBG3Qlh.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/47883",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "True"
+    },
+    {
+      "id": 4303,
+      "media_type": "still",
+      "title": "Nancy Drew, Detective (1938) - Still",
+      "caption": "Scene from Nancy Drew, Detective (1938)",
+      "url": "https://image.tmdb.org/t/p/original/rbpwgnmQjZXqm3c0lNdGjB6Fia.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/rbpwgnmQjZXqm3c0lNdGjB6Fia.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/47883",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4304,
+      "media_type": "still",
+      "title": "Nancy Drew, Detective (1938) - Still",
+      "caption": "Scene from Nancy Drew, Detective (1938)",
+      "url": "https://image.tmdb.org/t/p/original/vDjuLYoHNIz2Tr2WLad5ITpaSPB.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/vDjuLYoHNIz2Tr2WLad5ITpaSPB.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/47883",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4305,
+      "media_type": "still",
+      "title": "Nancy Drew, Detective (1938) - Still",
+      "caption": "Scene from Nancy Drew, Detective (1938)",
+      "url": "https://image.tmdb.org/t/p/original/oatxWkA1BI5Qx5TgGcUz2HsWD9Q.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/oatxWkA1BI5Qx5TgGcUz2HsWD9Q.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/47883",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:11:22.193013"
 }

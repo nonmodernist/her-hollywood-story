@@ -5,7 +5,7 @@
   "formatted_title": "Manhattan Heartbeat",
   "html_title": "<span class=\"film-title\">Manhattan Heartbeat</span>",
   "release_year": 1940,
-  "runtime_minutes": null,
+  "runtime_minutes": 72,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -60,9 +60,62 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2981,
+      "media_type": "poster",
+      "title": "Manhattan Heartbeat (1940) - Poster",
+      "caption": "Theatrical poster for Manhattan Heartbeat (1940)",
+      "url": "https://image.tmdb.org/t/p/original/zLuhbyIDo4lOeHPSqIf7sXm2lz.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/zLuhbyIDo4lOeHPSqIf7sXm2lz.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/413697",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "True"
+    },
+    {
+      "id": 2982,
+      "media_type": "poster",
+      "title": "Manhattan Heartbeat (1940) - Poster",
+      "caption": "Theatrical poster for Manhattan Heartbeat (1940)",
+      "url": "https://image.tmdb.org/t/p/original/2IbAZRnPNNuemVndu1kcnFFLC8m.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/2IbAZRnPNNuemVndu1kcnFFLC8m.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/413697",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 2983,
+      "media_type": "poster",
+      "title": "Manhattan Heartbeat (1940) - Poster",
+      "caption": "Theatrical poster for Manhattan Heartbeat (1940)",
+      "url": "https://image.tmdb.org/t/p/original/rYmH7zI7dd7R5j0b1TjKwdEQOcC.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/rYmH7zI7dd7R5j0b1TjKwdEQOcC.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/413697",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 2984,
+      "media_type": "still",
+      "title": "Manhattan Heartbeat (1940) - Still",
+      "caption": "Scene from Manhattan Heartbeat (1940)",
+      "url": "https://image.tmdb.org/t/p/original/D5Ap7umr40LTETCTVZnwRRpJbj.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/D5Ap7umr40LTETCTVZnwRRpJbj.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/413697",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:08:38.390579"
+  "last_updated": "2025-08-01T17:13:43.704881"
 }

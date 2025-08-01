@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4625,
+      "media_type": "poster",
+      "title": "Navy Wife (1935) - Poster",
+      "caption": "Theatrical poster for Navy Wife (1935)",
+      "url": "https://image.tmdb.org/t/p/original/nj8dhFfts7BoQqfnUSzJWdHdRLG.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/nj8dhFfts7BoQqfnUSzJWdHdRLG.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/363640",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4626,
+      "media_type": "poster",
+      "title": "Navy Wife (1935) - Poster",
+      "caption": "Theatrical poster for Navy Wife (1935)",
+      "url": "https://image.tmdb.org/t/p/original/fd98YYMC5yV0r7HQkNXUCfy9aCp.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/fd98YYMC5yV0r7HQkNXUCfy9aCp.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/363640",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4627,
+      "media_type": "still",
+      "title": "Navy Wife (1935) - Still",
+      "caption": "Scene from Navy Wife (1935)",
+      "url": "https://image.tmdb.org/t/p/original/rQY1yZaNqLl6pOI4a3hIQ4YfrYS.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/rQY1yZaNqLl6pOI4a3hIQ4YfrYS.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/363640",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 1830,
+      "media_type": "production_photo",
+      "title": "ClaireTrevor-NavyWife-1935.jpg",
+      "caption": "In the 1935 film Navy Wife, Claire Trevor plays a nurse who becomes romantically involved with two doctors (played by Ralph Bellamy and Ben Lyon) serving in the U.S. Navy.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/ClaireTrevor-NavyWife-1935.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ClaireTrevor-NavyWife-1935.jpg/300px-ClaireTrevor-NavyWife-1935.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:ClaireTrevor-NavyWife-1935.jpg",
+      "license": "public_domain",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:12:57.794598"
 }

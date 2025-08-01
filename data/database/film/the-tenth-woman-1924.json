@@ -5,7 +5,7 @@
   "formatted_title": "The Tenth Woman",
   "html_title": "<span class=\"film-title\">The Tenth Woman</span>",
   "release_year": 1924,
-  "runtime_minutes": null,
+  "runtime_minutes": 80,
   "country_of_production": "United States",
   "genres": [
     "Melodrama"
@@ -44,9 +44,36 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2569,
+      "media_type": "poster",
+      "title": "The Tenth Woman (1924) - Poster",
+      "caption": "Theatrical poster for The Tenth Woman (1924)",
+      "url": "https://image.tmdb.org/t/p/original/aE4oeQOZpVPzq666T7QkQu2r6ZO.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/aE4oeQOZpVPzq666T7QkQu2r6ZO.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/313690",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 2570,
+      "media_type": "still",
+      "title": "The Tenth Woman (1924) - Still",
+      "caption": "Scene from The Tenth Woman (1924)",
+      "url": "https://image.tmdb.org/t/p/original/tIrooCDEtdwz7IS30uujtkb1t0B.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/tIrooCDEtdwz7IS30uujtkb1t0B.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/313690",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:16:06.299649"
+  "last_updated": "2025-08-01T17:09:32.427477"
 }

@@ -44,9 +44,88 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4633,
+      "media_type": "poster",
+      "title": "Lucretia Lombard (1923) - Poster",
+      "caption": "Theatrical poster for Lucretia Lombard (1923)",
+      "url": "https://image.tmdb.org/t/p/original/8Hz6JuOU8219XQIpkKjaGEnCx3H.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/8Hz6JuOU8219XQIpkKjaGEnCx3H.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/228304",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4634,
+      "media_type": "still",
+      "title": "Lucretia Lombard (1923) - Still",
+      "caption": "Scene from Lucretia Lombard (1923)",
+      "url": "https://image.tmdb.org/t/p/original/rCRM9fHs3eatQrPw5cWtCmkepHa.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/rCRM9fHs3eatQrPw5cWtCmkepHa.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/228304",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 1843,
+      "media_type": "poster",
+      "title": "Lucretia Lombard 1923 poster.jpg",
+      "caption": "Poster for the American drama film Lucretia Lombard (1923) with no copyright notices, thus in the public domain.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Lucretia_Lombard_1923_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Lucretia_Lombard_1923_poster.jpg/300px-Lucretia_Lombard_1923_poster.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lucretia_Lombard_1923_poster.jpg",
+      "license": "public_domain",
+      "attribution": "Warner Bros.",
+      "is_featured": "False"
+    },
+    {
+      "id": 1844,
+      "media_type": "advertisement",
+      "title": "Lucretia Lombard (1923) - 3.jpg",
+      "caption": "Advertisement for the American drama film Lucretia Lombard (1923) from the cover section of the December 23, 1923 Film Daly,. The advertisement also lists the film's alternative title Flaming Passion.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Lucretia_Lombard_%281923%29_-_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Lucretia_Lombard_%281923%29_-_3.jpg/300px-Lucretia_Lombard_%281923%29_-_3.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lucretia_Lombard_(1923)_-_3.jpg",
+      "license": "public_domain",
+      "attribution": "Warner Bros.",
+      "is_featured": "False"
+    },
+    {
+      "id": 1845,
+      "media_type": "advertisement",
+      "title": "Lucretia Lombard (1923) - 2.jpg",
+      "caption": "Advertisement for the American drama film Lucretia Lombard (1923) on pages 6 and 7 of the December 2, 1923 Film Daly,. The advertisement also lists the film's alternative title Flaming Passion.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lucretia_Lombard_%281923%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lucretia_Lombard_%281923%29_-_2.jpg/300px-Lucretia_Lombard_%281923%29_-_2.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lucretia_Lombard_(1923)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Warner Bros.",
+      "is_featured": "False"
+    },
+    {
+      "id": 1846,
+      "media_type": "advertisement",
+      "title": "Lucretia Lombard (1923) - 1.jpg",
+      "caption": "Advertisement for the American drama film Lucretia Lombard (1923) under its alternative title Flaming Passion, on page 27 of the December 20, 1923 Variety.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Lucretia_Lombard_%281923%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Lucretia_Lombard_%281923%29_-_1.jpg/300px-Lucretia_Lombard_%281923%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lucretia_Lombard_(1923)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Warner Bros.",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:13:02.445476"
 }

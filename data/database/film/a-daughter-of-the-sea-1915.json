@@ -5,7 +5,7 @@
   "formatted_title": "A Daughter of the Sea",
   "html_title": "<span class=\"film-title\">A Daughter of the Sea</span>",
   "release_year": 1915,
-  "runtime_minutes": null,
+  "runtime_minutes": 50,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -44,9 +44,23 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4516,
+      "media_type": "poster",
+      "title": "A Daughter of the Sea (1915) - Poster",
+      "caption": "Theatrical poster for A Daughter of the Sea (1915)",
+      "url": "https://image.tmdb.org/t/p/original/riOpdbbaafNxtYgrwh747alPsx9.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/riOpdbbaafNxtYgrwh747alPsx9.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/1243088",
+      "license": "fair_use",
+      "attribution": "Equitable Motion Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:13:33.598943"
+  "last_updated": "2025-08-01T17:03:14.276548"
 }

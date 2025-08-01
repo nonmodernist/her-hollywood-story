@@ -44,9 +44,23 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2278,
+      "media_type": "still",
+      "title": "The President's Mystery (1936) still 1.jpg",
+      "caption": "Left to right: Betty Furness, Si Jenks, and Henry Wilcoxon in the American film The President's Mystery (1936) - publicity still (cropped)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/The_President%27s_Mystery_%281936%29_still_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_President%27s_Mystery_%281936%29_still_1.jpg/300px-The_President%27s_Mystery_%281936%29_still_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_President's_Mystery_(1936)_still_1.jpg",
+      "license": "public_domain",
+      "attribution": "unknown (Nat Levine Prod.)",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

@@ -71,13 +71,39 @@
   },
   "media": [
     {
+      "id": 3934,
+      "media_type": "poster",
+      "title": "No Place to Go (1939) - Poster",
+      "caption": "Theatrical poster for No Place to Go (1939)",
+      "url": "https://image.tmdb.org/t/p/original/16Y430txA3UOb9VZoFw06GFmOHf.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/16Y430txA3UOb9VZoFw06GFmOHf.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/241290",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 3935,
+      "media_type": "still",
+      "title": "No Place to Go (1939) - Still",
+      "caption": "Scene from No Place to Go (1939)",
+      "url": "https://image.tmdb.org/t/p/original/fpybLKs8IfA58ULY2RnO7SGCkgt.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/fpybLKs8IfA58ULY2RnO7SGCkgt.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/241290",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
       "id": 1267,
       "media_type": "poster",
       "title": "Hard to Get (1938) poster.jpg",
       "caption": "This poster features no copyright year and is in the public domain already.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hard_to_Get_%281938%29_poster.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hard_to_Get_%281938%29_poster.jpg/300px-Hard_to_Get_%281938%29_poster.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Hard_to_Get_(1938)_poster.jpg",
       "license": "public_domain",
       "attribution": "Vitagram Inc.",
@@ -90,7 +116,7 @@
       "caption": "Bonita Granville, Charles Winninger, Olivia de Havilland, and Isabel Jeans in a publicity photo for Hard to Get, 1938",
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Olivia_de_Havilland_in_Hard_to_Get_1938.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Olivia_de_Havilland_in_Hard_to_Get_1938.jpg/300px-Olivia_de_Havilland_in_Hard_to_Get_1938.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Olivia_de_Havilland_in_Hard_to_Get_1938.jpg",
       "license": "public_domain",
       "attribution": "Warner Bros.",
@@ -98,7 +124,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 2,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:16:22.934485"
+  "last_updated": "2025-08-01T16:09:23.340354"
 }

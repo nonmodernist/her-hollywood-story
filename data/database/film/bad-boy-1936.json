@@ -5,7 +5,7 @@
   "formatted_title": "Bad Boy",
   "html_title": "<span class=\"film-title\">Bad Boy</span>",
   "release_year": 1936,
-  "runtime_minutes": null,
+  "runtime_minutes": 56,
   "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
@@ -44,9 +44,36 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3823,
+      "media_type": "poster",
+      "title": "Bad Boy (1936) - Poster",
+      "caption": "Theatrical poster for Bad Boy (1936)",
+      "url": "https://image.tmdb.org/t/p/original/iVUGxjga745TAQEdZo33AIsFfej.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/iVUGxjga745TAQEdZo33AIsFfej.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/281756",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 3824,
+      "media_type": "still",
+      "title": "Bad Boy (1936) - Still",
+      "caption": "Scene from Bad Boy (1936)",
+      "url": "https://image.tmdb.org/t/p/original/gDCz0AweADnGOgbJFyfyCHBTIBg.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/gDCz0AweADnGOgbJFyfyCHBTIBg.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/281756",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:07:46.728389"
+  "last_updated": "2025-08-01T17:13:33.99381"
 }

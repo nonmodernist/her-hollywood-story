@@ -5,7 +5,7 @@
   "formatted_title": "Finders Keepers",
   "html_title": "<span class=\"film-title\">Finders Keepers</span>",
   "release_year": 1928,
-  "runtime_minutes": null,
+  "runtime_minutes": 60,
   "country_of_production": "United States",
   "genres": [
     "Comedy"
@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4830,
+      "media_type": "poster",
+      "title": "Finders Keepers (1928) - Poster",
+      "caption": "Theatrical poster for Finders Keepers (1928)",
+      "url": "https://image.tmdb.org/t/p/original/lqcI40aogNZVodqtQ5y0OmL0C84.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/lqcI40aogNZVodqtQ5y0OmL0C84.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/5515",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "False"
+    },
+    {
+      "id": 4831,
+      "media_type": "still",
+      "title": "Finders Keepers (1928) - Still",
+      "caption": "Scene from Finders Keepers (1928)",
+      "url": "https://image.tmdb.org/t/p/original/wqegGqCDeRLM3ZIkK0WoOngtA4V.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/wqegGqCDeRLM3ZIkK0WoOngtA4V.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/5515",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "False"
+    },
+    {
+      "id": 2061,
+      "media_type": "advertisement",
+      "title": "Finders Keepers (1928) - 2.jpg",
+      "caption": "Advertisement for the American comedy film Finders Keepers (1928) with Laura La Plante, on pages 6 and 7 of the February 4, 1928 Universal Weekly.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Finders_Keepers_%281928%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Finders_Keepers_%281928%29_-_2.jpg/300px-Finders_Keepers_%281928%29_-_2.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Finders_Keepers_(1928)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2062,
+      "media_type": "advertisement",
+      "title": "Finders Keepers (1928) - 1.jpg",
+      "caption": "Advertisement for the American comedy film Finders Keepers (1928) with Laura La Plante, on page 30 of the April 7, 1928 Universal Weekly.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Finders_Keepers_%281928%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Finders_Keepers_%281928%29_-_1.jpg/300px-Finders_Keepers_%281928%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Finders_Keepers_(1928)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:14:53.842979"
+  "last_updated": "2025-08-01T17:12:32.196722"
 }

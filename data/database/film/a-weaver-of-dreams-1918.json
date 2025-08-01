@@ -5,7 +5,7 @@
   "formatted_title": "A Weaver of Dreams",
   "html_title": "<span class=\"film-title\">A Weaver of Dreams</span>",
   "release_year": 1918,
-  "runtime_minutes": null,
+  "runtime_minutes": 52,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4780,
+      "media_type": "poster",
+      "title": "A Weaver of Dreams (1918) - Poster",
+      "caption": "Theatrical poster for A Weaver of Dreams (1918)",
+      "url": "https://image.tmdb.org/t/p/original/k6Q9aGR0vpvNAmI96EayBOqUBjj.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/k6Q9aGR0vpvNAmI96EayBOqUBjj.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/742062",
+      "license": "fair_use",
+      "attribution": "Metro Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 4781,
+      "media_type": "poster",
+      "title": "A Weaver of Dreams (1918) - Poster",
+      "caption": "Theatrical poster for A Weaver of Dreams (1918)",
+      "url": "https://image.tmdb.org/t/p/original/1DDxoEAIgGFyUauNLGNapQgoqey.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1DDxoEAIgGFyUauNLGNapQgoqey.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/742062",
+      "license": "fair_use",
+      "attribution": "Metro Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 4782,
+      "media_type": "still",
+      "title": "A Weaver of Dreams (1918) - Still",
+      "caption": "Scene from A Weaver of Dreams (1918)",
+      "url": "https://image.tmdb.org/t/p/original/hnNjZDVU0T5fTqzfeWGFiXd1xWW.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/hnNjZDVU0T5fTqzfeWGFiXd1xWW.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/742062",
+      "license": "fair_use",
+      "attribution": "Metro Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2005,
+      "media_type": "still",
+      "title": "A Weaver of Dreams (1918) 1.jpg",
+      "caption": "Viola Dana and Clifford Bruce (1885 – 1919) in the film A Weaver of Dreams (1918) - cropped screenshot (original image : see source)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/A_Weaver_of_Dreams_%281918%29_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/A_Weaver_of_Dreams_%281918%29_1.jpg/300px-A_Weaver_of_Dreams_%281918%29_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:A_Weaver_of_Dreams_(1918)_1.jpg",
+      "license": "public_domain",
+      "attribution": "film screenshot (Metro Pictures Corporation)",
+      "is_featured": "False"
+    },
+    {
+      "id": 2006,
+      "media_type": "advertisement",
+      "title": "A Weaver of Dreams Silent Film Advertisement, 1918.jpg",
+      "caption": "Advertisement for the film A Weaver of Dreams (1918) with Viola Dana in The Moving Picture World.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/A_Weaver_of_Dreams_Silent_Film_Advertisement%2C_1918.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/A_Weaver_of_Dreams_Silent_Film_Advertisement%2C_1918.jpg/300px-A_Weaver_of_Dreams_Silent_Film_Advertisement%2C_1918.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:A_Weaver_of_Dreams_Silent_Film_Advertisement,_1918.jpg",
+      "license": "public_domain",
+      "attribution": "The Moving Picture World Advertisments",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:14:32.428092"
+  "last_updated": "2025-08-01T17:04:38.603973"
 }

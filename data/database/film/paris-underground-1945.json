@@ -16,7 +16,7 @@
   "directors": "Gregory Ratoff",
   "writers": "Boris Ingster|Gertrude Purcell",
   "cast_members": "Gracie Fields|Kurt Kreuger|Charles Andre|Leslie Vincent|Eily Malyon|Gregory Gaye|Constance Bennett|George Rigaud|Vladimir Sokoloff|Richard Ryen",
-  "color_info": "black-and-white",
+  "color_info": "color",
   "adaptation_notes": null,
   "afi_catalog_id": 24525,
   "source_work": {
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4940,
+      "media_type": "poster",
+      "title": "Paris--Underground (1945) - Poster",
+      "caption": "Theatrical poster for Paris--Underground (1945)",
+      "url": "https://image.tmdb.org/t/p/original/dOzNqo9aqPX3fkkOeC79wczNlUX.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dOzNqo9aqPX3fkkOeC79wczNlUX.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/217162",
+      "license": "fair_use",
+      "attribution": "Constance Bennett Productions",
+      "is_featured": "True"
+    },
+    {
+      "id": 4941,
+      "media_type": "poster",
+      "title": "Paris--Underground (1945) - Poster",
+      "caption": "Theatrical poster for Paris--Underground (1945)",
+      "url": "https://image.tmdb.org/t/p/original/7MfygMk81iU7eXZseDFKg0pjd7q.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/7MfygMk81iU7eXZseDFKg0pjd7q.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/217162",
+      "license": "fair_use",
+      "attribution": "Constance Bennett Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 4942,
+      "media_type": "still",
+      "title": "Paris--Underground (1945) - Still",
+      "caption": "Scene from Paris--Underground (1945)",
+      "url": "https://image.tmdb.org/t/p/original/1mMFLhCuFbERNTh4ymqPwg6fPzb.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/1mMFLhCuFbERNTh4ymqPwg6fPzb.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/217162",
+      "license": "fair_use",
+      "attribution": "Constance Bennett Productions",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:14:48.70078"
 }

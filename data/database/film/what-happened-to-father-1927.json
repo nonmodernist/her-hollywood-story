@@ -5,7 +5,7 @@
   "formatted_title": "What Happened to Father",
   "html_title": "<span class=\"film-title\">What Happened to Father</span>",
   "release_year": 1927,
-  "runtime_minutes": null,
+  "runtime_minutes": 60,
   "country_of_production": "United States",
   "genres": [
     "Comedy"
@@ -60,9 +60,49 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4845,
+      "media_type": "poster",
+      "title": "What Happened to Father (1927) - Poster",
+      "caption": "Theatrical poster for What Happened to Father (1927)",
+      "url": "https://image.tmdb.org/t/p/original/gWUKPgqnCETC3OPjrxqbzN6Gxzm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/gWUKPgqnCETC3OPjrxqbzN6Gxzm.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/441111",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4846,
+      "media_type": "still",
+      "title": "What Happened to Father (1927) - Still",
+      "caption": "Scene from What Happened to Father (1927)",
+      "url": "https://image.tmdb.org/t/p/original/xWNcbCroTpSL5CkTuzy4xD9Wnvl.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/xWNcbCroTpSL5CkTuzy4xD9Wnvl.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/441111",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 2072,
+      "media_type": "lobby_card",
+      "title": "What Happened to Father lobby card.jpg",
+      "caption": "Lobby card for the American comedy film What Happened to Father? (1927).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/What_Happened_to_Father_lobby_card.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/What_Happened_to_Father_lobby_card.jpg/300px-What_Happened_to_Father_lobby_card.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:What_Happened_to_Father_lobby_card.jpg",
+      "license": "public_domain",
+      "attribution": "Warner Bros.",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:14:51.489818"
+  "last_updated": "2025-08-01T17:09:43.75208"
 }

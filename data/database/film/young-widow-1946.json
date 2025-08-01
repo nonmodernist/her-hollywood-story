@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3770,
+      "media_type": "poster",
+      "title": "Young Widow (1946) - Poster",
+      "caption": "Theatrical poster for Young Widow (1946)",
+      "url": "https://image.tmdb.org/t/p/original/bLZ8xjWCEZdJJawCVrS9W38gELJ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/bLZ8xjWCEZdJJawCVrS9W38gELJ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/175660",
+      "license": "fair_use",
+      "attribution": "Hunt Stromberg Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 3771,
+      "media_type": "poster",
+      "title": "Young Widow (1946) - Poster",
+      "caption": "Theatrical poster for Young Widow (1946)",
+      "url": "https://image.tmdb.org/t/p/original/oAyjWpQz7BHTNKmJLpPeZwrZnKy.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/oAyjWpQz7BHTNKmJLpPeZwrZnKy.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/175660",
+      "license": "fair_use",
+      "attribution": "Hunt Stromberg Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 3772,
+      "media_type": "poster",
+      "title": "Young Widow (1946) - Poster",
+      "caption": "Theatrical poster for Young Widow (1946)",
+      "url": "https://image.tmdb.org/t/p/original/ih3XCRE6K4acPmjdM0QZeqWLni.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ih3XCRE6K4acPmjdM0QZeqWLni.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/175660",
+      "license": "fair_use",
+      "attribution": "Hunt Stromberg Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 3773,
+      "media_type": "still",
+      "title": "Young Widow (1946) - Still",
+      "caption": "Scene from Young Widow (1946)",
+      "url": "https://image.tmdb.org/t/p/original/j5qE0ptHWK1hvgIEdOuOHnDbDla.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/j5qE0ptHWK1hvgIEdOuOHnDbDla.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/175660",
+      "license": "fair_use",
+      "attribution": "Hunt Stromberg Productions",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:08:27.195445"
 }

@@ -5,7 +5,7 @@
   "formatted_title": "Slippy McGee",
   "html_title": "<span class=\"film-title\">Slippy McGee</span>",
   "release_year": 1947,
-  "runtime_minutes": null,
+  "runtime_minutes": 65,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -44,9 +44,23 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4658,
+      "media_type": "poster",
+      "title": "Slippy McGee (1947) - Poster",
+      "caption": "Theatrical poster for Slippy McGee (1947)",
+      "url": "https://image.tmdb.org/t/p/original/c5yuuHBQFgRVeAoCHGEpoedasR3.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/c5yuuHBQFgRVeAoCHGEpoedasR3.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/618478",
+      "license": "fair_use",
+      "attribution": "Republic",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:17:42.725595"
+  "last_updated": "2025-08-01T17:13:51.947393"
 }

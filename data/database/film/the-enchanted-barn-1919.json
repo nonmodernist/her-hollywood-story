@@ -5,7 +5,7 @@
   "formatted_title": "The Enchanted Barn",
   "html_title": "<span class=\"film-title\">The Enchanted Barn</span>",
   "release_year": 1919,
-  "runtime_minutes": null,
+  "runtime_minutes": 50,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4466,
+      "media_type": "poster",
+      "title": "The Enchanted Barn (1919) - Poster",
+      "caption": "Theatrical poster for The Enchanted Barn (1919)",
+      "url": "https://image.tmdb.org/t/p/original/m7jZBuofwbjnmvIOcenG4frT0Ij.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/m7jZBuofwbjnmvIOcenG4frT0Ij.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/768600",
+      "license": "fair_use",
+      "attribution": "Vitagraph",
+      "is_featured": "True"
+    },
+    {
+      "id": 1655,
+      "media_type": "advertisement",
+      "title": "The Enchanted Barn (1919) - Ad 1.jpg",
+      "caption": "Ad for the American film The Enchanted Barn (1919) with Bessie Love, on page 408 of the January 25, 1919 Moving Picture World.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Enchanted_Barn_%281919%29_-_Ad_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/The_Enchanted_Barn_%281919%29_-_Ad_1.jpg/300px-The_Enchanted_Barn_%281919%29_-_Ad_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Enchanted_Barn_(1919)_-_Ad_1.jpg",
+      "license": "public_domain",
+      "attribution": "Vitagraph Company of America",
+      "is_featured": "False"
+    },
+    {
+      "id": 1657,
+      "media_type": "advertisement",
+      "title": "The Adventure Shop (1919) - Ad 1.jpg",
+      "caption": "Ad for the American film The Adventure Shop (1919) with Corinne Griffith, on page 146 of the January 11, 1919 Moving Picture World. The ad also has pictures of the following Vitagraph film actors, who do not have a role in this film, along the bottom of the ad: Harry T. Morey, Gladys Leslie, Earle Williams, Alice Joyce, and Bessie Love.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/The_Adventure_Shop_%281919%29_-_Ad_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/The_Adventure_Shop_%281919%29_-_Ad_1.jpg/300px-The_Adventure_Shop_%281919%29_-_Ad_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Adventure_Shop_(1919)_-_Ad_1.jpg",
+      "license": "public_domain",
+      "attribution": "Vitagraph Company of America",
+      "is_featured": "False"
+    },
+    {
+      "id": 1656,
+      "media_type": "advertisement",
+      "title": "Theenchantedbarn-newspaper1919.jpg",
+      "caption": "Advert for \"The Enchanted Barn\"",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Theenchantedbarn-newspaper1919.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Theenchantedbarn-newspaper1919.jpg/300px-Theenchantedbarn-newspaper1919.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Theenchantedbarn-newspaper1919.jpg",
+      "license": "public_domain",
+      "attribution": "Richmond times-dispatch",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:17:05.451136"
+  "last_updated": "2025-08-01T17:04:49.671382"
 }

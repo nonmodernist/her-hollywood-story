@@ -46,13 +46,78 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 4124,
+      "media_type": "poster",
+      "title": "I'd Climb the Highest Mountain (1951) - Poster",
+      "caption": "Theatrical poster for I'd Climb the Highest Mountain (1951)",
+      "url": "https://image.tmdb.org/t/p/original/zucyufbFCFaC2zehjduTyEMDw9s.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/zucyufbFCFaC2zehjduTyEMDw9s.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/68238",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "True"
+    },
+    {
+      "id": 4125,
+      "media_type": "poster",
+      "title": "I'd Climb the Highest Mountain (1951) - Poster",
+      "caption": "Theatrical poster for I'd Climb the Highest Mountain (1951)",
+      "url": "https://image.tmdb.org/t/p/original/kQ3CCag2Slwdjn4GGRqtPMWL48F.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kQ3CCag2Slwdjn4GGRqtPMWL48F.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/68238",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4126,
+      "media_type": "still",
+      "title": "I'd Climb the Highest Mountain (1951) - Still",
+      "caption": "Scene from I'd Climb the Highest Mountain (1951)",
+      "url": "https://image.tmdb.org/t/p/original/rCKeMjhGSkb03S2p7nf29yTmZUA.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/rCKeMjhGSkb03S2p7nf29yTmZUA.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/68238",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4127,
+      "media_type": "still",
+      "title": "I'd Climb the Highest Mountain (1951) - Still",
+      "caption": "Scene from I'd Climb the Highest Mountain (1951)",
+      "url": "https://image.tmdb.org/t/p/original/2xGP8cUffAFW99sDZz2YFVv8mRS.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/2xGP8cUffAFW99sDZz2YFVv8mRS.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/68238",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4128,
+      "media_type": "still",
+      "title": "I'd Climb the Highest Mountain (1951) - Still",
+      "caption": "Scene from I'd Climb the Highest Mountain (1951)",
+      "url": "https://image.tmdb.org/t/p/original/shHMfenyhdoIs6JJdCe3zRZjaNO.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/shHMfenyhdoIs6JJdCe3zRZjaNO.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/68238",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
       "id": 1381,
       "media_type": "still",
       "title": "Photograph of church used in a scene for the film \"I'd Climb The Highest Mountain,\" Clarkesville, Habersham County, Georgia, 1950 - DPLA - 9d5c881b597861dcbe9fab610d9077a4-078.jpeg",
       "caption": "A photograph of a church used in a scene for the film \"I'd Climb The Highest Mountain,\" Clarkesville, Habersham County, Georgia, 1950. The church is Grace Episcopal Church.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Photograph_of_church_used_in_a_scene_for_the_film_%22I%27d_Climb_The_Highest_Mountain%2C%22_Clarkesville%2C_Habersham_County%2C_Georgia%2C_1950_-_DPLA_-_9d5c881b597861dcbe9fab610d9077a4-078.jpeg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Photograph_of_church_used_in_a_scene_for_the_film_%22I%27d_Climb_The_Highest_Mountain%2C%22_Clarkesville%2C_Habersham_County%2C_Georgia%2C_1950_-_DPLA_-_9d5c881b597861dcbe9fab610d9077a4-078.jpeg/300px-Photograph_of_church_used_in_a_scene_for_the_film_%22I%27d_Climb_The_Highest_Mountain%2C%22_Clarkesville%2C_Habersham_County%2C_Georgia%2C_1950_-_DPLA_-_9d5c881b597861dcbe9fab610d9077a4-078.jpeg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Photograph_of_church_used_in_a_scene_for_the_film_\"I'd_Climb_The_Highest_Mountain,\"_Clarkesville,_Habersham_County,_Georgia,_1950_-_DPLA_-_9d5c881b597861dcbe9fab610d9077a4-078.jpeg",
       "license": "public_domain",
       "attribution": "This file was contributed to Wikimedia Commons by Northeast Georgia Regional Library System as part of a cooperation project. The donation was facilitated by the Digital Public Library of America, ...",
@@ -60,7 +125,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:10:20.404398"
 }

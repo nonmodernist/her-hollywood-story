@@ -5,7 +5,7 @@
   "formatted_title": "The Witness Chair",
   "html_title": "<span class=\"film-title\">The Witness Chair</span>",
   "release_year": 1936,
-  "runtime_minutes": null,
+  "runtime_minutes": 64,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5134,
+      "media_type": "poster",
+      "title": "The Witness Chair (1936) - Poster",
+      "caption": "Theatrical poster for The Witness Chair (1936)",
+      "url": "https://image.tmdb.org/t/p/original/kFN4oEnWPgWhR1rv4YNdFypnjZo.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kFN4oEnWPgWhR1rv4YNdFypnjZo.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/346379",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 5135,
+      "media_type": "poster",
+      "title": "The Witness Chair (1936) - Poster",
+      "caption": "Theatrical poster for The Witness Chair (1936)",
+      "url": "https://image.tmdb.org/t/p/original/xN2nc7iwOlSFiiQMT3lt42prqLX.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/xN2nc7iwOlSFiiQMT3lt42prqLX.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/346379",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 5136,
+      "media_type": "still",
+      "title": "The Witness Chair (1936) - Still",
+      "caption": "Scene from The Witness Chair (1936)",
+      "url": "https://image.tmdb.org/t/p/original/335tVXqzhwFYAtpNuYnjZMSSbBB.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/335tVXqzhwFYAtpNuYnjZMSSbBB.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/346379",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 5137,
+      "media_type": "still",
+      "title": "The Witness Chair (1936) - Still",
+      "caption": "Scene from The Witness Chair (1936)",
+      "url": "https://image.tmdb.org/t/p/original/kJn6z845DOGVADCZLMhgV2OK597.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/kJn6z845DOGVADCZLMhgV2OK597.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/346379",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 5138,
+      "media_type": "still",
+      "title": "The Witness Chair (1936) - Still",
+      "caption": "Scene from The Witness Chair (1936)",
+      "url": "https://image.tmdb.org/t/p/original/wd679GZAQOD7KPM8JqF3fxp97tz.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/wd679GZAQOD7KPM8JqF3fxp97tz.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/346379",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:16:01.381579"
+  "last_updated": "2025-08-01T17:13:37.613567"
 }

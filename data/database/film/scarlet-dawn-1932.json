@@ -5,8 +5,8 @@
   "formatted_title": "Scarlet Dawn",
   "html_title": "<span class=\"film-title\">Scarlet Dawn</span>",
   "release_year": 1932,
-  "runtime_minutes": null,
-  "country_of_production": "Germany",
+  "runtime_minutes": 76,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4559,
+      "media_type": "poster",
+      "title": "Scarlet Dawn (1932) - Poster",
+      "caption": "Theatrical poster for Scarlet Dawn (1932)",
+      "url": "https://image.tmdb.org/t/p/original/unPtNlqq7bN7D8oEyDwC5g7DtIv.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/unPtNlqq7bN7D8oEyDwC5g7DtIv.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/163773",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4560,
+      "media_type": "poster",
+      "title": "Scarlet Dawn (1932) - Poster",
+      "caption": "Theatrical poster for Scarlet Dawn (1932)",
+      "url": "https://image.tmdb.org/t/p/original/rtoo3f22OZLuq6CCVzk6zXFJyIv.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/rtoo3f22OZLuq6CCVzk6zXFJyIv.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/163773",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4561,
+      "media_type": "still",
+      "title": "Scarlet Dawn (1932) - Still",
+      "caption": "Scene from Scarlet Dawn (1932)",
+      "url": "https://image.tmdb.org/t/p/original/rAr2JSjb6VZpxdQXWFxCjewGFCv.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/rAr2JSjb6VZpxdQXWFxCjewGFCv.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/163773",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 1746,
+      "media_type": "poster",
+      "title": "Poster - Scarlet Dawn 01.jpg",
+      "caption": "A poster for Scarlet Dawn, a 1932 US film",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Poster_-_Scarlet_Dawn_01.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Poster_-_Scarlet_Dawn_01.jpg/300px-Poster_-_Scarlet_Dawn_01.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Poster_-_Scarlet_Dawn_01.jpg",
+      "license": "public_domain",
+      "attribution": "Employee(s) of Warner Bros. or Vitaphone",
+      "is_featured": "False"
+    },
+    {
+      "id": 1745,
+      "media_type": "still",
+      "title": "Scarlet Dawn (1932) trailer 1.jpg",
+      "caption": "Douglas Fairbanks, Jr. &amp; Lilyan Tashman in Scarlet Dawn - trailer (cropped screenshot)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Scarlet_Dawn_%281932%29_trailer_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Scarlet_Dawn_%281932%29_trailer_1.jpg/300px-Scarlet_Dawn_%281932%29_trailer_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Scarlet_Dawn_(1932)_trailer_1.jpg",
+      "license": "public_domain",
+      "attribution": "trailer screenshot (Warner Bros.)",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:17:16.809185"
+  "last_updated": "2025-08-01T17:12:46.714407"
 }

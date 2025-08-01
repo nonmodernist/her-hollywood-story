@@ -62,13 +62,78 @@
   },
   "media": [
     {
+      "id": 2689,
+      "media_type": "poster",
+      "title": "Bad Girl (1931) - Poster",
+      "caption": "Theatrical poster for Bad Girl (1931)",
+      "url": "https://image.tmdb.org/t/p/original/kUwfDGMbTdb3Foc8p0cG7urBQBW.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kUwfDGMbTdb3Foc8p0cG7urBQBW.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/84299",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "True"
+    },
+    {
+      "id": 2690,
+      "media_type": "poster",
+      "title": "Bad Girl (1931) - Poster",
+      "caption": "Theatrical poster for Bad Girl (1931)",
+      "url": "https://image.tmdb.org/t/p/original/dhf6h7AESrJxWgYqpF9AdYah6mB.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dhf6h7AESrJxWgYqpF9AdYah6mB.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/84299",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "False"
+    },
+    {
+      "id": 2691,
+      "media_type": "poster",
+      "title": "Bad Girl (1931) - Poster",
+      "caption": "Theatrical poster for Bad Girl (1931)",
+      "url": "https://image.tmdb.org/t/p/original/pzsSEO55GA1oApfTmyBCLJYiRyb.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/pzsSEO55GA1oApfTmyBCLJYiRyb.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/84299",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "False"
+    },
+    {
+      "id": 2692,
+      "media_type": "poster",
+      "title": "Bad Girl (1931) - Poster",
+      "caption": "Theatrical poster for Bad Girl (1931)",
+      "url": "https://image.tmdb.org/t/p/original/p9UrOYPxLvvIC4iZPABWJ9ETTHb.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/p9UrOYPxLvvIC4iZPABWJ9ETTHb.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/84299",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "False"
+    },
+    {
+      "id": 2693,
+      "media_type": "still",
+      "title": "Bad Girl (1931) - Still",
+      "caption": "Scene from Bad Girl (1931)",
+      "url": "https://image.tmdb.org/t/p/original/a2M2cG9pwZmFkGlyAAseHTGuxWQ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/a2M2cG9pwZmFkGlyAAseHTGuxWQ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/84299",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "False"
+    },
+    {
       "id": 600,
       "media_type": "advertisement",
       "title": "Sally Eilers and James Dunn in \"Bad Girl\".jpg",
       "caption": "Press photograph of Sally Eilers and James Dunn in the American drama film Bad Girl (1931).",
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sally_Eilers_and_James_Dunn_in_%22Bad_Girl%22.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sally_Eilers_and_James_Dunn_in_%22Bad_Girl%22.jpg/300px-Sally_Eilers_and_James_Dunn_in_%22Bad_Girl%22.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Sally_Eilers_and_James_Dunn_in_\"Bad_Girl\".jpg",
       "license": "public_domain",
       "attribution": "Fox Film Corporation",
@@ -76,7 +141,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:04:06.696408"
 }

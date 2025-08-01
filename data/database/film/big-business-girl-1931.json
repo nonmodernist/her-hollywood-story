@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4788,
+      "media_type": "poster",
+      "title": "Big Business Girl (1931) - Poster",
+      "caption": "Theatrical poster for Big Business Girl (1931)",
+      "url": "https://image.tmdb.org/t/p/original/fOlwlH19lMWOre2Bp8vbLR5Ze3F.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/fOlwlH19lMWOre2Bp8vbLR5Ze3F.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/126126",
+      "license": "fair_use",
+      "attribution": "First National",
+      "is_featured": "True"
+    },
+    {
+      "id": 4789,
+      "media_type": "poster",
+      "title": "Big Business Girl (1931) - Poster",
+      "caption": "Theatrical poster for Big Business Girl (1931)",
+      "url": "https://image.tmdb.org/t/p/original/h6RyMn8mcSsnMm1aEJjZBgcbrqg.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/h6RyMn8mcSsnMm1aEJjZBgcbrqg.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/126126",
+      "license": "fair_use",
+      "attribution": "First National",
+      "is_featured": "False"
+    },
+    {
+      "id": 4790,
+      "media_type": "still",
+      "title": "Big Business Girl (1931) - Still",
+      "caption": "Scene from Big Business Girl (1931)",
+      "url": "https://image.tmdb.org/t/p/original/qDgs0dXrMZ8Pxeaut7tDvaO8I9C.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/qDgs0dXrMZ8Pxeaut7tDvaO8I9C.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/126126",
+      "license": "fair_use",
+      "attribution": "First National",
+      "is_featured": "False"
+    },
+    {
+      "id": 2007,
+      "media_type": "lobby_card",
+      "title": "Big Business Girl lobby card.jpg",
+      "caption": "Lobby card for the American comedy film Big Business Girl (1931).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Big_Business_Girl_lobby_card.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Big_Business_Girl_lobby_card.jpg/300px-Big_Business_Girl_lobby_card.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Big_Business_Girl_lobby_card.jpg",
+      "license": "public_domain",
+      "attribution": "First National Pictures / Warner Bros. The card has no copyright marks. At bottom left is Made in USA. (in border near First National logo)",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:13:54.892547"
 }

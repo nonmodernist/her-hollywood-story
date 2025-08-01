@@ -46,21 +46,60 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 2965,
+      "media_type": "poster",
+      "title": "Honeymoon in Bali (1939) - Poster",
+      "caption": "Theatrical poster for Honeymoon in Bali (1939)",
+      "url": "https://image.tmdb.org/t/p/original/fy7pPLm1LDXyiF2y6EOu34QyNcA.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/fy7pPLm1LDXyiF2y6EOu34QyNcA.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/98125",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    },
+    {
+      "id": 2966,
+      "media_type": "poster",
+      "title": "Honeymoon in Bali (1939) - Poster",
+      "caption": "Theatrical poster for Honeymoon in Bali (1939)",
+      "url": "https://image.tmdb.org/t/p/original/8a4HXvql8Ck85AJAUOqq8DI0NVB.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/8a4HXvql8Ck85AJAUOqq8DI0NVB.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/98125",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    },
+    {
+      "id": 2967,
+      "media_type": "still",
+      "title": "Honeymoon in Bali (1939) - Still",
+      "caption": "Scene from Honeymoon in Bali (1939)",
+      "url": "https://image.tmdb.org/t/p/original/88ZGBLeS5Qymfxb2Ke9cW4ssX3D.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/88ZGBLeS5Qymfxb2Ke9cW4ssX3D.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/98125",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    },
+    {
       "id": 708,
       "media_type": "still",
       "title": "Honeymoon in Bali (1939) still 1.jpg",
       "caption": "L. to R. : Helen Broderick, Fred MacMurray, Carolyn Lee et Madeleine Carroll in Honeymoon in Bali (aka My Love for Yours) - publicity still",
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Honeymoon_in_Bali_%281939%29_still_1.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Honeymoon_in_Bali_%281939%29_still_1.jpg/300px-Honeymoon_in_Bali_%281939%29_still_1.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Honeymoon_in_Bali_(1939)_still_1.jpg",
       "license": "public_domain",
-      "attribution": "unknown (Paramount Pictures)",
+      "attribution": "Paramount",
       "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:05:12.872513"
 }

@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3749,
+      "media_type": "poster",
+      "title": "Ladies Courageous (1944) - Poster",
+      "caption": "Theatrical poster for Ladies Courageous (1944)",
+      "url": "https://image.tmdb.org/t/p/original/2pnOqo9E2vSk3ZHBM5RUcsttn2u.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/2pnOqo9E2vSk3ZHBM5RUcsttn2u.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/377588",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "False"
+    },
+    {
+      "id": 3750,
+      "media_type": "poster",
+      "title": "Ladies Courageous (1944) - Poster",
+      "caption": "Theatrical poster for Ladies Courageous (1944)",
+      "url": "https://image.tmdb.org/t/p/original/q3puHpS6ON1PTm5VytVLoPkRVFt.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/q3puHpS6ON1PTm5VytVLoPkRVFt.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/377588",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "False"
+    },
+    {
+      "id": 3751,
+      "media_type": "still",
+      "title": "Ladies Courageous (1944) - Still",
+      "caption": "Scene from Ladies Courageous (1944)",
+      "url": "https://image.tmdb.org/t/p/original/veMCfbA3oLfOcYprQm9seaMr57T.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/veMCfbA3oLfOcYprQm9seaMr57T.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/377588",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:08:19.02302"
 }

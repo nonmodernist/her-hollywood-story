@@ -44,9 +44,88 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4268,
+      "media_type": "poster",
+      "title": "Mr. Peabody and the Mermaid (1948) - Poster",
+      "caption": "Theatrical poster for Mr. Peabody and the Mermaid (1948)",
+      "url": "https://image.tmdb.org/t/p/original/zi4MRJrM8oBrPheeRhnxSUEBia8.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/zi4MRJrM8oBrPheeRhnxSUEBia8.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/53834",
+      "license": "fair_use",
+      "attribution": "Inter-John",
+      "is_featured": "True"
+    },
+    {
+      "id": 4269,
+      "media_type": "poster",
+      "title": "Mr. Peabody and the Mermaid (1948) - Poster",
+      "caption": "Theatrical poster for Mr. Peabody and the Mermaid (1948)",
+      "url": "https://image.tmdb.org/t/p/original/1JFHdKijoSZ1IO7cNHtmlqiWGu.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1JFHdKijoSZ1IO7cNHtmlqiWGu.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/53834",
+      "license": "fair_use",
+      "attribution": "Inter-John",
+      "is_featured": "False"
+    },
+    {
+      "id": 4270,
+      "media_type": "poster",
+      "title": "Mr. Peabody and the Mermaid (1948) - Poster",
+      "caption": "Theatrical poster for Mr. Peabody and the Mermaid (1948)",
+      "url": "https://image.tmdb.org/t/p/original/miLIES46JyayMha47KmXyCQAWEU.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/miLIES46JyayMha47KmXyCQAWEU.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/53834",
+      "license": "fair_use",
+      "attribution": "Inter-John",
+      "is_featured": "False"
+    },
+    {
+      "id": 4271,
+      "media_type": "still",
+      "title": "Mr. Peabody and the Mermaid (1948) - Still",
+      "caption": "Scene from Mr. Peabody and the Mermaid (1948)",
+      "url": "https://image.tmdb.org/t/p/original/iHVjZYTsOcM3yCdwHNkLeG5cV0Q.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/iHVjZYTsOcM3yCdwHNkLeG5cV0Q.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/53834",
+      "license": "fair_use",
+      "attribution": "Inter-John",
+      "is_featured": "False"
+    },
+    {
+      "id": 4272,
+      "media_type": "still",
+      "title": "Mr. Peabody and the Mermaid (1948) - Still",
+      "caption": "Scene from Mr. Peabody and the Mermaid (1948)",
+      "url": "https://image.tmdb.org/t/p/original/yY79LE5n9CgMafL9FGGYbIjJdGV.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/yY79LE5n9CgMafL9FGGYbIjJdGV.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/53834",
+      "license": "fair_use",
+      "attribution": "Inter-John",
+      "is_featured": "False"
+    },
+    {
+      "id": 4273,
+      "media_type": "still",
+      "title": "Mr. Peabody and the Mermaid (1948) - Still",
+      "caption": "Scene from Mr. Peabody and the Mermaid (1948)",
+      "url": "https://image.tmdb.org/t/p/original/8iiAATvHDKqFCpBlsatON6ym7Dx.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/8iiAATvHDKqFCpBlsatON6ym7Dx.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/53834",
+      "license": "fair_use",
+      "attribution": "Inter-John",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:11:08.160707"
 }

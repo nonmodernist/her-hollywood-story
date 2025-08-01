@@ -5,7 +5,7 @@
   "formatted_title": "Points West",
   "html_title": "<span class=\"film-title\">Points West</span>",
   "release_year": 1929,
-  "runtime_minutes": null,
+  "runtime_minutes": 60,
   "country_of_production": "United States",
   "genres": [
     "Western"
@@ -44,9 +44,36 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5279,
+      "media_type": "poster",
+      "title": "Points West (1929) - Poster",
+      "caption": "Theatrical poster for Points West (1929)",
+      "url": "https://image.tmdb.org/t/p/original/qdgnMFx4h54VXFS1KtbrWFhiOtm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/qdgnMFx4h54VXFS1KtbrWFhiOtm.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/963123",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "True"
+    },
+    {
+      "id": 5280,
+      "media_type": "still",
+      "title": "Points West (1929) - Still",
+      "caption": "Scene from Points West (1929)",
+      "url": "https://image.tmdb.org/t/p/original/o2Vd4BDKkTPd3tdjpqz38nA8K3r.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/o2Vd4BDKkTPd3tdjpqz38nA8K3r.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/963123",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:07:32.079675"
+  "last_updated": "2025-08-01T17:12:33.6243"
 }

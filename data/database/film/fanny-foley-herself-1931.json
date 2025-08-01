@@ -5,7 +5,7 @@
   "formatted_title": "Fanny Foley Herself",
   "html_title": "<span class=\"film-title\">Fanny Foley Herself</span>",
   "release_year": 1931,
-  "runtime_minutes": null,
+  "runtime_minutes": 82,
   "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
@@ -44,9 +44,36 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5056,
+      "media_type": "poster",
+      "title": "Fanny Foley Herself (1931) - Poster",
+      "caption": "Theatrical poster for Fanny Foley Herself (1931)",
+      "url": "https://image.tmdb.org/t/p/original/8r7qBP8SyeWINaVyUg2Km2Hbigz.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/8r7qBP8SyeWINaVyUg2Km2Hbigz.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/338349",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 5057,
+      "media_type": "still",
+      "title": "Fanny Foley Herself (1931) - Still",
+      "caption": "Scene from Fanny Foley Herself (1931)",
+      "url": "https://image.tmdb.org/t/p/original/ujKkvVxDkhB5iQ74VUOQjLDnsCm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/ujKkvVxDkhB5iQ74VUOQjLDnsCm.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/338349",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:10:44.904097"
+  "last_updated": "2025-08-01T17:12:41.124533"
 }

@@ -5,7 +5,7 @@
   "formatted_title": "Freckles Comes Home",
   "html_title": "<span class=\"film-title\">Freckles Comes Home</span>",
   "release_year": 1942,
-  "runtime_minutes": null,
+  "runtime_minutes": 63,
   "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3007,
+      "media_type": "poster",
+      "title": "Freckles Comes Home (1942) - Poster",
+      "caption": "Theatrical poster for Freckles Comes Home (1942)",
+      "url": "https://image.tmdb.org/t/p/original/ntmh7boggQZLWld7QXIRcZs7qvE.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ntmh7boggQZLWld7QXIRcZs7qvE.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/211098",
+      "license": "fair_use",
+      "attribution": "Monogram",
+      "is_featured": "False"
+    },
+    {
+      "id": 3008,
+      "media_type": "poster",
+      "title": "Freckles Comes Home (1942) - Poster",
+      "caption": "Theatrical poster for Freckles Comes Home (1942)",
+      "url": "https://image.tmdb.org/t/p/original/qK5s0VZp5g0VbdUcDCt9iGWnRDC.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/qK5s0VZp5g0VbdUcDCt9iGWnRDC.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/211098",
+      "license": "fair_use",
+      "attribution": "Monogram",
+      "is_featured": "False"
+    },
+    {
+      "id": 3009,
+      "media_type": "still",
+      "title": "Freckles Comes Home (1942) - Still",
+      "caption": "Scene from Freckles Comes Home (1942)",
+      "url": "https://image.tmdb.org/t/p/original/wJxLSrvWYHa23nSXaEFRReYhQnz.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/wJxLSrvWYHa23nSXaEFRReYhQnz.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/211098",
+      "license": "fair_use",
+      "attribution": "Monogram",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:09:51.798173"
+  "last_updated": "2025-08-01T17:13:46.935593"
 }

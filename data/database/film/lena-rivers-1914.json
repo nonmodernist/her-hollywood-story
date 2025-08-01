@@ -5,7 +5,7 @@
   "formatted_title": "Lena Rivers",
   "html_title": "<span class=\"film-title\">Lena Rivers</span>",
   "release_year": 1914,
-  "runtime_minutes": null,
+  "runtime_minutes": 50,
   "country_of_production": "United States",
   "genres": [
     "Melodrama",
@@ -18,7 +18,7 @@
   "writers": null,
   "cast_members": null,
   "color_info": "black-and-white",
-  "adaptation_notes": null,
+  "adaptation_notes": "also based on the same named play, by Beulah Poynter, which is derived from Holmes' novel",
   "afi_catalog_id": 18162,
   "source_work": {
     "id": 568,
@@ -88,9 +88,23 @@
     "is_first": false,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4197,
+      "media_type": "poster",
+      "title": "Lena Rivers (1914) - Poster",
+      "caption": "Theatrical poster for Lena Rivers (1914)",
+      "url": "https://image.tmdb.org/t/p/original/3WujMTswNGBRSh1iMSRvh9ermjq.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/3WujMTswNGBRSh1iMSRvh9ermjq.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/477154",
+      "license": "fair_use",
+      "attribution": "Cosmos",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:07:42.276626"
+  "last_updated": "2025-08-01T16:47:14.681757"
 }

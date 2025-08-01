@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5199,
+      "media_type": "poster",
+      "title": "Empty Saddles (1936) - Poster",
+      "caption": "Theatrical poster for Empty Saddles (1936)",
+      "url": "https://image.tmdb.org/t/p/original/fXkVb6W9fXVEfYeR8a8lN3ti3AC.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/fXkVb6W9fXVEfYeR8a8lN3ti3AC.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/341893",
+      "license": "fair_use",
+      "attribution": "Buck Jones Productions",
+      "is_featured": "True"
+    },
+    {
+      "id": 5200,
+      "media_type": "poster",
+      "title": "Empty Saddles (1936) - Poster",
+      "caption": "Theatrical poster for Empty Saddles (1936)",
+      "url": "https://image.tmdb.org/t/p/original/ttwMtPhOCioWYRKJd5nE3XvDDsN.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ttwMtPhOCioWYRKJd5nE3XvDDsN.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/341893",
+      "license": "fair_use",
+      "attribution": "Buck Jones Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 5201,
+      "media_type": "still",
+      "title": "Empty Saddles (1936) - Still",
+      "caption": "Scene from Empty Saddles (1936)",
+      "url": "https://image.tmdb.org/t/p/original/2PvR8NHsI38E6Lw14U5GiFJybXq.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/2PvR8NHsI38E6Lw14U5GiFJybXq.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/341893",
+      "license": "fair_use",
+      "attribution": "Buck Jones Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 2325,
+      "media_type": "advertisement",
+      "title": "1938 - Transit Theater - 9 Apr MC - Allentown PA.jpg",
+      "caption": "Transit Theater advertisement for the American films The Jury's Secret (1938) and Empty Saddles (1936) - 9 Apr. 1938 Morning Call, Allentown PA",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/1938_-_Transit_Theater_-_9_Apr_MC_-_Allentown_PA.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/1938_-_Transit_Theater_-_9_Apr_MC_-_Allentown_PA.jpg/300px-1938_-_Transit_Theater_-_9_Apr_MC_-_Allentown_PA.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1938_-_Transit_Theater_-_9_Apr_MC_-_Allentown_PA.jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author Self-scanned",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:16:19.844227"
 }

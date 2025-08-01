@@ -46,13 +46,52 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 3519,
+      "media_type": "poster",
+      "title": "Wake Up and Live (1937) - Poster",
+      "caption": "Theatrical poster for Wake Up and Live (1937)",
+      "url": "https://image.tmdb.org/t/p/original/8vfhsrSNOPK2SrMEdBUKmpmvO2h.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/8vfhsrSNOPK2SrMEdBUKmpmvO2h.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/242329",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "True"
+    },
+    {
+      "id": 3520,
+      "media_type": "still",
+      "title": "Wake Up and Live (1937) - Still",
+      "caption": "Scene from Wake Up and Live (1937)",
+      "url": "https://image.tmdb.org/t/p/original/uAnBaU6Eu5WVOGuqUnwrIoSbxuZ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/uAnBaU6Eu5WVOGuqUnwrIoSbxuZ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/242329",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 3521,
+      "media_type": "still",
+      "title": "Wake Up and Live (1937) - Still",
+      "caption": "Scene from Wake Up and Live (1937)",
+      "url": "https://image.tmdb.org/t/p/original/jtfkFshRvHnEwyhsCRjc6zWuTIF.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/jtfkFshRvHnEwyhsCRjc6zWuTIF.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/242329",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
       "id": 979,
       "media_type": "production_photo",
       "title": "Mr. and Mrs. Ben Bernie 1937.JPG",
       "caption": "Photo of Ben Bernie and his wife during a break in the filming of Wake Up and Live.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Mr._and_Mrs._Ben_Bernie_1937.JPG",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mr._and_Mrs._Ben_Bernie_1937.JPG/300px-Mr._and_Mrs._Ben_Bernie_1937.JPG",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Mr._and_Mrs._Ben_Bernie_1937.JPG",
       "license": "public_domain",
       "attribution": "20th Century Fox",
@@ -60,7 +99,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:07:12.898014"
 }

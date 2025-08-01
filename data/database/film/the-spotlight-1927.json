@@ -5,7 +5,7 @@
   "formatted_title": "The Spotlight",
   "html_title": "<span class=\"film-title\">The Spotlight</span>",
   "release_year": 1927,
-  "runtime_minutes": null,
+  "runtime_minutes": 50,
   "country_of_production": "United States",
   "genres": [
     "Romance"
@@ -60,9 +60,36 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5117,
+      "media_type": "poster",
+      "title": "The Spotlight (1927) - Poster",
+      "caption": "Theatrical poster for The Spotlight (1927)",
+      "url": "https://image.tmdb.org/t/p/original/cLZNr6nQ9tCvPj1pEsMIamDIBFF.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/cLZNr6nQ9tCvPj1pEsMIamDIBFF.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/451698",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    },
+    {
+      "id": 2253,
+      "media_type": "poster",
+      "title": "The Spotlight poster.jpg",
+      "caption": "Poster for The Spotlight",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/The_Spotlight_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/The_Spotlight_poster.jpg/300px-The_Spotlight_poster.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Spotlight_poster.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures (distributor)",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:15:55.688925"
+  "last_updated": "2025-08-01T17:12:30.151746"
 }

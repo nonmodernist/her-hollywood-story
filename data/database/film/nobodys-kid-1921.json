@@ -5,7 +5,7 @@
   "formatted_title": "Nobody's Kid",
   "html_title": "<span class=\"film-title\">Nobody's Kid</span>",
   "release_year": 1921,
-  "runtime_minutes": null,
+  "runtime_minutes": 50,
   "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
@@ -46,16 +46,16 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 257,
-      "media_type": "advertisement",
-      "title": "Nobody's Kid (1921) - 4.jpg",
-      "caption": "Advertisement for the American comedy film Nobody's Kid (1921) with Mae Marsh and Anne Schaefer, on page 23 of the May 7, 1921 Exhibitors Herald.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Nobody%27s_Kid_%281921%29_-_4.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Nobody%27s_Kid_%281921%29_-_4.jpg/300px-Nobody%27s_Kid_%281921%29_-_4.jpg",
-      "source": "wikimedia",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Nobody's_Kid_(1921)_-_4.jpg",
-      "license": "public_domain",
-      "attribution": "Robertson-Cole Pictures Corporation",
+      "id": 2505,
+      "media_type": "poster",
+      "title": "Nobody's Kid (1921) - Poster",
+      "caption": "Theatrical poster for Nobody's Kid (1921)",
+      "url": "https://image.tmdb.org/t/p/original/8d7ANiDcZxApp8S9HJ7OCE48kyb.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/8d7ANiDcZxApp8S9HJ7OCE48kyb.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/641319",
+      "license": "fair_use",
+      "attribution": "Robertson-Cole",
       "is_featured": "False"
     },
     {
@@ -65,7 +65,7 @@
       "caption": "Still from the American comedy film Nobody's Kid (1921) with Mae Marsh, Anne Schaefer, and Kathleen Kirkham, on page 57 of the April 23, 1921 Exhibitors Herald.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Nobody%27s_Kid_%281921%29_-_2.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Nobody%27s_Kid_%281921%29_-_2.jpg/300px-Nobody%27s_Kid_%281921%29_-_2.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Nobody's_Kid_(1921)_-_2.jpg",
       "license": "public_domain",
       "attribution": "Robertson-Cole Pictures Corporation",
@@ -78,7 +78,7 @@
       "caption": "Still from the American comedy film Nobody's Kid (1921) with Mae Marsh and Paul Willis, on page 57 of the April 23, 1921 Exhibitors Herald.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Nobody%27s_Kid_%281921%29_-_1.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Nobody%27s_Kid_%281921%29_-_1.jpg/300px-Nobody%27s_Kid_%281921%29_-_1.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Nobody's_Kid_(1921)_-_1.jpg",
       "license": "public_domain",
       "attribution": "Robertson-Cole Pictures Corporation",
@@ -91,15 +91,28 @@
       "caption": "Still from the American comedy film Nobody's Kid (1921) with Mae Marsh and unidentified actors, on page 66 of the April 30, 1921 Exhibitors Herald.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Nobody%27s_Kid_%281921%29_-_3.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Nobody%27s_Kid_%281921%29_-_3.jpg/300px-Nobody%27s_Kid_%281921%29_-_3.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Nobody's_Kid_(1921)_-_3.jpg",
+      "license": "public_domain",
+      "attribution": "Robertson-Cole Pictures Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 257,
+      "media_type": "advertisement",
+      "title": "Nobody's Kid (1921) - 4.jpg",
+      "caption": "Advertisement for the American comedy film Nobody's Kid (1921) with Mae Marsh and Anne Schaefer, on page 23 of the May 7, 1921 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Nobody%27s_Kid_%281921%29_-_4.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Nobody%27s_Kid_%281921%29_-_4.jpg/300px-Nobody%27s_Kid_%281921%29_-_4.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Nobody's_Kid_(1921)_-_4.jpg",
       "license": "public_domain",
       "attribution": "Robertson-Cole Pictures Corporation",
       "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 4,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:06:49.43376"
+  "last_updated": "2025-08-01T17:09:20.540903"
 }

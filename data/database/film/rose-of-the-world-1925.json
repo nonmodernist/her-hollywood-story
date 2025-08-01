@@ -5,7 +5,7 @@
   "formatted_title": "Rose of the World",
   "html_title": "<span class=\"film-title\">Rose of the World</span>",
   "release_year": 1925,
-  "runtime_minutes": null,
+  "runtime_minutes": 80,
   "country_of_production": "United States",
   "genres": [
     "Melodrama"
@@ -44,9 +44,114 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4647,
+      "media_type": "poster",
+      "title": "Rose of the World (1925) - Poster",
+      "caption": "Theatrical poster for Rose of the World (1925)",
+      "url": "https://image.tmdb.org/t/p/original/q6wXe4E9sufHoe2oR7lGumX7Zin.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/q6wXe4E9sufHoe2oR7lGumX7Zin.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/595155",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4648,
+      "media_type": "poster",
+      "title": "Rose of the World (1925) - Poster",
+      "caption": "Theatrical poster for Rose of the World (1925)",
+      "url": "https://image.tmdb.org/t/p/original/qFz9blhdWBWNx2JxqVRATsfV93N.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/qFz9blhdWBWNx2JxqVRATsfV93N.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/595155",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4649,
+      "media_type": "still",
+      "title": "Rose of the World (1925) - Still",
+      "caption": "Scene from Rose of the World (1925)",
+      "url": "https://image.tmdb.org/t/p/original/gpMalbtto8OPu9O9dChtUW3Zjku.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/gpMalbtto8OPu9O9dChtUW3Zjku.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/595155",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 1881,
+      "media_type": "still",
+      "title": "Rose of the World (1925) - 2.jpg",
+      "caption": "Still from the American melodrama film Rose of the World (1925) with Patsy Ruth Miller and Allan Forrest, on page 77 of the August 1, 1925 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Rose_of_the_World_%281925%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rose_of_the_World_%281925%29_-_2.jpg/300px-Rose_of_the_World_%281925%29_-_2.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rose_of_the_World_(1925)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Warner Bros.",
+      "is_featured": "False"
+    },
+    {
+      "id": 1880,
+      "media_type": "advertisement",
+      "title": "Rose of the World (1925) - 1.jpg",
+      "caption": "Advertisement for the film Rose of the World (1925) noting bestselling novel by Kathleen Norris it is based upon, on page 200 of the November 21, 1925 The Moving Picture World.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Rose_of_the_World_%281925%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Rose_of_the_World_%281925%29_-_1.jpg/300px-Rose_of_the_World_%281925%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rose_of_the_World_(1925)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Warner Bros. Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 1882,
+      "media_type": "still",
+      "title": "Rose of the World (1925) - 3.jpg",
+      "caption": "Still from the Aerican melodrama film Rose of the World (1925) with Patsy Ruth Miller and Allan Forrest, on page 67 of the December 5, 1925 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Rose_of_the_World_%281925%29_-_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rose_of_the_World_%281925%29_-_3.jpg/300px-Rose_of_the_World_%281925%29_-_3.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rose_of_the_World_(1925)_-_3.jpg",
+      "license": "public_domain",
+      "attribution": "Warner Bros.",
+      "is_featured": "False"
+    },
+    {
+      "id": 1883,
+      "media_type": "still",
+      "title": "Rose of the World (1925) - 4.jpg",
+      "caption": "Still from the Aerican melodrama film Rose of the World (1925) with Pauline Garon and Allan Forrest, on page 69 of the December 5, 1925 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Rose_of_the_World_%281925%29_-_4.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rose_of_the_World_%281925%29_-_4.jpg/300px-Rose_of_the_World_%281925%29_-_4.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rose_of_the_World_(1925)_-_4.jpg",
+      "license": "public_domain",
+      "attribution": "Warner Bros.",
+      "is_featured": "False"
+    },
+    {
+      "id": 1884,
+      "media_type": "advertisement",
+      "title": "1926 advertisement for Rose of the World starring Patsy Ruth Miller.jpg",
+      "caption": "1926 advertisement for the film Rose of the World (1925) staring Patsy Ruth Miller.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/1926_advertisement_for_Rose_of_the_World_starring_Patsy_Ruth_Miller.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/1926_advertisement_for_Rose_of_the_World_starring_Patsy_Ruth_Miller.jpg/300px-1926_advertisement_for_Rose_of_the_World_starring_Patsy_Ruth_Miller.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1926_advertisement_for_Rose_of_the_World_starring_Patsy_Ruth_Miller.jpg",
+      "license": "public_domain",
+      "attribution": "Commercial advertisement / Warner Bros. Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 8,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:17:29.472718"
+  "last_updated": "2025-08-01T17:09:36.057558"
 }

@@ -69,9 +69,114 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3148,
+      "media_type": "poster",
+      "title": "Little Women (1948) - Poster",
+      "caption": "Theatrical poster for Little Women (1948)",
+      "url": "https://image.tmdb.org/t/p/original/7hQPphl95wUGnP2aeY1ossB7szf.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/7hQPphl95wUGnP2aeY1ossB7szf.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43436",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "True"
+    },
+    {
+      "id": 3149,
+      "media_type": "poster",
+      "title": "Little Women (1948) - Poster",
+      "caption": "Theatrical poster for Little Women (1948)",
+      "url": "https://image.tmdb.org/t/p/original/iyDf1PvRjtLOFIMFabA5TBD51KP.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/iyDf1PvRjtLOFIMFabA5TBD51KP.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43436",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3150,
+      "media_type": "poster",
+      "title": "Little Women (1948) - Poster",
+      "caption": "Theatrical poster for Little Women (1948)",
+      "url": "https://image.tmdb.org/t/p/original/aGi28XTn9Blh56wyyH9CiA83WPy.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/aGi28XTn9Blh56wyyH9CiA83WPy.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43436",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3151,
+      "media_type": "poster",
+      "title": "Little Women (1948) - Poster",
+      "caption": "Theatrical poster for Little Women (1948)",
+      "url": "https://image.tmdb.org/t/p/original/qrshhX8dywIOljtITGHGNK6TJcB.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/qrshhX8dywIOljtITGHGNK6TJcB.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43436",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3152,
+      "media_type": "poster",
+      "title": "Little Women (1948) - Poster",
+      "caption": "Theatrical poster for Little Women (1948)",
+      "url": "https://image.tmdb.org/t/p/original/uaBm6X39gGbusXYKvSEVfN5l8Rw.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/uaBm6X39gGbusXYKvSEVfN5l8Rw.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43436",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3153,
+      "media_type": "still",
+      "title": "Little Women (1948) - Still",
+      "caption": "Scene from Little Women (1948)",
+      "url": "https://image.tmdb.org/t/p/original/uTPHXSCC7KS1WBSmSSxu3jmypbS.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/uTPHXSCC7KS1WBSmSSxu3jmypbS.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43436",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3154,
+      "media_type": "still",
+      "title": "Little Women (1948) - Still",
+      "caption": "Scene from Little Women (1948)",
+      "url": "https://image.tmdb.org/t/p/original/i0GxP78UBZ9v34dEaUey6gaF6Yc.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/i0GxP78UBZ9v34dEaUey6gaF6Yc.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43436",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3155,
+      "media_type": "still",
+      "title": "Little Women (1948) - Still",
+      "caption": "Scene from Little Women (1948)",
+      "url": "https://image.tmdb.org/t/p/original/kjmpu3IRAlZfjs1jutOkifGsGD.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/kjmpu3IRAlZfjs1jutOkifGsGD.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43436",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 8,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:05:52.557502"
 }

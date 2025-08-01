@@ -5,7 +5,7 @@
   "formatted_title": "Josselyn's Wife",
   "html_title": "<span class=\"film-title\">Josselyn's Wife</span>",
   "release_year": 1919,
-  "runtime_minutes": null,
+  "runtime_minutes": 50,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -60,9 +60,88 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4635,
+      "media_type": "poster",
+      "title": "Josselyn's Wife (1919) - Poster",
+      "caption": "Theatrical poster for Josselyn's Wife (1919)",
+      "url": "https://image.tmdb.org/t/p/original/1ptCpaqgXt37DxmLw4KObOewRza.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1ptCpaqgXt37DxmLw4KObOewRza.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/615915",
+      "license": "fair_use",
+      "attribution": "B. B. Features",
+      "is_featured": "False"
+    },
+    {
+      "id": 4636,
+      "media_type": "still",
+      "title": "Josselyn's Wife (1919) - Still",
+      "caption": "Scene from Josselyn's Wife (1919)",
+      "url": "https://image.tmdb.org/t/p/original/w9pPCTWn9awbfI6TrBd55ijhZWE.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/w9pPCTWn9awbfI6TrBd55ijhZWE.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/615915",
+      "license": "fair_use",
+      "attribution": "B. B. Features",
+      "is_featured": "False"
+    },
+    {
+      "id": 1855,
+      "media_type": "advertisement",
+      "title": "Josselyn's Wife.jpg",
+      "caption": "Advertisement in Moving Picture World, April 1919 for the film Josselyn's Wife (1919).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Josselyn%27s_Wife.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Josselyn%27s_Wife.jpg/300px-Josselyn%27s_Wife.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Josselyn's_Wife.jpg",
+      "license": "public_domain",
+      "attribution": "Exhibitors Mutual / Robertson-Cole",
+      "is_featured": "False"
+    },
+    {
+      "id": 1856,
+      "media_type": "advertisement",
+      "title": "Bessie Barriscale - Jun 1919 EH.jpg",
+      "caption": "Advertisement promoting four films starring Bessie Barriscale, All of a Sudden Norma (1919), A Trick of Fate (1919), Hearts Asleep (1919), and Josselyn's Wife (1919), from an insert at page 6 of the June 14, 1919 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bessie_Barriscale_-_Jun_1919_EH.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bessie_Barriscale_-_Jun_1919_EH.jpg/300px-Bessie_Barriscale_-_Jun_1919_EH.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bessie_Barriscale_-_Jun_1919_EH.jpg",
+      "license": "public_domain",
+      "attribution": "Exhibitors Mutual",
+      "is_featured": "False"
+    },
+    {
+      "id": 1854,
+      "media_type": "advertisement",
+      "title": "Josselyn's Wife (1919) - Ad 2.jpg",
+      "caption": "Ad for the American film Josselyn's Wife (1919) with Bessie Barriscale, from color insert after page 610 of the May 3, 1919 Moving Picture World.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Josselyn%27s_Wife_%281919%29_-_Ad_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Josselyn%27s_Wife_%281919%29_-_Ad_2.jpg/300px-Josselyn%27s_Wife_%281919%29_-_Ad_2.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Josselyn's_Wife_(1919)_-_Ad_2.jpg",
+      "license": "public_domain",
+      "attribution": "Bessie Barriscale Productions / Exhibitors Mutual / Robertson-Cole",
+      "is_featured": "False"
+    },
+    {
+      "id": 1853,
+      "media_type": "advertisement",
+      "title": "Josselyn's Wife (1919) - Ad 3.jpg",
+      "caption": "Ad for the American film Josselyn's Wife (1919) with Bessie Barriscale and novelist Kathleen Norris, on pages 16 and 17 of the April 13, 1919 Film Daily.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Josselyn%27s_Wife_%281919%29_-_Ad_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Josselyn%27s_Wife_%281919%29_-_Ad_3.jpg/300px-Josselyn%27s_Wife_%281919%29_-_Ad_3.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Josselyn's_Wife_(1919)_-_Ad_3.jpg",
+      "license": "public_domain",
+      "attribution": "Bessie Barriscale Productions / Exhibitors Mutual / Robertson-Cole",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:11:17.590287"
+  "last_updated": "2025-08-01T17:04:44.93845"
 }

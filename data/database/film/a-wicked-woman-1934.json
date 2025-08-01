@@ -5,7 +5,7 @@
   "formatted_title": "A Wicked Woman",
   "html_title": "<span class=\"film-title\">A Wicked Woman</span>",
   "release_year": 1934,
-  "runtime_minutes": null,
+  "runtime_minutes": 72,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2841,
+      "media_type": "poster",
+      "title": "A Wicked Woman (1934) - Poster",
+      "caption": "Theatrical poster for A Wicked Woman (1934)",
+      "url": "https://image.tmdb.org/t/p/original/debmmpBlVHa7MnquipTRvi06KIl.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/debmmpBlVHa7MnquipTRvi06KIl.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/174764",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 2842,
+      "media_type": "poster",
+      "title": "A Wicked Woman (1934) - Poster",
+      "caption": "Theatrical poster for A Wicked Woman (1934)",
+      "url": "https://image.tmdb.org/t/p/original/nzLDfNTKU6f5THuffB2CPF83pi1.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/nzLDfNTKU6f5THuffB2CPF83pi1.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/174764",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 2843,
+      "media_type": "still",
+      "title": "A Wicked Woman (1934) - Still",
+      "caption": "Scene from A Wicked Woman (1934)",
+      "url": "https://image.tmdb.org/t/p/original/oWl8pNCfCSTcLVX4YAw7lKSTVey.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/oWl8pNCfCSTcLVX4YAw7lKSTVey.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/174764",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 2844,
+      "media_type": "still",
+      "title": "A Wicked Woman (1934) - Still",
+      "caption": "Scene from A Wicked Woman (1934)",
+      "url": "https://image.tmdb.org/t/p/original/u3DqTZNjULE1Hj2UmeL1oaiXNSL.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/u3DqTZNjULE1Hj2UmeL1oaiXNSL.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/174764",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:06:22.808102"
+  "last_updated": "2025-08-01T17:12:48.974187"
 }

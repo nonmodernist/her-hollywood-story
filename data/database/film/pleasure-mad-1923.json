@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5086,
+      "media_type": "poster",
+      "title": "Pleasure Mad (1923) - Poster",
+      "caption": "Theatrical poster for Pleasure Mad (1923)",
+      "url": "https://image.tmdb.org/t/p/original/qZYUQH96jCnZh8s7CQkiP367srm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/qZYUQH96jCnZh8s7CQkiP367srm.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/665434",
+      "license": "fair_use",
+      "attribution": "Louis B. Mayer Productions ",
+      "is_featured": "False"
+    },
+    {
+      "id": 5087,
+      "media_type": "poster",
+      "title": "Pleasure Mad (1923) - Poster",
+      "caption": "Theatrical poster for Pleasure Mad (1923)",
+      "url": "https://image.tmdb.org/t/p/original/mzMHzgJN6YVhNLpf4vIkUTsC6IJ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/mzMHzgJN6YVhNLpf4vIkUTsC6IJ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/665434",
+      "license": "fair_use",
+      "attribution": "Louis B. Mayer Productions ",
+      "is_featured": "False"
+    },
+    {
+      "id": 5088,
+      "media_type": "still",
+      "title": "Pleasure Mad (1923) - Still",
+      "caption": "Scene from Pleasure Mad (1923)",
+      "url": "https://image.tmdb.org/t/p/original/naf6PlmFc9X7fIL9VXiqa3fl2tB.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/naf6PlmFc9X7fIL9VXiqa3fl2tB.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/665434",
+      "license": "fair_use",
+      "attribution": "Louis B. Mayer Productions ",
+      "is_featured": "False"
+    },
+    {
+      "id": 2206,
+      "media_type": "still",
+      "title": "Pleasure Mad (SAYRE 13957).jpg",
+      "caption": "Still from the American drama film Pleasure Mad (1923) Subjects: motion pictures, actresses",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Pleasure_Mad_%28SAYRE_13957%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pleasure_Mad_%28SAYRE_13957%29.jpg/300px-Pleasure_Mad_%28SAYRE_13957%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pleasure_Mad_(SAYRE_13957).jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:15:33.182952"
 }

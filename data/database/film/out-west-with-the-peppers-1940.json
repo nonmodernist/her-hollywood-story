@@ -78,9 +78,62 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4959,
+      "media_type": "poster",
+      "title": "Out West with the Peppers (1940) - Poster",
+      "caption": "Theatrical poster for Out West with the Peppers (1940)",
+      "url": "https://image.tmdb.org/t/p/original/vUVxiJ3xIA0Gt3T4xuFnIKWuSCF.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/vUVxiJ3xIA0Gt3T4xuFnIKWuSCF.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/239358",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "True"
+    },
+    {
+      "id": 4960,
+      "media_type": "poster",
+      "title": "Out West with the Peppers (1940) - Poster",
+      "caption": "Theatrical poster for Out West with the Peppers (1940)",
+      "url": "https://image.tmdb.org/t/p/original/mFxruSnSpGuBiTNT2lwR6g3vtz5.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/mFxruSnSpGuBiTNT2lwR6g3vtz5.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/239358",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    },
+    {
+      "id": 4961,
+      "media_type": "still",
+      "title": "Out West with the Peppers (1940) - Still",
+      "caption": "Scene from Out West with the Peppers (1940)",
+      "url": "https://image.tmdb.org/t/p/original/xXTPBVQnFVHjuqHGw3gm1gEtOcr.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/xXTPBVQnFVHjuqHGw3gm1gEtOcr.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/239358",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    },
+    {
+      "id": 4962,
+      "media_type": "still",
+      "title": "Out West with the Peppers (1940) - Still",
+      "caption": "Scene from Out West with the Peppers (1940)",
+      "url": "https://image.tmdb.org/t/p/original/nrZRfi8WGGbmNppQj1CqdmT8jSn.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/nrZRfi8WGGbmNppQj1CqdmT8jSn.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/239358",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:14:56.829992"
 }

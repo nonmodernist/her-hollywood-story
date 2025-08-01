@@ -5,7 +5,7 @@
   "formatted_title": "The Scarlet Shadow",
   "html_title": "<span class=\"film-title\">The Scarlet Shadow</span>",
   "release_year": 1919,
-  "runtime_minutes": null,
+  "runtime_minutes": 60,
   "country_of_production": "United States",
   "genres": [
     "Comedy"
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4848,
+      "media_type": "poster",
+      "title": "The Scarlet Shadow (1919) - Poster",
+      "caption": "Theatrical poster for The Scarlet Shadow (1919)",
+      "url": "https://image.tmdb.org/t/p/original/m3wWcfC2IW01yDeMCUZxQMaearj.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/m3wWcfC2IW01yDeMCUZxQMaearj.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/612285",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "False"
+    },
+    {
+      "id": 2086,
+      "media_type": "poster",
+      "title": "The Scarlet Shadow.jpg",
+      "caption": "Poster for the 1919 film The Scarlet Shadow",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/The_Scarlet_Shadow.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Scarlet_Shadow.jpg/300px-The_Scarlet_Shadow.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Scarlet_Shadow.jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    },
+    {
+      "id": 2085,
+      "media_type": "still",
+      "title": "The Scarlet Shadow (1919) - 1.jpg",
+      "caption": "Still from the American comedy film The Scarlet Shadow (1919) with Willard Louis and Mae Murray, on page 1226 of the March 1, 1919 Moving Picture World.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/The_Scarlet_Shadow_%281919%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/The_Scarlet_Shadow_%281919%29_-_1.jpg/300px-The_Scarlet_Shadow_%281919%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Scarlet_Shadow_(1919)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Film Manufacturing Company",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:17:49.398563"
+  "last_updated": "2025-08-01T17:04:50.146219"
 }

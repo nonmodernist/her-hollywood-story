@@ -106,6 +106,8 @@
           "distribution_companies": "V-L-S-E, Inc.",
           "color_info": null,
           "subgenres": null,
+          "external_ids": null,
+          "wikidata_id": null,
           "slug": "the-circular-staircase-1915",
           "formatted_title": "The Circular Staircase",
           "html_title": "<span class=\"film-title\">The Circular Staircase</span>",
@@ -114,11 +116,11 @@
           "mediaCount": 2,
           "featuredMedia": {
             "type": "advertisement",
-            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Circular_Staircase%2C_1915.jpg/300px-The_Circular_Staircase%2C_1915.jpg",
-            "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_Circular_Staircase%2C_1915.jpg",
-            "caption": "Advertisement for film version of Mary Roberts Rinehart’s novel The Circular Staircase, 1915",
-            "source": "wikimedia",
-            "attribution": "Anonymous photographer and designer"
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Miss_Eugenie_Besserer_in_The_Circular_Staircase%2C_1915.jpg/300px-Miss_Eugenie_Besserer_in_The_Circular_Staircase%2C_1915.jpg",
+            "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Miss_Eugenie_Besserer_in_The_Circular_Staircase%2C_1915.jpg",
+            "caption": "Advertisement for the film version of Mary Roberts Rinehart’s novel The Circular Staircase, 1915",
+            "source": "Wikimedia Commons",
+            "attribution": "Selig Polyscope"
           },
           "decade": 1910
         },
@@ -149,6 +151,8 @@
           "distribution_companies": "Allied Artists Pictures Corp.",
           "color_info": null,
           "subgenres": "['Crime']",
+          "external_ids": null,
+          "wikidata_id": null,
           "slug": "the-bat-1959",
           "formatted_title": "The Bat",
           "html_title": "<span class=\"film-title\">The Bat</span>",
@@ -160,7 +164,7 @@
             "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lenita_Lane_in_The_Bat_%281959%29.jpg/300px-Lenita_Lane_in_The_Bat_%281959%29.jpg",
             "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Lenita_Lane_in_The_Bat_%281959%29.jpg",
             "caption": "Lenita Lane in The Bat (1959 film) - cropped screenshot",
-            "source": "wikimedia",
+            "source": "Wikimedia Commons",
             "attribution": "Film screenshot (Allied Artists)"
           },
           "decade": 1950
@@ -264,7 +268,7 @@
           "women_in_key_roles": null,
           "added_by": "initial_import",
           "created_at": "2025-06-17T13:57:07.239452",
-          "updated_at": "2025-07-31T21:12:33.780969",
+          "updated_at": "2025-08-01T16:02:30.33165",
           "directors": "Charles Maigne",
           "writers": "Charles Maigne",
           "cast_members": "Alice Brady|David Powell|Nellie Parker-Spaulding|Gloria Goodwin|Gertrude Barry|Hardy Kirkland|Ormi Hawley|C. A. de Lima|Jefferson de Angelis|Louis Sherwin",
@@ -272,6 +276,8 @@
           "distribution_companies": "Select Pictures Corp.",
           "color_info": "black-and-white",
           "subgenres": null,
+          "external_ids": "{\"imdb\": \"tt0009164\", \"afi\": \"17126\", \"allmovie\": \"v94873\"}",
+          "wikidata_id": "Q3785065",
           "slug": "her-great-chance-1918",
           "formatted_title": "Her Great Chance",
           "html_title": "<span class=\"film-title\">Her Great Chance</span>",
@@ -283,7 +289,7 @@
             "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Her_Great_Chance_poster.jpg/300px-Her_Great_Chance_poster.jpg",
             "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Her_Great_Chance_poster.jpg",
             "caption": "Poster for the 1918 film Her Great Chance'.",
-            "source": "wikimedia",
+            "source": "Wikimedia Commons",
             "attribution": "Select Pictures"
           },
           "decade": 1910
@@ -315,6 +321,8 @@
           "distribution_companies": "Universal-International",
           "color_info": null,
           "subgenres": null,
+          "external_ids": null,
+          "wikidata_id": null,
           "slug": "back-street-1961",
           "formatted_title": "Back Street",
           "html_title": "<span class=\"film-title\">Back Street</span>",
@@ -408,7 +416,7 @@
           "id": 555,
           "title": "Our Mrs. McChesney",
           "release_year": 1918,
-          "runtime_minutes": null,
+          "runtime_minutes": 50,
           "country_of_production": "United States",
           "genres": [
             "Comedy-drama"
@@ -423,7 +431,7 @@
           "women_in_key_roles": null,
           "added_by": "Women Writers: From Page to Screen",
           "created_at": "2025-07-03T00:18:13.765152",
-          "updated_at": "2025-07-31T21:12:12.552513",
+          "updated_at": "2025-08-01T17:04:35.846207",
           "directors": "Ralph W. Ince",
           "writers": "Luther A. Reed",
           "cast_members": "Ethel Barrymore|Huntley Gordon|Wilfred Lytell|Lucille Lee Stewart|John Daly Murphy|Walter Percival|William H. St. James|Ricca Allen|George Trimble|Sammy Cooper",
@@ -431,19 +439,21 @@
           "distribution_companies": "Metro Pictures Corp.",
           "color_info": "black-and-white",
           "subgenres": null,
+          "external_ids": "{\"imdb\": \"tt0009465\", \"afi\": \"17224\", \"allmovie\": \"v105169\", \"letterboxd\": \"our-mrs-mcchesney\", \"tmdb\": \"892851\"}",
+          "wikidata_id": "Q7111105",
           "slug": "our-mrs-mcchesney-1918",
           "formatted_title": "Our Mrs. McChesney",
           "html_title": "<span class=\"film-title\">Our Mrs. McChesney</span>",
           "genres_string": "Comedy-drama",
           "hasMedia": true,
-          "mediaCount": 2,
+          "mediaCount": 4,
           "featuredMedia": {
-            "type": "advertisement",
-            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Our_Mrs._McChesney_%281918%29_-_1.jpg/300px-Our_Mrs._McChesney_%281918%29_-_1.jpg",
-            "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Our_Mrs._McChesney_%281918%29_-_1.jpg",
-            "caption": "Advertisement for the American comedy drama film Our Mrs. McChesney (1918) with Ethel Barrymore, part of an insert promoting Metro Picctures at page 10 of the August 24, 1918 Exhibitors Herald.",
-            "source": "wikimedia",
-            "attribution": "Metro Pictures Corporation"
+            "type": "poster",
+            "thumbnailUrl": "https://image.tmdb.org/t/p/w342/jpd2G5p9iyisovbq4m7JEr2Yu6c.jpg",
+            "fullUrl": "https://image.tmdb.org/t/p/original/jpd2G5p9iyisovbq4m7JEr2Yu6c.jpg",
+            "caption": "Theatrical poster for Our Mrs. McChesney (1918)",
+            "source": "TMDb",
+            "attribution": "Metro Pictures"
           },
           "decade": 1910
         },
@@ -466,7 +476,7 @@
           "women_in_key_roles": null,
           "added_by": "initial_import",
           "created_at": "2025-06-17T13:57:07.239452",
-          "updated_at": "2025-07-31T20:55:34.163372",
+          "updated_at": "2025-08-01T16:06:32.176891",
           "directors": "Anthony Mann",
           "writers": "Arnold Schulman",
           "cast_members": "Glenn Ford|Maria Schell|Anne Baxter|Arthur O'Connell|Russ Tamblyn|Mercedes McCambridge|Vic Morrow|Robert Keith|Charles McGraw|Henry [\"Harry\"] Morgan",
@@ -474,19 +484,21 @@
           "distribution_companies": "Loew's Inc.",
           "color_info": "color",
           "subgenres": null,
+          "external_ids": "{\"imdb\": \"tt0053715\", \"afi\": \"53484\", \"allmovie\": \"v87266\", \"letterboxd\": \"cimarron-1960\", \"rottentomatoes\": \"m/1046579-cimarron\", \"tmdb\": \"46623\", \"filmaffinity\": \"116653\"}",
+          "wikidata_id": "Q2719291",
           "slug": "cimarron-1960",
           "formatted_title": "Cimarron",
           "html_title": "<span class=\"film-title\">Cimarron</span>",
           "genres_string": "Western",
           "hasMedia": true,
-          "mediaCount": 1,
+          "mediaCount": 9,
           "featuredMedia": {
             "type": "poster",
-            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cimarron1960.jpg/300px-Cimarron1960.jpg",
-            "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Cimarron1960.jpg",
-            "caption": "Poster for the film Cimarron (1960).",
-            "source": "wikimedia",
-            "attribution": "Reynold Brown"
+            "thumbnailUrl": "https://image.tmdb.org/t/p/w342/qEY9qLmc6X3LGDe7XhgG35MGm64.jpg",
+            "fullUrl": "https://image.tmdb.org/t/p/original/qEY9qLmc6X3LGDe7XhgG35MGm64.jpg",
+            "caption": "Theatrical poster for Cimarron (1960)",
+            "source": "TMDb",
+            "attribution": "MGM"
           },
           "decade": 1960
         },
@@ -589,6 +601,8 @@
           "distribution_companies": "Famous Players-Lasky Corp.; Paramount Pictures",
           "color_info": null,
           "subgenres": null,
+          "external_ids": null,
+          "wikidata_id": null,
           "slug": "less-than-kin-1918",
           "formatted_title": "Less Than Kin",
           "html_title": "<span class=\"film-title\">Less Than Kin</span>",
@@ -600,7 +614,7 @@
             "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Less_Than_Kin_1919_newspaper.jpg/300px-Less_Than_Kin_1919_newspaper.jpg",
             "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Less_Than_Kin_1919_newspaper.jpg",
             "caption": "Less Than Kin advertisement",
-            "source": "wikimedia",
+            "source": "Wikimedia Commons",
             "attribution": "The Alaska daily empire"
           },
           "decade": 1910
@@ -624,7 +638,7 @@
           "women_in_key_roles": null,
           "added_by": "initial_import",
           "created_at": "2025-06-17T13:57:07.239452",
-          "updated_at": "2025-07-31T20:55:34.163372",
+          "updated_at": "2025-08-01T16:06:13.580374",
           "directors": "Mervyn LeRoy",
           "writers": "George Wells|Harry Ruby",
           "cast_members": "Kathryn Grayson|Red Skelton|Howard Keel|Marge Champion|Gower Champion|Ann Miller|Zsa Zsa Gabor|Kurt Kasznar|Marcel Dalio|Diane Cassidy",
@@ -632,13 +646,22 @@
           "distribution_companies": "Loew's Inc.",
           "color_info": null,
           "subgenres": null,
+          "external_ids": "{\"imdb\": \"tt0044855\", \"afi\": \"50558\", \"tcm\": \"maenner-machen-mode\", \"allmovie\": \"v30371\", \"letterboxd\": \"lovely-to-look-at\", \"rottentomatoes\": \"m/lovely_to_look_at\", \"tmdb\": \"43363\", \"filmaffinity\": \"512895\"}",
+          "wikidata_id": "Q6692304",
           "slug": "lovely-to-look-at-1952",
           "formatted_title": "Lovely To Look At",
           "html_title": "<span class=\"film-title\">Lovely To Look At</span>",
           "genres_string": "Musical comedy",
-          "hasMedia": false,
-          "mediaCount": 0,
-          "featuredMedia": null,
+          "hasMedia": true,
+          "mediaCount": 8,
+          "featuredMedia": {
+            "type": "poster",
+            "thumbnailUrl": "https://image.tmdb.org/t/p/w342/jBA211Yb58S1UqoA14GiPx6vpOA.jpg",
+            "fullUrl": "https://image.tmdb.org/t/p/original/jBA211Yb58S1UqoA14GiPx6vpOA.jpg",
+            "caption": "Theatrical poster for Lovely To Look At (1952)",
+            "source": "TMDb",
+            "attribution": "MGM"
+          },
           "decade": 1950
         },
         "peakYear": "1930"
@@ -739,7 +762,7 @@
           "women_in_key_roles": null,
           "added_by": "initial_import",
           "created_at": "2025-06-17T13:57:07.239452",
-          "updated_at": "2025-07-31T20:55:34.163372",
+          "updated_at": "2025-08-01T16:02:10.582402",
           "directors": "Marshall Neilan",
           "writers": "Marion Fairfax",
           "cast_members": "Jack Pickford|Louise Huff|Hobart Bosworth|Lillian Leighton|Billy Elmer|Guy Oliver",
@@ -747,19 +770,21 @@
           "distribution_companies": "Paramount Pictures Corp.",
           "color_info": "black-and-white",
           "subgenres": null,
+          "external_ids": "{\"imdb\": \"tt0007975\", \"afi\": \"16906\", \"letterboxd\": \"freckles-1917\", \"tmdb\": \"1261448\"}",
+          "wikidata_id": "Q17319648",
           "slug": "freckles-1917",
           "formatted_title": "Freckles",
           "html_title": "<span class=\"film-title\">Freckles</span>",
           "genres_string": "Drama",
           "hasMedia": true,
-          "mediaCount": 1,
+          "mediaCount": 2,
           "featuredMedia": {
             "type": "poster",
-            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Freckles_%281917_film%29_poster.jpg/300px-Freckles_%281917_film%29_poster.jpg",
-            "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Freckles_%281917_film%29_poster.jpg",
-            "caption": "Poster for the 1917 film Freckles.",
-            "source": "wikimedia",
-            "attribution": "Paramount"
+            "thumbnailUrl": "https://image.tmdb.org/t/p/w342/reZWLv4v8kB3rteiJBNDucu63t3.jpg",
+            "fullUrl": "https://image.tmdb.org/t/p/original/reZWLv4v8kB3rteiJBNDucu63t3.jpg",
+            "caption": "Theatrical poster for Freckles (1917)",
+            "source": "TMDb",
+            "attribution": "Jesse L. Lasky Feature Play Co."
           },
           "decade": 1910
         },
@@ -767,7 +792,7 @@
           "id": 340,
           "title": "Freckles",
           "release_year": 1960,
-          "runtime_minutes": null,
+          "runtime_minutes": 83,
           "country_of_production": "United States",
           "genres": [
             "Adventure"
@@ -782,7 +807,7 @@
           "women_in_key_roles": null,
           "added_by": "initial_import",
           "created_at": "2025-06-17T13:57:07.239452",
-          "updated_at": "2025-07-31T21:08:07.686247",
+          "updated_at": "2025-08-01T17:13:56.876236",
           "directors": "Andrew V. McLaglen",
           "writers": "Harry Spalding",
           "cast_members": "Martin West|Carol Christensen|Jack Lambert|Steven Peck|Roy Barcroft|Lorna Thayer|Ken Curtis|John Eldredge",
@@ -790,13 +815,22 @@
           "distribution_companies": "Twentieth Century-Fox Film Corp.",
           "color_info": null,
           "subgenres": "['Rural', 'Youth']",
+          "external_ids": "{\"imdb\": \"tt0053837\", \"afi\": \"53149\", \"allmovie\": \"v92311\", \"letterboxd\": \"freckles\", \"tmdb\": \"243638\"}",
+          "wikidata_id": "Q5494337",
           "slug": "freckles-1960",
           "formatted_title": "Freckles",
           "html_title": "<span class=\"film-title\">Freckles</span>",
           "genres_string": "Adventure",
-          "hasMedia": false,
-          "mediaCount": 0,
-          "featuredMedia": null,
+          "hasMedia": true,
+          "mediaCount": 2,
+          "featuredMedia": {
+            "type": "poster",
+            "thumbnailUrl": "https://image.tmdb.org/t/p/w342/9T9XiXP7R7c4JcE0461Noe8c3Xi.jpg",
+            "fullUrl": "https://image.tmdb.org/t/p/original/9T9XiXP7R7c4JcE0461Noe8c3Xi.jpg",
+            "caption": "Theatrical poster for Freckles (1960)",
+            "source": "TMDb",
+            "attribution": "20th Century Fox"
+          },
           "decade": 1960
         },
         "peakYear": "1920"
@@ -856,7 +890,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-01T19:25:34.138Z",
+    "generated": "2025-08-01T20:13:48.170Z",
     "version": "2.0"
   }
 }

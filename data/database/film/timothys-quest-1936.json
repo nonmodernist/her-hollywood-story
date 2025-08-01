@@ -60,9 +60,23 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5167,
+      "media_type": "poster",
+      "title": "Timothy's Quest (1936) - Poster",
+      "caption": "Theatrical poster for Timothy's Quest (1936)",
+      "url": "https://image.tmdb.org/t/p/original/hOsHEOOlZXz8wIC3EQnIHpz0gwB.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/hOsHEOOlZXz8wIC3EQnIHpz0gwB.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/801658",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:16:07.03098"
 }

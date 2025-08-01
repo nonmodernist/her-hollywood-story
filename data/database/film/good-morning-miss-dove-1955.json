@@ -44,9 +44,88 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4713,
+      "media_type": "poster",
+      "title": "Good Morning, Miss Dove (1955) - Poster",
+      "caption": "Theatrical poster for Good Morning, Miss Dove (1955)",
+      "url": "https://image.tmdb.org/t/p/original/eT2Q5mTH0xXa0bHI1h0EqFpq9Pc.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/eT2Q5mTH0xXa0bHI1h0EqFpq9Pc.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/4809",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "True"
+    },
+    {
+      "id": 4714,
+      "media_type": "poster",
+      "title": "Good Morning, Miss Dove (1955) - Poster",
+      "caption": "Theatrical poster for Good Morning, Miss Dove (1955)",
+      "url": "https://image.tmdb.org/t/p/original/8RdG2Iv45cx6b6Q2OeqmUFT6UlV.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/8RdG2Iv45cx6b6Q2OeqmUFT6UlV.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/4809",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4715,
+      "media_type": "poster",
+      "title": "Good Morning, Miss Dove (1955) - Poster",
+      "caption": "Theatrical poster for Good Morning, Miss Dove (1955)",
+      "url": "https://image.tmdb.org/t/p/original/5ATkAMNFB4DPlgAtIxvlYlMeEIJ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/5ATkAMNFB4DPlgAtIxvlYlMeEIJ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/4809",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4716,
+      "media_type": "poster",
+      "title": "Good Morning, Miss Dove (1955) - Poster",
+      "caption": "Theatrical poster for Good Morning, Miss Dove (1955)",
+      "url": "https://image.tmdb.org/t/p/original/6UL9fxhpuEwmYO1Yhek7zV6hkEd.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/6UL9fxhpuEwmYO1Yhek7zV6hkEd.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/4809",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4717,
+      "media_type": "poster",
+      "title": "Good Morning, Miss Dove (1955) - Poster",
+      "caption": "Theatrical poster for Good Morning, Miss Dove (1955)",
+      "url": "https://image.tmdb.org/t/p/original/kd4pzpDplw41t92n56rh9blR78b.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kd4pzpDplw41t92n56rh9blR78b.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/4809",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4718,
+      "media_type": "still",
+      "title": "Good Morning, Miss Dove (1955) - Still",
+      "caption": "Scene from Good Morning, Miss Dove (1955)",
+      "url": "https://image.tmdb.org/t/p/original/oYorUXxwMTC7VSP0V9b2XvPrwyu.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/oYorUXxwMTC7VSP0V9b2XvPrwyu.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/4809",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:13:27.095159"
 }

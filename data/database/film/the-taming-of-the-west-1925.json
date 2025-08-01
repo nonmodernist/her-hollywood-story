@@ -5,7 +5,7 @@
   "formatted_title": "The Taming of the West",
   "html_title": "<span class=\"film-title\">The Taming of the West</span>",
   "release_year": 1925,
-  "runtime_minutes": null,
+  "runtime_minutes": 60,
   "country_of_production": "United States",
   "genres": [
     "Western"
@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5276,
+      "media_type": "poster",
+      "title": "The Taming of the West (1925) - Poster",
+      "caption": "Theatrical poster for The Taming of the West (1925)",
+      "url": "https://image.tmdb.org/t/p/original/AoqHPPri4mlthJU985dRhLR51Du.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/AoqHPPri4mlthJU985dRhLR51Du.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/316299",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "True"
+    },
+    {
+      "id": 5277,
+      "media_type": "poster",
+      "title": "The Taming of the West (1925) - Poster",
+      "caption": "Theatrical poster for The Taming of the West (1925)",
+      "url": "https://image.tmdb.org/t/p/original/ucsgOqcngRxWJmViO162Vr2VP98.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ucsgOqcngRxWJmViO162Vr2VP98.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/316299",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "False"
+    },
+    {
+      "id": 5278,
+      "media_type": "still",
+      "title": "The Taming of the West (1925) - Still",
+      "caption": "Scene from The Taming of the West (1925)",
+      "url": "https://image.tmdb.org/t/p/original/iDgIEaNF1UtMXOvKe0acEYGFOMg.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/iDgIEaNF1UtMXOvKe0acEYGFOMg.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/316299",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "False"
+    },
+    {
+      "id": 2402,
+      "media_type": "advertisement",
+      "title": "Taming the West (1925) - 1.jpg",
+      "caption": "Advertisement for the American western film Taming the West (1925) with Hoot Gibson, on the inside back cover of the May 30, 1915 Universal Weekly.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Taming_the_West_%281925%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Taming_the_West_%281925%29_-_1.jpg/300px-Taming_the_West_%281925%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Taming_the_West_(1925)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2401,
+      "media_type": "poster",
+      "title": "The Taming of the West - poster 1925.jpg",
+      "caption": "poster for the 1925 film \"The Taming of the West\"",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Taming_of_the_West_-_poster_1925.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Taming_of_the_West_-_poster_1925.jpg/300px-The_Taming_of_the_West_-_poster_1925.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Taming_of_the_West_-_poster_1925.jpg",
+      "license": "public_domain",
+      "attribution": "universal pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:16:14.007328"
+  "last_updated": "2025-08-01T17:09:35.58466"
 }

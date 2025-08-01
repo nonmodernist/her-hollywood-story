@@ -44,9 +44,36 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2077,
+      "media_type": "advertisement",
+      "title": "The Gilded Dream (1920) - 1.jpg",
+      "caption": "Advertisement for the American drama film The Gilded Dream (1920) with Carmel Myers, on the cover of the November 6, 1920 The Moving Picture Weekly.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/The_Gilded_Dream_%281920%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/The_Gilded_Dream_%281920%29_-_1.jpg/300px-The_Gilded_Dream_%281920%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Gilded_Dream_(1920)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Film Manufacturing Company",
+      "is_featured": "False"
+    },
+    {
+      "id": 2078,
+      "media_type": "lobby_card",
+      "title": "The Gilded Dream.jpg",
+      "caption": "Lobby card for the American drama film The Gilded Dream (1920).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/The_Gilded_Dream.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/The_Gilded_Dream.jpg/300px-The_Gilded_Dream.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Gilded_Dream.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Film Manufacturing Company",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

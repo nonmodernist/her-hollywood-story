@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4622,
+      "media_type": "poster",
+      "title": "Isn't it Romantic (1948) - Poster",
+      "caption": "Theatrical poster for Isn't it Romantic (1948)",
+      "url": "https://image.tmdb.org/t/p/original/qMJt1S515M664n6fr2K1VFY6Lq9.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/qMJt1S515M664n6fr2K1VFY6Lq9.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/244538",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "True"
+    },
+    {
+      "id": 4623,
+      "media_type": "poster",
+      "title": "Isn't it Romantic (1948) - Poster",
+      "caption": "Theatrical poster for Isn't it Romantic (1948)",
+      "url": "https://image.tmdb.org/t/p/original/sKtqXhGuR0fNH2aFLPYvUL8QZyA.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/sKtqXhGuR0fNH2aFLPYvUL8QZyA.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/244538",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    },
+    {
+      "id": 4624,
+      "media_type": "still",
+      "title": "Isn't it Romantic (1948) - Still",
+      "caption": "Scene from Isn't it Romantic (1948)",
+      "url": "https://image.tmdb.org/t/p/original/nYNO6PGqC4X7O5ejLpd6G27zLrN.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/nYNO6PGqC4X7O5ejLpd6G27zLrN.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/244538",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:12:56.650013"
 }

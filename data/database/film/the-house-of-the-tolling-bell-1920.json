@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2201,
+      "media_type": "advertisement",
+      "title": "The House of the Tolling Bell (1920) - Tudor Theater, Atlanta, Georgia.jpg",
+      "caption": "The Tudor Theater in Atlanta, Georgia, showing the American mystery film The House of the Tolling Bell (1920), on page 53 of the November 20, 1920 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/The_House_of_the_Tolling_Bell_%281920%29_-_Tudor_Theater%2C_Atlanta%2C_Georgia.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/The_House_of_the_Tolling_Bell_%281920%29_-_Tudor_Theater%2C_Atlanta%2C_Georgia.jpg/300px-The_House_of_the_Tolling_Bell_%281920%29_-_Tudor_Theater%2C_Atlanta%2C_Georgia.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_House_of_the_Tolling_Bell_(1920)_-_Tudor_Theater,_Atlanta,_Georgia.jpg",
+      "license": "public_domain",
+      "attribution": "Unknown photographer",
+      "is_featured": "False"
+    },
+    {
+      "id": 2202,
+      "media_type": "still",
+      "title": "The House of the Tolling Bell (1920) - 2.jpg",
+      "caption": "Still from the American mystery film The House of the Tolling Bell (1920) with May McAvoy, Bruce Gordon, William R. Dunn, and Edward Elkas, on page 80 of the October 3, 1920 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/The_House_of_the_Tolling_Bell_%281920%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/The_House_of_the_Tolling_Bell_%281920%29_-_2.jpg/300px-The_House_of_the_Tolling_Bell_%281920%29_-_2.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_House_of_the_Tolling_Bell_(1920)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Jesse D. Hampton Productions / Pathé Exchange",
+      "is_featured": "False"
+    },
+    {
+      "id": 2200,
+      "media_type": "advertisement",
+      "title": "The House of the Tolling Bell (1920) - 1.jpg",
+      "caption": "Advertisement for the American mystery film The House of the Tolling Bell (1920) with Bruce Gordon, May McAvoy, Edward Elkas, William R. Dunn, and Morgan Thorpe, from the insert after page 18 of the September 18, 1920 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_House_of_the_Tolling_Bell_%281920%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_House_of_the_Tolling_Bell_%281920%29_-_1.jpg/300px-The_House_of_the_Tolling_Bell_%281920%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_House_of_the_Tolling_Bell_(1920)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Jesse D. Hampton Productions / Pathé Exchange",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

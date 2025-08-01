@@ -5,7 +5,7 @@
   "formatted_title": "Tess of the Storm Country",
   "html_title": "<span class=\"film-title\">Tess of the Storm Country</span>",
   "release_year": 1960,
-  "runtime_minutes": null,
+  "runtime_minutes": 84,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -78,9 +78,49 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3364,
+      "media_type": "poster",
+      "title": "Tess of the Storm Country (1960) - Poster",
+      "caption": "Theatrical poster for Tess of the Storm Country (1960)",
+      "url": "https://image.tmdb.org/t/p/original/4ixBenZI5iyXt5yueJbrfk3MEof.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/4ixBenZI5iyXt5yueJbrfk3MEof.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/362557",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 3365,
+      "media_type": "poster",
+      "title": "Tess of the Storm Country (1960) - Poster",
+      "caption": "Theatrical poster for Tess of the Storm Country (1960)",
+      "url": "https://image.tmdb.org/t/p/original/yyz9fmvrsa5OwsqQgegftcvEcot.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/yyz9fmvrsa5OwsqQgegftcvEcot.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/362557",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 3366,
+      "media_type": "still",
+      "title": "Tess of the Storm Country (1960) - Still",
+      "caption": "Scene from Tess of the Storm Country (1960)",
+      "url": "https://image.tmdb.org/t/p/original/hNA4U3bFkooug28UxGAAUMr9vRN.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/hNA4U3bFkooug28UxGAAUMr9vRN.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/362557",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:07:09.416228"
+  "last_updated": "2025-08-01T17:13:56.416806"
 }

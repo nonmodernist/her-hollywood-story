@@ -5,7 +5,7 @@
   "formatted_title": "Careless Lady",
   "html_title": "<span class=\"film-title\">Careless Lady</span>",
   "release_year": 1932,
-  "runtime_minutes": null,
+  "runtime_minutes": 68,
   "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4366,
+      "media_type": "poster",
+      "title": "Careless Lady (1932) - Poster",
+      "caption": "Theatrical poster for Careless Lady (1932)",
+      "url": "https://image.tmdb.org/t/p/original/uw8R3FO738wnh8xbzfjwakNtD72.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/uw8R3FO738wnh8xbzfjwakNtD72.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/313081",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "True"
+    },
+    {
+      "id": 4367,
+      "media_type": "poster",
+      "title": "Careless Lady (1932) - Poster",
+      "caption": "Theatrical poster for Careless Lady (1932)",
+      "url": "https://image.tmdb.org/t/p/original/8t69mByRet6c0FoQkqWtDczbQ1q.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/8t69mByRet6c0FoQkqWtDczbQ1q.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/313081",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "False"
+    },
+    {
+      "id": 4368,
+      "media_type": "still",
+      "title": "Careless Lady (1932) - Still",
+      "caption": "Scene from Careless Lady (1932)",
+      "url": "https://image.tmdb.org/t/p/original/epdWQ2IsGZlYZyn8fQeqplZ4zhC.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/epdWQ2IsGZlYZyn8fQeqplZ4zhC.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/313081",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "False"
+    },
+    {
+      "id": 4369,
+      "media_type": "still",
+      "title": "Careless Lady (1932) - Still",
+      "caption": "Scene from Careless Lady (1932)",
+      "url": "https://image.tmdb.org/t/p/original/c1iWnivTVJK1szvPZOTd6cuksYg.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/c1iWnivTVJK1szvPZOTd6cuksYg.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/313081",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "False"
+    },
+    {
+      "id": 4370,
+      "media_type": "still",
+      "title": "Careless Lady (1932) - Still",
+      "caption": "Scene from Careless Lady (1932)",
+      "url": "https://image.tmdb.org/t/p/original/9kvMH57WkohNrgPksDZQh4MvCov.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/9kvMH57WkohNrgPksDZQh4MvCov.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/313081",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:13:51.845161"
+  "last_updated": "2025-08-01T17:12:44.810681"
 }

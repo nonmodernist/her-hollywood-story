@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4550,
+      "media_type": "poster",
+      "title": "Behind the Scenes (1914) - Poster",
+      "caption": "Theatrical poster for Behind the Scenes (1914)",
+      "url": "https://image.tmdb.org/t/p/original/u3esGf6qb4fp0ESfVPKIfpe1BpE.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/u3esGf6qb4fp0ESfVPKIfpe1BpE.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/488579",
+      "license": "fair_use",
+      "attribution": "Famous Players",
+      "is_featured": "False"
+    },
+    {
+      "id": 4551,
+      "media_type": "poster",
+      "title": "Behind the Scenes (1914) - Poster",
+      "caption": "Theatrical poster for Behind the Scenes (1914)",
+      "url": "https://image.tmdb.org/t/p/original/9yqIwjSYqkw26sl07tVHfwUrnp1.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/9yqIwjSYqkw26sl07tVHfwUrnp1.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/488579",
+      "license": "fair_use",
+      "attribution": "Famous Players",
+      "is_featured": "False"
+    },
+    {
+      "id": 1742,
+      "media_type": "still",
+      "title": "Scenes and poems from the Wild Rose state (1914) (14756847736).jpg",
+      "caption": "Identifier: scenespoemsfromw00pyle (find matches) Title: Scenes and poems from the Wild Rose state Year: 1914 (1910s) Authors: Pyle, William J Torch Press, Cedar Rapids, Iowa Subjects: Publisher: Cedar Rapids, Ia., The Torch press Contributing Library: The Library of Congress Digitizing Sponsor: The Library of Congress View Book Page: Book Viewer About This Book: Catalog Entry View All Images: All Images From Book Click here to view book online to see this illustration in context in a browseable",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Scenes_and_poems_from_the_Wild_Rose_state_%281914%29_%2814756847736%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Scenes_and_poems_from_the_Wild_Rose_state_%281914%29_%2814756847736%29.jpg/300px-Scenes_and_poems_from_the_Wild_Rose_state_%281914%29_%2814756847736%29.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Scenes_and_poems_from_the_Wild_Rose_state_(1914)_(14756847736).jpg",
+      "license": "other",
+      "attribution": "Internet Archive Book Images",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:12:29.801222"
 }

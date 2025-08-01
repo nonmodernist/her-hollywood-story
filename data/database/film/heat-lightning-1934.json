@@ -46,13 +46,78 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 4203,
+      "media_type": "poster",
+      "title": "Heat Lightning (1934) - Poster",
+      "caption": "Theatrical poster for Heat Lightning (1934)",
+      "url": "https://image.tmdb.org/t/p/original/cP78CJZYXMjWEcUsWre26i4icT5.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/cP78CJZYXMjWEcUsWre26i4icT5.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/87123",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "True"
+    },
+    {
+      "id": 4204,
+      "media_type": "poster",
+      "title": "Heat Lightning (1934) - Poster",
+      "caption": "Theatrical poster for Heat Lightning (1934)",
+      "url": "https://image.tmdb.org/t/p/original/x1EKoIv0q9fdVymPW04foZURkUE.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/x1EKoIv0q9fdVymPW04foZURkUE.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/87123",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4205,
+      "media_type": "still",
+      "title": "Heat Lightning (1934) - Still",
+      "caption": "Scene from Heat Lightning (1934)",
+      "url": "https://image.tmdb.org/t/p/original/6QSqbf8pTcHtGTZJy2m1ROTmUoH.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/6QSqbf8pTcHtGTZJy2m1ROTmUoH.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/87123",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4206,
+      "media_type": "still",
+      "title": "Heat Lightning (1934) - Still",
+      "caption": "Scene from Heat Lightning (1934)",
+      "url": "https://image.tmdb.org/t/p/original/k3bXlghzlIATW4TAp0Xwwq2m5Xf.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/k3bXlghzlIATW4TAp0Xwwq2m5Xf.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/87123",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4207,
+      "media_type": "still",
+      "title": "Heat Lightning (1934) - Still",
+      "caption": "Scene from Heat Lightning (1934)",
+      "url": "https://image.tmdb.org/t/p/original/fLMylXAzOZ00LM2oBDIjV8NgafR.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/fLMylXAzOZ00LM2oBDIjV8NgafR.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/87123",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
       "id": 1431,
       "media_type": "still",
       "title": "Aline McMahon in Heat Lightning trailer.jpg",
       "caption": "Cropped screenshot of Aline MacMahon from the trailer for the film Heat Lightning",
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Aline_McMahon_in_Heat_Lightning_trailer.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Aline_McMahon_in_Heat_Lightning_trailer.jpg/300px-Aline_McMahon_in_Heat_Lightning_trailer.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Aline_McMahon_in_Heat_Lightning_trailer.jpg",
       "license": "public_domain",
       "attribution": "Trailer screenshot",
@@ -60,7 +125,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:10:46.042108"
 }

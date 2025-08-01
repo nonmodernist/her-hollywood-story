@@ -46,16 +46,29 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 346,
-      "media_type": "advertisement",
-      "title": "The Nth Commandment (1923) - 1.jpg",
-      "caption": "Advertisement for the American drama film The Nth Commandment (1923), page 13 from a Paramount insert of upcoming releases in 1923, from the collection of loose pages from the 1923 Exhibitors Trade Review [818 of 1164].",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/The_Nth_Commandment_%281923%29_-_1.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/The_Nth_Commandment_%281923%29_-_1.jpg/300px-The_Nth_Commandment_%281923%29_-_1.jpg",
-      "source": "wikimedia",
-      "source_url": "https://commons.wikimedia.org/wiki/File:The_Nth_Commandment_(1923)_-_1.jpg",
-      "license": "public_domain",
-      "attribution": "Cosmopolitan Productions / Paramount Pictures",
+      "id": 2555,
+      "media_type": "poster",
+      "title": "The Nth Commandment (1923) - Poster",
+      "caption": "Theatrical poster for The Nth Commandment (1923)",
+      "url": "https://image.tmdb.org/t/p/original/9qVIg4m3et9Y1XRIOtVc6tgp8Mf.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/9qVIg4m3et9Y1XRIOtVc6tgp8Mf.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/359763",
+      "license": "fair_use",
+      "attribution": "Cosmopolitan Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 2556,
+      "media_type": "still",
+      "title": "The Nth Commandment (1923) - Still",
+      "caption": "Scene from The Nth Commandment (1923)",
+      "url": "https://image.tmdb.org/t/p/original/uW3lElJMkAnyMa8tpJG9DHGL1tf.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/uW3lElJMkAnyMa8tpJG9DHGL1tf.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/359763",
+      "license": "fair_use",
+      "attribution": "Cosmopolitan Productions",
       "is_featured": "False"
     },
     {
@@ -65,8 +78,21 @@
       "caption": "Still with Colleen Moore and James Morrison in the American drama film The Nth Commandment (1923).",
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Colleen_Moore_in_The_Nth_Commandment.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Colleen_Moore_in_The_Nth_Commandment.jpg/300px-Colleen_Moore_in_The_Nth_Commandment.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Colleen_Moore_in_The_Nth_Commandment.jpg",
+      "license": "public_domain",
+      "attribution": "Cosmopolitan Productions / Paramount Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 346,
+      "media_type": "advertisement",
+      "title": "The Nth Commandment (1923) - 1.jpg",
+      "caption": "Advertisement for the American drama film The Nth Commandment (1923), page 13 from a Paramount insert of upcoming releases in 1923, from the collection of loose pages from the 1923 Exhibitors Trade Review [818 of 1164].",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/The_Nth_Commandment_%281923%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/The_Nth_Commandment_%281923%29_-_1.jpg/300px-The_Nth_Commandment_%281923%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Nth_Commandment_(1923)_-_1.jpg",
       "license": "public_domain",
       "attribution": "Cosmopolitan Productions / Paramount Pictures",
       "is_featured": "False"
@@ -78,15 +104,15 @@
       "caption": "Poster for the film The Nth Commandment (1923).",
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Poster_The_Nth_Commandment.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Poster_The_Nth_Commandment.jpg/300px-Poster_The_Nth_Commandment.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Poster_The_Nth_Commandment.jpg",
       "license": "public_domain",
-      "attribution": "Unknown authorUnknown author",
+      "attribution": "Cosmopolitan Productions",
       "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 3,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:03:16.385745"
 }

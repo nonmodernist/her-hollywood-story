@@ -5,7 +5,7 @@
   "formatted_title": "Welcome Home",
   "html_title": "<span class=\"film-title\">Welcome Home</span>",
   "release_year": 1925,
-  "runtime_minutes": null,
+  "runtime_minutes": 60,
   "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
@@ -71,13 +71,52 @@
   },
   "media": [
     {
+      "id": 3953,
+      "media_type": "poster",
+      "title": "Welcome Home (1925) - Poster",
+      "caption": "Theatrical poster for Welcome Home (1925)",
+      "url": "https://image.tmdb.org/t/p/original/th0j1Ci0jtHDYEVXp9pHcPHQB7G.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/th0j1Ci0jtHDYEVXp9pHcPHQB7G.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/924288",
+      "license": "fair_use",
+      "attribution": "Famous Players-Lasky",
+      "is_featured": "False"
+    },
+    {
+      "id": 3954,
+      "media_type": "poster",
+      "title": "Welcome Home (1925) - Poster",
+      "caption": "Theatrical poster for Welcome Home (1925)",
+      "url": "https://image.tmdb.org/t/p/original/u6WdTYokNBMSVLWVc74aEO2HEo9.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/u6WdTYokNBMSVLWVc74aEO2HEo9.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/924288",
+      "license": "fair_use",
+      "attribution": "Famous Players-Lasky",
+      "is_featured": "False"
+    },
+    {
+      "id": 3955,
+      "media_type": "still",
+      "title": "Welcome Home (1925) - Still",
+      "caption": "Scene from Welcome Home (1925)",
+      "url": "https://image.tmdb.org/t/p/original/uWTrws7LeAukIjazIRuT17oDKqW.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/uWTrws7LeAukIjazIRuT17oDKqW.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/924288",
+      "license": "fair_use",
+      "attribution": "Famous Players-Lasky",
+      "is_featured": "False"
+    },
+    {
       "id": 1292,
       "media_type": "still",
       "title": "Welcome Home (1925) - 1.jpg",
       "caption": "Still from the American comedy drama film Welcome Home (1925) with Lois Wilson, Luke Cosgrave (1862 – 1949), and Warner Baxter, on page 57 of the July 4, 1925 Exhibitors Herald.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Welcome_Home_%281925%29_-_1.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Welcome_Home_%281925%29_-_1.jpg/300px-Welcome_Home_%281925%29_-_1.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Welcome_Home_(1925)_-_1.jpg",
       "license": "public_domain",
       "attribution": "Paramount Pictures",
@@ -85,7 +124,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:12:28.85682"
+  "last_updated": "2025-08-01T17:09:35.148761"
 }

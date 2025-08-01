@@ -5,7 +5,7 @@
   "formatted_title": "Strange Wives",
   "html_title": "<span class=\"film-title\">Strange Wives</span>",
   "release_year": 1934,
-  "runtime_minutes": null,
+  "runtime_minutes": 75,
   "country_of_production": "United States",
   "genres": [
     "Comedy"
@@ -44,9 +44,23 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2845,
+      "media_type": "poster",
+      "title": "Strange Wives (1934) - Poster",
+      "caption": "Theatrical poster for Strange Wives (1934)",
+      "url": "https://image.tmdb.org/t/p/original/c4Vt2z55Whta023L9mBTLWRY7Ts.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/c4Vt2z55Whta023L9mBTLWRY7Ts.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/1217674",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:07:04.942213"
+  "last_updated": "2025-08-01T17:12:49.432677"
 }

@@ -45,9 +45,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2034,
+      "media_type": "advertisement",
+      "title": "The Breaking Point (1924) - 1.jpg",
+      "caption": "Advertisement for the American mystery film The Breaking Point (1924) with Nita Naldi, on page 19 of the January 20, 1924 Film Daily.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/The_Breaking_Point_%281924%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/The_Breaking_Point_%281924%29_-_1.jpg/300px-The_Breaking_Point_%281924%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Breaking_Point_(1924)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2035,
+      "media_type": "advertisement",
+      "title": "The Breaking Point (1924) - 2.jpg",
+      "caption": "Advertisement for the American mystery film The Breaking Point (1924) with Nita Naldi, from the advertising section in the front of the January 26, 1924 Exhibitors Trade Review.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/The_Breaking_Point_%281924%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/The_Breaking_Point_%281924%29_-_2.jpg/300px-The_Breaking_Point_%281924%29_-_2.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Breaking_Point_(1924)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2036,
+      "media_type": "advertisement",
+      "title": "The Breaking Point 1924 film newspaper ad.png",
+      "caption": "Newspaper advertisement for the film The Breaking Point (1924).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/The_Breaking_Point_1924_film_newspaper_ad.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_Breaking_Point_1924_film_newspaper_ad.png/300px-The_Breaking_Point_1924_film_newspaper_ad.png",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Breaking_Point_1924_film_newspaper_ad.png",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2037,
+      "media_type": "advertisement",
+      "title": "The Breaking Point (SAYRE 14718).jpg",
+      "caption": "Newspaper advertisement for the film The Breaking Point (1924) with Matt Moore and Nita Naldi. Subjects: motion pictures, actresses, actors",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/The_Breaking_Point_%28SAYRE_14718%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_Breaking_Point_%28SAYRE_14718%29.jpg/300px-The_Breaking_Point_%28SAYRE_14718%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Breaking_Point_(SAYRE_14718).jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:14:04.195953"
 }

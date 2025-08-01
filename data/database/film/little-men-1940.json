@@ -62,13 +62,39 @@
   },
   "media": [
     {
+      "id": 2987,
+      "media_type": "poster",
+      "title": "Little Men (1940) - Poster",
+      "caption": "Theatrical poster for Little Men (1940)",
+      "url": "https://image.tmdb.org/t/p/original/1YIGwX1gTkBjzGWBnom2WPr2KlE.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1YIGwX1gTkBjzGWBnom2WPr2KlE.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/131322",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 2988,
+      "media_type": "still",
+      "title": "Little Men (1940) - Still",
+      "caption": "Scene from Little Men (1940)",
+      "url": "https://image.tmdb.org/t/p/original/7YxywnDiuOhb87yEJRd3tVHLEXQ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/7YxywnDiuOhb87yEJRd3tVHLEXQ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/131322",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
       "id": 719,
       "media_type": "still",
       "title": "Lillian Randolph-Kay Francis in Little Men.jpg",
       "caption": "Lillian Randolph (left) &amp; Kay Francis in Little Men - cropped screenshot",
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lillian_Randolph-Kay_Francis_in_Little_Men.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Lillian_Randolph-Kay_Francis_in_Little_Men.jpg/300px-Lillian_Randolph-Kay_Francis_in_Little_Men.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Lillian_Randolph-Kay_Francis_in_Little_Men.jpg",
       "license": "public_domain",
       "attribution": "film screenshot (RKO Pictures)",
@@ -76,7 +102,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:05:18.670626"
 }

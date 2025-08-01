@@ -5,7 +5,7 @@
   "formatted_title": "Jazz Heaven",
   "html_title": "<span class=\"film-title\">Jazz Heaven</span>",
   "release_year": 1929,
-  "runtime_minutes": null,
+  "runtime_minutes": 68,
   "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
@@ -46,13 +46,39 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 3983,
+      "media_type": "poster",
+      "title": "Jazz Heaven (1929) - Poster",
+      "caption": "Theatrical poster for Jazz Heaven (1929)",
+      "url": "https://image.tmdb.org/t/p/original/kBhdfm5gKfUVCWXRrBDkU1uKXMJ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kBhdfm5gKfUVCWXRrBDkU1uKXMJ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/289479",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 3984,
+      "media_type": "still",
+      "title": "Jazz Heaven (1929) - Still",
+      "caption": "Scene from Jazz Heaven (1929)",
+      "url": "https://image.tmdb.org/t/p/original/p9TINGkA9rpSpbvA5mYzhv1004A.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/p9TINGkA9rpSpbvA5mYzhv1004A.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/289479",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
       "id": 1304,
       "media_type": "lobby_card",
       "title": "Jazz Heaven lobby card.jpg",
       "caption": "Lobby card for the 1929 film Jazz Heaven",
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Jazz_Heaven_lobby_card.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jazz_Heaven_lobby_card.jpg/300px-Jazz_Heaven_lobby_card.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Jazz_Heaven_lobby_card.jpg",
       "license": "public_domain",
       "attribution": "RKO.",
@@ -65,15 +91,15 @@
       "caption": "Jazz Heaven Subjects (LCTGM): motion pictures, actresses",
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Jazz_Heaven_%28SAYRE_14583%29.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jazz_Heaven_%28SAYRE_14583%29.jpg/300px-Jazz_Heaven_%28SAYRE_14583%29.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Jazz_Heaven_(SAYRE_14583).jpg",
       "license": "public_domain",
-      "attribution": "Unknown authorUnknown author",
+      "attribution": "RKO",
       "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 2,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:07:25.128647"
+  "last_updated": "2025-08-01T17:12:33.173075"
 }

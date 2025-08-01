@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1987,
+      "media_type": "advertisement",
+      "title": "The Nervous Wreck (1926) - 2.jpg",
+      "caption": "Advertisement for the American comedy adventure film The Nervous Wreck (1926) with Harrison Ford, on page 3 of the December 1, 1926 Film Daily.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/The_Nervous_Wreck_%281926%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/The_Nervous_Wreck_%281926%29_-_2.jpg/300px-The_Nervous_Wreck_%281926%29_-_2.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Nervous_Wreck_(1926)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Christie Film Company / Producers Distributing Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 1988,
+      "media_type": "poster",
+      "title": "Poster for The Nervous Wreck (1926).jpg",
+      "caption": "Poster for the American comedy adventure film The Nervous Wreck (1926).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Poster_for_The_Nervous_Wreck_%281926%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Poster_for_The_Nervous_Wreck_%281926%29.jpg/300px-Poster_for_The_Nervous_Wreck_%281926%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Poster_for_The_Nervous_Wreck_(1926).jpg",
+      "license": "public_domain",
+      "attribution": "Christie Film Company / Producers Distributing Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 1989,
+      "media_type": "advertisement",
+      "title": "The Nervous Wreck (1926) - 1.jpg",
+      "caption": "Advertisement for the American comedy adventure film The Nervous Wreck (1926) with Harrison Ford, Phyllis Haver, Chester Conklin, and Mack Swain, from the front advertising section of the September 11, 1926 Motion Picture News.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/The_Nervous_Wreck_%281926%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Nervous_Wreck_%281926%29_-_1.jpg/300px-The_Nervous_Wreck_%281926%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Nervous_Wreck_(1926)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Christie Film Company / Producers Distributing Corporation",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

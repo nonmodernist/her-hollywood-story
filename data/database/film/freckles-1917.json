@@ -80,13 +80,26 @@
   },
   "media": [
     {
+      "id": 2480,
+      "media_type": "poster",
+      "title": "Freckles (1917) - Poster",
+      "caption": "Theatrical poster for Freckles (1917)",
+      "url": "https://image.tmdb.org/t/p/original/reZWLv4v8kB3rteiJBNDucu63t3.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/reZWLv4v8kB3rteiJBNDucu63t3.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/1261448",
+      "license": "fair_use",
+      "attribution": "Jesse L. Lasky Feature Play Co.",
+      "is_featured": "False"
+    },
+    {
       "id": 34,
       "media_type": "poster",
       "title": "Freckles (1917 film) poster.jpg",
       "caption": "Poster for the 1917 film Freckles.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Freckles_%281917_film%29_poster.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Freckles_%281917_film%29_poster.jpg/300px-Freckles_%281917_film%29_poster.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Freckles_(1917_film)_poster.jpg",
       "license": "public_domain",
       "attribution": "Paramount",
@@ -94,7 +107,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:02:10.582402"
 }

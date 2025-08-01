@@ -5,7 +5,7 @@
   "formatted_title": "Told in the Hills",
   "html_title": "<span class=\"film-title\">Told in the Hills</span>",
   "release_year": 1919,
-  "runtime_minutes": null,
+  "runtime_minutes": 60,
   "country_of_production": "United States",
   "genres": [
     "Western"
@@ -44,9 +44,101 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4901,
+      "media_type": "poster",
+      "title": "Told in the Hills (1919) - Poster",
+      "caption": "Theatrical poster for Told in the Hills (1919)",
+      "url": "https://image.tmdb.org/t/p/original/gEWlons6KwVykMKXzxU9aSFugrC.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/gEWlons6KwVykMKXzxU9aSFugrC.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/1470454",
+      "license": "fair_use",
+      "attribution": "Famous Players-Lasky",
+      "is_featured": "False"
+    },
+    {
+      "id": 2096,
+      "media_type": "still",
+      "title": "A scene from \"Told in the Hills\" (SAYRE 13742).jpg",
+      "caption": "A scene from the American western film Told in the Hills (1919), which played at the Strand Theater, Seattle. Includes Robert Warwick. Dated Oct. 8, 1919. Subjects: motion pictures, actors",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/A_scene_from_%22Told_in_the_Hills%22_%28SAYRE_13742%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/A_scene_from_%22Told_in_the_Hills%22_%28SAYRE_13742%29.jpg/300px-A_scene_from_%22Told_in_the_Hills%22_%28SAYRE_13742%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:A_scene_from_\"Told_in_the_Hills\"_(SAYRE_13742).jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    },
+    {
+      "id": 2091,
+      "media_type": "advertisement",
+      "title": "Told in the Hills (1919) - Ad.jpg",
+      "caption": "Ad for the American western film Told in the Hills (1919) with Robert Warwick, pages 956 and 957 of the August 2, 1919 Motion Picture News.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Told_in_the_Hills_%281919%29_-_Ad.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Told_in_the_Hills_%281919%29_-_Ad.jpg/300px-Told_in_the_Hills_%281919%29_-_Ad.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Told_in_the_Hills_(1919)_-_Ad.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount - Artcraft",
+      "is_featured": "False"
+    },
+    {
+      "id": 2092,
+      "media_type": "still",
+      "title": "Told in the Hills (1919) - 1.jpg",
+      "caption": "Still from the American western film Told in the Hills (1919) with Robert Warwick, page 1332 of the August 16, 1919 Motion Picture News. This was taken on location with the Nez Perce",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Told_in_the_Hills_%281919%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Told_in_the_Hills_%281919%29_-_1.jpg/300px-Told_in_the_Hills_%281919%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Told_in_the_Hills_(1919)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount - Artcraft",
+      "is_featured": "False"
+    },
+    {
+      "id": 2093,
+      "media_type": "still",
+      "title": "Told in the Hills (1919) - 2.jpg",
+      "caption": "Still from the production of the American western film Told in the Hills (1919) with Robert Warwick and director George Melford on location with the Nez Perce, on page 1808 of the June 21, 1919 Moving Picture World. The man at lower right may be blurry as a result of turning his head during the photograph.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Told_in_the_Hills_%281919%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Told_in_the_Hills_%281919%29_-_2.jpg/300px-Told_in_the_Hills_%281919%29_-_2.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Told_in_the_Hills_(1919)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2094,
+      "media_type": "advertisement",
+      "title": "Robert Warwick Told in the Hills Film Daily 1919.png",
+      "caption": "Ad for Robert Warwick in the film Told in the Hills (1919).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Robert_Warwick_Told_in_the_Hills_Film_Daily_1919.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Robert_Warwick_Told_in_the_Hills_Film_Daily_1919.png/300px-Robert_Warwick_Told_in_the_Hills_Film_Daily_1919.png",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Robert_Warwick_Told_in_the_Hills_Film_Daily_1919.png",
+      "license": "public_domain",
+      "attribution": "Paramount - Artcraft (film)",
+      "is_featured": "False"
+    },
+    {
+      "id": 2095,
+      "media_type": "poster",
+      "title": "Told in the Hills poster.jpg",
+      "caption": "Poster for the 1919 film Told in the Hills.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Told_in_the_Hills_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Told_in_the_Hills_poster.jpg/300px-Told_in_the_Hills_poster.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Told_in_the_Hills_poster.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount-Artcraft",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 7,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:14:39.274264"
+  "last_updated": "2025-08-01T17:04:48.308884"
 }

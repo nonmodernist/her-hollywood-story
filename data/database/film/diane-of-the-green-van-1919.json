@@ -5,7 +5,7 @@
   "formatted_title": "Diane of the Green Van",
   "html_title": "<span class=\"film-title\">Diane of the Green Van</span>",
   "release_year": 1919,
-  "runtime_minutes": null,
+  "runtime_minutes": 55,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -46,13 +46,26 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 3786,
+      "media_type": "poster",
+      "title": "Diane of the Green Van (1919) - Poster",
+      "caption": "Theatrical poster for Diane of the Green Van (1919)",
+      "url": "https://image.tmdb.org/t/p/original/eG6TUrOISXvP6mglPUj7uZuhnED.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/eG6TUrOISXvP6mglPUj7uZuhnED.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/419592",
+      "license": "fair_use",
+      "attribution": "Winsome Stars",
+      "is_featured": "False"
+    },
+    {
       "id": 1168,
       "media_type": "still",
       "title": "Diane of the Green Van (1919) - 1.jpg",
       "caption": "Still from the American film Diane of the Green Van (1919) with Alma Rubens, on page 37 of the April 26, 1919 Exhibitors Herald.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Diane_of_the_Green_Van_%281919%29_-_1.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Diane_of_the_Green_Van_%281919%29_-_1.jpg/300px-Diane_of_the_Green_Van_%281919%29_-_1.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Diane_of_the_Green_Van_(1919)_-_1.jpg",
       "license": "public_domain",
       "attribution": "Winsome Stars Corporation / Exhibitors Mutual",
@@ -65,7 +78,7 @@
       "caption": "Ad for the American film Diane of the Green Van (1919) with Alma Rubens, on page 24 of the April 6, 1919 Film Daily.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Diane_of_the_Green_Van_%281919%29_-_Ad_1.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Diane_of_the_Green_Van_%281919%29_-_Ad_1.jpg/300px-Diane_of_the_Green_Van_%281919%29_-_Ad_1.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Diane_of_the_Green_Van_(1919)_-_Ad_1.jpg",
       "license": "public_domain",
       "attribution": "Winsome Stars Corporation / Exhibitors Mutual",
@@ -73,7 +86,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 2,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:12:03.693038"
+  "last_updated": "2025-08-01T17:04:45.412888"
 }

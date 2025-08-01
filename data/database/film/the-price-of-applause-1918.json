@@ -44,9 +44,23 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1980,
+      "media_type": "still",
+      "title": "The Price of Applause (1918) - 1.jpg",
+      "caption": "Still from the 1918 American war film The Price of Applause (1918) with Jack Livingston, page 38 of the August 17, 1918 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/The_Price_of_Applause_%281918%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/The_Price_of_Applause_%281918%29_-_1.jpg/300px-The_Price_of_Applause_%281918%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Price_of_Applause_(1918)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Triangle Film Corporation",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

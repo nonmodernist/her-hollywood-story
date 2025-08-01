@@ -62,16 +62,16 @@
   },
   "media": [
     {
-      "id": 536,
-      "media_type": "advertisement",
-      "title": "Gentlemen Prefer Blondes (1928) - 1.jpg",
-      "caption": "Advertisement for the American comedy film Gentlemen Prefer Blondes (1928), on page 26 of the January 25, 1928 Variety.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gentlemen_Prefer_Blondes_%281928%29_-_1.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gentlemen_Prefer_Blondes_%281928%29_-_1.jpg/300px-Gentlemen_Prefer_Blondes_%281928%29_-_1.jpg",
-      "source": "wikimedia",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Gentlemen_Prefer_Blondes_(1928)_-_1.jpg",
-      "license": "public_domain",
-      "attribution": "Paramount Pictures",
+      "id": 2637,
+      "media_type": "poster",
+      "title": "Gentlemen Prefer Blondes (1928) - Poster",
+      "caption": "Theatrical poster for Gentlemen Prefer Blondes (1928)",
+      "url": "https://image.tmdb.org/t/p/original/cHEwe7YmRDLy4fWoGFryHjYWuHb.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/cHEwe7YmRDLy4fWoGFryHjYWuHb.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/423172",
+      "license": "fair_use",
+      "attribution": "Paramount",
       "is_featured": "False"
     },
     {
@@ -81,8 +81,21 @@
       "caption": "Lobby card from the American comedy film Gentlemen Prefer Blondes (1928). There are no copyright marks. At bottom left is Country of origin USA. At bottom right is This lobby display leased from Paramount Famous Lasky Corporation.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Gentlemen_Prefer_Blondes_-_1928.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gentlemen_Prefer_Blondes_-_1928.jpg/300px-Gentlemen_Prefer_Blondes_-_1928.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Gentlemen_Prefer_Blondes_-_1928.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 536,
+      "media_type": "advertisement",
+      "title": "Gentlemen Prefer Blondes (1928) - 1.jpg",
+      "caption": "Advertisement for the American comedy film Gentlemen Prefer Blondes (1928), on page 26 of the January 25, 1928 Variety.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gentlemen_Prefer_Blondes_%281928%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gentlemen_Prefer_Blondes_%281928%29_-_1.jpg/300px-Gentlemen_Prefer_Blondes_%281928%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Gentlemen_Prefer_Blondes_(1928)_-_1.jpg",
       "license": "public_domain",
       "attribution": "Paramount Pictures",
       "is_featured": "False"
@@ -94,7 +107,7 @@
       "caption": "Gentlemen Prefer Blondes (1928) advertisement",
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Gentlemen_Prefer_Blondes_1928_advertisement.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gentlemen_Prefer_Blondes_1928_advertisement.jpg/300px-Gentlemen_Prefer_Blondes_1928_advertisement.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Gentlemen_Prefer_Blondes_1928_advertisement.jpg",
       "license": "public_domain",
       "attribution": "paramount pictures",
@@ -107,7 +120,7 @@
       "caption": "Gentlemen Prefer Blondes (1928) publicity photo featuring Emily Fitzroy",
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gentlemen_Prefer_Blondes_1928_photo_-_emily_fitzroy.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gentlemen_Prefer_Blondes_1928_photo_-_emily_fitzroy.jpg/300px-Gentlemen_Prefer_Blondes_1928_photo_-_emily_fitzroy.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Gentlemen_Prefer_Blondes_1928_photo_-_emily_fitzroy.jpg",
       "license": "public_domain",
       "attribution": "paramount pictures",
@@ -120,7 +133,7 @@
       "caption": "Gentlemen Prefer Blondes (1928 film)",
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Gentlemen_Prefer_Blondes_1928_motion_picture_news_advertisement.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Gentlemen_Prefer_Blondes_1928_motion_picture_news_advertisement.jpg/300px-Gentlemen_Prefer_Blondes_1928_motion_picture_news_advertisement.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Gentlemen_Prefer_Blondes_1928_motion_picture_news_advertisement.jpg",
       "license": "public_domain",
       "attribution": "motion picture news",
@@ -128,7 +141,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 5,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:03:50.225363"
 }

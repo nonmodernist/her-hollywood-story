@@ -60,9 +60,23 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4772,
+      "media_type": "poster",
+      "title": "What a Man (1930) - Poster",
+      "caption": "Theatrical poster for What a Man (1930)",
+      "url": "https://image.tmdb.org/t/p/original/dwZb62lNQFhDqOwYGeSQPPReOs6.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dwZb62lNQFhDqOwYGeSQPPReOs6.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/978539",
+      "license": "fair_use",
+      "attribution": "Sono-Art",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:13:44.420121"
 }

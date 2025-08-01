@@ -10,7 +10,7 @@
   "author_notes": null,
   "wikidata_id": "Q102513",
   "stats": {
-    "total_films": 9,
+    "total_films": 8,
     "works_adapted": 3,
     "first_adaptation": 1910,
     "last_adaptation": 1927,
@@ -18,7 +18,7 @@
     "top_genres": [
       {
         "genre": "Melodrama",
-        "count": 7
+        "count": 6
       },
       {
         "genre": "Adventure",
@@ -34,7 +34,7 @@
       }
     ],
     "films_by_decade": {
-      "1910": 5,
+      "1910": 4,
       "1920": 4
     }
   },
@@ -89,22 +89,6 @@
         "Melodrama"
       ],
       "has_media": false,
-      "work_title": "Uncle Tom's Cabin",
-      "work_html_title": "<span class=\"work-title\">Uncle Tom's Cabin</span>",
-      "work_id": 3
-    },
-    {
-      "id": 7,
-      "slug": "uncle-toms-cabin-1914",
-      "title": "Uncle Tom's Cabin",
-      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
-      "year": 1914,
-      "studio": "World Producing",
-      "directors": "William Robert Daly",
-      "genres": [
-        "Melodrama"
-      ],
-      "has_media": true,
       "work_title": "Uncle Tom's Cabin",
       "work_html_title": "<span class=\"work-title\">Uncle Tom's Cabin</span>",
       "work_id": 3
@@ -200,7 +184,7 @@
       "work_type": "novel",
       "publication_year": 1852,
       "genre": null,
-      "adaptation_count": 7,
+      "adaptation_count": 6,
       "is_remake_champion": true
     },
     {
@@ -237,7 +221,7 @@
     "work_type": "novel",
     "publication_year": 1852,
     "genre": null,
-    "adaptation_count": 7,
+    "adaptation_count": 6,
     "is_remake_champion": true
   },
   "has_narrative": false,

@@ -5,7 +5,7 @@
   "formatted_title": "Lena Rivers",
   "html_title": "<span class=\"film-title\">Lena Rivers</span>",
   "release_year": 1910,
-  "runtime_minutes": null,
+  "runtime_minutes": 12,
   "country_of_production": "United States",
   "genres": [
     "Melodrama"
@@ -87,9 +87,23 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2399,
+      "media_type": "still",
+      "title": "Lena Rivers 1910.jpg",
+      "caption": "A film still from the Thanhouser Company's 1910 production of Lena Rivers.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Lena_Rivers_1910.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lena_Rivers_1910.jpg/300px-Lena_Rivers_1910.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lena_Rivers_1910.jpg",
+      "license": "public_domain",
+      "attribution": "Thanhouser Company (Life time: N/A)",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:16:10.669839"
+  "last_updated": "2025-08-01T16:43:48.503745"
 }

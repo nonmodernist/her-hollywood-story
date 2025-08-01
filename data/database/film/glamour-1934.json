@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3950,
+      "media_type": "poster",
+      "title": "Glamour (1934) - Poster",
+      "caption": "Theatrical poster for Glamour (1934)",
+      "url": "https://image.tmdb.org/t/p/original/ftFlWHnD6F3OEp581mXU8jgTWCf.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ftFlWHnD6F3OEp581mXU8jgTWCf.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/325408",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "True"
+    },
+    {
+      "id": 3951,
+      "media_type": "poster",
+      "title": "Glamour (1934) - Poster",
+      "caption": "Theatrical poster for Glamour (1934)",
+      "url": "https://image.tmdb.org/t/p/original/z0nPfmCRjqmOaCC4yusbCcK0gR1.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/z0nPfmCRjqmOaCC4yusbCcK0gR1.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/325408",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "False"
+    },
+    {
+      "id": 3952,
+      "media_type": "poster",
+      "title": "Glamour (1934) - Poster",
+      "caption": "Theatrical poster for Glamour (1934)",
+      "url": "https://image.tmdb.org/t/p/original/r5Qb6PKHjdrUf5kV9BsK8YrOAA5.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/r5Qb6PKHjdrUf5kV9BsK8YrOAA5.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/325408",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:09:29.113143"
 }

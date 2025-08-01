@@ -5,7 +5,7 @@
   "formatted_title": "The Expert",
   "html_title": "<span class=\"film-title\">The Expert</span>",
   "release_year": 1932,
-  "runtime_minutes": null,
+  "runtime_minutes": 68,
   "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
@@ -69,9 +69,49 @@
     "is_first": false,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3956,
+      "media_type": "poster",
+      "title": "The Expert (1932) - Poster",
+      "caption": "Theatrical poster for The Expert (1932)",
+      "url": "https://image.tmdb.org/t/p/original/vYH9js868tGIAwGHAtaUXwoAj0I.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/vYH9js868tGIAwGHAtaUXwoAj0I.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/175993",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 3957,
+      "media_type": "poster",
+      "title": "The Expert (1932) - Poster",
+      "caption": "Theatrical poster for The Expert (1932)",
+      "url": "https://image.tmdb.org/t/p/original/hK7yRFdWySD4AeDnNU3bAqus3FP.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/hK7yRFdWySD4AeDnNU3bAqus3FP.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/175993",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 3958,
+      "media_type": "still",
+      "title": "The Expert (1932) - Still",
+      "caption": "Scene from The Expert (1932)",
+      "url": "https://image.tmdb.org/t/p/original/uKI9O7IWV8r2WwOkzda2rCjmjnJ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/uKI9O7IWV8r2WwOkzda2rCjmjnJ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/175993",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:12:30.017411"
+  "last_updated": "2025-08-01T17:12:44.336136"
 }

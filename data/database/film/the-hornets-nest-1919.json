@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2363,
+      "media_type": "still",
+      "title": "Hornet's Nest (1919) - Williams & Vale.jpg",
+      "caption": "Still from the American film Hornet's Nest (1919) with Earle Williams and Vola Vale, page 759 of the July 19, 1919 Motion Picture News.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Hornet%27s_Nest_%281919%29_-_Williams_%26_Vale.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hornet%27s_Nest_%281919%29_-_Williams_%26_Vale.jpg/300px-Hornet%27s_Nest_%281919%29_-_Williams_%26_Vale.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hornet's_Nest_(1919)_-_Williams_&_Vale.jpg",
+      "license": "public_domain",
+      "attribution": "Vitagraph Company of America",
+      "is_featured": "False"
+    },
+    {
+      "id": 2364,
+      "media_type": "advertisement",
+      "title": "Hornet's Nest (1919) - Ad.jpg",
+      "caption": "Ad for the American film Hornet's Nest (1919) with Earle Williams, on page 341 of the July 19, 1919 Motion Picture News.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Hornet%27s_Nest_%281919%29_-_Ad.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hornet%27s_Nest_%281919%29_-_Ad.jpg/300px-Hornet%27s_Nest_%281919%29_-_Ad.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hornet's_Nest_(1919)_-_Ad.jpg",
+      "license": "public_domain",
+      "attribution": "Vitagraph Company of America",
+      "is_featured": "False"
+    },
+    {
+      "id": 2361,
+      "media_type": "still",
+      "title": "The Hornet's Nest (SAYRE 14854).jpg",
+      "caption": "Still from the American drama film The Hornet's Nest (1919) Subjects: motion pictures, actors",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/The_Hornet%27s_Nest_%28SAYRE_14854%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/The_Hornet%27s_Nest_%28SAYRE_14854%29.jpg/300px-The_Hornet%27s_Nest_%28SAYRE_14854%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Hornet's_Nest_(SAYRE_14854).jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    },
+    {
+      "id": 2362,
+      "media_type": "lobby_card",
+      "title": "Hornets Nest lobby card.jpg",
+      "caption": "Lobby card for the American drama film The Hornet's Nest (1919). Caption: Mrs. Whitefield realizes the affection \"Mr. Vernon\" has developed for Muriel.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Hornets_Nest_lobby_card.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hornets_Nest_lobby_card.jpg/300px-Hornets_Nest_lobby_card.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hornets_Nest_lobby_card.jpg",
+      "license": "public_domain",
+      "attribution": "Vitagraph Company of America",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

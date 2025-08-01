@@ -5,7 +5,7 @@
   "formatted_title": "Forever, Darling",
   "html_title": "<span class=\"film-title\">Forever, Darling</span>",
   "release_year": 1956,
-  "runtime_minutes": null,
+  "runtime_minutes": 91,
   "country_of_production": "United States",
   "genres": [
     "Comedy"
@@ -44,9 +44,114 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4500,
+      "media_type": "poster",
+      "title": "Forever, Darling (1956) - Poster",
+      "caption": "Theatrical poster for Forever, Darling (1956)",
+      "url": "https://image.tmdb.org/t/p/original/izJ17zbamr9JjRz1rK2ClKhyWVm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/izJ17zbamr9JjRz1rK2ClKhyWVm.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/28299",
+      "license": "fair_use",
+      "attribution": "Zanra Productions",
+      "is_featured": "True"
+    },
+    {
+      "id": 4501,
+      "media_type": "poster",
+      "title": "Forever, Darling (1956) - Poster",
+      "caption": "Theatrical poster for Forever, Darling (1956)",
+      "url": "https://image.tmdb.org/t/p/original/dY4tV9E40VBfwehdJp9EjJbHDtl.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dY4tV9E40VBfwehdJp9EjJbHDtl.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/28299",
+      "license": "fair_use",
+      "attribution": "Zanra Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 4502,
+      "media_type": "poster",
+      "title": "Forever, Darling (1956) - Poster",
+      "caption": "Theatrical poster for Forever, Darling (1956)",
+      "url": "https://image.tmdb.org/t/p/original/vTwVt7OFxA3t7i2qXn7eH7n8aNG.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/vTwVt7OFxA3t7i2qXn7eH7n8aNG.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/28299",
+      "license": "fair_use",
+      "attribution": "Zanra Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 4503,
+      "media_type": "poster",
+      "title": "Forever, Darling (1956) - Poster",
+      "caption": "Theatrical poster for Forever, Darling (1956)",
+      "url": "https://image.tmdb.org/t/p/original/dm6g8E8uVaZRflPFhTRapzArpeJ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dm6g8E8uVaZRflPFhTRapzArpeJ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/28299",
+      "license": "fair_use",
+      "attribution": "Zanra Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 4504,
+      "media_type": "poster",
+      "title": "Forever, Darling (1956) - Poster",
+      "caption": "Theatrical poster for Forever, Darling (1956)",
+      "url": "https://image.tmdb.org/t/p/original/ot1FMYGh0TKUD8b5K90LP4pG8Mu.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ot1FMYGh0TKUD8b5K90LP4pG8Mu.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/28299",
+      "license": "fair_use",
+      "attribution": "Zanra Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 4505,
+      "media_type": "still",
+      "title": "Forever, Darling (1956) - Still",
+      "caption": "Scene from Forever, Darling (1956)",
+      "url": "https://image.tmdb.org/t/p/original/fvFiuUUia8A6GBb1eA6MrIzXv06.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/fvFiuUUia8A6GBb1eA6MrIzXv06.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/28299",
+      "license": "fair_use",
+      "attribution": "Zanra Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 4506,
+      "media_type": "still",
+      "title": "Forever, Darling (1956) - Still",
+      "caption": "Scene from Forever, Darling (1956)",
+      "url": "https://image.tmdb.org/t/p/original/eLLwvSQsCLxIqsBeHyapao6E6yk.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/eLLwvSQsCLxIqsBeHyapao6E6yk.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/28299",
+      "license": "fair_use",
+      "attribution": "Zanra Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 4507,
+      "media_type": "still",
+      "title": "Forever, Darling (1956) - Still",
+      "caption": "Scene from Forever, Darling (1956)",
+      "url": "https://image.tmdb.org/t/p/original/1iKwUkiJ7jysfyzPLwcg4YKlJpV.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/1iKwUkiJ7jysfyzPLwcg4YKlJpV.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/28299",
+      "license": "fair_use",
+      "attribution": "Zanra Productions",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 8,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:13:56.402299"
+  "last_updated": "2025-08-01T17:13:55.521987"
 }

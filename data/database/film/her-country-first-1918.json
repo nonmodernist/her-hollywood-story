@@ -5,7 +5,7 @@
   "formatted_title": "Her Country First",
   "html_title": "<span class=\"film-title\">Her Country First</span>",
   "release_year": 1918,
-  "runtime_minutes": null,
+  "runtime_minutes": 50,
   "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
@@ -44,9 +44,23 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2045,
+      "media_type": "still",
+      "title": "A scene from \"Her Country First\" (SAYRE 13542).jpg",
+      "caption": "A scene from Her Country First (1918) which played at the Coliseum Theater, Seattle. Includes Vivian Martin. Date stamped Sept. 26, 1919. Subjects: motion pictures, actresses",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/A_scene_from_%22Her_Country_First%22_%28SAYRE_13542%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/A_scene_from_%22Her_Country_First%22_%28SAYRE_13542%29.jpg/300px-A_scene_from_%22Her_Country_First%22_%28SAYRE_13542%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:A_scene_from_\"Her_Country_First\"_(SAYRE_13542).jpg",
+      "license": "public_domain",
+      "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:14:33.607006"
+  "last_updated": "2025-08-01T17:04:39.067299"
 }

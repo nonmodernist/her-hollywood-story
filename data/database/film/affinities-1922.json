@@ -44,9 +44,36 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2022,
+      "media_type": "poster",
+      "title": "Affinities (1922, lobby card).jpg",
+      "caption": "Distribution poster by Hodkinson Pictures.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Affinities_%281922%2C_lobby_card%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Affinities_%281922%2C_lobby_card%29.jpg/300px-Affinities_%281922%2C_lobby_card%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Affinities_(1922,_lobby_card).jpg",
+      "license": "public_domain",
+      "attribution": "Hodkinson Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2023,
+      "media_type": "still",
+      "title": "John Bowers and Colleen Moore in Affinities.jpg",
+      "caption": "John Bowers (left) and Colleen Moore in Affinities",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/John_Bowers_and_Colleen_Moore_in_Affinities.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/John_Bowers_and_Colleen_Moore_in_Affinities.jpg/300px-John_Bowers_and_Colleen_Moore_in_Affinities.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:John_Bowers_and_Colleen_Moore_in_Affinities.jpg",
+      "license": "public_domain",
+      "attribution": "Ward Lascelle Productions / Hodkinson Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

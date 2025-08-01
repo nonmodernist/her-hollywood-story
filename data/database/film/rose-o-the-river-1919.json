@@ -44,9 +44,23 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2301,
+      "media_type": "still",
+      "title": "Rose o' the River (1919) - 1.jpg",
+      "caption": "Still from the American drama film Rose o' the River (1919) with Lila Lee, Robert Brower, and Darrell Foss, on page 47 of the August 2, 1919 Exhibitors Herald. The caption states that this still is from the final scene.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Rose_o%27_the_River_%281919%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rose_o%27_the_River_%281919%29_-_1.jpg/300px-Rose_o%27_the_River_%281919%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rose_o'_the_River_(1919)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Famous Players-Lasky Corporation / Paramount Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:15:42.934551"
+  "last_updated": "2025-08-01T16:16:04.583585"
 }

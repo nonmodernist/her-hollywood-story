@@ -5,7 +5,7 @@
   "formatted_title": "Mr. Cohen Takes a Walk",
   "html_title": "<span class=\"film-title\">Mr. Cohen Takes a Walk</span>",
   "release_year": 1936,
-  "runtime_minutes": null,
+  "runtime_minutes": 80,
   "country_of_production": "United Kingdom",
   "genres": [
     "Comedy-drama"
@@ -44,9 +44,36 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5282,
+      "media_type": "poster",
+      "title": "Mr. Cohen Takes a Walk (1936) - Poster",
+      "caption": "Theatrical poster for Mr. Cohen Takes a Walk (1936)",
+      "url": "https://image.tmdb.org/t/p/original/y32YsT9qWuOkg1hPdnaxNtNlsJX.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/y32YsT9qWuOkg1hPdnaxNtNlsJX.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/293169",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 5283,
+      "media_type": "still",
+      "title": "Mr. Cohen Takes a Walk (1936) - Still",
+      "caption": "Scene from Mr. Cohen Takes a Walk (1936)",
+      "url": "https://image.tmdb.org/t/p/original/kNGHV9f0mwtHQQXIPFDpWoPrFrC.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/kNGHV9f0mwtHQQXIPFDpWoPrFrC.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/293169",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:16:29.648562"
+  "last_updated": "2025-08-01T17:13:38.078975"
 }

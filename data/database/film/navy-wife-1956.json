@@ -5,7 +5,7 @@
   "formatted_title": "Navy Wife",
   "html_title": "<span class=\"film-title\">Navy Wife</span>",
   "release_year": 1956,
-  "runtime_minutes": null,
+  "runtime_minutes": 83,
   "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3473,
+      "media_type": "poster",
+      "title": "Navy Wife (1956) - Poster",
+      "caption": "Theatrical poster for Navy Wife (1956)",
+      "url": "https://image.tmdb.org/t/p/original/9cAvKxZBtqHvTAYqxs0aUCprB7N.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/9cAvKxZBtqHvTAYqxs0aUCprB7N.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/407596",
+      "license": "fair_use",
+      "attribution": "Allied Artists",
+      "is_featured": "True"
+    },
+    {
+      "id": 3474,
+      "media_type": "poster",
+      "title": "Navy Wife (1956) - Poster",
+      "caption": "Theatrical poster for Navy Wife (1956)",
+      "url": "https://image.tmdb.org/t/p/original/u4dsFr30WR7xI81ABuzqepX1FXe.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/u4dsFr30WR7xI81ABuzqepX1FXe.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/407596",
+      "license": "fair_use",
+      "attribution": "Allied Artists",
+      "is_featured": "False"
+    },
+    {
+      "id": 3475,
+      "media_type": "still",
+      "title": "Navy Wife (1956) - Still",
+      "caption": "Scene from Navy Wife (1956)",
+      "url": "https://image.tmdb.org/t/p/original/v2VzrtgV13ZhRuaTdB6AnLT7ikq.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/v2VzrtgV13ZhRuaTdB6AnLT7ikq.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/407596",
+      "license": "fair_use",
+      "attribution": "Allied Artists",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:15:39.510807"
+  "last_updated": "2025-08-01T17:13:55.969736"
 }

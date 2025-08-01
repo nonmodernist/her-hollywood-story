@@ -5,7 +5,7 @@
   "formatted_title": "Beauty for Sale",
   "html_title": "<span class=\"film-title\">Beauty for Sale</span>",
   "release_year": 1933,
-  "runtime_minutes": null,
+  "runtime_minutes": 87,
   "country_of_production": "United States",
   "genres": [
     "Comedy-drama",
@@ -45,9 +45,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2738,
+      "media_type": "poster",
+      "title": "Beauty for Sale (1933) - Poster",
+      "caption": "Theatrical poster for Beauty for Sale (1933)",
+      "url": "https://image.tmdb.org/t/p/original/7nCBLd8mTfJQotQO0z0RTza0pxA.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/7nCBLd8mTfJQotQO0z0RTza0pxA.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/205341",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 2739,
+      "media_type": "poster",
+      "title": "Beauty for Sale (1933) - Poster",
+      "caption": "Theatrical poster for Beauty for Sale (1933)",
+      "url": "https://image.tmdb.org/t/p/original/gHzZNfpr9XvMI0K0H7SXIKlYO5y.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/gHzZNfpr9XvMI0K0H7SXIKlYO5y.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/205341",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 2740,
+      "media_type": "poster",
+      "title": "Beauty for Sale (1933) - Poster",
+      "caption": "Theatrical poster for Beauty for Sale (1933)",
+      "url": "https://image.tmdb.org/t/p/original/pyJ9ZPJNcq23cf5Zi2ec86wQj8H.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/pyJ9ZPJNcq23cf5Zi2ec86wQj8H.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/205341",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:11:32.201414"
+  "last_updated": "2025-08-01T17:12:47.171727"
 }

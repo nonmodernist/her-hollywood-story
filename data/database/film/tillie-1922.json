@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1719,
+      "media_type": "still",
+      "title": "Tillie (1922) - 3.jpg",
+      "caption": "Still from the American film Tillie (1922) with Mary Miles Minter, on page 60 of the March 4, 1922 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Tillie_%281922%29_-_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tillie_%281922%29_-_3.jpg/300px-Tillie_%281922%29_-_3.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tillie_(1922)_-_3.jpg",
+      "license": "public_domain",
+      "attribution": "Realart Pictures Corporation / Paramount Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 1720,
+      "media_type": "still",
+      "title": "Tillie (1922) - 4.jpg",
+      "caption": "Still from the American film Tillie (1922) with Mary Miles Minter, on page 80 of the March 11, 1922 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Tillie_%281922%29_-_4.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tillie_%281922%29_-_4.jpg/300px-Tillie_%281922%29_-_4.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tillie_(1922)_-_4.jpg",
+      "license": "public_domain",
+      "attribution": "Realart Pictures Corporation / Paramount Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 1721,
+      "media_type": "advertisement",
+      "title": "Tillie (1922) - 2.jpg",
+      "caption": "Newspaper advertisement for the American film Tillie (1922) with Mary Miles Minter, on page 8 of the February 4, 1922 Duluth Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Tillie_%281922%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tillie_%281922%29_-_2.jpg/300px-Tillie_%281922%29_-_2.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tillie_(1922)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 1722,
+      "media_type": "advertisement",
+      "title": "Tillie (1922) - 1.jpg",
+      "caption": "Newspaper advertisement for the American film Tillie (1922) with Mary Miles Minter, on page 11 of the February 8, 1922 Duluth Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tillie_%281922%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tillie_%281922%29_-_1.jpg/300px-Tillie_%281922%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tillie_(1922)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 1723,
+      "media_type": "lobby_card",
+      "title": "Tillie lobby card.jpg",
+      "caption": "Lobby card for the American film Tillie (1922).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Tillie_lobby_card.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Tillie_lobby_card.jpg/300px-Tillie_lobby_card.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tillie_lobby_card.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

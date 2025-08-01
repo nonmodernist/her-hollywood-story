@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4783,
+      "media_type": "poster",
+      "title": "Black Market Babies (1945) - Poster",
+      "caption": "Theatrical poster for Black Market Babies (1945)",
+      "url": "https://image.tmdb.org/t/p/original/kaZVHPbtMQxuuSpoZsrhxGrQWUd.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kaZVHPbtMQxuuSpoZsrhxGrQWUd.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/258264",
+      "license": "fair_use",
+      "attribution": "Monogram",
+      "is_featured": "True"
+    },
+    {
+      "id": 4784,
+      "media_type": "poster",
+      "title": "Black Market Babies (1945) - Poster",
+      "caption": "Theatrical poster for Black Market Babies (1945)",
+      "url": "https://image.tmdb.org/t/p/original/oSr5WqYfHaReNbH8OKyqhOYPQjA.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/oSr5WqYfHaReNbH8OKyqhOYPQjA.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/258264",
+      "license": "fair_use",
+      "attribution": "Monogram",
+      "is_featured": "False"
+    },
+    {
+      "id": 4785,
+      "media_type": "poster",
+      "title": "Black Market Babies (1945) - Poster",
+      "caption": "Theatrical poster for Black Market Babies (1945)",
+      "url": "https://image.tmdb.org/t/p/original/r8WpRxnMogFXarpG6lxLqNaTBoP.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/r8WpRxnMogFXarpG6lxLqNaTBoP.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/258264",
+      "license": "fair_use",
+      "attribution": "Monogram",
+      "is_featured": "False"
+    },
+    {
+      "id": 4786,
+      "media_type": "still",
+      "title": "Black Market Babies (1945) - Still",
+      "caption": "Scene from Black Market Babies (1945)",
+      "url": "https://image.tmdb.org/t/p/original/lp37RlAtpkCl7S1fwGoGpAXdxdZ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/lp37RlAtpkCl7S1fwGoGpAXdxdZ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/258264",
+      "license": "fair_use",
+      "attribution": "Monogram",
+      "is_featured": "False"
+    },
+    {
+      "id": 4787,
+      "media_type": "still",
+      "title": "Black Market Babies (1945) - Still",
+      "caption": "Scene from Black Market Babies (1945)",
+      "url": "https://image.tmdb.org/t/p/original/xelOuqoeErgAJX9SLPWNJo6jO29.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/xelOuqoeErgAJX9SLPWNJo6jO29.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/258264",
+      "license": "fair_use",
+      "attribution": "Monogram",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:13:53.747188"
 }

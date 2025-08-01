@@ -5,7 +5,7 @@
   "formatted_title": "Her Decision",
   "html_title": "<span class=\"film-title\">Her Decision</span>",
   "release_year": 1918,
-  "runtime_minutes": null,
+  "runtime_minutes": 50,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -46,13 +46,26 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 1326,
+      "media_type": "still",
+      "title": "Her Decision (1918) still 1.jpg",
+      "caption": "Gloria Swanson (left) and Ann Forrest (aka Ann Kroman) in Her Decision (1918) - publicity still.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Her_Decision_%281918%29_still_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Her_Decision_%281918%29_still_1.jpg/300px-Her_Decision_%281918%29_still_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Her_Decision_(1918)_still_1.jpg",
+      "license": "public_domain",
+      "attribution": "Triangle Film",
+      "is_featured": "False"
+    },
+    {
       "id": 1324,
       "media_type": "still",
       "title": "Her Decision (1918) - 2.jpg",
       "caption": "Still from the American drama film Her Decision (1918) with Darrell Foss and Gloria Swanson, on page 28 of the May 18, 1918 Exhibitors Herald.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Her_Decision_%281918%29_-_2.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Her_Decision_%281918%29_-_2.jpg/300px-Her_Decision_%281918%29_-_2.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Her_Decision_(1918)_-_2.jpg",
       "license": "public_domain",
       "attribution": "Triangle Films Corporation",
@@ -65,28 +78,15 @@
       "caption": "Still from the American drama film Her Decision (1918) with J. Barney Sherry and Gloria Swanson, on page 27 of the June 1, 1918 Exhibitors Herald.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Her_Decision_%281918%29_-_3.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Her_Decision_%281918%29_-_3.jpg/300px-Her_Decision_%281918%29_-_3.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Her_Decision_(1918)_-_3.jpg",
       "license": "public_domain",
       "attribution": "Triangle Films Corporation",
-      "is_featured": "False"
-    },
-    {
-      "id": 1326,
-      "media_type": "still",
-      "title": "Her Decision (1918) still 1.jpg",
-      "caption": "Gloria Swanson (left) and Ann Forrest (aka Ann Kroman) in Her Decision (1918) - publicity still.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Her_Decision_%281918%29_still_1.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Her_Decision_%281918%29_still_1.jpg/300px-Her_Decision_%281918%29_still_1.jpg",
-      "source": "wikimedia",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Her_Decision_(1918)_still_1.jpg",
-      "license": "public_domain",
-      "attribution": "unknown (Triangle Films Corporation)",
       "is_featured": "False"
     }
   ],
   "has_media": true,
   "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:09:23.31591"
+  "last_updated": "2025-08-01T17:04:32.909505"
 }

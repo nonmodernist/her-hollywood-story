@@ -209,22 +209,6 @@
       "searchText": "alice muriel williamson"
     },
     {
-      "id": 2,
-      "slug": "harriet-beecher-stowe",
-      "name": "Harriet Beecher Stowe",
-      "birthYear": 1811,
-      "deathYear": 1896,
-      "nationality": "American",
-      "literaryMovement": null,
-      "filmCount": 9,
-      "workCount": 3,
-      "firstAdaptation": 1910,
-      "lastAdaptation": 1927,
-      "yearSpan": 17,
-      "isTwentyTimer": false,
-      "searchText": "harriet beecher stowe"
-    },
-    {
       "id": 4,
       "slug": "grace-miller-white",
       "name": "Grace Miller White",
@@ -303,6 +287,22 @@
       "yearSpan": 11,
       "isTwentyTimer": false,
       "searchText": "mildred cram"
+    },
+    {
+      "id": 2,
+      "slug": "harriet-beecher-stowe",
+      "name": "Harriet Beecher Stowe",
+      "birthYear": 1811,
+      "deathYear": 1896,
+      "nationality": "American",
+      "literaryMovement": null,
+      "filmCount": 8,
+      "workCount": 3,
+      "firstAdaptation": 1910,
+      "lastAdaptation": 1927,
+      "yearSpan": 17,
+      "isTwentyTimer": false,
+      "searchText": "harriet beecher stowe"
     },
     {
       "id": 16,

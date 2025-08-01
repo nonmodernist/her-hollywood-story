@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1733,
+      "media_type": "lobby_card",
+      "title": "Full Speed (1925 film).jpg",
+      "caption": "Lobby card for Full Speed (1925 film)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Full_Speed_%281925_film%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Full_Speed_%281925_film%29.jpg/300px-Full_Speed_%281925_film%29.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Full_Speed_(1925_film).jpg",
+      "license": "public_domain",
+      "attribution": "Banner Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 1730,
+      "media_type": "still",
+      "title": "Speed (1925) - 1.jpg",
+      "caption": "Still from the American comedy drama film Speed (1925), on page 95 of the May 16, 1925 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Speed_%281925%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Speed_%281925%29_-_1.jpg/300px-Speed_%281925%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Speed_(1925)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Banner Productions / Henry Ginsberg Distributing Company",
+      "is_featured": "False"
+    },
+    {
+      "id": 1731,
+      "media_type": "still",
+      "title": "Super Speed (1925) - 1.jpg",
+      "caption": "Still from the American comedy film Super Speed (1925) with Reed Howes, on page 283 of the January 17, 1925 The Moving Picture World.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Super_Speed_%281925%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Super_Speed_%281925%29_-_1.jpg/300px-Super_Speed_%281925%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Super_Speed_(1925)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Harry J. Brown Productions / Rayart Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 1732,
+      "media_type": "still",
+      "title": "Super Speed (1925) - 2.jpg",
+      "caption": "Still from the American comedy film Super Speed (1925) with Mildred Harris and Reed Howes, cropped for publication, on page 723 of the February 14, 1925 The Moving Picture World.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Super_Speed_%281925%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Super_Speed_%281925%29_-_2.jpg/300px-Super_Speed_%281925%29_-_2.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Super_Speed_(1925)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Harry J. Brown Productions / Rayart Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 1734,
+      "media_type": "lobby_card",
+      "title": "Super Speed lobby card.jpg",
+      "caption": "Lobby card for the American comedy film Super Speed (1925).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Super_Speed_lobby_card.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Super_Speed_lobby_card.jpg/300px-Super_Speed_lobby_card.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Super_Speed_lobby_card.jpg",
+      "license": "public_domain",
+      "attribution": "Harry J. Brown Productions / Rayart Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

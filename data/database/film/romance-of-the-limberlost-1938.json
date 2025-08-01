@@ -5,7 +5,7 @@
   "formatted_title": "Romance of the Limberlost",
   "html_title": "<span class=\"film-title\">Romance of the Limberlost</span>",
   "release_year": 1938,
-  "runtime_minutes": null,
+  "runtime_minutes": 75,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -80,16 +80,29 @@
   },
   "media": [
     {
-      "id": 696,
+      "id": 2937,
+      "media_type": "poster",
+      "title": "Romance of the Limberlost (1938) - Poster",
+      "caption": "Theatrical poster for Romance of the Limberlost (1938)",
+      "url": "https://image.tmdb.org/t/p/original/et5pAQAsmquAbiy7QN5b8tXsc8T.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/et5pAQAsmquAbiy7QN5b8tXsc8T.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/267732",
+      "license": "fair_use",
+      "attribution": "Monogram",
+      "is_featured": "True"
+    },
+    {
+      "id": 695,
       "media_type": "still",
-      "title": "Sarah Padden in Romance of the Limberlost (1938) 1 (cropped).jpg",
+      "title": "Romance of the Limberlost (1938) 1.jpg",
       "caption": "Left to right: George Cleveland, Jean Parker, Sarah Padden, and Marjorie Main in Romance of the Limberlost (1938) - publicity still (cropped)",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Sarah_Padden_in_Romance_of_the_Limberlost_%281938%29_1_%28cropped%29.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sarah_Padden_in_Romance_of_the_Limberlost_%281938%29_1_%28cropped%29.jpg/300px-Sarah_Padden_in_Romance_of_the_Limberlost_%281938%29_1_%28cropped%29.jpg",
-      "source": "wikimedia",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Sarah_Padden_in_Romance_of_the_Limberlost_(1938)_1_(cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Romance_of_the_Limberlost_%281938%29_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Romance_of_the_Limberlost_%281938%29_1.jpg/300px-Romance_of_the_Limberlost_%281938%29_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Romance_of_the_Limberlost_(1938)_1.jpg",
       "license": "public_domain",
-      "attribution": "unknown (Monogram Pictures)",
+      "attribution": "Monogram",
       "is_featured": "False"
     },
     {
@@ -99,7 +112,7 @@
       "caption": "Poster for the 1938 film Romance of the Limberlost.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Romance_of_the_Limberlost_1938.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Romance_of_the_Limberlost_1938.jpg/300px-Romance_of_the_Limberlost_1938.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Romance_of_the_Limberlost_1938.jpg",
       "license": "public_domain",
       "attribution": "Monogram Pictures",
@@ -112,41 +125,15 @@
       "caption": "Poster for the 1938 film Romance of the Limberlost.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/1938_poster_Romance_of_the_Limberlost.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/1938_poster_Romance_of_the_Limberlost.jpg/300px-1938_poster_Romance_of_the_Limberlost.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:1938_poster_Romance_of_the_Limberlost.jpg",
       "license": "public_domain",
       "attribution": "Monogram Pictures",
       "is_featured": "False"
-    },
-    {
-      "id": 695,
-      "media_type": "still",
-      "title": "Romance of the Limberlost (1938) 1.jpg",
-      "caption": "Left to right: George Cleveland, Jean Parker, Sarah Padden, and Marjorie Main in Romance of the Limberlost (1938) - publicity still (cropped)",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Romance_of_the_Limberlost_%281938%29_1.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Romance_of_the_Limberlost_%281938%29_1.jpg/300px-Romance_of_the_Limberlost_%281938%29_1.jpg",
-      "source": "wikimedia",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Romance_of_the_Limberlost_(1938)_1.jpg",
-      "license": "public_domain",
-      "attribution": "unknown (Monogram Pictures)",
-      "is_featured": "False"
-    },
-    {
-      "id": 697,
-      "media_type": "still",
-      "title": "Sarah Padden in Romance of the Limberlost (1938) 2 (cropped).jpg",
-      "caption": "Sarah Padden in Romance of the Limberlost (1938) - publicity still (cropped)",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Sarah_Padden_in_Romance_of_the_Limberlost_%281938%29_2_%28cropped%29.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sarah_Padden_in_Romance_of_the_Limberlost_%281938%29_2_%28cropped%29.jpg/300px-Sarah_Padden_in_Romance_of_the_Limberlost_%281938%29_2_%28cropped%29.jpg",
-      "source": "wikimedia",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Sarah_Padden_in_Romance_of_the_Limberlost_(1938)_2_(cropped).jpg",
-      "license": "public_domain",
-      "attribution": "unknown (Monogram Pictures)",
-      "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 5,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:12:44.881431"
+  "last_updated": "2025-08-01T17:13:41.888595"
 }

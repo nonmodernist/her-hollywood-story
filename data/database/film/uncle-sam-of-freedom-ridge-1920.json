@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1802,
+      "media_type": "advertisement",
+      "title": "Uncle Sam of Freedom Ridge (1920) - 2.jpg",
+      "caption": "Advertisement for the American drama film Uncle Sam of Freedom Ridge (1920) with William Corbett, on page 28 of the October 2, 1920 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Uncle_Sam_of_Freedom_Ridge_%281920%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Uncle_Sam_of_Freedom_Ridge_%281920%29_-_2.jpg/300px-Uncle_Sam_of_Freedom_Ridge_%281920%29_-_2.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Uncle_Sam_of_Freedom_Ridge_(1920)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Harry Levey Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 1803,
+      "media_type": "still",
+      "title": "Uncle Sam of Freedom Ridge (1920) - 3.jpg",
+      "caption": "Still from the American drama film Uncle Sam of Freedom Ridge (1920) with Helen Flint, George MacQuarrie, and William Corbett, on page 66 of the October 9, 1920 Exhibitors Herald. This is the only film this Helen Flint is listed as being in.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Uncle_Sam_of_Freedom_Ridge_%281920%29_-_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Uncle_Sam_of_Freedom_Ridge_%281920%29_-_3.jpg/300px-Uncle_Sam_of_Freedom_Ridge_%281920%29_-_3.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Uncle_Sam_of_Freedom_Ridge_(1920)_-_3.jpg",
+      "license": "public_domain",
+      "attribution": "Harry Levey Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 1804,
+      "media_type": "still",
+      "title": "Uncle Sam of Freedom Ridge (1920) - 1.jpg",
+      "caption": "Still from the American drama film Uncle Sam of Freedom Ridge (1920) with William Corbett and George MacQuarrie, on page 68 of the September 25, 1920 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Uncle_Sam_of_Freedom_Ridge_%281920%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Uncle_Sam_of_Freedom_Ridge_%281920%29_-_1.jpg/300px-Uncle_Sam_of_Freedom_Ridge_%281920%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Uncle_Sam_of_Freedom_Ridge_(1920)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Harry Levey Productions",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

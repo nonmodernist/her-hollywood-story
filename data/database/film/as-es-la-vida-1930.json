@@ -5,7 +5,7 @@
   "formatted_title": "Así es la vida",
   "html_title": "<span class=\"film-title\">Así es la vida</span>",
   "release_year": 1930,
-  "runtime_minutes": null,
+  "runtime_minutes": 72,
   "country_of_production": "United States",
   "genres": [
     "Comedy"
@@ -60,9 +60,23 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4771,
+      "media_type": "poster",
+      "title": "Así es la vida (1930) - Poster",
+      "caption": "Theatrical poster for Así es la vida (1930)",
+      "url": "https://image.tmdb.org/t/p/original/4EFDd7ERqpIIpwdyXqph5UeH0Up.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/4EFDd7ERqpIIpwdyXqph5UeH0Up.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/1072952",
+      "license": "fair_use",
+      "attribution": "Sono-Art",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:14:57.144478"
+  "last_updated": "2025-08-01T17:12:38.788974"
 }

@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1810,
+      "media_type": "advertisement",
+      "title": "The Whirlpool (1918 movie advertisement).jpg",
+      "caption": "Advertisement in Moving Picture World for the American crime drama film The Whirlpool with Alice Brady.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/The_Whirlpool_%281918_movie_advertisement%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/The_Whirlpool_%281918_movie_advertisement%29.jpg/300px-The_Whirlpool_%281918_movie_advertisement%29.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Whirlpool_(1918_movie_advertisement).jpg",
+      "license": "public_domain",
+      "attribution": "Select Pictures Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 1809,
+      "media_type": "still",
+      "title": "The Whirlpool (1918) - 2.jpg",
+      "caption": "Still from the American crime drama film The Whirlpool with Alice Brady and an unidentified actor, on page actor, on page 33 of the June 29, 1918 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/The_Whirlpool_%281918%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/The_Whirlpool_%281918%29_-_2.jpg/300px-The_Whirlpool_%281918%29_-_2.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Whirlpool_(1918)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Select Pictures Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 1811,
+      "media_type": "advertisement",
+      "title": "The Whirlpool (1918) - 3.jpg",
+      "caption": "Advertisement for the American crime drama film The Whirlpool with Alice Brady, on page 29 of the June 28, 1918 Variety.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/The_Whirlpool_%281918%29_-_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/The_Whirlpool_%281918%29_-_3.jpg/300px-The_Whirlpool_%281918%29_-_3.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Whirlpool_(1918)_-_3.jpg",
+      "license": "public_domain",
+      "attribution": "Select Pictures Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 1812,
+      "media_type": "advertisement",
+      "title": "The Whirlpool 1918.png",
+      "caption": "Alice Brady in The Whirlpool 1918",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/The_Whirlpool_1918.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/The_Whirlpool_1918.png/300px-The_Whirlpool_1918.png",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Whirlpool_1918.png",
+      "license": "public_domain",
+      "attribution": "Select Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

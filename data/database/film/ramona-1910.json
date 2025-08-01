@@ -78,9 +78,49 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2430,
+      "media_type": "poster",
+      "title": "Ramona (1910) - Poster",
+      "caption": "Theatrical poster for Ramona (1910)",
+      "url": "https://image.tmdb.org/t/p/original/uOQ5mnOleWTtJRQC1TYkaEjfmkM.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/uOQ5mnOleWTtJRQC1TYkaEjfmkM.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/189898",
+      "license": "fair_use",
+      "attribution": "Biograph",
+      "is_featured": "False"
+    },
+    {
+      "id": 2431,
+      "media_type": "poster",
+      "title": "Ramona (1910) - Poster",
+      "caption": "Theatrical poster for Ramona (1910)",
+      "url": "https://image.tmdb.org/t/p/original/kM5DdvtsUuvu1gV3uj2LE3zNb5x.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kM5DdvtsUuvu1gV3uj2LE3zNb5x.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/189898",
+      "license": "fair_use",
+      "attribution": "Biograph",
+      "is_featured": "False"
+    },
+    {
+      "id": 2432,
+      "media_type": "still",
+      "title": "Ramona (1910) - Still",
+      "caption": "Scene from Ramona (1910)",
+      "url": "https://image.tmdb.org/t/p/original/fa8gQKiiKvJW9acoj1S8tk8xbpC.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/fa8gQKiiKvJW9acoj1S8tk8xbpC.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/189898",
+      "license": "fair_use",
+      "attribution": "Biograph",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:01:56.555004"
 }

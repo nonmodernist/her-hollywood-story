@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2139,
+      "media_type": "still",
+      "title": "Viveca Lindfors in No Sad Songs for Me trailer.JPG",
+      "caption": "Cropped screenshot of Viveca Lindfors from the trailer for the film No Sad Songs for Me",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Viveca_Lindfors_in_No_Sad_Songs_for_Me_trailer.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Viveca_Lindfors_in_No_Sad_Songs_for_Me_trailer.JPG/300px-Viveca_Lindfors_in_No_Sad_Songs_for_Me_trailer.JPG",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Viveca_Lindfors_in_No_Sad_Songs_for_Me_trailer.JPG",
+      "license": "public_domain",
+      "attribution": "Trailer screenshot",
+      "is_featured": "False"
+    },
+    {
+      "id": 2140,
+      "media_type": "still",
+      "title": "Margaret Sullavan in No Sad Songs for Me trailer 3.JPG",
+      "caption": "Cropped screenshot of Margaret Sullavan from the trailer for the film No Sad Songs for Me",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Margaret_Sullavan_in_No_Sad_Songs_for_Me_trailer_3.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Margaret_Sullavan_in_No_Sad_Songs_for_Me_trailer_3.JPG/300px-Margaret_Sullavan_in_No_Sad_Songs_for_Me_trailer_3.JPG",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Margaret_Sullavan_in_No_Sad_Songs_for_Me_trailer_3.JPG",
+      "license": "public_domain",
+      "attribution": "Trailer screenshot",
+      "is_featured": "False"
+    },
+    {
+      "id": 2141,
+      "media_type": "still",
+      "title": "Margaret Sullavan in No Sad Songs for Me trailer 2.JPG",
+      "caption": "Cropped screenshot of Margaret Sullavan from the trailer for the film No Sad Songs for Me",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Margaret_Sullavan_in_No_Sad_Songs_for_Me_trailer_2.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Margaret_Sullavan_in_No_Sad_Songs_for_Me_trailer_2.JPG/300px-Margaret_Sullavan_in_No_Sad_Songs_for_Me_trailer_2.JPG",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Margaret_Sullavan_in_No_Sad_Songs_for_Me_trailer_2.JPG",
+      "license": "public_domain",
+      "attribution": "Trailer screenshot",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

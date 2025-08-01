@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2797,
+      "media_type": "poster",
+      "title": "Chance at Heaven (1933) - Poster",
+      "caption": "Theatrical poster for Chance at Heaven (1933)",
+      "url": "https://image.tmdb.org/t/p/original/gEMTuoh8W5eDrFB2UmarnlGjJUv.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/gEMTuoh8W5eDrFB2UmarnlGjJUv.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/127804",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 2798,
+      "media_type": "poster",
+      "title": "Chance at Heaven (1933) - Poster",
+      "caption": "Theatrical poster for Chance at Heaven (1933)",
+      "url": "https://image.tmdb.org/t/p/original/vTZF8xciTfRTZvFekvgcLI60r9T.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/vTZF8xciTfRTZvFekvgcLI60r9T.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/127804",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 2799,
+      "media_type": "still",
+      "title": "Chance at Heaven (1933) - Still",
+      "caption": "Scene from Chance at Heaven (1933)",
+      "url": "https://image.tmdb.org/t/p/original/e8a8g9A3uKZRjgiEePED6NP7jO2.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/e8a8g9A3uKZRjgiEePED6NP7jO2.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/127804",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 2800,
+      "media_type": "still",
+      "title": "Chance at Heaven (1933) - Still",
+      "caption": "Scene from Chance at Heaven (1933)",
+      "url": "https://image.tmdb.org/t/p/original/r99XsiQQvIv9RMTBKghomeSx417.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/r99XsiQQvIv9RMTBKghomeSx417.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/127804",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:04:32.929834"
 }

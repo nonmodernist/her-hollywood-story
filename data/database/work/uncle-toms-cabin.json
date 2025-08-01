@@ -16,10 +16,10 @@
     "name": "Harriet Beecher Stowe",
     "birth_year": 1811,
     "death_year": 1896,
-    "film_count": 9
+    "film_count": 8
   },
   "stats": {
-    "adaptation_count": 7,
+    "adaptation_count": 6,
     "year_span": 17,
     "is_remake_champion": true,
     "average_gap_between_adaptations": 3
@@ -74,20 +74,6 @@
       ],
       "has_media": false,
       "years_after_publication": 61
-    },
-    {
-      "id": 7,
-      "slug": "uncle-toms-cabin-1914",
-      "title": "Uncle Tom's Cabin",
-      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
-      "year": 1914,
-      "studio": "World Producing",
-      "directors": "William Robert Daly",
-      "genres": [
-        "Melodrama"
-      ],
-      "has_media": true,
-      "years_after_publication": 62
     },
     {
       "id": 39,
@@ -145,13 +131,8 @@
     },
     {
       "from_year": 1913,
-      "to_year": 1914,
-      "gap_years": 1
-    },
-    {
-      "from_year": 1914,
       "to_year": 1918,
-      "gap_years": 4
+      "gap_years": 5
     },
     {
       "from_year": 1918,

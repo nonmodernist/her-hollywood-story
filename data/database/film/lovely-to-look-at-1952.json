@@ -60,9 +60,114 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3263,
+      "media_type": "poster",
+      "title": "Lovely To Look At (1952) - Poster",
+      "caption": "Theatrical poster for Lovely To Look At (1952)",
+      "url": "https://image.tmdb.org/t/p/original/jBA211Yb58S1UqoA14GiPx6vpOA.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/jBA211Yb58S1UqoA14GiPx6vpOA.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43363",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3264,
+      "media_type": "poster",
+      "title": "Lovely To Look At (1952) - Poster",
+      "caption": "Theatrical poster for Lovely To Look At (1952)",
+      "url": "https://image.tmdb.org/t/p/original/lOOtG91aK4dDe3Bfdq9rubkxfN.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/lOOtG91aK4dDe3Bfdq9rubkxfN.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43363",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3265,
+      "media_type": "poster",
+      "title": "Lovely To Look At (1952) - Poster",
+      "caption": "Theatrical poster for Lovely To Look At (1952)",
+      "url": "https://image.tmdb.org/t/p/original/tEDz5Gzyx9H3L2VMljbey0Qr5V3.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/tEDz5Gzyx9H3L2VMljbey0Qr5V3.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43363",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3266,
+      "media_type": "poster",
+      "title": "Lovely To Look At (1952) - Poster",
+      "caption": "Theatrical poster for Lovely To Look At (1952)",
+      "url": "https://image.tmdb.org/t/p/original/1923Y8npyeyEfOYIUYkIceYjqVo.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1923Y8npyeyEfOYIUYkIceYjqVo.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43363",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3267,
+      "media_type": "poster",
+      "title": "Lovely To Look At (1952) - Poster",
+      "caption": "Theatrical poster for Lovely To Look At (1952)",
+      "url": "https://image.tmdb.org/t/p/original/xToMSDXOrUkb5hCv3ah1z0GcbjP.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/xToMSDXOrUkb5hCv3ah1z0GcbjP.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43363",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3268,
+      "media_type": "still",
+      "title": "Lovely To Look At (1952) - Still",
+      "caption": "Scene from Lovely To Look At (1952)",
+      "url": "https://image.tmdb.org/t/p/original/5mAuXAtcZy6BaeVZDg9Qv2SdfDR.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/5mAuXAtcZy6BaeVZDg9Qv2SdfDR.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43363",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3269,
+      "media_type": "still",
+      "title": "Lovely To Look At (1952) - Still",
+      "caption": "Scene from Lovely To Look At (1952)",
+      "url": "https://image.tmdb.org/t/p/original/w9zeZkf6qY3PQGT0aUiE8Uwz5TG.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/w9zeZkf6qY3PQGT0aUiE8Uwz5TG.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43363",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3270,
+      "media_type": "still",
+      "title": "Lovely To Look At (1952) - Still",
+      "caption": "Scene from Lovely To Look At (1952)",
+      "url": "https://image.tmdb.org/t/p/original/i1e1a08SFXDsntzU5WYhuAQeZc2.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/i1e1a08SFXDsntzU5WYhuAQeZc2.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43363",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 8,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:06:13.580374"
 }

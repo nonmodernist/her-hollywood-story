@@ -44,9 +44,23 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1574,
+      "media_type": "still",
+      "title": "To the Highest Bidder (1918) - 1.jpg",
+      "caption": "Still from the American drama film To the Highest Bidder (1918) with Alice Joyce and an unidentified actor (the auctioneer), on page 27 of the July 27, 1918 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/To_the_Highest_Bidder_%281918%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/To_the_Highest_Bidder_%281918%29_-_1.jpg/300px-To_the_Highest_Bidder_%281918%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:To_the_Highest_Bidder_(1918)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Vitagraph Company of America",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:16:54.517587"
+  "last_updated": "2025-08-01T16:11:40.942859"
 }

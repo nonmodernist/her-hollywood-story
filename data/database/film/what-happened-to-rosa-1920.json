@@ -46,13 +46,26 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 3769,
+      "media_type": "poster",
+      "title": "What Happened to Rosa (1920) - Poster",
+      "caption": "Theatrical poster for What Happened to Rosa (1920)",
+      "url": "https://image.tmdb.org/t/p/original/pAjKC0kMoopHYOvadY6YLrT28Js.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/pAjKC0kMoopHYOvadY6YLrT28Js.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/175207",
+      "license": "fair_use",
+      "attribution": "The Mabel Normand Company",
+      "is_featured": "False"
+    },
+    {
       "id": 1159,
       "media_type": "still",
       "title": "What Happened to Rosa (1920) - 3.jpg",
       "caption": "Still from the American comedy film What Happened to Rosa (1920) with Mabel Normand and two unidentified actors, on page 182 of the December 25, 1920 Exhibitors Herald.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/What_Happened_to_Rosa_%281920%29_-_3.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/What_Happened_to_Rosa_%281920%29_-_3.jpg/300px-What_Happened_to_Rosa_%281920%29_-_3.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:What_Happened_to_Rosa_(1920)_-_3.jpg",
       "license": "public_domain",
       "attribution": "Goldwyn Pictures Corporation",
@@ -65,7 +78,7 @@
       "caption": "Still from the American comedy film What Happened to Rosa (1920) with Eugenie Besserer and Mabel Normand, on page 52 of the November 13, 1920 Exhibitors Herald.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/What_Happened_to_Rosa_%281920%29_-_2.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/What_Happened_to_Rosa_%281920%29_-_2.jpg/300px-What_Happened_to_Rosa_%281920%29_-_2.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:What_Happened_to_Rosa_(1920)_-_2.jpg",
       "license": "public_domain",
       "attribution": "Goldwyn Pictures Corporation",
@@ -78,7 +91,7 @@
       "caption": "Still from the American comedy film What Happened to Rosa (1920) with Mabel Normand and Hugh Thompson, on page 72 of the October 9, 1920 Exhibitors Herald.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/What_Happened_to_Rosa_%281920%29_-_1.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/What_Happened_to_Rosa_%281920%29_-_1.jpg/300px-What_Happened_to_Rosa_%281920%29_-_1.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:What_Happened_to_Rosa_(1920)_-_1.jpg",
       "license": "public_domain",
       "attribution": "Goldwyn Pictures Corporation",
@@ -91,7 +104,7 @@
       "caption": "Lobby card for the 1920 film What Happened to Rosa? (title in small print at lower left of card)",
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/What_Happened_to_Rosa_lobby_card.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/What_Happened_to_Rosa_lobby_card.jpg/300px-What_Happened_to_Rosa_lobby_card.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:What_Happened_to_Rosa_lobby_card.jpg",
       "license": "public_domain",
       "attribution": "Goldwyn",
@@ -99,7 +112,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 4,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:08:26.03967"
 }

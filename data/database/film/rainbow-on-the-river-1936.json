@@ -5,7 +5,7 @@
   "formatted_title": "Rainbow On the River",
   "html_title": "<span class=\"film-title\">Rainbow On the River</span>",
   "release_year": 1936,
-  "runtime_minutes": null,
+  "runtime_minutes": 87,
   "country_of_production": "United States",
   "genres": [
     "Musical"
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4235,
+      "media_type": "poster",
+      "title": "Rainbow On the River (1936) - Poster",
+      "caption": "Theatrical poster for Rainbow On the River (1936)",
+      "url": "https://image.tmdb.org/t/p/original/bGUTKFnTFV8ILJitzu5ecUbuFWg.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/bGUTKFnTFV8ILJitzu5ecUbuFWg.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/359982",
+      "license": "fair_use",
+      "attribution": "Bobby Breen Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 1477,
+      "media_type": "still",
+      "title": "Louise Beavers Rainbow on the River (cropped).jpg",
+      "caption": "Louise Beavers from the American film Rainbow on the River (1936) - cropped still",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Louise_Beavers_Rainbow_on_the_River_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Louise_Beavers_Rainbow_on_the_River_%28cropped%29.jpg/300px-Louise_Beavers_Rainbow_on_the_River_%28cropped%29.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Louise_Beavers_Rainbow_on_the_River_(cropped).jpg",
+      "license": "public_domain",
+      "attribution": "RKO Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 1478,
+      "media_type": "still",
+      "title": "Louise Beavers Bobby Breen Rainbow on the River.jpg",
+      "caption": "Still with Louise Beavers and Bobby Breen from the American film Rainbow on the River (1936).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Louise_Beavers_Bobby_Breen_Rainbow_on_the_River.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Louise_Beavers_Bobby_Breen_Rainbow_on_the_River.jpg/300px-Louise_Beavers_Bobby_Breen_Rainbow_on_the_River.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Louise_Beavers_Bobby_Breen_Rainbow_on_the_River.jpg",
+      "license": "public_domain",
+      "attribution": "RKO Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:16:47.760703"
+  "last_updated": "2025-08-01T17:13:38.539719"
 }

@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1818,
+      "media_type": "still",
+      "title": "The Wedding Song (SAYRE 14054).jpg",
+      "caption": "Still from the American drama film The Wedding Song (1925). Subjects (LCTGM): motion pictures, actors, actresses",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/The_Wedding_Song_%28SAYRE_14054%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Wedding_Song_%28SAYRE_14054%29.jpg/300px-The_Wedding_Song_%28SAYRE_14054%29.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Wedding_Song_(SAYRE_14054).jpg",
+      "license": "public_domain",
+      "attribution": "Cinema Corp. of America",
+      "is_featured": "False"
+    },
+    {
+      "id": 1816,
+      "media_type": "advertisement",
+      "title": "The Wedding Song (1925) - 1.jpg",
+      "caption": "Advertisement for the American drama film The Wedding Song (1925) with Leatrice Joy and Robert Ames, on pages 4 and 5 of the November 16, 1925 Film Daily.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/The_Wedding_Song_%281925%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Wedding_Song_%281925%29_-_1.jpg/300px-The_Wedding_Song_%281925%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Wedding_Song_(1925)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Cinema Corporation of America / Producers Distributing Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 1817,
+      "media_type": "still",
+      "title": "The Wedding Song (1925) - 2.jpg",
+      "caption": "Still from the American drama film The Wedding Song (1925) with Robert Ames and Leatrice Joy, on page 57 of the October 31, 1925 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/The_Wedding_Song_%281925%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_Wedding_Song_%281925%29_-_2.jpg/300px-The_Wedding_Song_%281925%29_-_2.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Wedding_Song_(1925)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Cinema Corporation of America / Producers Distributing Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 1819,
+      "media_type": "production_photo",
+      "title": "The Green Archer (1925) - 4.jpg",
+      "caption": "The Majestic Theatre in Memphis, Tennessee, decorated for showing the American film serial The Green Archer (1925), with ushers wearing \"green archer\" robes, on page 1602 of the April 10, 1926 Motion Picture News. The theater is also showing the American drama film The Wedding Song (1925) with Leatrice Joy.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/The_Green_Archer_%281925%29_-_4.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Green_Archer_%281925%29_-_4.jpg/300px-The_Green_Archer_%281925%29_-_4.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Green_Archer_(1925)_-_4.jpg",
+      "license": "public_domain",
+      "attribution": "Pathé Exchange",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

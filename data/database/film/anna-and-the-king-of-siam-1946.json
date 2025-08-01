@@ -16,7 +16,7 @@
   "directors": "John Cromwell",
   "writers": "Talbot Jennings|Sally Benson",
   "cast_members": "Irene Dunne|Rex Harrison|Linda Darnell|Lee J. Cobb|Gale Sondergaard|Mikhail Rasumny|Dennis Hoey|Tito Renaldo|Richard Lyon|William Edmunds",
-  "color_info": "color",
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 24679,
   "source_work": {
@@ -60,9 +60,101 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4371,
+      "media_type": "poster",
+      "title": "Anna and the King of Siam (1946) - Poster",
+      "caption": "Theatrical poster for Anna and the King of Siam (1946)",
+      "url": "https://image.tmdb.org/t/p/original/yg4hXEWzWsLI3rgzqrC1KzCYzM1.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/yg4hXEWzWsLI3rgzqrC1KzCYzM1.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43471",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "True"
+    },
+    {
+      "id": 4372,
+      "media_type": "poster",
+      "title": "Anna and the King of Siam (1946) - Poster",
+      "caption": "Theatrical poster for Anna and the King of Siam (1946)",
+      "url": "https://image.tmdb.org/t/p/original/aSmk4luGsoQLovUYHBP3uaqAQIT.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/aSmk4luGsoQLovUYHBP3uaqAQIT.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43471",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4373,
+      "media_type": "poster",
+      "title": "Anna and the King of Siam (1946) - Poster",
+      "caption": "Theatrical poster for Anna and the King of Siam (1946)",
+      "url": "https://image.tmdb.org/t/p/original/qE7t7e20sLdHw9prgzgYkPyDUwd.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/qE7t7e20sLdHw9prgzgYkPyDUwd.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43471",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4374,
+      "media_type": "poster",
+      "title": "Anna and the King of Siam (1946) - Poster",
+      "caption": "Theatrical poster for Anna and the King of Siam (1946)",
+      "url": "https://image.tmdb.org/t/p/original/6OdzIxV0nF0W7GNv5wMQWDyzye5.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/6OdzIxV0nF0W7GNv5wMQWDyzye5.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43471",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4375,
+      "media_type": "poster",
+      "title": "Anna and the King of Siam (1946) - Poster",
+      "caption": "Theatrical poster for Anna and the King of Siam (1946)",
+      "url": "https://image.tmdb.org/t/p/original/enQvR3otEYvZOJvxMsHVTxTAHpO.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/enQvR3otEYvZOJvxMsHVTxTAHpO.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43471",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4376,
+      "media_type": "still",
+      "title": "Anna and the King of Siam (1946) - Still",
+      "caption": "Scene from Anna and the King of Siam (1946)",
+      "url": "https://image.tmdb.org/t/p/original/wcuLN4VaPWb59Q0l9edUjmqQuW4.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/wcuLN4VaPWb59Q0l9edUjmqQuW4.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43471",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4377,
+      "media_type": "still",
+      "title": "Anna and the King of Siam (1946) - Still",
+      "caption": "Scene from Anna and the King of Siam (1946)",
+      "url": "https://image.tmdb.org/t/p/original/tDa27J8y44l1WkiqqNh0Yt0Wfj.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/tDa27J8y44l1WkiqqNh0Yt0Wfj.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43471",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 7,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:11:45.571848"
 }

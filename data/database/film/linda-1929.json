@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4604,
+      "media_type": "poster",
+      "title": "Linda (1929) - Poster",
+      "caption": "Theatrical poster for Linda (1929)",
+      "url": "https://image.tmdb.org/t/p/original/rHhMRs2mUib67dS8fbDiCbXeSF8.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/rHhMRs2mUib67dS8fbDiCbXeSF8.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/335043",
+      "license": "fair_use",
+      "attribution": "Mrs. Wallace Reid Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 4605,
+      "media_type": "poster",
+      "title": "Linda (1929) - Poster",
+      "caption": "Theatrical poster for Linda (1929)",
+      "url": "https://image.tmdb.org/t/p/original/vDUWWR7FSTnUw7GjnA8wV3mZYIw.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/vDUWWR7FSTnUw7GjnA8wV3mZYIw.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/335043",
+      "license": "fair_use",
+      "attribution": "Mrs. Wallace Reid Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 4606,
+      "media_type": "still",
+      "title": "Linda (1929) - Still",
+      "caption": "Scene from Linda (1929)",
+      "url": "https://image.tmdb.org/t/p/original/nqGaEmfxgOXb5AIaW7LSNXUx8Mh.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/nqGaEmfxgOXb5AIaW7LSNXUx8Mh.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/335043",
+      "license": "fair_use",
+      "attribution": "Mrs. Wallace Reid Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 4607,
+      "media_type": "still",
+      "title": "Linda (1929) - Still",
+      "caption": "Scene from Linda (1929)",
+      "url": "https://image.tmdb.org/t/p/original/2C59TctWW7jlpImdz5HtGRofYBd.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/2C59TctWW7jlpImdz5HtGRofYBd.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/335043",
+      "license": "fair_use",
+      "attribution": "Mrs. Wallace Reid Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 1800,
+      "media_type": "advertisement",
+      "title": "Linda (1929) - 1.jpg",
+      "caption": "Advertisement for the American social drama film Linda (1929) with managing supervisor Cliff Broughton, producer - director Dorothy Davenport (as Mrs. Wallace Reid), and actress Helen Foster, on page 190 of the January 2, 1929 Variety.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Linda_%281929%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Linda_%281929%29_-_1.jpg/300px-Linda_%281929%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Linda_(1929)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Mrs. Wallace Reid Productions / First Division Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:12:48.523381"
 }

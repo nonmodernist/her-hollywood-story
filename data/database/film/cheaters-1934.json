@@ -44,9 +44,36 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1591,
+      "media_type": "advertisement",
+      "title": "Boyd, Bill - Ray Culley Hollywood Years Collection.jpg",
+      "caption": "My father, Ray Culley, was the Production Manager for the 1934 Liberty Pictures film, the Cheaters, starring Bill Boyd. Boyd gave Dad an autographed photo when the film was finished.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Boyd%2C_Bill_-_Ray_Culley_Hollywood_Years_Collection.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Boyd%2C_Bill_-_Ray_Culley_Hollywood_Years_Collection.jpg/300px-Boyd%2C_Bill_-_Ray_Culley_Hollywood_Years_Collection.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Boyd,_Bill_-_Ray_Culley_Hollywood_Years_Collection.jpg",
+      "license": "other",
+      "attribution": "Studio public relations photos",
+      "is_featured": "False"
+    },
+    {
+      "id": 1589,
+      "media_type": "still",
+      "title": "Cheating Cheaters (1934) set 1.jpg",
+      "caption": "L. to R. : Cesar Romero, Fay Wray, director Richard Thorpe, and cinematographer George Robinson (behind them) on the set of Cheating Cheaters - publicity still",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Cheating_Cheaters_%281934%29_set_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cheating_Cheaters_%281934%29_set_1.jpg/300px-Cheating_Cheaters_%281934%29_set_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cheating_Cheaters_(1934)_set_1.jpg",
+      "license": "public_domain",
+      "attribution": "Liberty Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

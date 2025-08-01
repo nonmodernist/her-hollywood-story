@@ -5,7 +5,7 @@
   "formatted_title": "Our Mrs. McChesney",
   "html_title": "<span class=\"film-title\">Our Mrs. McChesney</span>",
   "release_year": 1918,
-  "runtime_minutes": null,
+  "runtime_minutes": 50,
   "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
@@ -46,13 +46,39 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 3944,
+      "media_type": "poster",
+      "title": "Our Mrs. McChesney (1918) - Poster",
+      "caption": "Theatrical poster for Our Mrs. McChesney (1918)",
+      "url": "https://image.tmdb.org/t/p/original/jpd2G5p9iyisovbq4m7JEr2Yu6c.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/jpd2G5p9iyisovbq4m7JEr2Yu6c.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/892851",
+      "license": "fair_use",
+      "attribution": "Metro Pictures",
+      "is_featured": "True"
+    },
+    {
+      "id": 3945,
+      "media_type": "still",
+      "title": "Our Mrs. McChesney (1918) - Still",
+      "caption": "Scene from Our Mrs. McChesney (1918)",
+      "url": "https://image.tmdb.org/t/p/original/f6SY3V0oemn1Pfnabn7Sguoocc.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/f6SY3V0oemn1Pfnabn7Sguoocc.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/892851",
+      "license": "fair_use",
+      "attribution": "Metro Pictures",
+      "is_featured": "False"
+    },
+    {
       "id": 1271,
       "media_type": "advertisement",
       "title": "Our Mrs. McChesney (1918) - 1.jpg",
       "caption": "Advertisement for the American comedy drama film Our Mrs. McChesney (1918) with Ethel Barrymore, part of an insert promoting Metro Picctures at page 10 of the August 24, 1918 Exhibitors Herald.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Our_Mrs._McChesney_%281918%29_-_1.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Our_Mrs._McChesney_%281918%29_-_1.jpg/300px-Our_Mrs._McChesney_%281918%29_-_1.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Our_Mrs._McChesney_(1918)_-_1.jpg",
       "license": "public_domain",
       "attribution": "Metro Pictures Corporation",
@@ -65,15 +91,15 @@
       "caption": "Lucille Lee Stewart, Wilfred Lytell and Ethel Barrymore in \"Our Mrs. McChesney\" Subjects: motion pictures, actors Note: Film identification has been corrected from File:John Barrymore in \"The Beloved Rogue\" (SAYRE 13881)",
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lucille_Lee_Stewart%2C_Wilfred_Lytell_and_Ethel_Barrymore_in_%22Our_Mrs._McChesney%22.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lucille_Lee_Stewart%2C_Wilfred_Lytell_and_Ethel_Barrymore_in_%22Our_Mrs._McChesney%22.jpg/300px-Lucille_Lee_Stewart%2C_Wilfred_Lytell_and_Ethel_Barrymore_in_%22Our_Mrs._McChesney%22.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Lucille_Lee_Stewart,_Wilfred_Lytell_and_Ethel_Barrymore_in_\"Our_Mrs._McChesney\".jpg",
       "license": "public_domain",
-      "attribution": "Unknown authorUnknown author",
+      "attribution": "Metro Pictures",
       "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 2,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:12:12.552513"
+  "last_updated": "2025-08-01T17:04:35.846207"
 }

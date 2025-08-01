@@ -60,9 +60,114 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5158,
+      "media_type": "poster",
+      "title": "Summer Magic (1963) - Poster",
+      "caption": "Theatrical poster for Summer Magic (1963)",
+      "url": "https://image.tmdb.org/t/p/original/aU1SUr9A6UJZnYwXO1v843SLvpT.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/aU1SUr9A6UJZnYwXO1v843SLvpT.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/37204",
+      "license": "fair_use",
+      "attribution": "Walt Disney",
+      "is_featured": "True"
+    },
+    {
+      "id": 5159,
+      "media_type": "poster",
+      "title": "Summer Magic (1963) - Poster",
+      "caption": "Theatrical poster for Summer Magic (1963)",
+      "url": "https://image.tmdb.org/t/p/original/dMmok0fFY6VA4I7dCOy7o0Fti0N.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dMmok0fFY6VA4I7dCOy7o0Fti0N.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/37204",
+      "license": "fair_use",
+      "attribution": "Walt Disney",
+      "is_featured": "False"
+    },
+    {
+      "id": 5160,
+      "media_type": "poster",
+      "title": "Summer Magic (1963) - Poster",
+      "caption": "Theatrical poster for Summer Magic (1963)",
+      "url": "https://image.tmdb.org/t/p/original/kDFNjdTXLvf7OfbuM0VqnyFhJ7Q.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kDFNjdTXLvf7OfbuM0VqnyFhJ7Q.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/37204",
+      "license": "fair_use",
+      "attribution": "Walt Disney",
+      "is_featured": "False"
+    },
+    {
+      "id": 5161,
+      "media_type": "poster",
+      "title": "Summer Magic (1963) - Poster",
+      "caption": "Theatrical poster for Summer Magic (1963)",
+      "url": "https://image.tmdb.org/t/p/original/ffBxbnCqkXDJIhoCkhAdLhg75TK.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ffBxbnCqkXDJIhoCkhAdLhg75TK.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/37204",
+      "license": "fair_use",
+      "attribution": "Walt Disney",
+      "is_featured": "False"
+    },
+    {
+      "id": 5162,
+      "media_type": "poster",
+      "title": "Summer Magic (1963) - Poster",
+      "caption": "Theatrical poster for Summer Magic (1963)",
+      "url": "https://image.tmdb.org/t/p/original/x8IPnn6SIgr2TrfboiCsXKAIrdo.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/x8IPnn6SIgr2TrfboiCsXKAIrdo.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/37204",
+      "license": "fair_use",
+      "attribution": "Walt Disney",
+      "is_featured": "False"
+    },
+    {
+      "id": 5163,
+      "media_type": "still",
+      "title": "Summer Magic (1963) - Still",
+      "caption": "Scene from Summer Magic (1963)",
+      "url": "https://image.tmdb.org/t/p/original/zxKYuwNdh7Xcr4w7tbjWAcGuOYc.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/zxKYuwNdh7Xcr4w7tbjWAcGuOYc.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/37204",
+      "license": "fair_use",
+      "attribution": "Walt Disney",
+      "is_featured": "False"
+    },
+    {
+      "id": 5164,
+      "media_type": "still",
+      "title": "Summer Magic (1963) - Still",
+      "caption": "Scene from Summer Magic (1963)",
+      "url": "https://image.tmdb.org/t/p/original/yjkWEWjHrPuTizZXYXFdvYuWvTJ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/yjkWEWjHrPuTizZXYXFdvYuWvTJ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/37204",
+      "license": "fair_use",
+      "attribution": "Walt Disney",
+      "is_featured": "False"
+    },
+    {
+      "id": 5165,
+      "media_type": "still",
+      "title": "Summer Magic (1963) - Still",
+      "caption": "Scene from Summer Magic (1963)",
+      "url": "https://image.tmdb.org/t/p/original/A87cgmQH5eaIuydsxYAkVnwz4mW.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/A87cgmQH5eaIuydsxYAkVnwz4mW.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/37204",
+      "license": "fair_use",
+      "attribution": "Walt Disney",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 8,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:16:03.355548"
 }

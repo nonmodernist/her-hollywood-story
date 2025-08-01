@@ -44,9 +44,36 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4264,
+      "media_type": "poster",
+      "title": "Jamestown (1923) - Poster",
+      "caption": "Theatrical poster for Jamestown (1923)",
+      "url": "https://image.tmdb.org/t/p/original/9HhCaRhBpmbuBBLimRABsIwpk1r.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/9HhCaRhBpmbuBBLimRABsIwpk1r.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/1253921",
+      "license": "fair_use",
+      "attribution": "The Chronicles of America Pictures Corp",
+      "is_featured": "False"
+    },
+    {
+      "id": 1503,
+      "media_type": "advertisement",
+      "title": "Jamestown (1923) - 1.jpg",
+      "caption": "Advertisement for episode 2 of the film series The Chronicles of America \"Jamestown\" (1923), from the insert after page 16 of the December 1, 1923 Exhibitors Trade Review. More information",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Jamestown_%281923%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Jamestown_%281923%29_-_1.jpg/300px-Jamestown_%281923%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jamestown_(1923)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Chronicles of America Pictures (for Yale University Press) / Pathé Exchange",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:11:04.667092"
 }

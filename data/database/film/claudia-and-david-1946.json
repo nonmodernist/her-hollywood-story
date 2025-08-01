@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3114,
+      "media_type": "poster",
+      "title": "Claudia and David (1946) - Poster",
+      "caption": "Theatrical poster for Claudia and David (1946)",
+      "url": "https://image.tmdb.org/t/p/original/2YY5AAeRJ0CEHgUKIAO5g1qDD6m.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/2YY5AAeRJ0CEHgUKIAO5g1qDD6m.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/241909",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "True"
+    },
+    {
+      "id": 3115,
+      "media_type": "poster",
+      "title": "Claudia and David (1946) - Poster",
+      "caption": "Theatrical poster for Claudia and David (1946)",
+      "url": "https://image.tmdb.org/t/p/original/36EGgy4F5lSK1LbSon8yq7JoJKB.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/36EGgy4F5lSK1LbSon8yq7JoJKB.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/241909",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 3116,
+      "media_type": "poster",
+      "title": "Claudia and David (1946) - Poster",
+      "caption": "Theatrical poster for Claudia and David (1946)",
+      "url": "https://image.tmdb.org/t/p/original/2ZkUBaQ76gTS2UWVOJ6icLzU5Lv.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/2ZkUBaQ76gTS2UWVOJ6icLzU5Lv.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/241909",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 3117,
+      "media_type": "still",
+      "title": "Claudia and David (1946) - Still",
+      "caption": "Scene from Claudia and David (1946)",
+      "url": "https://image.tmdb.org/t/p/original/xAimxWCMe9A2TfW5HNajqf3ztl2.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/xAimxWCMe9A2TfW5HNajqf3ztl2.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/241909",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:05:45.570047"
 }

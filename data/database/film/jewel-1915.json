@@ -62,13 +62,26 @@
   },
   "media": [
     {
+      "id": 3643,
+      "media_type": "poster",
+      "title": "Jewel (1915) - Poster",
+      "caption": "Theatrical poster for Jewel (1915)",
+      "url": "https://image.tmdb.org/t/p/original/aD0clZWpo8X45dxWt4pKjaaaO1r.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/aD0clZWpo8X45dxWt4pKjaaaO1r.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/609113",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "True"
+    },
+    {
       "id": 1067,
       "media_type": "poster",
       "title": "Jewel 1915 newspaper.jpg",
       "caption": "Jewel poster from a newspaper",
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Jewel_1915_newspaper.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jewel_1915_newspaper.jpg/300px-Jewel_1915_newspaper.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Jewel_1915_newspaper.jpg",
       "license": "public_domain",
       "attribution": "the day book",
@@ -76,7 +89,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:07:46.256167"
 }

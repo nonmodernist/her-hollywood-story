@@ -31,7 +31,7 @@
     "genre": null,
     "plot_summary": null,
     "literary_significance": null,
-    "adaptation_count": 7,
+    "adaptation_count": 6,
     "year_to_adaptation": 58
   },
   "author": {
@@ -41,7 +41,7 @@
     "birth_year": 1811,
     "death_year": 1896,
     "nationality": "American",
-    "film_count": 9
+    "film_count": 8
   },
   "other_adaptations": [
     {
@@ -59,15 +59,6 @@
       "title": "Uncle Tom's Cabin",
       "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
       "year": 1913,
-      "directors": "William Robert Daly",
-      "studio": "World Producing"
-    },
-    {
-      "id": 7,
-      "slug": "uncle-toms-cabin-1914",
-      "title": "Uncle Tom's Cabin",
-      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
-      "year": 1914,
       "directors": "William Robert Daly",
       "studio": "World Producing"
     },
@@ -101,7 +92,7 @@
   ],
   "adaptation_context": {
     "is_remake": true,
-    "total_adaptations": 7,
+    "total_adaptations": 6,
     "adaptation_number": 2,
     "is_first": false,
     "is_latest": false
@@ -114,7 +105,7 @@
       "caption": "Clip from Uncle Tom's Cabin (1910 Vitagraph film), featuring Matty Roubert in his debut at two years old",
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Uncle_Toms_Cabin_1910_Vitagraph.webm",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Uncle_Toms_Cabin_1910_Vitagraph.webm/300px-Uncle_Toms_Cabin_1910_Vitagraph.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Uncle_Toms_Cabin_1910_Vitagraph.webm",
       "license": "public_domain",
       "attribution": "Vitagraph Studios",

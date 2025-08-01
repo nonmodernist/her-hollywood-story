@@ -60,9 +60,75 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5153,
+      "media_type": "poster",
+      "title": "The Gift of Love (1958) - Poster",
+      "caption": "Theatrical poster for The Gift of Love (1958)",
+      "url": "https://image.tmdb.org/t/p/original/cvbELE8WoDsQWpITs8X8xB3Xee3.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/cvbELE8WoDsQWpITs8X8xB3Xee3.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/134774",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "True"
+    },
+    {
+      "id": 5154,
+      "media_type": "poster",
+      "title": "The Gift of Love (1958) - Poster",
+      "caption": "Theatrical poster for The Gift of Love (1958)",
+      "url": "https://image.tmdb.org/t/p/original/b6QEmsLhGWi84yWgc1IwFLjvPuj.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/b6QEmsLhGWi84yWgc1IwFLjvPuj.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/134774",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 5155,
+      "media_type": "poster",
+      "title": "The Gift of Love (1958) - Poster",
+      "caption": "Theatrical poster for The Gift of Love (1958)",
+      "url": "https://image.tmdb.org/t/p/original/frzYRIT0oa46HJ560hZrJCfK8rN.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/frzYRIT0oa46HJ560hZrJCfK8rN.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/134774",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 5156,
+      "media_type": "poster",
+      "title": "The Gift of Love (1958) - Poster",
+      "caption": "Theatrical poster for The Gift of Love (1958)",
+      "url": "https://image.tmdb.org/t/p/original/y6a6JD8diiUQlBncM7zYV2jOFET.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/y6a6JD8diiUQlBncM7zYV2jOFET.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/134774",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 5157,
+      "media_type": "still",
+      "title": "The Gift of Love (1958) - Still",
+      "caption": "Scene from The Gift of Love (1958)",
+      "url": "https://image.tmdb.org/t/p/original/y0i1EA9leejs2jisSIWFqaOUNqB.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/y0i1EA9leejs2jisSIWFqaOUNqB.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/134774",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:16:02.202431"
 }

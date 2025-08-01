@@ -5,7 +5,7 @@
   "formatted_title": "Five Little Peppers at Home",
   "html_title": "<span class=\"film-title\">Five Little Peppers at Home</span>",
   "release_year": 1940,
-  "runtime_minutes": null,
+  "runtime_minutes": 67,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -78,9 +78,62 @@
     "is_first": false,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4952,
+      "media_type": "poster",
+      "title": "Five Little Peppers at Home (1940) - Poster",
+      "caption": "Theatrical poster for Five Little Peppers at Home (1940)",
+      "url": "https://image.tmdb.org/t/p/original/kmiyCu5nJr0AVJayDfEVdlBnM5d.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kmiyCu5nJr0AVJayDfEVdlBnM5d.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/239025",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    },
+    {
+      "id": 4953,
+      "media_type": "poster",
+      "title": "Five Little Peppers at Home (1940) - Poster",
+      "caption": "Theatrical poster for Five Little Peppers at Home (1940)",
+      "url": "https://image.tmdb.org/t/p/original/kG8DdY31Jd24t300htS4kFSiCnc.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kG8DdY31Jd24t300htS4kFSiCnc.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/239025",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    },
+    {
+      "id": 4954,
+      "media_type": "poster",
+      "title": "Five Little Peppers at Home (1940) - Poster",
+      "caption": "Theatrical poster for Five Little Peppers at Home (1940)",
+      "url": "https://image.tmdb.org/t/p/original/zIqFYGTxmJgIlJniHlRUMHntwRF.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/zIqFYGTxmJgIlJniHlRUMHntwRF.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/239025",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    },
+    {
+      "id": 4955,
+      "media_type": "still",
+      "title": "Five Little Peppers at Home (1940) - Still",
+      "caption": "Scene from Five Little Peppers at Home (1940)",
+      "url": "https://image.tmdb.org/t/p/original/6QGDO3h7iPNZSzutZQLDx9LxOj3.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/6QGDO3h7iPNZSzutZQLDx9LxOj3.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/239025",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:15:31.436508"
+  "last_updated": "2025-08-01T17:13:44.624828"
 }

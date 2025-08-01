@@ -5,7 +5,7 @@
   "formatted_title": "Mystery House",
   "html_title": "<span class=\"film-title\">Mystery House</span>",
   "release_year": 1938,
-  "runtime_minutes": null,
+  "runtime_minutes": 56,
   "country_of_production": "United States",
   "genres": [
     "Mystery"
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3869,
+      "media_type": "poster",
+      "title": "Mystery House (1938) - Poster",
+      "caption": "Theatrical poster for Mystery House (1938)",
+      "url": "https://image.tmdb.org/t/p/original/yKJU6tWCCMQRou6FzQHQyGF6puI.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/yKJU6tWCCMQRou6FzQHQyGF6puI.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/74707",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 3870,
+      "media_type": "still",
+      "title": "Mystery House (1938) - Still",
+      "caption": "Scene from Mystery House (1938)",
+      "url": "https://image.tmdb.org/t/p/original/6CD6aigWakuGUJwSKQkZD4UOXnD.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/6CD6aigWakuGUJwSKQkZD4UOXnD.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/74707",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 3871,
+      "media_type": "still",
+      "title": "Mystery House (1938) - Still",
+      "caption": "Scene from Mystery House (1938)",
+      "url": "https://image.tmdb.org/t/p/original/xvqlbXJLlgTZ9I4uxrhvDriwfM.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/xvqlbXJLlgTZ9I4uxrhvDriwfM.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/74707",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:09:55.08046"
+  "last_updated": "2025-08-01T17:13:41.405394"
 }

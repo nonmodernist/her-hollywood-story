@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5249,
+      "media_type": "poster",
+      "title": "Danger on the Air (1938) - Poster",
+      "caption": "Theatrical poster for Danger on the Air (1938)",
+      "url": "https://image.tmdb.org/t/p/original/2xylje6WUCqhxZgZxKfvl09lKrS.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/2xylje6WUCqhxZgZxKfvl09lKrS.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/268532",
+      "license": "fair_use",
+      "attribution": "Crime Club Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 5250,
+      "media_type": "poster",
+      "title": "Danger on the Air (1938) - Poster",
+      "caption": "Theatrical poster for Danger on the Air (1938)",
+      "url": "https://image.tmdb.org/t/p/original/268jWSMY8SCa1dPLPQiiq0QobmE.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/268jWSMY8SCa1dPLPQiiq0QobmE.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/268532",
+      "license": "fair_use",
+      "attribution": "Crime Club Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 5251,
+      "media_type": "still",
+      "title": "Danger on the Air (1938) - Still",
+      "caption": "Scene from Danger on the Air (1938)",
+      "url": "https://image.tmdb.org/t/p/original/9Fq6X8WDIT51BMJalZzNlFsre98.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/9Fq6X8WDIT51BMJalZzNlFsre98.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/268532",
+      "license": "fair_use",
+      "attribution": "Crime Club Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 2376,
+      "media_type": "still",
+      "title": "Jed Prouty in Danger on the Air.jpg",
+      "caption": "Jed Prouty in Danger on the Air - cropped screenshot",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jed_Prouty_in_Danger_on_the_Air.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Jed_Prouty_in_Danger_on_the_Air.jpg/300px-Jed_Prouty_in_Danger_on_the_Air.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jed_Prouty_in_Danger_on_the_Air.jpg",
+      "license": "public_domain",
+      "attribution": "film screenshot (Universal Pictures)",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:16:33.869752"
 }

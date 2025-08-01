@@ -46,13 +46,39 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 3641,
+      "media_type": "poster",
+      "title": "Heart's Haven (1922) - Poster",
+      "caption": "Theatrical poster for Heart's Haven (1922)",
+      "url": "https://image.tmdb.org/t/p/original/xUXHkaf4dmIcpIp7iWUdnmnoieU.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/xUXHkaf4dmIcpIp7iWUdnmnoieU.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/541207",
+      "license": "fair_use",
+      "attribution": "Benjamin B. Hampton Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 3642,
+      "media_type": "still",
+      "title": "Heart's Haven (1922) - Still",
+      "caption": "Scene from Heart's Haven (1922)",
+      "url": "https://image.tmdb.org/t/p/original/eI5XEbUCNyNH1PDckiiPKMWBoJH.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/eI5XEbUCNyNH1PDckiiPKMWBoJH.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/541207",
+      "license": "fair_use",
+      "attribution": "Benjamin B. Hampton Productions",
+      "is_featured": "False"
+    },
+    {
       "id": 1066,
       "media_type": "lobby_card",
       "title": "Hearts Haven lobby card.jpg",
       "caption": "Lobby card for the 1922 film Heart's Haven.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Hearts_Haven_lobby_card.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hearts_Haven_lobby_card.jpg/300px-Hearts_Haven_lobby_card.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Hearts_Haven_lobby_card.jpg",
       "license": "public_domain",
       "attribution": "Hodkinson Pictures",
@@ -65,7 +91,7 @@
       "caption": "Lobby card for the 1922 film Heart's Haven.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Heart%27s_Haven_lobby_card_3.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Heart%27s_Haven_lobby_card_3.jpg/300px-Heart%27s_Haven_lobby_card_3.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Heart's_Haven_lobby_card_3.jpg",
       "license": "public_domain",
       "attribution": "Hodkinson Pictures",
@@ -78,7 +104,7 @@
       "caption": "Lobby card for the 1922 film Heart's Haven.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Heart%27s_Haven_lobby_card_2.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Heart%27s_Haven_lobby_card_2.jpg/300px-Heart%27s_Haven_lobby_card_2.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Heart's_Haven_lobby_card_2.jpg",
       "license": "public_domain",
       "attribution": "Hodkinson Pictures",
@@ -86,7 +112,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 3,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:07:45.091936"
 }

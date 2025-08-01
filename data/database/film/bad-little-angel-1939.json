@@ -44,9 +44,36 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2203,
+      "media_type": "poster",
+      "title": "Bad Little Angel poster.JPG",
+      "caption": "Poster for the 1939 film Bad Little Angel.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bad_Little_Angel_poster.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bad_Little_Angel_poster.JPG/300px-Bad_Little_Angel_poster.JPG",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bad_Little_Angel_poster.JPG",
+      "license": "public_domain",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 2204,
+      "media_type": "lobby_card",
+      "title": "Bad Little Angel lobby card.jpg",
+      "caption": "Lobby card for the 1939 film Bad Little Angel.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bad_Little_Angel_lobby_card.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bad_Little_Angel_lobby_card.jpg/300px-Bad_Little_Angel_lobby_card.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bad_Little_Angel_lobby_card.jpg",
+      "license": "public_domain",
+      "attribution": "MGM",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

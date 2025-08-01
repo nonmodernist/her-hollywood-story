@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4675,
+      "media_type": "poster",
+      "title": "Thunderhead, Son of Flicka (1945) - Poster",
+      "caption": "Theatrical poster for Thunderhead, Son of Flicka (1945)",
+      "url": "https://image.tmdb.org/t/p/original/wygsZNjkdcHbtuHGT0lqiXxjZCM.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/wygsZNjkdcHbtuHGT0lqiXxjZCM.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/52827",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "True"
+    },
+    {
+      "id": 4676,
+      "media_type": "poster",
+      "title": "Thunderhead, Son of Flicka (1945) - Poster",
+      "caption": "Theatrical poster for Thunderhead, Son of Flicka (1945)",
+      "url": "https://image.tmdb.org/t/p/original/2tdAfwLtOMJrPqefjFGa7Q9plNm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/2tdAfwLtOMJrPqefjFGa7Q9plNm.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/52827",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4677,
+      "media_type": "poster",
+      "title": "Thunderhead, Son of Flicka (1945) - Poster",
+      "caption": "Theatrical poster for Thunderhead, Son of Flicka (1945)",
+      "url": "https://image.tmdb.org/t/p/original/ygRaGyfLFbPLHfar4rim4zZF6ro.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ygRaGyfLFbPLHfar4rim4zZF6ro.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/52827",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4678,
+      "media_type": "still",
+      "title": "Thunderhead, Son of Flicka (1945) - Still",
+      "caption": "Scene from Thunderhead, Son of Flicka (1945)",
+      "url": "https://image.tmdb.org/t/p/original/l1ODGQbxZ6HfmuheIdQ4kQhZ597.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/l1ODGQbxZ6HfmuheIdQ4kQhZ597.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/52827",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 4679,
+      "media_type": "still",
+      "title": "Thunderhead, Son of Flicka (1945) - Still",
+      "caption": "Scene from Thunderhead, Son of Flicka (1945)",
+      "url": "https://image.tmdb.org/t/p/original/jfxHT2niGWGHIblWaRngBWcZK9j.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/jfxHT2niGWGHIblWaRngBWcZK9j.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/52827",
+      "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:13:17.689721"
 }

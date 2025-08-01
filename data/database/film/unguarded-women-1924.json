@@ -5,7 +5,7 @@
   "formatted_title": "Unguarded Women",
   "html_title": "<span class=\"film-title\">Unguarded Women</span>",
   "release_year": 1924,
-  "runtime_minutes": null,
+  "runtime_minutes": 60,
   "country_of_production": "United States",
   "genres": [
     "Melodrama"
@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5054,
+      "media_type": "poster",
+      "title": "Unguarded Women (1924) - Poster",
+      "caption": "Theatrical poster for Unguarded Women (1924)",
+      "url": "https://image.tmdb.org/t/p/original/cZHVKRTzf1eIAQECxyBvgXntYb0.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/cZHVKRTzf1eIAQECxyBvgXntYb0.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/767303",
+      "license": "fair_use",
+      "attribution": "Famous Players-Lasky",
+      "is_featured": "False"
+    },
+    {
+      "id": 5055,
+      "media_type": "still",
+      "title": "Unguarded Women (1924) - Still",
+      "caption": "Scene from Unguarded Women (1924)",
+      "url": "https://image.tmdb.org/t/p/original/tKeNT1RvnEMwzU8FyVErujeACj3.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/tKeNT1RvnEMwzU8FyVErujeACj3.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/767303",
+      "license": "fair_use",
+      "attribution": "Famous Players-Lasky",
+      "is_featured": "False"
+    },
+    {
+      "id": 2186,
+      "media_type": "advertisement",
+      "title": "Unguarded Women (1924) - 1.jpg",
+      "caption": "Advertisement for the American drama film Unguarded Women (1924) with Bebe Daniels, on page 28 of the July 2, 1924 Variety.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Unguarded_Women_%281924%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Unguarded_Women_%281924%29_-_1.jpg/300px-Unguarded_Women_%281924%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Unguarded_Women_(1924)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2187,
+      "media_type": "advertisement",
+      "title": "Unguarded Women (1924) - 2.jpg",
+      "caption": "Advertisement for the American drama film Unguarded Women (1924) with Bebe Daniels and Richard Dix, from the Paramount Pictures advertising insert in the front of the November 22, 1924 The Moving Picture World.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Unguarded_Women_%281924%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Unguarded_Women_%281924%29_-_2.jpg/300px-Unguarded_Women_%281924%29_-_2.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Unguarded_Women_(1924)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:10:33.759471"
+  "last_updated": "2025-08-01T17:09:29.9017"
 }

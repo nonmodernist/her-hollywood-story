@@ -46,13 +46,26 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 3518,
+      "media_type": "poster",
+      "title": "Pegeen (1920) - Poster",
+      "caption": "Theatrical poster for Pegeen (1920)",
+      "url": "https://image.tmdb.org/t/p/original/uh1ETuCRBCum4EiYlWtxkDho2QN.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/uh1ETuCRBCum4EiYlWtxkDho2QN.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/302849",
+      "license": "fair_use",
+      "attribution": "Vitagraph",
+      "is_featured": "False"
+    },
+    {
       "id": 977,
       "media_type": "still",
       "title": "Pegeen (1920) - 2.jpg",
       "caption": "Still from the American drama film Pegeen (1920) with Bessie Love and Edmund Burns, on page 108 of the December 27, 1919 Exhibitors Herald.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pegeen_%281920%29_-_2.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pegeen_%281920%29_-_2.jpg/300px-Pegeen_%281920%29_-_2.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Pegeen_(1920)_-_2.jpg",
       "license": "public_domain",
       "attribution": "Vitagraph Company of America",
@@ -65,7 +78,7 @@
       "caption": "Still from the American drama film Pegeen (1920) with Bessie Love and Charles Spere, on page 42 of the February 1920 Motion Picture Magazine.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pegeen_%281920%29_-_Love_%26_Spere.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pegeen_%281920%29_-_Love_%26_Spere.jpg/300px-Pegeen_%281920%29_-_Love_%26_Spere.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Pegeen_(1920)_-_Love_&_Spere.jpg",
       "license": "public_domain",
       "attribution": "Vitagraph Company of America (film)",
@@ -78,7 +91,7 @@
       "caption": "Still from the American drama film Pegeen (1920) with Edmund Burns and Bessie Love, on page 108 of the December 27, 1919 Exhibitors Herald.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pegeen_%281920%29_-_1.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pegeen_%281920%29_-_1.jpg/300px-Pegeen_%281920%29_-_1.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Pegeen_(1920)_-_1.jpg",
       "license": "public_domain",
       "attribution": "Vitagraph Company of America",
@@ -86,7 +99,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 3,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:07:11.74166"
 }

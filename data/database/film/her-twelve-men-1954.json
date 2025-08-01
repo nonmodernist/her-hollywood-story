@@ -46,13 +46,78 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 3303,
+      "media_type": "poster",
+      "title": "Her Twelve Men (1954) - Poster",
+      "caption": "Theatrical poster for Her Twelve Men (1954)",
+      "url": "https://image.tmdb.org/t/p/original/eUYHsKV6oIrMflEAa5d4gTvofcM.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/eUYHsKV6oIrMflEAa5d4gTvofcM.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/130630",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "True"
+    },
+    {
+      "id": 3304,
+      "media_type": "poster",
+      "title": "Her Twelve Men (1954) - Poster",
+      "caption": "Theatrical poster for Her Twelve Men (1954)",
+      "url": "https://image.tmdb.org/t/p/original/qjDBCqBTE2sFc0WysJVR6Pd4cyb.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/qjDBCqBTE2sFc0WysJVR6Pd4cyb.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/130630",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3305,
+      "media_type": "poster",
+      "title": "Her Twelve Men (1954) - Poster",
+      "caption": "Theatrical poster for Her Twelve Men (1954)",
+      "url": "https://image.tmdb.org/t/p/original/riLNYss0RcoO8To8G61c6TAkLly.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/riLNYss0RcoO8To8G61c6TAkLly.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/130630",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3306,
+      "media_type": "poster",
+      "title": "Her Twelve Men (1954) - Poster",
+      "caption": "Theatrical poster for Her Twelve Men (1954)",
+      "url": "https://image.tmdb.org/t/p/original/cObBjVaj4IzUDIG4Cw6dx4mOan9.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/cObBjVaj4IzUDIG4Cw6dx4mOan9.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/130630",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 3307,
+      "media_type": "still",
+      "title": "Her Twelve Men (1954) - Still",
+      "caption": "Scene from Her Twelve Men (1954)",
+      "url": "https://image.tmdb.org/t/p/original/wsx53aZzVAW34AEGrceZHMQKNqx.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/wsx53aZzVAW34AEGrceZHMQKNqx.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/130630",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
       "id": 847,
       "media_type": "still",
       "title": "Greer Garson in Her Twelve Men.JPG",
       "caption": "Cropped screenshot of Greer Garson from the trailer for the film Her Twelve Men",
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Greer_Garson_in_Her_Twelve_Men.JPG",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Greer_Garson_in_Her_Twelve_Men.JPG/300px-Greer_Garson_in_Her_Twelve_Men.JPG",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Greer_Garson_in_Her_Twelve_Men.JPG",
       "license": "public_domain",
       "attribution": "Trailer screenshot",
@@ -65,7 +130,7 @@
       "caption": "Cropped screenshot of Barry Sullivan from the film Her Twelve Men",
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Barry_Sullivan_in_Her_Twelve_Men.JPG",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Barry_Sullivan_in_Her_Twelve_Men.JPG/300px-Barry_Sullivan_in_Her_Twelve_Men.JPG",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Barry_Sullivan_in_Her_Twelve_Men.JPG",
       "license": "public_domain",
       "attribution": "Trailer screenshot",
@@ -73,7 +138,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 2,
+  "media_count": 7,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:06:20.527842"
 }

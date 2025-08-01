@@ -5,7 +5,7 @@
   "formatted_title": "Lena Rivers",
   "html_title": "<span class=\"film-title\">Lena Rivers</span>",
   "release_year": 1932,
-  "runtime_minutes": null,
+  "runtime_minutes": 67,
   "country_of_production": "United States",
   "genres": [
     "Melodrama"
@@ -89,21 +89,47 @@
   },
   "media": [
     {
+      "id": 4198,
+      "media_type": "poster",
+      "title": "Lena Rivers (1932) - Poster",
+      "caption": "Theatrical poster for Lena Rivers (1932)",
+      "url": "https://image.tmdb.org/t/p/original/241K0X4F6Ia8H6OswwelTerUC9L.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/241K0X4F6Ia8H6OswwelTerUC9L.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/159705",
+      "license": "fair_use",
+      "attribution": "Tiffany Productions",
+      "is_featured": "True"
+    },
+    {
+      "id": 4199,
+      "media_type": "still",
+      "title": "Lena Rivers (1932) - Still",
+      "caption": "Scene from Lena Rivers (1932)",
+      "url": "https://image.tmdb.org/t/p/original/GmNW7d6TgpcYNCbg0QiJzmDZI6.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/GmNW7d6TgpcYNCbg0QiJzmDZI6.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/159705",
+      "license": "fair_use",
+      "attribution": "Tiffany Productions",
+      "is_featured": "False"
+    },
+    {
       "id": 1428,
       "media_type": "lobby_card",
       "title": "Lena Rivers (1932) lobby card 1.jpg",
       "caption": "Lena Rivers - lobby card",
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Lena_Rivers_%281932%29_lobby_card_1.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Lena_Rivers_%281932%29_lobby_card_1.jpg/300px-Lena_Rivers_%281932%29_lobby_card_1.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Lena_Rivers_(1932)_lobby_card_1.jpg",
       "license": "public_domain",
-      "attribution": "unknown (Tiffany Prod.)",
+      "attribution": "Tiffany Productions",
       "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:16:41.942468"
+  "last_updated": "2025-08-01T17:12:46.150337"
 }

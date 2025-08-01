@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2403,
+      "media_type": "advertisement",
+      "title": "Ridin' Thunder (1925) - 1.jpg",
+      "caption": "Advertisement for the American western film Ridin' Thunder (1925), from the inside back cover of the May 9, 1925 Universal Weekly.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ridin%27_Thunder_%281925%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ridin%27_Thunder_%281925%29_-_1.jpg/300px-Ridin%27_Thunder_%281925%29_-_1.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ridin'_Thunder_(1925)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2404,
+      "media_type": "lobby_card",
+      "title": "Ridin Thunder lobby card 3.jpg",
+      "caption": "Lobby card for the American western film Ridin' Thunder (1925) with Jack Hoxie and Jack Pratt (1878–1938).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Ridin_Thunder_lobby_card_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ridin_Thunder_lobby_card_3.jpg/300px-Ridin_Thunder_lobby_card_3.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ridin_Thunder_lobby_card_3.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2405,
+      "media_type": "lobby_card",
+      "title": "Ridin Thunder lobby card.jpg",
+      "caption": "Lobby card for the American western film Ridin' Thunder (1925).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ridin_Thunder_lobby_card.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ridin_Thunder_lobby_card.jpg/300px-Ridin_Thunder_lobby_card.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ridin_Thunder_lobby_card.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2406,
+      "media_type": "lobby_card",
+      "title": "Ridin Thunder lobby card 2.jpg",
+      "caption": "Lobby card for the American western film Ridin' Thunder (1925) with Jack Hoxie, Katherine Grant, and Jack Pratt (1878–1938).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ridin_Thunder_lobby_card_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ridin_Thunder_lobby_card_2.jpg/300px-Ridin_Thunder_lobby_card_2.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ridin_Thunder_lobby_card_2.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

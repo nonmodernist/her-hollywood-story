@@ -44,9 +44,88 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2938,
+      "media_type": "poster",
+      "title": "Woman Against Woman (1938) - Poster",
+      "caption": "Theatrical poster for Woman Against Woman (1938)",
+      "url": "https://image.tmdb.org/t/p/original/reD96DOf3uu5AgJhURh6LIAVsw4.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/reD96DOf3uu5AgJhURh6LIAVsw4.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/312894",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "True"
+    },
+    {
+      "id": 2939,
+      "media_type": "poster",
+      "title": "Woman Against Woman (1938) - Poster",
+      "caption": "Theatrical poster for Woman Against Woman (1938)",
+      "url": "https://image.tmdb.org/t/p/original/9NmMSBa7HRfIdwuVw3R6PTQMSaB.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/9NmMSBa7HRfIdwuVw3R6PTQMSaB.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/312894",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 2940,
+      "media_type": "poster",
+      "title": "Woman Against Woman (1938) - Poster",
+      "caption": "Theatrical poster for Woman Against Woman (1938)",
+      "url": "https://image.tmdb.org/t/p/original/qoHtXNleWRNEcxrinGjMJUKYzXc.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/qoHtXNleWRNEcxrinGjMJUKYzXc.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/312894",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 2941,
+      "media_type": "still",
+      "title": "Woman Against Woman (1938) - Still",
+      "caption": "Scene from Woman Against Woman (1938)",
+      "url": "https://image.tmdb.org/t/p/original/bH1aHBk8khM0tmbOBI52Jbvhawy.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/bH1aHBk8khM0tmbOBI52Jbvhawy.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/312894",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 2942,
+      "media_type": "still",
+      "title": "Woman Against Woman (1938) - Still",
+      "caption": "Scene from Woman Against Woman (1938)",
+      "url": "https://image.tmdb.org/t/p/original/ggVqCJOdWRRxyojtEXzoYWAt1JH.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/ggVqCJOdWRRxyojtEXzoYWAt1JH.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/312894",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 2943,
+      "media_type": "still",
+      "title": "Woman Against Woman (1938) - Still",
+      "caption": "Scene from Woman Against Woman (1938)",
+      "url": "https://image.tmdb.org/t/p/original/rmPU8TljdxdNm9UMxNbkhB180R.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/rmPU8TljdxdNm9UMxNbkhB180R.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/312894",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:05:08.229273"
 }

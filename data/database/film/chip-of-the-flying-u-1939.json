@@ -5,7 +5,7 @@
   "formatted_title": "Chip of the Flying U",
   "html_title": "<span class=\"film-title\">Chip of the Flying U</span>",
   "release_year": 1939,
-  "runtime_minutes": null,
+  "runtime_minutes": 55,
   "country_of_production": "United States",
   "genres": [
     "Western"
@@ -16,7 +16,7 @@
   "directors": "Ralph Staub",
   "writers": "Larry Rhine|Andrew Bennison|B. M. Bower",
   "cast_members": "Johnny Mack Brown|Bob Baker|Fuzzy Knight|Doris Weston|Forrest Taylor|Anthony Warde|Karl Hackett|Henry Hall|Claire Whitney|Ferris Taylor",
-  "color_info": "color",
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 8358,
   "source_work": {
@@ -60,9 +60,36 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3508,
+      "media_type": "poster",
+      "title": "Chip of the Flying U (1939) - Poster",
+      "caption": "Theatrical poster for Chip of the Flying U (1939)",
+      "url": "https://image.tmdb.org/t/p/original/bzVQTAB5htg2z3ry0DiZNp9CcZ9.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/bzVQTAB5htg2z3ry0DiZNp9CcZ9.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/288734",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "False"
+    },
+    {
+      "id": 3509,
+      "media_type": "still",
+      "title": "Chip of the Flying U (1939) - Still",
+      "caption": "Scene from Chip of the Flying U (1939)",
+      "url": "https://image.tmdb.org/t/p/original/oOW1rCqemS5znSLpPP2xBcD8k4l.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/oOW1rCqemS5znSLpPP2xBcD8k4l.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/288734",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:13:07.516628"
+  "last_updated": "2025-08-01T17:13:42.804707"
 }

@@ -5,7 +5,7 @@
   "formatted_title": "Short Skirts",
   "html_title": "<span class=\"film-title\">Short Skirts</span>",
   "release_year": 1921,
-  "runtime_minutes": null,
+  "runtime_minutes": 50,
   "country_of_production": "United States",
   "genres": [
     "Melodrama"
@@ -44,9 +44,36 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5068,
+      "media_type": "poster",
+      "title": "Short Skirts (1921) - Poster",
+      "caption": "Theatrical poster for Short Skirts (1921)",
+      "url": "https://image.tmdb.org/t/p/original/dRRQkLM11JOfP4aDjjQr4H2Clkw.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dRRQkLM11JOfP4aDjjQr4H2Clkw.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/618460",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "False"
+    },
+    {
+      "id": 2195,
+      "media_type": "still",
+      "title": "Short Skirts (1921) - Walton.jpg",
+      "caption": "Still from the American drama film Short Skirts (1921) with Gladys Walton (left), on page 60 of the October 1921 Photoplay.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Short_Skirts_%281921%29_-_Walton.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Short_Skirts_%281921%29_-_Walton.jpg/300px-Short_Skirts_%281921%29_-_Walton.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Short_Skirts_(1921)_-_Walton.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Film Manufacturing Company",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:15:23.548232"
+  "last_updated": "2025-08-01T17:09:23.251939"
 }

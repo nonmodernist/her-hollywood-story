@@ -78,9 +78,62 @@
     "is_first": false,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3003,
+      "media_type": "poster",
+      "title": "Four Mothers (1941) - Poster",
+      "caption": "Theatrical poster for Four Mothers (1941)",
+      "url": "https://image.tmdb.org/t/p/original/k26NTlX128xaX9WIIL6rO1nWS8q.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/k26NTlX128xaX9WIIL6rO1nWS8q.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/130507",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 3004,
+      "media_type": "poster",
+      "title": "Four Mothers (1941) - Poster",
+      "caption": "Theatrical poster for Four Mothers (1941)",
+      "url": "https://image.tmdb.org/t/p/original/tWSQ0KKOXvRZqoku9ZUgZn6MffP.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/tWSQ0KKOXvRZqoku9ZUgZn6MffP.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/130507",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 3005,
+      "media_type": "poster",
+      "title": "Four Mothers (1941) - Poster",
+      "caption": "Theatrical poster for Four Mothers (1941)",
+      "url": "https://image.tmdb.org/t/p/original/yrRoAn13lnPHiyKfxyhaz4fzeV.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/yrRoAn13lnPHiyKfxyhaz4fzeV.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/130507",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 3006,
+      "media_type": "still",
+      "title": "Four Mothers (1941) - Still",
+      "caption": "Scene from Four Mothers (1941)",
+      "url": "https://image.tmdb.org/t/p/original/xZWqZAa36Qa7GaYD0Tc0kvJOOak.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/xZWqZAa36Qa7GaYD0Tc0kvJOOak.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/130507",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:05:24.487676"
 }

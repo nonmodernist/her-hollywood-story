@@ -5,7 +5,7 @@
   "formatted_title": "The Flame of Life",
   "html_title": "<span class=\"film-title\">The Flame of Life</span>",
   "release_year": 1923,
-  "runtime_minutes": null,
+  "runtime_minutes": 70,
   "country_of_production": "United States",
   "genres": [
     "Melodrama"
@@ -62,16 +62,29 @@
   },
   "media": [
     {
-      "id": 341,
-      "media_type": "advertisement",
-      "title": "The Flame of Life (1923) - 3.jpg",
-      "caption": "Advertisement for the American drama film The Flame of Life (1923) with Priscilla Dean, on the cover of the January 14, 1923 Film Daily.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/The_Flame_of_Life_%281923%29_-_3.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/The_Flame_of_Life_%281923%29_-_3.jpg/300px-The_Flame_of_Life_%281923%29_-_3.jpg",
-      "source": "wikimedia",
-      "source_url": "https://commons.wikimedia.org/wiki/File:The_Flame_of_Life_(1923)_-_3.jpg",
-      "license": "public_domain",
-      "attribution": "Universal Film Manufacturing Company",
+      "id": 2553,
+      "media_type": "poster",
+      "title": "The Flame of Life (1923) - Poster",
+      "caption": "Theatrical poster for The Flame of Life (1923)",
+      "url": "https://image.tmdb.org/t/p/original/uu0SUW8iPr5eOdbvB5l63UAzWFT.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/uu0SUW8iPr5eOdbvB5l63UAzWFT.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/618805",
+      "license": "fair_use",
+      "attribution": "Universal",
+      "is_featured": "False"
+    },
+    {
+      "id": 2554,
+      "media_type": "still",
+      "title": "The Flame of Life (1923) - Still",
+      "caption": "Scene from The Flame of Life (1923)",
+      "url": "https://image.tmdb.org/t/p/original/n4JDczyAyqpeE7LSIxtu8KWXmyV.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/n4JDczyAyqpeE7LSIxtu8KWXmyV.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/618805",
+      "license": "fair_use",
+      "attribution": "Universal",
       "is_featured": "False"
     },
     {
@@ -81,7 +94,7 @@
       "caption": "Window poster for the American drama film The Flame of Life (1923). There are no copyright marks. At lower left is Country of origin USA. At lower right is The Morgan Litho Co Cleveland USA-they printed the poster.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/The-flame-of-life-1923.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/The-flame-of-life-1923.jpg/300px-The-flame-of-life-1923.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:The-flame-of-life-1923.jpg",
       "license": "public_domain",
       "attribution": "Universal Pictures",
@@ -94,7 +107,7 @@
       "caption": "Advertisement for the American drama film The Flame of Life (1923) with Priscilla Dean, on pages 8 and 9 of the December 30, 1922 Universal Weekly.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/The_Flame_of_Life_%281923%29_-_2.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/The_Flame_of_Life_%281923%29_-_2.jpg/300px-The_Flame_of_Life_%281923%29_-_2.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:The_Flame_of_Life_(1923)_-_2.jpg",
       "license": "public_domain",
       "attribution": "Universal Film Manufacturing Company",
@@ -107,7 +120,7 @@
       "caption": "Still from the American drama film The Flame of Life (1923) showing the Lancashire mine after an explosion, on page 9 of the December 9, 1922 Universal Weekly.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/The_Flame_of_Life_%281923%29_-_1.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_Flame_of_Life_%281923%29_-_1.jpg/300px-The_Flame_of_Life_%281923%29_-_1.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:The_Flame_of_Life_(1923)_-_1.jpg",
       "license": "public_domain",
       "attribution": "Universal Pictures",
@@ -120,15 +133,28 @@
       "caption": "Silent film actress Dean Priscilla in the American drama film The Flame of Life (1923). Subjects: motion pictures, actresses",
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Silent_film_actress_Dean_Priscilla_in_%22The_Flame_of_Life%22_%28SAYRE_21869%29.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Silent_film_actress_Dean_Priscilla_in_%22The_Flame_of_Life%22_%28SAYRE_21869%29.jpg/300px-Silent_film_actress_Dean_Priscilla_in_%22The_Flame_of_Life%22_%28SAYRE_21869%29.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Silent_film_actress_Dean_Priscilla_in_\"The_Flame_of_Life\"_(SAYRE_21869).jpg",
       "license": "public_domain",
-      "attribution": "Unknown authorUnknown author",
+      "attribution": "Universal",
+      "is_featured": "False"
+    },
+    {
+      "id": 341,
+      "media_type": "advertisement",
+      "title": "The Flame of Life (1923) - 3.jpg",
+      "caption": "Advertisement for the American drama film The Flame of Life (1923) with Priscilla Dean, on the cover of the January 14, 1923 Film Daily.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/The_Flame_of_Life_%281923%29_-_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/The_Flame_of_Life_%281923%29_-_3.jpg/300px-The_Flame_of_Life_%281923%29_-_3.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Flame_of_Life_(1923)_-_3.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Film Manufacturing Company",
       "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 5,
+  "media_count": 7,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:06:25.285444"
+  "last_updated": "2025-08-01T17:09:26.163971"
 }

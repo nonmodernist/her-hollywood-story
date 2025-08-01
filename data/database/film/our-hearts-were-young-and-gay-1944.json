@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4350,
+      "media_type": "poster",
+      "title": "Our Hearts Were Young and Gay (1944) - Poster",
+      "caption": "Theatrical poster for Our Hearts Were Young and Gay (1944)",
+      "url": "https://image.tmdb.org/t/p/original/yH0LNqBELD55o7juAgtC53imIBi.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/yH0LNqBELD55o7juAgtC53imIBi.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/249474",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    },
+    {
+      "id": 4351,
+      "media_type": "poster",
+      "title": "Our Hearts Were Young and Gay (1944) - Poster",
+      "caption": "Theatrical poster for Our Hearts Were Young and Gay (1944)",
+      "url": "https://image.tmdb.org/t/p/original/3HDrVvEoPE30i7444xA8X5BsjCe.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/3HDrVvEoPE30i7444xA8X5BsjCe.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/249474",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    },
+    {
+      "id": 4352,
+      "media_type": "still",
+      "title": "Our Hearts Were Young and Gay (1944) - Still",
+      "caption": "Scene from Our Hearts Were Young and Gay (1944)",
+      "url": "https://image.tmdb.org/t/p/original/pJZZlP6nY4nRPztyPmcG6Bq6I8M.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/pJZZlP6nY4nRPztyPmcG6Bq6I8M.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/249474",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    },
+    {
+      "id": 4353,
+      "media_type": "still",
+      "title": "Our Hearts Were Young and Gay (1944) - Still",
+      "caption": "Scene from Our Hearts Were Young and Gay (1944)",
+      "url": "https://image.tmdb.org/t/p/original/dDGuneBugfGJDOP0smBJenhIFzx.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/dDGuneBugfGJDOP0smBJenhIFzx.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/249474",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    },
+    {
+      "id": 4354,
+      "media_type": "still",
+      "title": "Our Hearts Were Young and Gay (1944) - Still",
+      "caption": "Scene from Our Hearts Were Young and Gay (1944)",
+      "url": "https://image.tmdb.org/t/p/original/izqyOlGKOmgpOmPvIJ7C2611KPu.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/izqyOlGKOmgpOmPvIJ7C2611KPu.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/249474",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:11:38.601055"
 }

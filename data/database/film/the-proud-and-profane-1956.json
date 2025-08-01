@@ -44,9 +44,88 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3754,
+      "media_type": "poster",
+      "title": "The Proud and Profane (1956) - Poster",
+      "caption": "Theatrical poster for The Proud and Profane (1956)",
+      "url": "https://image.tmdb.org/t/p/original/txIRxQo5IU3kwR7dIcF46Z4a34o.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/txIRxQo5IU3kwR7dIcF46Z4a34o.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/60525",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "True"
+    },
+    {
+      "id": 3755,
+      "media_type": "poster",
+      "title": "The Proud and Profane (1956) - Poster",
+      "caption": "Theatrical poster for The Proud and Profane (1956)",
+      "url": "https://image.tmdb.org/t/p/original/6SvgEGyjPUnydtbVwuCEPYmXTxQ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/6SvgEGyjPUnydtbVwuCEPYmXTxQ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/60525",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    },
+    {
+      "id": 3756,
+      "media_type": "poster",
+      "title": "The Proud and Profane (1956) - Poster",
+      "caption": "Theatrical poster for The Proud and Profane (1956)",
+      "url": "https://image.tmdb.org/t/p/original/g3LQduXFHjApGnVzTOO2qcfpNG7.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/g3LQduXFHjApGnVzTOO2qcfpNG7.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/60525",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    },
+    {
+      "id": 3757,
+      "media_type": "poster",
+      "title": "The Proud and Profane (1956) - Poster",
+      "caption": "Theatrical poster for The Proud and Profane (1956)",
+      "url": "https://image.tmdb.org/t/p/original/i8GzWo2LZYHpnodMivg7q4aTuo3.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/i8GzWo2LZYHpnodMivg7q4aTuo3.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/60525",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    },
+    {
+      "id": 3758,
+      "media_type": "poster",
+      "title": "The Proud and Profane (1956) - Poster",
+      "caption": "Theatrical poster for The Proud and Profane (1956)",
+      "url": "https://image.tmdb.org/t/p/original/oSKuDyzqPPpcTIUk0JN27fOqcP4.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/oSKuDyzqPPpcTIUk0JN27fOqcP4.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/60525",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    },
+    {
+      "id": 3759,
+      "media_type": "still",
+      "title": "The Proud and Profane (1956) - Still",
+      "caption": "Scene from The Proud and Profane (1956)",
+      "url": "https://image.tmdb.org/t/p/original/n9g1AndRvZZZNqYs4yQTgCAKfR3.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/n9g1AndRvZZZNqYs4yQTgCAKfR3.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/60525",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:08:21.366647"
 }

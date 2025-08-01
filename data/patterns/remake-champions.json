@@ -18,7 +18,7 @@
         "id": 2,
         "slug": "harriet-beecher-stowe",
         "name": "Harriet Beecher Stowe",
-        "filmCount": 9
+        "filmCount": 8
       },
       "adaptations": [
         {
@@ -52,16 +52,6 @@
           "hasMedia": false
         },
         {
-          "id": 7,
-          "slug": "uncle-toms-cabin-1914",
-          "title": "Uncle Tom's Cabin",
-          "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
-          "year": 1914,
-          "studio": "World Producing",
-          "directors": "William Robert Daly",
-          "hasMedia": true
-        },
-        {
           "id": 39,
           "slug": "uncle-toms-cabin-1918",
           "title": "Uncle Tom's Cabin",
@@ -93,7 +83,7 @@
         }
       ],
       "stats": {
-        "count": 7,
+        "count": 6,
         "yearSpan": 17,
         "averageGapBetweenRemakes": 3,
         "decadesActive": 2
@@ -102,8 +92,7 @@
         "gaps": [
           0,
           3,
-          1,
-          4,
+          5,
           9,
           0
         ],
@@ -138,7 +127,7 @@
           "year": 1910,
           "studio": "Thanhouser",
           "directors": null,
-          "hasMedia": false
+          "hasMedia": true
         },
         {
           "id": 647,
@@ -148,7 +137,7 @@
           "year": 1914,
           "studio": "Cosmos",
           "directors": null,
-          "hasMedia": false
+          "hasMedia": true
         },
         {
           "id": 646,
@@ -255,7 +244,7 @@
           "year": 1935,
           "studio": "Paramount",
           "directors": "Ralph Murphy",
-          "hasMedia": false
+          "hasMedia": true
         },
         {
           "id": 811,
@@ -265,7 +254,7 @@
           "year": 1938,
           "studio": "Paramount",
           "directors": "Raoul Walsh",
-          "hasMedia": false
+          "hasMedia": true
         }
       ],
       "stats": {
@@ -342,7 +331,7 @@
           "year": 1945,
           "studio": "Columbia",
           "directors": "Melchor Ferrer",
-          "hasMedia": false
+          "hasMedia": true
         }
       ],
       "stats": {
@@ -484,7 +473,7 @@
           "year": 1935,
           "studio": "Fox Film",
           "directors": "Irving Cummings",
-          "hasMedia": false
+          "hasMedia": true
         },
         {
           "id": 330,
@@ -540,7 +529,7 @@
           "year": 1939,
           "studio": "Columbia",
           "directors": "Charles Barton",
-          "hasMedia": false
+          "hasMedia": true
         },
         {
           "id": 991,
@@ -550,7 +539,7 @@
           "year": 1940,
           "studio": "Columbia",
           "directors": "Charles Barton",
-          "hasMedia": false
+          "hasMedia": true
         },
         {
           "id": 992,
@@ -560,7 +549,7 @@
           "year": 1940,
           "studio": "Columbia",
           "directors": "Charles Barton",
-          "hasMedia": false
+          "hasMedia": true
         },
         {
           "id": 993,
@@ -570,7 +559,7 @@
           "year": 1940,
           "studio": "Columbia",
           "directors": "Charles Barton",
-          "hasMedia": false
+          "hasMedia": true
         }
       ],
       "stats": {
@@ -646,7 +635,7 @@
           "year": 1960,
           "studio": "20th Century Fox",
           "directors": "Andrew V. McLaglen",
-          "hasMedia": false
+          "hasMedia": true
         }
       ],
       "stats": {
@@ -712,7 +701,7 @@
           "year": 1934,
           "studio": "Paramount",
           "directors": "Norman Taurog",
-          "hasMedia": false
+          "hasMedia": true
         },
         {
           "id": 266,
@@ -722,7 +711,7 @@
           "year": 1942,
           "studio": "Paramount",
           "directors": "Ralph Murphy",
-          "hasMedia": false
+          "hasMedia": true
         }
       ],
       "stats": {
@@ -768,7 +757,7 @@
           "year": 1910,
           "studio": "Biograph",
           "directors": "D. W. Griffith",
-          "hasMedia": false
+          "hasMedia": true
         },
         {
           "id": 11,
@@ -798,7 +787,7 @@
           "year": 1936,
           "studio": "20th Century Fox",
           "directors": "Henry King",
-          "hasMedia": false
+          "hasMedia": true
         }
       ],
       "stats": {
@@ -864,7 +853,7 @@
           "year": 1941,
           "studio": "Warner Bros",
           "directors": "William Keighley",
-          "hasMedia": false
+          "hasMedia": true
         },
         {
           "id": 329,
@@ -940,7 +929,7 @@
           "year": 1932,
           "studio": "Fox Film",
           "directors": "Alfred Santell",
-          "hasMedia": false
+          "hasMedia": true
         },
         {
           "id": 338,
@@ -950,7 +939,7 @@
           "year": 1960,
           "studio": "20th Century Fox",
           "directors": "Paul Guilfoyle",
-          "hasMedia": false
+          "hasMedia": true
         }
       ],
       "stats": {
@@ -1069,9 +1058,9 @@
         "id": 2,
         "slug": "harriet-beecher-stowe",
         "name": "Harriet Beecher Stowe",
-        "filmCount": 9,
+        "filmCount": 8,
         "worksRemade": 1,
-        "totalRemakes": 7
+        "totalRemakes": 6
       },
       {
         "id": 24,
@@ -1188,7 +1177,7 @@
               "year": 1945,
               "studio": "Columbia",
               "directors": "Melchor Ferrer",
-              "hasMedia": false
+              "hasMedia": true
             }
           ],
           "stats": {
@@ -1330,7 +1319,7 @@
               "year": 1935,
               "studio": "Fox Film",
               "directors": "Irving Cummings",
-              "hasMedia": false
+              "hasMedia": true
             },
             {
               "id": 330,
@@ -1386,7 +1375,7 @@
               "year": 1939,
               "studio": "Columbia",
               "directors": "Charles Barton",
-              "hasMedia": false
+              "hasMedia": true
             },
             {
               "id": 991,
@@ -1396,7 +1385,7 @@
               "year": 1940,
               "studio": "Columbia",
               "directors": "Charles Barton",
-              "hasMedia": false
+              "hasMedia": true
             },
             {
               "id": 992,
@@ -1406,7 +1395,7 @@
               "year": 1940,
               "studio": "Columbia",
               "directors": "Charles Barton",
-              "hasMedia": false
+              "hasMedia": true
             },
             {
               "id": 993,
@@ -1416,7 +1405,7 @@
               "year": 1940,
               "studio": "Columbia",
               "directors": "Charles Barton",
-              "hasMedia": false
+              "hasMedia": true
             }
           ],
           "stats": {
@@ -1492,7 +1481,7 @@
               "year": 1960,
               "studio": "20th Century Fox",
               "directors": "Andrew V. McLaglen",
-              "hasMedia": false
+              "hasMedia": true
             }
           ],
           "stats": {
@@ -1558,7 +1547,7 @@
               "year": 1934,
               "studio": "Paramount",
               "directors": "Norman Taurog",
-              "hasMedia": false
+              "hasMedia": true
             },
             {
               "id": 266,
@@ -1568,7 +1557,7 @@
               "year": 1942,
               "studio": "Paramount",
               "directors": "Ralph Murphy",
-              "hasMedia": false
+              "hasMedia": true
             }
           ],
           "stats": {
@@ -1614,7 +1603,7 @@
               "year": 1910,
               "studio": "Biograph",
               "directors": "D. W. Griffith",
-              "hasMedia": false
+              "hasMedia": true
             },
             {
               "id": 11,
@@ -1644,7 +1633,7 @@
               "year": 1936,
               "studio": "20th Century Fox",
               "directors": "Henry King",
-              "hasMedia": false
+              "hasMedia": true
             }
           ],
           "stats": {
@@ -1710,7 +1699,7 @@
               "year": 1941,
               "studio": "Warner Bros",
               "directors": "William Keighley",
-              "hasMedia": false
+              "hasMedia": true
             },
             {
               "id": 329,
@@ -1786,7 +1775,7 @@
               "year": 1932,
               "studio": "Fox Film",
               "directors": "Alfred Santell",
-              "hasMedia": false
+              "hasMedia": true
             },
             {
               "id": 338,
@@ -1796,7 +1785,7 @@
               "year": 1960,
               "studio": "20th Century Fox",
               "directors": "Paul Guilfoyle",
-              "hasMedia": false
+              "hasMedia": true
             }
           ],
           "stats": {
@@ -1920,7 +1909,7 @@
               "year": 1910,
               "studio": "Thanhouser",
               "directors": null,
-              "hasMedia": false
+              "hasMedia": true
             },
             {
               "id": 647,
@@ -1930,7 +1919,7 @@
               "year": 1914,
               "studio": "Cosmos",
               "directors": null,
-              "hasMedia": false
+              "hasMedia": true
             },
             {
               "id": 646,
@@ -2037,7 +2026,7 @@
               "year": 1935,
               "studio": "Paramount",
               "directors": "Ralph Murphy",
-              "hasMedia": false
+              "hasMedia": true
             },
             {
               "id": 811,
@@ -2047,7 +2036,7 @@
               "year": 1938,
               "studio": "Paramount",
               "directors": "Raoul Walsh",
-              "hasMedia": false
+              "hasMedia": true
             }
           ],
           "stats": {
@@ -2069,7 +2058,7 @@
           }
         }
       ],
-      "7": [
+      "6": [
         {
           "work": {
             "id": 3,
@@ -2085,7 +2074,7 @@
             "id": 2,
             "slug": "harriet-beecher-stowe",
             "name": "Harriet Beecher Stowe",
-            "filmCount": 9
+            "filmCount": 8
           },
           "adaptations": [
             {
@@ -2119,16 +2108,6 @@
               "hasMedia": false
             },
             {
-              "id": 7,
-              "slug": "uncle-toms-cabin-1914",
-              "title": "Uncle Tom's Cabin",
-              "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
-              "year": 1914,
-              "studio": "World Producing",
-              "directors": "William Robert Daly",
-              "hasMedia": true
-            },
-            {
               "id": 39,
               "slug": "uncle-toms-cabin-1918",
               "title": "Uncle Tom's Cabin",
@@ -2160,7 +2139,7 @@
             }
           ],
           "stats": {
-            "count": 7,
+            "count": 6,
             "yearSpan": 17,
             "averageGapBetweenRemakes": 3,
             "decadesActive": 2
@@ -2169,8 +2148,7 @@
             "gaps": [
               0,
               3,
-              1,
-              4,
+              5,
               9,
               0
             ],
@@ -2220,17 +2198,6 @@
             "workTitle": "Uncle Tom's Cabin"
           },
           {
-            "id": 7,
-            "slug": "uncle-toms-cabin-1914",
-            "title": "Uncle Tom's Cabin",
-            "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
-            "year": 1914,
-            "studio": "World Producing",
-            "directors": "William Robert Daly",
-            "hasMedia": true,
-            "workTitle": "Uncle Tom's Cabin"
-          },
-          {
             "id": 39,
             "slug": "uncle-toms-cabin-1918",
             "title": "Uncle Tom's Cabin",
@@ -2271,7 +2238,7 @@
             "year": 1910,
             "studio": "Thanhouser",
             "directors": null,
-            "hasMedia": false,
+            "hasMedia": true,
             "workTitle": "Lena Rivers"
           },
           {
@@ -2282,7 +2249,7 @@
             "year": 1914,
             "studio": "Cosmos",
             "directors": null,
-            "hasMedia": false,
+            "hasMedia": true,
             "workTitle": "Lena Rivers"
           },
           {
@@ -2414,7 +2381,7 @@
             "year": 1910,
             "studio": "Biograph",
             "directors": "D. W. Griffith",
-            "hasMedia": false,
+            "hasMedia": true,
             "workTitle": "Ramona"
           },
           {
@@ -2484,11 +2451,11 @@
             "workTitle": "The Circular Staircase"
           }
         ],
-        "count": 27,
+        "count": 26,
         "topWorks": [
           {
             "title": "Uncle Tom's Cabin",
-            "count": 7
+            "count": 6
           },
           {
             "title": "Lena Rivers",
@@ -2531,7 +2498,7 @@
             "year": 1935,
             "studio": "Paramount",
             "directors": "Ralph Murphy",
-            "hasMedia": false,
+            "hasMedia": true,
             "workTitle": "The Charm School"
           },
           {
@@ -2542,7 +2509,7 @@
             "year": 1938,
             "studio": "Paramount",
             "directors": "Raoul Walsh",
-            "hasMedia": false,
+            "hasMedia": true,
             "workTitle": "The Charm School"
           },
           {
@@ -2575,7 +2542,7 @@
             "year": 1945,
             "studio": "Columbia",
             "directors": "Melchor Ferrer",
-            "hasMedia": false,
+            "hasMedia": true,
             "workTitle": "A Girl of the Limberlost"
           },
           {
@@ -2630,7 +2597,7 @@
             "year": 1935,
             "studio": "Fox Film",
             "directors": "Irving Cummings",
-            "hasMedia": false,
+            "hasMedia": true,
             "workTitle": "Daddy-Long-Legs"
           },
           {
@@ -2641,7 +2608,7 @@
             "year": 1939,
             "studio": "Columbia",
             "directors": "Charles Barton",
-            "hasMedia": false,
+            "hasMedia": true,
             "workTitle": "Five Little Peppers and How they Grew"
           },
           {
@@ -2652,7 +2619,7 @@
             "year": 1940,
             "studio": "Columbia",
             "directors": "Charles Barton",
-            "hasMedia": false,
+            "hasMedia": true,
             "workTitle": "Five Little Peppers and How they Grew"
           },
           {
@@ -2663,7 +2630,7 @@
             "year": 1940,
             "studio": "Columbia",
             "directors": "Charles Barton",
-            "hasMedia": false,
+            "hasMedia": true,
             "workTitle": "Five Little Peppers and How they Grew"
           },
           {
@@ -2674,7 +2641,7 @@
             "year": 1940,
             "studio": "Columbia",
             "directors": "Charles Barton",
-            "hasMedia": false,
+            "hasMedia": true,
             "workTitle": "Five Little Peppers and How they Grew"
           },
           {
@@ -2696,7 +2663,7 @@
             "year": 1934,
             "studio": "Paramount",
             "directors": "Norman Taurog",
-            "hasMedia": false,
+            "hasMedia": true,
             "workTitle": "Mrs. Wiggs of the Cabbage Patch"
           },
           {
@@ -2707,7 +2674,7 @@
             "year": 1942,
             "studio": "Paramount",
             "directors": "Ralph Murphy",
-            "hasMedia": false,
+            "hasMedia": true,
             "workTitle": "Mrs. Wiggs of the Cabbage Patch"
           },
           {
@@ -2718,7 +2685,7 @@
             "year": 1936,
             "studio": "20th Century Fox",
             "directors": "Henry King",
-            "hasMedia": false,
+            "hasMedia": true,
             "workTitle": "Ramona"
           },
           {
@@ -2751,7 +2718,7 @@
             "year": 1941,
             "studio": "Warner Bros",
             "directors": "William Keighley",
-            "hasMedia": false,
+            "hasMedia": true,
             "workTitle": "Sister Act"
           },
           {
@@ -2762,7 +2729,7 @@
             "year": 1932,
             "studio": "Fox Film",
             "directors": "Alfred Santell",
-            "hasMedia": false,
+            "hasMedia": true,
             "workTitle": "Tess of the Storm Country"
           },
           {
@@ -2835,7 +2802,7 @@
             "year": 1960,
             "studio": "20th Century Fox",
             "directors": "Andrew V. McLaglen",
-            "hasMedia": false,
+            "hasMedia": true,
             "workTitle": "Freckles"
           },
           {
@@ -2857,7 +2824,7 @@
             "year": 1960,
             "studio": "20th Century Fox",
             "directors": "Paul Guilfoyle",
-            "hasMedia": false,
+            "hasMedia": true,
             "workTitle": "Tess of the Storm Country"
           },
           {
@@ -2900,7 +2867,7 @@
   },
   "stats": {
     "total": 13,
-    "totalRemakes": 57,
+    "totalRemakes": 56,
     "averageRemakesPerWork": 4,
     "mostRemade": {
       "work": {
@@ -2917,7 +2884,7 @@
         "id": 2,
         "slug": "harriet-beecher-stowe",
         "name": "Harriet Beecher Stowe",
-        "filmCount": 9
+        "filmCount": 8
       },
       "adaptations": [
         {
@@ -2951,16 +2918,6 @@
           "hasMedia": false
         },
         {
-          "id": 7,
-          "slug": "uncle-toms-cabin-1914",
-          "title": "Uncle Tom's Cabin",
-          "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
-          "year": 1914,
-          "studio": "World Producing",
-          "directors": "William Robert Daly",
-          "hasMedia": true
-        },
-        {
           "id": 39,
           "slug": "uncle-toms-cabin-1918",
           "title": "Uncle Tom's Cabin",
@@ -2992,7 +2949,7 @@
         }
       ],
       "stats": {
-        "count": 7,
+        "count": 6,
         "yearSpan": 17,
         "averageGapBetweenRemakes": 3,
         "decadesActive": 2
@@ -3001,8 +2958,7 @@
         "gaps": [
           0,
           3,
-          1,
-          4,
+          5,
           9,
           0
         ],
@@ -3013,7 +2969,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-01T19:25:34.146Z",
+    "generated": "2025-08-01T20:13:48.175Z",
     "version": "2.0"
   }
 }

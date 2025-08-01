@@ -5,7 +5,7 @@
   "formatted_title": "Their Mad Moment",
   "html_title": "<span class=\"film-title\">Their Mad Moment</span>",
   "release_year": 1931,
-  "runtime_minutes": null,
+  "runtime_minutes": 55,
   "country_of_production": "United States",
   "genres": [
     "Melodrama",
@@ -61,9 +61,49 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 2694,
+      "media_type": "poster",
+      "title": "Their Mad Moment (1931) - Poster",
+      "caption": "Theatrical poster for Their Mad Moment (1931)",
+      "url": "https://image.tmdb.org/t/p/original/5AGtDrxOwbEJp9TX04phVIk5CfX.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/5AGtDrxOwbEJp9TX04phVIk5CfX.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/385444",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "False"
+    },
+    {
+      "id": 2695,
+      "media_type": "poster",
+      "title": "Their Mad Moment (1931) - Poster",
+      "caption": "Theatrical poster for Their Mad Moment (1931)",
+      "url": "https://image.tmdb.org/t/p/original/s1AJ2meLSw025TKQGFPlZEvk0Lm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/s1AJ2meLSw025TKQGFPlZEvk0Lm.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/385444",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "False"
+    },
+    {
+      "id": 2696,
+      "media_type": "still",
+      "title": "Their Mad Moment (1931) - Still",
+      "caption": "Scene from Their Mad Moment (1931)",
+      "url": "https://image.tmdb.org/t/p/original/81sOT8I8kYaMnN5Oxdf5FK2w43J.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/81sOT8I8kYaMnN5Oxdf5FK2w43J.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/385444",
+      "license": "fair_use",
+      "attribution": "Fox Film",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:09:36.953974"
+  "last_updated": "2025-08-01T17:12:40.225167"
 }

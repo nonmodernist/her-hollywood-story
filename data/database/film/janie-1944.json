@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3462,
+      "media_type": "poster",
+      "title": "Janie (1944) - Poster",
+      "caption": "Theatrical poster for Janie (1944)",
+      "url": "https://image.tmdb.org/t/p/original/1cn4QPkZlpTqCSkOEh1sZlg3paF.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1cn4QPkZlpTqCSkOEh1sZlg3paF.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/215689",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "True"
+    },
+    {
+      "id": 3463,
+      "media_type": "poster",
+      "title": "Janie (1944) - Poster",
+      "caption": "Theatrical poster for Janie (1944)",
+      "url": "https://image.tmdb.org/t/p/original/49IlgWYz8Q6dSowvvXmjWnSMDn0.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/49IlgWYz8Q6dSowvvXmjWnSMDn0.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/215689",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 3464,
+      "media_type": "poster",
+      "title": "Janie (1944) - Poster",
+      "caption": "Theatrical poster for Janie (1944)",
+      "url": "https://image.tmdb.org/t/p/original/sKavOYrYKsdNohIxLw4lTjKyp9r.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/sKavOYrYKsdNohIxLw4lTjKyp9r.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/215689",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 3465,
+      "media_type": "poster",
+      "title": "Janie (1944) - Poster",
+      "caption": "Theatrical poster for Janie (1944)",
+      "url": "https://image.tmdb.org/t/p/original/3YsRr3s9TctMv7FbnX56r8m83B6.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/3YsRr3s9TctMv7FbnX56r8m83B6.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/215689",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 3466,
+      "media_type": "still",
+      "title": "Janie (1944) - Still",
+      "caption": "Scene from Janie (1944)",
+      "url": "https://image.tmdb.org/t/p/original/d4aQnm6Xjxe9EIGBqKrG9w2Qsra.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/d4aQnm6Xjxe9EIGBqKrG9w2Qsra.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/215689",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:06:54.396111"
 }

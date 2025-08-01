@@ -16,7 +16,7 @@
   "directors": "John Brahm",
   "writers": "Tess Slesinger|Richard Sherman",
   "cast_members": "Anne Shirley|Nan Grey|Ralph Bellamy|Dorothy Moore|Gloria Holden|Marjorie Main|Margaret Tallichet|Peggy Moran|Kenneth Howell|Noah Beery Jr.",
-  "color_info": "black-and-white",
+  "color_info": "color",
   "adaptation_notes": null,
   "afi_catalog_id": 6722,
   "source_work": {
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4963,
+      "media_type": "poster",
+      "title": "Girls' School (1938) - Poster",
+      "caption": "Theatrical poster for Girls' School (1938)",
+      "url": "https://image.tmdb.org/t/p/original/9YgIdPXO3Yw54k9ZNXvpeTMAk8.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/9YgIdPXO3Yw54k9ZNXvpeTMAk8.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/235645",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    },
+    {
+      "id": 4964,
+      "media_type": "poster",
+      "title": "Girls' School (1938) - Poster",
+      "caption": "Theatrical poster for Girls' School (1938)",
+      "url": "https://image.tmdb.org/t/p/original/kKHTcV0faNN3Thrbq1plqVwDE5F.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kKHTcV0faNN3Thrbq1plqVwDE5F.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/235645",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    },
+    {
+      "id": 4965,
+      "media_type": "still",
+      "title": "Girls' School (1938) - Still",
+      "caption": "Scene from Girls' School (1938)",
+      "url": "https://image.tmdb.org/t/p/original/jCiLQEwh19q6rhVls9hyzs2W43s.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/jCiLQEwh19q6rhVls9hyzs2W43s.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/235645",
+      "license": "fair_use",
+      "attribution": "Columbia",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:14:58.001315"
 }

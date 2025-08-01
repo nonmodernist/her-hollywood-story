@@ -60,9 +60,36 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1533,
+      "media_type": "advertisement",
+      "title": "The Next Corner 1924 newspaper advertisement.jpg",
+      "caption": "Advertisement for the American romantic melodrama film The Next Corner (1924) in The Omaha Morning Bee.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/The_Next_Corner_1924_newspaper_advertisement.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/The_Next_Corner_1924_newspaper_advertisement.jpg/300px-The_Next_Corner_1924_newspaper_advertisement.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Next_Corner_1924_newspaper_advertisement.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 1532,
+      "media_type": "advertisement",
+      "title": "The Next Corner (1924) - 1.jpg",
+      "caption": "Advertisement for the American romantic melodrama film The Next Corner (1924) with Conway Tearle and Dorothy Mackaill, on page 26 of the February 14, 1924 Variety.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/The_Next_Corner_%281924%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/The_Next_Corner_%281924%29_-_1.jpg/300px-The_Next_Corner_%281924%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Next_Corner_(1924)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

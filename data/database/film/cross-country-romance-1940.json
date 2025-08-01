@@ -5,7 +5,7 @@
   "formatted_title": "Cross-Country Romance",
   "html_title": "<span class=\"film-title\">Cross-Country Romance</span>",
   "release_year": 1940,
-  "runtime_minutes": null,
+  "runtime_minutes": 68,
   "country_of_production": "United States",
   "genres": [
     "Romantic comedy"
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3570,
+      "media_type": "poster",
+      "title": "Cross-Country Romance (1940) - Poster",
+      "caption": "Theatrical poster for Cross-Country Romance (1940)",
+      "url": "https://image.tmdb.org/t/p/original/dnXeNa490jMeW1uSGRXE5CxtzQ0.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dnXeNa490jMeW1uSGRXE5CxtzQ0.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/282476",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 3571,
+      "media_type": "poster",
+      "title": "Cross-Country Romance (1940) - Poster",
+      "caption": "Theatrical poster for Cross-Country Romance (1940)",
+      "url": "https://image.tmdb.org/t/p/original/ki65mx9sMyWqemyrlapZKiWioH0.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ki65mx9sMyWqemyrlapZKiWioH0.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/282476",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 3572,
+      "media_type": "still",
+      "title": "Cross-Country Romance (1940) - Still",
+      "caption": "Scene from Cross-Country Romance (1940)",
+      "url": "https://image.tmdb.org/t/p/original/8ItDzh7qhS3GpWxDy6oaQDx8Krj.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/8ItDzh7qhS3GpWxDy6oaQDx8Krj.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/282476",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:16:38.578401"
+  "last_updated": "2025-08-01T17:13:45.087085"
 }

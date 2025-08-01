@@ -80,29 +80,29 @@
   },
   "media": [
     {
-      "id": 16,
-      "media_type": "advertisement",
-      "title": "The Circular Staircase, 1915.jpg",
-      "caption": "Advertisement for film version of Mary Roberts Rinehart’s novel The Circular Staircase, 1915",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_Circular_Staircase%2C_1915.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Circular_Staircase%2C_1915.jpg/300px-The_Circular_Staircase%2C_1915.jpg",
-      "source": "wikimedia",
-      "source_url": "https://commons.wikimedia.org/wiki/File:The_Circular_Staircase,_1915.jpg",
-      "license": "public_domain",
-      "attribution": "Anonymous photographer and designer",
-      "is_featured": "False"
-    },
-    {
       "id": 17,
       "media_type": "advertisement",
       "title": "Miss Eugenie Besserer in The Circular Staircase, 1915.jpg",
       "caption": "Advertisement for the film version of Mary Roberts Rinehart’s novel The Circular Staircase, 1915",
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Miss_Eugenie_Besserer_in_The_Circular_Staircase%2C_1915.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Miss_Eugenie_Besserer_in_The_Circular_Staircase%2C_1915.jpg/300px-Miss_Eugenie_Besserer_in_The_Circular_Staircase%2C_1915.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Miss_Eugenie_Besserer_in_The_Circular_Staircase,_1915.jpg",
       "license": "public_domain",
-      "attribution": "Anonymous photographer and illustrator",
+      "attribution": "Selig Polyscope",
+      "is_featured": "False"
+    },
+    {
+      "id": 16,
+      "media_type": "advertisement",
+      "title": "The Circular Staircase, 1915.jpg",
+      "caption": "Advertisement for film version of Mary Roberts Rinehart’s novel The Circular Staircase, 1915",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_Circular_Staircase%2C_1915.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Circular_Staircase%2C_1915.jpg/300px-The_Circular_Staircase%2C_1915.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Circular_Staircase,_1915.jpg",
+      "license": "public_domain",
+      "attribution": "Selig Polyscope",
       "is_featured": "False"
     }
   ],

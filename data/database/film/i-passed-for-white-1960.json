@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 3513,
+      "media_type": "poster",
+      "title": "I Passed for White (1960) - Poster",
+      "caption": "Theatrical poster for I Passed for White (1960)",
+      "url": "https://image.tmdb.org/t/p/original/41WAUlH4eKux05OcqAPgy04Flbu.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/41WAUlH4eKux05OcqAPgy04Flbu.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/242354",
+      "license": "fair_use",
+      "attribution": "Allied Artists",
+      "is_featured": "True"
+    },
+    {
+      "id": 3514,
+      "media_type": "poster",
+      "title": "I Passed for White (1960) - Poster",
+      "caption": "Theatrical poster for I Passed for White (1960)",
+      "url": "https://image.tmdb.org/t/p/original/10JBqVuIDgkTpBD8Rc47YRaP8ye.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/10JBqVuIDgkTpBD8Rc47YRaP8ye.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/242354",
+      "license": "fair_use",
+      "attribution": "Allied Artists",
+      "is_featured": "False"
+    },
+    {
+      "id": 3515,
+      "media_type": "still",
+      "title": "I Passed for White (1960) - Still",
+      "caption": "Scene from I Passed for White (1960)",
+      "url": "https://image.tmdb.org/t/p/original/hcY2JAUizn7S74kTbXQcADVtHp5.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/hcY2JAUizn7S74kTbXQcADVtHp5.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/242354",
+      "license": "fair_use",
+      "attribution": "Allied Artists",
+      "is_featured": "False"
+    },
+    {
+      "id": 3516,
+      "media_type": "still",
+      "title": "I Passed for White (1960) - Still",
+      "caption": "Scene from I Passed for White (1960)",
+      "url": "https://image.tmdb.org/t/p/original/khY0VFUrjaaIrYJsOSuVAq1WlcQ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/khY0VFUrjaaIrYJsOSuVAq1WlcQ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/242354",
+      "license": "fair_use",
+      "attribution": "Allied Artists",
+      "is_featured": "False"
+    },
+    {
+      "id": 3517,
+      "media_type": "still",
+      "title": "I Passed for White (1960) - Still",
+      "caption": "Scene from I Passed for White (1960)",
+      "url": "https://image.tmdb.org/t/p/original/jtwWIiGgWPrG0pJjgFu3RIn5nuU.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/jtwWIiGgWPrG0pJjgFu3RIn5nuU.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/242354",
+      "license": "fair_use",
+      "attribution": "Allied Artists",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:07:10.585267"
 }

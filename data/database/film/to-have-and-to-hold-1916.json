@@ -60,9 +60,62 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 4265,
+      "media_type": "poster",
+      "title": "To Have and to Hold (1916) - Poster",
+      "caption": "Theatrical poster for To Have and to Hold (1916)",
+      "url": "https://image.tmdb.org/t/p/original/6U1yTRPBMVedFMULIU4u60sARsU.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/6U1yTRPBMVedFMULIU4u60sARsU.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/916098",
+      "license": "fair_use",
+      "attribution": "Jesse L. Lasky Feature Play Co.",
+      "is_featured": "False"
+    },
+    {
+      "id": 1504,
+      "media_type": "still",
+      "title": "Wallace Reid and Mae Murray in To Have and to Hold.jpg",
+      "caption": "Wallace Reid (center left) and Mae Murray (center) in To Have and to Hold",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Wallace_Reid_and_Mae_Murray_in_To_Have_and_to_Hold.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wallace_Reid_and_Mae_Murray_in_To_Have_and_to_Hold.jpg/300px-Wallace_Reid_and_Mae_Murray_in_To_Have_and_to_Hold.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Wallace_Reid_and_Mae_Murray_in_To_Have_and_to_Hold.jpg",
+      "license": "public_domain",
+      "attribution": "Jesse L. Lasky Feature Play Company",
+      "is_featured": "False"
+    },
+    {
+      "id": 1505,
+      "media_type": "still",
+      "title": "Mae Murray, Tom Forman, and Wallace Reid in To Have and to Hold.jpg",
+      "caption": "(From left) Mae Murray, Tom Forman, Wallace Reid, and other unidentified cast members in To Have and to Hold",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Mae_Murray%2C_Tom_Forman%2C_and_Wallace_Reid_in_To_Have_and_to_Hold.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mae_Murray%2C_Tom_Forman%2C_and_Wallace_Reid_in_To_Have_and_to_Hold.jpg/300px-Mae_Murray%2C_Tom_Forman%2C_and_Wallace_Reid_in_To_Have_and_to_Hold.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mae_Murray,_Tom_Forman,_and_Wallace_Reid_in_To_Have_and_to_Hold.jpg",
+      "license": "public_domain",
+      "attribution": "Jesse L. Lasky Feature Play Company",
+      "is_featured": "False"
+    },
+    {
+      "id": 1506,
+      "media_type": "still",
+      "title": "Tohaveandtohold-scene-newspaper-1916.jpg",
+      "caption": "To Have and to Hold is a 1916 American silent adventure/drama film directed by George Melford. This is a publicity photo from a newspaper.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Tohaveandtohold-scene-newspaper-1916.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Tohaveandtohold-scene-newspaper-1916.jpg/300px-Tohaveandtohold-scene-newspaper-1916.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tohaveandtohold-scene-newspaper-1916.jpg",
+      "license": "public_domain",
+      "attribution": "paramount pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-01T16:11:05.84528"
 }

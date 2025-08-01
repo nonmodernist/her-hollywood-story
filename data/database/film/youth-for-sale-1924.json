@@ -5,7 +5,7 @@
   "formatted_title": "Youth For Sale",
   "html_title": "<span class=\"film-title\">Youth For Sale</span>",
   "release_year": 1924,
-  "runtime_minutes": null,
+  "runtime_minutes": 60,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -46,21 +46,34 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 3985,
+      "media_type": "poster",
+      "title": "Youth For Sale (1924) - Poster",
+      "caption": "Theatrical poster for Youth For Sale (1924)",
+      "url": "https://image.tmdb.org/t/p/original/6ILD9p8OUyug9ROptDwrLCA0HW.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/6ILD9p8OUyug9ROptDwrLCA0HW.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/588342",
+      "license": "fair_use",
+      "attribution": "C. C. Burr Pictures",
+      "is_featured": "False"
+    },
+    {
       "id": 1310,
       "media_type": "poster",
       "title": "Youth for Sale.jpg",
       "caption": "This is a poster for Youth for Sale.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Youth_for_Sale.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Youth_for_Sale.jpg/300px-Youth_for_Sale.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Youth_for_Sale.jpg",
       "license": "public_domain",
-      "attribution": "Unknown authorUnknown author",
+      "attribution": "C. C. Burr Pictures",
       "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T21:12:27.702966"
+  "last_updated": "2025-08-01T17:09:30.396322"
 }

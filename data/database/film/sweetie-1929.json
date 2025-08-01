@@ -1,0 +1,95 @@
+{
+  "id": 810,
+  "slug": "sweetie-1929",
+  "title": "Sweetie",
+  "formatted_title": "Sweetie",
+  "html_title": "<span class=\"film-title\">Sweetie</span>",
+  "release_year": 1929,
+  "runtime_minutes": null,
+  "country_of_production": null,
+  "genres": [
+    "Musical"
+  ],
+  "studio": "Paramount",
+  "production_companies": "Paramount Famous Lasky Corp.",
+  "distribution_companies": "Paramount Famous Lasky Corp.",
+  "directors": "Frank Tuttle",
+  "writers": "George Marion Jr.|Lloyd Corrigan|George Marion Jr.|Lloyd Corrigan",
+  "cast_members": "Nancy Carroll|Helen Kane|Stanley Smith|Jack Oakie|William Austin|Stuart Erwin|Wallace MacDonald|Charles Sellon|Aileen Manning",
+  "color_info": null,
+  "adaptation_notes": "This film is listed in 'Women Writers: From Page to Screen' but it is not credited as an adaptation in the AFI Catalog. The plot synopsis has enough shared elements with other credited adaptations of the source that we have chosen to include the film here. ",
+  "afi_catalog_id": 12517,
+  "source_work": {
+    "id": 74,
+    "slug": "the-charm-school",
+    "title": "The Charm School",
+    "formatted_title": "The Charm School",
+    "html_title": "<span class=\"work-title\">The Charm School</span>",
+    "work_type": "novel",
+    "publication_year": 1919,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 5,
+    "year_to_adaptation": 10
+  },
+  "author": {
+    "id": 24,
+    "slug": "alice-duer-miller",
+    "name": "Alice Duer Miller",
+    "birth_year": 1874,
+    "death_year": 1942,
+    "nationality": "American",
+    "film_count": 22
+  },
+  "other_adaptations": [
+    {
+      "id": 77,
+      "slug": "the-charm-school-1921",
+      "title": "The Charm School",
+      "html_title": "<span class=\"film-title\">The Charm School</span>",
+      "year": 1921,
+      "directors": "James Cruze",
+      "studio": "Famous Players-Lasky"
+    },
+    {
+      "id": 149,
+      "slug": "someone-to-love-1928",
+      "title": "Someone To Love",
+      "html_title": "<span class=\"film-title\">Someone To Love</span>",
+      "year": 1928,
+      "directors": "F. Richard Jones",
+      "studio": "Paramount"
+    },
+    {
+      "id": 220,
+      "slug": "collegiate-1935",
+      "title": "Collegiate",
+      "html_title": "<span class=\"film-title\">Collegiate</span>",
+      "year": 1935,
+      "directors": "Ralph Murphy",
+      "studio": "Paramount"
+    },
+    {
+      "id": 811,
+      "slug": "college-swing-1938",
+      "title": "College Swing",
+      "html_title": "<span class=\"film-title\">College Swing</span>",
+      "year": 1938,
+      "directors": "Raoul Walsh",
+      "studio": "Paramount"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 5,
+    "adaptation_number": 3,
+    "is_first": false,
+    "is_latest": false
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-25T00:42:47.848557"
+}

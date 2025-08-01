@@ -1,0 +1,82 @@
+{
+  "id": 513,
+  "slug": "king-of-burlesque-1936",
+  "title": "King of Burlesque",
+  "formatted_title": "King of Burlesque",
+  "html_title": "<span class=\"film-title\">King of Burlesque</span>",
+  "release_year": 1936,
+  "runtime_minutes": null,
+  "country_of_production": null,
+  "genres": [
+    "Musical comedy"
+  ],
+  "studio": "20th Century Fox",
+  "production_companies": "Twentieth Century-Fox Film Corp.",
+  "distribution_companies": "Twentieth Century-Fox Film Corp.",
+  "directors": "Sidney Lanfield",
+  "writers": "Gene Markey|Harry Tugend|Viña Delmar|James Seymour",
+  "cast_members": "Warner Baxter|Alice Faye|Jack Oakie|Mona Barrie|Arline Judge|Dixie Dunbar|Gregory Ratoff|Herbert Mundin|Fats Waller|Nick Long Jr.",
+  "color_info": null,
+  "adaptation_notes": null,
+  "afi_catalog_id": 4974,
+  "source_work": {
+    "id": 443,
+    "slug": "dance-hall",
+    "title": "Dance Hall",
+    "formatted_title": "\"Dance Hall\"",
+    "html_title": "<span class=\"work-title short-story\">\"Dance Hall\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1929,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 7
+  },
+  "author": {
+    "id": 53,
+    "slug": "via-delmar",
+    "name": "Viña Delmar",
+    "birth_year": 1903,
+    "death_year": 1990,
+    "nationality": "American",
+    "film_count": 15
+  },
+  "other_adaptations": [
+    {
+      "id": 512,
+      "slug": "dance-hall-1929",
+      "title": "Dance Hall",
+      "html_title": "<span class=\"film-title\">Dance Hall</span>",
+      "year": 1929,
+      "directors": "Melville Brown",
+      "studio": "RKO"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [
+    {
+      "id": 1216,
+      "media_type": "still",
+      "title": "Baxter Faye Judge Oakie Burlesque.jpg",
+      "caption": "Warner Baxter, Alice Faye, Arline Judge, e Jack Oakie in The King of Burlesque (1936).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Baxter_Faye_Judge_Oakie_Burlesque.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Baxter_Faye_Judge_Oakie_Burlesque.jpg/300px-Baxter_Faye_Judge_Oakie_Burlesque.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Baxter_Faye_Judge_Oakie_Burlesque.jpg",
+      "license": "public_domain",
+      "attribution": "Silver Screen Pub. Co.",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
+  "has_narrative": false,
+  "last_updated": "2025-07-31T20:55:34.163372"
+}

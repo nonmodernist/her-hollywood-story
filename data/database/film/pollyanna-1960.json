@@ -1,0 +1,68 @@
+{
+  "id": 882,
+  "slug": "pollyanna-1960",
+  "title": "Pollyanna",
+  "formatted_title": "Pollyanna",
+  "html_title": "<span class=\"film-title\">Pollyanna</span>",
+  "release_year": 1960,
+  "runtime_minutes": 134,
+  "country_of_production": "United States",
+  "genres": [
+    "Drama"
+  ],
+  "studio": "Walt Disney",
+  "production_companies": "Walt Disney Productions ",
+  "distribution_companies": "Buena Vista Film Distribution Co., Inc.",
+  "directors": "David Swift",
+  "writers": "David Swift",
+  "cast_members": "Jane Wyman|Richard Egan|Karl Malden|Nancy Olson|Adolphe Menjou|Donald Crisp|Agnes Moorehead|Kevin Corcoran|Hayley Mills|James Drury",
+  "color_info": "color",
+  "adaptation_notes": null,
+  "afi_catalog_id": 53251,
+  "source_work": {
+    "id": 790,
+    "slug": "pollyanna",
+    "title": "Pollyanna",
+    "formatted_title": "Pollyanna",
+    "html_title": "<span class=\"work-title\">Pollyanna</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 1960
+  },
+  "author": {
+    "id": 400,
+    "slug": "eleanor-h-porter",
+    "name": "Eleanor H. Porter",
+    "birth_year": 1868,
+    "death_year": 1920,
+    "nationality": "American",
+    "film_count": 3
+  },
+  "other_adaptations": [
+    {
+      "id": 881,
+      "slug": "pollyanna-1920",
+      "title": "Pollyanna",
+      "html_title": "<span class=\"film-title\">Pollyanna</span>",
+      "year": 1920,
+      "directors": "Paul Powell",
+      "studio": "Mary Pickford Productions"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-31T20:55:34.163372"
+}

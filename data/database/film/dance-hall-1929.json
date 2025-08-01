@@ -1,0 +1,108 @@
+{
+  "id": 512,
+  "slug": "dance-hall-1929",
+  "title": "Dance Hall",
+  "formatted_title": "Dance Hall",
+  "html_title": "<span class=\"film-title\">Dance Hall</span>",
+  "release_year": 1929,
+  "runtime_minutes": 59,
+  "country_of_production": "United States",
+  "genres": [
+    "Melodrama"
+  ],
+  "studio": "RKO",
+  "production_companies": "RKO Productions, Inc.",
+  "distribution_companies": "RKO Distributing Corp.",
+  "directors": "Melville Brown",
+  "writers": "Jane Murfin|J. Walter Ruben",
+  "cast_members": "Olive Borden|Arthur Lake|Margaret Seddon|Ralph Emerson|Joseph Cawthorn|Helen Kaiser|Lee Moran|Tom O'Brien",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 3552,
+  "source_work": {
+    "id": 443,
+    "slug": "dance-hall",
+    "title": "Dance Hall",
+    "formatted_title": "\"Dance Hall\"",
+    "html_title": "<span class=\"work-title short-story\">\"Dance Hall\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1929,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 0
+  },
+  "author": {
+    "id": 53,
+    "slug": "via-delmar",
+    "name": "Viña Delmar",
+    "birth_year": 1903,
+    "death_year": 1990,
+    "nationality": "American",
+    "film_count": 15
+  },
+  "other_adaptations": [
+    {
+      "id": 513,
+      "slug": "king-of-burlesque-1936",
+      "title": "King of Burlesque",
+      "html_title": "<span class=\"film-title\">King of Burlesque</span>",
+      "year": 1936,
+      "directors": "Sidney Lanfield",
+      "studio": "20th Century Fox"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 1,
+    "is_first": true,
+    "is_latest": false
+  },
+  "media": [
+    {
+      "id": 1213,
+      "media_type": "poster",
+      "title": "DanceHallFilmPoster.jpg",
+      "caption": "Poster for the 1929 film, Dance Hall",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/DanceHallFilmPoster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/DanceHallFilmPoster.jpg/300px-DanceHallFilmPoster.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:DanceHallFilmPoster.jpg",
+      "license": "public_domain",
+      "attribution": "RKO Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 1214,
+      "media_type": "production_photo",
+      "title": "OliveBordenArthurLake.DanceHall.1929.jpg",
+      "caption": "Olive Borden and Arthur Lake in the 1929 film, Dance Hall Other information http://mediahistoryproject.org/faq/#copyright for an explanation of the copyright http://mediahistoryproject.org/about-2/ for information regarding public domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/OliveBordenArthurLake.DanceHall.1929.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/OliveBordenArthurLake.DanceHall.1929.jpg/300px-OliveBordenArthurLake.DanceHall.1929.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:OliveBordenArthurLake.DanceHall.1929.jpg",
+      "license": "public_domain",
+      "attribution": "Screenland",
+      "is_featured": "False"
+    },
+    {
+      "id": 1215,
+      "media_type": "advertisement",
+      "title": "Winnipeg (6408553545).jpg",
+      "caption": "Pantages Theatre, 180 Market Avenue - The Pantages Theatre opened in Winnipeg on Feb 9 1914. Its colourful American builder was Alexander Pantages a Seattle based impresario who wanted to build a string of new vaudeville houses for his touring acts. Pantages' Vaudeville circuit was a top quality chain of theatres and travelling acts that played in the western US and Canada. Alexander Pantages emigrated to the US as a boy from Greece. At age 13 he ended up in San Francisco and worked as an usher ",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Winnipeg_%286408553545%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Winnipeg_%286408553545%29.jpg/300px-Winnipeg_%286408553545%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Winnipeg_(6408553545).jpg",
+      "license": "other",
+      "attribution": "Herb Neufeld",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
+  "has_narrative": false,
+  "last_updated": "2025-07-31T20:55:34.163372"
+}

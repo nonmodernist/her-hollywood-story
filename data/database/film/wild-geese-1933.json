@@ -1,0 +1,66 @@
+{
+  "id": 860,
+  "slug": "wild-geese-1933",
+  "title": "Wild Geese",
+  "formatted_title": "Wild Geese",
+  "html_title": "<span class=\"film-title\">Wild Geese</span>",
+  "release_year": 1933,
+  "runtime_minutes": null,
+  "country_of_production": null,
+  "genres": [],
+  "studio": "Majestic Pictures",
+  "production_companies": null,
+  "distribution_companies": null,
+  "directors": null,
+  "writers": null,
+  "cast_members": null,
+  "color_info": null,
+  "adaptation_notes": null,
+  "afi_catalog_id": null,
+  "source_work": {
+    "id": 768,
+    "slug": "wild-geese",
+    "title": "Wild Geese",
+    "formatted_title": "Wild Geese",
+    "html_title": "<span class=\"work-title\">Wild Geese</span>",
+    "work_type": "novel",
+    "publication_year": 1925,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 8
+  },
+  "author": {
+    "id": 383,
+    "slug": "martha-ostenso",
+    "name": "Martha Ostenso",
+    "birth_year": 1900,
+    "death_year": 1963,
+    "nationality": "Norwegian-American",
+    "film_count": 3
+  },
+  "other_adaptations": [
+    {
+      "id": 859,
+      "slug": "wild-geese-1927",
+      "title": "Wild Geese",
+      "html_title": "<span class=\"film-title\">Wild Geese</span>",
+      "year": 1927,
+      "directors": "Phil Stone",
+      "studio": "Tiffany-Stahl Productions"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-15T02:57:34.604589"
+}

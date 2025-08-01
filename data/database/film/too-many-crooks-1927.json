@@ -1,0 +1,68 @@
+{
+  "id": 903,
+  "slug": "too-many-crooks-1927",
+  "title": "Too Many Crooks",
+  "formatted_title": "Too Many Crooks",
+  "html_title": "<span class=\"film-title\">Too Many Crooks</span>",
+  "release_year": 1927,
+  "runtime_minutes": null,
+  "country_of_production": "United States",
+  "genres": [
+    "Comedy"
+  ],
+  "studio": "Famous Players-Lasky",
+  "production_companies": "Famous Players-Lasky Corp.",
+  "distribution_companies": "Paramount Pictures Corp.",
+  "directors": "Fred Newmeyer",
+  "writers": "Rex Taylor",
+  "cast_members": "Mildred Davis|Lloyd Hughes|George Bancroft|El Brendel|William V. Mong|John St. Polis|Otto Matiesen|Betty Francisco|Gayne Whitman|Tom Ricketts",
+  "color_info": "black-and-white",
+  "adaptation_notes": null,
+  "afi_catalog_id": 12765,
+  "source_work": {
+    "id": 810,
+    "slug": "too-many-crooks",
+    "title": "Too Many Crooks",
+    "formatted_title": "Too Many Crooks",
+    "html_title": "<span class=\"work-title\">Too Many Crooks</span>",
+    "work_type": "novel",
+    "publication_year": 1918,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 9
+  },
+  "author": {
+    "id": 407,
+    "slug": "ej-rath",
+    "name": "E.J. Rath",
+    "birth_year": 1885,
+    "death_year": 1922,
+    "nationality": "American",
+    "film_count": 11
+  },
+  "other_adaptations": [
+    {
+      "id": 902,
+      "slug": "too-many-crooks-1919",
+      "title": "Too Many Crooks",
+      "html_title": "<span class=\"film-title\">Too Many Crooks</span>",
+      "year": 1919,
+      "directors": "Ralph Ince",
+      "studio": "Vitagraph"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-07-31T21:14:52.690244"
+}

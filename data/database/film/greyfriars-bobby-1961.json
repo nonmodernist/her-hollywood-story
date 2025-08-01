@@ -1,0 +1,82 @@
+{
+  "id": 351,
+  "slug": "greyfriars-bobby-1961",
+  "title": "Greyfriars Bobby",
+  "formatted_title": "Greyfriars Bobby",
+  "html_title": "<span class=\"film-title\">Greyfriars Bobby</span>",
+  "release_year": 1961,
+  "runtime_minutes": 91,
+  "country_of_production": "United States",
+  "genres": [
+    "Comedy-drama"
+  ],
+  "studio": "Walt Disney",
+  "production_companies": "Walt Disney Productions ",
+  "distribution_companies": "Buena Vista Distribution Co., Inc.",
+  "directors": "Don Chaffey",
+  "writers": "Robert Westerby",
+  "cast_members": "Donald Crisp|Laurence Naismith|Alex MacKenzie|Kay Walsh|Duncan Macrae|Andrew Cruickshank|Gordon Jackson|Rosalie Crutchley|Freda Jackson|M. Kelsall",
+  "color_info": "color",
+  "adaptation_notes": null,
+  "afi_catalog_id": 23743,
+  "source_work": {
+    "id": 248,
+    "slug": "greyfriars-bobby",
+    "title": "Greyfriars Bobby",
+    "formatted_title": "Greyfriars Bobby",
+    "html_title": "<span class=\"work-title\">Greyfriars Bobby</span>",
+    "work_type": "novel",
+    "publication_year": 1912,
+    "genre": null,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 49
+  },
+  "author": {
+    "id": 89,
+    "slug": "eleanor-atkinson",
+    "name": "Eleanor Atkinson",
+    "birth_year": 1863,
+    "death_year": 1942,
+    "nationality": "American",
+    "film_count": 2
+  },
+  "other_adaptations": [
+    {
+      "id": 298,
+      "slug": "challenge-to-lassie-1949",
+      "title": "Challenge to Lassie",
+      "html_title": "<span class=\"film-title\">Challenge to Lassie</span>",
+      "year": 1949,
+      "directors": "Richard Thorpe",
+      "studio": "MGM"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": true
+  },
+  "media": [
+    {
+      "id": 909,
+      "media_type": "advertisement",
+      "title": "A sad sight - geograph.org.uk - 674582.jpg",
+      "caption": "A sad sight The gravestone and monument to \"Greyfriars Bobby 11\" who starred in 1961 Disney film...left in a heap",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/A_sad_sight_-_geograph.org.uk_-_674582.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/A_sad_sight_-_geograph.org.uk_-_674582.jpg/300px-A_sad_sight_-_geograph.org.uk_-_674582.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:A_sad_sight_-_geograph.org.uk_-_674582.jpg",
+      "license": "other",
+      "attribution": "Keith Dickson",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
+  "has_narrative": false,
+  "last_updated": "2025-07-31T20:55:34.163372"
+}

@@ -28,13 +28,10 @@
 
 - [ ] fix work archive link section to not show if null?? attempted this but it's complicated - revisit
 - [ ] Implement decade filter for authors (needs active decades in index)
-- [ ] Redo pattern badges in list view - use typographical symbols with css styling
-  - [x] twenty-timers (stacked asterisks)
-  - [x] hot off the press (lightning bolt) - can i make this not an emoji?
-  - [ ] elastic classic ?????
-  - [ ] add pattern badge for works that appeared first in magazines
+- [ ] add pattern badge for works that appeared first in magazines
 - [ ] Add more fields to author detail pages (education, archives, awards from authors_rows.csv)
-- [ ] figure out how to use featured poster image in grid view? or scrap grid view entirely?
+- [x] figure out how to use featured poster image in grid view
+- [ ] implement grid view for authors and works
 
 
 **Content Writing**
@@ -70,6 +67,7 @@
 - Add exact release dates for films to enable magazine→film timeline visualization
 - Spot check magazine data OR film data
 - Add film runtimes
+- Add 
 
 
 
@@ -83,3 +81,7 @@
 - [x] Add footer to database
 - [x] get WM images displaying on film detail pages
 ~~- [ ] Add superscript film count indicators for authors with 10+ films?~~ SKIP THIS FOR NOW
+- [x] Redo pattern badges in list view - use typographical symbols with css styling
+  - [x] twenty-timers (stacked asterisks)
+  - [x] hot off the press (lightning bolt)
+  - [x] elastic classic (four dots)

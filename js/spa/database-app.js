@@ -1293,10 +1293,47 @@ function createWorkListItem(work) {
 }
 
 // Create grid items 
-// TODO (implement later)
 function createGridItem(item, type) {
-    // For now, just use list items
+    if (type === 'films') {
+        return createFilmGridItem(item);
+    }
+    // For authors and works, still use list items for now
     return createListItem(item, type);
+}
+
+// Create film grid item with media
+function createFilmGridItem(film) {
+    const item = document.createElement('div');
+    item.className = 'film-item';
+    item.onclick = () => router.navigate(getDatabaseURL('/film/' + film.slug));
+    
+    let posterContent;
+    
+    if (film.featuredMedia && film.featuredMedia.thumbnailUrl) {
+        // Use thumbnail URL for grid, with lazy loading
+        posterContent = `
+            <img src="${film.featuredMedia.thumbnailUrl}" 
+                 alt="${film.featuredMedia.caption || film.title + ' poster'}"
+                 loading="lazy"
+                 onerror="this.onerror=null; this.parentElement.classList.add('no-image'); this.parentElement.innerHTML='<span>No Image</span>';">
+        `;
+    } else if (film.hasMedia) {
+        // Has media but not in index - shouldn't happen after build update
+        posterContent = '<span>Media Loading...</span>';
+    } else {
+        // No media available
+        posterContent = '<span>No Image</span>';
+    }
+    
+    item.innerHTML = `
+        <div class="film-poster ${!film.featuredMedia ? 'no-image' : ''}">
+            ${posterContent}
+        </div>
+        <div class="film-title">${film.html_title}</div>
+        <div class="film-year">${film.year}</div>
+    `;
+    
+    return item;
 }
 
 // Handle search

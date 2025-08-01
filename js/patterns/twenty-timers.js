@@ -219,7 +219,7 @@ function createStudioNetwork(data) {
             scales: {
                 y: {
                     beginAtZero: true,
-                    max: 15,
+                    max: 20,
                     ticks: {
                         stepSize: 5,
                         font: {

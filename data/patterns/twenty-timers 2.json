@@ -112,14 +112,6 @@
           "genres_string": "Mystery",
           "hasMedia": true,
           "mediaCount": 2,
-          "featuredMedia": {
-            "type": "advertisement",
-            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Circular_Staircase%2C_1915.jpg/300px-The_Circular_Staircase%2C_1915.jpg",
-            "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_Circular_Staircase%2C_1915.jpg",
-            "caption": "Advertisement for film version of Mary Roberts Rinehart’s novel The Circular Staircase, 1915",
-            "source": "wikimedia",
-            "attribution": "Anonymous photographer and designer"
-          },
           "decade": 1910
         },
         "lastFilm": {
@@ -155,14 +147,6 @@
           "genres_string": "Drama",
           "hasMedia": true,
           "mediaCount": 5,
-          "featuredMedia": {
-            "type": "still",
-            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lenita_Lane_in_The_Bat_%281959%29.jpg/300px-Lenita_Lane_in_The_Bat_%281959%29.jpg",
-            "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Lenita_Lane_in_The_Bat_%281959%29.jpg",
-            "caption": "Lenita Lane in The Bat (1959 film) - cropped screenshot",
-            "source": "wikimedia",
-            "attribution": "Film screenshot (Allied Artists)"
-          },
           "decade": 1950
         },
         "peakYear": "1920"
@@ -278,14 +262,6 @@
           "genres_string": "Drama",
           "hasMedia": true,
           "mediaCount": 2,
-          "featuredMedia": {
-            "type": "poster",
-            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Her_Great_Chance_poster.jpg/300px-Her_Great_Chance_poster.jpg",
-            "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Her_Great_Chance_poster.jpg",
-            "caption": "Poster for the 1918 film Her Great Chance'.",
-            "source": "wikimedia",
-            "attribution": "Select Pictures"
-          },
           "decade": 1910
         },
         "lastFilm": {
@@ -321,7 +297,6 @@
           "genres_string": "Romance",
           "hasMedia": false,
           "mediaCount": 0,
-          "featuredMedia": null,
           "decade": 1960
         },
         "peakYear": "1920"
@@ -437,14 +412,6 @@
           "genres_string": "Comedy-drama",
           "hasMedia": true,
           "mediaCount": 2,
-          "featuredMedia": {
-            "type": "advertisement",
-            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Our_Mrs._McChesney_%281918%29_-_1.jpg/300px-Our_Mrs._McChesney_%281918%29_-_1.jpg",
-            "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Our_Mrs._McChesney_%281918%29_-_1.jpg",
-            "caption": "Advertisement for the American comedy drama film Our Mrs. McChesney (1918) with Ethel Barrymore, part of an insert promoting Metro Picctures at page 10 of the August 24, 1918 Exhibitors Herald.",
-            "source": "wikimedia",
-            "attribution": "Metro Pictures Corporation"
-          },
           "decade": 1910
         },
         "lastFilm": {
@@ -480,14 +447,6 @@
           "genres_string": "Western",
           "hasMedia": true,
           "mediaCount": 1,
-          "featuredMedia": {
-            "type": "poster",
-            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cimarron1960.jpg/300px-Cimarron1960.jpg",
-            "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Cimarron1960.jpg",
-            "caption": "Poster for the film Cimarron (1960).",
-            "source": "wikimedia",
-            "attribution": "Reynold Brown"
-          },
           "decade": 1960
         },
         "peakYear": "1920"
@@ -595,14 +554,6 @@
           "genres_string": "Comedy",
           "hasMedia": true,
           "mediaCount": 1,
-          "featuredMedia": {
-            "type": "advertisement",
-            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Less_Than_Kin_1919_newspaper.jpg/300px-Less_Than_Kin_1919_newspaper.jpg",
-            "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Less_Than_Kin_1919_newspaper.jpg",
-            "caption": "Less Than Kin advertisement",
-            "source": "wikimedia",
-            "attribution": "The Alaska daily empire"
-          },
           "decade": 1910
         },
         "lastFilm": {
@@ -638,7 +589,6 @@
           "genres_string": "Musical comedy",
           "hasMedia": false,
           "mediaCount": 0,
-          "featuredMedia": null,
           "decade": 1950
         },
         "peakYear": "1930"
@@ -753,14 +703,6 @@
           "genres_string": "Drama",
           "hasMedia": true,
           "mediaCount": 1,
-          "featuredMedia": {
-            "type": "poster",
-            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Freckles_%281917_film%29_poster.jpg/300px-Freckles_%281917_film%29_poster.jpg",
-            "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Freckles_%281917_film%29_poster.jpg",
-            "caption": "Poster for the 1917 film Freckles.",
-            "source": "wikimedia",
-            "attribution": "Paramount"
-          },
           "decade": 1910
         },
         "lastFilm": {
@@ -796,7 +738,6 @@
           "genres_string": "Adventure",
           "hasMedia": false,
           "mediaCount": 0,
-          "featuredMedia": null,
           "decade": 1960
         },
         "peakYear": "1920"
@@ -856,7 +797,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-01T19:13:13.398Z",
+    "generated": "2025-07-31T22:21:49.562Z",
     "version": "2.0"
   }
 }

@@ -46,6 +46,19 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 859,
+      "media_type": "poster",
+      "title": "Giant (1956) poster.jpg",
+      "caption": "US theatrical poster for the film Giant (1956).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Giant_%281956%29_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Giant_%281956%29_poster.jpg/300px-Giant_%281956%29_poster.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Giant_(1956)_poster.jpg",
+      "license": "public_domain",
+      "attribution": "Bill Gold",
+      "is_featured": "True"
+    },
+    {
       "id": 3335,
       "media_type": "poster",
       "title": "Giant (1956) - Poster",
@@ -150,19 +163,6 @@
       "is_featured": "False"
     },
     {
-      "id": 864,
-      "media_type": "production_photo",
-      "title": "George Stevens at Giant premiere.jpg",
-      "caption": "Photo of George Stevens (at center) with his son, George Stevens, Jr. (at left) and Dimitri Tiomkin at the premiere of the film Giant. Stevens directed the film and Tiomkin whote the score for it.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/George_Stevens_at_Giant_premiere.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/George_Stevens_at_Giant_premiere.jpg/300px-George_Stevens_at_Giant_premiere.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:George_Stevens_at_Giant_premiere.jpg",
-      "license": "public_domain",
-      "attribution": "Quigley Publishing",
-      "is_featured": "False"
-    },
-    {
       "id": 861,
       "media_type": "production_photo",
       "title": "Giant (1956) publicity photo - Elizabeth Taylor, Sal Mineo, Carroll Baker.png",
@@ -176,16 +176,16 @@
       "is_featured": "False"
     },
     {
-      "id": 859,
-      "media_type": "poster",
-      "title": "Giant (1956) poster.jpg",
-      "caption": "US theatrical poster for the film Giant (1956).",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Giant_%281956%29_poster.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Giant_%281956%29_poster.jpg/300px-Giant_%281956%29_poster.jpg",
+      "id": 862,
+      "media_type": "still",
+      "title": "Carroll Baker Christmas tree portrait, Giant (1956).png",
+      "caption": "Publicity still from Giant (1956)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Carroll_Baker_Christmas_tree_portrait%2C_Giant_%281956%29.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Carroll_Baker_Christmas_tree_portrait%2C_Giant_%281956%29.png/300px-Carroll_Baker_Christmas_tree_portrait%2C_Giant_%281956%29.png",
       "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Giant_(1956)_poster.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Carroll_Baker_Christmas_tree_portrait,_Giant_(1956).png",
       "license": "public_domain",
-      "attribution": "Bill Gold",
+      "attribution": "Warner Bros",
       "is_featured": "False"
     },
     {
@@ -215,16 +215,16 @@
       "is_featured": "False"
     },
     {
-      "id": 862,
-      "media_type": "still",
-      "title": "Carroll Baker Christmas tree portrait, Giant (1956).png",
-      "caption": "Publicity still from Giant (1956)",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Carroll_Baker_Christmas_tree_portrait%2C_Giant_%281956%29.png",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Carroll_Baker_Christmas_tree_portrait%2C_Giant_%281956%29.png/300px-Carroll_Baker_Christmas_tree_portrait%2C_Giant_%281956%29.png",
+      "id": 864,
+      "media_type": "production_photo",
+      "title": "George Stevens at Giant premiere.jpg",
+      "caption": "Photo of George Stevens (at center) with his son, George Stevens, Jr. (at left) and Dimitri Tiomkin at the premiere of the film Giant. Stevens directed the film and Tiomkin whote the score for it.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/George_Stevens_at_Giant_premiere.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/George_Stevens_at_Giant_premiere.jpg/300px-George_Stevens_at_Giant_premiere.jpg",
       "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Carroll_Baker_Christmas_tree_portrait,_Giant_(1956).png",
+      "source_url": "https://commons.wikimedia.org/wiki/File:George_Stevens_at_Giant_premiere.jpg",
       "license": "public_domain",
-      "attribution": "Warner Bros",
+      "attribution": "Quigley Publishing",
       "is_featured": "False"
     }
   ],

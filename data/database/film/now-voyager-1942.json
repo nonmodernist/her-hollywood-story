@@ -46,6 +46,19 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 732,
+      "media_type": "poster",
+      "title": "Now, Voyager (1942 poster).jpg",
+      "caption": "Theatrical release poster of the 1942 American film Now, Voyager.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Now%2C_Voyager_%281942_poster%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Now%2C_Voyager_%281942_poster%29.jpg/300px-Now%2C_Voyager_%281942_poster%29.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Now,_Voyager_(1942_poster).jpg",
+      "license": "public_domain",
+      "attribution": "Vitagraph Inc., a subsidiary of Warner Bros. at the time of publication.",
+      "is_featured": "True"
+    },
+    {
       "id": 3019,
       "media_type": "poster",
       "title": "Now, Voyager (1942) - Poster",
@@ -150,19 +163,6 @@
       "is_featured": "False"
     },
     {
-      "id": 740,
-      "media_type": "still",
-      "title": "Paul Henreid in Now Voyager trailer.jpg",
-      "caption": "Cropped screenshot of Paul Henreid from the trailer for the film Now, Voyager.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Paul_Henreid_in_Now_Voyager_trailer.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Paul_Henreid_in_Now_Voyager_trailer.jpg/300px-Paul_Henreid_in_Now_Voyager_trailer.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Paul_Henreid_in_Now_Voyager_trailer.jpg",
-      "license": "public_domain",
-      "attribution": "Trailer screenshot",
-      "is_featured": "False"
-    },
-    {
       "id": 733,
       "media_type": "still",
       "title": "Bette Davis in Now, Voyager publicity still.png",
@@ -173,19 +173,6 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Bette_Davis_in_Now,_Voyager_publicity_still.png",
       "license": "public_domain",
       "attribution": "Warner Bros",
-      "is_featured": "False"
-    },
-    {
-      "id": 732,
-      "media_type": "poster",
-      "title": "Now, Voyager (1942 poster).jpg",
-      "caption": "Theatrical release poster of the 1942 American film Now, Voyager.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Now%2C_Voyager_%281942_poster%29.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Now%2C_Voyager_%281942_poster%29.jpg/300px-Now%2C_Voyager_%281942_poster%29.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Now,_Voyager_(1942_poster).jpg",
-      "license": "public_domain",
-      "attribution": "Vitagraph Inc., a subsidiary of Warner Bros. at the time of publication.",
       "is_featured": "False"
     },
     {
@@ -262,6 +249,19 @@
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ilka_Chase_in_Now_Voyager_trailer.jpg/300px-Ilka_Chase_in_Now_Voyager_trailer.jpg",
       "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Ilka_Chase_in_Now_Voyager_trailer.jpg",
+      "license": "public_domain",
+      "attribution": "Trailer screenshot",
+      "is_featured": "False"
+    },
+    {
+      "id": 740,
+      "media_type": "still",
+      "title": "Paul Henreid in Now Voyager trailer.jpg",
+      "caption": "Cropped screenshot of Paul Henreid from the trailer for the film Now, Voyager.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Paul_Henreid_in_Now_Voyager_trailer.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Paul_Henreid_in_Now_Voyager_trailer.jpg/300px-Paul_Henreid_in_Now_Voyager_trailer.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Paul_Henreid_in_Now_Voyager_trailer.jpg",
       "license": "public_domain",
       "attribution": "Trailer screenshot",
       "is_featured": "False"

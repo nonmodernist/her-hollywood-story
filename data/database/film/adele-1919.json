@@ -46,19 +46,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 3476,
-      "media_type": "poster",
-      "title": "Adele (1919) - Poster",
-      "caption": "Theatrical poster for Adele (1919)",
-      "url": "https://image.tmdb.org/t/p/original/yqWbSJpgGe6cXR4jEUpYZp1UKBh.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/yqWbSJpgGe6cXR4jEUpYZp1UKBh.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/419591",
-      "license": "fair_use",
-      "attribution": "United Picture Theaters of America",
-      "is_featured": "False"
-    },
-    {
       "id": 944,
       "media_type": "poster",
       "title": "Adele 1919 film poster.jpg",
@@ -68,6 +55,19 @@
       "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Adele_1919_film_poster.jpg",
       "license": "public_domain",
+      "attribution": "United Picture Theaters of America",
+      "is_featured": "True"
+    },
+    {
+      "id": 3476,
+      "media_type": "poster",
+      "title": "Adele (1919) - Poster",
+      "caption": "Theatrical poster for Adele (1919)",
+      "url": "https://image.tmdb.org/t/p/original/yqWbSJpgGe6cXR4jEUpYZp1UKBh.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/yqWbSJpgGe6cXR4jEUpYZp1UKBh.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/419591",
+      "license": "fair_use",
       "attribution": "United Picture Theaters of America",
       "is_featured": "False"
     }

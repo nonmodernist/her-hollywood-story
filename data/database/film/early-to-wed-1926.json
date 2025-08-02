@@ -46,6 +46,19 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 1082,
+      "media_type": "poster",
+      "title": "Early to Wed (poster).jpg",
+      "caption": "Poster for the American comedy film Early to Wed (1926).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Early_to_Wed_%28poster%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Early_to_Wed_%28poster%29.jpg/300px-Early_to_Wed_%28poster%29.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Early_to_Wed_(poster).jpg",
+      "license": "public_domain",
+      "attribution": "Fox Film",
+      "is_featured": "True"
+    },
+    {
       "id": 3655,
       "media_type": "poster",
       "title": "Early To Wed (1926) - Poster",
@@ -108,19 +121,6 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Early_to_Wed_ad_in_The_Film_Daily,_Jan-Jun_1926_(page_928_crop).jpg",
       "license": "public_domain",
       "attribution": "New York, Wid's Films and Film Folks, Inc.",
-      "is_featured": "False"
-    },
-    {
-      "id": 1082,
-      "media_type": "poster",
-      "title": "Early to Wed (poster).jpg",
-      "caption": "Poster for the American comedy film Early to Wed (1926).",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Early_to_Wed_%28poster%29.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Early_to_Wed_%28poster%29.jpg/300px-Early_to_Wed_%28poster%29.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Early_to_Wed_(poster).jpg",
-      "license": "public_domain",
-      "attribution": "Fox Film",
       "is_featured": "False"
     }
   ],

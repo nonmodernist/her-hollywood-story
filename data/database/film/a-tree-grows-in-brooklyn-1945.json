@@ -46,6 +46,19 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 771,
+      "media_type": "poster",
+      "title": "A Tree Grows in Brooklyn (1945 poster).jpg",
+      "caption": "Theatrical release poster for the 1945 film A Tree Grows in Brooklyn.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/A_Tree_Grows_in_Brooklyn_%281945_poster%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/A_Tree_Grows_in_Brooklyn_%281945_poster%29.jpg/300px-A_Tree_Grows_in_Brooklyn_%281945_poster%29.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:A_Tree_Grows_in_Brooklyn_(1945_poster).jpg",
+      "license": "public_domain",
+      "attribution": "20th Century Fox",
+      "is_featured": "True"
+    },
+    {
       "id": 3090,
       "media_type": "poster",
       "title": "A Tree Grows in Brooklyn (1945) - Poster",
@@ -150,32 +163,6 @@
       "is_featured": "False"
     },
     {
-      "id": 771,
-      "media_type": "poster",
-      "title": "A Tree Grows in Brooklyn (1945 poster).jpg",
-      "caption": "Theatrical release poster for the 1945 film A Tree Grows in Brooklyn.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/A_Tree_Grows_in_Brooklyn_%281945_poster%29.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/A_Tree_Grows_in_Brooklyn_%281945_poster%29.jpg/300px-A_Tree_Grows_in_Brooklyn_%281945_poster%29.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:A_Tree_Grows_in_Brooklyn_(1945_poster).jpg",
-      "license": "public_domain",
-      "attribution": "20th Century Fox",
-      "is_featured": "False"
-    },
-    {
-      "id": 776,
-      "media_type": "production_photo",
-      "title": "Publicity photo of James Dunn in A Tree Grows in Brooklyn - front view.jpg",
-      "caption": "Publicity photo of James Dunn as Johnny Nolan in the 1945 film \"A Tree Grows in Brooklyn\" (front view)",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Publicity_photo_of_James_Dunn_in_A_Tree_Grows_in_Brooklyn_-_front_view.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Publicity_photo_of_James_Dunn_in_A_Tree_Grows_in_Brooklyn_-_front_view.jpg/300px-Publicity_photo_of_James_Dunn_in_A_Tree_Grows_in_Brooklyn_-_front_view.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Publicity_photo_of_James_Dunn_in_A_Tree_Grows_in_Brooklyn_-_front_view.jpg",
-      "license": "public_domain",
-      "attribution": "20th Century Fox Press Photo",
-      "is_featured": "False"
-    },
-    {
       "id": 770,
       "media_type": "advertisement",
       "title": "A-Tree-Grows-in-Brooklyn-LIFE-Ad-1945.jpg",
@@ -212,6 +199,19 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:A-Tree-Grows-in-Brooklyn.jpg",
       "license": "public_domain",
       "attribution": "National Board of Review; photo by 20th Century Fox",
+      "is_featured": "False"
+    },
+    {
+      "id": 776,
+      "media_type": "production_photo",
+      "title": "Publicity photo of James Dunn in A Tree Grows in Brooklyn - front view.jpg",
+      "caption": "Publicity photo of James Dunn as Johnny Nolan in the 1945 film \"A Tree Grows in Brooklyn\" (front view)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Publicity_photo_of_James_Dunn_in_A_Tree_Grows_in_Brooklyn_-_front_view.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Publicity_photo_of_James_Dunn_in_A_Tree_Grows_in_Brooklyn_-_front_view.jpg/300px-Publicity_photo_of_James_Dunn_in_A_Tree_Grows_in_Brooklyn_-_front_view.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Publicity_photo_of_James_Dunn_in_A_Tree_Grows_in_Brooklyn_-_front_view.jpg",
+      "license": "public_domain",
+      "attribution": "20th Century Fox Press Photo",
       "is_featured": "False"
     }
   ],

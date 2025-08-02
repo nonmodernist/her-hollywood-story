@@ -46,6 +46,19 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 1002,
+      "media_type": "poster",
+      "title": "ApplauseLobbyCard.jpg",
+      "caption": "Lobby Card for Applause (1929)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/ApplauseLobbyCard.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/ApplauseLobbyCard.jpg/300px-ApplauseLobbyCard.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:ApplauseLobbyCard.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "True"
+    },
+    {
       "id": 3561,
       "media_type": "poster",
       "title": "Applause (1929) - Poster",
@@ -158,19 +171,6 @@
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Jack_Cameron_as_Joe_King_in_Applause.jpg/300px-Jack_Cameron_as_Joe_King_in_Applause.jpg",
       "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Jack_Cameron_as_Joe_King_in_Applause.jpg",
-      "license": "public_domain",
-      "attribution": "Paramount Pictures",
-      "is_featured": "False"
-    },
-    {
-      "id": 1002,
-      "media_type": "poster",
-      "title": "ApplauseLobbyCard.jpg",
-      "caption": "Lobby Card for Applause (1929)",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/ApplauseLobbyCard.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/ApplauseLobbyCard.jpg/300px-ApplauseLobbyCard.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:ApplauseLobbyCard.jpg",
       "license": "public_domain",
       "attribution": "Paramount Pictures",
       "is_featured": "False"

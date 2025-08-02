@@ -62,19 +62,6 @@
   },
   "media": [
     {
-      "id": 2478,
-      "media_type": "poster",
-      "title": "A Lady of Quality (1913) - Poster",
-      "caption": "Theatrical poster for A Lady of Quality (1913)",
-      "url": "https://image.tmdb.org/t/p/original/cFJWNL4YBwH78N1hDKdJFFySGwz.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/cFJWNL4YBwH78N1hDKdJFFySGwz.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/935058",
-      "license": "fair_use",
-      "attribution": "Famous Players",
-      "is_featured": "False"
-    },
-    {
       "id": 11,
       "media_type": "poster",
       "title": "Lady of Quality poster.jpg",
@@ -86,6 +73,19 @@
       "license": "public_domain",
       "attribution": "Paramount Pictures",
       "is_featured": "True"
+    },
+    {
+      "id": 2478,
+      "media_type": "poster",
+      "title": "A Lady of Quality (1913) - Poster",
+      "caption": "Theatrical poster for A Lady of Quality (1913)",
+      "url": "https://image.tmdb.org/t/p/original/cFJWNL4YBwH78N1hDKdJFFySGwz.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/cFJWNL4YBwH78N1hDKdJFFySGwz.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/935058",
+      "license": "fair_use",
+      "attribution": "Famous Players",
+      "is_featured": "False"
     }
   ],
   "has_media": true,

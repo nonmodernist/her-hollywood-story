@@ -62,6 +62,19 @@
   },
   "media": [
     {
+      "id": 1067,
+      "media_type": "poster",
+      "title": "Jewel 1915 newspaper.jpg",
+      "caption": "Jewel poster from a newspaper",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Jewel_1915_newspaper.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jewel_1915_newspaper.jpg/300px-Jewel_1915_newspaper.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jewel_1915_newspaper.jpg",
+      "license": "public_domain",
+      "attribution": "the day book",
+      "is_featured": "True"
+    },
+    {
       "id": 3643,
       "media_type": "poster",
       "title": "Jewel (1915) - Poster",
@@ -73,19 +86,6 @@
       "license": "fair_use",
       "attribution": "Universal",
       "is_featured": "True"
-    },
-    {
-      "id": 1067,
-      "media_type": "poster",
-      "title": "Jewel 1915 newspaper.jpg",
-      "caption": "Jewel poster from a newspaper",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Jewel_1915_newspaper.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jewel_1915_newspaper.jpg/300px-Jewel_1915_newspaper.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Jewel_1915_newspaper.jpg",
-      "license": "public_domain",
-      "attribution": "the day book",
-      "is_featured": "False"
     }
   ],
   "has_media": true,

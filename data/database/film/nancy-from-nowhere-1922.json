@@ -1,5 +1,5 @@
 {
-  "id": 879,
+  "id": 403,
   "slug": "nancy-from-nowhere-1922",
   "title": "Nancy From Nowhere",
   "formatted_title": "Nancy From Nowhere",
@@ -20,12 +20,12 @@
   "adaptation_notes": null,
   "afi_catalog_id": 10922,
   "source_work": {
-    "id": 788,
+    "id": 340,
     "slug": "spring-fever",
     "title": "Spring Fever",
-    "formatted_title": "Spring Fever",
-    "html_title": "<span class=\"work-title\">Spring Fever</span>",
-    "work_type": "novel",
+    "formatted_title": "\"Spring Fever\"",
+    "html_title": "<span class=\"work-title short-story\">\"Spring Fever\"</span>",
+    "work_type": "short_story",
     "publication_year": null,
     "genre": null,
     "plot_summary": null,
@@ -34,19 +34,59 @@
     "year_to_adaptation": 1922
   },
   "author": {
-    "id": 399,
-    "slug": "katherine-pinkerton",
-    "name": "Katherine Pinkerton",
-    "birth_year": 1887,
-    "death_year": 1967,
+    "id": 141,
+    "slug": "grace-drew-brown",
+    "name": "Grace Drew Brown",
+    "birth_year": null,
+    "death_year": null,
     "nationality": "American",
     "film_count": 1
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 1003,
+      "media_type": "still",
+      "title": "Nancy from Nowhere (1922) - 2.jpg",
+      "caption": "Still from the American romantic comedy film Nancy from Nowhere (1922) with A. Edward Sutherland and Bebe Daniels, on page 42 of the February 4, 1922 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Nancy_from_Nowhere_%281922%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Nancy_from_Nowhere_%281922%29_-_2.jpg/300px-Nancy_from_Nowhere_%281922%29_-_2.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Nancy_from_Nowhere_(1922)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 1004,
+      "media_type": "still",
+      "title": "Nancy from Nowhere (1922) - 3.jpg",
+      "caption": "Still from the American romantic comedy film Nancy from Nowhere (1922) with A. Edward Sutherland and Bebe Daniels, on page 66 of the February 4, 1922 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Nancy_from_Nowhere_%281922%29_-_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nancy_from_Nowhere_%281922%29_-_3.jpg/300px-Nancy_from_Nowhere_%281922%29_-_3.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Nancy_from_Nowhere_(1922)_-_3.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 1005,
+      "media_type": "advertisement",
+      "title": "Nancy from Nowhere (1922) - 1.jpg",
+      "caption": "Newspaper advertisement for the American romantic comedy film Nancy from Nowhere (1922) with A. Edward Sutherland and Bebe Daniels, on page 4 of the February 25, 1922 Duluth Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Nancy_from_Nowhere_%281922%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Nancy_from_Nowhere_%281922%29_-_1.jpg/300px-Nancy_from_Nowhere_%281922%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Nancy_from_Nowhere_(1922)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-07-09T16:15:42.834649"
 }

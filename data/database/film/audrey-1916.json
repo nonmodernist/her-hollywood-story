@@ -46,6 +46,19 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 1497,
+      "media_type": "poster",
+      "title": "Audrey (1916 film).jpg",
+      "caption": "Poster for the American production Audrey (1916 film)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Audrey_%281916_film%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Audrey_%281916_film%29.jpg/300px-Audrey_%281916_film%29.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Audrey_(1916_film).jpg",
+      "license": "public_domain",
+      "attribution": "Famous Players",
+      "is_featured": "True"
+    },
+    {
       "id": 1502,
       "media_type": "still",
       "title": "AudreyMunsonPurity2.jpg",
@@ -108,19 +121,6 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:AudreyMunsonPurity2_crop.jpg",
       "license": "public_domain",
       "attribution": "American Film Manufacturing Company (AFI Film Catalog details here) Original uploader was Carptrash at en.wikipedia",
-      "is_featured": "False"
-    },
-    {
-      "id": 1497,
-      "media_type": "poster",
-      "title": "Audrey (1916 film).jpg",
-      "caption": "Poster for the American production Audrey (1916 film)",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Audrey_%281916_film%29.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Audrey_%281916_film%29.jpg/300px-Audrey_%281916_film%29.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Audrey_(1916_film).jpg",
-      "license": "public_domain",
-      "attribution": "Famous Players",
       "is_featured": "False"
     }
   ],

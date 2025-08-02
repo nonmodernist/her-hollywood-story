@@ -46,29 +46,29 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 2063,
-      "media_type": "advertisement",
-      "title": "The Street of Seven Stars (1918) - 1.jpg",
-      "caption": "Advertisement for the American drama film The Street of Seven Stars (1918) with Doris Kenyon, on page 15 of the July 27, 1918 Exhibitors Herald.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Street_of_Seven_Stars_%281918%29_-_1.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/The_Street_of_Seven_Stars_%281918%29_-_1.jpg/300px-The_Street_of_Seven_Stars_%281918%29_-_1.jpg",
-      "source": "wikimedia",
-      "source_url": "https://commons.wikimedia.org/wiki/File:The_Street_of_Seven_Stars_(1918)_-_1.jpg",
-      "license": "public_domain",
-      "attribution": "De Luxe Pictures Inc. / William L. Sherry Service / General Film Company",
-      "is_featured": "False"
-    },
-    {
       "id": 2064,
       "media_type": "still",
       "title": "Doris Kenyon, film actress (SAYRE 4000).jpg",
       "caption": "Doris Kenyon, film actress, in still from the American drama film The Street of Seven Stars (1918). Subjects: actresses",
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Doris_Kenyon%2C_film_actress_%28SAYRE_4000%29.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Doris_Kenyon%2C_film_actress_%28SAYRE_4000%29.jpg/300px-Doris_Kenyon%2C_film_actress_%28SAYRE_4000%29.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Doris_Kenyon,_film_actress_(SAYRE_4000).jpg",
       "license": "public_domain",
       "attribution": "Unknown authorUnknown author",
+      "is_featured": "False"
+    },
+    {
+      "id": 2063,
+      "media_type": "advertisement",
+      "title": "The Street of Seven Stars (1918) - 1.jpg",
+      "caption": "Advertisement for the American drama film The Street of Seven Stars (1918) with Doris Kenyon, on page 15 of the July 27, 1918 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Street_of_Seven_Stars_%281918%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/The_Street_of_Seven_Stars_%281918%29_-_1.jpg/300px-The_Street_of_Seven_Stars_%281918%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Street_of_Seven_Stars_(1918)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "De Luxe Pictures Inc. / William L. Sherry Service / General Film Company",
       "is_featured": "False"
     }
   ],

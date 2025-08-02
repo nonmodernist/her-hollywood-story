@@ -46,19 +46,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 1302,
-      "media_type": "production_photo",
-      "title": "SLNSW 26600 Capitol Theatre.jpg",
-      "caption": "Capitol Theatre display with the films Dark Mountain (1944) and And Now Tomorrow (1944).",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/SLNSW_26600_Capitol_Theatre.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/SLNSW_26600_Capitol_Theatre.jpg/300px-SLNSW_26600_Capitol_Theatre.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:SLNSW_26600_Capitol_Theatre.jpg",
-      "license": "public_domain",
-      "attribution": "Sam Hood",
-      "is_featured": "False"
-    },
-    {
       "id": 1300,
       "media_type": "poster",
       "title": "SLNSW 26604 Capitol Theatre.jpg",
@@ -69,7 +56,7 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:SLNSW_26604_Capitol_Theatre.jpg",
       "license": "public_domain",
       "attribution": "Sam Hood",
-      "is_featured": "False"
+      "is_featured": "True"
     },
     {
       "id": 1301,
@@ -80,6 +67,19 @@
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/SLNSW_26601_Capitol_Theatre.jpg/300px-SLNSW_26601_Capitol_Theatre.jpg",
       "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:SLNSW_26601_Capitol_Theatre.jpg",
+      "license": "public_domain",
+      "attribution": "Sam Hood",
+      "is_featured": "True"
+    },
+    {
+      "id": 1302,
+      "media_type": "production_photo",
+      "title": "SLNSW 26600 Capitol Theatre.jpg",
+      "caption": "Capitol Theatre display with the films Dark Mountain (1944) and And Now Tomorrow (1944).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/SLNSW_26600_Capitol_Theatre.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/SLNSW_26600_Capitol_Theatre.jpg/300px-SLNSW_26600_Capitol_Theatre.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:SLNSW_26600_Capitol_Theatre.jpg",
       "license": "public_domain",
       "attribution": "Sam Hood",
       "is_featured": "False"

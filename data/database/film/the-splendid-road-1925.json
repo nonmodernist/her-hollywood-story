@@ -46,6 +46,19 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 1449,
+      "media_type": "poster",
+      "title": "The Splendid Road poster.jpg",
+      "caption": "Poster for the American historical drama film The Splendid Road (1925).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/The_Splendid_Road_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Splendid_Road_poster.jpg/300px-The_Splendid_Road_poster.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Splendid_Road_poster.jpg",
+      "license": "public_domain",
+      "attribution": "First National Pictures",
+      "is_featured": "True"
+    },
+    {
       "id": 1444,
       "media_type": "advertisement",
       "title": "The Splendid Road (1925) - 3.jpg",
@@ -108,19 +121,6 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:The_Splendid_Road_(1925)_-_5.jpg",
       "license": "public_domain",
       "attribution": "Frank Lloyd Productions / First National Pictures",
-      "is_featured": "False"
-    },
-    {
-      "id": 1449,
-      "media_type": "poster",
-      "title": "The Splendid Road poster.jpg",
-      "caption": "Poster for the American historical drama film The Splendid Road (1925).",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/The_Splendid_Road_poster.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Splendid_Road_poster.jpg/300px-The_Splendid_Road_poster.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:The_Splendid_Road_poster.jpg",
-      "license": "public_domain",
-      "attribution": "First National Pictures",
       "is_featured": "False"
     }
   ],

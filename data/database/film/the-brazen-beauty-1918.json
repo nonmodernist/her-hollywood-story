@@ -46,6 +46,19 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 2343,
+      "media_type": "poster",
+      "title": "Brazen Beauty poster.jpg",
+      "caption": "Poster for the 1918 film The Brazen Beauty.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Brazen_Beauty_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Brazen_Beauty_poster.jpg/300px-Brazen_Beauty_poster.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Brazen_Beauty_poster.jpg",
+      "license": "public_domain",
+      "attribution": "Universal",
+      "is_featured": "True"
+    },
+    {
       "id": 5220,
       "media_type": "poster",
       "title": "The Brazen Beauty (1918) - Poster",
@@ -82,19 +95,6 @@
       "source_url": "https://www.themoviedb.org/movie/601216",
       "license": "fair_use",
       "attribution": "Bluebird Photoplays",
-      "is_featured": "False"
-    },
-    {
-      "id": 2343,
-      "media_type": "poster",
-      "title": "Brazen Beauty poster.jpg",
-      "caption": "Poster for the 1918 film The Brazen Beauty.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Brazen_Beauty_poster.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Brazen_Beauty_poster.jpg/300px-Brazen_Beauty_poster.jpg",
-      "source": "wikimedia",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Brazen_Beauty_poster.jpg",
-      "license": "public_domain",
-      "attribution": "Universal",
       "is_featured": "False"
     }
   ],

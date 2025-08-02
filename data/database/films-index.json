@@ -85,16 +85,9 @@
       ],
       "studio": "Vitagraph",
       "directors": "Frederick Thomson",
-      "hasMedia": true,
-      "mediaCount": 1,
-      "featuredMedia": {
-        "type": "other",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Uncle_Toms_Cabin_1910_Vitagraph.webm/300px-Uncle_Toms_Cabin_1910_Vitagraph.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Uncle_Toms_Cabin_1910_Vitagraph.webm",
-        "caption": "Clip from Uncle Tom's Cabin (1910 Vitagraph film), featuring Matty Roubert in his debut at two years old",
-        "source": "Wikimedia Commons",
-        "attribution": "Vitagraph Studios"
-      },
+      "hasMedia": false,
+      "mediaCount": 0,
+      "featuredMedia": null,
       "workId": 3,
       "workTitle": "Uncle Tom's Cabin",
       "workFormattedTitle": "Uncle Tom's Cabin",
@@ -661,7 +654,7 @@
       "studio": "Jesse L. Lasky Feature Play Co.",
       "directors": "Marshall Neilan",
       "hasMedia": true,
-      "mediaCount": 2,
+      "mediaCount": 1,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Freckles_%281917_film%29_poster.jpg/300px-Freckles_%281917_film%29_poster.jpg",
@@ -4264,12 +4257,12 @@
       "studio": "United Artists",
       "directors": "Roland West",
       "hasMedia": true,
-      "mediaCount": 15,
+      "mediaCount": 11,
       "featuredMedia": {
-        "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/2O01Yn1S7rU9V0v4dYqeCiK51CD.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/2O01Yn1S7rU9V0v4dYqeCiK51CD.jpg",
-        "caption": "Theatrical poster for The Bat (1926)",
+        "type": "still",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w780/qSMe5oHC4Aqz1NsprtxlrQVPsRV.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/qSMe5oHC4Aqz1NsprtxlrQVPsRV.jpg",
+        "caption": "Scene from The Bat (1926)",
         "source": "TMDb",
         "attribution": "United Artists"
       },
@@ -11440,7 +11433,7 @@
       "studio": "Allied Artists",
       "directors": "Crane Wilbur",
       "hasMedia": true,
-      "mediaCount": 13,
+      "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/umcFzgUTG79cDD5QRm6NBTmfQIl.jpg",
@@ -30805,14 +30798,14 @@
       "studio": "Fine Arts Film",
       "directors": "Paul Powell",
       "hasMedia": true,
-      "mediaCount": 4,
+      "mediaCount": 3,
       "featuredMedia": {
-        "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/GAt8X4xFfg0Dahlv680jdEHoBk.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/GAt8X4xFfg0Dahlv680jdEHoBk.jpg",
-        "caption": "Theatrical poster for Acquitted (1916)",
-        "source": "TMDb",
-        "attribution": "Fine Arts Film"
+        "type": "still",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Scene_from_the_1916_silent_film_Acquitted.jpg/300px-Scene_from_the_1916_silent_film_Acquitted.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Scene_from_the_1916_silent_film_Acquitted.jpg",
+        "caption": "Scene from the 1916 silent film Acquitted featuring Wilfred Lucas, Bessie Love, Carmen De Rue, and Mary Alden",
+        "source": "Wikimedia Commons",
+        "attribution": "Triangle Film Corporation"
       },
       "workId": 825,
       "workTitle": "Acquitted",
@@ -31429,7 +31422,7 @@
       "studio": "MGM",
       "directors": "S. Sylvan Simon",
       "hasMedia": true,
-      "mediaCount": 6,
+      "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/bYY9UV6zbwwOEjkO3d03pz81ewG.jpg",
@@ -37947,12 +37940,12 @@
       "studio": "Warner Bros",
       "directors": "William Beaudine",
       "hasMedia": true,
-      "mediaCount": 2,
+      "mediaCount": 1,
       "featuredMedia": {
-        "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/y32YsT9qWuOkg1hPdnaxNtNlsJX.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/y32YsT9qWuOkg1hPdnaxNtNlsJX.jpg",
-        "caption": "Theatrical poster for Mr. Cohen Takes a Walk (1936)",
+        "type": "still",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w780/kNGHV9f0mwtHQQXIPFDpWoPrFrC.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/kNGHV9f0mwtHQQXIPFDpWoPrFrC.jpg",
+        "caption": "Scene from Mr. Cohen Takes a Walk (1936)",
         "source": "TMDb",
         "attribution": "Warner Bros"
       },
@@ -38071,7 +38064,7 @@
       1910,
       1963
     ],
-    "withMedia": 942
+    "withMedia": 941
   },
   "filterOptions": {
     "years": [

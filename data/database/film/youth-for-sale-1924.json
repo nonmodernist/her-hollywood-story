@@ -46,19 +46,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 3985,
-      "media_type": "poster",
-      "title": "Youth For Sale (1924) - Poster",
-      "caption": "Theatrical poster for Youth For Sale (1924)",
-      "url": "https://image.tmdb.org/t/p/original/6ILD9p8OUyug9ROptDwrLCA0HW.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/6ILD9p8OUyug9ROptDwrLCA0HW.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/588342",
-      "license": "fair_use",
-      "attribution": "C. C. Burr Pictures",
-      "is_featured": "False"
-    },
-    {
       "id": 1310,
       "media_type": "poster",
       "title": "Youth for Sale.jpg",
@@ -68,6 +55,19 @@
       "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Youth_for_Sale.jpg",
       "license": "public_domain",
+      "attribution": "C. C. Burr Pictures",
+      "is_featured": "True"
+    },
+    {
+      "id": 3985,
+      "media_type": "poster",
+      "title": "Youth For Sale (1924) - Poster",
+      "caption": "Theatrical poster for Youth For Sale (1924)",
+      "url": "https://image.tmdb.org/t/p/original/6ILD9p8OUyug9ROptDwrLCA0HW.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/6ILD9p8OUyug9ROptDwrLCA0HW.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/588342",
+      "license": "fair_use",
       "attribution": "C. C. Burr Pictures",
       "is_featured": "False"
     }

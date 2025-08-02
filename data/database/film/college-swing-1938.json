@@ -89,6 +89,19 @@
   },
   "media": [
     {
+      "id": 1789,
+      "media_type": "poster",
+      "title": "College Swing.jpg",
+      "caption": "Постер фильма \"Школа свинга\"",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/College_Swing.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/College_Swing.jpg/300px-College_Swing.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:College_Swing.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount",
+      "is_featured": "True"
+    },
+    {
       "id": 4593,
       "media_type": "poster",
       "title": "College Swing (1938) - Poster",
@@ -163,19 +176,6 @@
       "source": "TMDb",
       "source_url": "https://www.themoviedb.org/movie/130684",
       "license": "fair_use",
-      "attribution": "Paramount",
-      "is_featured": "False"
-    },
-    {
-      "id": 1789,
-      "media_type": "poster",
-      "title": "College Swing.jpg",
-      "caption": "Постер фильма \"Школа свинга\"",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/College_Swing.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/College_Swing.jpg/300px-College_Swing.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:College_Swing.jpg",
-      "license": "public_domain",
       "attribution": "Paramount",
       "is_featured": "False"
     }

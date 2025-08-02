@@ -46,19 +46,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 1326,
-      "media_type": "still",
-      "title": "Her Decision (1918) still 1.jpg",
-      "caption": "Gloria Swanson (left) and Ann Forrest (aka Ann Kroman) in Her Decision (1918) - publicity still.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Her_Decision_%281918%29_still_1.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Her_Decision_%281918%29_still_1.jpg/300px-Her_Decision_%281918%29_still_1.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Her_Decision_(1918)_still_1.jpg",
-      "license": "public_domain",
-      "attribution": "Triangle Film",
-      "is_featured": "False"
-    },
-    {
       "id": 1324,
       "media_type": "still",
       "title": "Her Decision (1918) - 2.jpg",
@@ -82,6 +69,19 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Her_Decision_(1918)_-_3.jpg",
       "license": "public_domain",
       "attribution": "Triangle Films Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 1326,
+      "media_type": "still",
+      "title": "Her Decision (1918) still 1.jpg",
+      "caption": "Gloria Swanson (left) and Ann Forrest (aka Ann Kroman) in Her Decision (1918) - publicity still.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Her_Decision_%281918%29_still_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Her_Decision_%281918%29_still_1.jpg/300px-Her_Decision_%281918%29_still_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Her_Decision_(1918)_still_1.jpg",
+      "license": "public_domain",
+      "attribution": "Triangle Film",
       "is_featured": "False"
     }
   ],

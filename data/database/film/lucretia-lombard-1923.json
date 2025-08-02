@@ -59,19 +59,6 @@
       "is_featured": "False"
     },
     {
-      "id": 4634,
-      "media_type": "still",
-      "title": "Lucretia Lombard (1923) - Still",
-      "caption": "Scene from Lucretia Lombard (1923)",
-      "url": "https://image.tmdb.org/t/p/original/rCRM9fHs3eatQrPw5cWtCmkepHa.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/rCRM9fHs3eatQrPw5cWtCmkepHa.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/228304",
-      "license": "fair_use",
-      "attribution": "Warner Bros",
-      "is_featured": "False"
-    },
-    {
       "id": 1843,
       "media_type": "poster",
       "title": "Lucretia Lombard 1923 poster.jpg",
@@ -82,6 +69,19 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Lucretia_Lombard_1923_poster.jpg",
       "license": "public_domain",
       "attribution": "Warner Bros.",
+      "is_featured": "True"
+    },
+    {
+      "id": 4634,
+      "media_type": "still",
+      "title": "Lucretia Lombard (1923) - Still",
+      "caption": "Scene from Lucretia Lombard (1923)",
+      "url": "https://image.tmdb.org/t/p/original/rCRM9fHs3eatQrPw5cWtCmkepHa.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/rCRM9fHs3eatQrPw5cWtCmkepHa.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/228304",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
       "is_featured": "False"
     },
     {

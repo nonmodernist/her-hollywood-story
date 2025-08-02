@@ -62,6 +62,19 @@
   },
   "media": [
     {
+      "id": 2253,
+      "media_type": "poster",
+      "title": "The Spotlight poster.jpg",
+      "caption": "Poster for The Spotlight",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/The_Spotlight_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/The_Spotlight_poster.jpg/300px-The_Spotlight_poster.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Spotlight_poster.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures (distributor)",
+      "is_featured": "True"
+    },
+    {
       "id": 5117,
       "media_type": "poster",
       "title": "The Spotlight (1927) - Poster",
@@ -72,19 +85,6 @@
       "source_url": "https://www.themoviedb.org/movie/451698",
       "license": "fair_use",
       "attribution": "Paramount",
-      "is_featured": "False"
-    },
-    {
-      "id": 2253,
-      "media_type": "poster",
-      "title": "The Spotlight poster.jpg",
-      "caption": "Poster for The Spotlight",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/The_Spotlight_poster.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/The_Spotlight_poster.jpg/300px-The_Spotlight_poster.jpg",
-      "source": "wikimedia",
-      "source_url": "https://commons.wikimedia.org/wiki/File:The_Spotlight_poster.jpg",
-      "license": "public_domain",
-      "attribution": "Paramount Pictures (distributor)",
       "is_featured": "False"
     }
   ],

@@ -59,19 +59,6 @@
       "is_featured": "False"
     },
     {
-      "id": 4841,
-      "media_type": "poster",
-      "title": "Tish (1942) - Poster",
-      "caption": "Theatrical poster for Tish (1942)",
-      "url": "https://image.tmdb.org/t/p/original/rtdRk5rJNbmnPCD58MGDoGGKKYx.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/rtdRk5rJNbmnPCD58MGDoGGKKYx.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/111335",
-      "license": "fair_use",
-      "attribution": "MGM",
-      "is_featured": "False"
-    },
-    {
       "id": 4842,
       "media_type": "still",
       "title": "Tish (1942) - Still",
@@ -85,29 +72,29 @@
       "is_featured": "False"
     },
     {
-      "id": 2068,
-      "media_type": "still",
-      "title": "Susan Peters - MGM publicity portrait by C. S. Bull.jpg",
-      "caption": "Portrait of Susan Peters promoting Tish, by Clarence Sinclair Bull.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Susan_Peters_-_MGM_publicity_portrait_by_C._S._Bull.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Susan_Peters_-_MGM_publicity_portrait_by_C._S._Bull.jpg/300px-Susan_Peters_-_MGM_publicity_portrait_by_C._S._Bull.jpg",
-      "source": "wikimedia",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Susan_Peters_-_MGM_publicity_portrait_by_C._S._Bull.jpg",
-      "license": "public_domain",
-      "attribution": "Clarence Sinclair Bull",
-      "is_featured": "False"
-    },
-    {
       "id": 2067,
       "media_type": "still",
       "title": "Susan Peters in Tish trailer.jpg",
       "caption": "Screenshot of Susan Peters from the trailer for the film Tish",
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Susan_Peters_in_Tish_trailer.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Susan_Peters_in_Tish_trailer.jpg/300px-Susan_Peters_in_Tish_trailer.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Susan_Peters_in_Tish_trailer.jpg",
       "license": "public_domain",
       "attribution": "Trailer screenshot",
+      "is_featured": "False"
+    },
+    {
+      "id": 2068,
+      "media_type": "still",
+      "title": "Susan Peters - MGM publicity portrait by C. S. Bull.jpg",
+      "caption": "Portrait of Susan Peters promoting Tish, by Clarence Sinclair Bull.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Susan_Peters_-_MGM_publicity_portrait_by_C._S._Bull.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Susan_Peters_-_MGM_publicity_portrait_by_C._S._Bull.jpg/300px-Susan_Peters_-_MGM_publicity_portrait_by_C._S._Bull.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Susan_Peters_-_MGM_publicity_portrait_by_C._S._Bull.jpg",
+      "license": "public_domain",
+      "attribution": "Clarence Sinclair Bull",
       "is_featured": "False"
     },
     {
@@ -117,7 +104,7 @@
       "caption": "Screenshot of ZaSu Pitts from the trailer for the film Tish",
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/ZaSu_Pitts_in_Tish_trailer.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/ZaSu_Pitts_in_Tish_trailer.jpg/300px-ZaSu_Pitts_in_Tish_trailer.jpg",
-      "source": "wikimedia",
+      "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:ZaSu_Pitts_in_Tish_trailer.jpg",
       "license": "public_domain",
       "attribution": "Trailer screenshot",
@@ -125,7 +112,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 6,
+  "media_count": 5,
   "has_narrative": false,
   "last_updated": "2025-08-01T17:13:47.831772"
 }

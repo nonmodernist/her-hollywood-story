@@ -72,19 +72,6 @@
       "is_featured": "False"
     },
     {
-      "id": 1304,
-      "media_type": "lobby_card",
-      "title": "Jazz Heaven lobby card.jpg",
-      "caption": "Lobby card for the 1929 film Jazz Heaven",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Jazz_Heaven_lobby_card.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jazz_Heaven_lobby_card.jpg/300px-Jazz_Heaven_lobby_card.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Jazz_Heaven_lobby_card.jpg",
-      "license": "public_domain",
-      "attribution": "RKO.",
-      "is_featured": "False"
-    },
-    {
       "id": 1305,
       "media_type": "production_photo",
       "title": "Jazz Heaven (SAYRE 14583).jpg",
@@ -95,6 +82,19 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Jazz_Heaven_(SAYRE_14583).jpg",
       "license": "public_domain",
       "attribution": "RKO",
+      "is_featured": "False"
+    },
+    {
+      "id": 1304,
+      "media_type": "lobby_card",
+      "title": "Jazz Heaven lobby card.jpg",
+      "caption": "Lobby card for the 1929 film Jazz Heaven",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Jazz_Heaven_lobby_card.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jazz_Heaven_lobby_card.jpg/300px-Jazz_Heaven_lobby_card.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jazz_Heaven_lobby_card.jpg",
+      "license": "public_domain",
+      "attribution": "RKO.",
       "is_featured": "False"
     }
   ],

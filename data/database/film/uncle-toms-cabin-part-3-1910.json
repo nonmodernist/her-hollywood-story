@@ -97,23 +97,9 @@
     "is_first": false,
     "is_latest": false
   },
-  "media": [
-    {
-      "id": 10,
-      "media_type": "other",
-      "title": "Uncle Toms Cabin 1910 Vitagraph.webm",
-      "caption": "Clip from Uncle Tom's Cabin (1910 Vitagraph film), featuring Matty Roubert in his debut at two years old",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Uncle_Toms_Cabin_1910_Vitagraph.webm",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Uncle_Toms_Cabin_1910_Vitagraph.webm/300px-Uncle_Toms_Cabin_1910_Vitagraph.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Uncle_Toms_Cabin_1910_Vitagraph.webm",
-      "license": "public_domain",
-      "attribution": "Vitagraph Studios",
-      "is_featured": "False"
-    }
-  ],
-  "has_media": true,
-  "media_count": 1,
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
   "has_narrative": false,
   "last_updated": "2025-07-31T20:55:34.163372"
 }

@@ -54,9 +54,9 @@
     },
     {
       "id": 3,
-      "slug": "uncle-toms-cabin-part-3-1910",
-      "title": "Uncle Tom's Cabin, Part 3",
-      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin, Part 3</span>",
+      "slug": "uncle-toms-cabin-parts-1-3-1910",
+      "title": "Uncle Tom's Cabin (Parts 1 - 3)",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin (Parts 1 - 3)</span>",
       "year": 1910,
       "directors": "Frederick Thomson",
       "studio": "Vitagraph"
@@ -98,19 +98,6 @@
   },
   "media": [
     {
-      "id": 2626,
-      "media_type": "poster",
-      "title": "Topsy and Eva (1927) - Poster",
-      "caption": "Theatrical poster for Topsy and Eva (1927)",
-      "url": "https://image.tmdb.org/t/p/original/pWVzrSt4LGRQldrlEGrTfXru5MC.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/pWVzrSt4LGRQldrlEGrTfXru5MC.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/189849",
-      "license": "fair_use",
-      "attribution": "Feature Productions",
-      "is_featured": "False"
-    },
-    {
       "id": 523,
       "media_type": "poster",
       "title": "Topsy and Eva poster.jpg",
@@ -122,6 +109,19 @@
       "license": "public_domain",
       "attribution": "United Artists (distributor)",
       "is_featured": "True"
+    },
+    {
+      "id": 2626,
+      "media_type": "poster",
+      "title": "Topsy and Eva (1927) - Poster",
+      "caption": "Theatrical poster for Topsy and Eva (1927)",
+      "url": "https://image.tmdb.org/t/p/original/pWVzrSt4LGRQldrlEGrTfXru5MC.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/pWVzrSt4LGRQldrlEGrTfXru5MC.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/189849",
+      "license": "fair_use",
+      "attribution": "Feature Productions",
+      "is_featured": "False"
     },
     {
       "id": 2627,

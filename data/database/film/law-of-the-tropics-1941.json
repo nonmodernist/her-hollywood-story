@@ -5,8 +5,8 @@
   "formatted_title": "Law of the Tropics",
   "html_title": "<span class=\"film-title\">Law of the Tropics</span>",
   "release_year": 1941,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 76,
+  "country_of_production": "United States",
   "genres": [
     "Romance"
   ],
@@ -16,7 +16,7 @@
   "directors": "Ray Enright",
   "writers": "Charles Grayson",
   "cast_members": "Constance Bennett|Jeffrey Lynn|Regis Toomey|Mona Maris|Hobart Bosworth|Frank Puglia|Thomas Jackson|Paul Harvey|Craig Stevens|Charles Judels",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 26780,
   "source_work": {
@@ -60,9 +60,62 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5652,
+      "media_type": "poster",
+      "title": "Law of the Tropics (1941) - Poster",
+      "caption": "Theatrical poster for Law of the Tropics (1941)",
+      "url": "https://image.tmdb.org/t/p/original/lSl1ukSmkVTy1kJfcr23UADi2oY.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/lSl1ukSmkVTy1kJfcr23UADi2oY.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/278483",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5653,
+      "media_type": "still",
+      "title": "Law of the Tropics (1941) - Still",
+      "caption": "Scene from Law of the Tropics (1941)",
+      "url": "https://image.tmdb.org/t/p/original/iFR70LD0d6gGi8O29A6XnEOFVxC.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/iFR70LD0d6gGi8O29A6XnEOFVxC.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/278483",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5654,
+      "media_type": "still",
+      "title": "Law of the Tropics (1941) - Still",
+      "caption": "Scene from Law of the Tropics (1941)",
+      "url": "https://image.tmdb.org/t/p/original/4IADKoP8lK4fHAlG0XrTtXvkSfb.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/4IADKoP8lK4fHAlG0XrTtXvkSfb.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/278483",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5655,
+      "media_type": "still",
+      "title": "Law of the Tropics (1941) - Still",
+      "caption": "Scene from Law of the Tropics (1941)",
+      "url": "https://image.tmdb.org/t/p/original/whxvsGQ3NscQzGhFDK7mN3yRkME.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/whxvsGQ3NscQzGhFDK7mN3yRkME.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/278483",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:29:09.933545"
 }

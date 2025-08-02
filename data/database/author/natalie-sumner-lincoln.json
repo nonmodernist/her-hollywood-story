@@ -19,6 +19,10 @@
       {
         "genre": "Drama",
         "count": 1
+      },
+      {
+        "genre": "Mystery",
+        "count": 1
       }
     ],
     "films_by_decade": {
@@ -39,9 +43,10 @@
       "studio": "Universal",
       "directors": "John G. Adolfi",
       "genres": [
-        "Drama"
+        "Drama",
+        "Mystery"
       ],
-      "has_media": false,
+      "has_media": true,
       "work_title": "The Man Inside",
       "work_html_title": "<span class=\"work-title\">The Man Inside</span>",
       "work_id": 662

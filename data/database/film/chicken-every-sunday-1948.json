@@ -5,8 +5,8 @@
   "formatted_title": "Chicken Every Sunday",
   "html_title": "<span class=\"film-title\">Chicken Every Sunday</span>",
   "release_year": 1948,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 94,
+  "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "George Seaton",
   "writers": "George Seaton|Valentine Davies",
   "cast_members": "Dan Dailey|Celeste Holm|Colleen Townsend|Alan Young|Natalie Wood|William Frawley|Connie Gilchrist|William Callahan|Veda Ann Borg|Porter Hall",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": "also based on the same named play, by Julius J. Epstein and Philip J. Epstein, which was derived from Taylor's novel",
   "afi_catalog_id": 25495,
   "source_work": {
@@ -60,9 +60,49 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5853,
+      "media_type": "poster",
+      "title": "Chicken Every Sunday (1948) - Poster",
+      "caption": "Theatrical poster for Chicken Every Sunday (1948)",
+      "url": "https://image.tmdb.org/t/p/original/hbuKpssunCDbof7LXp2MMmMRnNA.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/hbuKpssunCDbof7LXp2MMmMRnNA.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/199727",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5854,
+      "media_type": "poster",
+      "title": "Chicken Every Sunday (1948) - Poster",
+      "caption": "Theatrical poster for Chicken Every Sunday (1948)",
+      "url": "https://image.tmdb.org/t/p/original/frcwimSoKJwn4noTKIhPDL3baQw.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/frcwimSoKJwn4noTKIhPDL3baQw.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/199727",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5855,
+      "media_type": "still",
+      "title": "Chicken Every Sunday (1948) - Still",
+      "caption": "Scene from Chicken Every Sunday (1948)",
+      "url": "https://image.tmdb.org/t/p/original/dBCQoXY4JVKRhwyNEZnk2KLVsT3.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/dBCQoXY4JVKRhwyNEZnk2KLVsT3.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/199727",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:31:14.947065"
 }

@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
   "release_year": 1910,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Adventure",
     "Melodrama"
@@ -17,7 +17,7 @@
   "directors": "Barry O'Neil",
   "writers": null,
   "cast_members": "Anna Rosemond|Frank H. Crane|Marie Eline|Grace Eline",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 40640,
   "source_work": {
@@ -46,9 +46,9 @@
   "other_adaptations": [
     {
       "id": 3,
-      "slug": "uncle-toms-cabin-part-3-1910",
-      "title": "Uncle Tom's Cabin, Part 3",
-      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin, Part 3</span>",
+      "slug": "uncle-toms-cabin-parts-1-3-1910",
+      "title": "Uncle Tom's Cabin (Parts 1 - 3)",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin (Parts 1 - 3)</span>",
       "year": 1910,
       "directors": "Frederick Thomson",
       "studio": "Vitagraph"
@@ -128,5 +128,5 @@
   "has_media": true,
   "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:26:03.322987"
 }

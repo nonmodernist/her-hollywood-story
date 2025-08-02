@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">The Doctor and the Woman</span>",
   "release_year": 1918,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Lois Weber",
   "writers": "Lois Weber|Phillips Smalley",
   "cast_members": "Mildred Harris|True Boardman|Albert Roscoe|Zella Caull|Carl Miller",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 17523,
   "source_work": {
@@ -62,16 +62,42 @@
   },
   "media": [
     {
-      "id": 2059,
-      "media_type": "advertisement",
-      "title": "The Doctor and the Woman (1918) - 3.jpg",
-      "caption": "Advertisement for the American mystery film The Doctor and the Woman (1918) with Mildred Harris, on page 35 of the March 9, 1918 The Moving Picture Weekly.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/The_Doctor_and_the_Woman_%281918%29_-_3.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The_Doctor_and_the_Woman_%281918%29_-_3.jpg/300px-The_Doctor_and_the_Woman_%281918%29_-_3.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:The_Doctor_and_the_Woman_(1918)_-_3.jpg",
-      "license": "public_domain",
-      "attribution": "Universal Film Manufacturing Company",
+      "id": 5795,
+      "media_type": "poster",
+      "title": "The Doctor and the Woman (1918) - Poster",
+      "caption": "Theatrical poster for The Doctor and the Woman (1918)",
+      "url": "https://image.tmdb.org/t/p/original/iVUhoxhI0BmMyOgrG9MMIeMg0eh.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/iVUhoxhI0BmMyOgrG9MMIeMg0eh.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/611011",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5796,
+      "media_type": "poster",
+      "title": "The Doctor and the Woman (1918) - Poster",
+      "caption": "Theatrical poster for The Doctor and the Woman (1918)",
+      "url": "https://image.tmdb.org/t/p/original/xEFvZX8uL9hCkm5QQXpHtQKtYFR.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/xEFvZX8uL9hCkm5QQXpHtQKtYFR.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/611011",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5797,
+      "media_type": "poster",
+      "title": "The Doctor and the Woman (1918) - Poster",
+      "caption": "Theatrical poster for The Doctor and the Woman (1918)",
+      "url": "https://image.tmdb.org/t/p/original/rtKBRbASILJmfTPLkUPGHBosYD.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/rtKBRbASILJmfTPLkUPGHBosYD.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/611011",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
       "is_featured": "False"
     },
     {
@@ -85,6 +111,19 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:The_Doctor_and_the_Woman_(1918)_-_1.jpg",
       "license": "public_domain",
       "attribution": "Lois Weber Productions / Universal Film Manufacturing Company",
+      "is_featured": "False"
+    },
+    {
+      "id": 2059,
+      "media_type": "advertisement",
+      "title": "The Doctor and the Woman (1918) - 3.jpg",
+      "caption": "Advertisement for the American mystery film The Doctor and the Woman (1918) with Mildred Harris, on page 35 of the March 9, 1918 The Moving Picture Weekly.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/The_Doctor_and_the_Woman_%281918%29_-_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The_Doctor_and_the_Woman_%281918%29_-_3.jpg/300px-The_Doctor_and_the_Woman_%281918%29_-_3.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Doctor_and_the_Woman_(1918)_-_3.jpg",
+      "license": "public_domain",
+      "attribution": "Universal Film Manufacturing Company",
       "is_featured": "False"
     },
     {
@@ -102,7 +141,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 3,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:30:48.154477"
 }

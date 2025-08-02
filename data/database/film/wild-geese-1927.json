@@ -5,8 +5,8 @@
   "formatted_title": "Wild Geese",
   "html_title": "<span class=\"film-title\">Wild Geese</span>",
   "release_year": 1927,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 70,
+  "country_of_production": "United States",
   "genres": [
     "Melodrama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Phil Stone",
   "writers": "A. P. Younger",
   "cast_members": "Belle Bennett|Russell Simpson|Eve Southern|Donald Keith|Jason Robards|Anita Stewart|Wesley Barry|Rada Rae|Austin Jewel|Evelyn Selbie",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 1769,
   "source_work": {
@@ -60,9 +60,49 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5765,
+      "media_type": "poster",
+      "title": "Wild Geese (1927) - Poster",
+      "caption": "Theatrical poster for Wild Geese (1927)",
+      "url": "https://image.tmdb.org/t/p/original/lWuBm0ghvzURZiisRkRhGNtZlJK.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/lWuBm0ghvzURZiisRkRhGNtZlJK.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/645133",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5766,
+      "media_type": "poster",
+      "title": "Wild Geese (1927) - Poster",
+      "caption": "Theatrical poster for Wild Geese (1927)",
+      "url": "https://image.tmdb.org/t/p/original/ofSu2XFHUeaaTQMAelZjU8LYOm8.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ofSu2XFHUeaaTQMAelZjU8LYOm8.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/645133",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5767,
+      "media_type": "still",
+      "title": "Wild Geese (1927) - Still",
+      "caption": "Scene from Wild Geese (1927)",
+      "url": "https://image.tmdb.org/t/p/original/pNiFlPwvrZgICK2mzKRRIJ8bIrB.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/pNiFlPwvrZgICK2mzKRRIJ8bIrB.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/645133",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:30:21.046693"
 }

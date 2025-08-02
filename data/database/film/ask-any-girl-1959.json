@@ -5,8 +5,8 @@
   "formatted_title": "Ask Any Girl",
   "html_title": "<span class=\"film-title\">Ask Any Girl</span>",
   "release_year": 1959,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 98,
+  "country_of_production": "United States",
   "genres": [
     "Romantic comedy"
   ],
@@ -16,7 +16,7 @@
   "directors": "Charles Walters",
   "writers": "George Wells",
   "cast_members": "David Niven|Shirley MacLaine|Gig Young|Rod Taylor|Jim Backus|Claire Kelly|Elisabeth Fraser|Dody Heath|Read Morgan|Carmen Phillips",
-  "color_info": null,
+  "color_info": "color",
   "adaptation_notes": null,
   "afi_catalog_id": 52816,
   "source_work": {
@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5882,
+      "media_type": "poster",
+      "title": "Ask Any Girl (1959) - Poster",
+      "caption": "Theatrical poster for Ask Any Girl (1959)",
+      "url": "https://image.tmdb.org/t/p/original/qYkpzNrYFuF6JyZVZPAU5F1df6T.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/qYkpzNrYFuF6JyZVZPAU5F1df6T.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/76863",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5883,
+      "media_type": "poster",
+      "title": "Ask Any Girl (1959) - Poster",
+      "caption": "Theatrical poster for Ask Any Girl (1959)",
+      "url": "https://image.tmdb.org/t/p/original/sMNEkx33NOA1i49qEJi4Zrb2ZrQ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/sMNEkx33NOA1i49qEJi4Zrb2ZrQ.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/76863",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5884,
+      "media_type": "poster",
+      "title": "Ask Any Girl (1959) - Poster",
+      "caption": "Theatrical poster for Ask Any Girl (1959)",
+      "url": "https://image.tmdb.org/t/p/original/4UYFKGF30kirw6jodHCvipcWv4L.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/4UYFKGF30kirw6jodHCvipcWv4L.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/76863",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5885,
+      "media_type": "still",
+      "title": "Ask Any Girl (1959) - Still",
+      "caption": "Scene from Ask Any Girl (1959)",
+      "url": "https://image.tmdb.org/t/p/original/hYGYPxPg4VUOLTQx2tzHNlUTg8p.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/hYGYPxPg4VUOLTQx2tzHNlUTg8p.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/76863",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:31:34.753555"
 }

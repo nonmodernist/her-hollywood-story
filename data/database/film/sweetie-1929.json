@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Sweetie</span>",
   "release_year": 1929,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Musical"
   ],
@@ -16,7 +16,7 @@
   "directors": "Frank Tuttle",
   "writers": "George Marion Jr.|Lloyd Corrigan|George Marion Jr.|Lloyd Corrigan",
   "cast_members": "Nancy Carroll|Helen Kane|Stanley Smith|Jack Oakie|William Austin|Stuart Erwin|Wallace MacDonald|Charles Sellon|Aileen Manning",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": "This film is listed in 'Women Writers: From Page to Screen' but it is not credited as an adaptation in the AFI Catalog. The plot synopsis has enough shared elements with other credited adaptations of the source that we have chosen to include the film here. ",
   "afi_catalog_id": 12517,
   "source_work": {
@@ -87,9 +87,88 @@
     "is_first": false,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5735,
+      "media_type": "poster",
+      "title": "Sweetie (1929) - Poster",
+      "caption": "Theatrical poster for Sweetie (1929)",
+      "url": "https://image.tmdb.org/t/p/original/j2r7QBZNm57SQyGWjjQaeyJemmv.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/j2r7QBZNm57SQyGWjjQaeyJemmv.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/352692",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5736,
+      "media_type": "poster",
+      "title": "Sweetie (1929) - Poster",
+      "caption": "Theatrical poster for Sweetie (1929)",
+      "url": "https://image.tmdb.org/t/p/original/90I9MfvgJ8818Wi5cq3j05I6s2x.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/90I9MfvgJ8818Wi5cq3j05I6s2x.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/352692",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5737,
+      "media_type": "poster",
+      "title": "Sweetie (1929) - Poster",
+      "caption": "Theatrical poster for Sweetie (1929)",
+      "url": "https://image.tmdb.org/t/p/original/3JXEy8zslsMXo9vr6Gp9OzLzshb.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/3JXEy8zslsMXo9vr6Gp9OzLzshb.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/352692",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5738,
+      "media_type": "still",
+      "title": "Sweetie (1929) - Still",
+      "caption": "Scene from Sweetie (1929)",
+      "url": "https://image.tmdb.org/t/p/original/gDJemfQTcXNhU9rLzamavVhZxUr.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/gDJemfQTcXNhU9rLzamavVhZxUr.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/352692",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5739,
+      "media_type": "still",
+      "title": "Sweetie (1929) - Still",
+      "caption": "Scene from Sweetie (1929)",
+      "url": "https://image.tmdb.org/t/p/original/jNNdZ2NVc2ZUYHveA7ygJ3H3x2I.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/jNNdZ2NVc2ZUYHveA7ygJ3H3x2I.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/352692",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5740,
+      "media_type": "still",
+      "title": "Sweetie (1929) - Still",
+      "caption": "Scene from Sweetie (1929)",
+      "url": "https://image.tmdb.org/t/p/original/gdogQtjiRQNE8s2fgU06kK7vnQO.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/gdogQtjiRQNE8s2fgU06kK7vnQO.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/352692",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-25T00:42:47.848557"
+  "last_updated": "2025-08-02T14:30:02.532931"
 }

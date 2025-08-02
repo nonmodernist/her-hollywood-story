@@ -5,8 +5,8 @@
   "formatted_title": "You Never Can Tell",
   "html_title": "<span class=\"film-title\">You Never Can Tell</span>",
   "release_year": 1920,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 50,
+  "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Chester M. Franklin",
   "writers": "Tom Geraghty|Helmer Walton Bergman",
   "cast_members": "Bebe Daniels Lyon|Jack Mulhall|Edward Martindel|Helen Dunbar|Harold Goodwin|Neely Edwards|Leo White|Milla Davenport|Graham Pettie|Gertrude Short",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": "also based on the story \"Class\" by Bryan",
   "afi_catalog_id": 18144,
   "source_work": {
@@ -46,29 +46,29 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 1012,
-      "media_type": "still",
-      "title": "You Never Can Tell (1920) - 4.jpg",
-      "caption": "Still from the American comedy film You Never Can Tell (1920) with Bebe Daniels, on page 9 of the October 23, 1920 The Duluth Herald.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/You_Never_Can_Tell_%281920%29_-_4.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/You_Never_Can_Tell_%281920%29_-_4.jpg/300px-You_Never_Can_Tell_%281920%29_-_4.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:You_Never_Can_Tell_(1920)_-_4.jpg",
-      "license": "public_domain",
-      "attribution": "Realart Pictures Corporation",
+      "id": 5543,
+      "media_type": "poster",
+      "title": "You Never Can Tell (1920) - Poster",
+      "caption": "Theatrical poster for You Never Can Tell (1920)",
+      "url": "https://image.tmdb.org/t/p/original/m5SsrrM5T8Y4y4pfEQLL2pewUWs.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/m5SsrrM5T8Y4y4pfEQLL2pewUWs.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/665955",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
       "is_featured": "False"
     },
     {
-      "id": 1015,
-      "media_type": "advertisement",
-      "title": "You Never Can Tell (1920) - 1.jpg",
-      "caption": "Advertisement promoting Bebe Daniels in her first Realart film, the American comedy film You Never Can Tell (1920), from the insert after page 2 of the June 5, 1920 Exhibitors Herald.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/You_Never_Can_Tell_%281920%29_-_1.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/You_Never_Can_Tell_%281920%29_-_1.jpg/300px-You_Never_Can_Tell_%281920%29_-_1.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:You_Never_Can_Tell_(1920)_-_1.jpg",
-      "license": "public_domain",
-      "attribution": "Realart Pictures Corporation",
+      "id": 5544,
+      "media_type": "still",
+      "title": "You Never Can Tell (1920) - Still",
+      "caption": "Scene from You Never Can Tell (1920)",
+      "url": "https://image.tmdb.org/t/p/original/h8fMGDdheyqw4gdhXwFkuEE0jM1.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/h8fMGDdheyqw4gdhXwFkuEE0jM1.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/665955",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
       "is_featured": "False"
     },
     {
@@ -148,10 +148,36 @@
       "license": "public_domain",
       "attribution": "Realart Pictures Corporation",
       "is_featured": "False"
+    },
+    {
+      "id": 1012,
+      "media_type": "still",
+      "title": "You Never Can Tell (1920) - 4.jpg",
+      "caption": "Still from the American comedy film You Never Can Tell (1920) with Bebe Daniels, on page 9 of the October 23, 1920 The Duluth Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/You_Never_Can_Tell_%281920%29_-_4.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/You_Never_Can_Tell_%281920%29_-_4.jpg/300px-You_Never_Can_Tell_%281920%29_-_4.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:You_Never_Can_Tell_(1920)_-_4.jpg",
+      "license": "public_domain",
+      "attribution": "Realart Pictures Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 1015,
+      "media_type": "advertisement",
+      "title": "You Never Can Tell (1920) - 1.jpg",
+      "caption": "Advertisement promoting Bebe Daniels in her first Realart film, the American comedy film You Never Can Tell (1920), from the insert after page 2 of the June 5, 1920 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/You_Never_Can_Tell_%281920%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/You_Never_Can_Tell_%281920%29_-_1.jpg/300px-You_Never_Can_Tell_%281920%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:You_Never_Can_Tell_(1920)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Realart Pictures Corporation",
+      "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 8,
+  "media_count": 10,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:28:10.228599"
 }

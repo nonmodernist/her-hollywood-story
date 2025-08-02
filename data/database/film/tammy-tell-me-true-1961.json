@@ -5,8 +5,8 @@
   "formatted_title": "Tammy Tell Me True",
   "html_title": "<span class=\"film-title\">Tammy Tell Me True</span>",
   "release_year": 1961,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 97,
+  "country_of_production": "United States",
   "genres": [
     "Romantic comedy"
   ],
@@ -16,7 +16,7 @@
   "directors": "Harry Keller",
   "writers": "Oscar Brodney",
   "cast_members": "Sandra Dee|John Gavin|Charles Drake|Virginia Grey|Julia Meade|Beulah Bondi|Cecil Kellaway|Edgar Buchanan|Gigi Perreau|Juanita Moore",
-  "color_info": null,
+  "color_info": "color",
   "adaptation_notes": null,
   "afi_catalog_id": 23830,
   "source_work": {
@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5849,
+      "media_type": "poster",
+      "title": "Tammy Tell Me True (1961) - Poster",
+      "caption": "Theatrical poster for Tammy Tell Me True (1961)",
+      "url": "https://image.tmdb.org/t/p/original/hIaB8iEreN7FVYxkwgpt13y8ZWe.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/hIaB8iEreN7FVYxkwgpt13y8ZWe.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/62392",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5850,
+      "media_type": "poster",
+      "title": "Tammy Tell Me True (1961) - Poster",
+      "caption": "Theatrical poster for Tammy Tell Me True (1961)",
+      "url": "https://image.tmdb.org/t/p/original/zFbfSNoC3I1HUL0RdONEpFBs8Hp.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/zFbfSNoC3I1HUL0RdONEpFBs8Hp.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/62392",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5851,
+      "media_type": "still",
+      "title": "Tammy Tell Me True (1961) - Still",
+      "caption": "Scene from Tammy Tell Me True (1961)",
+      "url": "https://image.tmdb.org/t/p/original/pfkEgaKfBtvFPdX9H7x1QO0yZ1k.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/pfkEgaKfBtvFPdX9H7x1QO0yZ1k.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/62392",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5852,
+      "media_type": "still",
+      "title": "Tammy Tell Me True (1961) - Still",
+      "caption": "Scene from Tammy Tell Me True (1961)",
+      "url": "https://image.tmdb.org/t/p/original/xHUltdeik3Er7zjdvkdt3DlwIJB.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/xHUltdeik3Er7zjdvkdt3DlwIJB.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/62392",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:31:13.782619"
 }

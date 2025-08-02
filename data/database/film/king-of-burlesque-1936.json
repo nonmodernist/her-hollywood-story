@@ -5,8 +5,8 @@
   "formatted_title": "King of Burlesque",
   "html_title": "<span class=\"film-title\">King of Burlesque</span>",
   "release_year": 1936,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 90,
+  "country_of_production": "United States",
   "genres": [
     "Musical comedy"
   ],
@@ -16,7 +16,7 @@
   "directors": "Sidney Lanfield",
   "writers": "Gene Markey|Harry Tugend|Viña Delmar|James Seymour",
   "cast_members": "Warner Baxter|Alice Faye|Jack Oakie|Mona Barrie|Arline Judge|Dixie Dunbar|Gregory Ratoff|Herbert Mundin|Fats Waller|Nick Long Jr.",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 4974,
   "source_work": {
@@ -62,6 +62,71 @@
   },
   "media": [
     {
+      "id": 5600,
+      "media_type": "poster",
+      "title": "King of Burlesque (1936) - Poster",
+      "caption": "Theatrical poster for King of Burlesque (1936)",
+      "url": "https://image.tmdb.org/t/p/original/5qdGozrcDe6P2QcB4ff4yaqEFk8.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/5qdGozrcDe6P2QcB4ff4yaqEFk8.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/218404",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5601,
+      "media_type": "poster",
+      "title": "King of Burlesque (1936) - Poster",
+      "caption": "Theatrical poster for King of Burlesque (1936)",
+      "url": "https://image.tmdb.org/t/p/original/xQrY234ET17BDSd8Y8OgHu259nW.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/xQrY234ET17BDSd8Y8OgHu259nW.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/218404",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5602,
+      "media_type": "still",
+      "title": "King of Burlesque (1936) - Still",
+      "caption": "Scene from King of Burlesque (1936)",
+      "url": "https://image.tmdb.org/t/p/original/to2rtJAgi5OUjxv43QGByKAW2Kz.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/to2rtJAgi5OUjxv43QGByKAW2Kz.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/218404",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5603,
+      "media_type": "still",
+      "title": "King of Burlesque (1936) - Still",
+      "caption": "Scene from King of Burlesque (1936)",
+      "url": "https://image.tmdb.org/t/p/original/eVXveWz9Zcck6ihEKY669oW6ONc.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/eVXveWz9Zcck6ihEKY669oW6ONc.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/218404",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5604,
+      "media_type": "still",
+      "title": "King of Burlesque (1936) - Still",
+      "caption": "Scene from King of Burlesque (1936)",
+      "url": "https://image.tmdb.org/t/p/original/hteRck5HjL2nuQmLbwVTOdbAFFp.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/hteRck5HjL2nuQmLbwVTOdbAFFp.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/218404",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 1216,
       "media_type": "still",
       "title": "Baxter Faye Judge Oakie Burlesque.jpg",
@@ -76,7 +141,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:28:44.082347"
 }

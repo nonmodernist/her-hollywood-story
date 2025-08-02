@@ -48,9 +48,9 @@
     },
     {
       "id": 3,
-      "slug": "uncle-toms-cabin-part-3-1910",
-      "title": "Uncle Tom's Cabin, Part 3",
-      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin, Part 3</span>",
+      "slug": "uncle-toms-cabin-parts-1-3-1910",
+      "title": "Uncle Tom's Cabin (Parts 1 - 3)",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin (Parts 1 - 3)</span>",
       "year": 1910,
       "studio": "Vitagraph",
       "directors": "Frederick Thomson",
@@ -58,7 +58,7 @@
         "Adventure",
         "Musical"
       ],
-      "has_media": false,
+      "has_media": true,
       "years_after_publication": 58
     },
     {
@@ -72,7 +72,7 @@
       "genres": [
         "Melodrama"
       ],
-      "has_media": false,
+      "has_media": true,
       "years_after_publication": 61
     },
     {

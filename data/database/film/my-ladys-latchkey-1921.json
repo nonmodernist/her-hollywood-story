@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">My Lady's Latchkey</span>",
   "release_year": 1921,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Melodrama",
     "Mystery"
@@ -17,7 +17,7 @@
   "directors": "Edwin Carewe",
   "writers": "Finis Fox",
   "cast_members": "Katherine MacDonald|Edmund Lowe|Claire DuBrey|Howard Gaye|Lenore Lynard|Thomas Jefferson|Helena Phillips Evans",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 10892,
   "source_work": {
@@ -46,6 +46,32 @@
   "other_adaptations": [],
   "adaptation_context": null,
   "media": [
+    {
+      "id": 5321,
+      "media_type": "poster",
+      "title": "My Lady's Latchkey (1921) - Poster",
+      "caption": "Theatrical poster for My Lady's Latchkey (1921)",
+      "url": "https://image.tmdb.org/t/p/original/9M2A5rSkIqC96PNvV9HyENECEX4.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/9M2A5rSkIqC96PNvV9HyENECEX4.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/948061",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5322,
+      "media_type": "still",
+      "title": "My Lady's Latchkey (1921) - Still",
+      "caption": "Scene from My Lady's Latchkey (1921)",
+      "url": "https://image.tmdb.org/t/p/original/f8VBwO3MV2MyhuZOAyrxd7sTK7e.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/f8VBwO3MV2MyhuZOAyrxd7sTK7e.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/948061",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
     {
       "id": 245,
       "media_type": "advertisement",
@@ -178,7 +204,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 10,
+  "media_count": 12,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:26:30.811103"
 }

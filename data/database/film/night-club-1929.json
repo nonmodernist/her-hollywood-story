@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Night Club</span>",
   "release_year": 1929,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Musical"
   ],
@@ -16,7 +16,7 @@
   "directors": "Robert Florey",
   "writers": null,
   "cast_members": "Donald Ogden Stewart|Pat Rooney|Pat Rooney Jr.|Fannie Brice|Ann Pennington|Tamara Geva|Bobbie Arnst|Minnie Dupree|Marion Bent|Jimmie Carr and His Silver Slipper Orchestra",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 67038,
   "source_work": {
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5540,
+      "media_type": "poster",
+      "title": "Night Club (1929) - Poster",
+      "caption": "Theatrical poster for Night Club (1929)",
+      "url": "https://image.tmdb.org/t/p/original/4Ja7XE56FSKKykl53Uupg3g6bzz.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/4Ja7XE56FSKKykl53Uupg3g6bzz.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/452407",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5541,
+      "media_type": "poster",
+      "title": "Night Club (1929) - Poster",
+      "caption": "Theatrical poster for Night Club (1929)",
+      "url": "https://image.tmdb.org/t/p/original/jTpVIQ65mW9WKp3uGd7YlCp0Jt7.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/jTpVIQ65mW9WKp3uGd7YlCp0Jt7.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/452407",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5542,
+      "media_type": "still",
+      "title": "Night Club (1929) - Still",
+      "caption": "Scene from Night Club (1929)",
+      "url": "https://image.tmdb.org/t/p/original/zoSZL8Mf2dAU4wEX9EVcOrE3FFZ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/zoSZL8Mf2dAU4wEX9EVcOrE3FFZ.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/452407",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:28:09.049534"
 }

@@ -5,8 +5,8 @@
   "formatted_title": "The Stolen Kiss",
   "html_title": "<span class=\"film-title\">The Stolen Kiss</span>",
   "release_year": 1920,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 50,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Kenneth Webb",
   "writers": "Kathryne Stuart",
   "cast_members": "Constance Binney|Rod La Rocque|George Backus|Bradley Barker|Robert Schable|Frank Losee|Richard Carlyle|Edyna Davies|Ada Nevil|Agnes Everett",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 17971,
   "source_work": {
@@ -45,6 +45,19 @@
   "other_adaptations": [],
   "adaptation_context": null,
   "media": [
+    {
+      "id": 5857,
+      "media_type": "poster",
+      "title": "The Stolen Kiss (1920) - Poster",
+      "caption": "Theatrical poster for The Stolen Kiss (1920)",
+      "url": "https://image.tmdb.org/t/p/original/ws9zLIwbphOlHv47ilE1vYmay5k.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ws9zLIwbphOlHv47ilE1vYmay5k.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/873005",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
     {
       "id": 2211,
       "media_type": "still",
@@ -177,7 +190,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 10,
+  "media_count": 11,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:31:21.970621"
 }

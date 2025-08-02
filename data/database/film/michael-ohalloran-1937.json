@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Michael O'Halloran</span>",
   "release_year": 1937,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Melodrama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Karl Brown",
   "writers": "Adele Buffington",
   "cast_members": "Wynne Gibson|Warren Hull|Jackie Moran|Charlene Wyatt|Sidney Blackmer|Irene Manning|G. P. Huntley Jr.|Robert Greig|Helen Lowell|Vera Gordon",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 8001,
   "source_work": {
@@ -69,9 +69,36 @@
     "is_first": false,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5392,
+      "media_type": "poster",
+      "title": "Michael O'Halloran (1937) - Poster",
+      "caption": "Theatrical poster for Michael O'Halloran (1937)",
+      "url": "https://image.tmdb.org/t/p/original/kjNUO8WOffQSVf9nWHAivGKuTnt.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kjNUO8WOffQSVf9nWHAivGKuTnt.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/477161",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5393,
+      "media_type": "still",
+      "title": "Michael O'Halloran (1937) - Still",
+      "caption": "Scene from Michael O'Halloran (1937)",
+      "url": "https://image.tmdb.org/t/p/original/s0tenZsSQFkQIrC84uDE4xHZxWC.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/s0tenZsSQFkQIrC84uDE4xHZxWC.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/477161",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:27:23.374061"
 }

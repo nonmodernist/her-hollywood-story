@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Mind Over Motor</span>",
   "release_year": 1923,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Ward Lascelle",
   "writers": "H. Landers Jackson",
   "cast_members": "Trixie Friganza|Ralph Graves|Clara Horton|Lucy Handforth|Caroline \"Spike\" Rankin|Grace Gordon|Pietro Sosso|George Guyton|Mrs. Lee|Larry Steers",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 10793,
   "source_work": {
@@ -44,9 +44,23 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5798,
+      "media_type": "poster",
+      "title": "Mind Over Motor (1923) - Poster",
+      "caption": "Theatrical poster for Mind Over Motor (1923)",
+      "url": "https://image.tmdb.org/t/p/original/xKYkY1o2Qmlra97NVuXGnI8jWzY.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/xKYkY1o2Qmlra97NVuXGnI8jWzY.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/1421275",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:30:49.337592"
 }

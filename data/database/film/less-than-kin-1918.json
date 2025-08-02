@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Less Than Kin</span>",
   "release_year": 1918,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Comedy"
   ],
@@ -16,7 +16,7 @@
   "directors": "Donald Crisp",
   "writers": "Marion Fairfax",
   "cast_members": "Wallace Reid|Ann Little|Raymond Hatton|Noah Beery|James Neill|Charles Ogle|Jane Wolfe|James Cruze|Guy Oliver|Calvert Carter",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 17188,
   "source_work": {
@@ -46,6 +46,32 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 5306,
+      "media_type": "poster",
+      "title": "Less Than Kin (1918) - Poster",
+      "caption": "Theatrical poster for Less Than Kin (1918)",
+      "url": "https://image.tmdb.org/t/p/original/12IwHkv6pgiArp93zGwL7K0GaU8.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/12IwHkv6pgiArp93zGwL7K0GaU8.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/944165",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5307,
+      "media_type": "still",
+      "title": "Less Than Kin (1918) - Still",
+      "caption": "Scene from Less Than Kin (1918)",
+      "url": "https://image.tmdb.org/t/p/original/2vVSsGAkXTptN5P6gn02OZ0XlNv.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/2vVSsGAkXTptN5P6gn02OZ0XlNv.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/944165",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 74,
       "media_type": "advertisement",
       "title": "Less Than Kin 1919 newspaper.jpg",
@@ -60,7 +86,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:26:13.802151"
 }

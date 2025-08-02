@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Singed Wings</span>",
   "release_year": 1922,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Melodrama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Penrhyn Stanlaws",
   "writers": "Ewart Adamson|Edfrid A. Bingham",
   "cast_members": "Bebe Daniels Lyon|Conrad Nagel|Adolphe Menjou|Robert Brower|Ernest Torrence|Mabel Trunnelle",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 12144,
   "source_work": {
@@ -45,6 +45,45 @@
   "other_adaptations": [],
   "adaptation_context": null,
   "media": [
+    {
+      "id": 5323,
+      "media_type": "poster",
+      "title": "Singed Wings (1922) - Poster",
+      "caption": "Theatrical poster for Singed Wings (1922)",
+      "url": "https://image.tmdb.org/t/p/original/aQHTLCfXmzdZJfjjRSucZ3RZFvr.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/aQHTLCfXmzdZJfjjRSucZ3RZFvr.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/527995",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5324,
+      "media_type": "still",
+      "title": "Singed Wings (1922) - Still",
+      "caption": "Scene from Singed Wings (1922)",
+      "url": "https://image.tmdb.org/t/p/original/guRDsVmmJAHRTB33G5GL9V8SaRJ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/guRDsVmmJAHRTB33G5GL9V8SaRJ.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/527995",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5325,
+      "media_type": "still",
+      "title": "Singed Wings (1922) - Still",
+      "caption": "Scene from Singed Wings (1922)",
+      "url": "https://image.tmdb.org/t/p/original/2kCPzqynQKxqVPP5eB3bZZyrdHV.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/2kCPzqynQKxqVPP5eB3bZZyrdHV.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/527995",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
     {
       "id": 314,
       "media_type": "advertisement",
@@ -151,7 +190,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 8,
+  "media_count": 11,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:26:33.115454"
 }

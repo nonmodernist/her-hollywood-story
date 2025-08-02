@@ -5,8 +5,8 @@
   "formatted_title": "Back Street",
   "html_title": "<span class=\"film-title\">Back Street</span>",
   "release_year": 1941,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 89,
+  "country_of_production": "United States",
   "genres": [
     "Melodrama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Robert Stevenson",
   "writers": "Bruce Manning|Felix Jackson",
   "cast_members": "Charles Boyer|Margaret Sullavan|Richard Carlson|Frank McHugh|Tim Holt|Frank Jenks|Esther Dale|Samuel S. Hinds|Peggy Stewart|Nell O'Day",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 26603,
   "source_work": {
@@ -78,9 +78,114 @@
     "is_first": false,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5411,
+      "media_type": "poster",
+      "title": "Back Street (1941) - Poster",
+      "caption": "Theatrical poster for Back Street (1941)",
+      "url": "https://image.tmdb.org/t/p/original/o2WC0pmtQCVrrYhhm8rrlGSXAcW.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/o2WC0pmtQCVrrYhhm8rrlGSXAcW.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/109016",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5412,
+      "media_type": "poster",
+      "title": "Back Street (1941) - Poster",
+      "caption": "Theatrical poster for Back Street (1941)",
+      "url": "https://image.tmdb.org/t/p/original/pqV9pFzxmrUpCYyM0ytG60Kzhl9.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/pqV9pFzxmrUpCYyM0ytG60Kzhl9.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/109016",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5413,
+      "media_type": "poster",
+      "title": "Back Street (1941) - Poster",
+      "caption": "Theatrical poster for Back Street (1941)",
+      "url": "https://image.tmdb.org/t/p/original/aDNd2TYfq6ErDahL4nv57IsKUZr.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/aDNd2TYfq6ErDahL4nv57IsKUZr.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/109016",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5414,
+      "media_type": "poster",
+      "title": "Back Street (1941) - Poster",
+      "caption": "Theatrical poster for Back Street (1941)",
+      "url": "https://image.tmdb.org/t/p/original/tJbHM4U5Uk9c9CwDOEiOKjXXPqE.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/tJbHM4U5Uk9c9CwDOEiOKjXXPqE.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/109016",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5415,
+      "media_type": "poster",
+      "title": "Back Street (1941) - Poster",
+      "caption": "Theatrical poster for Back Street (1941)",
+      "url": "https://image.tmdb.org/t/p/original/wGgQfM26ID1TSSaCBxoDbSIBTvX.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/wGgQfM26ID1TSSaCBxoDbSIBTvX.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/109016",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5416,
+      "media_type": "still",
+      "title": "Back Street (1941) - Still",
+      "caption": "Scene from Back Street (1941)",
+      "url": "https://image.tmdb.org/t/p/original/wd0NfLeHOM27x17eOVTnVUIwfA0.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/wd0NfLeHOM27x17eOVTnVUIwfA0.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/109016",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5417,
+      "media_type": "still",
+      "title": "Back Street (1941) - Still",
+      "caption": "Scene from Back Street (1941)",
+      "url": "https://image.tmdb.org/t/p/original/ikgDDW0MNOhxgAEo7QEnlBs5lJX.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/ikgDDW0MNOhxgAEo7QEnlBs5lJX.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/109016",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5418,
+      "media_type": "still",
+      "title": "Back Street (1941) - Still",
+      "caption": "Scene from Back Street (1941)",
+      "url": "https://image.tmdb.org/t/p/original/70JXb3fHAnWfo3enwPsdXhVkNdK.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/70JXb3fHAnWfo3enwPsdXhVkNdK.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/109016",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 8,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:27:29.196521"
 }

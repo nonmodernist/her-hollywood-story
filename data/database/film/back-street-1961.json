@@ -5,8 +5,8 @@
   "formatted_title": "Back Street",
   "html_title": "<span class=\"film-title\">Back Street</span>",
   "release_year": 1961,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 107,
+  "country_of_production": "United States",
   "genres": [
     "Romance"
   ],
@@ -16,7 +16,7 @@
   "directors": "David Miller",
   "writers": "Eleanore Griffin|William Ludwig",
   "cast_members": "Susan Hayward|John Gavin|Vera Miles|Charles Drake|Virginia Grey|Reginald Gardiner|Tammy Marihugh|Robert Eyer|Natalie Schafer|Doreen McLean",
-  "color_info": null,
+  "color_info": "color",
   "adaptation_notes": null,
   "afi_catalog_id": 22474,
   "source_work": {
@@ -78,9 +78,114 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5489,
+      "media_type": "poster",
+      "title": "Back Street (1961) - Poster",
+      "caption": "Theatrical poster for Back Street (1961)",
+      "url": "https://image.tmdb.org/t/p/original/xTxEV8GW0ucigMVzps6tGUwBWDB.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/xTxEV8GW0ucigMVzps6tGUwBWDB.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/43017",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5490,
+      "media_type": "poster",
+      "title": "Back Street (1961) - Poster",
+      "caption": "Theatrical poster for Back Street (1961)",
+      "url": "https://image.tmdb.org/t/p/original/lILxmYTDGiWTbUf39jxImxRuDAm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/lILxmYTDGiWTbUf39jxImxRuDAm.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/43017",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5491,
+      "media_type": "poster",
+      "title": "Back Street (1961) - Poster",
+      "caption": "Theatrical poster for Back Street (1961)",
+      "url": "https://image.tmdb.org/t/p/original/rxEFZRdGiIFtNP9VClfW3NWgAeH.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/rxEFZRdGiIFtNP9VClfW3NWgAeH.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/43017",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5492,
+      "media_type": "poster",
+      "title": "Back Street (1961) - Poster",
+      "caption": "Theatrical poster for Back Street (1961)",
+      "url": "https://image.tmdb.org/t/p/original/oznJHdRp0iTDmm2tKzOBG93rH8w.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/oznJHdRp0iTDmm2tKzOBG93rH8w.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/43017",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5493,
+      "media_type": "poster",
+      "title": "Back Street (1961) - Poster",
+      "caption": "Theatrical poster for Back Street (1961)",
+      "url": "https://image.tmdb.org/t/p/original/qMrDp3xTAbqnSkzVvgOKzcNlfaj.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/qMrDp3xTAbqnSkzVvgOKzcNlfaj.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/43017",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5494,
+      "media_type": "still",
+      "title": "Back Street (1961) - Still",
+      "caption": "Scene from Back Street (1961)",
+      "url": "https://image.tmdb.org/t/p/original/4vRCp0dS5q4fHit9ju05VyZvst8.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/4vRCp0dS5q4fHit9ju05VyZvst8.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/43017",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5495,
+      "media_type": "still",
+      "title": "Back Street (1961) - Still",
+      "caption": "Scene from Back Street (1961)",
+      "url": "https://image.tmdb.org/t/p/original/2iVOZegXhkuYpzy5Q96k9x5LtcD.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/2iVOZegXhkuYpzy5Q96k9x5LtcD.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/43017",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5496,
+      "media_type": "still",
+      "title": "Back Street (1961) - Still",
+      "caption": "Scene from Back Street (1961)",
+      "url": "https://image.tmdb.org/t/p/original/bQhb7TJSsxu5K3NlNc6aSSJ5L33.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/bQhb7TJSsxu5K3NlNc6aSSJ5L33.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/43017",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 8,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:27:46.781343"
 }

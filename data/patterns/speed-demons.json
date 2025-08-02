@@ -7495,41 +7495,6 @@
     },
     {
       "work": {
-        "id": 400,
-        "slug": "the-enemy",
-        "title": "The Enemy",
-        "formatted_title": "The Enemy",
-        "html_title": "<span class=\"work-title\">The Enemy</span>",
-        "work_type": "novel",
-        "genre": null,
-        "publication_year": 1915
-      },
-      "author": {
-        "id": 168,
-        "slug": "lillian-chester",
-        "name": "Lillian Chester"
-      },
-      "firstAdaptation": {
-        "id": 468,
-        "slug": "the-enemy-1916",
-        "title": "The Enemy",
-        "html_title": "<span class=\"film-title\">The Enemy</span>",
-        "year": 1916,
-        "studio": "Vitagraph",
-        "directors": "Paul Scardon"
-      },
-      "speed": {
-        "delay": 1,
-        "delayMonths": "1 year",
-        "isZeroDelay": false
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1916
-      }
-    },
-    {
-      "work": {
         "id": 266,
         "slug": "the-enemy",
         "title": "The Enemy",
@@ -7561,6 +7526,41 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1952
+      }
+    },
+    {
+      "work": {
+        "id": 400,
+        "slug": "the-enemy",
+        "title": "The Enemy",
+        "formatted_title": "The Enemy",
+        "html_title": "<span class=\"work-title\">The Enemy</span>",
+        "work_type": "novel",
+        "genre": null,
+        "publication_year": 1915
+      },
+      "author": {
+        "id": 168,
+        "slug": "lillian-chester",
+        "name": "Lillian Chester"
+      },
+      "firstAdaptation": {
+        "id": 468,
+        "slug": "the-enemy-1916",
+        "title": "The Enemy",
+        "html_title": "<span class=\"film-title\">The Enemy</span>",
+        "year": 1916,
+        "studio": "Vitagraph",
+        "directors": "Paul Scardon"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1916
       }
     },
     {
@@ -16846,41 +16846,6 @@
         },
         {
           "work": {
-            "id": 400,
-            "slug": "the-enemy",
-            "title": "The Enemy",
-            "formatted_title": "The Enemy",
-            "html_title": "<span class=\"work-title\">The Enemy</span>",
-            "work_type": "novel",
-            "genre": null,
-            "publication_year": 1915
-          },
-          "author": {
-            "id": 168,
-            "slug": "lillian-chester",
-            "name": "Lillian Chester"
-          },
-          "firstAdaptation": {
-            "id": 468,
-            "slug": "the-enemy-1916",
-            "title": "The Enemy",
-            "html_title": "<span class=\"film-title\">The Enemy</span>",
-            "year": 1916,
-            "studio": "Vitagraph",
-            "directors": "Paul Scardon"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1916
-          }
-        },
-        {
-          "work": {
             "id": 266,
             "slug": "the-enemy",
             "title": "The Enemy",
@@ -16912,6 +16877,41 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1952
+          }
+        },
+        {
+          "work": {
+            "id": 400,
+            "slug": "the-enemy",
+            "title": "The Enemy",
+            "formatted_title": "The Enemy",
+            "html_title": "<span class=\"work-title\">The Enemy</span>",
+            "work_type": "novel",
+            "genre": null,
+            "publication_year": 1915
+          },
+          "author": {
+            "id": 168,
+            "slug": "lillian-chester",
+            "name": "Lillian Chester"
+          },
+          "firstAdaptation": {
+            "id": 468,
+            "slug": "the-enemy-1916",
+            "title": "The Enemy",
+            "html_title": "<span class=\"film-title\">The Enemy</span>",
+            "year": 1916,
+            "studio": "Vitagraph",
+            "directors": "Paul Scardon"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1916
           }
         },
         {
@@ -28172,7 +28172,7 @@
     "peakDecade": "1920"
   },
   "metadata": {
-    "generated": "2025-08-01T20:13:48.172Z",
+    "generated": "2025-08-02T14:48:24.517Z",
     "version": "2.0"
   }
 }

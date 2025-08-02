@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">As the Earth Turns</span>",
   "release_year": 1934,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Alfred Green",
   "writers": "Ernest Pascal",
   "cast_members": "Jean Muir|Donald Woods|Russell Hardie|Emily Lowry|Arthur Hohl|Dorothy Peterson|David Landau|Clara Blandick|William Janney|Dorothy Appleby",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 861,
   "source_work": {
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5551,
+      "media_type": "poster",
+      "title": "As the Earth Turns (1934) - Poster",
+      "caption": "Theatrical poster for As the Earth Turns (1934)",
+      "url": "https://image.tmdb.org/t/p/original/iAf302zXuNh5dDph5aHcnFjBMWO.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/iAf302zXuNh5dDph5aHcnFjBMWO.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/179139",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5552,
+      "media_type": "poster",
+      "title": "As the Earth Turns (1934) - Poster",
+      "caption": "Theatrical poster for As the Earth Turns (1934)",
+      "url": "https://image.tmdb.org/t/p/original/lu6niGhrPjJpWNYIfIg8ZxqhPI7.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/lu6niGhrPjJpWNYIfIg8ZxqhPI7.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/179139",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5553,
+      "media_type": "still",
+      "title": "As the Earth Turns (1934) - Still",
+      "caption": "Scene from As the Earth Turns (1934)",
+      "url": "https://image.tmdb.org/t/p/original/p8X8FzjF72yu9W1nESrqTHOmX0N.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/p8X8FzjF72yu9W1nESrqTHOmX0N.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/179139",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:28:20.733239"
 }

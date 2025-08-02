@@ -5,8 +5,8 @@
   "formatted_title": "Anything Can Happen",
   "html_title": "<span class=\"film-title\">Anything Can Happen</span>",
   "release_year": 1952,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 107,
+  "country_of_production": "United States",
   "genres": [
     "Romantic comedy"
   ],
@@ -16,7 +16,7 @@
   "directors": "George Seaton",
   "writers": "George Seaton|George Oppenheimer",
   "cast_members": "José Ferrer|Kim Hunter|Kurt Kasznar|Eugenie Leontovich|Oscar Karlweis|Oscar Beregi|Mikhail Rasumny|Nick Dennis|Gloria Marlowe|Otto Waldis",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 53520,
   "source_work": {
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5774,
+      "media_type": "poster",
+      "title": "Anything Can Happen (1952) - Poster",
+      "caption": "Theatrical poster for Anything Can Happen (1952)",
+      "url": "https://image.tmdb.org/t/p/original/8nOYxZoGXYX7mceTuWp5gEPOoAZ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/8nOYxZoGXYX7mceTuWp5gEPOoAZ.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/118544",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5775,
+      "media_type": "poster",
+      "title": "Anything Can Happen (1952) - Poster",
+      "caption": "Theatrical poster for Anything Can Happen (1952)",
+      "url": "https://image.tmdb.org/t/p/original/nq7Izj1FxncC1PbtGpvCWkZTKlY.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/nq7Izj1FxncC1PbtGpvCWkZTKlY.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/118544",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5776,
+      "media_type": "still",
+      "title": "Anything Can Happen (1952) - Still",
+      "caption": "Scene from Anything Can Happen (1952)",
+      "url": "https://image.tmdb.org/t/p/original/xqBk2dgurEDTuumr2S7T1abZKUp.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/xqBk2dgurEDTuumr2S7T1abZKUp.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/118544",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:30:25.70659"
 }

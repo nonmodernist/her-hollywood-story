@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Erstwhile Susan</span>",
   "release_year": 1919,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "John S. Robertson",
   "writers": "Kathryne Stuart",
   "cast_members": "Constance Binney|Jere Austin|Alfred Hickman|Mary Alden|Anders Randolph|Georges Renavent|Bradley Barker|Leslie Hunt",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": "also based on the play Erstwhile Susan by Marian De Forest, which was derived from Martin's novel",
   "afi_catalog_id": 2004,
   "source_work": {
@@ -45,6 +45,19 @@
   "other_adaptations": [],
   "adaptation_context": null,
   "media": [
+    {
+      "id": 5729,
+      "media_type": "poster",
+      "title": "Erstwhile Susan (1919) - Poster",
+      "caption": "Theatrical poster for Erstwhile Susan (1919)",
+      "url": "https://image.tmdb.org/t/p/original/jf3uciPWPZ85jxX6asWPLovm2OA.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/jf3uciPWPZ85jxX6asWPLovm2OA.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/880163",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
     {
       "id": 1707,
       "media_type": "still",
@@ -177,7 +190,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 10,
+  "media_count": 11,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:29:50.872926"
 }

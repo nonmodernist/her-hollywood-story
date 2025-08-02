@@ -5,8 +5,8 @@
   "formatted_title": "Big Executive",
   "html_title": "<span class=\"film-title\">Big Executive</span>",
   "release_year": 1933,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 70,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Erle C. Kenton",
   "writers": "Laurence Stallings",
   "cast_members": "Ricardo Cortez|Richard Bennett|Elizabeth Young|Sharon Lynne|Dorothy Peterson|Barton MacLane|John M. Sullivan|Charles Middleton|Pop Kenton|Maude Eburne",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 4759,
   "source_work": {
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5375,
+      "media_type": "poster",
+      "title": "Big Executive (1933) - Poster",
+      "caption": "Theatrical poster for Big Executive (1933)",
+      "url": "https://image.tmdb.org/t/p/original/gpdZdJJjFGWMb1ysXWnG7dySwAi.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/gpdZdJJjFGWMb1ysXWnG7dySwAi.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/716543",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5376,
+      "media_type": "still",
+      "title": "Big Executive (1933) - Still",
+      "caption": "Scene from Big Executive (1933)",
+      "url": "https://image.tmdb.org/t/p/original/3HSSINjwONC8vZYLKKjcAXH7PLh.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/3HSSINjwONC8vZYLKKjcAXH7PLh.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/716543",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5377,
+      "media_type": "still",
+      "title": "Big Executive (1933) - Still",
+      "caption": "Scene from Big Executive (1933)",
+      "url": "https://image.tmdb.org/t/p/original/9nykO0UcJp6lwIXzFzLwcZcYLC4.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/9nykO0UcJp6lwIXzFzLwcZcYLC4.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/716543",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:27:14.131814"
 }

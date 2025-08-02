@@ -46,19 +46,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 2207,
-      "media_type": "poster",
-      "title": "Poster - Escape (1940) 01.jpg",
-      "caption": "Film poster for the 1940 film Escape.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Poster_-_Escape_%281940%29_01.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Poster_-_Escape_%281940%29_01.jpg/300px-Poster_-_Escape_%281940%29_01.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Poster_-_Escape_(1940)_01.jpg",
-      "license": "public_domain",
-      "attribution": "Employee(s) of MGM",
-      "is_featured": "True"
-    },
-    {
       "id": 5089,
       "media_type": "poster",
       "title": "Escape (1940) - Poster",
@@ -70,6 +57,19 @@
       "license": "fair_use",
       "attribution": "MGM",
       "is_featured": "False"
+    },
+    {
+      "id": 2207,
+      "media_type": "poster",
+      "title": "Poster - Escape (1940) 01.jpg",
+      "caption": "Film poster for the 1940 film Escape.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Poster_-_Escape_%281940%29_01.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Poster_-_Escape_%281940%29_01.jpg/300px-Poster_-_Escape_%281940%29_01.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Poster_-_Escape_(1940)_01.jpg",
+      "license": "public_domain",
+      "attribution": "Employee(s) of MGM",
+      "is_featured": "True"
     },
     {
       "id": 5090,
@@ -146,7 +146,7 @@
       "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Escape_of_Estonians_from_Soviet_power_to_Sweden,_September_1944.jpg",
       "license": "public_domain",
-      "attribution": "Unknown authorUnknown author",
+      "attribution": "MGM",
       "is_featured": "False"
     }
   ],

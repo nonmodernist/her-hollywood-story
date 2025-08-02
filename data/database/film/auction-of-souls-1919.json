@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Auction of Souls</span>",
   "release_year": 1919,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Oscar Apfel",
   "writers": "Nora Waln|Frederic Chapin",
   "cast_members": "Aurora Mardiganian|Irving Cummings|Anna Q. Nilsson|Henry Morgenthau|Howard Davies|Hector Dion|Frank Clarke|Myles McCarthy|Eugenie Besserer|Lillian West",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 2105,
   "source_work": {
@@ -45,6 +45,19 @@
   "other_adaptations": [],
   "adaptation_context": null,
   "media": [
+    {
+      "id": 5721,
+      "media_type": "poster",
+      "title": "Auction of Souls (1919) - Poster",
+      "caption": "Theatrical poster for Auction of Souls (1919)",
+      "url": "https://image.tmdb.org/t/p/original/b91tDWsIkalykzf504xco3laVg.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/b91tDWsIkalykzf504xco3laVg.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/242355",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
     {
       "id": 1687,
       "media_type": "production_photo",
@@ -164,7 +177,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 9,
+  "media_count": 10,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:29:48.552306"
 }

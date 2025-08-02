@@ -5,8 +5,8 @@
   "formatted_title": "Being Respectable",
   "html_title": "<span class=\"film-title\">Being Respectable</span>",
   "release_year": 1924,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 80,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Philip Rosen",
   "writers": "Dorothy Farnum",
   "cast_members": "Marie Prevost|Monte Blue|Louise Fazenda|Irene Rich|Theodore Von Eltz|Frank Currier|Eulalie Jensen|Lila Leslie|Sidney Bracy",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 2797,
   "source_work": {
@@ -46,6 +46,45 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 5634,
+      "media_type": "poster",
+      "title": "Being Respectable (1924) - Poster",
+      "caption": "Theatrical poster for Being Respectable (1924)",
+      "url": "https://image.tmdb.org/t/p/original/pjpFIApEZ2uWBPuxJdFTxLnAdq6.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/pjpFIApEZ2uWBPuxJdFTxLnAdq6.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/594971",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5635,
+      "media_type": "poster",
+      "title": "Being Respectable (1924) - Poster",
+      "caption": "Theatrical poster for Being Respectable (1924)",
+      "url": "https://image.tmdb.org/t/p/original/8Q8aQIduJRf9fjKKK8uJ2Cpd3Ke.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/8Q8aQIduJRf9fjKKK8uJ2Cpd3Ke.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/594971",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5636,
+      "media_type": "still",
+      "title": "Being Respectable (1924) - Still",
+      "caption": "Scene from Being Respectable (1924)",
+      "url": "https://image.tmdb.org/t/p/original/85XOlWGRx287fDkRMcVFmWuAHJ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/85XOlWGRx287fDkRMcVFmWuAHJ.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/594971",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 1319,
       "media_type": "lobby_card",
       "title": "Being Respectable (1924) lobby card.jpg",
@@ -60,7 +99,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:28:57.161298"
 }

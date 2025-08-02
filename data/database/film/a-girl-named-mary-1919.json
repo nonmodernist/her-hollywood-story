@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">A Girl Named Mary</span>",
   "release_year": 1919,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Walter Edwards",
   "writers": "Alice Eyton",
   "cast_members": "Marguerite Clark|Kathlyn Williams|Wallace MacDonald|Aggie Herring|Charles Clary|Lillian Leighton|Pauline Pulliam|A. Edward Sutherland|Helene Sullivan",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 17406,
   "source_work": {
@@ -59,6 +59,19 @@
       "is_featured": "True"
     },
     {
+      "id": 2198,
+      "media_type": "still",
+      "title": "A scene from \"A Girl Named Mary\" (SAYRE 13279).jpg",
+      "caption": "A scene from the American film A Girl Named Mary (1919), which played at the Strand Theater, Seattle. Includes Marguerite Clark. Date stamped Jan. 14, 1920. Subjects: motion pictures, actresses",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/A_scene_from_%22A_Girl_Named_Mary%22_%28SAYRE_13279%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/A_scene_from_%22A_Girl_Named_Mary%22_%28SAYRE_13279%29.jpg/300px-A_scene_from_%22A_Girl_Named_Mary%22_%28SAYRE_13279%29.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:A_scene_from_\"A_Girl_Named_Mary\"_(SAYRE_13279).jpg",
+      "license": "public_domain",
+      "attribution": "Famous Players-Lasky",
+      "is_featured": "False"
+    },
+    {
       "id": 2196,
       "media_type": "still",
       "title": "A Girl Named Mary (1919) 1.jpg",
@@ -70,23 +83,10 @@
       "license": "public_domain",
       "attribution": "film screenshot (Paramount Pictures)",
       "is_featured": "False"
-    },
-    {
-      "id": 2198,
-      "media_type": "still",
-      "title": "A scene from \"A Girl Named Mary\" (SAYRE 13279).jpg",
-      "caption": "A scene from the American film A Girl Named Mary (1919), which played at the Strand Theater, Seattle. Includes Marguerite Clark. Date stamped Jan. 14, 1920. Subjects: motion pictures, actresses",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/A_scene_from_%22A_Girl_Named_Mary%22_%28SAYRE_13279%29.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/A_scene_from_%22A_Girl_Named_Mary%22_%28SAYRE_13279%29.jpg/300px-A_scene_from_%22A_Girl_Named_Mary%22_%28SAYRE_13279%29.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:A_scene_from_\"A_Girl_Named_Mary\"_(SAYRE_13279).jpg",
-      "license": "public_domain",
-      "attribution": "Unknown authorUnknown author",
-      "is_featured": "False"
     }
   ],
   "has_media": true,
   "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:31:17.336081"
 }

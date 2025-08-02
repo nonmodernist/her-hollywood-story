@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">The Circular Staircase</span>",
   "release_year": 1915,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Mystery"
   ],
@@ -16,7 +16,7 @@
   "directors": "Edward J. Le Saint",
   "writers": null,
   "cast_members": "Guy Oliver|Eugenie Besserer|Stella Razeto|Edith Johnson|William Howard|Anna Dodge|Jane Keckley|F. J. Tyler|Fred Huntley|Clyde Benson",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 16431,
   "source_work": {
@@ -80,6 +80,19 @@
   },
   "media": [
     {
+      "id": 5299,
+      "media_type": "poster",
+      "title": "The Circular Staircase (1915) - Poster",
+      "caption": "Theatrical poster for The Circular Staircase (1915)",
+      "url": "https://image.tmdb.org/t/p/original/m5UE3kLGdWHNwQPWxEK28ovKTsM.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/m5UE3kLGdWHNwQPWxEK28ovKTsM.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/627843",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 16,
       "media_type": "advertisement",
       "title": "The Circular Staircase, 1915.jpg",
@@ -107,7 +120,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 2,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:26:05.629687"
 }

@@ -5,8 +5,8 @@
   "formatted_title": "Five and Ten",
   "html_title": "<span class=\"film-title\">Five and Ten</span>",
   "release_year": 1931,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 89,
+  "country_of_production": "United States",
   "genres": [
     "Melodrama"
   ],
@@ -16,7 +16,7 @@
   "directors": null,
   "writers": "A. P. Younger",
   "cast_members": "Marion Davies|Leslie Howard|Richard Bennett|Irene Rich|Douglass Montgomery|Mary Duncan|Lynn Beranger|Arthur Housman|George Irving|Halliwell Hobbes",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 5878,
   "source_work": {
@@ -44,9 +44,101 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5352,
+      "media_type": "poster",
+      "title": "Five and Ten (1931) - Poster",
+      "caption": "Theatrical poster for Five and Ten (1931)",
+      "url": "https://image.tmdb.org/t/p/original/uYnB3pqyyffBtuaJbeRfxMMhIJ5.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/uYnB3pqyyffBtuaJbeRfxMMhIJ5.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/53232",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5353,
+      "media_type": "poster",
+      "title": "Five and Ten (1931) - Poster",
+      "caption": "Theatrical poster for Five and Ten (1931)",
+      "url": "https://image.tmdb.org/t/p/original/h0HbkIElErJCFYqlI2Uemx65xYw.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/h0HbkIElErJCFYqlI2Uemx65xYw.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/53232",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5354,
+      "media_type": "poster",
+      "title": "Five and Ten (1931) - Poster",
+      "caption": "Theatrical poster for Five and Ten (1931)",
+      "url": "https://image.tmdb.org/t/p/original/l7QLI6lDo3tS6ReuwPrgFSFDf91.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/l7QLI6lDo3tS6ReuwPrgFSFDf91.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/53232",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5355,
+      "media_type": "poster",
+      "title": "Five and Ten (1931) - Poster",
+      "caption": "Theatrical poster for Five and Ten (1931)",
+      "url": "https://image.tmdb.org/t/p/original/xC1BprbZbmv9yOv0P2JQ4HkOaf.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/xC1BprbZbmv9yOv0P2JQ4HkOaf.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/53232",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5356,
+      "media_type": "still",
+      "title": "Five and Ten (1931) - Still",
+      "caption": "Scene from Five and Ten (1931)",
+      "url": "https://image.tmdb.org/t/p/original/pZwMcUbmfhmT94szAABnr4n0PEj.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/pZwMcUbmfhmT94szAABnr4n0PEj.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/53232",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5357,
+      "media_type": "still",
+      "title": "Five and Ten (1931) - Still",
+      "caption": "Scene from Five and Ten (1931)",
+      "url": "https://image.tmdb.org/t/p/original/pk98dYaEDtDHzrRSrSA8QXMUyMr.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/pk98dYaEDtDHzrRSrSA8QXMUyMr.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/53232",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5358,
+      "media_type": "still",
+      "title": "Five and Ten (1931) - Still",
+      "caption": "Scene from Five and Ten (1931)",
+      "url": "https://image.tmdb.org/t/p/original/c3dtyba6iYIoUXNR3sJWynkyApu.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/c3dtyba6iYIoUXNR3sJWynkyApu.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/53232",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 7,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:27:09.185537"
 }

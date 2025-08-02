@@ -5,8 +5,8 @@
   "formatted_title": "The Country Flapper",
   "html_title": "<span class=\"film-title\">The Country Flapper</span>",
   "release_year": 1922,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 50,
+  "country_of_production": "United States",
   "genres": [
     "Comedy"
   ],
@@ -16,7 +16,7 @@
   "directors": "F. Richard Jones",
   "writers": "Harry Carr",
   "cast_members": "Dorothy Gish|Glenn Hunter|Mildred Marsh|Harlan E. Knight|Tom Douglas|Raymond Hackett|Albert Hackett|Kathleen Collins",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 3450,
   "source_work": {
@@ -62,5 +62,5 @@
   "has_media": true,
   "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:26:31.966299"
 }

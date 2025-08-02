@@ -5,8 +5,8 @@
   "formatted_title": "Mrs. Balfame",
   "html_title": "<span class=\"film-title\">Mrs. Balfame</span>",
   "release_year": 1917,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 60,
+  "country_of_production": "United States",
   "genres": [
     "Mystery"
   ],
@@ -46,6 +46,32 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 5303,
+      "media_type": "poster",
+      "title": "Mrs. Balfame (1917) - Poster",
+      "caption": "Theatrical poster for Mrs. Balfame (1917)",
+      "url": "https://image.tmdb.org/t/p/original/8qpLDMghv3l760t05BwlIzlJpET.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/8qpLDMghv3l760t05BwlIzlJpET.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/977400",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5304,
+      "media_type": "poster",
+      "title": "Mrs. Balfame (1917) - Poster",
+      "caption": "Theatrical poster for Mrs. Balfame (1917)",
+      "url": "https://image.tmdb.org/t/p/original/1dRZzqECCHVkgHBDVLdE5Ox0qzp.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1dRZzqECCHVkgHBDVLdE5Ox0qzp.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/977400",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 46,
       "media_type": "advertisement",
       "title": "Advertisement for Mrs. Balfame (1917 film).png",
@@ -73,7 +99,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 2,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:26:10.250331"
 }

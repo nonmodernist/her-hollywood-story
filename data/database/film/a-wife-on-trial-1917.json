@@ -46,6 +46,19 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 5305,
+      "media_type": "poster",
+      "title": "A Wife on Trial (1917) - Poster",
+      "caption": "Theatrical poster for A Wife on Trial (1917)",
+      "url": "https://image.tmdb.org/t/p/original/cm2rrWRiX3xwfWiWdZp8psVEbso.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/cm2rrWRiX3xwfWiWdZp8psVEbso.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/610670",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 49,
       "media_type": "advertisement",
       "title": "A Wife on Trial ad in Motion Picture News (Jul-Aug 1917) (IA motionpicturenew161unse) (page 430 crop).jpg",
@@ -60,7 +73,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:26:12.651956"
 }

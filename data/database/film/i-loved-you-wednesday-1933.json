@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">I Loved You Wednesday</span>",
   "release_year": 1933,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Henry King|William Cameron Menzies",
   "writers": "Philip Klein|Horace Jackson",
   "cast_members": "Warner Baxter|Elissa Landi|Victor Jory|Miriam Jordan|Laura Hope Crews|June Vlasek|Fox Movietone Studio Dancers|Sam Coslow",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 6157,
   "source_work": {
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5789,
+      "media_type": "poster",
+      "title": "I Loved You Wednesday (1933) - Poster",
+      "caption": "Theatrical poster for I Loved You Wednesday (1933)",
+      "url": "https://image.tmdb.org/t/p/original/25gXjdptriy9UKKBVrG6LL96IN0.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/25gXjdptriy9UKKBVrG6LL96IN0.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/257908",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5790,
+      "media_type": "poster",
+      "title": "I Loved You Wednesday (1933) - Poster",
+      "caption": "Theatrical poster for I Loved You Wednesday (1933)",
+      "url": "https://image.tmdb.org/t/p/original/zy2N4shJmbDluoNKaMMI8vEuKmN.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/zy2N4shJmbDluoNKaMMI8vEuKmN.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/257908",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5791,
+      "media_type": "still",
+      "title": "I Loved You Wednesday (1933) - Still",
+      "caption": "Scene from I Loved You Wednesday (1933)",
+      "url": "https://image.tmdb.org/t/p/original/31PlGCJdALyyUzvKC8REjKP23vo.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/31PlGCJdALyyUzvKC8REjKP23vo.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/257908",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:30:42.279593"
 }

@@ -46,6 +46,19 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 5656,
+      "media_type": "poster",
+      "title": "Tempest and Sunshine (1916) - Poster",
+      "caption": "Theatrical poster for Tempest and Sunshine (1916)",
+      "url": "https://image.tmdb.org/t/p/original/xx57qKwTg0nWKUTEaJEndawjfD2.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/xx57qKwTg0nWKUTEaJEndawjfD2.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/1388973",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 1429,
       "media_type": "production_photo",
       "title": "Marion Sunshine and Florenz Tempest, 1916.jpg",
@@ -73,7 +86,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 2,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:29:12.23545"
 }

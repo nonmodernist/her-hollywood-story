@@ -5,8 +5,8 @@
   "formatted_title": "That Girl Montana",
   "html_title": "<span class=\"film-title\">That Girl Montana</span>",
   "release_year": 1921,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 68,
+  "country_of_production": "United States",
   "genres": [
     "Western"
   ],
@@ -16,7 +16,7 @@
   "directors": "Robert Thornby",
   "writers": "George H. Plympton",
   "cast_members": "Blanche Sweet|Mahlon Hamilton|Frank Lanning|Edward Peil Sr.|Charles Edler|Claire DuBrey|Kate Price|Jack Roseleigh",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 1721,
   "source_work": {
@@ -46,6 +46,45 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 5828,
+      "media_type": "poster",
+      "title": "That Girl Montana (1921) - Poster",
+      "caption": "Theatrical poster for That Girl Montana (1921)",
+      "url": "https://image.tmdb.org/t/p/original/13E7sooy8A5w3i9HLxQQLVE2kHP.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/13E7sooy8A5w3i9HLxQQLVE2kHP.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/408910",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5829,
+      "media_type": "poster",
+      "title": "That Girl Montana (1921) - Poster",
+      "caption": "Theatrical poster for That Girl Montana (1921)",
+      "url": "https://image.tmdb.org/t/p/original/nKcffOxvsCgDJ5zoNbD0vnivCnD.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/nKcffOxvsCgDJ5zoNbD0vnivCnD.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/408910",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5830,
+      "media_type": "still",
+      "title": "That Girl Montana (1921) - Still",
+      "caption": "Scene from That Girl Montana (1921)",
+      "url": "https://image.tmdb.org/t/p/original/disQaCMA7eMPhk5uArkgFLWCLXU.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/disQaCMA7eMPhk5uArkgFLWCLXU.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/408910",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 2090,
       "media_type": "advertisement",
       "title": "That Girl Montana (1921) - Ad 1.jpg",
@@ -60,7 +99,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:31:03.35165"
 }

@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Behind the Make-Up</span>",
   "release_year": 1930,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Romance"
   ],
@@ -16,7 +16,7 @@
   "directors": "Robert Milton",
   "writers": null,
   "cast_members": "Hal Skelly|William Powell|Fay Wray|Kay Francis|E. H. Calvert|Paul Lukas|Agostino Borgato|Jacques Vanaire|Jean De Briac",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 2793,
   "source_work": {
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5335,
+      "media_type": "poster",
+      "title": "Behind the Make-Up (1930) - Poster",
+      "caption": "Theatrical poster for Behind the Make-Up (1930)",
+      "url": "https://image.tmdb.org/t/p/original/tzja37bUiNRtdhmq5ERjTVdJuRa.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/tzja37bUiNRtdhmq5ERjTVdJuRa.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/222786",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5336,
+      "media_type": "poster",
+      "title": "Behind the Make-Up (1930) - Poster",
+      "caption": "Theatrical poster for Behind the Make-Up (1930)",
+      "url": "https://image.tmdb.org/t/p/original/oNTxZ3mhGx7aJlZ3ryt2naZSJEI.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/oNTxZ3mhGx7aJlZ3ryt2naZSJEI.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/222786",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5337,
+      "media_type": "still",
+      "title": "Behind the Make-Up (1930) - Still",
+      "caption": "Scene from Behind the Make-Up (1930)",
+      "url": "https://image.tmdb.org/t/p/original/jCEe7lNqQMC5k7fS72bfkykC7cF.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/jCEe7lNqQMC5k7fS72bfkykC7cF.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/222786",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:27:04.556403"
 }

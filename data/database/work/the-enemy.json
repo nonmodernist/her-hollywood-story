@@ -1,22 +1,22 @@
 {
-  "id": 266,
+  "id": 400,
   "slug": "the-enemy",
   "title": "The Enemy",
   "formatted_title": "The Enemy",
   "html_title": "<span class=\"work-title\">The Enemy</span>",
-  "work_type": "novella",
-  "publication_year": 1951,
+  "work_type": "novel",
+  "publication_year": 1915,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
   "attribution_notes": null,
   "author": {
-    "id": 85,
-    "slug": "charlotte-armstrong",
-    "name": "Charlotte Armstrong",
-    "birth_year": 1905,
-    "death_year": 1969,
-    "film_count": 3
+    "id": 168,
+    "slug": "lillian-chester",
+    "name": "Lillian Chester",
+    "birth_year": 1887,
+    "death_year": 1961,
+    "film_count": 1
   },
   "stats": {
     "adaptation_count": 1,
@@ -32,31 +32,23 @@
   },
   "adaptations": [
     {
-      "id": 318,
-      "slug": "talk-about-a-stranger-1952",
-      "title": "Talk About a Stranger",
-      "html_title": "<span class=\"film-title\">Talk About a Stranger</span>",
-      "year": 1952,
-      "studio": "MGM",
-      "directors": "David Bradley",
+      "id": 468,
+      "slug": "the-enemy-1916",
+      "title": "The Enemy",
+      "html_title": "<span class=\"film-title\">The Enemy</span>",
+      "year": 1916,
+      "studio": "Vitagraph",
+      "directors": "Paul Scardon",
       "genres": [
-        "Drama"
+        "Melodrama"
       ],
-      "has_media": true,
+      "has_media": false,
       "years_after_publication": 1
     }
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
-  "magazine_publication": {
-    "magazine_title": "Ellery Queen's Mystery Magazine",
-    "magazine_pub_date": "1951-05-01",
-    "magazine_issue_info": "Vol. 17, Whole No. 90",
-    "digitized_url": null,
-    "FMI_link": "http://www.philsp.com/homeville/fmi/k04/k04141.htm#A2",
-    "serialized": false,
-    "serial_parts": null
-  },
+  "magazine_publication": null,
   "has_narrative": false,
-  "last_updated": "2025-07-30T19:11:03.03851"
+  "last_updated": "2025-06-20T21:03:01.567527"
 }

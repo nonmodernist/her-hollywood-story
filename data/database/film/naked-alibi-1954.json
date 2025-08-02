@@ -5,8 +5,8 @@
   "formatted_title": "Naked Alibi",
   "html_title": "<span class=\"film-title\">Naked Alibi</span>",
   "release_year": 1954,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 78,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Jerry Hopper",
   "writers": "Lawrence Roman",
   "cast_members": "Sterling Hayden|Gloria Grahame|Gene Barry|Marcia Henderson|Casey Adams|Billy Chapin|Chuck Connors|Don Haggerty|Stuart Randall|Don Garrett",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 51282,
   "source_work": {
@@ -44,9 +44,114 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5465,
+      "media_type": "poster",
+      "title": "Naked Alibi (1954) - Poster",
+      "caption": "Theatrical poster for Naked Alibi (1954)",
+      "url": "https://image.tmdb.org/t/p/original/rFaxhzpqeMyaB8mxngiukzNqPX4.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/rFaxhzpqeMyaB8mxngiukzNqPX4.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/28560",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5466,
+      "media_type": "poster",
+      "title": "Naked Alibi (1954) - Poster",
+      "caption": "Theatrical poster for Naked Alibi (1954)",
+      "url": "https://image.tmdb.org/t/p/original/ylfBiWPTBg2t3MtAXbjrvWBDHIa.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ylfBiWPTBg2t3MtAXbjrvWBDHIa.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/28560",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5467,
+      "media_type": "poster",
+      "title": "Naked Alibi (1954) - Poster",
+      "caption": "Theatrical poster for Naked Alibi (1954)",
+      "url": "https://image.tmdb.org/t/p/original/dBYlCfxgULTNioGeMRsphIVSSmx.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dBYlCfxgULTNioGeMRsphIVSSmx.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/28560",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5468,
+      "media_type": "poster",
+      "title": "Naked Alibi (1954) - Poster",
+      "caption": "Theatrical poster for Naked Alibi (1954)",
+      "url": "https://image.tmdb.org/t/p/original/wN1un7US21ZxnobCWrmDFvQYtln.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/wN1un7US21ZxnobCWrmDFvQYtln.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/28560",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5469,
+      "media_type": "poster",
+      "title": "Naked Alibi (1954) - Poster",
+      "caption": "Theatrical poster for Naked Alibi (1954)",
+      "url": "https://image.tmdb.org/t/p/original/bUzW3uevsRSUfvhLUOdPJ4Zs55n.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/bUzW3uevsRSUfvhLUOdPJ4Zs55n.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/28560",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5470,
+      "media_type": "still",
+      "title": "Naked Alibi (1954) - Still",
+      "caption": "Scene from Naked Alibi (1954)",
+      "url": "https://image.tmdb.org/t/p/original/eCPYu4iTE5jhoSfbQCgvWQSBgZw.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/eCPYu4iTE5jhoSfbQCgvWQSBgZw.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/28560",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5471,
+      "media_type": "still",
+      "title": "Naked Alibi (1954) - Still",
+      "caption": "Scene from Naked Alibi (1954)",
+      "url": "https://image.tmdb.org/t/p/original/9Ix4FIubqPB4zu2jEJQWLX9UvvA.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/9Ix4FIubqPB4zu2jEJQWLX9UvvA.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/28560",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5472,
+      "media_type": "still",
+      "title": "Naked Alibi (1954) - Still",
+      "caption": "Scene from Naked Alibi (1954)",
+      "url": "https://image.tmdb.org/t/p/original/uA8r1fOpjuKkX3Vts4dZAO8tOBU.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/uA8r1fOpjuKkX3Vts4dZAO8tOBU.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/28560",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 8,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:27:43.325824"
 }

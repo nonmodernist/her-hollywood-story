@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Uncle Sam of Freedom Ridge</span>",
   "release_year": 1920,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -46,6 +46,19 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 1804,
+      "media_type": "still",
+      "title": "Uncle Sam of Freedom Ridge (1920) - 1.jpg",
+      "caption": "Still from the American drama film Uncle Sam of Freedom Ridge (1920) with William Corbett and George MacQuarrie, on page 68 of the September 25, 1920 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Uncle_Sam_of_Freedom_Ridge_%281920%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Uncle_Sam_of_Freedom_Ridge_%281920%29_-_1.jpg/300px-Uncle_Sam_of_Freedom_Ridge_%281920%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Uncle_Sam_of_Freedom_Ridge_(1920)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Harry Levey Productions",
+      "is_featured": "False"
+    },
+    {
       "id": 1802,
       "media_type": "advertisement",
       "title": "Uncle Sam of Freedom Ridge (1920) - 2.jpg",
@@ -70,23 +83,10 @@
       "license": "public_domain",
       "attribution": "Harry Levey Productions",
       "is_featured": "False"
-    },
-    {
-      "id": 1804,
-      "media_type": "still",
-      "title": "Uncle Sam of Freedom Ridge (1920) - 1.jpg",
-      "caption": "Still from the American drama film Uncle Sam of Freedom Ridge (1920) with William Corbett and George MacQuarrie, on page 68 of the September 25, 1920 Exhibitors Herald.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Uncle_Sam_of_Freedom_Ridge_%281920%29_-_1.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Uncle_Sam_of_Freedom_Ridge_%281920%29_-_1.jpg/300px-Uncle_Sam_of_Freedom_Ridge_%281920%29_-_1.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Uncle_Sam_of_Freedom_Ridge_(1920)_-_1.jpg",
-      "license": "public_domain",
-      "attribution": "Harry Levey Productions",
-      "is_featured": "False"
     }
   ],
   "has_media": true,
   "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:30:05.986484"
 }

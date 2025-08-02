@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Back Pay</span>",
   "release_year": 1930,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Melodrama"
   ],
@@ -16,7 +16,7 @@
   "directors": null,
   "writers": "Francis Edwards Faragoh",
   "cast_members": "Corinne Griffith|Grant Withers|Montagu Love|Hallam Cooley|Vivien Oakland|Geneva Mitchell|William Norton Bailey|Virginia Sale|Dee Loretta|James Marcus",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 2684,
   "source_work": {
@@ -60,9 +60,49 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5338,
+      "media_type": "poster",
+      "title": "Back Pay (1930) - Poster",
+      "caption": "Theatrical poster for Back Pay (1930)",
+      "url": "https://image.tmdb.org/t/p/original/sia3Hvx1upEzlzeAKnk9AzHwJC5.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/sia3Hvx1upEzlzeAKnk9AzHwJC5.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/188305",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5339,
+      "media_type": "poster",
+      "title": "Back Pay (1930) - Poster",
+      "caption": "Theatrical poster for Back Pay (1930)",
+      "url": "https://image.tmdb.org/t/p/original/alp7tDZYAmI0P4j9KAuttQFRMrt.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/alp7tDZYAmI0P4j9KAuttQFRMrt.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/188305",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5340,
+      "media_type": "still",
+      "title": "Back Pay (1930) - Still",
+      "caption": "Scene from Back Pay (1930)",
+      "url": "https://image.tmdb.org/t/p/original/5GP8ZPDZfAqGTKmHj2N5X8aSE8H.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/5GP8ZPDZfAqGTKmHj2N5X8aSE8H.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/188305",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:27:05.715913"
 }

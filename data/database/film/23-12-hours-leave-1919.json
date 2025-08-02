@@ -62,25 +62,25 @@
   },
   "media": [
     {
+      "id": 5799,
+      "media_type": "poster",
+      "title": "23 1/2 Hours' Leave (1919) - Poster",
+      "caption": "Theatrical poster for 23 1/2 Hours' Leave (1919)",
+      "url": "https://image.tmdb.org/t/p/original/omL15SzKRkSGwOEh2hCEQcvolgj.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/omL15SzKRkSGwOEh2hCEQcvolgj.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/979643",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 4844,
       "media_type": "still",
       "title": "23 1/2 Hours' Leave (1919) - Still",
       "caption": "Scene from 23 1/2 Hours' Leave (1919)",
       "url": "https://image.tmdb.org/t/p/original/3FHlCPP3XUb3ybBZyjbyELB76Fa.jpg",
       "thumbnail_url": "https://image.tmdb.org/t/p/w780/3FHlCPP3XUb3ybBZyjbyELB76Fa.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/979643",
-      "license": "fair_use",
-      "attribution": "Thomas H. Ince Productions",
-      "is_featured": "False"
-    },
-    {
-      "id": 4843,
-      "media_type": "advertisement",
-      "title": "23 1/2 Hours' Leave (1919) - Poster",
-      "caption": "Theatrical poster for 23 1/2 Hours' Leave (1919)",
-      "url": "https://image.tmdb.org/t/p/original/omL15SzKRkSGwOEh2hCEQcvolgj.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/omL15SzKRkSGwOEh2hCEQcvolgj.jpg",
       "source": "TMDb",
       "source_url": "https://www.themoviedb.org/movie/979643",
       "license": "fair_use",
@@ -98,7 +98,7 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:23_1-2_Hours'_Leave_(1919)_-_1.jpg",
       "license": "public_domain",
       "attribution": "Paramount Pictures",
-      "is_featured": "False"
+      "is_featured": "True"
     },
     {
       "id": 2071,
@@ -110,7 +110,7 @@
       "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Douglas_MacLean,_film_actor_(SAYRE_5407).jpg",
       "license": "public_domain",
-      "attribution": "Unknown authorUnknown author",
+      "attribution": "Thomas H. Ince Productions",
       "is_featured": "False"
     }
   ],

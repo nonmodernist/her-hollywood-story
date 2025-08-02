@@ -5,8 +5,8 @@
   "formatted_title": "The Moon's Our Home",
   "html_title": "<span class=\"film-title\">The Moon's Our Home</span>",
   "release_year": 1936,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 83,
+  "country_of_production": "United States",
   "genres": [
     "Romantic comedy"
   ],
@@ -16,7 +16,7 @@
   "directors": "William A. Seiter",
   "writers": "Isabel Dawn|Boyce DeGaw",
   "cast_members": "Margaret Sullavan|Henry Fonda|Charles Butterworth|Beulah Bondi|Henrietta Crosman|Walter Brennan|Dorothy Stickney|Brandon Hurst|Lucien Littlefield|Margaret Hamilton",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 4408,
   "source_work": {
@@ -44,9 +44,101 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5383,
+      "media_type": "poster",
+      "title": "The Moon's Our Home (1936) - Poster",
+      "caption": "Theatrical poster for The Moon's Our Home (1936)",
+      "url": "https://image.tmdb.org/t/p/original/n8r2YUJg6Gso72I9UAlYrY40JEj.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/n8r2YUJg6Gso72I9UAlYrY40JEj.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/140060",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5384,
+      "media_type": "poster",
+      "title": "The Moon's Our Home (1936) - Poster",
+      "caption": "Theatrical poster for The Moon's Our Home (1936)",
+      "url": "https://image.tmdb.org/t/p/original/1a689N6mh4ANQX624S1hKW9PjEC.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1a689N6mh4ANQX624S1hKW9PjEC.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/140060",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5385,
+      "media_type": "poster",
+      "title": "The Moon's Our Home (1936) - Poster",
+      "caption": "Theatrical poster for The Moon's Our Home (1936)",
+      "url": "https://image.tmdb.org/t/p/original/aTkhspgGJ1BrKpXNijBNmXD8W3u.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/aTkhspgGJ1BrKpXNijBNmXD8W3u.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/140060",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5386,
+      "media_type": "poster",
+      "title": "The Moon's Our Home (1936) - Poster",
+      "caption": "Theatrical poster for The Moon's Our Home (1936)",
+      "url": "https://image.tmdb.org/t/p/original/kjmYj3ROyEAooDlayNqL3RQqRPp.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kjmYj3ROyEAooDlayNqL3RQqRPp.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/140060",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5387,
+      "media_type": "still",
+      "title": "The Moon's Our Home (1936) - Still",
+      "caption": "Scene from The Moon's Our Home (1936)",
+      "url": "https://image.tmdb.org/t/p/original/4ZzwPa4HlzERURLmsHqiQPTunlJ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/4ZzwPa4HlzERURLmsHqiQPTunlJ.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/140060",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5388,
+      "media_type": "still",
+      "title": "The Moon's Our Home (1936) - Still",
+      "caption": "Scene from The Moon's Our Home (1936)",
+      "url": "https://image.tmdb.org/t/p/original/dYvIYk4G9XFa5sGlWe0JSNYsS2j.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/dYvIYk4G9XFa5sGlWe0JSNYsS2j.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/140060",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5389,
+      "media_type": "still",
+      "title": "The Moon's Our Home (1936) - Still",
+      "caption": "Scene from The Moon's Our Home (1936)",
+      "url": "https://image.tmdb.org/t/p/original/aGFvpeyPEO1kN8L0gLAcLkXUVWb.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/aGFvpeyPEO1kN8L0gLAcLkXUVWb.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/140060",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 7,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:27:21.066319"
 }

@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Ridin' Thunder</span>",
   "release_year": 1925,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Western"
   ],
@@ -45,6 +45,32 @@
   "other_adaptations": [],
   "adaptation_context": null,
   "media": [
+    {
+      "id": 5898,
+      "media_type": "poster",
+      "title": "Ridin' Thunder (1925) - Poster",
+      "caption": "Theatrical poster for Ridin' Thunder (1925)",
+      "url": "https://image.tmdb.org/t/p/original/qSyGAYPuxBE4kTAKfJOvj5HKekO.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/qSyGAYPuxBE4kTAKfJOvj5HKekO.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/638587",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5899,
+      "media_type": "still",
+      "title": "Ridin' Thunder (1925) - Still",
+      "caption": "Scene from Ridin' Thunder (1925)",
+      "url": "https://image.tmdb.org/t/p/original/taBhRCcM8BzJs39qNTkdTeRE6Zw.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/taBhRCcM8BzJs39qNTkdTeRE6Zw.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/638587",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
     {
       "id": 2403,
       "media_type": "advertisement",
@@ -99,7 +125,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 4,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:31:41.73971"
 }

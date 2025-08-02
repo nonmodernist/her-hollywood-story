@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">A Romance of Billy Goat Hill</span>",
   "release_year": 1916,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Melodrama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Lynn Reynolds",
   "writers": "Lynn Reynolds",
   "cast_members": "Myrtle Gonzalez|Val Paul|George Hernandez|Fred Church|Thomas Jefferson|Frankie Lee|Jack Connelly|Jack Curtis",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 16806,
   "source_work": {
@@ -44,9 +44,23 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5300,
+      "media_type": "poster",
+      "title": "A Romance of Billy Goat Hill (1916) - Poster",
+      "caption": "Theatrical poster for A Romance of Billy Goat Hill (1916)",
+      "url": "https://image.tmdb.org/t/p/original/1ORlDBqij1xFSm2emC311pBMiQb.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1ORlDBqij1xFSm2emC311pBMiQb.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/610053",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:26:06.775379"
 }

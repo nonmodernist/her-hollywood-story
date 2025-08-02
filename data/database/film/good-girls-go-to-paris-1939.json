@@ -5,8 +5,8 @@
   "formatted_title": "Good Girls Go to Paris",
   "html_title": "<span class=\"film-title\">Good Girls Go to Paris</span>",
   "release_year": 1939,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 75,
+  "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Alexander Hall",
   "writers": "Gladys Lehman|Ken Englund",
   "cast_members": "Melvyn Douglas|Joan Blondell|Walter Connolly|Alan Curtis|Joan Perry|Isabel Jeans|Stanley Brown|Alex D'Arcy|Henry Hunter|Clarence Kolb",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 4659,
   "source_work": {
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5586,
+      "media_type": "poster",
+      "title": "Good Girls Go to Paris (1939) - Poster",
+      "caption": "Theatrical poster for Good Girls Go to Paris (1939)",
+      "url": "https://image.tmdb.org/t/p/original/fsUk1l076jYdLNQaeZnzlPrcxjB.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/fsUk1l076jYdLNQaeZnzlPrcxjB.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/151104",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5587,
+      "media_type": "poster",
+      "title": "Good Girls Go to Paris (1939) - Poster",
+      "caption": "Theatrical poster for Good Girls Go to Paris (1939)",
+      "url": "https://image.tmdb.org/t/p/original/wMjjMwbid84QYUNGieKhdB7dLy1.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/wMjjMwbid84QYUNGieKhdB7dLy1.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/151104",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5588,
+      "media_type": "still",
+      "title": "Good Girls Go to Paris (1939) - Still",
+      "caption": "Scene from Good Girls Go to Paris (1939)",
+      "url": "https://image.tmdb.org/t/p/original/91B3TD8RoYRbv6n4A8hlFi8aUly.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/91B3TD8RoYRbv6n4A8hlFi8aUly.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/151104",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:28:32.512586"
 }

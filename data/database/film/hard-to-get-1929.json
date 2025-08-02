@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Hard to Get</span>",
   "release_year": 1929,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "William Beaudine",
   "writers": "James Gruen",
   "cast_members": "Dorothy Mackaill|Charles Delaney|James Finlayson|Louise Fazenda|Jack Oakie|Edmund Burns|Clarissa Selwynne",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 9572,
   "source_work": {
@@ -62,6 +62,19 @@
   },
   "media": [
     {
+      "id": 5621,
+      "media_type": "poster",
+      "title": "Hard to Get (1929) - Poster",
+      "caption": "Theatrical poster for Hard to Get (1929)",
+      "url": "https://image.tmdb.org/t/p/original/fgC27Cy6SgJpwCPwvtTd1KUx3GK.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/fgC27Cy6SgJpwCPwvtTd1KUx3GK.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/473930",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 1266,
       "media_type": "production_photo",
       "title": "Hard to Get (SAYRE 14263).jpg",
@@ -102,7 +115,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 3,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:28:50.068506"
 }

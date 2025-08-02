@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">The Place Beyond the Winds</span>",
   "release_year": 1916,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Joseph De Grasse",
   "writers": "Ida May Park",
   "cast_members": "Dorothy Phillips|Jack Mulhall|Lon Chaney|Joseph De Grasse|C. Norman Hammond|Alice May Youse|Mr. Powers|Grace Carlyle|Countess Du Cello",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 16785,
   "source_work": {
@@ -46,6 +46,19 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 5301,
+      "media_type": "poster",
+      "title": "The Place Beyond the Winds (1916) - Poster",
+      "caption": "Theatrical poster for The Place Beyond the Winds (1916)",
+      "url": "https://image.tmdb.org/t/p/original/jYSjVW7sY56iGJjL8gjQimZdEp1.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/jYSjVW7sY56iGJjL8gjQimZdEp1.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/558401",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 28,
       "media_type": "advertisement",
       "title": "The Place Beyond the Winds.jpg",
@@ -60,7 +73,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:26:07.935493"
 }

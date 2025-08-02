@@ -5,8 +5,8 @@
   "formatted_title": "Sister Kenny",
   "html_title": "<span class=\"film-title\">Sister Kenny</span>",
   "release_year": 1946,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 117,
+  "country_of_production": "United States",
   "genres": [
     "Biography"
   ],
@@ -16,7 +16,7 @@
   "directors": "Dudley Nichols",
   "writers": "Dudley Nichols|Alexander Knox|Mary McCarthy",
   "cast_members": "Rosalind Russell|Alexander Knox|Dean Jagger|Philip Merivale|Beulah Bondi|Charles Dingle|John Litel|Doreen McCann|Fay Helm|Charles Kemper",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 24963,
   "source_work": {
@@ -46,6 +46,71 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 5768,
+      "media_type": "poster",
+      "title": "Sister Kenny (1946) - Poster",
+      "caption": "Theatrical poster for Sister Kenny (1946)",
+      "url": "https://image.tmdb.org/t/p/original/kmwDdk6EaNmC5rjv40IPAUd3ROm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kmwDdk6EaNmC5rjv40IPAUd3ROm.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/51571",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5769,
+      "media_type": "poster",
+      "title": "Sister Kenny (1946) - Poster",
+      "caption": "Theatrical poster for Sister Kenny (1946)",
+      "url": "https://image.tmdb.org/t/p/original/kQUYEph0UVc8yovS0zz1yIqW8mX.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kQUYEph0UVc8yovS0zz1yIqW8mX.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/51571",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5770,
+      "media_type": "poster",
+      "title": "Sister Kenny (1946) - Poster",
+      "caption": "Theatrical poster for Sister Kenny (1946)",
+      "url": "https://image.tmdb.org/t/p/original/nPvQisrrOmN9gHGANTYbGyVo4lo.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/nPvQisrrOmN9gHGANTYbGyVo4lo.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/51571",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5771,
+      "media_type": "poster",
+      "title": "Sister Kenny (1946) - Poster",
+      "caption": "Theatrical poster for Sister Kenny (1946)",
+      "url": "https://image.tmdb.org/t/p/original/4jUibdDXexRteqceTne6JCYkjHR.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/4jUibdDXexRteqceTne6JCYkjHR.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/51571",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5772,
+      "media_type": "still",
+      "title": "Sister Kenny (1946) - Still",
+      "caption": "Scene from Sister Kenny (1946)",
+      "url": "https://image.tmdb.org/t/p/original/kve7uPGnLw6yXnfVd4Y6I30m7Zr.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/kve7uPGnLw6yXnfVd4Y6I30m7Zr.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/51571",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 1915,
       "media_type": "still",
       "title": "Alexander Knox in Sister Kenny trailer.jpg",
@@ -60,7 +125,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:30:22.222975"
 }

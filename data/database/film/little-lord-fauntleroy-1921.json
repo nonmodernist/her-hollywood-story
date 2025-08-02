@@ -5,8 +5,8 @@
   "formatted_title": "Little Lord Fauntleroy",
   "html_title": "<span class=\"film-title\">Little Lord Fauntleroy</span>",
   "release_year": 1921,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 112,
+  "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Alfred E. Green|Jack Pickford",
   "writers": "Bernard McConville",
   "cast_members": "Mary Pickford|Claude Gillingwater|Joseph J. Dowling|James Marcus|Kate Price|Fred Malatesta|Rose Dione|Frances Marion|Arthur Thalasso|Colin Kenny",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 10310,
   "source_work": {
@@ -61,6 +61,84 @@
     "is_latest": false
   },
   "media": [
+    {
+      "id": 5313,
+      "media_type": "poster",
+      "title": "Little Lord Fauntleroy (1921) - Poster",
+      "caption": "Theatrical poster for Little Lord Fauntleroy (1921)",
+      "url": "https://image.tmdb.org/t/p/original/8dGPDwry1BlM7Q2tQ2MBRQhIXT0.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/8dGPDwry1BlM7Q2tQ2MBRQhIXT0.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/175330",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5314,
+      "media_type": "poster",
+      "title": "Little Lord Fauntleroy (1921) - Poster",
+      "caption": "Theatrical poster for Little Lord Fauntleroy (1921)",
+      "url": "https://image.tmdb.org/t/p/original/bXhJraAV2FayTDeDcNljv8Gy6K7.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/bXhJraAV2FayTDeDcNljv8Gy6K7.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/175330",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5315,
+      "media_type": "poster",
+      "title": "Little Lord Fauntleroy (1921) - Poster",
+      "caption": "Theatrical poster for Little Lord Fauntleroy (1921)",
+      "url": "https://image.tmdb.org/t/p/original/sJE9Yb1w87vR2NEc9Kt6Myycy2U.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/sJE9Yb1w87vR2NEc9Kt6Myycy2U.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/175330",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5316,
+      "media_type": "still",
+      "title": "Little Lord Fauntleroy (1921) - Still",
+      "caption": "Scene from Little Lord Fauntleroy (1921)",
+      "url": "https://image.tmdb.org/t/p/original/qTOnfM6FAJ3RzZzWW7zPlRq9A9T.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/qTOnfM6FAJ3RzZzWW7zPlRq9A9T.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/175330",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5317,
+      "media_type": "still",
+      "title": "Little Lord Fauntleroy (1921) - Still",
+      "caption": "Scene from Little Lord Fauntleroy (1921)",
+      "url": "https://image.tmdb.org/t/p/original/8gE25Vg4OUVSQLgO1vYipY5fKUX.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/8gE25Vg4OUVSQLgO1vYipY5fKUX.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/175330",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5318,
+      "media_type": "still",
+      "title": "Little Lord Fauntleroy (1921) - Still",
+      "caption": "Scene from Little Lord Fauntleroy (1921)",
+      "url": "https://image.tmdb.org/t/p/original/4pNpFxAVMA4TFd05R66tHe5FYYJ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/4pNpFxAVMA4TFd05R66tHe5FYYJ.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/175330",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
     {
       "id": 217,
       "media_type": "still",
@@ -193,7 +271,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 10,
+  "media_count": 16,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:26:27.160993"
 }

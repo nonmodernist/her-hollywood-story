@@ -5,8 +5,8 @@
   "formatted_title": "Uncle Tom's Cabin",
   "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
   "release_year": 1913,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 54,
+  "country_of_production": "United States",
   "genres": [
     "Melodrama"
   ],
@@ -16,7 +16,7 @@
   "directors": "William Robert Daly",
   "writers": null,
   "cast_members": "Sam Lucas|Walter Hitchcock|Hattie Delaro|Master Abernathy|Teresa Michelena|Irving Cummings|Paul Scardon|Marie Eline|Garfield Thompson|Roy Applegate",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 2113,
   "source_work": {
@@ -54,9 +54,9 @@
     },
     {
       "id": 3,
-      "slug": "uncle-toms-cabin-part-3-1910",
-      "title": "Uncle Tom's Cabin, Part 3",
-      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin, Part 3</span>",
+      "slug": "uncle-toms-cabin-parts-1-3-1910",
+      "title": "Uncle Tom's Cabin (Parts 1 - 3)",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin (Parts 1 - 3)</span>",
       "year": 1910,
       "directors": "Frederick Thomson",
       "studio": "Vitagraph"
@@ -96,9 +96,62 @@
     "is_first": false,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5845,
+      "media_type": "poster",
+      "title": "Uncle Tom's Cabin (1913) - Poster",
+      "caption": "Theatrical poster for Uncle Tom's Cabin (1913)",
+      "url": "https://image.tmdb.org/t/p/original/cU50uH15n7rB2T1IcmvhGfM5pzG.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/cU50uH15n7rB2T1IcmvhGfM5pzG.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/151234",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5846,
+      "media_type": "poster",
+      "title": "Uncle Tom's Cabin (1913) - Poster",
+      "caption": "Theatrical poster for Uncle Tom's Cabin (1913)",
+      "url": "https://image.tmdb.org/t/p/original/kVrTqxfjUd4hLDnI8AgmVN3vI5Z.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kVrTqxfjUd4hLDnI8AgmVN3vI5Z.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/151234",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5847,
+      "media_type": "poster",
+      "title": "Uncle Tom's Cabin (1913) - Poster",
+      "caption": "Theatrical poster for Uncle Tom's Cabin (1913)",
+      "url": "https://image.tmdb.org/t/p/original/xjRE6wdLgbwGKLLIwvrG3kJmqZ4.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/xjRE6wdLgbwGKLLIwvrG3kJmqZ4.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/151234",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5848,
+      "media_type": "still",
+      "title": "Uncle Tom's Cabin (1913) - Still",
+      "caption": "Scene from Uncle Tom's Cabin (1913)",
+      "url": "https://image.tmdb.org/t/p/original/bQn6MoptAVudiiNS3k9Kzm6CbDv.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/bQn6MoptAVudiiNS3k9Kzm6CbDv.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/151234",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:31:12.568604"
 }

@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">The Opened Shutters</span>",
   "release_year": 1914,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
   ],
@@ -46,6 +46,19 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 5548,
+      "media_type": "poster",
+      "title": "The Opened Shutters (1914) - Poster",
+      "caption": "Theatrical poster for The Opened Shutters (1914)",
+      "url": "https://image.tmdb.org/t/p/original/tfXznl5kz9ffDvDpnl3XNk2SjCn.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/tfXznl5kz9ffDvDpnl3XNk2SjCn.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/609036",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 1076,
       "media_type": "still",
       "title": "The Opened Shutters 1914 film still.jpg",
@@ -60,7 +73,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:28:16.08002"
 }

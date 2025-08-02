@@ -28,7 +28,7 @@
     "work_type": "novel",
     "publication_year": 1925,
     "genre": null,
-    "plot_summary": null,
+    "plot_summary": "TEST PLOT SUMMARY. Lorelei Lee, a blonde flapper from Arkansas, keeps a diary of her adventures as she manipulates wealthy men for money and gifts. Sponsored by button manufacturer Gus Eisman, she travels to Paris with her friend Dorothy, where she continues scheming to marry rich men while collecting jewelry and diamonds. Through calculated naivety and charm, she ultimately secures a wealthy husband, achieving her goal of financial security through marriage.",
     "literary_significance": null,
     "adaptation_count": 2,
     "year_to_adaptation": 28
@@ -62,19 +62,6 @@
   },
   "media": [
     {
-      "id": 3281,
-      "media_type": "poster",
-      "title": "Gentlemen Prefer Blondes (1953) - Poster",
-      "caption": "Theatrical poster for Gentlemen Prefer Blondes (1953)",
-      "url": "https://image.tmdb.org/t/p/original/jIPk72wTaAh4vUn0Hb4kvm9nKBs.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/jIPk72wTaAh4vUn0Hb4kvm9nKBs.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/759",
-      "license": "fair_use",
-      "attribution": "20th Century Fox",
-      "is_featured": "True"
-    },
-    {
       "id": 836,
       "media_type": "poster",
       "title": "Gentlemen Prefer Blondes 1953 magazine poster.jpg",
@@ -84,6 +71,19 @@
       "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Gentlemen_Prefer_Blondes_1953_magazine_poster.jpg",
       "license": "public_domain",
+      "attribution": "20th Century Fox",
+      "is_featured": "True"
+    },
+    {
+      "id": 3281,
+      "media_type": "poster",
+      "title": "Gentlemen Prefer Blondes (1953) - Poster",
+      "caption": "Theatrical poster for Gentlemen Prefer Blondes (1953)",
+      "url": "https://image.tmdb.org/t/p/original/jIPk72wTaAh4vUn0Hb4kvm9nKBs.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/jIPk72wTaAh4vUn0Hb4kvm9nKBs.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/759",
+      "license": "fair_use",
       "attribution": "20th Century Fox",
       "is_featured": "True"
     },
@@ -179,19 +179,6 @@
       "is_featured": "False"
     },
     {
-      "id": 837,
-      "media_type": "still",
-      "title": "Gentlemen Prefer Blondes Movie Trailer Screenshot (34).jpg",
-      "caption": "Gentlemen Prefer Blondes, the 1953 20th Century Fox movie is a musical comedy/romance directed by Howard Hawks starring Jane Russell and Marilyn Monroe, with Charles Coburn, Elliott Reid, Tommy Noonan, Taylor Holmes, and Norma Varden. This image shows Monroe in a pink dress surrounded by men in formal attire.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gentlemen_Prefer_Blondes_Movie_Trailer_Screenshot_%2834%29.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gentlemen_Prefer_Blondes_Movie_Trailer_Screenshot_%2834%29.jpg/300px-Gentlemen_Prefer_Blondes_Movie_Trailer_Screenshot_%2834%29.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Gentlemen_Prefer_Blondes_Movie_Trailer_Screenshot_(34).jpg",
-      "license": "public_domain",
-      "attribution": "20th Century Fox",
-      "is_featured": "False"
-    },
-    {
       "id": 838,
       "media_type": "production_photo",
       "title": "Monroe in a publicity shot for Gentlemen Prefer Blondes.jpg",
@@ -257,6 +244,19 @@
       "is_featured": "False"
     },
     {
+      "id": 845,
+      "media_type": "still",
+      "title": "Gentlemen Prefer Blondes Movie Trailer Screenshot (12).jpg",
+      "caption": null,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Gentlemen_Prefer_Blondes_Movie_Trailer_Screenshot_%2812%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gentlemen_Prefer_Blondes_Movie_Trailer_Screenshot_%2812%29.jpg/300px-Gentlemen_Prefer_Blondes_Movie_Trailer_Screenshot_%2812%29.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Gentlemen_Prefer_Blondes_Movie_Trailer_Screenshot_(12).jpg",
+      "license": "public_domain",
+      "attribution": "See Wikimedia Commons for attribution",
+      "is_featured": "False"
+    },
+    {
       "id": 844,
       "media_type": "still",
       "title": "Gentlemen Prefer Blondes Movie Trailer Screenshot (23).jpg",
@@ -270,16 +270,16 @@
       "is_featured": "False"
     },
     {
-      "id": 845,
+      "id": 837,
       "media_type": "still",
-      "title": "Gentlemen Prefer Blondes Movie Trailer Screenshot (12).jpg",
-      "caption": null,
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Gentlemen_Prefer_Blondes_Movie_Trailer_Screenshot_%2812%29.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gentlemen_Prefer_Blondes_Movie_Trailer_Screenshot_%2812%29.jpg/300px-Gentlemen_Prefer_Blondes_Movie_Trailer_Screenshot_%2812%29.jpg",
+      "title": "Gentlemen Prefer Blondes Movie Trailer Screenshot (34).jpg",
+      "caption": "Gentlemen Prefer Blondes, the 1953 20th Century Fox movie is a musical comedy/romance directed by Howard Hawks starring Jane Russell and Marilyn Monroe, with Charles Coburn, Elliott Reid, Tommy Noonan, Taylor Holmes, and Norma Varden. This image shows Monroe in a pink dress surrounded by men in formal attire.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gentlemen_Prefer_Blondes_Movie_Trailer_Screenshot_%2834%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gentlemen_Prefer_Blondes_Movie_Trailer_Screenshot_%2834%29.jpg/300px-Gentlemen_Prefer_Blondes_Movie_Trailer_Screenshot_%2834%29.jpg",
       "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Gentlemen_Prefer_Blondes_Movie_Trailer_Screenshot_(12).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Gentlemen_Prefer_Blondes_Movie_Trailer_Screenshot_(34).jpg",
       "license": "public_domain",
-      "attribution": "See Wikimedia Commons for attribution",
+      "attribution": "20th Century Fox",
       "is_featured": "False"
     }
   ],

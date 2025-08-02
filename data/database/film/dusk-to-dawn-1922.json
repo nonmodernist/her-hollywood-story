@@ -5,8 +5,8 @@
   "formatted_title": "Dusk to Dawn",
   "html_title": "<span class=\"film-title\">Dusk to Dawn</span>",
   "release_year": 1922,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 60,
+  "country_of_production": "United States",
   "genres": [
     "Drama",
     "Fantasy"
@@ -17,7 +17,7 @@
   "directors": "King Vidor",
   "writers": "Frank Howard Clark",
   "cast_members": "Florence Vidor|Jack Mulhall|Truman Van Dyke|James Neill|Lydia Knott|Herbert Fortier|Norris Johnson|Nellie Anderson|Sidney Franklin",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 8790,
   "source_work": {
@@ -76,5 +76,5 @@
   "has_media": true,
   "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:29:08.780308"
 }

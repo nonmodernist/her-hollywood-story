@@ -5,8 +5,8 @@
   "formatted_title": "Dark Waters",
   "html_title": "<span class=\"film-title\">Dark Waters</span>",
   "release_year": 1944,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 90,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Andre DeToth",
   "writers": "Joan Harrison|Marian Cockrell",
   "cast_members": "Merle Oberon|Franchot Tone|Thomas Mitchell|Fay Bainter|Elisha Cook Jr.|John Qualen|Rex Ingram|Nina Mae McKinney|Odette Myrtil|Eugene Borden",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 2443,
   "source_work": {
@@ -46,6 +46,84 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 5576,
+      "media_type": "poster",
+      "title": "Dark Waters (1944) - Poster",
+      "caption": "Theatrical poster for Dark Waters (1944)",
+      "url": "https://image.tmdb.org/t/p/original/cMLW8FvVIN6OoSfT9h9ZTGEaoD4.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/cMLW8FvVIN6OoSfT9h9ZTGEaoD4.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/36332",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5577,
+      "media_type": "poster",
+      "title": "Dark Waters (1944) - Poster",
+      "caption": "Theatrical poster for Dark Waters (1944)",
+      "url": "https://image.tmdb.org/t/p/original/xZm932Mo56dT1GLJUWIGptYB700.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/xZm932Mo56dT1GLJUWIGptYB700.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/36332",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5578,
+      "media_type": "poster",
+      "title": "Dark Waters (1944) - Poster",
+      "caption": "Theatrical poster for Dark Waters (1944)",
+      "url": "https://image.tmdb.org/t/p/original/1aqeRbLFztE6ONOqgcL8b6pyahr.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1aqeRbLFztE6ONOqgcL8b6pyahr.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/36332",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5579,
+      "media_type": "still",
+      "title": "Dark Waters (1944) - Still",
+      "caption": "Scene from Dark Waters (1944)",
+      "url": "https://image.tmdb.org/t/p/original/AsiYt7HBBj6n1PyipnKgfkK74uR.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/AsiYt7HBBj6n1PyipnKgfkK74uR.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/36332",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5580,
+      "media_type": "still",
+      "title": "Dark Waters (1944) - Still",
+      "caption": "Scene from Dark Waters (1944)",
+      "url": "https://image.tmdb.org/t/p/original/txDvt2dvsHhpOaJs7KzjrtPLgso.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/txDvt2dvsHhpOaJs7KzjrtPLgso.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/36332",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5581,
+      "media_type": "still",
+      "title": "Dark Waters (1944) - Still",
+      "caption": "Scene from Dark Waters (1944)",
+      "url": "https://image.tmdb.org/t/p/original/4Hw69K9SkelKaQicrjzNjR91L6S.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/4Hw69K9SkelKaQicrjzNjR91L6S.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/36332",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 1125,
       "media_type": "still",
       "title": "Rex Ingram in Dark Waters.jpg",
@@ -60,7 +138,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 7,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:28:30.156216"
 }

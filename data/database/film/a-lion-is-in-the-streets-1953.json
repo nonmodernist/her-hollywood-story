@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">A Lion is in the Streets</span>",
   "release_year": 1953,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -44,9 +44,101 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5689,
+      "media_type": "poster",
+      "title": "A Lion is in the Streets (1953) - Poster",
+      "caption": "Theatrical poster for A Lion is in the Streets (1953)",
+      "url": "https://image.tmdb.org/t/p/original/h3FnywrFJ0vMXBLYD93138pKjw0.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/h3FnywrFJ0vMXBLYD93138pKjw0.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/109332",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5690,
+      "media_type": "poster",
+      "title": "A Lion is in the Streets (1953) - Poster",
+      "caption": "Theatrical poster for A Lion is in the Streets (1953)",
+      "url": "https://image.tmdb.org/t/p/original/48o5djbjuQMkJ3BhmqpHBSjQPHV.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/48o5djbjuQMkJ3BhmqpHBSjQPHV.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/109332",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5691,
+      "media_type": "poster",
+      "title": "A Lion is in the Streets (1953) - Poster",
+      "caption": "Theatrical poster for A Lion is in the Streets (1953)",
+      "url": "https://image.tmdb.org/t/p/original/bzRrUrt0WtjOTrLmXQPDOGyqleJ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/bzRrUrt0WtjOTrLmXQPDOGyqleJ.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/109332",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5692,
+      "media_type": "poster",
+      "title": "A Lion is in the Streets (1953) - Poster",
+      "caption": "Theatrical poster for A Lion is in the Streets (1953)",
+      "url": "https://image.tmdb.org/t/p/original/s5w0SuWThgjOps2EPvoRfCPvY7b.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/s5w0SuWThgjOps2EPvoRfCPvY7b.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/109332",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5693,
+      "media_type": "still",
+      "title": "A Lion is in the Streets (1953) - Still",
+      "caption": "Scene from A Lion is in the Streets (1953)",
+      "url": "https://image.tmdb.org/t/p/original/v3DSI7CpG2QqV7ddQZFJjlW9zvI.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/v3DSI7CpG2QqV7ddQZFJjlW9zvI.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/109332",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5694,
+      "media_type": "still",
+      "title": "A Lion is in the Streets (1953) - Still",
+      "caption": "Scene from A Lion is in the Streets (1953)",
+      "url": "https://image.tmdb.org/t/p/original/45hTLkkn93RO5U9uSyNNXLMNRO1.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/45hTLkkn93RO5U9uSyNNXLMNRO1.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/109332",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5695,
+      "media_type": "still",
+      "title": "A Lion is in the Streets (1953) - Still",
+      "caption": "Scene from A Lion is in the Streets (1953)",
+      "url": "https://image.tmdb.org/t/p/original/pATA9qkcCxUYM52a9Grf8f6I3YC.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/pATA9qkcCxUYM52a9Grf8f6I3YC.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/109332",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 7,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:29:29.67163"
 }

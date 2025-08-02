@@ -5,8 +5,8 @@
   "formatted_title": "Roseanna McCoy",
   "html_title": "<span class=\"film-title\">Roseanna McCoy</span>",
   "release_year": 1949,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 100,
+  "country_of_production": "United States",
   "genres": [
     "Romance"
   ],
@@ -16,7 +16,7 @@
   "directors": "Irving Reis|Nicholas Ray",
   "writers": "John Collier",
   "cast_members": "Farley Granger|Joan Evans|Charles Bickford|Raymond Massey|Richard Basehart|Gigi Perreau|Aline MacMahon|Marshall Thompson|Lloyd Gough|Gerald Perreau",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 26085,
   "source_work": {
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5649,
+      "media_type": "poster",
+      "title": "Roseanna McCoy (1949) - Poster",
+      "caption": "Theatrical poster for Roseanna McCoy (1949)",
+      "url": "https://image.tmdb.org/t/p/original/ym89l08aYSz1HSuKJjwdtqSEYUD.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ym89l08aYSz1HSuKJjwdtqSEYUD.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/175737",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5650,
+      "media_type": "poster",
+      "title": "Roseanna McCoy (1949) - Poster",
+      "caption": "Theatrical poster for Roseanna McCoy (1949)",
+      "url": "https://image.tmdb.org/t/p/original/pC9nr0TSNLVivzY5lq6tX98Fcc2.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/pC9nr0TSNLVivzY5lq6tX98Fcc2.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/175737",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5651,
+      "media_type": "still",
+      "title": "Roseanna McCoy (1949) - Still",
+      "caption": "Scene from Roseanna McCoy (1949)",
+      "url": "https://image.tmdb.org/t/p/original/xJpPHjNavxeKx8XAJ5ZhPG9jUOk.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/xJpPHjNavxeKx8XAJ5ZhPG9jUOk.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/175737",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:29:07.635351"
 }

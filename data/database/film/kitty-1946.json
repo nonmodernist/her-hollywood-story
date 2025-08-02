@@ -5,8 +5,8 @@
   "formatted_title": "Kitty",
   "html_title": "<span class=\"film-title\">Kitty</span>",
   "release_year": 1946,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 103,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Mitchell Leisen",
   "writers": "Darrell Ware|Karl Tunberg",
   "cast_members": "Paulette Goddard|Ray Milland|Patric Knowles|Reginald Owen|Cecil Kellaway|Constance Collier|Dennis Hoey|Sara Allgood|Eric Blore|Gordon Richards",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 24474,
   "source_work": {
@@ -44,9 +44,101 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5722,
+      "media_type": "poster",
+      "title": "Kitty (1946) - Poster",
+      "caption": "Theatrical poster for Kitty (1946)",
+      "url": "https://image.tmdb.org/t/p/original/5iA7sHuKFRpWY72fFPSpmSUgDtt.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/5iA7sHuKFRpWY72fFPSpmSUgDtt.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/106882",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5723,
+      "media_type": "poster",
+      "title": "Kitty (1946) - Poster",
+      "caption": "Theatrical poster for Kitty (1946)",
+      "url": "https://image.tmdb.org/t/p/original/sczidJ5hLc3iOufwkxVIvNb3hWZ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/sczidJ5hLc3iOufwkxVIvNb3hWZ.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/106882",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5724,
+      "media_type": "poster",
+      "title": "Kitty (1946) - Poster",
+      "caption": "Theatrical poster for Kitty (1946)",
+      "url": "https://image.tmdb.org/t/p/original/om3Hzn068On4RybNGnVQHCmUkGP.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/om3Hzn068On4RybNGnVQHCmUkGP.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/106882",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5725,
+      "media_type": "poster",
+      "title": "Kitty (1946) - Poster",
+      "caption": "Theatrical poster for Kitty (1946)",
+      "url": "https://image.tmdb.org/t/p/original/cs3LFKpTo5o6r8KxGQCLvAeP0MM.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/cs3LFKpTo5o6r8KxGQCLvAeP0MM.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/106882",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5726,
+      "media_type": "still",
+      "title": "Kitty (1946) - Still",
+      "caption": "Scene from Kitty (1946)",
+      "url": "https://image.tmdb.org/t/p/original/zGkvq1daQP93ZwHUi5BegozjCTk.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/zGkvq1daQP93ZwHUi5BegozjCTk.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/106882",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5727,
+      "media_type": "still",
+      "title": "Kitty (1946) - Still",
+      "caption": "Scene from Kitty (1946)",
+      "url": "https://image.tmdb.org/t/p/original/qpI7mLfuDqd8JmrUqCfxJDSSkJL.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/qpI7mLfuDqd8JmrUqCfxJDSSkJL.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/106882",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5728,
+      "media_type": "still",
+      "title": "Kitty (1946) - Still",
+      "caption": "Scene from Kitty (1946)",
+      "url": "https://image.tmdb.org/t/p/original/3YRwWNP10auln9fN9o77IWp2Q0N.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/3YRwWNP10auln9fN9o77IWp2Q0N.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/106882",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 7,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:29:49.712067"
 }

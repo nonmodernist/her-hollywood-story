@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Peacock Feathers</span>",
   "release_year": 1925,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Svend Gade",
   "writers": "James O. Spearing|Svend Gade",
   "cast_members": "Jacqueline Logan|Cullen Landis|Ward Crane|George Fawcett|Emmett King|Youcca Troubetzkoy|Aggie Herring|Dunbar Raymond",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 11309,
   "source_work": {
@@ -46,6 +46,32 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 5326,
+      "media_type": "poster",
+      "title": "Peacock Feathers (1925) - Poster",
+      "caption": "Theatrical poster for Peacock Feathers (1925)",
+      "url": "https://image.tmdb.org/t/p/original/y65UOfkPQ8b7uujiwFUSQJFfoJE.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/y65UOfkPQ8b7uujiwFUSQJFfoJE.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/536313",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5327,
+      "media_type": "still",
+      "title": "Peacock Feathers (1925) - Still",
+      "caption": "Scene from Peacock Feathers (1925)",
+      "url": "https://image.tmdb.org/t/p/original/mKsqPv8j90Mh5URZ4B6C4Tiiqu6.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/mKsqPv8j90Mh5URZ4B6C4Tiiqu6.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/536313",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 436,
       "media_type": "advertisement",
       "title": "Peacock Feathers (1925) - 1.jpg",
@@ -73,7 +99,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 2,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:26:45.911181"
 }

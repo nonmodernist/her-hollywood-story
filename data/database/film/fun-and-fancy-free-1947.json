@@ -5,8 +5,8 @@
   "formatted_title": "Fun and Fancy Free",
   "html_title": "<span class=\"film-title\">Fun and Fancy Free</span>",
   "release_year": 1947,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 73,
+  "country_of_production": "United States",
   "genres": [
     "Childrens works"
   ],
@@ -16,7 +16,7 @@
   "directors": "Jack Kinney|Bill Roberts|Hamilton Luske",
   "writers": "Homer Brightman|Harry Reeves|Ted Sears|Lance Nolley|Eldon Dedini|Tom Oreb",
   "cast_members": "Edgar Bergen|Dinah Shore|Luana Patten|Anita Gordon|Cliff Edwards|Billy Gilbert|Clarence Nash|Walt Disney|Pinto Colvig",
-  "color_info": null,
+  "color_info": "color",
   "adaptation_notes": null,
   "afi_catalog_id": 25174,
   "source_work": {
@@ -46,6 +46,110 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 5696,
+      "media_type": "poster",
+      "title": "Fun and Fancy Free (1947) - Poster",
+      "caption": "Theatrical poster for Fun and Fancy Free (1947)",
+      "url": "https://image.tmdb.org/t/p/original/zBMBHx7JrHIB6U4wYT3q0yvwQuP.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/zBMBHx7JrHIB6U4wYT3q0yvwQuP.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/46929",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5697,
+      "media_type": "poster",
+      "title": "Fun and Fancy Free (1947) - Poster",
+      "caption": "Theatrical poster for Fun and Fancy Free (1947)",
+      "url": "https://image.tmdb.org/t/p/original/ihY66HT4MsLfl2RtnQz0UvxWf8t.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ihY66HT4MsLfl2RtnQz0UvxWf8t.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/46929",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5698,
+      "media_type": "poster",
+      "title": "Fun and Fancy Free (1947) - Poster",
+      "caption": "Theatrical poster for Fun and Fancy Free (1947)",
+      "url": "https://image.tmdb.org/t/p/original/lmc6Ge5GuSj7sLkkLHyuZpuI8Ii.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/lmc6Ge5GuSj7sLkkLHyuZpuI8Ii.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/46929",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5699,
+      "media_type": "poster",
+      "title": "Fun and Fancy Free (1947) - Poster",
+      "caption": "Theatrical poster for Fun and Fancy Free (1947)",
+      "url": "https://image.tmdb.org/t/p/original/nlmDUgm2jADMTYosciEw51jM8nT.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/nlmDUgm2jADMTYosciEw51jM8nT.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/46929",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5700,
+      "media_type": "poster",
+      "title": "Fun and Fancy Free (1947) - Poster",
+      "caption": "Theatrical poster for Fun and Fancy Free (1947)",
+      "url": "https://image.tmdb.org/t/p/original/8aTbrurbB7DyWGqyYKfBZiebpVE.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/8aTbrurbB7DyWGqyYKfBZiebpVE.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/46929",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5701,
+      "media_type": "still",
+      "title": "Fun and Fancy Free (1947) - Still",
+      "caption": "Scene from Fun and Fancy Free (1947)",
+      "url": "https://image.tmdb.org/t/p/original/gcLCXH7ZTr3Yk2JG1u7cXb7p1vy.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/gcLCXH7ZTr3Yk2JG1u7cXb7p1vy.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/46929",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5702,
+      "media_type": "still",
+      "title": "Fun and Fancy Free (1947) - Still",
+      "caption": "Scene from Fun and Fancy Free (1947)",
+      "url": "https://image.tmdb.org/t/p/original/cBsZTZEaKhg76lioqQOI6Kt9tqo.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/cBsZTZEaKhg76lioqQOI6Kt9tqo.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/46929",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5703,
+      "media_type": "still",
+      "title": "Fun and Fancy Free (1947) - Still",
+      "caption": "Scene from Fun and Fancy Free (1947)",
+      "url": "https://image.tmdb.org/t/p/original/KzS80fpOTtr3PwaImoXDP9m0db.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/KzS80fpOTtr3PwaImoXDP9m0db.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/46929",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 1582,
       "media_type": "still",
       "title": "Willie Giant - Fun and Fancy Free.png",
@@ -60,7 +164,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 9,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:29:30.839332"
 }

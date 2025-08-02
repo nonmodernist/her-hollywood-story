@@ -5,7 +5,7 @@
   "formatted_title": "Her Splendid Folly",
   "html_title": "<span class=\"film-title\">Her Splendid Folly</span>",
   "release_year": 1933,
-  "runtime_minutes": null,
+  "runtime_minutes": 60,
   "country_of_production": null,
   "genres": [
     "Comedy-drama"
@@ -44,9 +44,23 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5785,
+      "media_type": "poster",
+      "title": "Her Splendid Folly (1933) - Poster",
+      "caption": "Theatrical poster for Her Splendid Folly (1933)",
+      "url": "https://image.tmdb.org/t/p/original/dr4hckRQDcjDrPuvWY4hTtuIoDL.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dr4hckRQDcjDrPuvWY4hTtuIoDL.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/287207",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:30:32.64715"
 }

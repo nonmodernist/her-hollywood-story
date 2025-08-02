@@ -46,19 +46,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 5286,
-      "media_type": "poster",
-      "title": "Good References (1920) - Poster",
-      "caption": "Theatrical poster for Good References (1920)",
-      "url": "https://image.tmdb.org/t/p/original/5vagt43bcwon4q7d7X1zmkO7FMF.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/5vagt43bcwon4q7d7X1zmkO7FMF.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/445086",
-      "license": "fair_use",
-      "attribution": "First National",
-      "is_featured": "False"
-    },
-    {
       "id": 2418,
       "media_type": "poster",
       "title": "Good References poster.jpg",
@@ -70,6 +57,19 @@
       "license": "public_domain",
       "attribution": "First National",
       "is_featured": "True"
+    },
+    {
+      "id": 5286,
+      "media_type": "poster",
+      "title": "Good References (1920) - Poster",
+      "caption": "Theatrical poster for Good References (1920)",
+      "url": "https://image.tmdb.org/t/p/original/5vagt43bcwon4q7d7X1zmkO7FMF.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/5vagt43bcwon4q7d7X1zmkO7FMF.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/445086",
+      "license": "fair_use",
+      "attribution": "First National",
+      "is_featured": "False"
     },
     {
       "id": 5287,

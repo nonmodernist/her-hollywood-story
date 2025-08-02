@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">A Bride for Henry</span>",
   "release_year": 1937,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Comedy"
   ],
@@ -16,7 +16,7 @@
   "directors": "William Nigh",
   "writers": "Marion Orth",
   "cast_members": "Anne Nagel|Warren Hull|Henry Mollison|Claudia Dell|Betty Ross Clarke|Lyle Moraine|Harry Harvey, Sr.|Harrison Greene|Cyril McCormic|Sam Koki",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 6550,
   "source_work": {
@@ -46,6 +46,58 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 5517,
+      "media_type": "poster",
+      "title": "A Bride for Henry (1937) - Poster",
+      "caption": "Theatrical poster for A Bride for Henry (1937)",
+      "url": "https://image.tmdb.org/t/p/original/dsZTosVwcMFUhr3NYcJ2tJRZLf1.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dsZTosVwcMFUhr3NYcJ2tJRZLf1.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/238032",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5518,
+      "media_type": "poster",
+      "title": "A Bride for Henry (1937) - Poster",
+      "caption": "Theatrical poster for A Bride for Henry (1937)",
+      "url": "https://image.tmdb.org/t/p/original/sPoBKRJDjzJuYDtKbRZFBE04V7v.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/sPoBKRJDjzJuYDtKbRZFBE04V7v.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/238032",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5519,
+      "media_type": "poster",
+      "title": "A Bride for Henry (1937) - Poster",
+      "caption": "Theatrical poster for A Bride for Henry (1937)",
+      "url": "https://image.tmdb.org/t/p/original/tJIEiLJkZQLvbN79mn4M4VTNRuv.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/tJIEiLJkZQLvbN79mn4M4VTNRuv.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/238032",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5520,
+      "media_type": "still",
+      "title": "A Bride for Henry (1937) - Still",
+      "caption": "Scene from A Bride for Henry (1937)",
+      "url": "https://image.tmdb.org/t/p/original/wLUVe13rZO94FDzDkcncH6Q1Bzp.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/wLUVe13rZO94FDzDkcncH6Q1Bzp.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/238032",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 941,
       "media_type": "still",
       "title": "Henry Mollison in A Bride for Henry (1937).jpg",
@@ -73,7 +125,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 2,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:27:56.052534"
 }

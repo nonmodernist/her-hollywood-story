@@ -5,8 +5,8 @@
   "formatted_title": "She Couldn't Help It",
   "html_title": "<span class=\"film-title\">She Couldn't Help It</span>",
   "release_year": 1920,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 50,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Maurice Campbell",
   "writers": "Douglas Bronston",
   "cast_members": "Bebe Daniels Lyon|Emory Johnson|Wade Boteler|Vera Lewis|Herbert Standing|Z. Wall Covington|Helen Raymond|Ruth Renick|Gertrude Short|Milla Davenport",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": "also based on the play In the Bishop's Carriage by Channing Pollock, which was derived from Michelson's novel",
   "afi_catalog_id": 18141,
   "source_work": {
@@ -62,6 +62,19 @@
   },
   "media": [
     {
+      "id": 5734,
+      "media_type": "poster",
+      "title": "She Couldn't Help It (1920) - Poster",
+      "caption": "Theatrical poster for She Couldn't Help It (1920)",
+      "url": "https://image.tmdb.org/t/p/original/3mkgGuzKQNDiqU4EHFBbGWtqJul.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/3mkgGuzKQNDiqU4EHFBbGWtqJul.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/765141",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 1777,
       "media_type": "still",
       "title": "She Couldn't Help It (1920) - 2.jpg",
@@ -89,7 +102,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 2,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:29:59.002081"
 }

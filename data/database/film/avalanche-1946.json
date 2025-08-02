@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Avalanche</span>",
   "release_year": 1946,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Mystery"
   ],
@@ -16,7 +16,7 @@
   "directors": "Irving Allen",
   "writers": "Andrew Holt",
   "cast_members": "Bruce Cabot|Roscoe Karns|Helen Mowery|Veda Ann Borg|Regina Wallace|John Good|Philip Van Zandt|Eddie Parks|Wilton Graff|Harry Hays Morgan",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 24680,
   "source_work": {
@@ -44,9 +44,62 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5525,
+      "media_type": "poster",
+      "title": "Avalanche (1946) - Poster",
+      "caption": "Theatrical poster for Avalanche (1946)",
+      "url": "https://image.tmdb.org/t/p/original/wylWnfa5gTo8eD5X3Z7PnHsATCq.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/wylWnfa5gTo8eD5X3Z7PnHsATCq.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/164416",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5526,
+      "media_type": "poster",
+      "title": "Avalanche (1946) - Poster",
+      "caption": "Theatrical poster for Avalanche (1946)",
+      "url": "https://image.tmdb.org/t/p/original/pQJCbiErP9G5xtmcb6hUT2kXStN.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/pQJCbiErP9G5xtmcb6hUT2kXStN.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/164416",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5527,
+      "media_type": "poster",
+      "title": "Avalanche (1946) - Poster",
+      "caption": "Theatrical poster for Avalanche (1946)",
+      "url": "https://image.tmdb.org/t/p/original/dxwg4a9D8dOhjghx8e9MqwKhvMd.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dxwg4a9D8dOhjghx8e9MqwKhvMd.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/164416",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5528,
+      "media_type": "still",
+      "title": "Avalanche (1946) - Still",
+      "caption": "Scene from Avalanche (1946)",
+      "url": "https://image.tmdb.org/t/p/original/2d82gaDcrLZotFzMQqUIB1rf9k1.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/2d82gaDcrLZotFzMQqUIB1rf9k1.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/164416",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:27:58.499181"
 }

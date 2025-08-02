@@ -13,7 +13,16 @@
 - [ ] Verify and add photoplay edition details where marked as has_photoplay_edition
   - [ ] pick up ILL library books about photoplay editions
 - [ ] transfer availability info from ~130 films in previous dataset
-- [ ] add test plot summary to see how it will display on site
+- [ ] add test plot summary to see how it will display on site - done just need to rebuild and check GPB work
+
+**Technical Fixes**
+
+- [ ] fix work archive link section to not show if null?? attempted this but it's complicated - revisit
+- [ ] Implement decade filter for authors (needs active decades in index)
+- [ ] add pattern badge for works that appeared first in magazines
+- [ ] Add more fields to author detail pages (education, archives, awards from authors_rows.csv)
+- [ ] implement grid view for authors and works
+- [ ] add number of loaded films to SPA url so that the back button works
 
 **Pattern Pages**
 
@@ -23,16 +32,6 @@
   - [x] Add real genre data to enable genre breakdown chart
 - [ ] Write content for the authors' studios pattern page using research notes
 - [ ] Write content for "Himbos" pattern page
-
-**Technical Fixes**
-
-- [ ] fix work archive link section to not show if null?? attempted this but it's complicated - revisit
-- [ ] Implement decade filter for authors (needs active decades in index)
-- [ ] add pattern badge for works that appeared first in magazines
-- [ ] Add more fields to author detail pages (education, archives, awards from authors_rows.csv)
-- [x] figure out how to use featured poster image in grid view
-- [ ] implement grid view for authors and works
-
 
 **Content Writing**
 - [ ] Write mini deep dives for Twenty-Timers members (use the template structure)
@@ -48,10 +47,11 @@
 - [ ] Find and add author portraits from Wikimedia for pattern pages
   - [ ] 10 timers club
 - [ ] Add book covers from HathiTrust/Internet Archive where available
+- [ ] continuing verifying and pruning film media
 
 **Documentation**
-- [ ] Update About page with research journey
-- [ ] Create "How to Navigate" guide for users
+- [ ] Create About page with research journey
+- [ ] Create "How to Navigate" guide for users - beta testers first
 - [ ] Add citation format for researchers
 - [ ] Write data correction submission process
 
@@ -67,7 +67,7 @@
 - Add exact release dates for films to enable magazine→film timeline visualization
 - Spot check magazine data OR film data
 - Add film runtimes
-- Add 
+- Add other stuff??
 
 
 
@@ -85,3 +85,7 @@
   - [x] twenty-timers (stacked asterisks)
   - [x] hot off the press (lightning bolt)
   - [x] elastic classic (four dots)
+- [x] figure out how to use featured poster image in grid view
+- [x] add missing wikidata ids for films
+  - [x] run enrichment to add external ids based on wikidata id
+  - [x] run tmdb enrichment to get images 

@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Man of Iron</span>",
   "release_year": 1935,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "William McGann",
   "writers": "William Wister Haines",
   "cast_members": "Barton MacLane|Mary Astor|John Eldredge|Dorothy Peterson|Joseph Crehan|Craig Reynolds|Joe Sawyer|Joseph King|John Qualen|Wild Bill Elliott",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 5567,
   "source_work": {
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5782,
+      "media_type": "poster",
+      "title": "Man of Iron (1935) - Poster",
+      "caption": "Theatrical poster for Man of Iron (1935)",
+      "url": "https://image.tmdb.org/t/p/original/u8WxkAr1VQK39BD1v6nsXqTREuk.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/u8WxkAr1VQK39BD1v6nsXqTREuk.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/357503",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5783,
+      "media_type": "poster",
+      "title": "Man of Iron (1935) - Poster",
+      "caption": "Theatrical poster for Man of Iron (1935)",
+      "url": "https://image.tmdb.org/t/p/original/8bysssAyv47GwrUKDxFPaQHfGvE.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/8bysssAyv47GwrUKDxFPaQHfGvE.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/357503",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5784,
+      "media_type": "still",
+      "title": "Man of Iron (1935) - Still",
+      "caption": "Scene from Man of Iron (1935)",
+      "url": "https://image.tmdb.org/t/p/original/vc5DClPNScWCZSNXlwFVThTeyDl.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/vc5DClPNScWCZSNXlwFVThTeyDl.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/357503",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:30:31.470621"
 }

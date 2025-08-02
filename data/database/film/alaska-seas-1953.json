@@ -5,8 +5,8 @@
   "formatted_title": "Alaska Seas",
   "html_title": "<span class=\"film-title\">Alaska Seas</span>",
   "release_year": 1953,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 78,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Jerry Hopper",
   "writers": "Geoffrey Homes|Walter Doniger",
   "cast_members": "Robert Ryan [1909-1973]|Jan Sterling|Brian Keith|Gene Barry|Ralph Dumke|Richard Shannon|Ross Bagdasarian|Fay Roope|Timothy Carey|Peter Coe",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 51116,
   "source_work": {
@@ -60,9 +60,88 @@
     "is_first": false,
     "is_latest": true
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5873,
+      "media_type": "poster",
+      "title": "Alaska Seas (1953) - Poster",
+      "caption": "Theatrical poster for Alaska Seas (1953)",
+      "url": "https://image.tmdb.org/t/p/original/38hCxj9NeShJNghfGAafY1hiTQC.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/38hCxj9NeShJNghfGAafY1hiTQC.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/114866",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5874,
+      "media_type": "poster",
+      "title": "Alaska Seas (1953) - Poster",
+      "caption": "Theatrical poster for Alaska Seas (1953)",
+      "url": "https://image.tmdb.org/t/p/original/rrlU53vmMNdxCbJ2Mr6DTy4TsA4.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/rrlU53vmMNdxCbJ2Mr6DTy4TsA4.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/114866",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5875,
+      "media_type": "poster",
+      "title": "Alaska Seas (1953) - Poster",
+      "caption": "Theatrical poster for Alaska Seas (1953)",
+      "url": "https://image.tmdb.org/t/p/original/uGsaUfSIIHsYeh4Ctr4c01b9QR8.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/uGsaUfSIIHsYeh4Ctr4c01b9QR8.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/114866",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5876,
+      "media_type": "poster",
+      "title": "Alaska Seas (1953) - Poster",
+      "caption": "Theatrical poster for Alaska Seas (1953)",
+      "url": "https://image.tmdb.org/t/p/original/fndFZvEzuB0BokIin7vwEEFibK1.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/fndFZvEzuB0BokIin7vwEEFibK1.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/114866",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5877,
+      "media_type": "still",
+      "title": "Alaska Seas (1953) - Still",
+      "caption": "Scene from Alaska Seas (1953)",
+      "url": "https://image.tmdb.org/t/p/original/7rpjrnLkuvFEs2d7tlpEmoBHfju.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/7rpjrnLkuvFEs2d7tlpEmoBHfju.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/114866",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5878,
+      "media_type": "still",
+      "title": "Alaska Seas (1953) - Still",
+      "caption": "Scene from Alaska Seas (1953)",
+      "url": "https://image.tmdb.org/t/p/original/wuKtXDi0Zt3mcQjGjZq45XJMPIa.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/wuKtXDi0Zt3mcQjGjZq45XJMPIa.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/114866",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:31:32.427971"
 }

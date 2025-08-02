@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">A Woman's Man</span>",
   "release_year": 1934,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Edward T. Ludwig",
   "writers": "Frances Hyland",
   "cast_members": "John Halliday|Wallace Ford|Kitty Kelly|Marguerite De La Motte|Tom Dugan|Jameson Thomas|Wallis Clark|Don Douglas|Leigh Allen|George Mayo",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 4270,
   "source_work": {
@@ -44,9 +44,36 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5380,
+      "media_type": "poster",
+      "title": "A Woman's Man (1934) - Poster",
+      "caption": "Theatrical poster for A Woman's Man (1934)",
+      "url": "https://image.tmdb.org/t/p/original/ziSDL0XLVC3WoAMWJDTDpiR2iZQ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ziSDL0XLVC3WoAMWJDTDpiR2iZQ.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/219372",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5381,
+      "media_type": "still",
+      "title": "A Woman's Man (1934) - Still",
+      "caption": "Scene from A Woman's Man (1934)",
+      "url": "https://image.tmdb.org/t/p/original/4PY5wrQiiIZ1PvyE7M3Vq3LG5iK.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/4PY5wrQiiIZ1PvyE7M3Vq3LG5iK.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/219372",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:27:17.612764"
 }

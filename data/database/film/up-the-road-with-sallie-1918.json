@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Up the Road with Sallie</span>",
   "release_year": 1918,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Comedy"
   ],
@@ -16,7 +16,7 @@
   "directors": "William D. Taylor",
   "writers": "Julia Crawford Ivers",
   "cast_members": "Constance Talmadge|Norman Kerry|Kate Toncray|Thomas D. Persse|Karl Formes|M. B. Paanakker",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 17274,
   "source_work": {
@@ -45,6 +45,32 @@
   "other_adaptations": [],
   "adaptation_context": null,
   "media": [
+    {
+      "id": 5843,
+      "media_type": "poster",
+      "title": "Up the Road with Sallie (1918) - Poster",
+      "caption": "Theatrical poster for Up the Road with Sallie (1918)",
+      "url": "https://image.tmdb.org/t/p/original/trkO0TKIIIyGmIvUdBxiqhVpimi.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/trkO0TKIIIyGmIvUdBxiqhVpimi.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/620141",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5844,
+      "media_type": "still",
+      "title": "Up the Road with Sallie (1918) - Still",
+      "caption": "Scene from Up the Road with Sallie (1918)",
+      "url": "https://image.tmdb.org/t/p/original/rTmRzq8df3lqEj5yBaM6Lq3w0a2.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/rTmRzq8df3lqEj5yBaM6Lq3w0a2.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/620141",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
     {
       "id": 2149,
       "media_type": "advertisement",
@@ -99,7 +125,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 4,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:31:11.395185"
 }

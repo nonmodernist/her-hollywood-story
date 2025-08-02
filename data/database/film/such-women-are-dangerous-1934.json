@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Such Women Are Dangerous</span>",
   "release_year": 1934,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "James Flood",
   "writers": "Jane Storm|Oscar M. Sheridan|Vera Caspary",
   "cast_members": "Warner Baxter|Rosemary Ames|Rochelle Hudson|Mona Barrie|Herbert Mundin|Henrietta Crosman|Lillian Stuart|Irving Pichel|Mary Jane Barnes|Matt Moore",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 7539,
   "source_work": {
@@ -44,9 +44,36 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5559,
+      "media_type": "poster",
+      "title": "Such Women Are Dangerous (1934) - Poster",
+      "caption": "Theatrical poster for Such Women Are Dangerous (1934)",
+      "url": "https://image.tmdb.org/t/p/original/32Lz2KJFOooZuCW9wPuac2BnHih.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/32Lz2KJFOooZuCW9wPuac2BnHih.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/393426",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5560,
+      "media_type": "still",
+      "title": "Such Women Are Dangerous (1934) - Still",
+      "caption": "Scene from Such Women Are Dangerous (1934)",
+      "url": "https://image.tmdb.org/t/p/original/AdOA91pbx5tyAIp23jkFDXHeSR3.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/AdOA91pbx5tyAIp23jkFDXHeSR3.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/393426",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:28:23.028852"
 }

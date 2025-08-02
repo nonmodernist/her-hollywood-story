@@ -46,19 +46,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 4603,
-      "media_type": "poster",
-      "title": "Into Her Kingdom (1926) - Poster",
-      "caption": "Theatrical poster for Into Her Kingdom (1926)",
-      "url": "https://image.tmdb.org/t/p/original/hXaunzfE4XpVCcOupgxGM6z3p78.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/hXaunzfE4XpVCcOupgxGM6z3p78.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/672644",
-      "license": "fair_use",
-      "attribution": "Corinne Griffith Productions",
-      "is_featured": "True"
-    },
-    {
       "id": 1799,
       "media_type": "poster",
       "title": "Into Her Kingdom.jpg",
@@ -69,6 +56,19 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Into_Her_Kingdom.jpg",
       "license": "public_domain",
       "attribution": "w:First National Pictures",
+      "is_featured": "True"
+    },
+    {
+      "id": 4603,
+      "media_type": "poster",
+      "title": "Into Her Kingdom (1926) - Poster",
+      "caption": "Theatrical poster for Into Her Kingdom (1926)",
+      "url": "https://image.tmdb.org/t/p/original/hXaunzfE4XpVCcOupgxGM6z3p78.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/hXaunzfE4XpVCcOupgxGM6z3p78.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/672644",
+      "license": "fair_use",
+      "attribution": "Corinne Griffith Productions",
       "is_featured": "True"
     }
   ],

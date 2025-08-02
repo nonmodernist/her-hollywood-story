@@ -5,8 +5,8 @@
   "formatted_title": "Daddy Long Legs",
   "html_title": "<span class=\"film-title\">Daddy Long Legs</span>",
   "release_year": 1931,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 80,
+  "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Alfred Santell",
   "writers": "Sonya Levien",
   "cast_members": "Janet Gaynor|Warner Baxter|Una Merkel|John Arledge|Claude Gillingwater|Effie Ellsler|Kendall McComas|Kathlyn Williams|Elizabeth Patterson|Louise Closser Hale",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 7244,
   "source_work": {
@@ -80,6 +80,45 @@
   },
   "media": [
     {
+      "id": 5359,
+      "media_type": "poster",
+      "title": "Daddy Long Legs (1931) - Poster",
+      "caption": "Theatrical poster for Daddy Long Legs (1931)",
+      "url": "https://image.tmdb.org/t/p/original/iTZ2X1sAWXuLyAJhGogBEj3rDnv.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/iTZ2X1sAWXuLyAJhGogBEj3rDnv.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/247609",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5360,
+      "media_type": "poster",
+      "title": "Daddy Long Legs (1931) - Poster",
+      "caption": "Theatrical poster for Daddy Long Legs (1931)",
+      "url": "https://image.tmdb.org/t/p/original/wKZrmj1VsXxfme4qbrTA4pe63hT.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/wKZrmj1VsXxfme4qbrTA4pe63hT.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/247609",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5361,
+      "media_type": "still",
+      "title": "Daddy Long Legs (1931) - Still",
+      "caption": "Scene from Daddy Long Legs (1931)",
+      "url": "https://image.tmdb.org/t/p/original/rjvgbA4ETLNNw6bn4dC1Ca2TuFm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/rjvgbA4ETLNNw6bn4dC1Ca2TuFm.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/247609",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 606,
       "media_type": "production_photo",
       "title": "Daddy Long Legs 1931.jpg",
@@ -94,7 +133,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 4,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:27:10.334153"
 }

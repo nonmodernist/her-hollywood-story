@@ -5,8 +5,8 @@
   "formatted_title": "Grand Central Murder",
   "html_title": "<span class=\"film-title\">Grand Central Murder</span>",
   "release_year": 1942,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 73,
+  "country_of_production": "United States",
   "genres": [
     "Mystery"
   ],
@@ -16,7 +16,7 @@
   "directors": "S. Sylvan Simon",
   "writers": "Peter Ruric",
   "cast_members": "Van Heflin|Patricia Dane|Cecilia Parker|Virginia Grey|Samuel S. Hinds|Sam Levene|Connie Gilchrist|Mark Daniels|Stephen McNally|Tom Conway",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 27249,
   "source_work": {
@@ -45,6 +45,84 @@
   "other_adaptations": [],
   "adaptation_context": null,
   "media": [
+    {
+      "id": 5713,
+      "media_type": "poster",
+      "title": "Grand Central Murder (1942) - Poster",
+      "caption": "Theatrical poster for Grand Central Murder (1942)",
+      "url": "https://image.tmdb.org/t/p/original/kxfAIFhk9T35ZCLCRCfKlgHC3Vf.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kxfAIFhk9T35ZCLCRCfKlgHC3Vf.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/65546",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5714,
+      "media_type": "poster",
+      "title": "Grand Central Murder (1942) - Poster",
+      "caption": "Theatrical poster for Grand Central Murder (1942)",
+      "url": "https://image.tmdb.org/t/p/original/hCQYHpN7j1Bt078wv7ZY3yeo4bX.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/hCQYHpN7j1Bt078wv7ZY3yeo4bX.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/65546",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5715,
+      "media_type": "poster",
+      "title": "Grand Central Murder (1942) - Poster",
+      "caption": "Theatrical poster for Grand Central Murder (1942)",
+      "url": "https://image.tmdb.org/t/p/original/nGQLo19scnQAkb0XAV0aCoGUwuz.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/nGQLo19scnQAkb0XAV0aCoGUwuz.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/65546",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5716,
+      "media_type": "still",
+      "title": "Grand Central Murder (1942) - Still",
+      "caption": "Scene from Grand Central Murder (1942)",
+      "url": "https://image.tmdb.org/t/p/original/6GTzjkJ4M2W7dfjPcfQQqiPAwuv.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/6GTzjkJ4M2W7dfjPcfQQqiPAwuv.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/65546",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5717,
+      "media_type": "still",
+      "title": "Grand Central Murder (1942) - Still",
+      "caption": "Scene from Grand Central Murder (1942)",
+      "url": "https://image.tmdb.org/t/p/original/qAp2fMsgbSoysY7SdeOQmvppQP.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/qAp2fMsgbSoysY7SdeOQmvppQP.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/65546",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5718,
+      "media_type": "still",
+      "title": "Grand Central Murder (1942) - Still",
+      "caption": "Scene from Grand Central Murder (1942)",
+      "url": "https://image.tmdb.org/t/p/original/3XBcAuj0NVPpz04xIaCOz2t7BqI.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/3XBcAuj0NVPpz04xIaCOz2t7BqI.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/65546",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
     {
       "id": 1668,
       "media_type": "still",
@@ -125,7 +203,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 6,
+  "media_count": 12,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:29:44.819994"
 }

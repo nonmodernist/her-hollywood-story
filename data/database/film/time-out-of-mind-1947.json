@@ -5,8 +5,8 @@
   "formatted_title": "Time Out of Mind",
   "html_title": "<span class=\"film-title\">Time Out of Mind</span>",
   "release_year": 1947,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 88,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Robert Siodmak",
   "writers": "Abem Finkel|Arnold Phillips",
   "cast_members": "Phyllis Calvert|Robert Hutton|Ella Raines|Eddie Albert|Leo G. Carroll|Helena Carter|John Abbott|Henry Stephenson|Olive Blakeney|Harry Shannon",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 25392,
   "source_work": {
@@ -44,9 +44,88 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5628,
+      "media_type": "poster",
+      "title": "Time Out of Mind (1947) - Poster",
+      "caption": "Theatrical poster for Time Out of Mind (1947)",
+      "url": "https://image.tmdb.org/t/p/original/tYiTk7Tim4XWuI59ckBXDcuC7mV.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/tYiTk7Tim4XWuI59ckBXDcuC7mV.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/340092",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5629,
+      "media_type": "poster",
+      "title": "Time Out of Mind (1947) - Poster",
+      "caption": "Theatrical poster for Time Out of Mind (1947)",
+      "url": "https://image.tmdb.org/t/p/original/5KV5rNoB6B1cZuBMIAuZM0wqXyN.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/5KV5rNoB6B1cZuBMIAuZM0wqXyN.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/340092",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5630,
+      "media_type": "poster",
+      "title": "Time Out of Mind (1947) - Poster",
+      "caption": "Theatrical poster for Time Out of Mind (1947)",
+      "url": "https://image.tmdb.org/t/p/original/nS8Tdc4LxVMgLC1TXdQ1ez89D0A.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/nS8Tdc4LxVMgLC1TXdQ1ez89D0A.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/340092",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5631,
+      "media_type": "still",
+      "title": "Time Out of Mind (1947) - Still",
+      "caption": "Scene from Time Out of Mind (1947)",
+      "url": "https://image.tmdb.org/t/p/original/ryLO7ThzekJE8BSpSVv9ht9yz2m.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/ryLO7ThzekJE8BSpSVv9ht9yz2m.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/340092",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5632,
+      "media_type": "still",
+      "title": "Time Out of Mind (1947) - Still",
+      "caption": "Scene from Time Out of Mind (1947)",
+      "url": "https://image.tmdb.org/t/p/original/l8LlVDpCGWPuzVlYzF2IOZYn5lD.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/l8LlVDpCGWPuzVlYzF2IOZYn5lD.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/340092",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5633,
+      "media_type": "still",
+      "title": "Time Out of Mind (1947) - Still",
+      "caption": "Scene from Time Out of Mind (1947)",
+      "url": "https://image.tmdb.org/t/p/original/whvzIryO1OELHCTfEOIwAefXUl9.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/whvzIryO1OELHCTfEOIwAefXUl9.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/340092",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:28:54.744382"
 }

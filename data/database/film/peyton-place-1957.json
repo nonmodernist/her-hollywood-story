@@ -46,19 +46,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 1765,
-      "media_type": "poster",
-      "title": "Peyton Place (1957) poster.jpg",
-      "caption": "Poster art for Peyton Place, 1957",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Peyton_Place_%281957%29_poster.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Peyton_Place_%281957%29_poster.jpg/300px-Peyton_Place_%281957%29_poster.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Peyton_Place_(1957)_poster.jpg",
-      "license": "public_domain",
-      "attribution": "20th Century Fox",
-      "is_featured": "True"
-    },
-    {
       "id": 4576,
       "media_type": "poster",
       "title": "Peyton Place (1957) - Poster",
@@ -68,6 +55,19 @@
       "source": "TMDb",
       "source_url": "https://www.themoviedb.org/movie/43236",
       "license": "fair_use",
+      "attribution": "20th Century Fox",
+      "is_featured": "True"
+    },
+    {
+      "id": 1765,
+      "media_type": "poster",
+      "title": "Peyton Place (1957) poster.jpg",
+      "caption": "Poster art for Peyton Place, 1957",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Peyton_Place_%281957%29_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Peyton_Place_%281957%29_poster.jpg/300px-Peyton_Place_%281957%29_poster.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Peyton_Place_(1957)_poster.jpg",
+      "license": "public_domain",
       "attribution": "20th Century Fox",
       "is_featured": "True"
     },
@@ -163,6 +163,19 @@
       "is_featured": "False"
     },
     {
+      "id": 1772,
+      "media_type": "still",
+      "title": "Hope Lange in Peyton Place.jpg",
+      "caption": "Screenshot of Hope Lange from the trailer for the film Peyton Place",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Hope_Lange_in_Peyton_Place.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Hope_Lange_in_Peyton_Place.jpg/300px-Hope_Lange_in_Peyton_Place.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hope_Lange_in_Peyton_Place.jpg",
+      "license": "public_domain",
+      "attribution": "20th Century Fox",
+      "is_featured": "False"
+    },
+    {
       "id": 1773,
       "media_type": "still",
       "title": "Hope Lange in Peyton Place 2.jpg",
@@ -197,19 +210,6 @@
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Peyton_Place_000.JPG/300px-Peyton_Place_000.JPG",
       "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Peyton_Place_000.JPG",
-      "license": "public_domain",
-      "attribution": "20th Century Fox",
-      "is_featured": "False"
-    },
-    {
-      "id": 1772,
-      "media_type": "still",
-      "title": "Hope Lange in Peyton Place.jpg",
-      "caption": "Screenshot of Hope Lange from the trailer for the film Peyton Place",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Hope_Lange_in_Peyton_Place.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Hope_Lange_in_Peyton_Place.jpg/300px-Hope_Lange_in_Peyton_Place.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Hope_Lange_in_Peyton_Place.jpg",
       "license": "public_domain",
       "attribution": "20th Century Fox",
       "is_featured": "False"

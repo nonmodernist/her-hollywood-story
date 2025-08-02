@@ -73,10 +73,36 @@
       "license": "public_domain",
       "attribution": "Warner Bros.",
       "is_featured": "True"
+    },
+    {
+      "id": 5800,
+      "media_type": "poster",
+      "title": "What Happened to Father (1927) - Poster",
+      "caption": "Theatrical poster for What Happened to Father (1927)",
+      "url": "https://image.tmdb.org/t/p/original/gWUKPgqnCETC3OPjrxqbzN6Gxzm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/gWUKPgqnCETC3OPjrxqbzN6Gxzm.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/441111",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5801,
+      "media_type": "still",
+      "title": "What Happened to Father (1927) - Still",
+      "caption": "Scene from What Happened to Father (1927)",
+      "url": "https://image.tmdb.org/t/p/original/xWNcbCroTpSL5CkTuzy4xD9Wnvl.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/xWNcbCroTpSL5CkTuzy4xD9Wnvl.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/441111",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 1,
+  "media_count": 3,
   "has_narrative": false,
   "last_updated": "2025-08-01T17:09:43.75208"
 }

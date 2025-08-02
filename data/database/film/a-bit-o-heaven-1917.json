@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">A Bit O' Heaven</span>",
   "release_year": 1917,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
   ],
@@ -44,9 +44,36 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5867,
+      "media_type": "poster",
+      "title": "A Bit O' Heaven (1917) - Poster",
+      "caption": "Theatrical poster for A Bit O' Heaven (1917)",
+      "url": "https://image.tmdb.org/t/p/original/6qZUbtEZZEJImz4j4Xefih8hxtD.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/6qZUbtEZZEJImz4j4Xefih8hxtD.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/728376",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5868,
+      "media_type": "still",
+      "title": "A Bit O' Heaven (1917) - Still",
+      "caption": "Scene from A Bit O' Heaven (1917)",
+      "url": "https://image.tmdb.org/t/p/original/gZRaQRegiF3a5VdrtDBK7KWFVqP.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/gZRaQRegiF3a5VdrtDBK7KWFVqP.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/728376",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:31:28.905293"
 }

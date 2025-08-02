@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Danger Ahead</span>",
   "release_year": 1921,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Melodrama"
   ],
@@ -45,6 +45,45 @@
   "other_adaptations": [],
   "adaptation_context": null,
   "media": [
+    {
+      "id": 5512,
+      "media_type": "poster",
+      "title": "Danger Ahead (1921) - Poster",
+      "caption": "Theatrical poster for Danger Ahead (1921)",
+      "url": "https://image.tmdb.org/t/p/original/sjmKjKKv870xJjHaUBgLqHiwFVz.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/sjmKjKKv870xJjHaUBgLqHiwFVz.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/618466",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5513,
+      "media_type": "poster",
+      "title": "Danger Ahead (1921) - Poster",
+      "caption": "Theatrical poster for Danger Ahead (1921)",
+      "url": "https://image.tmdb.org/t/p/original/4GOsYMRq6JAglqGXoyIOrpTHxPE.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/4GOsYMRq6JAglqGXoyIOrpTHxPE.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/618466",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5514,
+      "media_type": "still",
+      "title": "Danger Ahead (1921) - Still",
+      "caption": "Scene from Danger Ahead (1921)",
+      "url": "https://image.tmdb.org/t/p/original/s8jZ0sE0UxbUbhtuWC5zcymN4oo.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/s8jZ0sE0UxbUbhtuWC5zcymN4oo.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/618466",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
     {
       "id": 915,
       "media_type": "advertisement",
@@ -99,7 +138,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 4,
+  "media_count": 7,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:27:52.596779"
 }

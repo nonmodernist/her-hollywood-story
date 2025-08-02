@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Drusilla With a Million</span>",
   "release_year": 1925,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "F. Harmon Weight",
   "writers": "Lois Zellner",
   "cast_members": "Mary Carr|Priscilla Bonner|Kenneth Harlan|Henry A. Barrows|William Humphrey|Claire DuBrey",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 8774,
   "source_work": {
@@ -45,6 +45,32 @@
   "other_adaptations": [],
   "adaptation_context": null,
   "media": [
+    {
+      "id": 5590,
+      "media_type": "poster",
+      "title": "Drusilla With a Million (1925) - Poster",
+      "caption": "Theatrical poster for Drusilla With a Million (1925)",
+      "url": "https://image.tmdb.org/t/p/original/eLyA7FMNChLWOaD2CP6O9RhYgfF.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/eLyA7FMNChLWOaD2CP6O9RhYgfF.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/631056",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5591,
+      "media_type": "still",
+      "title": "Drusilla With a Million (1925) - Still",
+      "caption": "Scene from Drusilla With a Million (1925)",
+      "url": "https://image.tmdb.org/t/p/original/wkY9ZfUaoMnVZbNoZuqhbCHPctL.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/wkY9ZfUaoMnVZbNoZuqhbCHPctL.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/631056",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
     {
       "id": 1140,
       "media_type": "still",
@@ -112,7 +138,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 5,
+  "media_count": 7,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-02T14:28:34.819558"
 }

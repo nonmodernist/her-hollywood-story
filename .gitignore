@@ -2,8 +2,8 @@
 _backend/
 
 # But exclude specific files you might want to track in _backend
+!_backend/source-data/current/
 !_backend/source-data/current/authors_rows.csv
-!_backend/source-data/current/film_media.csv
 !_backend/source-data/current/films_rows.csv
 !_backend/source-data/current/source_works_rows.csv
 

@@ -42,7 +42,7 @@
       "genres": [
         "Drama"
       ],
-      "has_media": false,
+      "has_media": true,
       "years_after_publication": 1
     }
   ],
@@ -56,6 +56,15 @@
     "FMI_link": "http://www.philsp.com/homeville/fmi/k03/k03435.htm#A10",
     "serialized": false,
     "serial_parts": null
+  },
+  "external_urls": [],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": null,
+    "wikidata_id": null,
+    "viaf_id": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-30T18:45:27.113068"

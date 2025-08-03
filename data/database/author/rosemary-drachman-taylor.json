@@ -10,11 +10,11 @@
   "author_notes": null,
   "wikidata_id": "Q112042670",
   "stats": {
-    "total_films": 2,
+    "total_films": 1,
     "works_adapted": 1,
     "first_adaptation": 1948,
-    "last_adaptation": 1956,
-    "year_span": 8,
+    "last_adaptation": 1948,
+    "year_span": 0,
     "top_genres": [
       {
         "genre": "Comedy-drama",
@@ -22,8 +22,7 @@
       }
     ],
     "films_by_decade": {
-      "1940": 1,
-      "1950": 1
+      "1940": 1
     }
   },
   "patterns": {
@@ -46,20 +45,6 @@
       "work_title": "Chicken Every Sunday",
       "work_html_title": "<span class=\"work-title\">Chicken Every Sunday</span>",
       "work_id": 917
-    },
-    {
-      "id": 1023,
-      "slug": "the-hefferan-family-1956",
-      "title": "The Hefferan Family",
-      "html_title": "<span class=\"film-title\">The Hefferan Family</span>",
-      "year": 1956,
-      "studio": null,
-      "directors": null,
-      "genres": [],
-      "has_media": false,
-      "work_title": "Chicken Every Sunday",
-      "work_html_title": "<span class=\"work-title\">Chicken Every Sunday</span>",
-      "work_id": 917
     }
   ],
   "adapted_works": [
@@ -72,7 +57,7 @@
       "work_type": "novel",
       "publication_year": 1943,
       "genre": null,
-      "adaptation_count": 2,
+      "adaptation_count": 1,
       "is_remake_champion": false
     }
   ],
@@ -85,7 +70,7 @@
     "work_type": "novel",
     "publication_year": 1943,
     "genre": null,
-    "adaptation_count": 2,
+    "adaptation_count": 1,
     "is_remake_champion": false
   },
   "has_narrative": false,

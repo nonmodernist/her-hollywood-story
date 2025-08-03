@@ -62,6 +62,32 @@
   },
   "media": [
     {
+      "id": 5904,
+      "media_type": "poster",
+      "title": "A Lady of Quality (1924) - Poster",
+      "caption": "Theatrical poster for A Lady of Quality (1924)",
+      "url": "https://image.tmdb.org/t/p/original/9MHxqCQhI8hML6PFHQkRbniHkX3.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/9MHxqCQhI8hML6PFHQkRbniHkX3.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/536550",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5905,
+      "media_type": "still",
+      "title": "A Lady of Quality (1924) - Still",
+      "caption": "Scene from A Lady of Quality (1924)",
+      "url": "https://image.tmdb.org/t/p/original/6sNNAC5QjBANCZh53ZlWZCsO03B.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/6sNNAC5QjBANCZh53ZlWZCsO03B.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/536550",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 358,
       "media_type": "advertisement",
       "title": "A Lady of Quality (1924) - 7.jpg",
@@ -193,7 +219,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 10,
+  "media_count": 12,
   "has_narrative": false,
   "last_updated": "2025-08-02T14:26:35.426115"
 }

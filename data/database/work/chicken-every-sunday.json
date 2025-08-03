@@ -16,13 +16,13 @@
     "name": "Rosemary Drachman Taylor",
     "birth_year": 1899,
     "death_year": 1981,
-    "film_count": 2
+    "film_count": 1
   },
   "stats": {
-    "adaptation_count": 2,
-    "year_span": 8,
+    "adaptation_count": 1,
+    "year_span": 0,
     "is_remake_champion": false,
-    "average_gap_between_adaptations": 8
+    "average_gap_between_adaptations": null
   },
   "patterns": {
     "is_speed_demon": false,
@@ -44,29 +44,20 @@
       ],
       "has_media": true,
       "years_after_publication": 5
-    },
-    {
-      "id": 1023,
-      "slug": "the-hefferan-family-1956",
-      "title": "The Hefferan Family",
-      "html_title": "<span class=\"film-title\">The Hefferan Family</span>",
-      "year": 1956,
-      "studio": null,
-      "directors": null,
-      "genres": [],
-      "has_media": false,
-      "years_after_publication": 13
     }
   ],
-  "adaptation_gaps": [
-    {
-      "from_year": 1948,
-      "to_year": 1956,
-      "gap_years": 8
-    }
-  ],
+  "adaptation_gaps": [],
   "has_photoplay_edition": false,
   "magazine_publication": null,
+  "external_urls": [],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": null,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
   "has_narrative": false,
   "last_updated": "2025-07-21T17:39:30.350666"
 }

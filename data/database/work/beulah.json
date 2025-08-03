@@ -12,8 +12,8 @@
   "attribution_notes": null,
   "author": {
     "id": 215,
-    "slug": "augusta-wilson",
-    "name": "Augusta Wilson",
+    "slug": "augusta-j-evans",
+    "name": "Augusta J. Evans",
     "birth_year": 1835,
     "death_year": 1909,
     "film_count": 4
@@ -49,6 +49,26 @@
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
   "magazine_publication": null,
+  "external_urls": [
+    {
+      "source": "Open Library",
+      "url": "https://openlibrary.org/works/OL7177843M",
+      "priority": 3
+    },
+    {
+      "source": "WorldCat",
+      "url": "https://www.worldcat.org/oclc/870453956",
+      "priority": 4
+    }
+  ],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": "OL7177843M",
+    "oclc_number": 870453956,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-21T15:11:57.691648"
+  "last_updated": "2025-08-03T02:41:20.645754"
 }

@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Man-Proof</span>",
   "release_year": 1937,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Richard Thorpe",
   "writers": "Vincent Lawrence|Waldemar Young|George Oppenheimer",
   "cast_members": "Myrna Loy|Franchot Tone|Rosalind Russell|Walter Pidgeon|Rita Johnson|Nana Bryant|Ruth Hussey|Leonard Penn|John Miljan|William Stack",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 5361,
   "source_work": {
@@ -44,9 +44,88 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5951,
+      "media_type": "poster",
+      "title": "Man-Proof (1937) - Poster",
+      "caption": "Theatrical poster for Man-Proof (1937)",
+      "url": "https://image.tmdb.org/t/p/original/ciMxgXIkKIFRt0OwUM9eHN1b0Mm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ciMxgXIkKIFRt0OwUM9eHN1b0Mm.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/213443",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5952,
+      "media_type": "poster",
+      "title": "Man-Proof (1937) - Poster",
+      "caption": "Theatrical poster for Man-Proof (1937)",
+      "url": "https://image.tmdb.org/t/p/original/gDfGxPqNyOGPdE9RPYz2lX8efmu.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/gDfGxPqNyOGPdE9RPYz2lX8efmu.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/213443",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5953,
+      "media_type": "poster",
+      "title": "Man-Proof (1937) - Poster",
+      "caption": "Theatrical poster for Man-Proof (1937)",
+      "url": "https://image.tmdb.org/t/p/original/1DsL1iWFHDjMNjAANUNEK3cFqGB.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1DsL1iWFHDjMNjAANUNEK3cFqGB.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/213443",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5954,
+      "media_type": "poster",
+      "title": "Man-Proof (1937) - Poster",
+      "caption": "Theatrical poster for Man-Proof (1937)",
+      "url": "https://image.tmdb.org/t/p/original/5Cfil4MCCDVNsS1dZvXG5WDyOSw.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/5Cfil4MCCDVNsS1dZvXG5WDyOSw.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/213443",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5955,
+      "media_type": "poster",
+      "title": "Man-Proof (1937) - Poster",
+      "caption": "Theatrical poster for Man-Proof (1937)",
+      "url": "https://image.tmdb.org/t/p/original/vlIME6fYquQXpsXmkRj5qgwQ5Ot.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/vlIME6fYquQXpsXmkRj5qgwQ5Ot.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/213443",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5956,
+      "media_type": "still",
+      "title": "Man-Proof (1937) - Still",
+      "caption": "Scene from Man-Proof (1937)",
+      "url": "https://image.tmdb.org/t/p/original/fopOvgKndJSJA4Km5dKEG8t9HZv.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/fopOvgKndJSJA4Km5dKEG8t9HZv.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/213443",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 6,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-03T19:18:35.222756"
 }

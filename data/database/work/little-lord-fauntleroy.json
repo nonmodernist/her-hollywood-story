@@ -77,6 +77,26 @@
     "serialized": true,
     "serial_parts": 12
   },
+  "external_urls": [
+    {
+      "source": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/479",
+      "priority": 1
+    },
+    {
+      "source": "Open Library",
+      "url": "https://openlibrary.org/works/OL69665W",
+      "priority": 3
+    }
+  ],
+  "external_ids": {
+    "gutenberg_id": 479,
+    "internet_archive_id": null,
+    "openlibrary_id": "OL69665W",
+    "oclc_number": null,
+    "wikidata_id": "Q387480",
+    "viaf_id": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-23T02:55:48.26948"
+  "last_updated": "2025-08-02T23:42:34.738726"
 }

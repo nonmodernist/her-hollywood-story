@@ -1,0 +1,78 @@
+{
+  "id": 74,
+  "slug": "jeannette-stratton-porter-meehan",
+  "name": "Jeannette Stratton Porter Meehan",
+  "birth_year": 1887,
+  "death_year": null,
+  "nationality": "American",
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": "Q120481275",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1942,
+    "last_adaptation": 1942,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 265,
+      "slug": "freckles-comes-home-1942",
+      "title": "Freckles Comes Home",
+      "html_title": "<span class=\"film-title\">Freckles Comes Home</span>",
+      "year": 1942,
+      "studio": "Monogram",
+      "directors": "Jean Yarbrough",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "work_title": "Freckles Comes Home",
+      "work_html_title": "<span class=\"work-title\">Freckles Comes Home</span>",
+      "work_id": 222
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 222,
+      "slug": "freckles-comes-home",
+      "title": "Freckles Comes Home",
+      "formatted_title": "Freckles Comes Home",
+      "html_title": "<span class=\"work-title\">Freckles Comes Home</span>",
+      "work_type": "novel",
+      "publication_year": 1929,
+      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 222,
+    "slug": "freckles-comes-home",
+    "title": "Freckles Comes Home",
+    "formatted_title": "Freckles Comes Home",
+    "html_title": "<span class=\"work-title\">Freckles Comes Home</span>",
+    "work_type": "novel",
+    "publication_year": 1929,
+    "genre": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-08-02T16:36:37.411744"
+}

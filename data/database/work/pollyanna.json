@@ -69,6 +69,26 @@
   ],
   "has_photoplay_edition": false,
   "magazine_publication": null,
+  "external_urls": [
+    {
+      "source": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/1450",
+      "priority": 1
+    },
+    {
+      "source": "Open Library",
+      "url": "https://openlibrary.org/works/OL2775807W",
+      "priority": 3
+    }
+  ],
+  "external_ids": {
+    "gutenberg_id": 1450,
+    "internet_archive_id": null,
+    "openlibrary_id": "OL2775807W",
+    "oclc_number": null,
+    "wikidata_id": "Q2348190",
+    "viaf_id": 317292564
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-21T17:39:30.350666"
+  "last_updated": "2025-08-02T23:53:44.363517"
 }

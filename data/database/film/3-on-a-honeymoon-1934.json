@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">3 on a Honeymoon</span>",
   "release_year": 1934,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Comedy-drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "James Tinling",
   "writers": "Edward T. Lowe|Raymond Van Sickle",
   "cast_members": "Sally Eilers|ZaSu Pitts|Henrietta Crosman|Charles Starrett|Irene Hervey|Johnny Mack Brown|Russell Simpson|Cornelius Keefe|Edward Earle|Howard Lally",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 6504,
   "source_work": {
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5960,
+      "media_type": "poster",
+      "title": "3 on a Honeymoon (1934) - Poster",
+      "caption": "Theatrical poster for 3 on a Honeymoon (1934)",
+      "url": "https://image.tmdb.org/t/p/original/e0m9gLu9Ui3n9nSrFeYTBQ3XT9a.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/e0m9gLu9Ui3n9nSrFeYTBQ3XT9a.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/482504",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5961,
+      "media_type": "poster",
+      "title": "3 on a Honeymoon (1934) - Poster",
+      "caption": "Theatrical poster for 3 on a Honeymoon (1934)",
+      "url": "https://image.tmdb.org/t/p/original/y9Wh9BqycCpEpgrnLoCqxckH1T0.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/y9Wh9BqycCpEpgrnLoCqxckH1T0.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/482504",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5962,
+      "media_type": "still",
+      "title": "3 on a Honeymoon (1934) - Still",
+      "caption": "Scene from 3 on a Honeymoon (1934)",
+      "url": "https://image.tmdb.org/t/p/original/2ycM2oArQPQyYjcvusclm9vXV1U.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/2ycM2oArQPQyYjcvusclm9vXV1U.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/482504",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-03T19:18:43.827731"
 }

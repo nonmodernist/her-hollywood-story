@@ -5,7 +5,7 @@
   "formatted_title": "Inez From Hollywood",
   "html_title": "<span class=\"film-title\">Inez From Hollywood</span>",
   "release_year": 1924,
-  "runtime_minutes": null,
+  "runtime_minutes": 70,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -46,14 +46,40 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 392,
+      "id": 5913,
+      "media_type": "poster",
+      "title": "Inez From Hollywood (1924) - Poster",
+      "caption": "Theatrical poster for Inez From Hollywood (1924)",
+      "url": "https://image.tmdb.org/t/p/original/17TFVSQA7hHifF1vZozPjiCTgpv.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/17TFVSQA7hHifF1vZozPjiCTgpv.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/685599",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5914,
+      "media_type": "still",
+      "title": "Inez From Hollywood (1924) - Still",
+      "caption": "Scene from Inez From Hollywood (1924)",
+      "url": "https://image.tmdb.org/t/p/original/8omEj8Lb75Z5TQE53MLTd43hWpm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/8omEj8Lb75Z5TQE53MLTd43hWpm.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/685599",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 393,
       "media_type": "advertisement",
-      "title": "Inez from Hollywood (1924) - 4.jpg",
-      "caption": "Advertisement for the American drama film Inez from Hollywood (1924) with Anna Q. Nilsson, Lewis Stone, and Mary Astor, on page 111 of the January 10, 1925 The Moving Picture World.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Inez_from_Hollywood_%281924%29_-_4.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Inez_from_Hollywood_%281924%29_-_4.jpg/300px-Inez_from_Hollywood_%281924%29_-_4.jpg",
+      "title": "Inez from Hollywood (1924) - 5.jpg",
+      "caption": "Advertisement for the American drama film Inez from Hollywood (1924) with Anna Q. Nilsson and Lewis Stone, on page 208 of the January 17, 1925 The Moving Picture World.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Inez_from_Hollywood_%281924%29_-_5.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Inez_from_Hollywood_%281924%29_-_5.jpg/300px-Inez_from_Hollywood_%281924%29_-_5.jpg",
       "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Inez_from_Hollywood_(1924)_-_4.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Inez_from_Hollywood_(1924)_-_5.jpg",
       "license": "public_domain",
       "attribution": "Sam E. Rork Productions / First National Pictures",
       "is_featured": "False"
@@ -85,14 +111,14 @@
       "is_featured": "False"
     },
     {
-      "id": 393,
+      "id": 392,
       "media_type": "advertisement",
-      "title": "Inez from Hollywood (1924) - 5.jpg",
-      "caption": "Advertisement for the American drama film Inez from Hollywood (1924) with Anna Q. Nilsson and Lewis Stone, on page 208 of the January 17, 1925 The Moving Picture World.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Inez_from_Hollywood_%281924%29_-_5.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Inez_from_Hollywood_%281924%29_-_5.jpg/300px-Inez_from_Hollywood_%281924%29_-_5.jpg",
+      "title": "Inez from Hollywood (1924) - 4.jpg",
+      "caption": "Advertisement for the American drama film Inez from Hollywood (1924) with Anna Q. Nilsson, Lewis Stone, and Mary Astor, on page 111 of the January 10, 1925 The Moving Picture World.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Inez_from_Hollywood_%281924%29_-_4.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Inez_from_Hollywood_%281924%29_-_4.jpg/300px-Inez_from_Hollywood_%281924%29_-_4.jpg",
       "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Inez_from_Hollywood_(1924)_-_5.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Inez_from_Hollywood_(1924)_-_4.jpg",
       "license": "public_domain",
       "attribution": "Sam E. Rork Productions / First National Pictures",
       "is_featured": "False"
@@ -112,7 +138,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 5,
+  "media_count": 7,
   "has_narrative": false,
-  "last_updated": "2025-08-02T14:26:42.364597"
+  "last_updated": "2025-08-03T19:25:28.559604"
 }

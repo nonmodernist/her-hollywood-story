@@ -5,8 +5,8 @@
   "formatted_title": "Miss Susie Slagle's",
   "html_title": "<span class=\"film-title\">Miss Susie Slagle's</span>",
   "release_year": 1945,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 88,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "John Berry",
   "writers": "Anne Froelick|Hugo Butler|Anne Froelick|Adrian Scott",
   "cast_members": "Veronica Lake|Sonny Tufts|Joan Caulfield|Ray Collins|Billy De Wolfe|Bill Edwards|Pat Phelan|Lillian Gish|Roman Bohnen|Morris Carnovsky",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 24503,
   "source_work": {
@@ -44,9 +44,101 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5965,
+      "media_type": "poster",
+      "title": "Miss Susie Slagle's (1945) - Poster",
+      "caption": "Theatrical poster for Miss Susie Slagle's (1945)",
+      "url": "https://image.tmdb.org/t/p/original/e8Top5zAP7n518XakoEBBp4Zk36.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/e8Top5zAP7n518XakoEBBp4Zk36.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/285401",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5966,
+      "media_type": "poster",
+      "title": "Miss Susie Slagle's (1945) - Poster",
+      "caption": "Theatrical poster for Miss Susie Slagle's (1945)",
+      "url": "https://image.tmdb.org/t/p/original/uQo1LutDh7AEtSvYus4vXPkaxYO.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/uQo1LutDh7AEtSvYus4vXPkaxYO.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/285401",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5967,
+      "media_type": "poster",
+      "title": "Miss Susie Slagle's (1945) - Poster",
+      "caption": "Theatrical poster for Miss Susie Slagle's (1945)",
+      "url": "https://image.tmdb.org/t/p/original/e5BbHiQ5b3tt1OEadopuOPI9XT2.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/e5BbHiQ5b3tt1OEadopuOPI9XT2.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/285401",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5968,
+      "media_type": "poster",
+      "title": "Miss Susie Slagle's (1945) - Poster",
+      "caption": "Theatrical poster for Miss Susie Slagle's (1945)",
+      "url": "https://image.tmdb.org/t/p/original/dwCdJphdpa7Jdx8OrDh8DHFeztU.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dwCdJphdpa7Jdx8OrDh8DHFeztU.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/285401",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5969,
+      "media_type": "still",
+      "title": "Miss Susie Slagle's (1945) - Still",
+      "caption": "Scene from Miss Susie Slagle's (1945)",
+      "url": "https://image.tmdb.org/t/p/original/1Kd7q2IYgZEUtTfg702gFzHkVQT.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/1Kd7q2IYgZEUtTfg702gFzHkVQT.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/285401",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5970,
+      "media_type": "still",
+      "title": "Miss Susie Slagle's (1945) - Still",
+      "caption": "Scene from Miss Susie Slagle's (1945)",
+      "url": "https://image.tmdb.org/t/p/original/t0ajOxB6nd7v52FM7ODwrTcN8hv.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/t0ajOxB6nd7v52FM7ODwrTcN8hv.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/285401",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5971,
+      "media_type": "still",
+      "title": "Miss Susie Slagle's (1945) - Still",
+      "caption": "Scene from Miss Susie Slagle's (1945)",
+      "url": "https://image.tmdb.org/t/p/original/uUTaA8rbknEFMmQLI7jA9aaw7tj.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/uUTaA8rbknEFMmQLI7jA9aaw7tj.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/285401",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 7,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-03T19:18:48.583101"
 }

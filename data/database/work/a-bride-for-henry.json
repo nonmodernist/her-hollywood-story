@@ -14,8 +14,8 @@
     "id": 116,
     "slug": "josephine-bentham",
     "name": "Josephine Bentham",
-    "birth_year": null,
-    "death_year": null,
+    "birth_year": 1901,
+    "death_year": 1987,
     "film_count": 2
   },
   "stats": {
@@ -56,6 +56,15 @@
     "FMI_link": "http://www.philsp.com/homeville/fmi/k06/k06264.htm#A12",
     "serialized": false,
     "serial_parts": null
+  },
+  "external_urls": [],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": null,
+    "wikidata_id": null,
+    "viaf_id": null
   },
   "has_narrative": false,
   "last_updated": "2025-07-30T21:53:33.084205"

@@ -5,8 +5,8 @@
   "formatted_title": "The Bride Comes Home",
   "html_title": "<span class=\"film-title\">The Bride Comes Home</span>",
   "release_year": 1936,
-  "runtime_minutes": null,
-  "country_of_production": null,
+  "runtime_minutes": 83,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -16,7 +16,7 @@
   "directors": "Wesley Ruggles",
   "writers": "Claude Binyon",
   "cast_members": "Claudette Colbert|Fred MacMurray|Robert Young|William Collier Sr.|Donald Meek|Richard Carle|Edgar Kennedy|Johnny Arthur|Kate McKenna|Jimmy Conlin",
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": 6381,
   "source_work": {
@@ -44,9 +44,75 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5920,
+      "media_type": "poster",
+      "title": "The Bride Comes Home (1936) - Poster",
+      "caption": "Theatrical poster for The Bride Comes Home (1936)",
+      "url": "https://image.tmdb.org/t/p/original/7jjzQfjbX7dMqNf9tO3rUVhu2zl.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/7jjzQfjbX7dMqNf9tO3rUVhu2zl.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/120497",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5921,
+      "media_type": "poster",
+      "title": "The Bride Comes Home (1936) - Poster",
+      "caption": "Theatrical poster for The Bride Comes Home (1936)",
+      "url": "https://image.tmdb.org/t/p/original/fqDV1KnvYGpi3nIQEhWaWhyJ3b0.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/fqDV1KnvYGpi3nIQEhWaWhyJ3b0.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/120497",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5922,
+      "media_type": "poster",
+      "title": "The Bride Comes Home (1936) - Poster",
+      "caption": "Theatrical poster for The Bride Comes Home (1936)",
+      "url": "https://image.tmdb.org/t/p/original/qsY7SBZhYjYDGuCLVe1gMcw99oW.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/qsY7SBZhYjYDGuCLVe1gMcw99oW.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/120497",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5923,
+      "media_type": "poster",
+      "title": "The Bride Comes Home (1936) - Poster",
+      "caption": "Theatrical poster for The Bride Comes Home (1936)",
+      "url": "https://image.tmdb.org/t/p/original/qVH2ABDhzBLqKyB72dVknD5Tvj9.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/qVH2ABDhzBLqKyB72dVknD5Tvj9.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/120497",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5924,
+      "media_type": "still",
+      "title": "The Bride Comes Home (1936) - Still",
+      "caption": "Scene from The Bride Comes Home (1936)",
+      "url": "https://image.tmdb.org/t/p/original/7AVDXWiadatdJ4rdWYjYzrYZA6O.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/7AVDXWiadatdJ4rdWYjYzrYZA6O.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/120497",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-03T19:18:21.85441"
 }

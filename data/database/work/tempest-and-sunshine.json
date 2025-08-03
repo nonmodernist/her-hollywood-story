@@ -5,7 +5,7 @@
   "formatted_title": "Tempest and Sunshine",
   "html_title": "<span class=\"work-title\">Tempest and Sunshine</span>",
   "work_type": "novel",
-  "publication_year": 1844,
+  "publication_year": 1854,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 72,
+    "speed_demon_delay": 62,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,12 +43,32 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 72
+      "years_after_publication": 62
     }
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
   "magazine_publication": null,
+  "external_urls": [
+    {
+      "source": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/17260",
+      "priority": 1
+    },
+    {
+      "source": "WorldCat",
+      "url": "https://www.worldcat.org/oclc/40390217",
+      "priority": 4
+    }
+  ],
+  "external_ids": {
+    "gutenberg_id": 17260,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": 40390217,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-21T17:39:30.350666"
+  "last_updated": "2025-08-03T02:13:47.236498"
 }

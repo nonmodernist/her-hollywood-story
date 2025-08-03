@@ -49,6 +49,31 @@
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
   "magazine_publication": null,
+  "external_urls": [
+    {
+      "source": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/10429",
+      "priority": 1
+    },
+    {
+      "source": "Open Library",
+      "url": "https://openlibrary.org/works/OL5035743W",
+      "priority": 3
+    },
+    {
+      "source": "WorldCat",
+      "url": "https://www.worldcat.org/oclc/284467",
+      "priority": 4
+    }
+  ],
+  "external_ids": {
+    "gutenberg_id": 10429,
+    "internet_archive_id": null,
+    "openlibrary_id": "OL5035743W",
+    "oclc_number": 284467,
+    "wikidata_id": "Q6876996",
+    "viaf_id": 299524916
+  },
   "has_narrative": false,
-  "last_updated": "2025-06-20T21:02:52.981359"
+  "last_updated": "2025-08-02T23:46:38.454844"
 }

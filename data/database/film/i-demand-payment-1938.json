@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">I Demand Payment</span>",
   "release_year": 1938,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -44,9 +44,49 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5936,
+      "media_type": "poster",
+      "title": "I Demand Payment (1938) - Poster",
+      "caption": "Theatrical poster for I Demand Payment (1938)",
+      "url": "https://image.tmdb.org/t/p/original/5xXQnopFR38TIQwDp6rZHTz19cY.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/5xXQnopFR38TIQwDp6rZHTz19cY.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/627952",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5937,
+      "media_type": "poster",
+      "title": "I Demand Payment (1938) - Poster",
+      "caption": "Theatrical poster for I Demand Payment (1938)",
+      "url": "https://image.tmdb.org/t/p/original/fP24LOSYFx7PHdKSff5TNQL6LN7.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/fP24LOSYFx7PHdKSff5TNQL6LN7.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/627952",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5938,
+      "media_type": "still",
+      "title": "I Demand Payment (1938) - Still",
+      "caption": "Scene from I Demand Payment (1938)",
+      "url": "https://image.tmdb.org/t/p/original/zzOP3qS1cwz4HpdPptlz3JxZhIr.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/zzOP3qS1cwz4HpdPptlz3JxZhIr.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/627952",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-07-31T20:55:34.163372"
+  "last_updated": "2025-08-03T19:18:26.810668"
 }

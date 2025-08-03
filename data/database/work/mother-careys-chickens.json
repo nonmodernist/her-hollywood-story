@@ -77,6 +77,26 @@
     "serialized": true,
     "serial_parts": null
   },
+  "external_urls": [
+    {
+      "source": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/10540",
+      "priority": 1
+    },
+    {
+      "source": "Open Library",
+      "url": "https://openlibrary.org/works/OL3468640W",
+      "priority": 3
+    }
+  ],
+  "external_ids": {
+    "gutenberg_id": 10540,
+    "internet_archive_id": null,
+    "openlibrary_id": "OL3468640W",
+    "oclc_number": null,
+    "wikidata_id": "Q6917312",
+    "viaf_id": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-24T19:05:56.122401"
+  "last_updated": "2025-08-02T23:45:57.98365"
 }

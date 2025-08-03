@@ -71,12 +71,37 @@
   "magazine_publication": {
     "magazine_title": "The Saturday Evening Post",
     "magazine_pub_date": "1932-01-02",
-    "magazine_issue_info": "v204 #27",
+    "magazine_issue_info": "v204 #27-?",
     "digitized_url": null,
     "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09553.htm#A5",
     "serialized": true,
     "serial_parts": 7
   },
+  "external_urls": [
+    {
+      "source": "Internet Archive",
+      "url": "https://archive.org/details/misspinkerton00rine",
+      "priority": 2
+    },
+    {
+      "source": "Open Library",
+      "url": "https://openlibrary.org/works/OL24214165M",
+      "priority": 3
+    },
+    {
+      "source": "WorldCat",
+      "url": "https://www.worldcat.org/oclc/12324765",
+      "priority": 4
+    }
+  ],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": "misspinkerton00rine",
+    "openlibrary_id": "OL24214165M",
+    "oclc_number": 12324765,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-22T20:25:23.954222"
+  "last_updated": "2025-08-03T05:08:44.541538"
 }

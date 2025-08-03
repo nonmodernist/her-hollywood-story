@@ -46,6 +46,45 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 5917,
+      "media_type": "poster",
+      "title": "Are Parents People? (1925) - Poster",
+      "caption": "Theatrical poster for Are Parents People? (1925)",
+      "url": "https://image.tmdb.org/t/p/original/pKke18MyMh5tO7BX9VKVnuH9rc8.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/pKke18MyMh5tO7BX9VKVnuH9rc8.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/120674",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5918,
+      "media_type": "poster",
+      "title": "Are Parents People? (1925) - Poster",
+      "caption": "Theatrical poster for Are Parents People? (1925)",
+      "url": "https://image.tmdb.org/t/p/original/u4woWymnxwKLikR02vguaQUH35l.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/u4woWymnxwKLikR02vguaQUH35l.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/120674",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5919,
+      "media_type": "still",
+      "title": "Are Parents People? (1925) - Still",
+      "caption": "Scene from Are Parents People? (1925)",
+      "url": "https://image.tmdb.org/t/p/original/q5cHUpDpHb33WbYQ8pWyeGae6KZ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/q5cHUpDpHb33WbYQ8pWyeGae6KZ.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/120674",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
       "id": 424,
       "media_type": "still",
       "title": "Are Parents People (1925) - 1.jpg",
@@ -125,7 +164,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 6,
+  "media_count": 9,
   "has_narrative": false,
   "last_updated": "2025-08-02T14:26:44.683552"
 }

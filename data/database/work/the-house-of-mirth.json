@@ -57,6 +57,21 @@
     "serialized": true,
     "serial_parts": 11
   },
+  "external_urls": [
+    {
+      "source": "Open Library",
+      "url": "https://openlibrary.org/works/OL98587W",
+      "priority": 3
+    }
+  ],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": "OL98587W",
+    "oclc_number": null,
+    "wikidata_id": "Q6474536",
+    "viaf_id": 212969377
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-24T19:55:34.555847"
+  "last_updated": "2025-08-03T00:00:05.004758"
 }

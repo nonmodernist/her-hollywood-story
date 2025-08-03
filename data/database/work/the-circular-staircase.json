@@ -117,6 +117,31 @@
     "serialized": true,
     "serial_parts": 5
   },
+  "external_urls": [
+    {
+      "source": "Internet Archive",
+      "url": "https://archive.org/details/circularstaircas00rineiala",
+      "priority": 2
+    },
+    {
+      "source": "Open Library",
+      "url": "https://openlibrary.org/works/OL24152130M",
+      "priority": 3
+    },
+    {
+      "source": "WorldCat",
+      "url": "https://www.worldcat.org/oclc/4280505",
+      "priority": 4
+    }
+  ],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": "circularstaircas00rineiala",
+    "openlibrary_id": "OL24152130M",
+    "oclc_number": 4280505,
+    "wikidata_id": "Q117193691",
+    "viaf_id": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-31T00:56:04.919763"
+  "last_updated": "2025-08-03T04:14:53.019317"
 }

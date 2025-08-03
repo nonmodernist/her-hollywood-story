@@ -46,19 +46,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 4559,
-      "media_type": "poster",
-      "title": "Scarlet Dawn (1932) - Poster",
-      "caption": "Theatrical poster for Scarlet Dawn (1932)",
-      "url": "https://image.tmdb.org/t/p/original/unPtNlqq7bN7D8oEyDwC5g7DtIv.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/unPtNlqq7bN7D8oEyDwC5g7DtIv.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/163773",
-      "license": "fair_use",
-      "attribution": "Warner Bros",
-      "is_featured": "False"
-    },
-    {
       "id": 1746,
       "media_type": "poster",
       "title": "Poster - Scarlet Dawn 01.jpg",
@@ -70,6 +57,19 @@
       "license": "public_domain",
       "attribution": "Employee(s) of Warner Bros. or Vitaphone",
       "is_featured": "True"
+    },
+    {
+      "id": 4559,
+      "media_type": "poster",
+      "title": "Scarlet Dawn (1932) - Poster",
+      "caption": "Theatrical poster for Scarlet Dawn (1932)",
+      "url": "https://image.tmdb.org/t/p/original/unPtNlqq7bN7D8oEyDwC5g7DtIv.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/unPtNlqq7bN7D8oEyDwC5g7DtIv.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/163773",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
     },
     {
       "id": 4560,

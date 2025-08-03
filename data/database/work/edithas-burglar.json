@@ -5,7 +5,7 @@
   "formatted_title": "Editha's Burglar",
   "html_title": "<span class=\"work-title\">Editha's Burglar</span>",
   "work_type": "novel",
-  "publication_year": 1878,
+  "publication_year": 1888,
   "genre": null,
   "plot_summary": null,
   "literary_significance": null,
@@ -26,7 +26,7 @@
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 46,
+    "speed_demon_delay": 36,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,12 +43,32 @@
         "Melodrama"
       ],
       "has_media": true,
-      "years_after_publication": 46
+      "years_after_publication": 36
     }
   ],
   "adaptation_gaps": [],
   "has_photoplay_edition": true,
   "magazine_publication": null,
+  "external_urls": [
+    {
+      "source": "Open Library",
+      "url": "https://openlibrary.org/works/OL24176704M",
+      "priority": 3
+    },
+    {
+      "source": "WorldCat",
+      "url": "https://www.worldcat.org/oclc/826452215",
+      "priority": 4
+    }
+  ],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": "OL24176704M",
+    "oclc_number": 826452215,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-23T02:52:29.710432"
+  "last_updated": "2025-08-03T03:05:30.814918"
 }

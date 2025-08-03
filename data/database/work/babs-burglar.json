@@ -57,6 +57,36 @@
     "serialized": false,
     "serial_parts": null
   },
+  "external_urls": [
+    {
+      "source": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/366",
+      "priority": 1
+    },
+    {
+      "source": "Internet Archive",
+      "url": "https://archive.org/details/babsubdeb00rine",
+      "priority": 2
+    },
+    {
+      "source": "Open Library",
+      "url": "https://openlibrary.org/works/OL51288385M",
+      "priority": 3
+    },
+    {
+      "source": "WorldCat",
+      "url": "https://www.worldcat.org/oclc/1007712627",
+      "priority": 4
+    }
+  ],
+  "external_ids": {
+    "gutenberg_id": 366,
+    "internet_archive_id": "babsubdeb00rine",
+    "openlibrary_id": "OL51288385M",
+    "oclc_number": 1007712627,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-07-22T20:06:25.050008"
+  "last_updated": "2025-08-03T04:41:37.846847"
 }

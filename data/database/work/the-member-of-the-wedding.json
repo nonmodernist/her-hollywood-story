@@ -49,6 +49,26 @@
   "adaptation_gaps": [],
   "has_photoplay_edition": false,
   "magazine_publication": null,
+  "external_urls": [
+    {
+      "source": "Internet Archive",
+      "url": "https://archive.org/details/memberofwedding00cars",
+      "priority": 2
+    },
+    {
+      "source": "Open Library",
+      "url": "https://openlibrary.org/works/OL14864448W",
+      "priority": 3
+    }
+  ],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": "memberofwedding00cars",
+    "openlibrary_id": "OL14864448W",
+    "oclc_number": null,
+    "wikidata_id": "Q81473381",
+    "viaf_id": null
+  },
   "has_narrative": false,
-  "last_updated": "2025-06-17T03:48:03.914138"
+  "last_updated": "2025-08-02T23:47:29.58192"
 }

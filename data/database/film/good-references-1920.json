@@ -46,19 +46,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 2418,
-      "media_type": "poster",
-      "title": "Good References poster.jpg",
-      "caption": "Poster for the 1920 film Good References.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Good_References_poster.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Good_References_poster.jpg/300px-Good_References_poster.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Good_References_poster.jpg",
-      "license": "public_domain",
-      "attribution": "First National",
-      "is_featured": "True"
-    },
-    {
       "id": 5286,
       "media_type": "poster",
       "title": "Good References (1920) - Poster",
@@ -70,6 +57,19 @@
       "license": "fair_use",
       "attribution": "First National",
       "is_featured": "False"
+    },
+    {
+      "id": 2418,
+      "media_type": "poster",
+      "title": "Good References poster.jpg",
+      "caption": "Poster for the 1920 film Good References.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Good_References_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Good_References_poster.jpg/300px-Good_References_poster.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Good_References_poster.jpg",
+      "license": "public_domain",
+      "attribution": "First National",
+      "is_featured": "True"
     },
     {
       "id": 5287,

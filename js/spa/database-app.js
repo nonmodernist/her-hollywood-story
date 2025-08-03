@@ -568,27 +568,29 @@ function renderWorkDetail(work) {
                 `<p class="serialization-note">Serialized in ${work.magazine_publication.serial_parts} parts</p>` : ''}
             
                 <!-- Archive Links Section -->
-        <div class="archive-links">
-            ${work.magazine_publication.digitized_url ? `
-                <p class="archive-link">
-                    <a href="${work.magazine_publication.digitized_url}" 
-                       target="_blank" 
-                       rel="noopener">
-                        Read the full magazine issue →
-                    </a>
-                </p>
-            ` : ''}
-            
-            ${work.magazine_publication.FMI_link ? `
-                <p class="external-link">
-                    <a href="${work.magazine_publication.FMI_link}" 
-                       target="_blank" 
-                       rel="noopener">
-                        View in FictionMags Index →
-                    </a>
-                </p>
-            ` : ''}
-        </div></section>
+        ${(work.magazine_publication.digitized_url || work.magazine_publication.FMI_link) ? `
+            <div class="archive-links">
+                ${work.magazine_publication.digitized_url ? `
+                    <p class="archive-link">
+                        <a href="${work.magazine_publication.digitized_url}" 
+                           target="_blank" 
+                           rel="noopener">
+                            Read the full magazine issue →
+                        </a>
+                    </p>
+                ` : ''}
+                
+                ${work.magazine_publication.FMI_link ? `
+                    <p class="external-link">
+                        <a href="${work.magazine_publication.FMI_link}" 
+                           target="_blank" 
+                           rel="noopener">
+                            View in FictionMags Index →
+                        </a>
+                    </p>
+                ` : ''}
+            </div>
+        ` : ''}</section>
                 ` : ''}
                 
                 <!-- Photoplay Edition Section (simplified for now) -->

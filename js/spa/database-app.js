@@ -593,6 +593,44 @@ function renderWorkDetail(work) {
         ` : ''}</section>
                 ` : ''}
                 
+                <!-- External Book Links Section -->
+                ${work.external_urls && work.external_urls.length > 0 ? `
+                    <section class="detail-section">
+                        <h3>Read the Book</h3>
+                        ${(() => {
+                            // Sort by priority
+                            const sortedUrls = work.external_urls.sort((a, b) => a.priority - b.priority);
+                            
+                            // Apply display logic
+                            let filteredUrls = [];
+                            let hasInternetArchive = sortedUrls.some(url => url.source === 'Internet Archive');
+                            
+                            for (let url of sortedUrls) {
+                                // Always include Project Gutenberg and Internet Archive
+                                if (url.source === 'Project Gutenberg' || url.source === 'Internet Archive') {
+                                    filteredUrls.push(url);
+                                }
+                                // Only include Open Library if no Internet Archive
+                                else if (url.source === 'Open Library' && !hasInternetArchive) {
+                                    filteredUrls.push(url);
+                                }
+                                // Only include WorldCat if no other links
+                                else if (url.source === 'WorldCat' && filteredUrls.length === 0) {
+                                    filteredUrls.push(url);
+                                }
+                            }
+                            
+                            return filteredUrls.map(url => `
+                                <p class="external-link">
+                                    <a href="${url.url}" target="_blank" rel="noopener">
+                                        ${url.source} →
+                                    </a>
+                                </p>
+                            `).join('');
+                        })()}
+                    </section>
+                ` : ''}
+                
                 <!-- Photoplay Edition Section (simplified for now) -->
                 ${work.has_photoplay_edition ? `
                     <section class="detail-section">

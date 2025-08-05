@@ -57,6 +57,22 @@
       "work_id": 568
     },
     {
+      "id": 646,
+      "slug": "lena-rivers-1914",
+      "title": "Lena Rivers",
+      "html_title": "<span class=\"film-title\">Lena Rivers</span>",
+      "year": 1914,
+      "studio": "Whitman Features",
+      "directors": null,
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "work_title": "Lena Rivers",
+      "work_html_title": "<span class=\"work-title\">Lena Rivers</span>",
+      "work_id": 568
+    },
+    {
       "id": 647,
       "slug": "lena-rivers-1914",
       "title": "Lena Rivers",
@@ -69,22 +85,6 @@
         "Comedy"
       ],
       "has_media": true,
-      "work_title": "Lena Rivers",
-      "work_html_title": "<span class=\"work-title\">Lena Rivers</span>",
-      "work_id": 568
-    },
-    {
-      "id": 646,
-      "slug": "lena-rivers-1914",
-      "title": "Lena Rivers",
-      "html_title": "<span class=\"film-title\">Lena Rivers</span>",
-      "year": 1914,
-      "studio": "Whitman Features",
-      "directors": null,
-      "genres": [
-        "Melodrama"
-      ],
-      "has_media": false,
       "work_title": "Lena Rivers",
       "work_html_title": "<span class=\"work-title\">Lena Rivers</span>",
       "work_id": 568
@@ -147,7 +147,6 @@
       "html_title": "<span class=\"work-title\">Lena Rivers</span>",
       "work_type": "novel",
       "publication_year": 1856,
-      "genre": null,
       "adaptation_count": 5,
       "is_remake_champion": true
     },
@@ -159,7 +158,6 @@
       "html_title": "<span class=\"work-title\">Tempest and Sunshine</span>",
       "work_type": "novel",
       "publication_year": 1854,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     }
@@ -172,10 +170,9 @@
     "html_title": "<span class=\"work-title\">Lena Rivers</span>",
     "work_type": "novel",
     "publication_year": 1856,
-    "genre": null,
     "adaptation_count": 5,
     "is_remake_champion": true
   },
   "has_narrative": false,
-  "last_updated": "2025-07-20T01:09:49.285188"
+  "last_updated": "2025-08-04T17:06:35.659603"
 }

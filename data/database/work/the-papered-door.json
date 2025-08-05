@@ -1,0 +1,68 @@
+{
+  "id": 1025,
+  "slug": "the-papered-door",
+  "title": "The Papered Door",
+  "formatted_title": "\"The Papered Door\"",
+  "html_title": "<span class=\"work-title short-story\">\"The Papered Door\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1914,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 6,
+    "slug": "mary-roberts-rinehart",
+    "name": "Mary Roberts Rinehart",
+    "birth_year": 1876,
+    "death_year": 1958,
+    "film_count": 41
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1143,
+      "slug": "the-papered-door-1915",
+      "title": "The Papered Door",
+      "html_title": "<span class=\"film-title\">The Papered Door</span>",
+      "year": 1915,
+      "studio": "Essanay",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "has_photoplay_edition": false,
+  "magazine_publication": {
+    "magazine_title": "Collier’s",
+    "magazine_pub_date": "1914-03-21",
+    "magazine_issue_info": "v53 #1",
+    "digitized_url": "https://archive.org/details/sim_colliers-the-national-weekly_1914-03-21_53_1",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k03/k03028.htm#A2",
+    "serialized": false,
+    "serial_parts": null
+  },
+  "external_urls": [],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": null,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-08-05T16:07:29.103851"
+}

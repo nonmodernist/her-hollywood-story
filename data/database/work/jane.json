@@ -1,0 +1,68 @@
+{
+  "id": 1020,
+  "slug": "jane",
+  "title": "Jane",
+  "formatted_title": "\"Jane\"",
+  "html_title": "<span class=\"work-title short-story\">\"Jane\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1912,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 6,
+    "slug": "mary-roberts-rinehart",
+    "name": "Mary Roberts Rinehart",
+    "birth_year": 1876,
+    "death_year": 1958,
+    "film_count": 41
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1137,
+      "slug": "jane-1914",
+      "title": "Jane",
+      "html_title": "<span class=\"film-title\">Jane</span>",
+      "year": 1914,
+      "studio": "Essanay",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "years_after_publication": 2
+    }
+  ],
+  "adaptation_gaps": [],
+  "has_photoplay_edition": false,
+  "magazine_publication": {
+    "magazine_title": "The Saturday Evening Post",
+    "magazine_pub_date": null,
+    "magazine_issue_info": null,
+    "digitized_url": null,
+    "FMI_link": null,
+    "serialized": false,
+    "serial_parts": null
+  },
+  "external_urls": [],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": null,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-08-04T17:59:35.865438"
+}

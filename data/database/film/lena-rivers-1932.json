@@ -27,7 +27,6 @@
     "html_title": "<span class=\"work-title\">Lena Rivers</span>",
     "work_type": "novel",
     "publication_year": 1856,
-    "genre": null,
     "plot_summary": null,
     "literary_significance": null,
     "adaptation_count": 5,
@@ -53,15 +52,6 @@
       "studio": "Thanhouser"
     },
     {
-      "id": 647,
-      "slug": "lena-rivers-1914",
-      "title": "Lena Rivers",
-      "html_title": "<span class=\"film-title\">Lena Rivers</span>",
-      "year": 1914,
-      "directors": null,
-      "studio": "Cosmos"
-    },
-    {
       "id": 646,
       "slug": "lena-rivers-1914",
       "title": "Lena Rivers",
@@ -69,6 +59,15 @@
       "year": 1914,
       "directors": null,
       "studio": "Whitman Features"
+    },
+    {
+      "id": 647,
+      "slug": "lena-rivers-1914",
+      "title": "Lena Rivers",
+      "html_title": "<span class=\"film-title\">Lena Rivers</span>",
+      "year": 1914,
+      "directors": null,
+      "studio": "Cosmos"
     },
     {
       "id": 648,
@@ -131,5 +130,5 @@
   "has_media": true,
   "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-08-03T02:29:48.82366"
+  "last_updated": "2025-08-04T19:48:13.472502"
 }

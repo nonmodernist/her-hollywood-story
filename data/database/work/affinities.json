@@ -6,7 +6,6 @@
   "html_title": "<span class=\"work-title\">Affinities</span>",
   "work_type": "novella",
   "publication_year": 1913,
-  "genre": null,
   "plot_summary": null,
   "literary_significance": null,
   "attribution_notes": null,
@@ -16,21 +15,33 @@
     "name": "Mary Roberts Rinehart",
     "birth_year": 1876,
     "death_year": 1958,
-    "film_count": 33
+    "film_count": 41
   },
   "stats": {
-    "adaptation_count": 1,
-    "year_span": 0,
+    "adaptation_count": 2,
+    "year_span": 7,
     "is_remake_champion": false,
-    "average_gap_between_adaptations": null
+    "average_gap_between_adaptations": 7
   },
   "patterns": {
     "is_speed_demon": false,
-    "speed_demon_delay": 9,
+    "speed_demon_delay": 2,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
   "adaptations": [
+    {
+      "id": 1144,
+      "slug": "affinities-1915",
+      "title": "Affinities",
+      "html_title": "<span class=\"film-title\">Affinities</span>",
+      "year": 1915,
+      "studio": "Essanay",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "years_after_publication": 2
+    },
     {
       "id": 920,
       "slug": "affinities-1922",
@@ -46,7 +57,13 @@
       "years_after_publication": 9
     }
   ],
-  "adaptation_gaps": [],
+  "adaptation_gaps": [
+    {
+      "from_year": 1915,
+      "to_year": 1922,
+      "gap_years": 7
+    }
+  ],
   "has_photoplay_edition": false,
   "magazine_publication": {
     "magazine_title": "The Saturday Evening Post",
@@ -88,5 +105,5 @@
     "viaf_id": null
   },
   "has_narrative": false,
-  "last_updated": "2025-08-03T04:30:14.983761"
+  "last_updated": "2025-08-04T17:06:35.659603"
 }

@@ -27,10 +27,9 @@
     "html_title": "<span class=\"work-title short-story\">\"Mind Over Motor\"</span>",
     "work_type": "short_story",
     "publication_year": 1912,
-    "genre": null,
     "plot_summary": null,
     "literary_significance": null,
-    "adaptation_count": 1,
+    "adaptation_count": 2,
     "year_to_adaptation": 11
   },
   "author": {
@@ -40,10 +39,26 @@
     "birth_year": 1876,
     "death_year": 1958,
     "nationality": "American",
-    "film_count": 33
+    "film_count": 41
   },
-  "other_adaptations": [],
-  "adaptation_context": null,
+  "other_adaptations": [
+    {
+      "id": 1140,
+      "slug": "mind-over-motor-1915",
+      "title": "Mind Over Motor",
+      "html_title": "<span class=\"film-title\">Mind Over Motor</span>",
+      "year": 1915,
+      "directors": null,
+      "studio": "Essanay"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 2,
+    "is_first": false,
+    "is_latest": true
+  },
   "media": [
     {
       "id": 5798,
@@ -62,5 +77,5 @@
   "has_media": true,
   "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-08-02T14:30:49.337592"
+  "last_updated": "2025-08-04T19:48:13.472502"
 }

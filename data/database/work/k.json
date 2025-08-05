@@ -1,0 +1,111 @@
+{
+  "id": 835,
+  "slug": "k",
+  "title": "K",
+  "formatted_title": "K",
+  "html_title": "<span class=\"work-title\">K</span>",
+  "work_type": "novel",
+  "publication_year": 1914,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 6,
+    "slug": "mary-roberts-rinehart",
+    "name": "Mary Roberts Rinehart",
+    "birth_year": 1876,
+    "death_year": 1958,
+    "film_count": 41
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 6,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": 6
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 4,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 929,
+      "slug": "the-doctor-and-the-woman-1918",
+      "title": "The Doctor and the Woman",
+      "html_title": "<span class=\"film-title\">The Doctor and the Woman</span>",
+      "year": 1918,
+      "studio": "Lois Weber Productions",
+      "directors": "Lois Weber",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 4
+    },
+    {
+      "id": 930,
+      "slug": "k-the-unknown-1924",
+      "title": "K--The Unknown",
+      "html_title": "<span class=\"film-title\">K--The Unknown</span>",
+      "year": 1924,
+      "studio": "Universal",
+      "directors": "Harry Pollard",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "years_after_publication": 10
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1918,
+      "to_year": 1924,
+      "gap_years": 6
+    }
+  ],
+  "has_photoplay_edition": false,
+  "magazine_publication": {
+    "magazine_title": "McClure's",
+    "magazine_pub_date": "1914-10-01",
+    "magazine_issue_info": "v43 #6, v 44 #1-6, v45 #1-6",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k07/k07078.htm#A2",
+    "serialized": true,
+    "serial_parts": 13
+  },
+  "external_urls": [
+    {
+      "source": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/9931",
+      "priority": 1
+    },
+    {
+      "source": "Internet Archive",
+      "url": "https://archive.org/details/krine00rine",
+      "priority": 2
+    },
+    {
+      "source": "Open Library",
+      "url": "https://openlibrary.org/works/OL6578629M",
+      "priority": 3
+    },
+    {
+      "source": "WorldCat",
+      "url": "https://www.worldcat.org/oclc/39111410",
+      "priority": 4
+    }
+  ],
+  "external_ids": {
+    "gutenberg_id": 9931,
+    "internet_archive_id": "krine00rine",
+    "openlibrary_id": "OL6578629M",
+    "oclc_number": 39111410,
+    "wikidata_id": "Q17030397",
+    "viaf_id": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-08-05T16:00:00.658716"
+}

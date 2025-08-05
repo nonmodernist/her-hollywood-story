@@ -6,7 +6,6 @@
   "html_title": "<span class=\"work-title\">Lummox</span>",
   "work_type": "novel",
   "publication_year": 1924,
-  "genre": null,
   "plot_summary": null,
   "literary_significance": null,
   "attribution_notes": null,
@@ -49,15 +48,36 @@
   "adaptation_gaps": [],
   "has_photoplay_edition": true,
   "magazine_publication": null,
-  "external_urls": [],
+  "external_urls": [
+    {
+      "source": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/76447",
+      "priority": 1
+    },
+    {
+      "source": "Internet Archive",
+      "url": "https://archive.org/details/lummox01hurs",
+      "priority": 2
+    },
+    {
+      "source": "Open Library",
+      "url": "https://openlibrary.org/works/OL13537282M",
+      "priority": 3
+    },
+    {
+      "source": "WorldCat",
+      "url": "https://www.worldcat.org/oclc/3199348",
+      "priority": 4
+    }
+  ],
   "external_ids": {
-    "gutenberg_id": null,
-    "internet_archive_id": null,
-    "openlibrary_id": null,
-    "oclc_number": null,
+    "gutenberg_id": 76447,
+    "internet_archive_id": "lummox01hurs",
+    "openlibrary_id": "OL13537282M",
+    "oclc_number": 3199348,
     "wikidata_id": null,
     "viaf_id": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-22T21:44:26.054287"
+  "last_updated": "2025-08-04T17:06:35.659603"
 }

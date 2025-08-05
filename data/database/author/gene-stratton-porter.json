@@ -5,8 +5,8 @@
   "birth_year": 1863,
   "death_year": 1924,
   "nationality": "American",
-  "literary_movement": null,
-  "biographical_notes": "American writer and naturalist (1863–1924). Born in Wabash County. Died in Los Angeles. Occupations: children's writer, photographer, naturalist, illustrator, architect, writer, ecologist, novelist. Notable works: A Girl of the Limberlost, Freckles",
+  "literary_movement": "Popular fiction",
+  "biographical_notes": "Gene Stratton-Porter (1863–1924) was an American novelist, naturalist, photographer, and film producer whose nature romances dominated bestseller lists throughout the 1910s and 1920s. Born Geneva Grace Stratton in Wabash County, Indiana, she did not complete high school but became a self-taught naturalist and photographer. She was an innovative nature photographer who captured images of live birds at a time when most naturalists only studied them stuffed and mounted.\n\nHer breakthrough novel Freckles (1904) launched a literary career that made her into \"a public institution, like Yellowstone Park,\" as William Lyon Phelps put in in 1921. She specialized in sentimental romances set in closely observed natural settings, particularly Indiana's Limberlost region. When critics accused her of writing \"molasses fiction,\" she embraced the label, declaring that molasses was \"more necessary to the happiness of human and beast than vinegar.\" By the time of her death, she was a columnist for both Good Housekeeping and McCall's magazines.\n\nDisappointed by Paramount's 1917 adaptation of Freckles, Stratton-Porter took unprecedented action: she moved to Los Angeles and founded Gene Stratton Porter Productions in 1923-24. At her studio, she wrote scenarios and maintained creative control over her adaptations. She died in a Los Angeles streetcar accident in December 1924, having completed work on only her first independent productions. Her studio continued under her daughter Jeannette Porter Meehan's leadership through 1927, ultimately producing five films.\n\nThough critics dismissed her work, her unique combination of popular fiction and authentic natural detail, along with her unprecedented move into film production, makes her a significant figure in both literary and film history.",
   "author_notes": null,
   "wikidata_id": "Q5531480",
   "stats": {
@@ -396,7 +396,6 @@
       "html_title": "<span class=\"work-title\">Freckles</span>",
       "work_type": "novel",
       "publication_year": 1904,
-      "genre": null,
       "adaptation_count": 4,
       "is_remake_champion": true
     },
@@ -408,7 +407,6 @@
       "html_title": "<span class=\"work-title\">A Girl of the Limberlost</span>",
       "work_type": "novel",
       "publication_year": 1909,
-      "genre": null,
       "adaptation_count": 4,
       "is_remake_champion": true
     },
@@ -420,7 +418,6 @@
       "html_title": "<span class=\"work-title\">Michael O'Halloran</span>",
       "work_type": "novel",
       "publication_year": 1915,
-      "genre": null,
       "adaptation_count": 3,
       "is_remake_champion": false
     },
@@ -432,7 +429,6 @@
       "html_title": "<span class=\"work-title\">The Keeper of the Bees</span>",
       "work_type": "novel",
       "publication_year": 1925,
-      "genre": null,
       "adaptation_count": 3,
       "is_remake_champion": false
     },
@@ -444,7 +440,6 @@
       "html_title": "<span class=\"work-title\">Laddie</span>",
       "work_type": "novel",
       "publication_year": 1913,
-      "genre": null,
       "adaptation_count": 3,
       "is_remake_champion": false
     },
@@ -456,7 +451,6 @@
       "html_title": "<span class=\"work-title\">The Harvester</span>",
       "work_type": "novel",
       "publication_year": 1911,
-      "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
     },
@@ -468,7 +462,6 @@
       "html_title": "<span class=\"work-title\">The Magic Garden</span>",
       "work_type": "novel",
       "publication_year": 1926,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -480,7 +473,6 @@
       "html_title": "<span class=\"work-title\">Her Father's Daughter</span>",
       "work_type": "novel",
       "publication_year": 1921,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     }
@@ -493,10 +485,9 @@
     "html_title": "<span class=\"work-title\">Freckles</span>",
     "work_type": "novel",
     "publication_year": 1904,
-    "genre": null,
     "adaptation_count": 4,
     "is_remake_champion": true
   },
   "has_narrative": false,
-  "last_updated": "2025-07-20T01:09:49.285188"
+  "last_updated": "2025-08-05T15:52:22.223215"
 }

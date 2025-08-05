@@ -6,7 +6,6 @@
   "html_title": "<span class=\"work-title short-story\">\"Classified\"</span>",
   "work_type": "short_story",
   "publication_year": 1924,
-  "genre": null,
   "plot_summary": null,
   "literary_significance": null,
   "attribution_notes": null,
@@ -16,7 +15,7 @@
     "name": "Edna Ferber",
     "birth_year": 1885,
     "death_year": 1968,
-    "film_count": 24
+    "film_count": 25
   },
   "stats": {
     "adaptation_count": 2,
@@ -77,15 +76,21 @@
     "serialized": false,
     "serial_parts": null
   },
-  "external_urls": [],
+  "external_urls": [
+    {
+      "source": "WorldCat",
+      "url": "https://www.worldcat.org/oclc/988270",
+      "priority": 4
+    }
+  ],
   "external_ids": {
     "gutenberg_id": null,
     "internet_archive_id": null,
     "openlibrary_id": null,
-    "oclc_number": null,
+    "oclc_number": 988270,
     "wikidata_id": null,
     "viaf_id": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-22T20:51:11.360651"
+  "last_updated": "2025-08-04T17:06:35.659603"
 }

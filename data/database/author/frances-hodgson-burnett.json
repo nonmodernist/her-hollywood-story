@@ -73,8 +73,8 @@
         "Drama"
       ],
       "has_media": true,
-      "work_title": "Esmerelda",
-      "work_html_title": "<span class=\"work-title short-story\">\"Esmerelda\"</span>",
+      "work_title": "Esmeralda",
+      "work_html_title": "<span class=\"work-title short-story\">\"Esmeralda\"</span>",
       "work_id": 361
     },
     {
@@ -343,7 +343,6 @@
       "html_title": "<span class=\"work-title\">A Lady of Quality</span>",
       "work_type": "novel",
       "publication_year": 1896,
-      "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
     },
@@ -355,7 +354,6 @@
       "html_title": "<span class=\"work-title\">The Dawn of a Tomorrow</span>",
       "work_type": "novella",
       "publication_year": 1905,
-      "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
     },
@@ -367,7 +365,6 @@
       "html_title": "<span class=\"work-title\">That Lass O' Lowrie's</span>",
       "work_type": "novel",
       "publication_year": 1876,
-      "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
     },
@@ -379,7 +376,6 @@
       "html_title": "<span class=\"work-title\">Sara Crewe; or, What Happened at Miss Minchin’s</span>",
       "work_type": "novel",
       "publication_year": 1887,
-      "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
     },
@@ -391,7 +387,6 @@
       "html_title": "<span class=\"work-title\">The Secret Garden</span>",
       "work_type": "novel",
       "publication_year": 1910,
-      "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
     },
@@ -403,19 +398,17 @@
       "html_title": "<span class=\"work-title\">Little Lord Fauntleroy</span>",
       "work_type": "novel",
       "publication_year": 1885,
-      "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
     },
     {
       "id": 361,
-      "slug": "esmerelda",
-      "title": "Esmerelda",
-      "formatted_title": "\"Esmerelda\"",
-      "html_title": "<span class=\"work-title short-story\">\"Esmerelda\"</span>",
+      "slug": "esmeralda",
+      "title": "Esmeralda",
+      "formatted_title": "\"Esmeralda\"",
+      "html_title": "<span class=\"work-title short-story\">\"Esmeralda\"</span>",
       "work_type": "short_story",
       "publication_year": 1877,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -427,7 +420,6 @@
       "html_title": "<span class=\"work-title\">The Pretty Sister of Jose</span>",
       "work_type": "novel",
       "publication_year": 1889,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -439,7 +431,6 @@
       "html_title": "<span class=\"work-title\">A Fair Barbarian</span>",
       "work_type": "novel",
       "publication_year": 1880,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -451,7 +442,6 @@
       "html_title": "<span class=\"work-title\">The Shuttle</span>",
       "work_type": "novel",
       "publication_year": 1908,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -463,7 +453,6 @@
       "html_title": "<span class=\"work-title\">Louisiana</span>",
       "work_type": "novella",
       "publication_year": 1880,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -475,7 +464,6 @@
       "html_title": "<span class=\"work-title\">Editha's Burglar</span>",
       "work_type": "novel",
       "publication_year": 1888,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     }
@@ -488,10 +476,9 @@
     "html_title": "<span class=\"work-title\">A Lady of Quality</span>",
     "work_type": "novel",
     "publication_year": 1896,
-    "genre": null,
     "adaptation_count": 2,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-20T01:23:40.12588"
+  "last_updated": "2025-08-04T17:06:35.659603"
 }

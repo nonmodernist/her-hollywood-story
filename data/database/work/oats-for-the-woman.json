@@ -6,7 +6,6 @@
   "html_title": "<span class=\"work-title short-story\">\"Oats for the Woman\"</span>",
   "work_type": "short_story",
   "publication_year": 1917,
-  "genre": null,
   "plot_summary": null,
   "literary_significance": null,
   "attribution_notes": null,
@@ -57,15 +56,36 @@
     "serialized": false,
     "serial_parts": null
   },
-  "external_urls": [],
+  "external_urls": [
+    {
+      "source": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/9864",
+      "priority": 1
+    },
+    {
+      "source": "Internet Archive",
+      "url": "https://archive.org/details/humoresquealaug00hursgoog",
+      "priority": 2
+    },
+    {
+      "source": "Open Library",
+      "url": "https://openlibrary.org/works/OL23441268M",
+      "priority": 3
+    },
+    {
+      "source": "WorldCat",
+      "url": "https://www.worldcat.org/oclc/262630526",
+      "priority": 4
+    }
+  ],
   "external_ids": {
-    "gutenberg_id": null,
-    "internet_archive_id": null,
-    "openlibrary_id": null,
-    "oclc_number": null,
+    "gutenberg_id": 9864,
+    "internet_archive_id": "humoresquealaug00hursgoog",
+    "openlibrary_id": "OL23441268M",
+    "oclc_number": 262630526,
     "wikidata_id": null,
     "viaf_id": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-22T21:53:01.020232"
+  "last_updated": "2025-08-04T17:06:35.659603"
 }

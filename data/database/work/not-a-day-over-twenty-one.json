@@ -6,7 +6,6 @@
   "html_title": "<span class=\"work-title short-story\">\"Not A Day Over Twenty-One\"</span>",
   "work_type": "short_story",
   "publication_year": 1921,
-  "genre": null,
   "plot_summary": null,
   "literary_significance": null,
   "attribution_notes": null,
@@ -16,7 +15,7 @@
     "name": "Edna Ferber",
     "birth_year": 1885,
     "death_year": 1968,
-    "film_count": 24
+    "film_count": 25
   },
   "stats": {
     "adaptation_count": 1,
@@ -55,15 +54,31 @@
     "serialized": false,
     "serial_parts": null
   },
-  "external_urls": [],
+  "external_urls": [
+    {
+      "source": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/20419",
+      "priority": 1
+    },
+    {
+      "source": "Internet Archive",
+      "url": "https://archive.org/details/gigolofe00ferbuoft",
+      "priority": 2
+    },
+    {
+      "source": "Open Library",
+      "url": "https://openlibrary.org/works/OL7125905M",
+      "priority": 3
+    }
+  ],
   "external_ids": {
-    "gutenberg_id": null,
-    "internet_archive_id": null,
-    "openlibrary_id": null,
+    "gutenberg_id": 20419,
+    "internet_archive_id": "gigolofe00ferbuoft",
+    "openlibrary_id": "OL7125905M",
     "oclc_number": null,
     "wikidata_id": null,
     "viaf_id": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-22T21:14:45.029403"
+  "last_updated": "2025-08-04T17:06:35.659603"
 }

@@ -5,13 +5,13 @@
   "birth_year": 1885,
   "death_year": 1968,
   "nationality": "American",
-  "literary_movement": null,
-  "biographical_notes": "American novelist, short story writer and playwright (1885–1968). Born in Kalamazoo. Occupations: journalist, short story writer, screenwriter, writer, playwright, novelist, poet. Notable works: Saratoga Trunk, Personality Plus, Show Boat, Cimarron, So Big",
+  "literary_movement": "Popular fiction, historical novels, regional literature, social realism, Broadway theater",
+  "biographical_notes": "Edna Ferber (1885-1968) was one of America's most successful and adapted authors, winning the Pulitzer Prize for So Big (1925). Her sweeping American historical epics, which Hollywood repeatedly adapted, centered working women and reflected her commitment to multiracial justice. Member of the Algonquin Round Table, she collaborated with fellow member George S. Kaufman on hit plays. Never married, fiercely independent, she began as a teenage reporter and became one of the first authors to negotiate rights reversions and profit participation in Hollywood. Her novel Ice Palace was credited with helping Alaska achieve statehood. Despite critical dismissal as \"middlebrow,\" her progressive racial politics and feminist perspective made her work pioneering. Co-founded Giant Productions, achieving rare creative control for a writer in 1950s Hollywood.",
   "author_notes": null,
   "wikidata_id": "Q283496",
   "stats": {
-    "total_films": 24,
-    "works_adapted": 16,
+    "total_films": 25,
+    "works_adapted": 17,
     "first_adaptation": 1918,
     "last_adaptation": 1960,
     "year_span": 42,
@@ -39,7 +39,7 @@
     ],
     "films_by_decade": {
       "1910": 2,
-      "1920": 8,
+      "1920": 9,
       "1930": 8,
       "1940": 1,
       "1950": 3,
@@ -178,6 +178,20 @@
       "work_title": "Mother Knows Best",
       "work_html_title": "<span class=\"work-title short-story\">\"Mother Knows Best\"</span>",
       "work_id": 489
+    },
+    {
+      "id": 1145,
+      "slug": "the-home-girl-1928",
+      "title": "The Home Girl",
+      "html_title": "<span class=\"film-title\">The Home Girl</span>",
+      "year": 1928,
+      "studio": "Paramount",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "Home Girl",
+      "work_html_title": "<span class=\"work-title\">Home Girl</span>",
+      "work_id": 1026
     },
     {
       "id": 552,
@@ -443,7 +457,6 @@
       "html_title": "<span class=\"work-title\">So Big</span>",
       "work_type": "novel",
       "publication_year": 1924,
-      "genre": null,
       "adaptation_count": 3,
       "is_remake_champion": false
     },
@@ -455,7 +468,6 @@
       "html_title": "<span class=\"work-title short-story\">\"Old Man Minick\"</span>",
       "work_type": "short_story",
       "publication_year": 1922,
-      "genre": null,
       "adaptation_count": 3,
       "is_remake_champion": false
     },
@@ -467,7 +479,6 @@
       "html_title": "<span class=\"work-title\">Show Boat</span>",
       "work_type": "novel",
       "publication_year": 1926,
-      "genre": null,
       "adaptation_count": 3,
       "is_remake_champion": false
     },
@@ -479,7 +490,6 @@
       "html_title": "<span class=\"work-title short-story\">\"Classified\"</span>",
       "work_type": "short_story",
       "publication_year": 1924,
-      "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
     },
@@ -491,7 +501,6 @@
       "html_title": "<span class=\"work-title\">Cimarron</span>",
       "work_type": "novel",
       "publication_year": 1929,
-      "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
     },
@@ -503,7 +512,6 @@
       "html_title": "<span class=\"work-title\">Emma McChesney & Co.</span>",
       "work_type": "collection",
       "publication_year": 1915,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -515,7 +523,6 @@
       "html_title": "<span class=\"work-title\">The Gay Old Dog</span>",
       "work_type": "novella",
       "publication_year": 1917,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -527,7 +534,6 @@
       "html_title": "<span class=\"work-title\">Fanny Herself</span>",
       "work_type": "novel",
       "publication_year": 1917,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -539,7 +545,6 @@
       "html_title": "<span class=\"work-title short-story\">\"Gigolo\"</span>",
       "work_type": "short_story",
       "publication_year": 1922,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -551,7 +556,17 @@
       "html_title": "<span class=\"work-title short-story\">\"Mother Knows Best\"</span>",
       "work_type": "short_story",
       "publication_year": 1925,
-      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1026,
+      "slug": "home-girl",
+      "title": "Home Girl",
+      "formatted_title": "Home Girl",
+      "html_title": "<span class=\"work-title\">Home Girl</span>",
+      "work_type": "novella",
+      "publication_year": 1922,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -563,7 +578,6 @@
       "html_title": "<span class=\"work-title short-story\">\"Not A Day Over Twenty-One\"</span>",
       "work_type": "short_story",
       "publication_year": 1921,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -575,7 +589,6 @@
       "html_title": "<span class=\"work-title short-story\">\"Glamour\"</span>",
       "work_type": "short_story",
       "publication_year": 1932,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -587,7 +600,6 @@
       "html_title": "<span class=\"work-title\">Come and Get It</span>",
       "work_type": "novel",
       "publication_year": 1934,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -599,7 +611,6 @@
       "html_title": "<span class=\"work-title\">Saratoga Trunk</span>",
       "work_type": "novel",
       "publication_year": 1941,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -611,7 +622,6 @@
       "html_title": "<span class=\"work-title\">Giant</span>",
       "work_type": "novel",
       "publication_year": 1952,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -623,7 +633,6 @@
       "html_title": "<span class=\"work-title\">Ice Palace</span>",
       "work_type": "novel",
       "publication_year": 1958,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     }
@@ -636,10 +645,9 @@
     "html_title": "<span class=\"work-title\">So Big</span>",
     "work_type": "novel",
     "publication_year": 1924,
-    "genre": null,
     "adaptation_count": 3,
     "is_remake_champion": false
   },
   "has_narrative": false,
-  "last_updated": "2025-07-20T01:09:49.285188"
+  "last_updated": "2025-08-05T00:32:35.487305"
 }

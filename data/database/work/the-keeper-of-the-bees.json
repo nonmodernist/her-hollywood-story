@@ -6,7 +6,6 @@
   "html_title": "<span class=\"work-title\">The Keeper of the Bees</span>",
   "work_type": "novel",
   "publication_year": 1925,
-  "genre": null,
   "plot_summary": null,
   "literary_significance": null,
   "attribution_notes": null,
@@ -96,15 +95,21 @@
     "serialized": true,
     "serial_parts": 8
   },
-  "external_urls": [],
+  "external_urls": [
+    {
+      "source": "WorldCat",
+      "url": "https://www.worldcat.org/oclc/1259537",
+      "priority": 4
+    }
+  ],
   "external_ids": {
     "gutenberg_id": null,
     "internet_archive_id": null,
     "openlibrary_id": null,
-    "oclc_number": null,
+    "oclc_number": 1259537,
     "wikidata_id": null,
     "viaf_id": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-23T01:29:58.305797"
+  "last_updated": "2025-08-04T17:06:35.659603"
 }

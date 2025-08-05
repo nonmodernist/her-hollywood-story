@@ -6,7 +6,6 @@
   "html_title": "<span class=\"work-title\">Fanny Herself</span>",
   "work_type": "novel",
   "publication_year": 1917,
-  "genre": null,
   "plot_summary": null,
   "literary_significance": null,
   "attribution_notes": null,
@@ -16,7 +15,7 @@
     "name": "Edna Ferber",
     "birth_year": 1885,
     "death_year": 1968,
-    "film_count": 24
+    "film_count": 25
   },
   "stats": {
     "adaptation_count": 1,
@@ -57,15 +56,31 @@
     "serialized": true,
     "serial_parts": 8
   },
-  "external_urls": [],
+  "external_urls": [
+    {
+      "source": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/350",
+      "priority": 1
+    },
+    {
+      "source": "Internet Archive",
+      "url": "https://archive.org/details/fannyherself00ferbuoft",
+      "priority": 2
+    },
+    {
+      "source": "Open Library",
+      "url": "https://openlibrary.org/works/OL7183995M",
+      "priority": 3
+    }
+  ],
   "external_ids": {
-    "gutenberg_id": null,
-    "internet_archive_id": null,
-    "openlibrary_id": null,
+    "gutenberg_id": 350,
+    "internet_archive_id": "fannyherself00ferbuoft",
+    "openlibrary_id": "OL7183995M",
     "oclc_number": null,
     "wikidata_id": null,
     "viaf_id": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-22T20:58:06.676171"
+  "last_updated": "2025-08-04T17:06:35.659603"
 }

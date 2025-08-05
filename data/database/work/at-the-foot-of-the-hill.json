@@ -1,0 +1,68 @@
+{
+  "id": 1023,
+  "slug": "at-the-foot-of-the-hill",
+  "title": "At the Foot of the Hill",
+  "formatted_title": "\"At the Foot of the Hill\"",
+  "html_title": "<span class=\"work-title short-story\">\"At the Foot of the Hill\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1906,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 6,
+    "slug": "mary-roberts-rinehart",
+    "name": "Mary Roberts Rinehart",
+    "birth_year": 1876,
+    "death_year": 1958,
+    "film_count": 41
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 8,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1141,
+      "slug": "at-the-foot-of-the-hill-1914",
+      "title": "At the Foot of the Hill",
+      "html_title": "<span class=\"film-title\">At the Foot of the Hill</span>",
+      "year": 1914,
+      "studio": "Essanay",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "years_after_publication": 8
+    }
+  ],
+  "adaptation_gaps": [],
+  "has_photoplay_edition": false,
+  "magazine_publication": {
+    "magazine_title": "Munsey’s Magazine",
+    "magazine_pub_date": "1906-08-01",
+    "magazine_issue_info": "v35 #5",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k07/k07315.htm#A5",
+    "serialized": false,
+    "serial_parts": null
+  },
+  "external_urls": [],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": null,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-08-04T19:23:16.571646"
+}

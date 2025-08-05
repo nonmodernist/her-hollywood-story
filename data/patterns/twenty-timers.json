@@ -7,13 +7,13 @@
       "id": 6,
       "name": "Mary Roberts Rinehart",
       "slug": "mary-roberts-rinehart",
-      "filmCount": 33,
-      "yearStart": 1915,
+      "filmCount": 41,
+      "yearStart": 1914,
       "yearEnd": 1959,
-      "yearSpan": 44,
+      "yearSpan": 45,
       "filmsByDecade": {
-        "1910": 10,
-        "1920": 13,
+        "1910": 17,
+        "1920": 14,
         "1930": 6,
         "1940": 3,
         "1950": 1
@@ -34,28 +34,32 @@
           "adaptationCount": 2
         },
         {
+          "id": 826,
+          "title": "Affinities",
+          "formatted_title": "Affinities",
+          "html_title": "<span class=\"work-title\">Affinities</span>",
+          "adaptationCount": 2
+        },
+        {
           "id": 835,
-          "title": "K — the Unknown",
-          "formatted_title": "K — the Unknown",
-          "html_title": "<span class=\"work-title\">K — the Unknown</span>",
+          "title": "K",
+          "formatted_title": "K",
+          "html_title": "<span class=\"work-title\">K</span>",
           "adaptationCount": 2
         },
         {
-          "id": 842,
-          "title": "Twenty-Three and a Half Hours' Leave",
-          "formatted_title": "\"Twenty-Three and a Half Hours' Leave\"",
-          "html_title": "<span class=\"work-title short-story\">\"Twenty-Three and a Half Hours' Leave\"</span>",
-          "adaptationCount": 2
-        },
-        {
-          "id": 843,
-          "title": "What Happened to Father",
-          "formatted_title": "\"What Happened to Father\"",
-          "html_title": "<span class=\"work-title short-story\">\"What Happened to Father\"</span>",
+          "id": 837,
+          "title": "Mind Over Motor",
+          "formatted_title": "\"Mind Over Motor\"",
+          "html_title": "<span class=\"work-title short-story\">\"Mind Over Motor\"</span>",
           "adaptationCount": 2
         }
       ],
       "topStudios": [
+        {
+          "studio": "Essanay",
+          "count": 7
+        },
         {
           "studio": "Warner Bros",
           "count": 4
@@ -71,57 +75,45 @@
         {
           "studio": "Eminent Authors Pictures",
           "count": 2
-        },
-        {
-          "studio": "Ward Lascelle Productions",
-          "count": 2
         }
       ],
-      "silentFilmCount": 23,
+      "silentFilmCount": 31,
       "timelineData": {
         "firstFilm": {
-          "id": 8,
-          "title": "The Circular Staircase",
-          "release_year": 1915,
+          "id": 1141,
+          "title": "At the Foot of the Hill",
+          "release_year": 1914,
           "runtime_minutes": null,
-          "country_of_production": "United States",
-          "genres": [
-            "Mystery"
-          ],
-          "studio": "Selig Polyscope",
-          "source_work_id": 7,
+          "country_of_production": null,
+          "genres": [],
+          "studio": "Essanay",
+          "source_work_id": 1023,
           "adaptation_notes": null,
-          "afi_catalog_id": 16431,
-          "availability": "lost",
+          "afi_catalog_id": null,
+          "availability": null,
           "archive_location": null,
           "verification_source": null,
           "women_in_key_roles": null,
-          "added_by": "initial_import",
-          "created_at": "2025-06-17T13:57:07.239452",
-          "updated_at": "2025-08-02T14:26:05.629687",
-          "directors": "Edward J. Le Saint",
+          "added_by": "IMDb",
+          "created_at": "2025-08-04T19:08:26.612441",
+          "updated_at": "2025-08-05T16:08:53.689969",
+          "directors": null,
           "writers": null,
-          "cast_members": "Guy Oliver|Eugenie Besserer|Stella Razeto|Edith Johnson|William Howard|Anna Dodge|Jane Keckley|F. J. Tyler|Fred Huntley|Clyde Benson",
-          "production_companies": "Selig Polyscope Co.; Selig Red Seal Plays",
-          "distribution_companies": "V-L-S-E, Inc.",
-          "color_info": "black-and-white",
+          "cast_members": null,
+          "production_companies": null,
+          "distribution_companies": null,
+          "color_info": null,
           "subgenres": null,
-          "external_ids": "{\"imdb\": \"tt0005095\", \"afi\": \"16431\", \"letterboxd\": \"the-circular-staircase\", \"tmdb\": \"627843\"}",
-          "wikidata_id": "Q3520282",
-          "slug": "the-circular-staircase-1915",
-          "formatted_title": "The Circular Staircase",
-          "html_title": "<span class=\"film-title\">The Circular Staircase</span>",
-          "genres_string": "Mystery",
-          "hasMedia": true,
-          "mediaCount": 3,
-          "featuredMedia": {
-            "type": "poster",
-            "thumbnailUrl": "https://image.tmdb.org/t/p/w342/m5UE3kLGdWHNwQPWxEK28ovKTsM.jpg",
-            "fullUrl": "https://image.tmdb.org/t/p/original/m5UE3kLGdWHNwQPWxEK28ovKTsM.jpg",
-            "caption": "Theatrical poster for The Circular Staircase (1915)",
-            "source": "tmdb",
-            "attribution": "Image courtesy of TMDB"
-          },
+          "external_ids": null,
+          "wikidata_id": null,
+          "hhs_id": "F1141",
+          "slug": "at-the-foot-of-the-hill-1914",
+          "formatted_title": "At the Foot of the Hill",
+          "html_title": "<span class=\"film-title\">At the Foot of the Hill</span>",
+          "genres_string": "",
+          "hasMedia": false,
+          "mediaCount": 0,
+          "featuredMedia": null,
           "decade": 1910
         },
         "lastFilm": {
@@ -143,7 +135,7 @@
           "women_in_key_roles": null,
           "added_by": "initial_import",
           "created_at": "2025-06-17T13:57:07.239452",
-          "updated_at": "2025-08-01T20:52:13.14742",
+          "updated_at": "2025-08-04T19:48:13.472502",
           "directors": "Crane Wilbur",
           "writers": "Crane Wilbur",
           "cast_members": "Vincent Price|Agnes Moorehead|Gavin Gordon|John Sutton|Lenita Lane|Elaine Edwards|Darla Hood|John Bryant|Harvey Stephens|Mike Steele",
@@ -153,6 +145,7 @@
           "subgenres": "['Crime']",
           "external_ids": "{\"imdb\": \"tt0052602\", \"allmovie\": \"v4266\", \"letterboxd\": \"the-bat-1959\", \"rottentomatoes\": \"m/1045841-bat\", \"tmdb\": \"35813\"}",
           "wikidata_id": "Q3224357",
+          "hhs_id": "F337",
           "slug": "the-bat-1959",
           "formatted_title": "The Bat",
           "html_title": "<span class=\"film-title\">The Bat</span>",
@@ -169,7 +162,7 @@
           },
           "decade": 1950
         },
-        "peakYear": "1920"
+        "peakYear": "1910"
       }
     },
     {
@@ -268,7 +261,7 @@
           "women_in_key_roles": null,
           "added_by": "initial_import",
           "created_at": "2025-06-17T13:57:07.239452",
-          "updated_at": "2025-08-02T14:19:19.558803",
+          "updated_at": "2025-08-04T19:48:13.472502",
           "directors": "Charles Maigne",
           "writers": "Charles Maigne",
           "cast_members": "Alice Brady|David Powell|Nellie Parker-Spaulding|Gloria Goodwin|Gertrude Barry|Hardy Kirkland|Ormi Hawley|C. A. de Lima|Jefferson de Angelis|Louis Sherwin",
@@ -278,6 +271,7 @@
           "subgenres": null,
           "external_ids": "{\"imdb\": \"tt0009164\", \"afi\": \"17126\", \"allmovie\": \"v94873\"}",
           "wikidata_id": "Q3785065",
+          "hhs_id": "F44",
           "slug": "her-great-chance-1918",
           "formatted_title": "Her Great Chance",
           "html_title": "<span class=\"film-title\">Her Great Chance</span>",
@@ -313,7 +307,7 @@
           "women_in_key_roles": null,
           "added_by": "initial_import",
           "created_at": "2025-06-17T13:57:07.239452",
-          "updated_at": "2025-08-02T14:27:46.781343",
+          "updated_at": "2025-08-04T19:48:13.472502",
           "directors": "David Miller",
           "writers": "Eleanore Griffin|William Ludwig",
           "cast_members": "Susan Hayward|John Gavin|Vera Miles|Charles Drake|Virginia Grey|Reginald Gardiner|Tammy Marihugh|Robert Eyer|Natalie Schafer|Doreen McLean",
@@ -323,6 +317,7 @@
           "subgenres": null,
           "external_ids": "{\"imdb\": \"tt0054653\", \"afi\": \"22474\", \"tcm\": \"endstation-paris\", \"allmovie\": \"v3651\", \"letterboxd\": \"back-street\", \"rottentomatoes\": \"m/back_street\", \"tmdb\": \"43017\", \"filmaffinity\": \"132247\"}",
           "wikidata_id": "Q1340984",
+          "hhs_id": "F341",
           "slug": "back-street-1961",
           "formatted_title": "Back Street",
           "html_title": "<span class=\"film-title\">Back Street</span>",
@@ -346,13 +341,13 @@
       "id": 40,
       "name": "Edna Ferber",
       "slug": "edna-ferber",
-      "filmCount": 24,
+      "filmCount": 25,
       "yearStart": 1918,
       "yearEnd": 1960,
       "yearSpan": 42,
       "filmsByDecade": {
         "1910": 2,
-        "1920": 8,
+        "1920": 9,
         "1930": 8,
         "1940": 1,
         "1950": 3,
@@ -417,7 +412,7 @@
           "count": 1
         }
       ],
-      "silentFilmCount": 10,
+      "silentFilmCount": 11,
       "timelineData": {
         "firstFilm": {
           "id": 555,
@@ -438,7 +433,7 @@
           "women_in_key_roles": null,
           "added_by": "Women Writers: From Page to Screen",
           "created_at": "2025-07-03T00:18:13.765152",
-          "updated_at": "2025-08-01T17:04:35.846207",
+          "updated_at": "2025-08-04T19:48:13.472502",
           "directors": "Ralph W. Ince",
           "writers": "Luther A. Reed",
           "cast_members": "Ethel Barrymore|Huntley Gordon|Wilfred Lytell|Lucille Lee Stewart|John Daly Murphy|Walter Percival|William H. St. James|Ricca Allen|George Trimble|Sammy Cooper",
@@ -448,6 +443,7 @@
           "subgenres": null,
           "external_ids": "{\"imdb\": \"tt0009465\", \"afi\": \"17224\", \"allmovie\": \"v105169\", \"letterboxd\": \"our-mrs-mcchesney\", \"tmdb\": \"892851\"}",
           "wikidata_id": "Q7111105",
+          "hhs_id": "F555",
           "slug": "our-mrs-mcchesney-1918",
           "formatted_title": "Our Mrs. McChesney",
           "html_title": "<span class=\"film-title\">Our Mrs. McChesney</span>",
@@ -483,7 +479,7 @@
           "women_in_key_roles": null,
           "added_by": "initial_import",
           "created_at": "2025-06-17T13:57:07.239452",
-          "updated_at": "2025-08-01T16:06:32.176891",
+          "updated_at": "2025-08-04T19:48:13.472502",
           "directors": "Anthony Mann",
           "writers": "Arnold Schulman",
           "cast_members": "Glenn Ford|Maria Schell|Anne Baxter|Arthur O'Connell|Russ Tamblyn|Mercedes McCambridge|Vic Morrow|Robert Keith|Charles McGraw|Henry [\"Harry\"] Morgan",
@@ -493,6 +489,7 @@
           "subgenres": null,
           "external_ids": "{\"imdb\": \"tt0053715\", \"afi\": \"53484\", \"allmovie\": \"v87266\", \"letterboxd\": \"cimarron-1960\", \"rottentomatoes\": \"m/1046579-cimarron\", \"tmdb\": \"46623\", \"filmaffinity\": \"116653\"}",
           "wikidata_id": "Q2719291",
+          "hhs_id": "F339",
           "slug": "cimarron-1960",
           "formatted_title": "Cimarron",
           "html_title": "<span class=\"film-title\">Cimarron</span>",
@@ -585,7 +582,7 @@
           "id": 42,
           "title": "Less Than Kin",
           "release_year": 1918,
-          "runtime_minutes": null,
+          "runtime_minutes": 50,
           "country_of_production": "United States",
           "genres": [
             "Comedy"
@@ -600,7 +597,7 @@
           "women_in_key_roles": null,
           "added_by": "initial_import",
           "created_at": "2025-06-17T13:57:07.239452",
-          "updated_at": "2025-08-02T14:26:13.802151",
+          "updated_at": "2025-08-04T19:48:13.472502",
           "directors": "Donald Crisp",
           "writers": "Marion Fairfax",
           "cast_members": "Wallace Reid|Ann Little|Raymond Hatton|Noah Beery|James Neill|Charles Ogle|Jane Wolfe|James Cruze|Guy Oliver|Calvert Carter",
@@ -610,6 +607,7 @@
           "subgenres": null,
           "external_ids": "{\"imdb\": \"tt0009287\", \"afi\": \"17188\", \"allmovie\": \"v99393\", \"letterboxd\": \"less-than-kin\", \"tmdb\": \"944165\"}",
           "wikidata_id": "Q3830928",
+          "hhs_id": "F42",
           "slug": "less-than-kin-1918",
           "formatted_title": "Less Than Kin",
           "html_title": "<span class=\"film-title\">Less Than Kin</span>",
@@ -645,7 +643,7 @@
           "women_in_key_roles": null,
           "added_by": "initial_import",
           "created_at": "2025-06-17T13:57:07.239452",
-          "updated_at": "2025-08-01T16:06:13.580374",
+          "updated_at": "2025-08-04T19:48:13.472502",
           "directors": "Mervyn LeRoy",
           "writers": "George Wells|Harry Ruby",
           "cast_members": "Kathryn Grayson|Red Skelton|Howard Keel|Marge Champion|Gower Champion|Ann Miller|Zsa Zsa Gabor|Kurt Kasznar|Marcel Dalio|Diane Cassidy",
@@ -655,6 +653,7 @@
           "subgenres": null,
           "external_ids": "{\"imdb\": \"tt0044855\", \"afi\": \"50558\", \"tcm\": \"maenner-machen-mode\", \"allmovie\": \"v30371\", \"letterboxd\": \"lovely-to-look-at\", \"rottentomatoes\": \"m/lovely_to_look_at\", \"tmdb\": \"43363\", \"filmaffinity\": \"512895\"}",
           "wikidata_id": "Q6692304",
+          "hhs_id": "F317",
           "slug": "lovely-to-look-at-1952",
           "formatted_title": "Lovely To Look At",
           "html_title": "<span class=\"film-title\">Lovely To Look At</span>",
@@ -769,7 +768,7 @@
           "women_in_key_roles": null,
           "added_by": "initial_import",
           "created_at": "2025-06-17T13:57:07.239452",
-          "updated_at": "2025-08-01T16:02:10.582402",
+          "updated_at": "2025-08-04T19:48:13.472502",
           "directors": "Marshall Neilan",
           "writers": "Marion Fairfax",
           "cast_members": "Jack Pickford|Louise Huff|Hobart Bosworth|Lillian Leighton|Billy Elmer|Guy Oliver",
@@ -779,6 +778,7 @@
           "subgenres": null,
           "external_ids": "{\"imdb\": \"tt0007975\", \"afi\": \"16906\", \"letterboxd\": \"freckles-1917\", \"tmdb\": \"1261448\"}",
           "wikidata_id": "Q17319648",
+          "hhs_id": "F21",
           "slug": "freckles-1917",
           "formatted_title": "Freckles",
           "html_title": "<span class=\"film-title\">Freckles</span>",
@@ -814,7 +814,7 @@
           "women_in_key_roles": null,
           "added_by": "initial_import",
           "created_at": "2025-06-17T13:57:07.239452",
-          "updated_at": "2025-08-01T17:13:56.876236",
+          "updated_at": "2025-08-04T19:48:13.472502",
           "directors": "Andrew V. McLaglen",
           "writers": "Harry Spalding",
           "cast_members": "Martin West|Carol Christensen|Jack Lambert|Steven Peck|Roy Barcroft|Lorna Thayer|Ken Curtis|John Eldredge",
@@ -824,6 +824,7 @@
           "subgenres": "['Rural', 'Youth']",
           "external_ids": "{\"imdb\": \"tt0053837\", \"afi\": \"53149\", \"allmovie\": \"v92311\", \"letterboxd\": \"freckles\", \"tmdb\": \"243638\"}",
           "wikidata_id": "Q5494337",
+          "hhs_id": "F340",
           "slug": "freckles-1960",
           "formatted_title": "Freckles",
           "html_title": "<span class=\"film-title\">Freckles</span>",
@@ -846,10 +847,10 @@
   ],
   "patterns": {
     "collectiveStats": {
-      "totalFilms": 127,
-      "averageFilmsPerAuthor": 25,
+      "totalFilms": 136,
+      "averageFilmsPerAuthor": 27,
       "collectiveYearSpan": {
-        "start": 1915,
+        "start": 1914,
         "end": 1961
       },
       "studioConcentration": [
@@ -867,15 +868,19 @@
         },
         {
           "studio": "Paramount",
-          "count": 9
+          "count": 10
         },
         {
-          "studio": "MGM",
+          "studio": "Essanay",
           "count": 7
         },
         {
           "studio": "First National",
-          "count": 6
+          "count": 7
+        },
+        {
+          "studio": "MGM",
+          "count": 7
         },
         {
           "studio": "RKO",
@@ -888,16 +893,12 @@
         {
           "studio": "Gene Stratton Porter Productions",
           "count": 5
-        },
-        {
-          "studio": "Monogram",
-          "count": 4
         }
       ]
     }
   },
   "metadata": {
-    "generated": "2025-08-03T19:07:42.783Z",
+    "generated": "2025-08-05T16:22:09.029Z",
     "version": "2.0"
   }
 }

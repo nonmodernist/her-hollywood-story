@@ -1,0 +1,68 @@
+{
+  "id": 1026,
+  "slug": "home-girl",
+  "title": "Home Girl",
+  "formatted_title": "Home Girl",
+  "html_title": "<span class=\"work-title\">Home Girl</span>",
+  "work_type": "novella",
+  "publication_year": 1922,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 40,
+    "slug": "edna-ferber",
+    "name": "Edna Ferber",
+    "birth_year": 1885,
+    "death_year": 1968,
+    "film_count": 25
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 6,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1145,
+      "slug": "the-home-girl-1928",
+      "title": "The Home Girl",
+      "html_title": "<span class=\"film-title\">The Home Girl</span>",
+      "year": 1928,
+      "studio": "Paramount",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "years_after_publication": 6
+    }
+  ],
+  "adaptation_gaps": [],
+  "has_photoplay_edition": false,
+  "magazine_publication": {
+    "magazine_title": "Pictorial Review",
+    "magazine_pub_date": "1922-11-01",
+    "magazine_issue_info": "v24 #2",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k08/k08546.htm#A23",
+    "serialized": false,
+    "serial_parts": null
+  },
+  "external_urls": [],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": null,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-08-05T16:07:40.475541"
+}

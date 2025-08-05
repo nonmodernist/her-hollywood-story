@@ -5,27 +5,27 @@
   "birth_year": 1876,
   "death_year": 1958,
   "nationality": "American",
-  "literary_movement": null,
-  "biographical_notes": "American mystery writer (1876–1958). Born in Pittsburgh. Died in New York City. Occupations: journalist, screenwriter, travel writer, humorist, writer, crime fiction writer, essayist, novelist, nurse, poet",
+  "literary_movement": "Popular fiction, mystery fiction, early 20th century magazine culture",
+  "biographical_notes": "Mary Roberts Rinehart (1876-1958) was a permanent fixture on bestseller lists during her career, which spanned  a half-century. A trained nurse who turned to writing after her husband's financial troubles, she revolutionized the mystery genre by adding humor, romance, and psychological depth. As a WWI correspondent, she used her nursing credentials to access the front lines when women reporters were banned. Her story \"The Circular Staircase\" and its theatrical adaptation \"The Bat\" may have inspired Batman. Despite critical dismissal as \"middlebrow,\" she was the most adapted American woman writer in Hollywood history.",
   "author_notes": null,
   "wikidata_id": "Q460366",
   "stats": {
-    "total_films": 33,
-    "works_adapted": 26,
-    "first_adaptation": 1915,
+    "total_films": 41,
+    "works_adapted": 32,
+    "first_adaptation": 1914,
     "last_adaptation": 1959,
-    "year_span": 44,
+    "year_span": 45,
     "top_genres": [
       {
         "genre": "Comedy",
         "count": 10
       },
       {
-        "genre": "Mystery",
-        "count": 6
+        "genre": "Drama",
+        "count": 7
       },
       {
-        "genre": "Drama",
+        "genre": "Mystery",
         "count": 6
       },
       {
@@ -38,8 +38,8 @@
       }
     ],
     "films_by_decade": {
-      "1910": 10,
-      "1920": 13,
+      "1910": 17,
+      "1920": 14,
       "1930": 6,
       "1940": 3,
       "1950": 1
@@ -50,6 +50,76 @@
     "twenty_timer_rank": 1
   },
   "films": [
+    {
+      "id": 1141,
+      "slug": "at-the-foot-of-the-hill-1914",
+      "title": "At the Foot of the Hill",
+      "html_title": "<span class=\"film-title\">At the Foot of the Hill</span>",
+      "year": 1914,
+      "studio": "Essanay",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "At the Foot of the Hill",
+      "work_html_title": "<span class=\"work-title short-story\">\"At the Foot of the Hill\"</span>",
+      "work_id": 1023
+    },
+    {
+      "id": 1137,
+      "slug": "jane-1914",
+      "title": "Jane",
+      "html_title": "<span class=\"film-title\">Jane</span>",
+      "year": 1914,
+      "studio": "Essanay",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "Jane",
+      "work_html_title": "<span class=\"work-title short-story\">\"Jane\"</span>",
+      "work_id": 1020
+    },
+    {
+      "id": 1144,
+      "slug": "affinities-1915",
+      "title": "Affinities",
+      "html_title": "<span class=\"film-title\">Affinities</span>",
+      "year": 1915,
+      "studio": "Essanay",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "Affinities",
+      "work_html_title": "<span class=\"work-title\">Affinities</span>",
+      "work_id": 826
+    },
+    {
+      "id": 1140,
+      "slug": "mind-over-motor-1915",
+      "title": "Mind Over Motor",
+      "html_title": "<span class=\"film-title\">Mind Over Motor</span>",
+      "year": 1915,
+      "studio": "Essanay",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "Mind Over Motor",
+      "work_html_title": "<span class=\"work-title short-story\">\"Mind Over Motor\"</span>",
+      "work_id": 837
+    },
+    {
+      "id": 1142,
+      "slug": "the-cave-on-thunder-cloud-1915",
+      "title": "The Cave on Thunder Cloud",
+      "html_title": "<span class=\"film-title\">The Cave on Thunder Cloud</span>",
+      "year": 1915,
+      "studio": "Essanay",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "The Cave on Thunder Cloud",
+      "work_html_title": "<span class=\"work-title\">The Cave on Thunder Cloud</span>",
+      "work_id": 1024
+    },
     {
       "id": 8,
       "slug": "the-circular-staircase-1915",
@@ -65,6 +135,34 @@
       "work_title": "The Circular Staircase",
       "work_html_title": "<span class=\"work-title\">The Circular Staircase</span>",
       "work_id": 7
+    },
+    {
+      "id": 1143,
+      "slug": "the-papered-door-1915",
+      "title": "The Papered Door",
+      "html_title": "<span class=\"film-title\">The Papered Door</span>",
+      "year": 1915,
+      "studio": "Essanay",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "The Papered Door",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Papered Door\"</span>",
+      "work_id": 1025
+    },
+    {
+      "id": 1138,
+      "slug": "tishs-spy-1915",
+      "title": "Tish's Spy",
+      "html_title": "<span class=\"film-title\">Tish's Spy</span>",
+      "year": 1915,
+      "studio": "Essanay",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "Tish's Spy",
+      "work_html_title": "<span class=\"work-title short-story\">\"Tish's Spy\"</span>",
+      "work_id": 1021
     },
     {
       "id": 940,
@@ -174,8 +272,8 @@
         "Drama"
       ],
       "has_media": true,
-      "work_title": "K — the Unknown",
-      "work_html_title": "<span class=\"work-title\">K — the Unknown</span>",
+      "work_title": "K",
+      "work_html_title": "<span class=\"work-title\">K</span>",
       "work_id": 835
     },
     {
@@ -334,8 +432,8 @@
         "Melodrama"
       ],
       "has_media": true,
-      "work_title": "K — the Unknown",
-      "work_html_title": "<span class=\"work-title\">K — the Unknown</span>",
+      "work_title": "K",
+      "work_html_title": "<span class=\"work-title\">K</span>",
       "work_id": 835
     },
     {
@@ -354,6 +452,22 @@
       "work_title": "The Breaking Point",
       "work_html_title": "<span class=\"work-title\">The Breaking Point</span>",
       "work_id": 828
+    },
+    {
+      "id": 1139,
+      "slug": "the-silent-watcher-1924",
+      "title": "The Silent Watcher",
+      "html_title": "<span class=\"film-title\">The Silent Watcher</span>",
+      "year": 1924,
+      "studio": "First National",
+      "directors": "Frank Lloyd",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "The Altar on the Hill",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Altar on the Hill\"</span>",
+      "work_id": 1022
     },
     {
       "id": 1129,
@@ -589,9 +703,30 @@
       "html_title": "<span class=\"work-title\">The Circular Staircase</span>",
       "work_type": "novel",
       "publication_year": 1907,
-      "genre": "Mystery",
       "adaptation_count": 4,
       "is_remake_champion": true
+    },
+    {
+      "id": 826,
+      "slug": "affinities",
+      "title": "Affinities",
+      "formatted_title": "Affinities",
+      "html_title": "<span class=\"work-title\">Affinities</span>",
+      "work_type": "novella",
+      "publication_year": 1913,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 837,
+      "slug": "mind-over-motor",
+      "title": "Mind Over Motor",
+      "formatted_title": "\"Mind Over Motor\"",
+      "html_title": "<span class=\"work-title short-story\">\"Mind Over Motor\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1912,
+      "adaptation_count": 2,
+      "is_remake_champion": false
     },
     {
       "id": 843,
@@ -601,19 +736,17 @@
       "html_title": "<span class=\"work-title short-story\">\"What Happened to Father\"</span>",
       "work_type": "short_story",
       "publication_year": 1909,
-      "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
     },
     {
       "id": 835,
-      "slug": "k-the-unknown",
-      "title": "K — the Unknown",
-      "formatted_title": "K — the Unknown",
-      "html_title": "<span class=\"work-title\">K — the Unknown</span>",
+      "slug": "k",
+      "title": "K",
+      "formatted_title": "K",
+      "html_title": "<span class=\"work-title\">K</span>",
       "work_type": "novel",
       "publication_year": 1914,
-      "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
     },
@@ -625,7 +758,6 @@
       "html_title": "<span class=\"work-title short-story\">\"Twenty-Three and a Half Hours' Leave\"</span>",
       "work_type": "short_story",
       "publication_year": 1918,
-      "genre": null,
       "adaptation_count": 2,
       "is_remake_champion": false
     },
@@ -637,8 +769,62 @@
       "html_title": "<span class=\"work-title\">Miss Pinkerton: Adventures of a Nurse Detective</span>",
       "work_type": "novel",
       "publication_year": 1932,
-      "genre": null,
       "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1023,
+      "slug": "at-the-foot-of-the-hill",
+      "title": "At the Foot of the Hill",
+      "formatted_title": "\"At the Foot of the Hill\"",
+      "html_title": "<span class=\"work-title short-story\">\"At the Foot of the Hill\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1906,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1020,
+      "slug": "jane",
+      "title": "Jane",
+      "formatted_title": "\"Jane\"",
+      "html_title": "<span class=\"work-title short-story\">\"Jane\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1912,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1024,
+      "slug": "the-cave-on-thunder-cloud",
+      "title": "The Cave on Thunder Cloud",
+      "formatted_title": "The Cave on Thunder Cloud",
+      "html_title": "<span class=\"work-title\">The Cave on Thunder Cloud</span>",
+      "work_type": "novella",
+      "publication_year": 1912,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1025,
+      "slug": "the-papered-door",
+      "title": "The Papered Door",
+      "formatted_title": "\"The Papered Door\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Papered Door\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1914,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1021,
+      "slug": "tishs-spy",
+      "title": "Tish's Spy",
+      "formatted_title": "\"Tish's Spy\"",
+      "html_title": "<span class=\"work-title short-story\">\"Tish's Spy\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1915,
+      "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
@@ -649,7 +835,6 @@
       "html_title": "<span class=\"work-title short-story\">\"Acquitted\"</span>",
       "work_type": "short_story",
       "publication_year": 1907,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -661,7 +846,6 @@
       "html_title": "<span class=\"work-title short-story\">\"Bab's Burglar\"</span>",
       "work_type": "short_story",
       "publication_year": 1917,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -673,7 +857,6 @@
       "html_title": "<span class=\"work-title short-story\">\"Her Diary\"</span>",
       "work_type": "short_story",
       "publication_year": 1917,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -685,7 +868,6 @@
       "html_title": "<span class=\"work-title short-story\">\"Theme: The Celebrity\"</span>",
       "work_type": "short_story",
       "publication_year": 1916,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -697,7 +879,6 @@
       "html_title": "<span class=\"work-title short-story\">\"The G. A. C.\"</span>",
       "work_type": "short_story",
       "publication_year": 1917,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -709,7 +890,6 @@
       "html_title": "<span class=\"work-title\">The Street of Seven Stars</span>",
       "work_type": "novel",
       "publication_year": 1914,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -721,7 +901,6 @@
       "html_title": "<span class=\"work-title\">Dangerous Days</span>",
       "work_type": "novel",
       "publication_year": 1919,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -733,19 +912,6 @@
       "html_title": "<span class=\"work-title short-story\">\"Empire Builders\"</span>",
       "work_type": "short_story",
       "publication_year": 1916,
-      "genre": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 826,
-      "slug": "affinities",
-      "title": "Affinities",
-      "formatted_title": "Affinities",
-      "html_title": "<span class=\"work-title\">Affinities</span>",
-      "work_type": "novella",
-      "publication_year": 1913,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -757,7 +923,6 @@
       "html_title": "<span class=\"work-title short-story\">\"In the Pavilion\"</span>",
       "work_type": "short_story",
       "publication_year": 1912,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -769,19 +934,6 @@
       "html_title": "<span class=\"work-title\">Long Live the King</span>",
       "work_type": "novella",
       "publication_year": 1912,
-      "genre": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 837,
-      "slug": "mind-over-motor",
-      "title": "Mind Over Motor",
-      "formatted_title": "\"Mind Over Motor\"",
-      "html_title": "<span class=\"work-title short-story\">\"Mind Over Motor\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1912,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -793,7 +945,6 @@
       "html_title": "<span class=\"work-title\">Her Majesty, the Queen</span>",
       "work_type": "novella",
       "publication_year": 1924,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -805,7 +956,17 @@
       "html_title": "<span class=\"work-title\">The Breaking Point</span>",
       "work_type": "novel",
       "publication_year": 1921,
-      "genre": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1022,
+      "slug": "the-altar-on-the-hill",
+      "title": "The Altar on the Hill",
+      "formatted_title": "\"The Altar on the Hill\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Altar on the Hill\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1924,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -817,7 +978,6 @@
       "html_title": "<span class=\"work-title short-story\">\"Seven Days\"</span>",
       "work_type": "short_story",
       "publication_year": 1908,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -829,7 +989,6 @@
       "html_title": "<span class=\"work-title short-story\">\"Finders Keepers\"</span>",
       "work_type": "short_story",
       "publication_year": 1919,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -841,7 +1000,6 @@
       "html_title": "<span class=\"work-title\">Lost Ecstasy</span>",
       "work_type": "novel",
       "publication_year": 1927,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -853,7 +1011,6 @@
       "html_title": "<span class=\"work-title\">The State versus Elinor Norton</span>",
       "work_type": "novel",
       "publication_year": 1934,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -865,7 +1022,6 @@
       "html_title": "<span class=\"work-title short-story\">\"Mr. Cohen Takes a Walk\"</span>",
       "work_type": "short_story",
       "publication_year": 1934,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -877,7 +1033,6 @@
       "html_title": "<span class=\"work-title short-story\">\"The Dog in the Orchard\"</span>",
       "work_type": "short_story",
       "publication_year": 1940,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -889,7 +1044,6 @@
       "html_title": "<span class=\"work-title\">Tish</span>",
       "work_type": "novel",
       "publication_year": 1916,
-      "genre": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     }
@@ -902,10 +1056,9 @@
     "html_title": "<span class=\"work-title\">The Circular Staircase</span>",
     "work_type": "novel",
     "publication_year": 1907,
-    "genre": "Mystery",
     "adaptation_count": 4,
     "is_remake_champion": true
   },
   "has_narrative": false,
-  "last_updated": "2025-07-20T01:09:49.285188"
+  "last_updated": "2025-08-04T20:11:33.050402"
 }

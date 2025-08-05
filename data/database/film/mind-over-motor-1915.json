@@ -1,0 +1,65 @@
+{
+  "id": 1140,
+  "slug": "mind-over-motor-1915",
+  "title": "Mind Over Motor",
+  "formatted_title": "Mind Over Motor",
+  "html_title": "<span class=\"film-title\">Mind Over Motor</span>",
+  "release_year": 1915,
+  "runtime_minutes": null,
+  "country_of_production": null,
+  "genres": [],
+  "studio": "Essanay",
+  "production_companies": null,
+  "distribution_companies": null,
+  "directors": null,
+  "writers": null,
+  "cast_members": null,
+  "color_info": null,
+  "adaptation_notes": null,
+  "afi_catalog_id": null,
+  "source_work": {
+    "id": 837,
+    "slug": "mind-over-motor",
+    "title": "Mind Over Motor",
+    "formatted_title": "\"Mind Over Motor\"",
+    "html_title": "<span class=\"work-title short-story\">\"Mind Over Motor\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1912,
+    "plot_summary": null,
+    "literary_significance": null,
+    "adaptation_count": 2,
+    "year_to_adaptation": 3
+  },
+  "author": {
+    "id": 6,
+    "slug": "mary-roberts-rinehart",
+    "name": "Mary Roberts Rinehart",
+    "birth_year": 1876,
+    "death_year": 1958,
+    "nationality": "American",
+    "film_count": 41
+  },
+  "other_adaptations": [
+    {
+      "id": 932,
+      "slug": "mind-over-motor-1923",
+      "title": "Mind Over Motor",
+      "html_title": "<span class=\"film-title\">Mind Over Motor</span>",
+      "year": 1923,
+      "directors": "Ward Lascelle",
+      "studio": "Ward Lascelle Productions"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 1,
+    "is_first": true,
+    "is_latest": false
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "has_narrative": false,
+  "last_updated": "2025-08-05T16:08:58.164503"
+}

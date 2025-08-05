@@ -6,7 +6,6 @@
   "html_title": "<span class=\"work-title\">Freckles</span>",
   "work_type": "novel",
   "publication_year": 1904,
-  "genre": null,
   "plot_summary": null,
   "literary_significance": null,
   "attribution_notes": null,
@@ -107,15 +106,31 @@
   ],
   "has_photoplay_edition": false,
   "magazine_publication": null,
-  "external_urls": [],
+  "external_urls": [
+    {
+      "source": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/111",
+      "priority": 1
+    },
+    {
+      "source": "Internet Archive",
+      "url": "https://archive.org/details/bwb_Y0-CCC-358",
+      "priority": 2
+    },
+    {
+      "source": "Open Library",
+      "url": "https://openlibrary.org/works/OL58735563M",
+      "priority": 3
+    }
+  ],
   "external_ids": {
-    "gutenberg_id": null,
-    "internet_archive_id": null,
-    "openlibrary_id": null,
+    "gutenberg_id": 111,
+    "internet_archive_id": "bwb_Y0-CCC-358",
+    "openlibrary_id": "OL58735563M",
     "oclc_number": null,
     "wikidata_id": "Q5494338",
     "viaf_id": null
   },
   "has_narrative": false,
-  "last_updated": "2025-08-02T23:45:56.033763"
+  "last_updated": "2025-08-05T16:00:13.780507"
 }

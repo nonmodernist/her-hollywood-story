@@ -57,6 +57,31 @@
     },
     {
       "work": {
+        "id": 1021,
+        "slug": "tishs-spy",
+        "title": "Tish's Spy",
+        "html_title": "<span class=\"work-title short-story\">\"Tish's Spy\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1915
+      },
+      "author": {
+        "id": 6,
+        "slug": "mary-roberts-rinehart",
+        "name": "Mary Roberts Rinehart"
+      },
+      "film": {
+        "id": 1138,
+        "slug": "tishs-spy-1915",
+        "title": "Tish's Spy",
+        "html_title": "<span class=\"film-title\">Tish's Spy</span>",
+        "year": 1915,
+        "studio": "Essanay",
+        "directors": null,
+        "genres": []
+      }
+    },
+    {
+      "work": {
         "id": 12,
         "slug": "the-shop-girl",
         "title": "The Shop Girl",
@@ -943,6 +968,33 @@
         "directors": "Allan Dwan",
         "genres": [
           "Romance"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 1022,
+        "slug": "the-altar-on-the-hill",
+        "title": "The Altar on the Hill",
+        "html_title": "<span class=\"work-title short-story\">\"The Altar on the Hill\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1924
+      },
+      "author": {
+        "id": 6,
+        "slug": "mary-roberts-rinehart",
+        "name": "Mary Roberts Rinehart"
+      },
+      "film": {
+        "id": 1139,
+        "slug": "the-silent-watcher-1924",
+        "title": "The Silent Watcher",
+        "html_title": "<span class=\"film-title\">The Silent Watcher</span>",
+        "year": 1924,
+        "studio": "First National",
+        "directors": "Frank Lloyd",
+        "genres": [
+          "Drama"
         ]
       }
     },
@@ -2273,14 +2325,14 @@
     }
   ],
   "stats": {
-    "total": 84,
+    "total": 86,
     "yearRange": {
       "earliest": 1914,
       "latest": 1962
     },
     "byDecade": {
-      "1910s": 15,
-      "1920s": 33,
+      "1910s": 16,
+      "1920s": 34,
       "1930s": 26,
       "1940s": 6,
       "1950s": 2,
@@ -2289,7 +2341,7 @@
     "byGenre": [
       {
         "genre": "Drama",
-        "count": 32
+        "count": 33
       },
       {
         "genre": "Melodrama",
@@ -2312,16 +2364,16 @@
         "count": 5
       },
       {
+        "genre": "Unknown",
+        "count": 2
+      },
+      {
         "genre": "Western",
         "count": 2
       },
       {
         "genre": "Mystery",
         "count": 2
-      },
-      {
-        "genre": "Unknown",
-        "count": 1
       },
       {
         "genre": "Musical",
@@ -2339,7 +2391,7 @@
       },
       {
         "type": "short story",
-        "count": 22
+        "count": 24
       },
       {
         "type": "novella",
@@ -2353,7 +2405,7 @@
     "topStudios": [
       {
         "studio": "First National",
-        "count": 9
+        "count": 10
       },
       {
         "studio": "MGM",
@@ -2395,7 +2447,7 @@
     "topAuthors": [
       {
         "name": "Mary Roberts Rinehart",
-        "count": 4
+        "count": 6
       },
       {
         "name": "Faith Baldwin",
@@ -2436,7 +2488,7 @@
     ]
   },
   "metadata": {
-    "generated": "2025-08-03T19:07:42.789Z",
+    "generated": "2025-08-05T16:22:09.039Z",
     "version": "1.1"
   }
 }

@@ -1,0 +1,68 @@
+{
+  "id": 1024,
+  "slug": "the-cave-on-thunder-cloud",
+  "title": "The Cave on Thunder Cloud",
+  "formatted_title": "The Cave on Thunder Cloud",
+  "html_title": "<span class=\"work-title\">The Cave on Thunder Cloud</span>",
+  "work_type": "novella",
+  "publication_year": 1912,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": null,
+  "author": {
+    "id": 6,
+    "slug": "mary-roberts-rinehart",
+    "name": "Mary Roberts Rinehart",
+    "birth_year": 1876,
+    "death_year": 1958,
+    "film_count": 41
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 3,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1142,
+      "slug": "the-cave-on-thunder-cloud-1915",
+      "title": "The Cave on Thunder Cloud",
+      "html_title": "<span class=\"film-title\">The Cave on Thunder Cloud</span>",
+      "year": 1915,
+      "studio": "Essanay",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "years_after_publication": 3
+    }
+  ],
+  "adaptation_gaps": [],
+  "has_photoplay_edition": false,
+  "magazine_publication": {
+    "magazine_title": "The Saturday Evening Post",
+    "magazine_pub_date": "1912-07-27",
+    "magazine_issue_info": "v185 #4",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1912-07-27_185_4",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/k09/k09469.htm#A10",
+    "serialized": false,
+    "serial_parts": null
+  },
+  "external_urls": [],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": null,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-08-04T19:23:17.281007"
+}

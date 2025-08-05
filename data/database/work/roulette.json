@@ -6,7 +6,6 @@
   "html_title": "<span class=\"work-title\">Roulette</span>",
   "work_type": "novella",
   "publication_year": 1921,
-  "genre": null,
   "plot_summary": null,
   "literary_significance": null,
   "attribution_notes": null,
@@ -57,15 +56,36 @@
     "serialized": false,
     "serial_parts": null
   },
-  "external_urls": [],
+  "external_urls": [
+    {
+      "source": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/12659",
+      "priority": 1
+    },
+    {
+      "source": "Internet Archive",
+      "url": "https://archive.org/details/verticalcity00brotgoog",
+      "priority": 2
+    },
+    {
+      "source": "Open Library",
+      "url": "https://openlibrary.org/works/OL6642451M",
+      "priority": 3
+    },
+    {
+      "source": "WorldCat",
+      "url": "https://www.worldcat.org/oclc/613085835",
+      "priority": 4
+    }
+  ],
   "external_ids": {
-    "gutenberg_id": null,
-    "internet_archive_id": null,
-    "openlibrary_id": null,
-    "oclc_number": null,
+    "gutenberg_id": 12659,
+    "internet_archive_id": "verticalcity00brotgoog",
+    "openlibrary_id": "OL6642451M",
+    "oclc_number": 613085835,
     "wikidata_id": null,
     "viaf_id": null
   },
   "has_narrative": false,
-  "last_updated": "2025-07-22T21:54:00.594571"
+  "last_updated": "2025-08-04T17:06:35.659603"
 }

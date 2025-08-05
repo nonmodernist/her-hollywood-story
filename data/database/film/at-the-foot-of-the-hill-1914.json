@@ -6,15 +6,15 @@
   "html_title": "<span class=\"film-title\">At the Foot of the Hill</span>",
   "release_year": 1914,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [],
   "studio": "Essanay",
-  "production_companies": null,
+  "production_companies": "Essanay Film Mfg Co.",
   "distribution_companies": null,
   "directors": null,
   "writers": null,
   "cast_members": null,
-  "color_info": null,
+  "color_info": "black-and-white",
   "adaptation_notes": null,
   "afi_catalog_id": null,
   "source_work": {
@@ -41,9 +41,23 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 5988,
+      "media_type": "poster",
+      "title": "At the Foot of the Hill (1914) - Poster",
+      "caption": "Theatrical poster for At the Foot of the Hill (1914)",
+      "url": "https://image.tmdb.org/t/p/original/4iLbXk8FnS454DfmYHSkL0Qohb6.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/4iLbXk8FnS454DfmYHSkL0Qohb6.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/934038",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-08-05T16:08:53.689969"
+  "last_updated": "2025-08-05T18:38:53.660707"
 }

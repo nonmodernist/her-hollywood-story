@@ -84,7 +84,7 @@
           "title": "At the Foot of the Hill",
           "release_year": 1914,
           "runtime_minutes": null,
-          "country_of_production": null,
+          "country_of_production": "United States",
           "genres": [],
           "studio": "Essanay",
           "source_work_id": 1023,
@@ -96,24 +96,31 @@
           "women_in_key_roles": null,
           "added_by": "IMDb",
           "created_at": "2025-08-04T19:08:26.612441",
-          "updated_at": "2025-08-05T16:08:53.689969",
+          "updated_at": "2025-08-05T18:38:53.660707",
           "directors": null,
           "writers": null,
           "cast_members": null,
-          "production_companies": null,
+          "production_companies": "Essanay Film Mfg Co.",
           "distribution_companies": null,
-          "color_info": null,
+          "color_info": "black-and-white",
           "subgenres": null,
-          "external_ids": null,
-          "wikidata_id": null,
+          "external_ids": "{\"imdb\": \"tt1240407\", \"letterboxd\": \"at-the-foot-of-the-hill\", \"tmdb\": \"934038\"}",
+          "wikidata_id": "Q14453549",
           "hhs_id": "F1141",
           "slug": "at-the-foot-of-the-hill-1914",
           "formatted_title": "At the Foot of the Hill",
           "html_title": "<span class=\"film-title\">At the Foot of the Hill</span>",
           "genres_string": "",
-          "hasMedia": false,
-          "mediaCount": 0,
-          "featuredMedia": null,
+          "hasMedia": true,
+          "mediaCount": 1,
+          "featuredMedia": {
+            "type": "poster",
+            "thumbnailUrl": "https://image.tmdb.org/t/p/w342/4iLbXk8FnS454DfmYHSkL0Qohb6.jpg",
+            "fullUrl": "https://image.tmdb.org/t/p/original/4iLbXk8FnS454DfmYHSkL0Qohb6.jpg",
+            "caption": "Theatrical poster for At the Foot of the Hill (1914)",
+            "source": "tmdb",
+            "attribution": "Image courtesy of TMDB"
+          },
           "decade": 1910
         },
         "lastFilm": {
@@ -898,7 +905,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-05T16:22:09.029Z",
+    "generated": "2025-08-05T19:21:12.988Z",
     "version": "2.0"
   }
 }

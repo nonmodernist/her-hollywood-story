@@ -22426,7 +22426,7 @@
       "genres": [
         "Drama"
       ],
-      "studio": "Essanay Film",
+      "studio": "Essanay",
       "directors": "Arthur Berthelet",
       "hasMedia": false,
       "mediaCount": 0,
@@ -22441,7 +22441,7 @@
       "authorSlug": "eleanor-marie-ingram",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "little shoes arthur berthelet edward t. lowe jr. henry b. walthall|mary charleson|mary mcallister|u. k. haupt|patrick calhoun|victor benoit|bowd m. turner|jack paul essanay film the house of little shoes eleanor marie ingram drama"
+      "searchText": "little shoes arthur berthelet edward t. lowe jr. henry b. walthall|mary charleson|mary mcallister|u. k. haupt|patrick calhoun|victor benoit|bowd m. turner|jack paul essanay the house of little shoes eleanor marie ingram drama"
     },
     {
       "id": 660,
@@ -22796,7 +22796,7 @@
       "genres": [
         "Comedy"
       ],
-      "studio": "Essanay Film",
+      "studio": "Essanay",
       "directors": "Lawrence Windom",
       "hasMedia": false,
       "mediaCount": 0,
@@ -22811,7 +22811,7 @@
       "authorSlug": "gladys-e-johnson",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "two-bit seats lawrence windom james campbell taylor holmes|marguerite clayton|sidney ainsworth|john cossar|alice carroll essanay film two-bit seats gladys e. johnson comedy"
+      "searchText": "two-bit seats lawrence windom james campbell taylor holmes|marguerite clayton|sidney ainsworth|john cossar|alice carroll essanay two-bit seats gladys e. johnson comedy"
     },
     {
       "id": 671,
@@ -25960,7 +25960,7 @@
       "genres": [
         "Comedy-drama"
       ],
-      "studio": "Essanay Film",
+      "studio": "Essanay",
       "directors": "Arthur Berthelet",
       "hasMedia": true,
       "mediaCount": 7,
@@ -25982,7 +25982,7 @@
       "authorSlug": "mary-maclane",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "men who have made love to me arthur berthelet e. c. lowe mary maclane|ralph graves|r. paul harvey|cliff worman|alador prince|clarence derwent|fred tiden essanay film i, mary maclane mary maclane comedy-drama"
+      "searchText": "men who have made love to me arthur berthelet e. c. lowe mary maclane|ralph graves|r. paul harvey|cliff worman|alador prince|clarence derwent|fred tiden essanay i, mary maclane mary maclane comedy-drama"
     },
     {
       "id": 764,
@@ -38735,9 +38735,16 @@
       "genres": [],
       "studio": "Essanay",
       "directors": null,
-      "hasMedia": false,
-      "mediaCount": 0,
-      "featuredMedia": null,
+      "hasMedia": true,
+      "mediaCount": 1,
+      "featuredMedia": {
+        "type": "poster",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/zX2jiJ0QGXO97yrPlRU9EmWvZd7.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/zX2jiJ0QGXO97yrPlRU9EmWvZd7.jpg",
+        "caption": "Theatrical poster for Jane (1914)",
+        "source": "tmdb",
+        "attribution": "Image courtesy of TMDB"
+      },
       "workId": 1020,
       "workTitle": "Jane",
       "workFormattedTitle": "\"Jane\"",
@@ -38789,9 +38796,16 @@
       ],
       "studio": "First National",
       "directors": "Frank Lloyd",
-      "hasMedia": false,
-      "mediaCount": 0,
-      "featuredMedia": null,
+      "hasMedia": true,
+      "mediaCount": 3,
+      "featuredMedia": {
+        "type": "poster",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Poster_-_the_Silent_Watcher.jpg/300px-Poster_-_the_Silent_Watcher.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Poster_-_the_Silent_Watcher.jpg",
+        "caption": "The Silent Watcher film poster.",
+        "source": "wikimedia",
+        "attribution": "doctormacro.com. A fair use version had been already uploaded to English Wikipedia by User:Lamro"
+      },
       "workId": 1022,
       "workTitle": "The Altar on the Hill",
       "workFormattedTitle": "\"The Altar on the Hill\"",
@@ -38841,9 +38855,16 @@
       "genres": [],
       "studio": "Essanay",
       "directors": null,
-      "hasMedia": false,
-      "mediaCount": 0,
-      "featuredMedia": null,
+      "hasMedia": true,
+      "mediaCount": 1,
+      "featuredMedia": {
+        "type": "poster",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/4iLbXk8FnS454DfmYHSkL0Qohb6.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/4iLbXk8FnS454DfmYHSkL0Qohb6.jpg",
+        "caption": "Theatrical poster for At the Foot of the Hill (1914)",
+        "source": "tmdb",
+        "attribution": "Image courtesy of TMDB"
+      },
       "workId": 1023,
       "workTitle": "At the Foot of the Hill",
       "workFormattedTitle": "\"At the Foot of the Hill\"",
@@ -38945,9 +38966,16 @@
       "genres": [],
       "studio": "Paramount",
       "directors": null,
-      "hasMedia": false,
-      "mediaCount": 0,
-      "featuredMedia": null,
+      "hasMedia": true,
+      "mediaCount": 2,
+      "featuredMedia": {
+        "type": "poster",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/jmTt06F4Ty6cJZIe0ma62iPwwf9.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/jmTt06F4Ty6cJZIe0ma62iPwwf9.jpg",
+        "caption": "Theatrical poster for The Home Girl (1928)",
+        "source": "tmdb",
+        "attribution": "Image courtesy of TMDB"
+      },
       "workId": 1026,
       "workTitle": "Home Girl",
       "workFormattedTitle": "Home Girl",
@@ -38967,7 +38995,7 @@
       1910,
       1963
     ],
-    "withMedia": 1040
+    "withMedia": 1044
   },
   "filterOptions": {
     "years": [
@@ -39371,12 +39399,7 @@
       {
         "value": "Essanay",
         "label": "Essanay",
-        "count": 7
-      },
-      {
-        "value": "Essanay Film",
-        "label": "Essanay Film",
-        "count": 3
+        "count": 10
       },
       {
         "value": "Famous Players",

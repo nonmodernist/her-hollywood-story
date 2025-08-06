@@ -29,6 +29,10 @@
         "count": 1
       },
       {
+        "genre": "Short",
+        "count": 1
+      },
+      {
         "genre": "Drama",
         "count": 1
       }
@@ -70,7 +74,8 @@
       "directors": "Frederick Thomson",
       "genres": [
         "Adventure",
-        "Musical"
+        "Musical",
+        "Short"
       ],
       "has_media": true,
       "work_title": "Uncle Tom's Cabin",

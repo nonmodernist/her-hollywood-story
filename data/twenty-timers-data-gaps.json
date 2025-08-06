@@ -1,0 +1,96 @@
+{
+  "overview": {
+    "total_twenty_timer_films": 136,
+    "silent_films": 72,
+    "sound_films": 64
+  },
+  "data_gaps": {
+    "films_missing_directors": 12,
+    "films_missing_cast": 11,
+    "films_missing_writers": 19,
+    "films_missing_runtime": 17,
+    "films_missing_distribution": 13,
+    "films_missing_afi_id": 10,
+    "films_missing_genres": 11,
+    "confirmed_lost_films": 38
+  },
+  "percentages": {
+    "directors_missing_pct": 8.8,
+    "cast_missing_pct": 8.1,
+    "writers_missing_pct": 14.0,
+    "lost_films_pct": 27.9,
+    "silent_films_pct": 52.9
+  },
+  "by_author": {
+    "Alice Duer Miller": {
+      "total_films": 22,
+      "silent_films": 10,
+      "lost_films": 6,
+      "missing_directors": 0,
+      "missing_cast": 0,
+      "missing_writers": 1,
+      "percentages": {
+        "directors_missing_pct": 0.0,
+        "cast_missing_pct": 0.0,
+        "lost_films_pct": 27.3,
+        "silent_films_pct": 45.5
+      }
+    },
+    "Edna Ferber": {
+      "total_films": 25,
+      "silent_films": 11,
+      "lost_films": 4,
+      "missing_directors": 2,
+      "missing_cast": 2,
+      "missing_writers": 3,
+      "percentages": {
+        "directors_missing_pct": 8.0,
+        "cast_missing_pct": 8.0,
+        "lost_films_pct": 16.0,
+        "silent_films_pct": 44.0
+      }
+    },
+    "Gene Stratton-Porter": {
+      "total_films": 21,
+      "silent_films": 8,
+      "lost_films": 7,
+      "missing_directors": 0,
+      "missing_cast": 0,
+      "missing_writers": 2,
+      "percentages": {
+        "directors_missing_pct": 0.0,
+        "cast_missing_pct": 0.0,
+        "lost_films_pct": 33.3,
+        "silent_films_pct": 38.1
+      }
+    },
+    "Fannie Hurst": {
+      "total_films": 27,
+      "silent_films": 12,
+      "lost_films": 5,
+      "missing_directors": 2,
+      "missing_cast": 1,
+      "missing_writers": 2,
+      "percentages": {
+        "directors_missing_pct": 7.4,
+        "cast_missing_pct": 3.7,
+        "lost_films_pct": 18.5,
+        "silent_films_pct": 44.4
+      }
+    },
+    "Mary Roberts Rinehart": {
+      "total_films": 41,
+      "silent_films": 31,
+      "lost_films": 16,
+      "missing_directors": 8,
+      "missing_cast": 8,
+      "missing_writers": 11,
+      "percentages": {
+        "directors_missing_pct": 19.5,
+        "cast_missing_pct": 19.5,
+        "lost_films_pct": 39.0,
+        "silent_films_pct": 75.6
+      }
+    }
+  }
+}

@@ -7,14 +7,17 @@
   "release_year": 1941,
   "runtime_minutes": 20,
   "country_of_production": "United States",
-  "genres": [],
+  "genres": [
+    "Short"
+  ],
   "studio": "Warner Bros",
-  "production_companies": null,
+  "production_companies": "Warner Bros.",
   "distribution_companies": null,
-  "directors": null,
-  "writers": null,
-  "cast_members": null,
+  "directors": "Jean Negulesco",
+  "writers": "Owen Crump",
+  "cast_members": "Howard Da Silva|Barbara Pepper|Addison Richards",
   "color_info": null,
+  "availability": null,
   "adaptation_notes": null,
   "afi_catalog_id": null,
   "source_work": {
@@ -45,5 +48,5 @@
   "has_media": false,
   "media_count": 0,
   "has_narrative": false,
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-06T00:59:28.251697"
 }

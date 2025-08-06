@@ -37,8 +37,10 @@
       "html_title": "<span class=\"film-title\">Lord John in New York</span>",
       "year": 1915,
       "studio": "Universal",
-      "directors": null,
-      "genres": [],
+      "directors": "Edward LeSaint",
+      "genres": [
+        "Mystery"
+      ],
       "has_media": false,
       "years_after_publication": 0
     }

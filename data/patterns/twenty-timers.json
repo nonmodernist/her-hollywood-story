@@ -85,21 +85,23 @@
           "release_year": 1914,
           "runtime_minutes": null,
           "country_of_production": "United States",
-          "genres": [],
+          "genres": [
+            "Short"
+          ],
           "studio": "Essanay",
           "source_work_id": 1023,
           "adaptation_notes": null,
           "afi_catalog_id": null,
           "availability": null,
           "archive_location": null,
-          "verification_source": null,
+          "verification_source": "IMDb",
           "women_in_key_roles": null,
           "added_by": "IMDb",
           "created_at": "2025-08-04T19:08:26.612441",
-          "updated_at": "2025-08-05T18:38:53.660707",
+          "updated_at": "2025-08-06T00:40:52.22347",
           "directors": null,
           "writers": null,
-          "cast_members": null,
+          "cast_members": "Thomas Commerford|Richard Travers|Gerda Holmes",
           "production_companies": "Essanay Film Mfg Co.",
           "distribution_companies": null,
           "color_info": "black-and-white",
@@ -110,14 +112,14 @@
           "slug": "at-the-foot-of-the-hill-1914",
           "formatted_title": "At the Foot of the Hill",
           "html_title": "<span class=\"film-title\">At the Foot of the Hill</span>",
-          "genres_string": "",
+          "genres_string": "Short",
           "hasMedia": true,
           "mediaCount": 1,
           "featuredMedia": {
-            "type": "poster",
+            "type": "advertisement",
             "thumbnailUrl": "https://image.tmdb.org/t/p/w342/4iLbXk8FnS454DfmYHSkL0Qohb6.jpg",
             "fullUrl": "https://image.tmdb.org/t/p/original/4iLbXk8FnS454DfmYHSkL0Qohb6.jpg",
-            "caption": "Theatrical poster for At the Foot of the Hill (1914)",
+            "caption": "Advertisement for At the Foot of the Hill (1915)",
             "source": "tmdb",
             "attribution": "Image courtesy of TMDB"
           },
@@ -905,7 +907,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-05T19:21:12.988Z",
+    "generated": "2025-08-06T01:08:25.121Z",
     "version": "2.0"
   }
 }

@@ -9,7 +9,8 @@
       "year": 1910,
       "decade": 1910,
       "genres": [
-        "Drama"
+        "Drama",
+        "Short"
       ],
       "studio": "Biograph",
       "directors": "D. W. Griffith",
@@ -33,7 +34,7 @@
       "authorSlug": "helen-hunt-jackson",
       "isRemake": true,
       "adaptationNumber": 1,
-      "searchText": "ramona d. w. griffith mary pickford|h. b. walthall|francis j. grandon|kate bruce|w. chrystie miller|charles west|dorothy west|frank opperman|gertrude claire biograph ramona helen hunt jackson drama"
+      "searchText": "ramona d. w. griffith mary pickford|h. b. walthall|francis j. grandon|kate bruce|w. chrystie miller|charles west|dorothy west|frank opperman|gertrude claire biograph ramona helen hunt jackson drama short"
     },
     {
       "id": 2,
@@ -81,7 +82,8 @@
       "decade": 1910,
       "genres": [
         "Adventure",
-        "Musical"
+        "Musical",
+        "Short"
       ],
       "studio": "Vitagraph",
       "directors": "Frederick Thomson",
@@ -105,7 +107,7 @@
       "authorSlug": "harriet-beecher-stowe",
       "isRemake": true,
       "adaptationNumber": 2,
-      "searchText": "uncle tom's cabin (parts 1 - 3) frederick thomson rollin s. sturgeon florence turner|mary fuller|edwin r. phillips|flora finch|genevieve tobin|carlyle blackwell|matty roubert vitagraph uncle tom's cabin harriet beecher stowe adventure musical"
+      "searchText": "uncle tom's cabin (parts 1 - 3) frederick thomson rollin s. sturgeon florence turner|mary fuller|edwin r. phillips|flora finch|genevieve tobin|carlyle blackwell|matty roubert vitagraph uncle tom's cabin harriet beecher stowe adventure musical short"
     },
     {
       "id": 4,
@@ -119,7 +121,7 @@
         "Drama"
       ],
       "studio": "Famous Players",
-      "directors": null,
+      "directors": "J. Searle Dawley",
       "hasMedia": true,
       "mediaCount": 2,
       "featuredMedia": {
@@ -140,7 +142,7 @@
       "authorSlug": "frances-hodgson-burnett",
       "isRemake": true,
       "adaptationNumber": 1,
-      "searchText": "a lady of quality cecilia loftus|geraldine o'brien|house peters|peter lang|hal clarendon|edna weick|roy pilser|dave wall|alexander gaden|henrietta goodman famous players a lady of quality frances hodgson burnett drama"
+      "searchText": "a lady of quality j. searle dawley j. searle dawley|stephen townsend cecilia loftus|geraldine o'brien|house peters|peter lang|hal clarendon|edna weick|roy pilser|dave wall|alexander gaden|henrietta goodman famous players a lady of quality frances hodgson burnett drama"
     },
     {
       "id": 5,
@@ -154,7 +156,7 @@
         "Drama"
       ],
       "studio": "Famous Players",
-      "directors": null,
+      "directors": "Edwin S. Porter",
       "hasMedia": true,
       "mediaCount": 8,
       "featuredMedia": {
@@ -175,7 +177,7 @@
       "authorSlug": "grace-miller-white",
       "isRemake": true,
       "adaptationNumber": 1,
-      "searchText": "tess of the storm country b. p. schulberg mary pickford|harold lockwood|olive carey|david m. hartford|louise dunlap|w. r. walters|richard garrick|eugene walter|lorraine thompson|jack henry famous players tess of the storm country grace miller white drama"
+      "searchText": "tess of the storm country edwin s. porter b. p. schulberg mary pickford|harold lockwood|olive carey|david m. hartford|louise dunlap|w. r. walters|richard garrick|eugene walter|lorraine thompson|jack henry famous players tess of the storm country grace miller white drama"
     },
     {
       "id": 6,
@@ -227,12 +229,12 @@
       "studio": "Selig Polyscope",
       "directors": "Edward J. Le Saint",
       "hasMedia": true,
-      "mediaCount": 3,
+      "mediaCount": 2,
       "featuredMedia": {
-        "type": "poster",
+        "type": "advertisement",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/m5UE3kLGdWHNwQPWxEK28ovKTsM.jpg",
         "fullUrl": "https://image.tmdb.org/t/p/original/m5UE3kLGdWHNwQPWxEK28ovKTsM.jpg",
-        "caption": "Theatrical poster for The Circular Staircase (1915)",
+        "caption": "Advertisement for The Circular Staircase (1915)",
         "source": "tmdb",
         "attribution": "Image courtesy of TMDB"
       },
@@ -495,7 +497,8 @@
       "year": 1916,
       "decade": 1910,
       "genres": [
-        "Drama"
+        "Drama",
+        "Short"
       ],
       "studio": "Universal",
       "directors": "Joseph De Grasse",
@@ -519,7 +522,7 @@
       "authorSlug": "harriet-theresa-comstock",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "the place beyond the winds joseph de grasse ida may park dorothy phillips|jack mulhall|lon chaney|joseph de grasse|c. norman hammond|alice may youse|mr. powers|grace carlyle|countess du cello universal the place beyond the winds harriet theresa comstock drama"
+      "searchText": "the place beyond the winds joseph de grasse ida may park dorothy phillips|jack mulhall|lon chaney|joseph de grasse|c. norman hammond|alice may youse|mr. powers|grace carlyle|countess du cello universal the place beyond the winds harriet theresa comstock drama short"
     },
     {
       "id": 17,
@@ -4278,12 +4281,12 @@
       "studio": "United Artists",
       "directors": "Roland West",
       "hasMedia": true,
-      "mediaCount": 11,
+      "mediaCount": 10,
       "featuredMedia": {
-        "type": "still",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w780/qSMe5oHC4Aqz1NsprtxlrQVPsRV.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/qSMe5oHC4Aqz1NsprtxlrQVPsRV.jpg",
-        "caption": "Scene from The Bat (1926)",
+        "type": "advertisement",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/q4Ptjf3IDjSpnFoJyiNyhEVe7cb.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/q4Ptjf3IDjSpnFoJyiNyhEVe7cb.jpg",
+        "caption": "Advertisement for the American comedy mystery film The Bat (1926), on page 728 of the December 26, 1925 The Moving Picture World.",
         "source": "TMDb",
         "attribution": "United Artists"
       },
@@ -5943,7 +5946,7 @@
         "Melodrama"
       ],
       "studio": "First National",
-      "directors": null,
+      "directors": "William A. Seiter",
       "hasMedia": true,
       "mediaCount": 3,
       "featuredMedia": {
@@ -5964,7 +5967,7 @@
       "authorSlug": "fannie-hurst",
       "isRemake": true,
       "adaptationNumber": 2,
-      "searchText": "back pay francis edwards faragoh corinne griffith|grant withers|montagu love|hallam cooley|vivien oakland|geneva mitchell|william norton bailey|virginia sale|dee loretta|james marcus first national back pay fannie hurst melodrama"
+      "searchText": "back pay william a. seiter francis edwards faragoh corinne griffith|grant withers|montagu love|hallam cooley|vivien oakland|geneva mitchell|william norton bailey|virginia sale|dee loretta|james marcus first national back pay fannie hurst melodrama"
     },
     {
       "id": 174,
@@ -6296,7 +6299,7 @@
         "Melodrama"
       ],
       "studio": "MGM",
-      "directors": null,
+      "directors": "Robert Z. Leonard",
       "hasMedia": true,
       "mediaCount": 7,
       "featuredMedia": {
@@ -6317,7 +6320,7 @@
       "authorSlug": "fannie-hurst",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "five and ten a. p. younger marion davies|leslie howard|richard bennett|irene rich|douglass montgomery|mary duncan|lynn beranger|arthur housman|george irving|halliwell hobbes mgm five and ten fannie hurst melodrama"
+      "searchText": "five and ten robert z. leonard a. p. younger marion davies|leslie howard|richard bennett|irene rich|douglass montgomery|mary duncan|lynn beranger|arthur housman|george irving|halliwell hobbes mgm five and ten fannie hurst melodrama"
     },
     {
       "id": 184,
@@ -11813,10 +11816,10 @@
       "year": 1941,
       "decade": 1940,
       "genres": [
-        "Childrens works"
+        "Animation"
       ],
       "studio": "Walt Disney",
-      "directors": null,
+      "directors": "Samuel Armstrong|Norman Ferguson|Wilfred Jackson",
       "hasMedia": true,
       "mediaCount": 17,
       "featuredMedia": {
@@ -11837,7 +11840,7 @@
       "authorSlug": "helen-aberson",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "dumbo joe grant|dick huemer|bill peet|aurie battaglia|joe rinaldi|george stallings|webb smith edward brophy|sterling holloway|herman bing|cliff edwards|verna felton|eddie holden|bill fletcher|bill sheets|hall johnson choir walt disney dumbo, the flying elephant helen aberson childrens works"
+      "searchText": "dumbo samuel armstrong|norman ferguson|wilfred jackson joe grant|dick huemer|bill peet|aurie battaglia|joe rinaldi|george stallings|webb smith edward brophy|sterling holloway|herman bing|cliff edwards|verna felton|eddie holden|bill fletcher|bill sheets|hall johnson choir walt disney dumbo, the flying elephant helen aberson animation"
     },
     {
       "id": 343,
@@ -22825,7 +22828,7 @@
         "Documentary"
       ],
       "studio": "Osa Johnson",
-      "directors": null,
+      "directors": "Osa Johnson",
       "hasMedia": true,
       "mediaCount": 1,
       "featuredMedia": {
@@ -22846,7 +22849,7 @@
       "authorSlug": "osa-johnson",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "i married adventure osa johnson osa johnson i married adventure osa johnson documentary"
+      "searchText": "i married adventure osa johnson osa johnson|don clark|albert duffy osa johnson|martin e. johnson|jim bannon osa johnson i married adventure osa johnson documentary"
     },
     {
       "id": 672,
@@ -24518,7 +24521,7 @@
         "Documentary"
       ],
       "studio": "Sol Lesser Productions",
-      "directors": null,
+      "directors": "Dana Lamb",
       "hasMedia": true,
       "mediaCount": 1,
       "featuredMedia": {
@@ -24539,7 +24542,7 @@
       "authorSlug": "ginger-lamb",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "quest for the lost city dana lamb|ginger lamb|tom harmon|hal gibney sol lesser productions quest for a lost city ginger lamb documentary"
+      "searchText": "quest for the lost city dana lamb dorothy howell dana lamb|ginger lamb|tom harmon|hal gibney sol lesser productions quest for a lost city ginger lamb documentary"
     },
     {
       "id": 721,
@@ -25879,7 +25882,7 @@
       "authorSlug": "mrs-barry-macdonald",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "what should a woman do to promote youth and happiness? barry macdonald film co. what should a woman do to promote youth and happiness? mrs. barry macdonald drama"
+      "searchText": "what should a woman do to promote youth and happiness? mrs. barry macdonald barry macdonald film co. what should a woman do to promote youth and happiness? mrs. barry macdonald drama"
     },
     {
       "id": 760,
@@ -25915,39 +25918,6 @@
       "isRemake": false,
       "adaptationNumber": 1,
       "searchText": "the egg and i chester erskine chester erskine|fred f. finklehoffe claudette colbert|fred macmurray|marjorie main|louise allbritton|percy kilbride|richard long|billy house|ida moore|donald macbride|samuel s. hinds universal-international the egg and i betty macdonald comedy"
-    },
-    {
-      "id": 761,
-      "slug": "one-step-to-eternity-1955",
-      "title": "One Step to Eternity",
-      "formatted_title": "One Step to Eternity",
-      "html_title": "<span class=\"film-title\">One Step to Eternity</span>",
-      "year": 1955,
-      "decade": 1950,
-      "genres": [],
-      "studio": "Ellis Films",
-      "directors": null,
-      "hasMedia": true,
-      "mediaCount": 3,
-      "featuredMedia": {
-        "type": "still",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w780/5i3Bo2BYLzM4IcRPFU3QuBpUTNd.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/5i3Bo2BYLzM4IcRPFU3QuBpUTNd.jpg",
-        "caption": "Scene from One Step to Eternity (1955)",
-        "source": "tmdb",
-        "attribution": "Image courtesy of TMDB"
-      },
-      "workId": 676,
-      "workTitle": "Follow as the Night",
-      "workFormattedTitle": "Follow as the Night",
-      "workHtmlTitle": "<span class=\"work-title\">Follow as the Night</span>",
-      "workSlug": "follow-as-the-night",
-      "authorId": 336,
-      "authorName": "Patricia McGerr",
-      "authorSlug": "patricia-mcgerr",
-      "isRemake": false,
-      "adaptationNumber": 1,
-      "searchText": "one step to eternity ellis films follow as the night patricia mcgerr"
     },
     {
       "id": 763,
@@ -31365,7 +31335,7 @@
       "studio": "Fine Arts Film",
       "directors": "Paul Powell",
       "hasMedia": true,
-      "mediaCount": 4,
+      "mediaCount": 3,
       "featuredMedia": {
         "type": "still",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Scene_from_Acquitted_with_Wilfred_Lucas.jpg/300px-Scene_from_Acquitted_with_Wilfred_Lucas.jpg",
@@ -31683,10 +31653,10 @@
       "hasMedia": true,
       "mediaCount": 8,
       "featuredMedia": {
-        "type": "poster",
+        "type": "advertisement",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/wAiCiO1RMKMbR4eocRfeEjecHPF.jpg",
         "fullUrl": "https://image.tmdb.org/t/p/original/wAiCiO1RMKMbR4eocRfeEjecHPF.jpg",
-        "caption": "Theatrical poster for The Glorious Fool (1922)",
+        "caption": "Advertisement for The Glorious Fool (1922)",
         "source": "tmdb",
         "attribution": "Image courtesy of TMDB"
       },
@@ -31718,10 +31688,10 @@
       "hasMedia": true,
       "mediaCount": 6,
       "featuredMedia": {
-        "type": "poster",
+        "type": "advertisement",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/iVUhoxhI0BmMyOgrG9MMIeMg0eh.jpg",
         "fullUrl": "https://image.tmdb.org/t/p/original/iVUhoxhI0BmMyOgrG9MMIeMg0eh.jpg",
-        "caption": "Theatrical poster for The Doctor and the Woman (1918)",
+        "caption": "Advertisement for The Doctor and the Woman (1918)",
         "source": "tmdb",
         "attribution": "Image courtesy of TMDB"
       },
@@ -31753,10 +31723,10 @@
       "hasMedia": true,
       "mediaCount": 3,
       "featuredMedia": {
-        "type": "still",
+        "type": "advertisement",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w780/9lRsALhtLUQmvO6ffughh1LwBy1.jpg",
         "fullUrl": "https://image.tmdb.org/t/p/original/9lRsALhtLUQmvO6ffughh1LwBy1.jpg",
-        "caption": "Scene from K--The Unknown (1924)",
+        "caption": "Advertisement K--The Unknown (1924)",
         "source": "TMDb",
         "attribution": "Universal"
       },
@@ -31964,9 +31934,9 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bab%27s_Matinee_Idol_%281917%29_-_1.jpg/300px-Bab%27s_Matinee_Idol_%281917%29_-_1.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bab%27s_Matinee_Idol_%281917%29_-_1.jpg",
-        "caption": "Advertisement for the American comedy romance film Bab's Matinee Idol (1917) with Marguerite Clark, on page 45 of the December 14, 1917 Variety.",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Babs_Matinee_Idol_-_1918_-_newspaper_ad.jpg/300px-Babs_Matinee_Idol_-_1918_-_newspaper_ad.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Babs_Matinee_Idol_-_1918_-_newspaper_ad.jpg",
+        "caption": "Bab's Matinee Idol is a 1917 American silent romantic comedy film produced by Famous Players Film Company directed by J. Searle Dawley.",
         "source": "Wikimedia Commons",
         "attribution": "Paramount Pictures"
       },
@@ -32031,7 +32001,7 @@
       "studio": "Thomas H. Ince Productions",
       "directors": "Henry King",
       "hasMedia": true,
-      "mediaCount": 4,
+      "mediaCount": 3,
       "featuredMedia": {
         "type": "advertisement",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/23_1-2_Hours%27_Leave_%281919%29_-_1.jpg/300px-23_1-2_Hours%27_Leave_%281919%29_-_1.jpg",
@@ -32122,7 +32092,7 @@
       "studio": "Warner Bros",
       "directors": "John G. Adolfi",
       "hasMedia": true,
-      "mediaCount": 3,
+      "mediaCount": 1,
       "featuredMedia": {
         "type": "lobby_card",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/What_Happened_to_Father_lobby_card.jpg/300px-What_Happened_to_Father_lobby_card.jpg",
@@ -32660,7 +32630,7 @@
         "Western"
       ],
       "studio": "Frank Lloyd Productions ",
-      "directors": null,
+      "directors": "Frank Lloyd",
       "hasMedia": true,
       "mediaCount": 6,
       "featuredMedia": {
@@ -32681,7 +32651,7 @@
       "authorSlug": "vingie-e-roe",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "the splendid road j. g. hawks anna q. nilsson|robert frazer|lionel barrymore|edwards davis|roy laidlaw|de witt jennings|russell simpson|george bancroft|gladys brockwell|pauline garon frank lloyd productions  the splendid road vingie e. roe western"
+      "searchText": "the splendid road frank lloyd j. g. hawks anna q. nilsson|robert frazer|lionel barrymore|edwards davis|roy laidlaw|de witt jennings|russell simpson|george bancroft|gladys brockwell|pauline garon frank lloyd productions  the splendid road vingie e. roe western"
     },
     {
       "id": 958,
@@ -33012,7 +32982,7 @@
         "Drama"
       ],
       "studio": "Fox Film",
-      "directors": null,
+      "directors": "Edwin J. Burke",
       "hasMedia": true,
       "mediaCount": 3,
       "featuredMedia": {
@@ -33033,7 +33003,7 @@
       "authorSlug": "carolyn-green-rothstein",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "now i'll tell arnold rothstein spencer tracy|helen twelvetrees|alice faye|robert gleckler|henry o'neill|hobart cavanaugh|g. p. huntley jr.|shirley temple|ronnie cosbey|ray cooke fox film now i'll tell carolyn green rothstein biography drama"
+      "searchText": "now i'll tell edwin j. burke mrs. arnold rothstein spencer tracy|helen twelvetrees|alice faye|robert gleckler|henry o'neill|hobart cavanaugh|g. p. huntley jr.|shirley temple|ronnie cosbey|ray cooke fox film now i'll tell carolyn green rothstein biography drama"
     },
     {
       "id": 968,
@@ -37047,9 +37017,11 @@
       "html_title": "<span class=\"film-title\">Lord John in New York</span>",
       "year": 1915,
       "decade": 1910,
-      "genres": [],
+      "genres": [
+        "Mystery"
+      ],
       "studio": "Universal",
-      "directors": null,
+      "directors": "Edward LeSaint",
       "hasMedia": false,
       "mediaCount": 0,
       "featuredMedia": null,
@@ -37063,7 +37035,7 @@
       "authorSlug": "alice-muriel-williamson",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "lord john in new york universal lord john in new york alice muriel williamson"
+      "searchText": "lord john in new york edward lesaint harvey gates william garwood|stella razeto|ogden crane universal lord john in new york alice muriel williamson mystery"
     },
     {
       "id": 1088,
@@ -38235,7 +38207,8 @@
       "year": 1910,
       "decade": 1910,
       "genres": [
-        "Melodrama"
+        "Melodrama",
+        "Short"
       ],
       "studio": "Thanhouser",
       "directors": null,
@@ -38259,7 +38232,7 @@
       "authorSlug": "mary-jane-holmes",
       "isRemake": true,
       "adaptationNumber": 1,
-      "searchText": "lena rivers violet heming|frank h. crane|anna rosemond thanhouser lena rivers mary jane holmes melodrama"
+      "searchText": "lena rivers violet heming|frank h. crane|anna rosemond thanhouser lena rivers mary jane holmes melodrama short"
     },
     {
       "id": 1123,
@@ -38575,9 +38548,12 @@
       "html_title": "<span class=\"film-title\">Joyce of the North Woods</span>",
       "year": 1913,
       "decade": 1910,
-      "genres": [],
+      "genres": [
+        "Drama",
+        "Short"
+      ],
       "studio": "Edison",
-      "directors": null,
+      "directors": "Ashley Miller",
       "hasMedia": false,
       "mediaCount": 0,
       "featuredMedia": null,
@@ -38591,7 +38567,7 @@
       "authorSlug": "harriet-theresa-comstock",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "joyce of the north woods edison joyce of the north woods harriet theresa comstock"
+      "searchText": "joyce of the north woods ashley miller edison joyce of the north woods harriet theresa comstock drama short"
     },
     {
       "id": 1133,
@@ -38636,9 +38612,11 @@
       "html_title": "<span class=\"film-title\">The Dog in the Orchard</span>",
       "year": 1941,
       "decade": 1940,
-      "genres": [],
+      "genres": [
+        "Short"
+      ],
       "studio": "Warner Bros",
-      "directors": null,
+      "directors": "Jean Negulesco",
       "hasMedia": false,
       "mediaCount": 0,
       "featuredMedia": null,
@@ -38652,7 +38630,7 @@
       "authorSlug": "mary-roberts-rinehart",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "the dog in the orchard warner bros the dog in the orchard mary roberts rinehart"
+      "searchText": "the dog in the orchard jean negulesco owen crump howard da silva|barbara pepper|addison richards warner bros the dog in the orchard mary roberts rinehart short"
     },
     {
       "id": 1135,
@@ -38732,16 +38710,18 @@
       "html_title": "<span class=\"film-title\">Jane</span>",
       "year": 1914,
       "decade": 1910,
-      "genres": [],
+      "genres": [
+        "Short"
+      ],
       "studio": "Essanay",
       "directors": null,
       "hasMedia": true,
       "mediaCount": 1,
       "featuredMedia": {
-        "type": "poster",
+        "type": "advertisement",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/zX2jiJ0QGXO97yrPlRU9EmWvZd7.jpg",
         "fullUrl": "https://image.tmdb.org/t/p/original/zX2jiJ0QGXO97yrPlRU9EmWvZd7.jpg",
-        "caption": "Theatrical poster for Jane (1914)",
+        "caption": "Advertisement for Jane (1915)",
         "source": "tmdb",
         "attribution": "Image courtesy of TMDB"
       },
@@ -38755,7 +38735,7 @@
       "authorSlug": "mary-roberts-rinehart",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "jane essanay jane mary roberts rinehart"
+      "searchText": "jane essanay jane mary roberts rinehart short"
     },
     {
       "id": 1138,
@@ -38765,9 +38745,11 @@
       "html_title": "<span class=\"film-title\">Tish's Spy</span>",
       "year": 1915,
       "decade": 1910,
-      "genres": [],
+      "genres": [
+        "Short"
+      ],
       "studio": "Essanay",
-      "directors": null,
+      "directors": "E.H. Calvert",
       "hasMedia": false,
       "mediaCount": 0,
       "featuredMedia": null,
@@ -38781,7 +38763,7 @@
       "authorSlug": "mary-roberts-rinehart",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "tish's spy essanay tish's spy mary roberts rinehart"
+      "searchText": "tish's spy e.h. calvert camille d'arcy|richard travers|lillian drew essanay tish's spy mary roberts rinehart short"
     },
     {
       "id": 1139,
@@ -38799,12 +38781,12 @@
       "hasMedia": true,
       "mediaCount": 3,
       "featuredMedia": {
-        "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Poster_-_the_Silent_Watcher.jpg/300px-Poster_-_the_Silent_Watcher.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Poster_-_the_Silent_Watcher.jpg",
-        "caption": "The Silent Watcher film poster.",
+        "type": "still",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Alma_Bennett_ph325.jpg/300px-Alma_Bennett_ph325.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Alma_Bennett_ph325.jpg",
+        "caption": "Alma Bennett in the film The Silent Watcher (1924), from the March 1925 Photoplay.",
         "source": "wikimedia",
-        "attribution": "doctormacro.com. A fair use version had been already uploaded to English Wikipedia by User:Lamro"
+        "attribution": "First National Pictures"
       },
       "workId": 1022,
       "workTitle": "The Altar on the Hill",
@@ -38826,9 +38808,11 @@
       "html_title": "<span class=\"film-title\">Mind Over Motor</span>",
       "year": 1915,
       "decade": 1910,
-      "genres": [],
+      "genres": [
+        "Short"
+      ],
       "studio": "Essanay",
-      "directors": null,
+      "directors": "E.H. Calvert",
       "hasMedia": false,
       "mediaCount": 0,
       "featuredMedia": null,
@@ -38842,7 +38826,7 @@
       "authorSlug": "mary-roberts-rinehart",
       "isRemake": true,
       "adaptationNumber": 1,
-      "searchText": "mind over motor essanay mind over motor mary roberts rinehart"
+      "searchText": "mind over motor e.h. calvert camille d'arcy|eugene acker|june keith essanay mind over motor mary roberts rinehart short"
     },
     {
       "id": 1141,
@@ -38852,16 +38836,18 @@
       "html_title": "<span class=\"film-title\">At the Foot of the Hill</span>",
       "year": 1914,
       "decade": 1910,
-      "genres": [],
+      "genres": [
+        "Short"
+      ],
       "studio": "Essanay",
       "directors": null,
       "hasMedia": true,
       "mediaCount": 1,
       "featuredMedia": {
-        "type": "poster",
+        "type": "advertisement",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/4iLbXk8FnS454DfmYHSkL0Qohb6.jpg",
         "fullUrl": "https://image.tmdb.org/t/p/original/4iLbXk8FnS454DfmYHSkL0Qohb6.jpg",
-        "caption": "Theatrical poster for At the Foot of the Hill (1914)",
+        "caption": "Advertisement for At the Foot of the Hill (1915)",
         "source": "tmdb",
         "attribution": "Image courtesy of TMDB"
       },
@@ -38875,7 +38861,7 @@
       "authorSlug": "mary-roberts-rinehart",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "at the foot of the hill essanay at the foot of the hill mary roberts rinehart"
+      "searchText": "at the foot of the hill thomas commerford|richard travers|gerda holmes essanay at the foot of the hill mary roberts rinehart short"
     },
     {
       "id": 1142,
@@ -38885,9 +38871,11 @@
       "html_title": "<span class=\"film-title\">The Cave on Thunder Cloud</span>",
       "year": 1915,
       "decade": 1910,
-      "genres": [],
+      "genres": [
+        "Short"
+      ],
       "studio": "Essanay",
-      "directors": null,
+      "directors": "E.H. Calvert",
       "hasMedia": false,
       "mediaCount": 0,
       "featuredMedia": null,
@@ -38901,7 +38889,7 @@
       "authorSlug": "mary-roberts-rinehart",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "the cave on thunder cloud essanay the cave on thunder cloud mary roberts rinehart"
+      "searchText": "the cave on thunder cloud e.h. calvert camille d'arcy|marian skinner|louise crolius essanay the cave on thunder cloud mary roberts rinehart short"
     },
     {
       "id": 1143,
@@ -38911,9 +38899,11 @@
       "html_title": "<span class=\"film-title\">The Papered Door</span>",
       "year": 1915,
       "decade": 1910,
-      "genres": [],
+      "genres": [
+        "Short"
+      ],
       "studio": "Essanay",
-      "directors": null,
+      "directors": "Lawrence C. Windom",
       "hasMedia": false,
       "mediaCount": 0,
       "featuredMedia": null,
@@ -38927,7 +38917,7 @@
       "authorSlug": "mary-roberts-rinehart",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "the papered door essanay the papered door mary roberts rinehart"
+      "searchText": "the papered door lawrence c. windom ruth stonehouse|edmund cobb|thurlow brewer\n essanay the papered door mary roberts rinehart short"
     },
     {
       "id": 1144,
@@ -38937,9 +38927,12 @@
       "html_title": "<span class=\"film-title\">Affinities</span>",
       "year": 1915,
       "decade": 1910,
-      "genres": [],
+      "genres": [
+        "Drama",
+        "Short"
+      ],
       "studio": "Essanay",
-      "directors": null,
+      "directors": "E.H. Calvert",
       "hasMedia": false,
       "mediaCount": 0,
       "featuredMedia": null,
@@ -38953,7 +38946,7 @@
       "authorSlug": "mary-roberts-rinehart",
       "isRemake": true,
       "adaptationNumber": 1,
-      "searchText": "affinities essanay affinities mary roberts rinehart"
+      "searchText": "affinities e.h. calvert richard travers|betty scott|e.h. calvert essanay affinities mary roberts rinehart drama short"
     },
     {
       "id": 1145,
@@ -38963,9 +38956,11 @@
       "html_title": "<span class=\"film-title\">The Home Girl</span>",
       "year": 1928,
       "decade": 1920,
-      "genres": [],
+      "genres": [
+        "Short"
+      ],
       "studio": "Paramount",
-      "directors": null,
+      "directors": "Edmund Lawrence",
       "hasMedia": true,
       "mediaCount": 2,
       "featuredMedia": {
@@ -38986,16 +38981,16 @@
       "authorSlug": "edna-ferber",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "the home girl paramount home girl edna ferber"
+      "searchText": "the home girl edmund lawrence margalo gillmore|otto kruger|miriam hopkins paramount home girl edna ferber short"
     }
   ],
   "metadata": {
-    "totalCount": 1131,
+    "totalCount": 1130,
     "yearRange": [
       1910,
       1963
     ],
-    "withMedia": 1044
+    "withMedia": 1043
   },
   "filterOptions": {
     "years": [
@@ -39629,6 +39624,11 @@
         "count": 10
       },
       {
+        "value": "Animation",
+        "label": "Animation",
+        "count": 1
+      },
+      {
         "value": "Biography",
         "label": "Biography",
         "count": 17
@@ -39636,7 +39636,7 @@
       {
         "value": "Childrens works",
         "label": "Childrens works",
-        "count": 3
+        "count": 2
       },
       {
         "value": "Comedy",
@@ -39656,7 +39656,7 @@
       {
         "value": "Drama",
         "label": "Drama",
-        "count": 455
+        "count": 457
       },
       {
         "value": "Epic",
@@ -39691,7 +39691,7 @@
       {
         "value": "Mystery",
         "label": "Mystery",
-        "count": 49
+        "count": 50
       },
       {
         "value": "Romance",
@@ -39707,6 +39707,11 @@
         "value": "Screwball comedy",
         "label": "Screwball comedy",
         "count": 2
+      },
+      {
+        "value": "Short",
+        "label": "Short",
+        "count": 14
       },
       {
         "value": "Western",

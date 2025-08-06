@@ -7,14 +7,17 @@
   "release_year": 1915,
   "runtime_minutes": null,
   "country_of_production": "United States",
-  "genres": [],
+  "genres": [
+    "Short"
+  ],
   "studio": "Essanay",
   "production_companies": "Essanay Film Mfg Co.",
   "distribution_companies": null,
-  "directors": null,
+  "directors": "Lawrence C. Windom",
   "writers": null,
-  "cast_members": null,
+  "cast_members": "Ruth Stonehouse|Edmund Cobb|Thurlow Brewer\n",
   "color_info": "black-and-white",
+  "availability": null,
   "adaptation_notes": null,
   "afi_catalog_id": null,
   "source_work": {
@@ -45,5 +48,5 @@
   "has_media": false,
   "media_count": 0,
   "has_narrative": false,
-  "last_updated": "2025-08-05T18:38:56.076087"
+  "last_updated": "2025-08-06T00:43:54.284744"
 }

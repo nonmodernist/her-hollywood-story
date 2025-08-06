@@ -17,16 +17,16 @@
     "year_span": 12,
     "top_genres": [
       {
+        "genre": "Mystery",
+        "count": 3
+      },
+      {
         "genre": "Drama",
         "count": 3
       },
       {
         "genre": "Melodrama",
         "count": 3
-      },
-      {
-        "genre": "Mystery",
-        "count": 2
       },
       {
         "genre": "Comedy-drama",
@@ -54,8 +54,10 @@
       "html_title": "<span class=\"film-title\">Lord John in New York</span>",
       "year": 1915,
       "studio": "Universal",
-      "directors": null,
-      "genres": [],
+      "directors": "Edward LeSaint",
+      "genres": [
+        "Mystery"
+      ],
       "has_media": false,
       "work_title": "Lord John in New York",
       "work_html_title": "<span class=\"work-title\">Lord John in New York</span>",

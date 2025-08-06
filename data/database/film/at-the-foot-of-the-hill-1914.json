@@ -7,14 +7,17 @@
   "release_year": 1914,
   "runtime_minutes": null,
   "country_of_production": "United States",
-  "genres": [],
+  "genres": [
+    "Short"
+  ],
   "studio": "Essanay",
   "production_companies": "Essanay Film Mfg Co.",
   "distribution_companies": null,
   "directors": null,
   "writers": null,
-  "cast_members": null,
+  "cast_members": "Thomas Commerford|Richard Travers|Gerda Holmes",
   "color_info": "black-and-white",
+  "availability": null,
   "adaptation_notes": null,
   "afi_catalog_id": null,
   "source_work": {
@@ -44,20 +47,20 @@
   "media": [
     {
       "id": 5988,
-      "media_type": "poster",
+      "media_type": "advertisement",
       "title": "At the Foot of the Hill (1914) - Poster",
-      "caption": "Theatrical poster for At the Foot of the Hill (1914)",
+      "caption": "Advertisement for At the Foot of the Hill (1915)",
       "url": "https://image.tmdb.org/t/p/original/4iLbXk8FnS454DfmYHSkL0Qohb6.jpg",
       "thumbnail_url": "https://image.tmdb.org/t/p/w342/4iLbXk8FnS454DfmYHSkL0Qohb6.jpg",
       "source": "tmdb",
       "source_url": "https://www.themoviedb.org/movie/934038",
       "license": "fair_use",
       "attribution": "Image courtesy of TMDB",
-      "is_featured": "False"
+      "is_featured": "True"
     }
   ],
   "has_media": true,
   "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-08-05T18:38:53.660707"
+  "last_updated": "2025-08-06T00:40:52.22347"
 }

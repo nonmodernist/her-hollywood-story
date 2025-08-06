@@ -6,8 +6,10 @@
   "html_title": "<span class=\"film-title\">Jane</span>",
   "release_year": 1914,
   "runtime_minutes": 11,
-  "country_of_production": null,
-  "genres": [],
+  "country_of_production": "United States",
+  "genres": [
+    "Short"
+  ],
   "studio": "Essanay",
   "production_companies": "Essanay Film Mfg Co.",
   "distribution_companies": null,
@@ -15,6 +17,7 @@
   "writers": null,
   "cast_members": null,
   "color_info": null,
+  "availability": null,
   "adaptation_notes": null,
   "afi_catalog_id": "-",
   "source_work": {
@@ -44,20 +47,20 @@
   "media": [
     {
       "id": 5987,
-      "media_type": "poster",
+      "media_type": "advertisement",
       "title": "Jane (1914) - Poster",
-      "caption": "Theatrical poster for Jane (1914)",
+      "caption": "Advertisement for Jane (1915)",
       "url": "https://image.tmdb.org/t/p/original/zX2jiJ0QGXO97yrPlRU9EmWvZd7.jpg",
       "thumbnail_url": "https://image.tmdb.org/t/p/w342/zX2jiJ0QGXO97yrPlRU9EmWvZd7.jpg",
       "source": "tmdb",
       "source_url": "https://www.themoviedb.org/movie/917700",
       "license": "fair_use",
       "attribution": "Image courtesy of TMDB",
-      "is_featured": "False"
+      "is_featured": "True"
     }
   ],
   "has_media": true,
   "media_count": 1,
   "has_narrative": false,
-  "last_updated": "2025-08-05T18:44:23.598347"
+  "last_updated": "2025-08-06T01:02:50.455442"
 }

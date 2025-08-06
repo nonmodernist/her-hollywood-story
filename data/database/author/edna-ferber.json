@@ -186,8 +186,10 @@
       "html_title": "<span class=\"film-title\">The Home Girl</span>",
       "year": 1928,
       "studio": "Paramount",
-      "directors": null,
-      "genres": [],
+      "directors": "Edmund Lawrence",
+      "genres": [
+        "Short"
+      ],
       "has_media": true,
       "work_title": "Home Girl",
       "work_html_title": "<span class=\"work-title\">Home Girl</span>",

@@ -51,8 +51,10 @@
         "html_title": "<span class=\"film-title\">Lord John in New York</span>",
         "year": 1915,
         "studio": "Universal",
-        "directors": null,
-        "genres": []
+        "directors": "Edward LeSaint",
+        "genres": [
+          "Mystery"
+        ]
       }
     },
     {
@@ -76,8 +78,10 @@
         "html_title": "<span class=\"film-title\">Tish's Spy</span>",
         "year": 1915,
         "studio": "Essanay",
-        "directors": null,
-        "genres": []
+        "directors": "E.H. Calvert",
+        "genres": [
+          "Short"
+        ]
       }
     },
     {
@@ -2364,16 +2368,16 @@
         "count": 5
       },
       {
-        "genre": "Unknown",
-        "count": 2
+        "genre": "Mystery",
+        "count": 3
       },
       {
         "genre": "Western",
         "count": 2
       },
       {
-        "genre": "Mystery",
-        "count": 2
+        "genre": "Short",
+        "count": 1
       },
       {
         "genre": "Musical",
@@ -2488,7 +2492,7 @@
     ]
   },
   "metadata": {
-    "generated": "2025-08-05T19:21:12.995Z",
+    "generated": "2025-08-06T01:08:25.127Z",
     "version": "1.1"
   }
 }

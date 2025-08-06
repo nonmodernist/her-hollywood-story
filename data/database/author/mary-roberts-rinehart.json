@@ -21,8 +21,12 @@
         "count": 10
       },
       {
+        "genre": "Short",
+        "count": 8
+      },
+      {
         "genre": "Drama",
-        "count": 7
+        "count": 8
       },
       {
         "genre": "Mystery",
@@ -31,10 +35,6 @@
       {
         "genre": "Comedy-drama",
         "count": 6
-      },
-      {
-        "genre": "Melodrama",
-        "count": 5
       }
     ],
     "films_by_decade": {
@@ -58,7 +58,9 @@
       "year": 1914,
       "studio": "Essanay",
       "directors": null,
-      "genres": [],
+      "genres": [
+        "Short"
+      ],
       "has_media": true,
       "work_title": "At the Foot of the Hill",
       "work_html_title": "<span class=\"work-title short-story\">\"At the Foot of the Hill\"</span>",
@@ -72,7 +74,9 @@
       "year": 1914,
       "studio": "Essanay",
       "directors": null,
-      "genres": [],
+      "genres": [
+        "Short"
+      ],
       "has_media": true,
       "work_title": "Jane",
       "work_html_title": "<span class=\"work-title short-story\">\"Jane\"</span>",
@@ -85,8 +89,11 @@
       "html_title": "<span class=\"film-title\">Affinities</span>",
       "year": 1915,
       "studio": "Essanay",
-      "directors": null,
-      "genres": [],
+      "directors": "E.H. Calvert",
+      "genres": [
+        "Drama",
+        "Short"
+      ],
       "has_media": false,
       "work_title": "Affinities",
       "work_html_title": "<span class=\"work-title\">Affinities</span>",
@@ -99,8 +106,10 @@
       "html_title": "<span class=\"film-title\">Mind Over Motor</span>",
       "year": 1915,
       "studio": "Essanay",
-      "directors": null,
-      "genres": [],
+      "directors": "E.H. Calvert",
+      "genres": [
+        "Short"
+      ],
       "has_media": false,
       "work_title": "Mind Over Motor",
       "work_html_title": "<span class=\"work-title short-story\">\"Mind Over Motor\"</span>",
@@ -113,8 +122,10 @@
       "html_title": "<span class=\"film-title\">The Cave on Thunder Cloud</span>",
       "year": 1915,
       "studio": "Essanay",
-      "directors": null,
-      "genres": [],
+      "directors": "E.H. Calvert",
+      "genres": [
+        "Short"
+      ],
       "has_media": false,
       "work_title": "The Cave on Thunder Cloud",
       "work_html_title": "<span class=\"work-title\">The Cave on Thunder Cloud</span>",
@@ -143,8 +154,10 @@
       "html_title": "<span class=\"film-title\">The Papered Door</span>",
       "year": 1915,
       "studio": "Essanay",
-      "directors": null,
-      "genres": [],
+      "directors": "Lawrence C. Windom",
+      "genres": [
+        "Short"
+      ],
       "has_media": false,
       "work_title": "The Papered Door",
       "work_html_title": "<span class=\"work-title short-story\">\"The Papered Door\"</span>",
@@ -157,8 +170,10 @@
       "html_title": "<span class=\"film-title\">Tish's Spy</span>",
       "year": 1915,
       "studio": "Essanay",
-      "directors": null,
-      "genres": [],
+      "directors": "E.H. Calvert",
+      "genres": [
+        "Short"
+      ],
       "has_media": false,
       "work_title": "Tish's Spy",
       "work_html_title": "<span class=\"work-title short-story\">\"Tish's Spy\"</span>",
@@ -638,8 +653,10 @@
       "html_title": "<span class=\"film-title\">The Dog in the Orchard</span>",
       "year": 1941,
       "studio": "Warner Bros",
-      "directors": null,
-      "genres": [],
+      "directors": "Jean Negulesco",
+      "genres": [
+        "Short"
+      ],
       "has_media": false,
       "work_title": "The Dog in the Orchard",
       "work_html_title": "<span class=\"work-title short-story\">\"The Dog in the Orchard\"</span>",

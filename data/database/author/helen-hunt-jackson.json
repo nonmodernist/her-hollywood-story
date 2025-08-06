@@ -19,6 +19,10 @@
       {
         "genre": "Drama",
         "count": 4
+      },
+      {
+        "genre": "Short",
+        "count": 1
       }
     ],
     "films_by_decade": {
@@ -41,7 +45,8 @@
       "studio": "Biograph",
       "directors": "D. W. Griffith",
       "genres": [
-        "Drama"
+        "Drama",
+        "Short"
       ],
       "has_media": true,
       "work_title": "Ramona",

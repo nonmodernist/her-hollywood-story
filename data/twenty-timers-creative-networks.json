@@ -1,0 +1,1738 @@
+{
+  "overview": {
+    "total_twenty_timer_films_analyzed": 129,
+    "cross_director_count": 11,
+    "cross_writer_count": 9,
+    "cross_actor_count": 99,
+    "cross_studio_count": 8
+  },
+  "cross_directors": [
+    {
+      "name": "James Cruze",
+      "author_count": 3,
+      "authors": [
+        "Alice Duer Miller",
+        "Edna Ferber",
+        "Fannie Hurst"
+      ],
+      "total_films": 3,
+      "connections": [
+        {
+          "author": "Alice Duer Miller",
+          "film": "The Charm School",
+          "year": 1921,
+          "film_id": 77
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Welcome Home",
+          "year": 1925,
+          "film_id": 563
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Mannequin",
+          "year": 1926,
+          "film_id": 130
+        }
+      ]
+    },
+    {
+      "name": "Wesley Ruggles",
+      "author_count": 3,
+      "authors": [
+        "Alice Duer Miller",
+        "Edna Ferber",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 3,
+      "connections": [
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Finders Keepers",
+          "year": 1928,
+          "film_id": 931
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Honey",
+          "year": 1930,
+          "film_id": 162
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Cimarron",
+          "year": 1931,
+          "film_id": 179
+        }
+      ]
+    },
+    {
+      "name": "Michael Curtiz",
+      "author_count": 2,
+      "authors": [
+        "Alice Duer Miller",
+        "Fannie Hurst"
+      ],
+      "total_films": 3,
+      "connections": [
+        {
+          "author": "Alice Duer Miller",
+          "film": "The Keyhole",
+          "year": 1933,
+          "film_id": 808
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Four Daughters",
+          "year": 1938,
+          "film_id": 248
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Four Wives",
+          "year": 1939,
+          "film_id": 254
+        }
+      ]
+    },
+    {
+      "name": "Alfred Santell",
+      "author_count": 2,
+      "authors": [
+        "Edna Ferber",
+        "Fannie Hurst"
+      ],
+      "total_films": 2,
+      "connections": [
+        {
+          "author": "Edna Ferber",
+          "film": "Classified",
+          "year": 1925,
+          "film_id": 551
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Wheel of Chance",
+          "year": 1928,
+          "film_id": 154
+        }
+      ]
+    },
+    {
+      "name": "Tod Browning",
+      "author_count": 2,
+      "authors": [
+        "Edna Ferber",
+        "Fannie Hurst"
+      ],
+      "total_films": 2,
+      "connections": [
+        {
+          "author": "Fannie Hurst",
+          "film": "The Petal on the Current",
+          "year": 1919,
+          "film_id": 56
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "No Woman Knows",
+          "year": 1921,
+          "film_id": 556
+        }
+      ]
+    },
+    {
+      "name": "Harry Pollard",
+      "author_count": 2,
+      "authors": [
+        "Edna Ferber",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 2,
+      "connections": [
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "K--The Unknown",
+          "year": 1924,
+          "film_id": 930
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Show Boat",
+          "year": 1929,
+          "film_id": 156
+        }
+      ]
+    },
+    {
+      "name": "George Stevens",
+      "author_count": 2,
+      "authors": [
+        "Edna Ferber",
+        "Gene Stratton-Porter"
+      ],
+      "total_films": 2,
+      "connections": [
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "Laddie",
+          "year": 1935,
+          "film_id": 224
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Giant",
+          "year": 1956,
+          "film_id": 332
+        }
+      ]
+    },
+    {
+      "name": "Sam Wood",
+      "author_count": 2,
+      "authors": [
+        "Alice Duer Miller",
+        "Edna Ferber"
+      ],
+      "total_films": 2,
+      "connections": [
+        {
+          "author": "Alice Duer Miller",
+          "film": "Her First Elopement",
+          "year": 1920,
+          "film_id": 1130
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Saratoga Trunk",
+          "year": 1945,
+          "film_id": 282
+        }
+      ]
+    },
+    {
+      "name": "William Beaudine",
+      "author_count": 2,
+      "authors": [
+        "Edna Ferber",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 2,
+      "connections": [
+        {
+          "author": "Edna Ferber",
+          "film": "Hard to Get",
+          "year": 1929,
+          "film_id": 552
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Mr. Cohen Takes a Walk",
+          "year": 1936,
+          "film_id": 1133
+        }
+      ]
+    },
+    {
+      "name": "Herbert Brenon",
+      "author_count": 2,
+      "authors": [
+        "Fannie Hurst",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 2,
+      "connections": [
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "The Breaking Point",
+          "year": 1924,
+          "film_id": 922
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Lummox",
+          "year": 1930,
+          "film_id": 171
+        }
+      ]
+    },
+    {
+      "name": "Hobart Henley",
+      "author_count": 2,
+      "authors": [
+        "Edna Ferber",
+        "Fannie Hurst"
+      ],
+      "total_films": 2,
+      "connections": [
+        {
+          "author": "Edna Ferber",
+          "film": "The Gay Old Dog",
+          "year": 1919,
+          "film_id": 557
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Stardust",
+          "year": 1921,
+          "film_id": 79
+        }
+      ]
+    }
+  ],
+  "cross_writers": [
+    {
+      "name": "Jane Murfin",
+      "author_count": 2,
+      "authors": [
+        "Alice Duer Miller",
+        "Edna Ferber"
+      ],
+      "total_films": 2,
+      "connections": [
+        {
+          "author": "Alice Duer Miller",
+          "film": "Roberta",
+          "year": 1935,
+          "film_id": 223
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Come and Get It",
+          "year": 1936,
+          "film_id": 554
+        }
+      ]
+    },
+    {
+      "name": "Allan Scott",
+      "author_count": 2,
+      "authors": [
+        "Alice Duer Miller",
+        "Fannie Hurst"
+      ],
+      "total_films": 2,
+      "connections": [
+        {
+          "author": "Alice Duer Miller",
+          "film": "Roberta",
+          "year": 1935,
+          "film_id": 223
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Imitation of Life",
+          "year": 1959,
+          "film_id": 335
+        }
+      ]
+    },
+    {
+      "name": "Walter Woods",
+      "author_count": 2,
+      "authors": [
+        "Edna Ferber",
+        "Fannie Hurst"
+      ],
+      "total_films": 2,
+      "connections": [
+        {
+          "author": "Edna Ferber",
+          "film": "Welcome Home",
+          "year": 1925,
+          "film_id": 563
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Mannequin",
+          "year": 1926,
+          "film_id": 130
+        }
+      ]
+    },
+    {
+      "name": "Charles Kenyon",
+      "author_count": 2,
+      "authors": [
+        "Edna Ferber",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 2,
+      "connections": [
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Dangerous Days",
+          "year": 1920,
+          "film_id": 923
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Show Boat",
+          "year": 1929,
+          "film_id": 156
+        }
+      ]
+    },
+    {
+      "name": "Marion Fairfax",
+      "author_count": 2,
+      "authors": [
+        "Alice Duer Miller",
+        "Gene Stratton-Porter"
+      ],
+      "total_films": 2,
+      "connections": [
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "Freckles",
+          "year": 1917,
+          "film_id": 21
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Less Than Kin",
+          "year": 1918,
+          "film_id": 42
+        }
+      ]
+    },
+    {
+      "name": "Ray Harris",
+      "author_count": 2,
+      "authors": [
+        "Alice Duer Miller",
+        "Gene Stratton-Porter"
+      ],
+      "total_films": 2,
+      "connections": [
+        {
+          "author": "Alice Duer Miller",
+          "film": "Someone To Love",
+          "year": 1928,
+          "film_id": 149
+        },
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "Laddie",
+          "year": 1935,
+          "film_id": 224
+        }
+      ]
+    },
+    {
+      "name": "Edith Kennedy",
+      "author_count": 2,
+      "authors": [
+        "Alice Duer Miller",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 2,
+      "connections": [
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Her Country First",
+          "year": 1918,
+          "film_id": 925
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Her First Elopement",
+          "year": 1920,
+          "film_id": 1130
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth Meehan",
+      "author_count": 2,
+      "authors": [
+        "Fannie Hurst",
+        "Gene Stratton-Porter"
+      ],
+      "total_films": 2,
+      "connections": [
+        {
+          "author": "Fannie Hurst",
+          "film": "Lummox",
+          "year": 1930,
+          "film_id": 171
+        },
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "The Harvester",
+          "year": 1936,
+          "film_id": 229
+        }
+      ]
+    },
+    {
+      "name": "Frances Agnew",
+      "author_count": 2,
+      "authors": [
+        "Alice Duer Miller",
+        "Fannie Hurst"
+      ],
+      "total_films": 2,
+      "connections": [
+        {
+          "author": "Alice Duer Miller",
+          "film": "Are Parents People?",
+          "year": 1925,
+          "film_id": 119
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Mannequin",
+          "year": 1926,
+          "film_id": 130
+        }
+      ]
+    }
+  ],
+  "cross_actors": [
+    {
+      "name": "Irene Dunne",
+      "author_count": 3,
+      "authors": [
+        "Alice Duer Miller",
+        "Edna Ferber",
+        "Fannie Hurst"
+      ],
+      "total_films": 6,
+      "connections": [
+        {
+          "author": "Edna Ferber",
+          "film": "Cimarron",
+          "year": 1931,
+          "film_id": 179
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Back Street",
+          "year": 1932,
+          "film_id": 202
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Symphony of Six Million",
+          "year": 1932,
+          "film_id": 195
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Roberta",
+          "year": 1935,
+          "film_id": 223
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Show Boat",
+          "year": 1936,
+          "film_id": 232
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "The White Cliffs of Dover",
+          "year": 1944,
+          "film_id": 275
+        }
+      ]
+    },
+    {
+      "name": "Jack Oakie",
+      "author_count": 3,
+      "authors": [
+        "Alice Duer Miller",
+        "Edna Ferber",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 6,
+      "connections": [
+        {
+          "author": "Alice Duer Miller",
+          "film": "Someone To Love",
+          "year": 1928,
+          "film_id": 149
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Finders Keepers",
+          "year": 1928,
+          "film_id": 931
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Finders Keepers",
+          "year": 1928,
+          "film_id": 931
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Hard to Get",
+          "year": 1929,
+          "film_id": 552
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Sweetie",
+          "year": 1929,
+          "film_id": 810
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Collegiate",
+          "year": 1935,
+          "film_id": 220
+        }
+      ]
+    },
+    {
+      "name": "Dorothy Peterson",
+      "author_count": 3,
+      "authors": [
+        "Alice Duer Miller",
+        "Edna Ferber",
+        "Gene Stratton-Porter"
+      ],
+      "total_films": 5,
+      "connections": [
+        {
+          "author": "Edna Ferber",
+          "film": "So Big",
+          "year": 1932,
+          "film_id": 196
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Big Executive",
+          "year": 1933,
+          "film_id": 203
+        },
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "Laddie",
+          "year": 1935,
+          "film_id": 224
+        },
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "Freckles",
+          "year": 1935,
+          "film_id": 225
+        },
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "Freckles",
+          "year": 1935,
+          "film_id": 225
+        }
+      ]
+    },
+    {
+      "name": "Guy Oliver",
+      "author_count": 3,
+      "authors": [
+        "Alice Duer Miller",
+        "Gene Stratton-Porter",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 4,
+      "connections": [
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "The Circular Staircase",
+          "year": 1915,
+          "film_id": 8
+        },
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "Freckles",
+          "year": 1917,
+          "film_id": 21
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Less Than Kin",
+          "year": 1918,
+          "film_id": 42
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "I Take This Woman",
+          "year": 1931,
+          "film_id": 175
+        }
+      ]
+    },
+    {
+      "name": "Charles Clary",
+      "author_count": 3,
+      "authors": [
+        "Fannie Hurst",
+        "Gene Stratton-Porter",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 4,
+      "connections": [
+        {
+          "author": "Fannie Hurst",
+          "film": "The Day She Paid",
+          "year": 1919,
+          "film_id": 55
+        },
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "Michael O'Halloran",
+          "year": 1923,
+          "film_id": 95
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Seven Days",
+          "year": 1925,
+          "film_id": 1129
+        },
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "The Magic Garden",
+          "year": 1927,
+          "film_id": 137
+        }
+      ]
+    },
+    {
+      "name": "ZaSu Pitts",
+      "author_count": 3,
+      "authors": [
+        "Alice Duer Miller",
+        "Fannie Hurst",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 4,
+      "connections": [
+        {
+          "author": "Fannie Hurst",
+          "film": "Mannequin",
+          "year": 1926,
+          "film_id": 130
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Honey",
+          "year": 1930,
+          "film_id": 162
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Back Street",
+          "year": 1932,
+          "film_id": 202
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Tish",
+          "year": 1942,
+          "film_id": 937
+        }
+      ]
+    },
+    {
+      "name": "Julie Bishop",
+      "author_count": 3,
+      "authors": [
+        "Edna Ferber",
+        "Gene Stratton-Porter",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 4,
+      "connections": [
+        {
+          "author": "Edna Ferber",
+          "film": "Classified",
+          "year": 1925,
+          "film_id": 551
+        },
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "Her First Romance",
+          "year": 1940,
+          "film_id": 256
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "The Nurse's Secret",
+          "year": 1941,
+          "film_id": 261
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "The Nurse's Secret",
+          "year": 1941,
+          "film_id": 261
+        }
+      ]
+    },
+    {
+      "name": "Margaret Morris",
+      "author_count": 3,
+      "authors": [
+        "Alice Duer Miller",
+        "Edna Ferber",
+        "Gene Stratton-Porter"
+      ],
+      "total_films": 3,
+      "connections": [
+        {
+          "author": "Alice Duer Miller",
+          "film": "Her First Elopement",
+          "year": 1920,
+          "film_id": 1130
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Welcome Home",
+          "year": 1925,
+          "film_id": 563
+        },
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "The Magic Garden",
+          "year": 1927,
+          "film_id": 137
+        }
+      ]
+    },
+    {
+      "name": "Emily Fitzroy",
+      "author_count": 3,
+      "authors": [
+        "Alice Duer Miller",
+        "Gene Stratton-Porter",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 3,
+      "connections": [
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "A Girl of the Limberlost",
+          "year": 1924,
+          "film_id": 103
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Are Parents People?",
+          "year": 1925,
+          "film_id": 119
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "The Bat",
+          "year": 1926,
+          "film_id": 125
+        }
+      ]
+    },
+    {
+      "name": "George Brent",
+      "author_count": 3,
+      "authors": [
+        "Alice Duer Miller",
+        "Edna Ferber",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 3,
+      "connections": [
+        {
+          "author": "Edna Ferber",
+          "film": "So Big",
+          "year": 1932,
+          "film_id": 196
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Miss Pinkerton",
+          "year": 1932,
+          "film_id": 933
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "The Keyhole",
+          "year": 1933,
+          "film_id": 808
+        }
+      ]
+    },
+    {
+      "name": "Esther Dale",
+      "author_count": 3,
+      "authors": [
+        "Alice Duer Miller",
+        "Fannie Hurst",
+        "Gene Stratton-Porter"
+      ],
+      "total_films": 3,
+      "connections": [
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "Laddie",
+          "year": 1940,
+          "film_id": 258
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "And One was Beautiful",
+          "year": 1940,
+          "film_id": 809
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Back Street",
+          "year": 1941,
+          "film_id": 263
+        }
+      ]
+    },
+    {
+      "name": "John Bowers",
+      "author_count": 3,
+      "authors": [
+        "Edna Ferber",
+        "Gene Stratton-Porter",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 3,
+      "connections": [
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Affinities",
+          "year": 1922,
+          "film_id": 920
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "So Big",
+          "year": 1924,
+          "film_id": 105
+        },
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "Laddie",
+          "year": 1926,
+          "film_id": 126
+        }
+      ]
+    },
+    {
+      "name": "Colleen Moore",
+      "author_count": 3,
+      "authors": [
+        "Edna Ferber",
+        "Fannie Hurst",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 3,
+      "connections": [
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Affinities",
+          "year": 1922,
+          "film_id": 920
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "The Nth Commandment",
+          "year": 1923,
+          "film_id": 101
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "So Big",
+          "year": 1924,
+          "film_id": 105
+        }
+      ]
+    },
+    {
+      "name": "Edythe Chapman",
+      "author_count": 3,
+      "authors": [
+        "Alice Duer Miller",
+        "Edna Ferber",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 3,
+      "connections": [
+        {
+          "author": "Alice Duer Miller",
+          "film": "Manslaughter",
+          "year": 1922,
+          "film_id": 89
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "The Breaking Point",
+          "year": 1924,
+          "film_id": 922
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Classified",
+          "year": 1925,
+          "film_id": 551
+        }
+      ]
+    },
+    {
+      "name": "Alan Hale",
+      "author_count": 3,
+      "authors": [
+        "Edna Ferber",
+        "Fannie Hurst",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 3,
+      "connections": [
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Long Live the King",
+          "year": 1923,
+          "film_id": 96
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "So Big",
+          "year": 1932,
+          "film_id": 196
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Imitation of Life",
+          "year": 1934,
+          "film_id": 212
+        }
+      ]
+    },
+    {
+      "name": "Vera Lewis",
+      "author_count": 2,
+      "authors": [
+        "Fannie Hurst",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 5,
+      "connections": [
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "The Glorious Fool",
+          "year": 1922,
+          "film_id": 928
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Long Live the King",
+          "year": 1923,
+          "film_id": 96
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "What Happened to Father",
+          "year": 1927,
+          "film_id": 941
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Four Daughters",
+          "year": 1938,
+          "film_id": 248
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Four Mothers",
+          "year": 1941,
+          "film_id": 264
+        }
+      ]
+    },
+    {
+      "name": "Eddie Phillips",
+      "author_count": 2,
+      "authors": [
+        "Fannie Hurst",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 4,
+      "connections": [
+        {
+          "author": "Fannie Hurst",
+          "film": "Just Around the Corner",
+          "year": 1921,
+          "film_id": 78
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "The Good Provider",
+          "year": 1922,
+          "film_id": 90
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "The Nth Commandment",
+          "year": 1923,
+          "film_id": 101
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Finders Keepers",
+          "year": 1928,
+          "film_id": 931
+        }
+      ]
+    },
+    {
+      "name": "Marguerite Clark",
+      "author_count": 2,
+      "authors": [
+        "Alice Duer Miller",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 4,
+      "connections": [
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Bab's Burglar",
+          "year": 1917,
+          "film_id": 921
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Bab's Matinee Idol",
+          "year": 1917,
+          "film_id": 936
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Bab's Diary",
+          "year": 1917,
+          "film_id": 926
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Come Out of the Kitchen",
+          "year": 1919,
+          "film_id": 51
+        }
+      ]
+    },
+    {
+      "name": "Hobart Bosworth",
+      "author_count": 2,
+      "authors": [
+        "Gene Stratton-Porter",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 4,
+      "connections": [
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "Freckles",
+          "year": 1917,
+          "film_id": 21
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "The Silent Watcher",
+          "year": 1924,
+          "film_id": 1139
+        },
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "Freckles",
+          "year": 1928,
+          "film_id": 150
+        },
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "The Keeper of the Bees",
+          "year": 1935,
+          "film_id": 222
+        }
+      ]
+    },
+    {
+      "name": "Emma Dunn",
+      "author_count": 2,
+      "authors": [
+        "Alice Duer Miller",
+        "Gene Stratton-Porter"
+      ],
+      "total_films": 3,
+      "connections": [
+        {
+          "author": "Alice Duer Miller",
+          "film": "Manslaughter",
+          "year": 1930,
+          "film_id": 168
+        },
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "The Keeper of the Bees",
+          "year": 1935,
+          "film_id": 222
+        },
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "The Harvester",
+          "year": 1936,
+          "film_id": 229
+        }
+      ]
+    }
+  ],
+  "cross_studios": [
+    {
+      "name": "Warner Bros",
+      "author_count": 4,
+      "authors": [
+        "Alice Duer Miller",
+        "Edna Ferber",
+        "Fannie Hurst",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 18,
+      "connections": [
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "What Happened to Father",
+          "year": 1927,
+          "film_id": 941
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "The Expert",
+          "year": 1932,
+          "film_id": 564
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "So Big",
+          "year": 1932,
+          "film_id": 196
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "The Keyhole",
+          "year": 1933,
+          "film_id": 808
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Mr. Cohen Takes a Walk",
+          "year": 1936,
+          "film_id": 1133
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Four Daughters",
+          "year": 1938,
+          "film_id": 248
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "No Place to Go",
+          "year": 1939,
+          "film_id": 553
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Four Wives",
+          "year": 1939,
+          "film_id": 254
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "The Nurse's Secret",
+          "year": 1941,
+          "film_id": 261
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "The Nurse's Secret",
+          "year": 1941,
+          "film_id": 261
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "The Dog in the Orchard",
+          "year": 1941,
+          "film_id": 1134
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Four Mothers",
+          "year": 1941,
+          "film_id": 264
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Saratoga Trunk",
+          "year": 1945,
+          "film_id": 282
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Humoresque",
+          "year": 1946,
+          "film_id": 283
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "So Big",
+          "year": 1953,
+          "film_id": 321
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Young at Heart",
+          "year": 1955,
+          "film_id": 329
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Giant",
+          "year": 1956,
+          "film_id": 332
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Ice Palace",
+          "year": 1960,
+          "film_id": 560
+        }
+      ]
+    },
+    {
+      "name": "Famous Players-Lasky",
+      "author_count": 4,
+      "authors": [
+        "Alice Duer Miller",
+        "Edna Ferber",
+        "Fannie Hurst",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 10,
+      "connections": [
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Her Country First",
+          "year": 1918,
+          "film_id": 925
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Less Than Kin",
+          "year": 1918,
+          "film_id": 42
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Come Out of the Kitchen",
+          "year": 1919,
+          "film_id": 51
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "The Charm School",
+          "year": 1921,
+          "film_id": 77
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Manslaughter",
+          "year": 1922,
+          "film_id": 89
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "The Breaking Point",
+          "year": 1924,
+          "film_id": 922
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Her Love Story",
+          "year": 1924,
+          "film_id": 927
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Welcome Home",
+          "year": 1925,
+          "film_id": 563
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Are Parents People?",
+          "year": 1925,
+          "film_id": 119
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Mannequin",
+          "year": 1926,
+          "film_id": 130
+        }
+      ]
+    },
+    {
+      "name": "RKO",
+      "author_count": 4,
+      "authors": [
+        "Alice Duer Miller",
+        "Edna Ferber",
+        "Fannie Hurst",
+        "Gene Stratton-Porter"
+      ],
+      "total_films": 7,
+      "connections": [
+        {
+          "author": "Edna Ferber",
+          "film": "Cimarron",
+          "year": 1931,
+          "film_id": 179
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Symphony of Six Million",
+          "year": 1932,
+          "film_id": 195
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Roberta",
+          "year": 1935,
+          "film_id": 223
+        },
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "Laddie",
+          "year": 1935,
+          "film_id": 224
+        },
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "Freckles",
+          "year": 1935,
+          "film_id": 225
+        },
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "Freckles",
+          "year": 1935,
+          "film_id": 225
+        },
+        {
+          "author": "Gene Stratton-Porter",
+          "film": "Laddie",
+          "year": 1940,
+          "film_id": 258
+        }
+      ]
+    },
+    {
+      "name": "MGM",
+      "author_count": 4,
+      "authors": [
+        "Alice Duer Miller",
+        "Edna Ferber",
+        "Fannie Hurst",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 7,
+      "connections": [
+        {
+          "author": "Fannie Hurst",
+          "film": "Five and Ten",
+          "year": 1931,
+          "film_id": 183
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "And One was Beautiful",
+          "year": 1940,
+          "film_id": 809
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Tish",
+          "year": 1942,
+          "film_id": 937
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "The White Cliffs of Dover",
+          "year": 1944,
+          "film_id": 275
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Show Boat",
+          "year": 1951,
+          "film_id": 313
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Lovely To Look At",
+          "year": 1952,
+          "film_id": 317
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Cimarron",
+          "year": 1960,
+          "film_id": 339
+        }
+      ]
+    },
+    {
+      "name": "Universal",
+      "author_count": 3,
+      "authors": [
+        "Edna Ferber",
+        "Fannie Hurst",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 11,
+      "connections": [
+        {
+          "author": "Fannie Hurst",
+          "film": "The Day She Paid",
+          "year": 1919,
+          "film_id": 55
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "The Petal on the Current",
+          "year": 1919,
+          "film_id": 56
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "No Woman Knows",
+          "year": 1921,
+          "film_id": 556
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "K--The Unknown",
+          "year": 1924,
+          "film_id": 930
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Finders Keepers",
+          "year": 1928,
+          "film_id": 931
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Show Boat",
+          "year": 1929,
+          "film_id": 156
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Back Street",
+          "year": 1932,
+          "film_id": 202
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Glamour",
+          "year": 1934,
+          "film_id": 559
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Imitation of Life",
+          "year": 1934,
+          "film_id": 212
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Show Boat",
+          "year": 1936,
+          "film_id": 232
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Back Street",
+          "year": 1941,
+          "film_id": 263
+        }
+      ]
+    },
+    {
+      "name": "Paramount",
+      "author_count": 3,
+      "authors": [
+        "Alice Duer Miller",
+        "Edna Ferber",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 10,
+      "connections": [
+        {
+          "author": "Edna Ferber",
+          "film": "The Home Girl",
+          "year": 1928,
+          "film_id": 1145
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Someone To Love",
+          "year": 1928,
+          "film_id": 149
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Sweetie",
+          "year": 1929,
+          "film_id": 810
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Manslaughter",
+          "year": 1930,
+          "film_id": 168
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Honey",
+          "year": 1930,
+          "film_id": 162
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "I Take This Woman",
+          "year": 1931,
+          "film_id": 175
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Big Executive",
+          "year": 1933,
+          "film_id": 203
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "Collegiate",
+          "year": 1935,
+          "film_id": 220
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "And Sudden Death",
+          "year": 1936,
+          "film_id": 812
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "College Swing",
+          "year": 1938,
+          "film_id": 811
+        }
+      ]
+    },
+    {
+      "name": "First National",
+      "author_count": 3,
+      "authors": [
+        "Edna Ferber",
+        "Fannie Hurst",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 7,
+      "connections": [
+        {
+          "author": "Edna Ferber",
+          "film": "So Big",
+          "year": 1924,
+          "film_id": 105
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "The Silent Watcher",
+          "year": 1924,
+          "film_id": 1139
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Wheel of Chance",
+          "year": 1928,
+          "film_id": 154
+        },
+        {
+          "author": "Edna Ferber",
+          "film": "Hard to Get",
+          "year": 1929,
+          "film_id": 552
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "The Painted Angel",
+          "year": 1929,
+          "film_id": 159
+        },
+        {
+          "author": "Fannie Hurst",
+          "film": "Back Pay",
+          "year": 1930,
+          "film_id": 173
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Miss Pinkerton",
+          "year": 1932,
+          "film_id": 933
+        }
+      ]
+    },
+    {
+      "name": "Fox Film",
+      "author_count": 3,
+      "authors": [
+        "Alice Duer Miller",
+        "Edna Ferber",
+        "Mary Roberts Rinehart"
+      ],
+      "total_films": 3,
+      "connections": [
+        {
+          "author": "Edna Ferber",
+          "film": "Mother Knows Best",
+          "year": 1928,
+          "film_id": 561
+        },
+        {
+          "author": "Alice Duer Miller",
+          "film": "The Princess and the Plumber",
+          "year": 1930,
+          "film_id": 167
+        },
+        {
+          "author": "Mary Roberts Rinehart",
+          "film": "Elinor Norton",
+          "year": 1935,
+          "film_id": 934
+        }
+      ]
+    }
+  ],
+  "summary_insights": {
+    "most_connected_director": "James Cruze",
+    "most_connected_writer": "Jane Murfin",
+    "most_connected_actor": "Irene Dunne",
+    "most_connected_studio": "Warner Bros"
+  }
+}

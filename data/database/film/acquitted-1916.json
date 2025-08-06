@@ -17,6 +17,7 @@
   "writers": "Roy Somerville",
   "cast_members": "Wilfred Lucas|Mary Alden|Bessie Love|Carmen De Rue|Elmer Clifton|Sam De Grasse|W. J. Freemont|Spottiswoode Aitken|James O'Shea|F. A. Turner",
   "color_info": "black-and-white",
+  "availability": "lost",
   "adaptation_notes": null,
   "afi_catalog_id": 16666,
   "source_work": {
@@ -44,19 +45,6 @@
   "other_adaptations": [],
   "adaptation_context": null,
   "media": [
-    {
-      "id": 5792,
-      "media_type": "poster",
-      "title": "Acquitted (1916) - Poster",
-      "caption": "Theatrical poster for Acquitted (1916)",
-      "url": "https://image.tmdb.org/t/p/original/GAt8X4xFfg0Dahlv680jdEHoBk.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/GAt8X4xFfg0Dahlv680jdEHoBk.jpg",
-      "source": "tmdb",
-      "source_url": "https://www.themoviedb.org/movie/767868",
-      "license": "fair_use",
-      "attribution": "Image courtesy of TMDB",
-      "is_featured": "False"
-    },
     {
       "id": 2019,
       "media_type": "still",
@@ -98,7 +86,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 4,
+  "media_count": 3,
   "has_narrative": false,
   "last_updated": "2025-08-04T19:48:13.472502"
 }

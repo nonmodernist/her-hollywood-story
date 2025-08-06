@@ -37,8 +37,11 @@
       "html_title": "<span class=\"film-title\">Joyce of the North Woods</span>",
       "year": 1913,
       "studio": "Edison",
-      "directors": null,
-      "genres": [],
+      "directors": "Ashley Miller",
+      "genres": [
+        "Drama",
+        "Short"
+      ],
       "has_media": false,
       "years_after_publication": 3
     }

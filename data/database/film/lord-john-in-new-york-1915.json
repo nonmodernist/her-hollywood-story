@@ -7,14 +7,17 @@
   "release_year": 1915,
   "runtime_minutes": 40,
   "country_of_production": "United States",
-  "genres": [],
+  "genres": [
+    "Mystery"
+  ],
   "studio": "Universal",
-  "production_companies": null,
+  "production_companies": "Universal",
   "distribution_companies": null,
-  "directors": null,
-  "writers": null,
-  "cast_members": null,
+  "directors": "Edward LeSaint",
+  "writers": "Harvey Gates",
+  "cast_members": "William Garwood|Stella Razeto|Ogden Crane",
   "color_info": "black-and-white",
+  "availability": null,
   "adaptation_notes": null,
   "afi_catalog_id": null,
   "source_work": {
@@ -45,5 +48,5 @@
   "has_media": false,
   "media_count": 0,
   "has_narrative": false,
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-06T00:48:08.073408"
 }

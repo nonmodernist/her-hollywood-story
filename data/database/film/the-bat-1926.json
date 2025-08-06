@@ -18,6 +18,7 @@
   "writers": "Roland West",
   "cast_members": "George Andre Beranger|Charles W. Herzinger|Emily Fitzroy|Louise Fazenda|Arthur Housman|Robert McKim|Jack Pickford|Jewel Carmen|Sojin|Tullio Carminati",
   "color_info": "black-and-white",
+  "availability": null,
   "adaptation_notes": null,
   "afi_catalog_id": 2736,
   "source_work": {
@@ -80,10 +81,23 @@
   },
   "media": [
     {
+      "id": 2586,
+      "media_type": "advertisement",
+      "title": "The Bat (1926) - Poster",
+      "caption": "Advertisement for the American comedy mystery film The Bat (1926), on page 728 of the December 26, 1925 The Moving Picture World.",
+      "url": "https://image.tmdb.org/t/p/original/q4Ptjf3IDjSpnFoJyiNyhEVe7cb.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/q4Ptjf3IDjSpnFoJyiNyhEVe7cb.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/27501",
+      "license": "fair_use",
+      "attribution": "United Artists",
+      "is_featured": "True"
+    },
+    {
       "id": 2589,
       "media_type": "still",
       "title": "The Bat (1926) - Still",
-      "caption": "Scene from The Bat (1926)",
+      "caption": "Still from The Bat (1926)",
       "url": "https://image.tmdb.org/t/p/original/qSMe5oHC4Aqz1NsprtxlrQVPsRV.jpg",
       "thumbnail_url": "https://image.tmdb.org/t/p/w780/qSMe5oHC4Aqz1NsprtxlrQVPsRV.jpg",
       "source": "TMDb",
@@ -112,19 +126,6 @@
       "caption": "Scene from The Bat (1926)",
       "url": "https://image.tmdb.org/t/p/original/xZPNceWlgelojaCsjEnhMJI7bza.jpg",
       "thumbnail_url": "https://image.tmdb.org/t/p/w780/xZPNceWlgelojaCsjEnhMJI7bza.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/27501",
-      "license": "fair_use",
-      "attribution": "United Artists",
-      "is_featured": "False"
-    },
-    {
-      "id": 2586,
-      "media_type": "advertisement",
-      "title": "The Bat (1926) - Poster",
-      "caption": "Theatrical poster for The Bat (1926)",
-      "url": "https://image.tmdb.org/t/p/original/q4Ptjf3IDjSpnFoJyiNyhEVe7cb.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/q4Ptjf3IDjSpnFoJyiNyhEVe7cb.jpg",
       "source": "TMDb",
       "source_url": "https://www.themoviedb.org/movie/27501",
       "license": "fair_use",
@@ -171,19 +172,6 @@
       "is_featured": "False"
     },
     {
-      "id": 452,
-      "media_type": "advertisement",
-      "title": "The Bat (1926) - 2.jpg",
-      "caption": "Advertisement for the American comedy mystery film The Bat (1926), on page 728 of the December 26, 1925 The Moving Picture World.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Bat_%281926%29_-_2.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/The_Bat_%281926%29_-_2.jpg/300px-The_Bat_%281926%29_-_2.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:The_Bat_(1926)_-_2.jpg",
-      "license": "public_domain",
-      "attribution": "United Artists",
-      "is_featured": "False"
-    },
-    {
       "id": 453,
       "media_type": "still",
       "title": "The Bat (1926) 1.jpg",
@@ -224,7 +212,7 @@
     }
   ],
   "has_media": true,
-  "media_count": 11,
+  "media_count": 10,
   "has_narrative": false,
   "last_updated": "2025-08-04T19:48:13.472502"
 }

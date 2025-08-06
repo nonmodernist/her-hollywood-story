@@ -37,8 +37,11 @@
       "html_title": "<span class=\"film-title\">Affinities</span>",
       "year": 1915,
       "studio": "Essanay",
-      "directors": null,
-      "genres": [],
+      "directors": "E.H. Calvert",
+      "genres": [
+        "Drama",
+        "Short"
+      ],
       "has_media": false,
       "years_after_publication": 2
     },

@@ -7,14 +7,17 @@
   "release_year": 1928,
   "runtime_minutes": 20,
   "country_of_production": "United States",
-  "genres": [],
+  "genres": [
+    "Short"
+  ],
   "studio": "Paramount",
-  "production_companies": null,
+  "production_companies": "Paramount Pictures",
   "distribution_companies": null,
-  "directors": null,
+  "directors": "Edmund Lawrence",
   "writers": null,
-  "cast_members": null,
+  "cast_members": "Margalo Gillmore|Otto Kruger|Miriam Hopkins",
   "color_info": null,
+  "availability": null,
   "adaptation_notes": null,
   "afi_catalog_id": null,
   "source_work": {
@@ -72,5 +75,5 @@
   "has_media": true,
   "media_count": 2,
   "has_narrative": false,
-  "last_updated": "2025-08-05T18:44:31.166563"
+  "last_updated": "2025-08-06T00:50:43.765758"
 }

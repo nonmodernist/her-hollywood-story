@@ -1,0 +1,60 @@
+{
+  "overview": {
+    "total_authors": 493,
+    "total_films": 1131,
+    "twenty_timer_count": 5,
+    "twenty_timer_films": 136
+  },
+  "distribution": {
+    "authors_with_1_film": 305,
+    "authors_with_2_5_films": 155,
+    "authors_with_6_10_films": 21,
+    "authors_with_11_19_films": 7,
+    "authors_with_20_plus_films": 5
+  },
+  "films_by_range": {
+    "1_film": 305,
+    "6_10_films": 162,
+    "2_5_films": 426,
+    "20_plus_films": 136,
+    "11_19_films": 102
+  },
+  "author_percentages": {
+    "1_film_pct": 61.9,
+    "2_5_films_pct": 31.4,
+    "6_10_films_pct": 4.3,
+    "11_19_films_pct": 1.4,
+    "20_plus_films_pct": 1.0
+  },
+  "film_concentration": {
+    "1_film_films_pct": 27.0,
+    "6_10_films_films_pct": 14.3,
+    "2_5_films_films_pct": 37.7,
+    "20_plus_films_films_pct": 12.0,
+    "11_19_films_films_pct": 9.0
+  },
+  "twenty_timers": [
+    {
+      "name": "Alice Duer Miller",
+      "film_count": 22
+    },
+    {
+      "name": "Fannie Hurst",
+      "film_count": 27
+    },
+    {
+      "name": "Mary Roberts Rinehart",
+      "film_count": 41
+    },
+    {
+      "name": "Edna Ferber",
+      "film_count": 25
+    },
+    {
+      "name": "Gene Stratton-Porter",
+      "film_count": 21
+    }
+  ],
+  "concentration_insight": "5 authors (1.0%) generated 136 films (12.0%)",
+  "top_heavy_insight": "The top 5 authors account for 12.0% of all adaptations"
+}

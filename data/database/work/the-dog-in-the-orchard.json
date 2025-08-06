@@ -37,8 +37,10 @@
       "html_title": "<span class=\"film-title\">The Dog in the Orchard</span>",
       "year": 1941,
       "studio": "Warner Bros",
-      "directors": null,
-      "genres": [],
+      "directors": "Jean Negulesco",
+      "genres": [
+        "Short"
+      ],
       "has_media": false,
       "years_after_publication": 1
     }

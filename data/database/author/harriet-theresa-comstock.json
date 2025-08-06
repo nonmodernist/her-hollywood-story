@@ -18,6 +18,10 @@
     "top_genres": [
       {
         "genre": "Drama",
+        "count": 3
+      },
+      {
+        "genre": "Short",
         "count": 2
       },
       {
@@ -42,8 +46,11 @@
       "html_title": "<span class=\"film-title\">Joyce of the North Woods</span>",
       "year": 1913,
       "studio": "Edison",
-      "directors": null,
-      "genres": [],
+      "directors": "Ashley Miller",
+      "genres": [
+        "Drama",
+        "Short"
+      ],
       "has_media": false,
       "work_title": "Joyce of the North Woods",
       "work_html_title": "<span class=\"work-title\">Joyce of the North Woods</span>",
@@ -58,7 +65,8 @@
       "studio": "Universal",
       "directors": "Joseph De Grasse",
       "genres": [
-        "Drama"
+        "Drama",
+        "Short"
       ],
       "has_media": true,
       "work_title": "The Place Beyond the Winds",

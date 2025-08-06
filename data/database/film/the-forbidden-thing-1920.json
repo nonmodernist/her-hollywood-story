@@ -5,7 +5,7 @@
   "formatted_title": "The Forbidden Thing",
   "html_title": "<span class=\"film-title\">The Forbidden Thing</span>",
   "release_year": 1920,
-  "runtime_minutes": 1,
+  "runtime_minutes": null,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -17,6 +17,7 @@
   "writers": "Allan Dwan|Mary Mears",
   "cast_members": "James Kirkwood|Helen Jerome Eddy|Marcia Manon|King Baggot|Gertrude Claire|Jack Roseleigh|Arthur Thalasso|Newton Hall|Harry Griffith|Katherine Norton",
   "color_info": "black-and-white",
+  "availability": "lost",
   "adaptation_notes": null,
   "afi_catalog_id": 17741,
   "source_work": {
@@ -204,5 +205,5 @@
   "has_media": true,
   "media_count": 12,
   "has_narrative": false,
-  "last_updated": "2025-08-04T19:48:13.472502"
+  "last_updated": "2025-08-06T01:03:24.778039"
 }

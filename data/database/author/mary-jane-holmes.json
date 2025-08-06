@@ -21,6 +21,10 @@
         "count": 5
       },
       {
+        "genre": "Short",
+        "count": 1
+      },
+      {
         "genre": "Comedy",
         "count": 1
       },
@@ -49,7 +53,8 @@
       "studio": "Thanhouser",
       "directors": null,
       "genres": [
-        "Melodrama"
+        "Melodrama",
+        "Short"
       ],
       "has_media": true,
       "work_title": "Lena Rivers",

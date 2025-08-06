@@ -5,16 +5,20 @@
   "formatted_title": "Joyce of the North Woods",
   "html_title": "<span class=\"film-title\">Joyce of the North Woods</span>",
   "release_year": 1913,
-  "runtime_minutes": null,
+  "runtime_minutes": 20,
   "country_of_production": "United States",
-  "genres": [],
+  "genres": [
+    "Drama",
+    "Short"
+  ],
   "studio": "Edison",
   "production_companies": null,
   "distribution_companies": null,
-  "directors": null,
+  "directors": "Ashley Miller",
   "writers": null,
   "cast_members": null,
   "color_info": "black-and-white",
+  "availability": null,
   "adaptation_notes": null,
   "afi_catalog_id": null,
   "source_work": {
@@ -45,5 +49,5 @@
   "has_media": false,
   "media_count": 0,
   "has_narrative": false,
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-06T00:21:16.574912"
 }

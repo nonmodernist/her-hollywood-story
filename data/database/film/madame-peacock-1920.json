@@ -5,7 +5,7 @@
   "formatted_title": "Madame Peacock",
   "html_title": "<span class=\"film-title\">Madame Peacock</span>",
   "release_year": 1920,
-  "runtime_minutes": 1,
+  "runtime_minutes": null,
   "country_of_production": "United States",
   "genres": [
     "Drama"
@@ -17,6 +17,7 @@
   "writers": "Nazimova",
   "cast_members": "Alla Nazimova|George Probert|John Steppling|William Orlamond|Rex Cherryman|Albert Cody|Gertrude Claire|Georgie Woodthorpe",
   "color_info": "black-and-white",
+  "availability": null,
   "adaptation_notes": null,
   "afi_catalog_id": 17789,
   "source_work": {
@@ -139,5 +140,5 @@
   "has_media": true,
   "media_count": 7,
   "has_narrative": false,
-  "last_updated": "2025-08-04T19:48:13.472502"
+  "last_updated": "2025-08-06T01:02:07.576365"
 }

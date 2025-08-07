@@ -826,8 +826,8 @@ function addFilmFilters() {
     if (!data) return;
 
     // Year filter
-    const yearFilter = createFilter('year', 'Year', [
-        { value: '', label: 'All Years' },
+    const yearFilter = createFilter('year', 'Decade', [
+        { value: '', label: 'All Decades' },
         { value: '1910s', label: '1910s' },
         { value: '1920s', label: '1920s' },
         { value: '1930s', label: '1930s' },
@@ -888,21 +888,9 @@ function addAuthorFilters() {
         { value: 'Other', label: 'Other' }
     ]);
 
-    // Decade filter
-    // TODO fix or remove
-    const decadeFilter = createFilter('decade', 'Active Decade', [
-        { value: '', label: 'All Decades' },
-        { value: '1910s', label: '1910s' },
-        { value: '1920s', label: '1920s' },
-        { value: '1930s', label: '1930s' },
-        { value: '1940s', label: '1940s' },
-        { value: '1950s', label: '1950s' },
-        { value: '1960s', label: '1960s' }
-    ]);
 
     elements.filterRow.appendChild(patternFilter);
     elements.filterRow.appendChild(nationalityFilter);
-    elements.filterRow.appendChild(decadeFilter);
 }
 
 // Add work-specific filters
@@ -919,13 +907,18 @@ function addWorkFilters() {
         { value: 'collection', label: 'Collections' }
     ]);
 
-    // Pattern filter
-    // TODO rename to match updated pattern names
-    const patternFilter = createFilter('pattern', 'Pattern', [
+    // Magazine publication filter
+    const magazineFilter = createFilter('hasMagazine', 'Magazine Publication', [
         { value: '', label: 'All Works' },
-        { value: 'remake-champion', label: 'Elastic Classics' },
-       // { value: 'speed-demon', label: 'Speed Demon' },
-        { value: 'single-adaptation', label: 'Single Adaptation' }
+        { value: 'true', label: 'Has Magazine Publication' },
+        { value: 'false', label: 'No Magazine Publication' }
+    ]);
+
+    // Photoplay edition filter
+    const photoplayFilter = createFilter('hasPhotoplay', 'Photoplay Edition', [
+        { value: '', label: 'All Works' },
+        { value: 'true', label: 'Has Photoplay Edition' },
+        { value: 'false', label: 'No Photoplay Edition' }
     ]);
 
     // Author filter
@@ -936,7 +929,8 @@ function addWorkFilters() {
     const authorFilter = createFilter('author', 'Author', authorOptions);
 
     elements.filterRow.appendChild(typeFilter);
-    elements.filterRow.appendChild(patternFilter);
+    elements.filterRow.appendChild(magazineFilter);
+    elements.filterRow.appendChild(photoplayFilter);
     elements.filterRow.appendChild(authorFilter);
 }
 
@@ -1152,12 +1146,6 @@ function filterAuthor(author, filters) {
         if (filters.nationality !== 'Other' && author.nationality !== filters.nationality) return false;
     }
 
-    // Decade filter (active decade)
-    if (filters.decade) {
-        const decade = parseInt(filters.decade);
-        // Check if author was active in this decade
-        // TODO - This would need decade data in the author index
-    }
 
     return true;
 }
@@ -1169,19 +1157,18 @@ function filterWork(work, filters) {
         return false;
     }
 
-    // Pattern filter
-    if (filters.pattern) {
-        switch (filters.pattern) {
-            case 'remake-champion':
-                if (!work.isRemakeChampion) return false;
-                break;
-            case 'speed-demon':
-                if (!work.isSpeedDemon) return false;
-                break;
-            case 'single-adaptation':
-                if (work.adaptationCount !== 1) return false;
-                break;
-        }
+    // Magazine publication filter
+    if (filters.hasMagazine) {
+        const hasMagazine = work.hasMagazinePublication;
+        if (filters.hasMagazine === 'true' && !hasMagazine) return false;
+        if (filters.hasMagazine === 'false' && hasMagazine) return false;
+    }
+
+    // Photoplay edition filter
+    if (filters.hasPhotoplay) {
+        const hasPhotoplay = work.hasPhotoplayEdition;
+        if (filters.hasPhotoplay === 'true' && !hasPhotoplay) return false;
+        if (filters.hasPhotoplay === 'false' && hasPhotoplay) return false;
     }
 
     // Author filter

@@ -208,6 +208,9 @@ class Router {
                     if (elements.searchInput) elements.searchInput.value = value;
                 } else if (key === 'sort') {
                     app.sortBy = value;
+                } else if (key === 'page') {
+                    // Restore pagination state (convert from 1-based to 0-based)
+                    app.currentPage = Math.max(0, parseInt(value) - 1);
                 } else {
                     app.filters[key] = value;
                 }
@@ -252,6 +255,11 @@ class Router {
 
             if (app.sortBy && app.sortBy !== 'default') {
                 params.set('sort', app.sortBy);
+            }
+
+            // Add pagination state
+            if (app.currentPage > 0) {
+                params.set('page', app.currentPage + 1); // Use 1-based page numbers in URL
             }
 
             // Add other active filters
@@ -670,6 +678,8 @@ function setupEventListeners() {
     elements.tabs.forEach(tab => {
         tab.addEventListener('click', () => {
             const tabName = tab.dataset.tab;
+            // Reset pagination when switching tabs manually
+            app.currentPage = 0;
             router.navigate(getDatabaseURL('/' + tabName));
         });
     });
@@ -708,7 +718,7 @@ function setupEventListeners() {
 async function switchTab(tabName) {
     // Update active tab
     app.currentRoute.entity = tabName;
-    app.currentPage = 0;
+    // Don't reset page here - let it be controlled by URL params or reset in filterAndRender
 
     // Update UI
     elements.tabs.forEach(tab => {
@@ -734,8 +744,8 @@ async function switchTab(tabName) {
     // Update sort options
     updateSortOptions(tabName);
 
-    // Filter and render
-    filterAndRender();
+    // Filter and render - with pagination from URL if present
+    filterAndRenderWithPagination();
 }
 
 // Load data for a specific tab
@@ -1029,6 +1039,30 @@ function filterAndRender() {
     updateLoadMoreVisibility();
 }
 
+// Filter and render with pagination preserved
+function filterAndRenderWithPagination() {
+    const data = app.data[app.currentRoute.entity];
+    if (!data) return;
+
+    // Apply filters
+    app.filteredData = filterData(data[app.currentRoute.entity], app.filters);
+
+    // Apply sorting
+    sortData(app.filteredData, app.sortBy);
+
+    // Don't reset currentPage - it should be set from URL params
+    // But validate it's within bounds
+    const maxPage = Math.floor(app.filteredData.length / ITEMS_PER_PAGE);
+    if (app.currentPage > maxPage) {
+        app.currentPage = 0;
+    }
+
+    // Render all pages up to current page
+    renderResultsWithAllPages();
+    updateResultsCount();
+    updateLoadMoreVisibility();
+}
+
 // Filter data based on current filters
 function filterData(items, filters) {
     if (!items) return [];
@@ -1224,6 +1258,32 @@ function renderResults(append = false) {
         showEmptyState();
         return;
     }
+
+    // Render based on current tab and view
+    itemsToRender.forEach(item => {
+        const element = app.currentView === 'grid'
+            ? createGridItem(item, app.currentRoute.entity)
+            : createListItem(item, app.currentRoute.entity);
+        elements.resultsContainer.appendChild(element);
+    });
+}
+
+// Render all results up to current page (for back button restoration)
+function renderResultsWithAllPages() {
+    // Clear container and set class
+    elements.resultsContainer.innerHTML = '';
+    elements.resultsContainer.className = app.currentView === 'grid'
+        ? `${app.currentRoute.entity}-grid`
+        : 'results-list';
+
+    if (app.filteredData.length === 0) {
+        showEmptyState();
+        return;
+    }
+
+    // Render all items from page 0 to current page
+    const end = (app.currentPage + 1) * ITEMS_PER_PAGE;
+    const itemsToRender = app.filteredData.slice(0, end);
 
     // Render based on current tab and view
     itemsToRender.forEach(item => {
@@ -1437,6 +1497,7 @@ function loadMore() {
     app.currentPage++;
     renderResults(true);
     updateLoadMoreVisibility();
+    router.updateURL();
 }
 
 // Update results count

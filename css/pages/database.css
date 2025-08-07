@@ -263,90 +263,6 @@
     margin-top: 1rem;
 }
 
-/* Modal */
-.modal {
-    display: none;
-    position: fixed;
-    z-index: 1000;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0,0,0,0.8);
-    overflow-y: auto;
-}
-
-.modal-content {
-    background: var(--background);
-    margin: 5% auto;
-    max-width: 800px;
-    border: 1px solid var(--border-medium);
-    position: relative;
-    animation: modalIn 0.3s ease;
-}
-
-@keyframes modalIn {
-    from {
-        opacity: 0;
-        transform: translateY(-20px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
-
-.modal-close {
-    position: absolute;
-    right: 1.5rem;
-    top: 1.5rem;
-    background: none;
-    border: none;
-    font-size: 2rem;
-    cursor: pointer;
-    color: var(--text-muted);
-    z-index: 1;
-    line-height: 1;
-    padding: 0.5rem;
-}
-
-.modal-close:hover {
-    color: var(--text-primary);
-}
-
-.modal-body {
-    padding: 3rem;
-}
-
-.modal-body h2 {
-    margin-top: 0;
-    font-style: normal;
-}
-
-.modal-section {
-    margin: 2rem 0;
-    padding-bottom: 2rem;
-    border-bottom: 1px solid var(--border-light);
-}
-
-.modal-section:last-child {
-    border-bottom: none;
-}
-
-.modal-section h3 {
-    font-size: 1.4rem;
-    margin-bottom: 1rem;
-    font-style: italic;
-}
-
-.modal-section p {
-    margin: 0.75rem 0;
-}
-
-.modal-section strong {
-    font-weight: 500;
-    color: var(--text-primary);
-}
 
 /* Responsive */
 @media (max-width: 760px) {
@@ -383,9 +299,6 @@
         grid-template-columns: 1fr;
     }
 
-    .modal-body {
-        padding: 2rem 1.5rem;
-    }
 
     .film-entry:hover {
         margin: 0;

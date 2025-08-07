@@ -14,7 +14,7 @@
             sessionStorage.setItem('redirect', location.pathname + location.search);
             
             // Redirect to the database index
-            window.location.replace('/adapted-from-women/database/');
+            window.location.replace('/database/');
         } else {
             // For other 404s, show actual 404 page
             document.title = 'Page Not Found - Her Hollywood Story';
@@ -47,7 +47,7 @@
                     </style>
                     <h1>Page Not Found</h1>
                     <p>The page you're looking for doesn't exist.</p>
-                    <p><a href="/adapted-from-women/">Return to Homepage</a> | <a href="/adapted-from-women/database/">Browse Database</a></p>
+                    <p><a href="/">Return to Homepage</a> | <a href="/database/">Browse Database</a></p>
                 `;
             });
         }
@@ -57,7 +57,7 @@
     <noscript>
         <h1>Page Not Found</h1>
         <p>The page you're looking for doesn't exist.</p>
-        <p><a href="/adapted-from-women/">Return to Homepage</a></p>
+        <p><a href="/">Return to Homepage</a></p>
     </noscript>
 </body>
 </html>

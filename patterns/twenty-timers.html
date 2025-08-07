@@ -131,40 +131,8 @@
                 generated 136 films (12% of all adaptations)</strong> from American women's literature. Put another way, 
                 you were more likely to have <em>no</em> film adaptations than to join this exclusive club.</p>
 
-                <div class="distribution-chart">
-                    <h3>Adaptation Frequency Distribution</h3>
-                    <div class="stat-bars">
-                        <div class="stat-bar">
-                            <div class="stat-label">1 film</div>
-                            <div class="stat-visual" style="width: 61.9%">
-                                <span class="stat-number">305 authors (61.9%)</span>
-                            </div>
-                        </div>
-                        <div class="stat-bar">
-                            <div class="stat-label">2-5 films</div>
-                            <div class="stat-visual" style="width: 31.4%">
-                                <span class="stat-number">155 authors (31.4%)</span>
-                            </div>
-                        </div>
-                        <div class="stat-bar">
-                            <div class="stat-label">6-10 films</div>
-                            <div class="stat-visual" style="width: 4.3%">
-                                <span class="stat-number">21 authors (4.3%)</span>
-                            </div>
-                        </div>
-                        <div class="stat-bar">
-                            <div class="stat-label">11-19 films</div>
-                            <div class="stat-visual" style="width: 1.4%">
-                                <span class="stat-number">7 authors (1.4%)</span>
-                            </div>
-                        </div>
-                        <div class="stat-bar highlight">
-                            <div class="stat-label">20+ films</div>
-                            <div class="stat-visual" style="width: 1.0%">
-                                <span class="stat-number">5 authors (1.0%)</span>
-                            </div>
-                        </div>
-                    </div>
+                <div class="distribution-chart" id="statisticalSignificanceViz">
+                    <!-- Statistical significance visualization will be inserted here -->
                 </div>
                 
                 <p class="significance-note">The Twenty-Timers didn't just write popular books—they wrote the <em>right</em> 
@@ -335,85 +303,17 @@
                 <p>The Twenty-Timers didn't work in isolation—they shared creative collaborators who helped bridge 
                 their individual worlds. Analysis of cast and crew reveals a interconnected network of Hollywood professionals 
                 who specialized in literary adaptation.</p>
+                
+                <figure class="main-column">
+                    <div class="network-graph" id="networkViz" style="height: 500px; border: 1px solid #eee; margin: 20px 0;"></div>
+                    <figcaption>
+                        <span class="figure-number">Figure 4.</span> Interactive network showing creative collaborations between Twenty-Timer authors and Hollywood professionals. 
+                        Authors are shown in red, directors in blue, writers in green, and studios in purple. 
+                        Hover over nodes to see connections, drag to explore the network.
+                    </figcaption>
+                </figure>
 
-                <div class="network-insights">
-                    <div class="network-section">
-                        <h3>Cross-Cutting Directors</h3>
-                        <p><strong>11 directors</strong> worked with multiple Twenty-Timer authors. Leading the pack:</p>
-                        <ul class="network-list">
-                            <li><strong>James Cruze</strong> — Directed adaptations of Alice Duer Miller's <em>The Charm School</em> (1921), 
-                                Edna Ferber's <em>Welcome Home</em> (1925), and Fannie Hurst's <em>Mannequin</em> (1926)</li>
-                            <li><strong>Wesley Ruggles</strong> — Helmed Rinehart's <em>Finders Keepers</em> (1928), 
-                                Miller's <em>Honey</em> (1930), and Ferber's <em>Cimarron</em> (1931)</li>
-                            <li><strong>Michael Curtiz</strong> — The future <em>Casablanca</em> director adapted 
-                                Miller's <em>The Keyhole</em> (1933) and two Fannie Hurst films</li>
-                        </ul>
-                    </div>
-
-                    <div class="network-section">
-                        <h3>Adaptation Specialists</h3>
-                        <p><strong>9 screenwriters</strong> adapted multiple Twenty-Timer works, developing expertise 
-                        in translating these authors' distinctive voices to screen:</p>
-                        <ul class="network-list">
-                            <li><strong>Jane Murfin</strong> — Adapted both Ferber and Hurst, becoming a specialist 
-                                in women's stories for RKO</li>
-                            <li><strong>Casey Robinson</strong> — Known for his work on multiple Hurst adaptations</li>
-                        </ul>
-                    </div>
-
-                    <div class="network-section">
-                        <h3>Studio Powerhouses</h3>
-                        <p><strong>8 studios</strong> adapted three or more Twenty-Timer authors, with 
-                        <strong>Warner Bros.</strong> leading the field by adapting all four major Twenty-Timers 
-                        across 18 different films.</p>
-                        
-                        <div class="studio-network">
-                            <div class="studio-highlight">
-                                <strong>Warner Bros.</strong> (18 films)<br>
-                                <span class="studio-authors">Rinehart • Hurst • Ferber • Miller</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="network-section">
-                        <h3>The Actors' Circuit</h3>
-                        <p>Most remarkably, <strong>99 actors</strong> appeared in films from multiple Twenty-Timer authors, 
-                        suggesting these literary adaptations formed a distinct ecosystem within Hollywood, 
-                        with certain performers becoming associated with this prestigious source material.</p>
-                    </div>
-                </div>
-
-                <p class="network-conclusion">This interconnected web reveals how Hollywood's literary adaptation machine worked: 
-                specialized directors, writers, and actors developed expertise in bringing women's fiction to the screen, 
-                creating an informal network that understood how to translate bestselling novels into box office success.</p>
-            </div>
-        </section>
-
-        <!-- Fascinating Facts -->
-        <!-- <section class="facts-grid">
-            <h2>Did You Know?</h2>
-
-            <div class="fact-cards">
-                <div class="fact-card">
-                    <h3>Most Adapted Single Work</h3>
-                    <p>Alice Duer Miller's <a
-                            href="../database/work/the-charm-school"
-                            class="work-title">The Charm School</a> — Paramount
-                        made 5 versions between 1921 and 1938</p>
-                </div>
-
-                <div class="fact-card">
-                    <h3>Longest Adaptation Span</h3>
-                    <p>44 years — Mary Roberts Rinehart (1915-1959)</p>
-                </div>
-
-                <div class="fact-card">
-                    <h3>Remake Record</h3>
-                    <p>30 unique works were adapted multiple times, with 13
-                        getting 4+ versions</p>
-                </div>
-            </div>
-        </section>  -->
+            
 
         <!-- Individual Deep Dives Preview -->
         <section class="member-previews">
@@ -744,16 +644,12 @@
                 <div class="data-transparency">
                     <h3>Data Limitations & Gaps</h3>
                     <ul>
-                        <li><strong>Attribution challenges:</strong> 12 Twenty-Timer films lack director credits; 
-                            11 films lack complete cast information</li>
-                        <li><strong>Documentation gaps:</strong> 19 films (13.8%) are missing writer credits, 
+                        <li><strong>Attribution challenges:</strong> 3 Twenty-Timer films lack director credits; 
+                            3 films lack complete cast information</li>
+                        <li><strong>Documentation gaps:</strong> 18 films (13.2%) are missing writer credits, 
                             often due to uncredited adaptations or incomplete studio records</li>
-                        <li><strong>Silent era dominance:</strong> 72 of 136 films (52.9%) are from the silent era, 
-                            with Mary Roberts Rinehart contributing 31 silent films alone</li>
-                        <li><strong>Excluded from counts:</strong> Foreign-language versions, theatrical 
-                            adaptations, television films, radio plays</li>
                         <li><strong>Preservation status:</strong> 38 of 136 films (27.9%) are confirmed lost, 
-                            reflecting the broader challenges of silent era film preservation</li>
+                            reflecting the broader challenges of silent era film preservation and research</li>
                     </ul>
                 </div>
 
@@ -800,6 +696,7 @@
 
     <script src="../js/patterns/twenty-timers.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
 </body>
 
 </html>

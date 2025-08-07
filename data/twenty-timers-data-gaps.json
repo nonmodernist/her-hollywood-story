@@ -5,19 +5,19 @@
     "sound_films": 64
   },
   "data_gaps": {
-    "films_missing_directors": 12,
-    "films_missing_cast": 11,
-    "films_missing_writers": 19,
+    "films_missing_directors": 3,
+    "films_missing_cast": 3,
+    "films_missing_writers": 18,
     "films_missing_runtime": 17,
     "films_missing_distribution": 13,
     "films_missing_afi_id": 10,
-    "films_missing_genres": 11,
+    "films_missing_genres": 2,
     "confirmed_lost_films": 38
   },
   "percentages": {
-    "directors_missing_pct": 8.8,
-    "cast_missing_pct": 8.1,
-    "writers_missing_pct": 14.0,
+    "directors_missing_pct": 2.2,
+    "cast_missing_pct": 2.2,
+    "writers_missing_pct": 13.2,
     "lost_films_pct": 27.9,
     "silent_films_pct": 52.9
   },
@@ -40,12 +40,12 @@
       "total_films": 25,
       "silent_films": 11,
       "lost_films": 4,
-      "missing_directors": 2,
-      "missing_cast": 2,
+      "missing_directors": 1,
+      "missing_cast": 1,
       "missing_writers": 3,
       "percentages": {
-        "directors_missing_pct": 8.0,
-        "cast_missing_pct": 8.0,
+        "directors_missing_pct": 4.0,
+        "cast_missing_pct": 4.0,
         "lost_films_pct": 16.0,
         "silent_films_pct": 44.0
       }
@@ -68,11 +68,11 @@
       "total_films": 27,
       "silent_films": 12,
       "lost_films": 5,
-      "missing_directors": 2,
+      "missing_directors": 0,
       "missing_cast": 1,
       "missing_writers": 2,
       "percentages": {
-        "directors_missing_pct": 7.4,
+        "directors_missing_pct": 0.0,
         "cast_missing_pct": 3.7,
         "lost_films_pct": 18.5,
         "silent_films_pct": 44.4
@@ -82,12 +82,12 @@
       "total_films": 41,
       "silent_films": 31,
       "lost_films": 16,
-      "missing_directors": 8,
-      "missing_cast": 8,
-      "missing_writers": 11,
+      "missing_directors": 2,
+      "missing_cast": 1,
+      "missing_writers": 10,
       "percentages": {
-        "directors_missing_pct": 19.5,
-        "cast_missing_pct": 19.5,
+        "directors_missing_pct": 4.9,
+        "cast_missing_pct": 2.4,
         "lost_films_pct": 39.0,
         "silent_films_pct": 75.6
       }

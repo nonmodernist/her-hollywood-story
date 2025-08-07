@@ -226,14 +226,6 @@
     background: var(--accent);
 }
 
-.pattern-badge.speed-demon {
-    background: #e67e22;
-}
-
-.pattern-badge.remake-champion {
-    background: #8e44ad;
-}
-
 /* Loading states */
 .skeleton {
     background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
@@ -540,16 +532,6 @@
     font-size: 1rem;
     text-transform: none;
     letter-spacing: 0.05em;
-}
-
-/* Speed demon styling */
-.speed-note {
-    background: #fff3cd;
-    border: 1px solid #ffeaa7;
-    padding: 0.75rem 1rem;
-    margin-bottom: 1rem;
-    border-radius: 3px;
-    font-style: italic;
 }
 
 /* Pattern badge in meta */

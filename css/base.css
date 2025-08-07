@@ -277,6 +277,63 @@ label {
     color: var(--text-muted);
 }
 
+/* Citation Box */
+.citation-box {
+    max-width: 600px;
+    margin: 2rem auto 0;
+    padding: 1.5rem;
+    background: var(--background-alt);
+    border: 1px solid var(--border-light);
+    border-radius: 4px;
+}
+
+.citation-box h4 {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin: 0 0 0.75rem 0;
+}
+
+.citation-text {
+    font-family: 'EB Garamond', serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: var(--text-primary);
+    margin: 0 0 1rem 0;
+    text-align: left;
+    user-select: text;
+}
+
+.copy-citation {
+    padding: 0.4rem 1rem;
+    background: white;
+    border: 1px solid var(--border-medium);
+    border-radius: 3px;
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.copy-citation:hover {
+    background: var(--background);
+    border-color: var(--text-secondary);
+}
+
+.copy-citation:active {
+    transform: translateY(1px);
+}
+
+.copy-citation.copied {
+    background: #8b0000;
+    color: white;
+    border-color: #8b0000;
+}
+
 /* Images and Figures - Tufte-inspired */
 
 /* Basic image styling */

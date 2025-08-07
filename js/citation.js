@@ -1,27 +1,6 @@
-// home.js - Homepage functionality
+// citation.js - Shared citation functionality
 
-// Handle search form submission
 document.addEventListener('DOMContentLoaded', function() {
-    const searchForm = document.querySelector('.search-form');
-    
-    if (searchForm) {
-        searchForm.addEventListener('submit', function(e) {
-            e.preventDefault();
-            
-            const searchInput = this.querySelector('input[name="q"]');
-            const searchTerm = searchInput.value.trim();
-            
-            if (searchTerm) {
-                // Redirect to database page with search query
-                window.location.href = `database/?search=${encodeURIComponent(searchTerm)}`;
-            } else {
-                // If no search term, just go to database
-                window.location.href = 'database/';
-            }
-        });
-    }
-    
-    // Citation functionality
     const citationText = document.querySelector('.citation-text');
     const copyButton = document.querySelector('.copy-citation');
     
@@ -33,15 +12,19 @@ document.addEventListener('DOMContentLoaded', function() {
         const formattedDate = `${months[today.getMonth()]} ${today.getDate()}, ${today.getFullYear()}`;
         const currentURL = window.location.href;
         
-        citationText.textContent = `Edwards, Alexandra. "Her Hollywood Story: How American Women Writers Shaped Cinema, 1910–1963." Accessed ${formattedDate}. ${currentURL}.`;
+        // Replace placeholders in the citation text
+        let citation = citationText.textContent;
+        citation = citation.replace('[date]', formattedDate);
+        citation = citation.replace('[URL]', currentURL);
+        citationText.textContent = citation;
         
         // Copy citation functionality
         copyButton.addEventListener('click', function() {
-            const citation = citationText.textContent;
+            const citationContent = citationText.textContent;
             
             // Copy to clipboard
             if (navigator.clipboard && navigator.clipboard.writeText) {
-                navigator.clipboard.writeText(citation).then(() => {
+                navigator.clipboard.writeText(citationContent).then(() => {
                     // Show success feedback
                     copyButton.textContent = 'Copied!';
                     copyButton.classList.add('copied');
@@ -53,11 +36,11 @@ document.addEventListener('DOMContentLoaded', function() {
                     }, 2000);
                 }).catch(() => {
                     // Fallback for clipboard API failure
-                    fallbackCopy(citation);
+                    fallbackCopy(citationContent);
                 });
             } else {
                 // Fallback for older browsers
-                fallbackCopy(citation);
+                fallbackCopy(citationContent);
             }
         });
         

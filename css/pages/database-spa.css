@@ -57,23 +57,31 @@
     min-height: 400px;
 }
 
-/* Film list items */
-.film-entry {
+/* Consolidated list item styles */
+.film-entry,
+.author-entry,
+.work-entry {
     padding: 1.5rem 0;
     border-bottom: 1px solid var(--border-light);
     cursor: pointer;
     transition: background-color 0.2s ease;
 }
 
-.film-entry:hover {
+.film-entry:hover,
+.author-entry:hover,
+.work-entry:hover {
     background-color: var(--background-alt);
     margin: 0 -1rem;
     padding: 1.5rem 1rem;
 }
 
-.film-entry:last-child {
+.film-entry:last-child,
+.author-entry:last-child,
+.work-entry:last-child {
     border-bottom: none;
 }
+
+/* Film list items */
 
 .entry-title {
     font-size: 1.75rem;
@@ -89,19 +97,9 @@
 
 /* Author list items */
 .author-entry {
-    padding: 1.5rem 0;
-    border-bottom: 1px solid var(--border-light);
-    cursor: pointer;
-    transition: background-color 0.2s ease;
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-.author-entry:hover {
-    background-color: var(--background-alt);
-    margin: 0 -1rem;
-    padding: 1.5rem 1rem;
 }
 
 .author-info {
@@ -138,19 +136,6 @@
 }
 
 /* Work list items */
-.work-entry {
-    padding: 1.5rem 0;
-    border-bottom: 1px solid var(--border-light);
-    cursor: pointer;
-    transition: background-color 0.2s ease;
-}
-
-.work-entry:hover {
-    background-color: var(--background-alt);
-    margin: 0 -1rem;
-    padding: 1.5rem 1rem;
-}
-
 .work-title {
     /* font-size: 1.75rem; */
     margin-bottom: 0.5rem;
@@ -206,24 +191,6 @@
 .work-card:hover {
     border-color: var(--text-primary);
     transform: translateY(-2px);
-}
-
-/* Pattern badges */
-.pattern-badge {
-    display: inline-block;
-    padding: 0.2rem 0.6rem;
-    background: var(--accent);
-    color: white;
-    font-family: 'Source Sans 3', sans-serif;
-    font-size: 0.75rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    border-radius: 3px;
-    margin-left: 0.5rem;
-}
-
-.pattern-badge.twenty-timer {
-    background: var(--accent);
 }
 
 /* Loading states */
@@ -715,11 +682,6 @@
     font-size: 1rem;
     text-transform: none;
     letter-spacing: 0.05em;
-}
-
-/* Pattern badge in meta */
-.work-meta .pattern-badge {
-    margin-left: 1rem;
 }
 
 /* Adaptation statistics */

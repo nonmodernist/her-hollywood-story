@@ -1,6 +1,51 @@
-/* database-spa.css - Styles specific to the SPA version */
+/* database-merged.css - Consolidated styles for Her Hollywood Story Database & SPA */
 
-/* Tab Navigation */
+/* --- Database Intro Section --- */
+.database-intro {
+    margin: 2rem 0 3rem;
+}
+.database-intro h2 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+/* --- Search Section --- */
+.search-section {
+    background: var(--background-alt);
+    border: 1px solid var(--border-light);
+    padding: 2rem;
+    margin: 2rem 0;
+}
+.search-box {
+    position: relative;
+    margin-bottom: 1.5rem;
+}
+.search-box input {
+    font-size: 1.3rem;
+    padding: 1rem 3rem 1rem 1.5rem;
+}
+.clear-btn {
+    position: absolute;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    font-size: 1.8rem;
+    color: var(--text-muted);
+    cursor: pointer;
+    padding: 0.5rem;
+    display: none;
+    line-height: 1;
+}
+.clear-btn:hover {
+    color: var(--text-primary);
+}
+.search-box input:not(:placeholder-shown) + .clear-btn {
+    display: block;
+}
+
+/* --- Tab Navigation (SPA) --- */
 .tab-navigation {
     display: flex;
     gap: 0;
@@ -8,7 +53,6 @@
     border-bottom: 2px solid var(--border-light);
     background: var(--background);
 }
-
 .tab-button {
     flex: 0 0 auto;
     padding: 1rem 2rem;
@@ -25,39 +69,109 @@
     position: relative;
     bottom: -2px;
 }
-
 .tab-button:hover {
     color: var(--text-primary);
     background: var(--background-alt);
 }
-
 .tab-button.active {
     color: var(--text-primary);
     border-bottom-color: var(--accent);
     font-weight: 600;
 }
-
 .tab-count {
     font-weight: 400;
     opacity: 0.7;
     font-size: 0.95rem;
 }
 
-/* Dynamic filter row */
+/* --- Filter Row --- */
 .filter-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 1rem;
+    margin-bottom: 1.5rem;
     transition: opacity 0.3s ease;
 }
-
 .filter-row.changing {
     opacity: 0.5;
 }
+.filter-group {
+    display: flex;
+    flex-direction: column;
+}
+.filter-group select {
+    font-size: 1.1rem;
+    padding: 0.6rem 2.5rem 0.6rem 1rem;
+}
 
-/* Results container */
+/* --- Filter Actions --- */
+.filter-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border-light);
+}
+.results-info {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 1rem;
+    color: var(--text-secondary);
+}
+
+/* --- View Options --- */
+.view-options {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2rem 0 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--border-light);
+}
+.sort-group {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+.sort-group label {
+    margin-bottom: 0;
+}
+.sort-group select {
+    font-size: 1.1rem;
+    padding: 0.5rem 2.5rem 0.5rem 1rem;
+    width: auto;
+}
+.view-toggle {
+    display: flex;
+    gap: 0.5rem;
+}
+.view-btn {
+    padding: 0.5rem;
+    background: transparent;
+    border: 1px solid var(--border-medium);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    color: var(--text-muted);
+}
+.view-btn:hover {
+    color: var(--text-primary);
+    border-color: var(--text-primary);
+}
+.view-btn.active {
+    background: var(--text-primary);
+    color: var(--background);
+    border-color: var(--text-primary);
+}
+
+/* --- Results Container (SPA) --- */
 .results-list {
     min-height: 400px;
 }
 
-/* Consolidated list item styles */
+/* --- Film List (Default View) --- */
+.film-list {
+    margin: 2rem 0;
+}
 .film-entry,
 .author-entry,
 .work-entry {
@@ -66,7 +180,6 @@
     cursor: pointer;
     transition: background-color 0.2s ease;
 }
-
 .film-entry:hover,
 .author-entry:hover,
 .work-entry:hover {
@@ -74,60 +187,57 @@
     margin: 0 -1rem;
     padding: 1.5rem 1rem;
 }
-
 .film-entry:last-child,
 .author-entry:last-child,
 .work-entry:last-child {
     border-bottom: none;
 }
-
-/* Film list items */
-
 .entry-title {
     font-size: 1.75rem;
     margin-bottom: 0.5rem;
 }
-
 .entry-meta {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 1rem;
     color: var(--text-secondary);
     line-height: 1.6;
 }
+.meta-separator {
+    color: var(--text-muted);
+    margin: 0 0.5rem;
+}
+.media-indicator {
+    color: var(--text-muted);
+    margin-left: 0.5rem;
+}
 
-/* Author list items */
+/* --- Author List Items (SPA) --- */
 .author-entry {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-
 .author-info {
     flex: 1;
 }
-
 .author-name {
     font-size: 1.75rem;
     margin-bottom: 0.25rem;
 }
-
 .author-lifespan {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 1rem;
     color: var(--text-muted);
 }
-
 .author-stats {
     text-align: right;
     font-family: 'Source Sans 3', sans-serif;
 }
-
 .author-film-count {
     font-size: 1.4rem;
     font-weight: 600;
     color: var(--text-primary);
 }
-
 .author-film-label {
     font-size: 0.85rem;
     color: var(--text-muted);
@@ -135,17 +245,14 @@
     letter-spacing: 0.05em;
 }
 
-/* Work list items */
+/* --- Work List Items (SPA) --- */
 .work-title {
-    /* font-size: 1.75rem; */
     margin-bottom: 0.5rem;
 }
-
 .work-author {
     font-style: normal;
     color: var(--text-secondary);
 }
-
 .work-meta {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 1rem;
@@ -153,13 +260,12 @@
     margin-top: 0.5rem;
 }
 
-/* Grid view adaptations */
+/* --- Grid View Adaptations (SPA) --- */
 .author-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 2rem;
 }
-
 .author-card {
     background: var(--background);
     border: 1px solid var(--border-light);
@@ -168,18 +274,15 @@
     cursor: pointer;
     transition: all 0.2s ease;
 }
-
 .author-card:hover {
     border-color: var(--text-primary);
     transform: translateY(-2px);
 }
-
 .work-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 2rem;
 }
-
 .work-card {
     background: var(--background);
     border: 1px solid var(--border-light);
@@ -187,34 +290,32 @@
     cursor: pointer;
     transition: all 0.2s ease;
 }
-
 .work-card:hover {
     border-color: var(--text-primary);
     transform: translateY(-2px);
 }
 
-/* Loading states */
+/* --- Loading States --- */
+.loading-state {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--text-muted);
+    font-style: italic;
+}
 .skeleton {
     background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
     background-size: 200% 100%;
     animation: loading 1.5s infinite;
 }
-
 @keyframes loading {
-    0% {
-        background-position: 200% 0;
-    }
-    100% {
-        background-position: -200% 0;
-    }
+    0% { background-position: 200% 0; }
+    100% { background-position: -200% 0; }
 }
-
 .skeleton-text {
     height: 1rem;
     margin: 0.5rem 0;
     border-radius: 4px;
 }
-
 .skeleton-title {
     height: 1.5rem;
     width: 60%;
@@ -222,15 +323,37 @@
     border-radius: 4px;
 }
 
-/* Detail View Styles */
+/* --- Empty State --- */
+.empty-state {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--text-secondary);
+}
+.empty-state h3 {
+    font-style: italic;
+    font-weight: 400;
+    margin-bottom: 1rem;
+}
+
+/* --- Load More --- */
+.load-more-container {
+    text-align: center;
+    padding: 3rem 0;
+}
+.load-more-info {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.95rem;
+    color: var(--text-muted);
+    margin-top: 1rem;
+}
+
+/* --- Detail View Styles (SPA) --- */
 .detail-view {
     margin: 2rem 0;
 }
-
 .detail-header {
     margin-bottom: 2rem;
 }
-
 .back-link {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 1rem;
@@ -242,64 +365,55 @@
     align-items: center;
     transition: color 0.2s ease;
 }
-
 .back-link:hover {
     color: var(--text-primary);
 }
 
-/* Film Detail */
+/* --- Film Detail (SPA) --- */
 .film-detail h1 {
     margin-top: 0;
     margin-bottom: 0.5rem;
 }
-
 .film-meta {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 1.1rem;
     color: var(--text-secondary);
     margin-bottom: 2rem;
 }
-
 .detail-sections {
     display: grid;
     gap: 2rem;
 }
-
 .detail-section {
     background: var(--background);
     border: 1px solid var(--border-light);
     padding: 2rem;
 }
-
 .detail-section h3 {
     font-size: 1.5rem;
     margin-top: 0;
     margin-bottom: 1rem;
     font-style: italic;
 }
-
 .detail-section p {
     margin: 0.75rem 0;
 }
-
 .detail-section strong {
     font-weight: 500;
     color: var(--text-primary);
 }
 
-/* Author Detail */
+/* --- Author Detail (SPA) --- */
 .author-detail h1 {
     margin-top: 0;
     margin-bottom: 0.5rem;
 }
-
 .author-lifespan {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 1.1rem;
     color: var(--text-secondary);
     margin-bottom: 2rem;
 }
-
 .author-stats-bar {
     display: flex;
     gap: 3rem;
@@ -308,12 +422,10 @@
     background: var(--background-alt);
     border: 1px solid var(--border-light);
 }
-
 .works-list {
     display: grid;
     gap: 1rem;
 }
-
 .work-item {
     display: flex;
     justify-content: space-between;
@@ -321,57 +433,48 @@
     padding: 0.75rem 0;
     border-bottom: 1px solid var(--border-light);
 }
-
 .work-item:last-child {
     border-bottom: none;
 }
-
 .work-meta {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 0.9rem;
     color: var(--text-muted);
 }
-
 .films-timeline {
     display: grid;
     gap: 1rem;
 }
-
 .timeline-item {
     display: flex;
     justify-content: space-between;
     padding: 0.75rem 0;
     border-bottom: 1px solid var(--border-light);
 }
-
 .timeline-item:last-child {
     border-bottom: none;
 }
-
 .film-year {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 0.9rem;
     color: var(--text-muted);
 }
 
-/* Work Detail */
+/* --- Work Detail (SPA) --- */
 .work-detail h1 {
     margin-top: 0;
     margin-bottom: 0.5rem;
 }
-
 .work-meta {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 1.1rem;
     color: var(--text-secondary);
     margin-bottom: 2rem;
 }
-
 .adaptations-list {
     display: grid;
     gap: 1.5rem;
 }
-
 .adaptation-item {
     display: flex;
     gap: 1rem;
@@ -379,7 +482,6 @@
     background: var(--background-alt);
     border: 1px solid var(--border-light);
 }
-
 .adaptation-number {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 1.5rem;
@@ -388,11 +490,9 @@
     flex: 0 0 auto;
     width: 2rem;
 }
-
 .adaptation-info {
     flex: 1;
 }
-
 .adaptation-details {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 0.9rem;
@@ -400,12 +500,11 @@
     margin-top: 0.25rem;
 }
 
-/* Related items */
+/* --- Related Items (SPA) --- */
 .related-items {
     display: grid;
     gap: 1rem;
 }
-
 .related-item {
     display: block;
     padding: 1rem;
@@ -415,18 +514,16 @@
     color: var(--text-primary);
     transition: all 0.2s ease;
 }
-
 .related-item:hover {
     border-color: var(--text-primary);
     transform: translateY(-1px);
 }
-
 .related-item strong {
     display: block;
     margin-bottom: 0.25rem;
 }
 
-/* Media count indicator */
+/* --- Media Count Indicator (SPA) --- */
 .media-count {
     font-family: 'Source Sans 3', sans-serif;
     padding: 0.75rem;
@@ -435,49 +532,68 @@
     text-align: center;
 }
 
-/* Responsive */
+/* --- Responsive --- */
 @media (max-width: 760px) {
     .tab-navigation {
         overflow-x: auto;
         -webkit-overflow-scrolling: touch;
     }
-    
     .tab-button {
         white-space: nowrap;
         font-size: 1rem;
         padding: 0.75rem 1.5rem;
     }
-    
-    .author-grid {
+    .search-section {
+        padding: 1.5rem;
+    }
+    .filter-row {
         grid-template-columns: 1fr;
     }
-    
-    .work-grid {
+    .filter-actions {
+        flex-direction: column;
+        gap: 1rem;
+        align-items: stretch;
+        text-align: center;
+    }
+    .view-options {
+        flex-direction: column;
+        gap: 1rem;
+        align-items: stretch;
+    }
+    .sort-group {
+        justify-content: space-between;
+    }
+    .view-toggle {
+        justify-content: center;
+    }
+    .author-grid,
+    .work-grid,
+    .film-grid {
         grid-template-columns: 1fr;
     }
-    
     .author-stats-bar {
         flex-direction: column;
         gap: 1.5rem;
     }
-    
     .detail-section {
         padding: 1.5rem;
     }
-    
     .work-item,
     .timeline-item {
         flex-direction: column;
         align-items: flex-start;
     }
+    .film-entry:hover {
+        margin: 0;
+        padding: 1.5rem 0;
+    }
 }
 
-/* Enhanced Author Detail Sections */
+/* --- Enhanced Author Detail Sections (SPA) --- */
 .enhanced-bio-area {
     display: flex;
     gap: 2rem;
 }
-
 .author-portrait {
     float: left;
     margin: 0 2rem 1rem 0;
@@ -487,21 +603,18 @@
     object-position: center top;
     border: 1px solid var(--border-light);
 }
-
 .bio-content {
     flex: 1;
 }
 
-/* About Author Section */
-.about-author {
+/* --- About Author Section (SPA) --- */
+/* .about-author {
     background: var(--background-alt);
     padding: 2rem;
 }
-
 .about-author h3 {
     margin-bottom: 1.5rem;
 }
-
 .about-author h4 {
     font-size: 1.2rem;
     margin-top: 1.5rem;
@@ -509,24 +622,58 @@
     font-style: normal;
     font-weight: 600;
 }
-
 .info-row {
     margin-bottom: 1rem;
     font-size: 1.1rem;
 }
-
 .professional-life p {
     margin: 0.5rem 0;
+} */
+
+
+.about-author {
+    background: var(--background-alt);
+    padding: 2rem;
+}
+.about-author h3 {
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+}
+.about-author h4 {
+    font-size: 1.25rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-style: normal;
+    font-weight: 600;
+    color: var(--text-primary);
+    border-bottom: 1px solid var(--border-light);
+    padding-bottom: 0.25rem;
+}
+.info-row {
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    background: var(--background);
+    border-left: 3px solid var(--accent);
+    padding: 0.75rem 1rem;
+    border-radius: 4px;
+}
+.professional-life p {
+    margin: 0.5rem 0;
+    color: var(--text-secondary);
+    font-size: 1rem;
+    line-height: 1.6;
 }
 
-/* Theme Tags */
+
+/* --- Theme Tags (SPA) --- */
 .theme-tags {
     display: flex;
     flex-wrap: wrap;
     gap: 0.5rem;
     margin-top: 0.75rem;
 }
-
 .theme-tag {
     background: var(--background);
     border: 1px solid var(--border-light);
@@ -536,75 +683,66 @@
     color: var(--text-secondary);
 }
 
-/* Associations */
+/* --- Associations (SPA) --- */
 .associations-section ul {
     margin: 0.75rem 0 0 1.5rem;
     padding: 0;
 }
-
 .associations-section li {
     margin: 0.5rem 0;
 }
 
-/* Signature Works Section */
+/* --- Signature Works Section (SPA) --- */
 .signature-works-section {
     background: var(--background);
 }
-
 .signature-works {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 1rem;
     margin: 1.5rem 0;
 }
-
 .signature-work-card {
     background: var(--background-alt);
     border: 1px solid var(--border-light);
     padding: 1.5rem;
     transition: box-shadow 0.2s ease;
 }
-
 .signature-work-card:hover {
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
-
 .signature-work-card a {
     font-size: 1.2rem;
     font-weight: 500;
 }
-
 .work-details {
     margin-top: 0.5rem;
     font-size: 0.95rem;
     color: var(--text-secondary);
 }
 
-/* Career Insights */
+/* --- Career Insights (SPA) --- */
 .career-insights {
     margin-top: 2rem;
     padding-top: 1.5rem;
     border-top: 1px solid var(--border-light);
 }
-
 .career-insights h4 {
     font-size: 1.2rem;
     margin-bottom: 0.75rem;
     font-style: normal;
 }
-
 .career-insights p {
     margin: 0.5rem 0;
 }
 
-/* Research & Discovery Section */
+/* --- Research & Discovery Section (SPA) --- */
 .research-discovery {
     background: var(--background);
     border-top: 2px solid var(--border-light);
     margin-top: 3rem;
     padding-top: 2rem;
 }
-
 .archival-collections h4,
 .modern-availability h4 {
     font-size: 1.2rem;
@@ -612,26 +750,22 @@
     font-style: normal;
     font-weight: 600;
 }
-
 .archival-collections ul {
     margin: 0.75rem 0 0 1.5rem;
     padding: 0;
 }
-
 .archival-collections li {
     margin: 0.5rem 0;
 }
-
 .modern-availability {
     margin-top: 2rem;
 }
 
-/* Mobile Responsive Adjustments */
+/* --- Mobile Responsive Adjustments (SPA) --- */
 @media (max-width: 768px) {
     .enhanced-bio-area {
         flex-direction: column;
     }
-    
     .author-portrait {
         float: none;
         margin: 0 auto 1rem;
@@ -641,28 +775,24 @@
         object-fit: cover;
         object-position: center top;
     }
-    
     .signature-works {
         grid-template-columns: 1fr;
     }
-    
     .theme-tags {
         justify-content: center;
     }
-    
     .about-author {
         padding: 1.5rem;
     }
 }
 
-/* Magazine publication styling */
+/* --- Magazine Publication Styling (SPA) --- */
 .issue-info {
     font-style: italic;
     color: var(--text-secondary);
     margin-top: 0.5rem;
     font-size: 0.95rem;
 }
-
 .serialization-note {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 0.95rem;
@@ -672,11 +802,9 @@
     padding: 0.5rem 1rem;
     border-left: 2px solid var(--accent);
 }
-
 .external-link {
     margin-top: 1rem;
 }
-
 .external-link a {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 1rem;
@@ -684,7 +812,7 @@
     letter-spacing: 0.05em;
 }
 
-/* Adaptation statistics */
+/* --- Adaptation Statistics (SPA) --- */
 .adaptation-stats {
     margin-top: 1rem;
     font-family: 'Source Sans 3', sans-serif;
@@ -695,17 +823,15 @@
     border-top: 1px solid var(--border-light);
 }
 
-/* Archive links styling */
+/* --- Archive Links Styling (SPA) --- */
 .archive-links {
     margin-top: 1.5rem;
     padding-top: 1rem;
     border-top: 1px solid var(--border-light);
 }
-
 .archive-link {
     margin: 0.75rem 0;
 }
-
 .archive-link a {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 1.05rem;
@@ -713,68 +839,57 @@
     text-transform: uppercase;
     letter-spacing: normal;
 }
-
 .archive-link a::before {
     content: "📖 ";
     margin-right: 0.25rem;
     filter: grayscale(100%);
 }
-
-/* Different icon for external database */
 .external-link a::before {
     content: "🔗 ";
     margin-right: 0.25rem;
     filter: grayscale(100%);
 }
 
-/* Media Gallery Styling */
+/* --- Media Gallery Styling (SPA) --- */
 .media-gallery {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 2rem;
     margin: 1.5rem 0;
 }
-
 .media-item {
     display: flex;
     flex-direction: column;
     gap: 0.75rem;
 }
-
 .media-item a {
     display: block;
     text-decoration: none;
     transition: opacity 0.2s ease;
 }
-
 .media-item a:hover {
     opacity: 0.8;
 }
-
 .media-item img {
     max-width: 100%;
     height: auto;
     border: 1px solid var(--border-light);
     transition: border-color 0.2s ease;
 }
-
 .media-item a:hover img {
     border-color: var(--border-medium);
 }
-
 .media-caption {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 0.9rem;
     line-height: 1.4;
 }
-
 .media-caption p {
     color: var(--text-secondary);
     margin: 0.5rem 0 0.75rem 0;
     font-size: 0.85rem;
     line-height: 1.3;
 }
-
 .media-caption small {
     display: block;
     font-size: 0.8rem;
@@ -783,7 +898,7 @@
     margin-top: 0.25rem;
 }
 
-/* Mobile adjustments for media gallery */
+/* --- Mobile Adjustments for Media Gallery (SPA) --- */
 @media (max-width: 760px) {
     .media-gallery {
         grid-template-columns: 1fr;
@@ -791,27 +906,26 @@
     }
 }
 
-/* Grid View Styles */
-.films-grid {
+/* --- Grid View Styles (SPA) --- */
+.films-grid,
+.film-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 1.5rem;
     padding: 1rem 0;
 }
-
 .film-item {
     cursor: pointer;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     background: var(--background-alt);
     border-radius: 8px;
     overflow: hidden;
+    text-align: center;
 }
-
 .film-item:hover {
     transform: translateY(-4px);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
 }
-
 .film-poster {
     aspect-ratio: 2/3;
     background: var(--background-secondary);
@@ -820,18 +934,23 @@
     justify-content: center;
     overflow: hidden;
     position: relative;
+    width: 100%;
+    height: 300px;
+    border: 1px solid var(--border-light);
+    margin-bottom: 0.75rem;
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    transition: border-color 0.2s ease;
 }
-
 .film-poster img {
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
-
 .film-poster.no-image {
     background: linear-gradient(135deg, #f0f0f0 0%, #e0e0e0 100%);
 }
-
 .film-poster span {
     color: var(--text-muted);
     font-size: 0.875rem;
@@ -840,7 +959,6 @@
     letter-spacing: 0.05em;
     opacity: 0.6;
 }
-
 .film-item .film-title {
     padding: 0.75rem 1rem 0.25rem;
     font-size: 0.95rem;
@@ -848,38 +966,38 @@
     line-height: 1.3;
     color: var(--text-primary);
 }
-
-.film-item .film-year {
+.film-item .film-year,
+.film-year {
     padding: 0 1rem 0.75rem;
     font-size: 0.875rem;
     color: var(--text-secondary);
+    font-family: 'Source Sans 3', sans-serif;
 }
 
-/* Responsive grid adjustments */
+/* --- Responsive Grid Adjustments (SPA) --- */
 @media (max-width: 1200px) {
-    .films-grid {
+    .films-grid,
+    .film-grid {
         grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
     }
 }
-
 @media (max-width: 768px) {
-    .films-grid {
+    .films-grid,
+    .film-grid {
         grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
         gap: 1rem;
     }
 }
-
 @media (max-width: 480px) {
-    .films-grid {
+    .films-grid,
+    .film-grid {
         grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
         gap: 0.75rem;
     }
-    
     .film-item .film-title {
         font-size: 0.875rem;
         padding: 0.5rem 0.75rem 0.25rem;
     }
-    
     .film-item .film-year {
         font-size: 0.8125rem;
         padding: 0 0.75rem 0.5rem;

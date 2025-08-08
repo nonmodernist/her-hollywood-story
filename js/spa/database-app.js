@@ -476,13 +476,46 @@ function renderFilmDetail(film) {
     `;
 }
 
+// Helper function to parse PostgreSQL array strings
+function parseArrayField(field) {
+    if (!field) return [];
+    if (Array.isArray(field)) return field;
+    if (typeof field !== 'string') return [];
+    
+    // Remove outer brackets and quotes, then split
+    try {
+        // Handle PostgreSQL array format like "['item1', 'item2']"
+        const cleaned = field.replace(/^\[|\]$/g, '').replace(/'/g, '');
+        return cleaned ? cleaned.split(',').map(item => item.trim()).filter(Boolean) : [];
+    } catch (e) {
+        return [];
+    }
+}
+
 // Render author detail
 function renderAuthorDetail(author) {
+    // Parse array fields
+    const occupations = parseArrayField(author.occupations);
+    const themes = parseArrayField(author.key_themes);
+    const associations = parseArrayField(author.key_associations);
+    const archives = parseArrayField(author.archives_locations);
+    const alternativeNames = parseArrayField(author.alternative_names);
+    
+    // Get signature works if IDs are provided
+    const signatureWorkIds = parseArrayField(author.signature_work_ids);
+    const signatureWorks = signatureWorkIds.length > 0 ? 
+        author.adapted_works.filter(work => signatureWorkIds.includes(String(work.id))) : 
+        [];
+    
+    
     return `
         <div class="author-detail">
             <h1>${author.name}</h1>
-            ${author.birth_year || author.death_year ? `
-                <div class="author-lifespan">${author.birth_year || '?'}–${author.death_year || '?'}</div>
+            ${author.birth_year || author.death_year || author.nationality ? `
+                <div class="author-lifespan">
+                    ${author.birth_year || '?'}–${author.death_year || '?'}
+                    ${author.nationality ? ` • ${author.nationality}` : ''}
+                </div>
             ` : ''}
             
             <div class="author-stats-bar">
@@ -502,9 +535,94 @@ function renderAuthorDetail(author) {
             
             <div class="detail-sections">
                 ${author.biographical_notes ? `
-                    <section class="detail-section">
-                        <h3>Biography</h3>
-                        <p>${author.biographical_notes}</p>
+                    <section class="detail-section enhanced-bio-area">
+                        ${author.has_portrait ? `
+                            <img class="author-portrait" 
+                                 src="${BASE_PATH}/images/authors/${author.slug || author.name.toLowerCase().replace(/\s+/g, '-')}.jpg" 
+                                 alt="Portrait of ${author.name}"
+                                 onerror="this.style.display='none'">
+                        ` : ''}
+                        <div class="bio-content">
+                            <h3>Biography</h3>
+                            <p>${author.biographical_notes}</p>
+                        </div>
+                    </section>
+                ` : ''}
+                
+                ${(alternativeNames.length > 0 || author.education || occupations.length > 0 || 
+                   author.major_awards || author.literary_movement || themes.length > 0 || associations.length > 0) ? `
+                    <section class="detail-section about-author">
+                        <h3>About ${author.name}</h3>
+                        
+                        ${alternativeNames.length > 0 ? `
+                            <div class="info-row">
+                                <strong>Also known as:</strong> ${alternativeNames.join(', ')}
+                            </div>
+                        ` : ''}
+                        
+                        ${author.education || occupations.length > 0 || author.major_awards || author.literary_movement ? `
+                            <div class="professional-life">
+                                <h4>Professional Life</h4>
+                                ${author.education ? `<p><strong>Education:</strong> ${author.education}</p>` : ''}
+                                ${occupations.length > 0 ? `<p><strong>Occupations:</strong> ${occupations.join(', ')}</p>` : ''}
+                                ${author.major_awards ? `<p><strong>Major Awards:</strong> ${author.major_awards}</p>` : ''}
+                                ${author.literary_movement ? `<p><strong>Literary Movement:</strong> ${author.literary_movement}</p>` : ''}
+                            </div>
+                        ` : ''}
+                        
+                        ${themes.length > 0 ? `
+                            <div class="themes-section">
+                                <h4>Themes & Subjects</h4>
+                                <div class="theme-tags">
+                                    ${themes.map(theme => `<span class="theme-tag">${theme}</span>`).join('')}
+                                </div>
+                            </div>
+                        ` : ''}
+                        
+                        ${associations.length > 0 ? `
+                            <div class="associations-section">
+                                <h4>Key Associations</h4>
+                                <p>${associations.join(', ')}</p>
+                            </div>
+                        ` : ''}
+                    </section>
+                ` : ''}
+                
+                ${signatureWorks.length > 0 ? `
+                    <section class="detail-section signature-works-section">
+                        <h3>Signature Works</h3>
+                        
+                        <div class="signature-works">
+                            ${signatureWorks.map(work => `
+                                <div class="signature-work-card">
+                                    <a href="${getDatabaseURL('/work/' + work.slug)}">${work.html_title}</a>
+                                    <div class="work-details">
+                                        ${work.publication_year || 'Year unknown'} • ${work.adaptation_count} adaptation${work.adaptation_count !== 1 ? 's' : ''}
+                                    </div>
+                                </div>
+                            `).join('')}
+                        </div>
+                        
+                    </section>
+                ` : ''}
+                
+                ${(archives.length > 0 || author.modern_availability) ? `
+                    <section class="detail-section research-discovery">
+                        <h3>Research & Discovery</h3>
+                        
+                        ${archives.length > 0 ? `
+                            <div class="archival-collections">
+                                <h4>Archival Collections</h4>
+                                <p>${archives.join(', ')}</p>
+                            </div>
+                        ` : ''}
+                        
+                        ${author.modern_availability ? `
+                            <div class="modern-availability">
+                                <h4>Modern Availability</h4>
+                                <p>${author.modern_availability}</p>
+                            </div>
+                        ` : ''}
                     </section>
                 ` : ''}
                 
@@ -921,9 +1039,17 @@ function addWorkFilters() {
         { value: 'false', label: 'No Photoplay Edition' }
     ]);
 
+    // Author filter
+    const authorOptions = [{ value: '', label: 'All Authors' }];
+    if (data.filterOptions?.authors) {
+        authorOptions.push(...data.filterOptions.authors);
+    }
+    const authorFilter = createFilter('author', 'Author', authorOptions);
+
     elements.filterRow.appendChild(typeFilter);
     elements.filterRow.appendChild(magazineFilter);
     elements.filterRow.appendChild(photoplayFilter);
+    elements.filterRow.appendChild(authorFilter);
 }
 
 // Create a filter element

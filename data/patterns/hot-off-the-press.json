@@ -1870,6 +1870,34 @@
     },
     {
       "work": {
+        "id": 869,
+        "slug": "now-ill-tell",
+        "title": "Now I'll Tell",
+        "html_title": "<span class=\"work-title\">Now I'll Tell</span>",
+        "work_type": "autobiography",
+        "publication_year": 1934
+      },
+      "author": {
+        "id": 428,
+        "slug": "carolyn-green-rothstein",
+        "name": "Carolyn Green Rothstein"
+      },
+      "film": {
+        "id": 967,
+        "slug": "now-ill-tell-1934",
+        "title": "Now I'll Tell",
+        "html_title": "<span class=\"film-title\">Now I'll Tell</span>",
+        "year": 1934,
+        "studio": "Fox Film",
+        "directors": "Edwin J. Burke",
+        "genres": [
+          "Biography",
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
         "id": 197,
         "slug": "wife-vs-secretary",
         "title": "Wife vs. Secretary",
@@ -2329,7 +2357,7 @@
     }
   ],
   "stats": {
-    "total": 86,
+    "total": 87,
     "yearRange": {
       "earliest": 1914,
       "latest": 1962
@@ -2337,7 +2365,7 @@
     "byDecade": {
       "1910s": 16,
       "1920s": 34,
-      "1930s": 26,
+      "1930s": 27,
       "1940s": 6,
       "1950s": 2,
       "1960s": 2
@@ -2345,7 +2373,7 @@
     "byGenre": [
       {
         "genre": "Drama",
-        "count": 33
+        "count": 34
       },
       {
         "genre": "Melodrama",
@@ -2384,6 +2412,10 @@
         "count": 1
       },
       {
+        "genre": "Biography",
+        "count": 1
+      },
+      {
         "genre": "Screwball comedy",
         "count": 1
       }
@@ -2404,6 +2436,10 @@
       {
         "type": "collection",
         "count": 1
+      },
+      {
+        "type": "autobiography",
+        "count": 1
       }
     ],
     "topStudios": [
@@ -2416,12 +2452,12 @@
         "count": 9
       },
       {
-        "studio": "Paramount",
+        "studio": "Fox Film",
         "count": 7
       },
       {
-        "studio": "Fox Film",
-        "count": 6
+        "studio": "Paramount",
+        "count": 7
       },
       {
         "studio": "Universal",
@@ -2492,7 +2528,7 @@
     ]
   },
   "metadata": {
-    "generated": "2025-08-06T01:08:25.127Z",
+    "generated": "2025-08-08T03:03:37.437Z",
     "version": "1.1"
   }
 }

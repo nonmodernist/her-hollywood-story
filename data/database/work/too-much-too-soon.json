@@ -1,0 +1,63 @@
+{
+  "id": 277,
+  "slug": "too-much-too-soon",
+  "title": "Too Much, Too Soon",
+  "formatted_title": "Too Much, Too Soon",
+  "html_title": "<span class=\"work-title\">Too Much, Too Soon</span>",
+  "work_type": "autobiography",
+  "publication_year": 1957,
+  "plot_summary": null,
+  "literary_significance": null,
+  "attribution_notes": "co-writer Gerold Frank",
+  "author": {
+    "id": 104,
+    "slug": "diana-barrymore",
+    "name": "Diana Barrymore",
+    "birth_year": 1921,
+    "death_year": 1960,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 334,
+      "slug": "too-much-too-soon-1958",
+      "title": "Too Much, Too Soon",
+      "html_title": "<span class=\"film-title\">Too Much, Too Soon</span>",
+      "year": 1958,
+      "studio": "Warner Bros",
+      "directors": "Art Napoleon",
+      "genres": [
+        "Biography",
+        "Melodrama"
+      ],
+      "has_media": true,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "has_photoplay_edition": false,
+  "magazine_publication": null,
+  "external_urls": [],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": null,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
+  "has_narrative": false,
+  "last_updated": "2025-08-08T02:35:14.60448"
+}

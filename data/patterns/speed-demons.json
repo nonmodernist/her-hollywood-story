@@ -1297,6 +1297,40 @@
     },
     {
       "work": {
+        "id": 869,
+        "slug": "now-ill-tell",
+        "title": "Now I'll Tell",
+        "formatted_title": "Now I'll Tell",
+        "html_title": "<span class=\"work-title\">Now I'll Tell</span>",
+        "work_type": "autobiography",
+        "publication_year": 1934
+      },
+      "author": {
+        "id": 428,
+        "slug": "carolyn-green-rothstein",
+        "name": "Carolyn Green Rothstein"
+      },
+      "firstAdaptation": {
+        "id": 967,
+        "slug": "now-ill-tell-1934",
+        "title": "Now I'll Tell",
+        "html_title": "<span class=\"film-title\">Now I'll Tell</span>",
+        "year": 1934,
+        "studio": "Fox Film",
+        "directors": "Edwin J. Burke"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1934
+      }
+    },
+    {
+      "work": {
         "id": 260,
         "slug": "once-upon-a-train-the-loco-motive",
         "title": "Once Upon a Train (The Loco Motive)",
@@ -4974,7 +5008,7 @@
         "title": "I'll Cry Tomorrow",
         "formatted_title": "I'll Cry Tomorrow",
         "html_title": "<span class=\"work-title\">I'll Cry Tomorrow</span>",
-        "work_type": "novel",
+        "work_type": "autobiography",
         "publication_year": 1954
       },
       "author": {
@@ -6096,7 +6130,7 @@
         "title": "Prince of Players",
         "formatted_title": "Prince of Players",
         "html_title": "<span class=\"work-title\">Prince of Players</span>",
-        "work_type": "novel",
+        "work_type": "biography",
         "publication_year": 1953
       },
       "author": {
@@ -7039,6 +7073,40 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1941
+      }
+    },
+    {
+      "work": {
+        "id": 1027,
+        "slug": "the-best-of-everything",
+        "title": "The Best of Everything",
+        "formatted_title": "The Best of Everything",
+        "html_title": "<span class=\"work-title\">The Best of Everything</span>",
+        "work_type": "novel",
+        "publication_year": 1958
+      },
+      "author": {
+        "id": 511,
+        "slug": "rona-jaffe",
+        "name": "Rona Jaffe"
+      },
+      "firstAdaptation": {
+        "id": 1146,
+        "slug": "the-best-of-everything-1959",
+        "title": "The Best of Everything",
+        "html_title": "<span class=\"film-title\">The Best of Everything</span>",
+        "year": 1959,
+        "studio": null,
+        "directors": null
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1959
       }
     },
     {
@@ -8744,11 +8812,11 @@
     {
       "work": {
         "id": 277,
-        "slug": "too-soon-too-much",
-        "title": "Too Soon, Too Much",
-        "formatted_title": "Too Soon, Too Much",
-        "html_title": "<span class=\"work-title\">Too Soon, Too Much</span>",
-        "work_type": "novel",
+        "slug": "too-much-too-soon",
+        "title": "Too Much, Too Soon",
+        "formatted_title": "Too Much, Too Soon",
+        "html_title": "<span class=\"work-title\">Too Much, Too Soon</span>",
+        "work_type": "autobiography",
         "publication_year": 1957
       },
       "author": {
@@ -10477,6 +10545,40 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1932
+          }
+        },
+        {
+          "work": {
+            "id": 869,
+            "slug": "now-ill-tell",
+            "title": "Now I'll Tell",
+            "formatted_title": "Now I'll Tell",
+            "html_title": "<span class=\"work-title\">Now I'll Tell</span>",
+            "work_type": "autobiography",
+            "publication_year": 1934
+          },
+          "author": {
+            "id": 428,
+            "slug": "carolyn-green-rothstein",
+            "name": "Carolyn Green Rothstein"
+          },
+          "firstAdaptation": {
+            "id": 967,
+            "slug": "now-ill-tell-1934",
+            "title": "Now I'll Tell",
+            "html_title": "<span class=\"film-title\">Now I'll Tell</span>",
+            "year": 1934,
+            "studio": "Fox Film",
+            "directors": "Edwin J. Burke"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1934
           }
         },
         {
@@ -14160,7 +14262,7 @@
             "title": "I'll Cry Tomorrow",
             "formatted_title": "I'll Cry Tomorrow",
             "html_title": "<span class=\"work-title\">I'll Cry Tomorrow</span>",
-            "work_type": "novel",
+            "work_type": "autobiography",
             "publication_year": 1954
           },
           "author": {
@@ -15282,7 +15384,7 @@
             "title": "Prince of Players",
             "formatted_title": "Prince of Players",
             "html_title": "<span class=\"work-title\">Prince of Players</span>",
-            "work_type": "novel",
+            "work_type": "biography",
             "publication_year": 1953
           },
           "author": {
@@ -16225,6 +16327,40 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1941
+          }
+        },
+        {
+          "work": {
+            "id": 1027,
+            "slug": "the-best-of-everything",
+            "title": "The Best of Everything",
+            "formatted_title": "The Best of Everything",
+            "html_title": "<span class=\"work-title\">The Best of Everything</span>",
+            "work_type": "novel",
+            "publication_year": 1958
+          },
+          "author": {
+            "id": 511,
+            "slug": "rona-jaffe",
+            "name": "Rona Jaffe"
+          },
+          "firstAdaptation": {
+            "id": 1146,
+            "slug": "the-best-of-everything-1959",
+            "title": "The Best of Everything",
+            "html_title": "<span class=\"film-title\">The Best of Everything</span>",
+            "year": 1959,
+            "studio": null,
+            "directors": null
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1959
           }
         },
         {
@@ -17930,11 +18066,11 @@
         {
           "work": {
             "id": 277,
-            "slug": "too-soon-too-much",
-            "title": "Too Soon, Too Much",
-            "formatted_title": "Too Soon, Too Much",
-            "html_title": "<span class=\"work-title\">Too Soon, Too Much</span>",
-            "work_type": "novel",
+            "slug": "too-much-too-soon",
+            "title": "Too Much, Too Soon",
+            "formatted_title": "Too Much, Too Soon",
+            "html_title": "<span class=\"work-title\">Too Much, Too Soon</span>",
+            "work_type": "autobiography",
             "publication_year": 1957
           },
           "author": {
@@ -23513,6 +23649,40 @@
         },
         {
           "work": {
+            "id": 869,
+            "slug": "now-ill-tell",
+            "title": "Now I'll Tell",
+            "formatted_title": "Now I'll Tell",
+            "html_title": "<span class=\"work-title\">Now I'll Tell</span>",
+            "work_type": "autobiography",
+            "publication_year": 1934
+          },
+          "author": {
+            "id": 428,
+            "slug": "carolyn-green-rothstein",
+            "name": "Carolyn Green Rothstein"
+          },
+          "firstAdaptation": {
+            "id": 967,
+            "slug": "now-ill-tell-1934",
+            "title": "Now I'll Tell",
+            "html_title": "<span class=\"film-title\">Now I'll Tell</span>",
+            "year": 1934,
+            "studio": "Fox Film",
+            "directors": "Edwin J. Burke"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1934
+          }
+        },
+        {
+          "work": {
             "id": 783,
             "slug": "personal-maid",
             "title": "Personal Maid",
@@ -27092,7 +27262,7 @@
             "title": "I'll Cry Tomorrow",
             "formatted_title": "I'll Cry Tomorrow",
             "html_title": "<span class=\"work-title\">I'll Cry Tomorrow</span>",
-            "work_type": "novel",
+            "work_type": "autobiography",
             "publication_year": 1954
           },
           "author": {
@@ -27160,7 +27330,7 @@
             "title": "Prince of Players",
             "formatted_title": "Prince of Players",
             "html_title": "<span class=\"work-title\">Prince of Players</span>",
-            "work_type": "novel",
+            "work_type": "biography",
             "publication_year": 1953
           },
           "author": {
@@ -27359,6 +27529,40 @@
         },
         {
           "work": {
+            "id": 1027,
+            "slug": "the-best-of-everything",
+            "title": "The Best of Everything",
+            "formatted_title": "The Best of Everything",
+            "html_title": "<span class=\"work-title\">The Best of Everything</span>",
+            "work_type": "novel",
+            "publication_year": 1958
+          },
+          "author": {
+            "id": 511,
+            "slug": "rona-jaffe",
+            "name": "Rona Jaffe"
+          },
+          "firstAdaptation": {
+            "id": 1146,
+            "slug": "the-best-of-everything-1959",
+            "title": "The Best of Everything",
+            "html_title": "<span class=\"film-title\">The Best of Everything</span>",
+            "year": 1959,
+            "studio": null,
+            "directors": null
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1959
+          }
+        },
+        {
+          "work": {
             "id": 253,
             "slug": "the-doctor-wears-three-faces",
             "title": "The Doctor Wears Three Faces",
@@ -27462,11 +27666,11 @@
         {
           "work": {
             "id": 277,
-            "slug": "too-soon-too-much",
-            "title": "Too Soon, Too Much",
-            "formatted_title": "Too Soon, Too Much",
-            "html_title": "<span class=\"work-title\">Too Soon, Too Much</span>",
-            "work_type": "novel",
+            "slug": "too-much-too-soon",
+            "title": "Too Much, Too Soon",
+            "formatted_title": "Too Much, Too Soon",
+            "html_title": "<span class=\"work-title\">Too Much, Too Soon</span>",
+            "work_type": "autobiography",
             "publication_year": 1957
           },
           "author": {
@@ -27645,11 +27849,11 @@
         "count": 19
       },
       {
-        "studio": "Famous Players-Lasky",
-        "count": 18
+        "studio": "Fox Film",
+        "count": 19
       },
       {
-        "studio": "Fox Film",
+        "studio": "Famous Players-Lasky",
         "count": 18
       },
       {
@@ -27671,13 +27875,13 @@
     ]
   },
   "stats": {
-    "total": 270,
-    "sameYearCount": 86,
-    "oneYearCount": 184,
+    "total": 272,
+    "sameYearCount": 87,
+    "oneYearCount": 185,
     "peakDecade": "1920"
   },
   "metadata": {
-    "generated": "2025-08-06T01:08:25.122Z",
+    "generated": "2025-08-08T03:03:37.431Z",
     "version": "2.0"
   }
 }

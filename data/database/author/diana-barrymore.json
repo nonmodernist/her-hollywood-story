@@ -9,6 +9,19 @@
   "biographical_notes": "American actress (1921–1960). Born in New York City. Died in New York City. Occupations: talk show host, film actor, actor, stage actor, television actor, writer",
   "author_notes": null,
   "wikidata_id": "Q444125",
+  "alternative_names": null,
+  "occupations": null,
+  "key_themes": null,
+  "education": null,
+  "maiden_name": null,
+  "key_associations": null,
+  "major_awards": null,
+  "archives_locations": null,
+  "modern_availability": null,
+  "has_portrait": "False",
+  "signature_work_ids": null,
+  "has_pseudonym": "False",
+  "is_pseudonym": "False",
   "stats": {
     "total_films": 1,
     "works_adapted": 1,
@@ -47,19 +60,19 @@
         "Melodrama"
       ],
       "has_media": true,
-      "work_title": "Too Soon, Too Much",
-      "work_html_title": "<span class=\"work-title\">Too Soon, Too Much</span>",
+      "work_title": "Too Much, Too Soon",
+      "work_html_title": "<span class=\"work-title\">Too Much, Too Soon</span>",
       "work_id": 277
     }
   ],
   "adapted_works": [
     {
       "id": 277,
-      "slug": "too-soon-too-much",
-      "title": "Too Soon, Too Much",
-      "formatted_title": "Too Soon, Too Much",
-      "html_title": "<span class=\"work-title\">Too Soon, Too Much</span>",
-      "work_type": "novel",
+      "slug": "too-much-too-soon",
+      "title": "Too Much, Too Soon",
+      "formatted_title": "Too Much, Too Soon",
+      "html_title": "<span class=\"work-title\">Too Much, Too Soon</span>",
+      "work_type": "autobiography",
       "publication_year": 1957,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -67,11 +80,11 @@
   ],
   "most_adapted_work": {
     "id": 277,
-    "slug": "too-soon-too-much",
-    "title": "Too Soon, Too Much",
-    "formatted_title": "Too Soon, Too Much",
-    "html_title": "<span class=\"work-title\">Too Soon, Too Much</span>",
-    "work_type": "novel",
+    "slug": "too-much-too-soon",
+    "title": "Too Much, Too Soon",
+    "formatted_title": "Too Much, Too Soon",
+    "html_title": "<span class=\"work-title\">Too Much, Too Soon</span>",
+    "work_type": "autobiography",
     "publication_year": 1957,
     "adaptation_count": 1,
     "is_remake_champion": false

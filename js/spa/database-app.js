@@ -921,17 +921,9 @@ function addWorkFilters() {
         { value: 'false', label: 'No Photoplay Edition' }
     ]);
 
-    // Author filter
-    const authorOptions = [{ value: '', label: 'All Authors' }];
-    if (data.filterOptions?.authors) {
-        authorOptions.push(...data.filterOptions.authors);
-    }
-    const authorFilter = createFilter('author', 'Author', authorOptions);
-
     elements.filterRow.appendChild(typeFilter);
     elements.filterRow.appendChild(magazineFilter);
     elements.filterRow.appendChild(photoplayFilter);
-    elements.filterRow.appendChild(authorFilter);
 }
 
 // Create a filter element

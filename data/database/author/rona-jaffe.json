@@ -1,0 +1,82 @@
+{
+  "id": 511,
+  "slug": "rona-jaffe",
+  "name": "Rona Jaffe",
+  "birth_year": 1931,
+  "death_year": 2005,
+  "nationality": "American",
+  "literary_movement": null,
+  "biographical_notes": null,
+  "author_notes": null,
+  "wikidata_id": null,
+  "alternative_names": null,
+  "occupations": null,
+  "key_themes": null,
+  "education": null,
+  "maiden_name": null,
+  "key_associations": null,
+  "major_awards": null,
+  "archives_locations": null,
+  "modern_availability": null,
+  "has_portrait": "False",
+  "signature_work_ids": null,
+  "has_pseudonym": "False",
+  "is_pseudonym": "False",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1959,
+    "last_adaptation": 1959,
+    "year_span": 0,
+    "top_genres": [],
+    "films_by_decade": {
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1146,
+      "slug": "the-best-of-everything-1959",
+      "title": "The Best of Everything",
+      "html_title": "<span class=\"film-title\">The Best of Everything</span>",
+      "year": 1959,
+      "studio": null,
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "The Best of Everything",
+      "work_html_title": "<span class=\"work-title\">The Best of Everything</span>",
+      "work_id": 1027
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 1027,
+      "slug": "the-best-of-everything",
+      "title": "The Best of Everything",
+      "formatted_title": "The Best of Everything",
+      "html_title": "<span class=\"work-title\">The Best of Everything</span>",
+      "work_type": "novel",
+      "publication_year": 1958,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 1027,
+    "slug": "the-best-of-everything",
+    "title": "The Best of Everything",
+    "formatted_title": "The Best of Everything",
+    "html_title": "<span class=\"work-title\">The Best of Everything</span>",
+    "work_type": "novel",
+    "publication_year": 1958,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "has_narrative": false,
+  "last_updated": "2025-08-07T15:25:20.717842"
+}

@@ -11551,16 +11551,16 @@
         "attribution": "Warner Bros"
       },
       "workId": 277,
-      "workTitle": "Too Soon, Too Much",
-      "workFormattedTitle": "Too Soon, Too Much",
-      "workHtmlTitle": "<span class=\"work-title\">Too Soon, Too Much</span>",
-      "workSlug": "too-soon-too-much",
+      "workTitle": "Too Much, Too Soon",
+      "workFormattedTitle": "Too Much, Too Soon",
+      "workHtmlTitle": "<span class=\"work-title\">Too Much, Too Soon</span>",
+      "workSlug": "too-much-too-soon",
       "authorId": 104,
       "authorName": "Diana Barrymore",
       "authorSlug": "diana-barrymore",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "too much, too soon art napoleon art napoleon|jo napoleon dorothy malone|errol flynn|efrem zimbalist jr.|ray danton|neva patterson|murray hamilton|martin milner|john dennis|edward kemmer|robert ellenstein warner bros too soon, too much diana barrymore biography melodrama"
+      "searchText": "too much, too soon art napoleon art napoleon|jo napoleon dorothy malone|errol flynn|efrem zimbalist jr.|ray danton|neva patterson|murray hamilton|martin milner|john dennis|edward kemmer|robert ellenstein warner bros too much, too soon diana barrymore biography melodrama"
     },
     {
       "id": 335,
@@ -14396,7 +14396,7 @@
       "genres": [
         "Drama"
       ],
-      "studio": "Imperial",
+      "studio": "Cameo Pictures",
       "directors": "Lewis D. Collins",
       "hasMedia": false,
       "mediaCount": 0,
@@ -14411,7 +14411,7 @@
       "authorSlug": "lois-bull",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "manhattan butterfly lewis d. collins f. mcgrew willis dorothy granger|william bakewell|kenneth thomson|dorothy burgess|betty compson|carmelita geraghty|harry holman|george meeker|matty fain|alphonse martell imperial broadway virgin lois bull drama"
+      "searchText": "manhattan butterfly lewis d. collins f. mcgrew willis dorothy granger|william bakewell|kenneth thomson|dorothy burgess|betty compson|carmelita geraghty|harry holman|george meeker|matty fain|alphonse martell cameo pictures broadway virgin lois bull drama"
     },
     {
       "id": 423,
@@ -38982,10 +38982,36 @@
       "isRemake": false,
       "adaptationNumber": 1,
       "searchText": "the home girl edmund lawrence margalo gillmore|otto kruger|miriam hopkins paramount home girl edna ferber short"
+    },
+    {
+      "id": 1146,
+      "slug": "the-best-of-everything-1959",
+      "title": "The Best of Everything",
+      "formatted_title": "The Best of Everything",
+      "html_title": "<span class=\"film-title\">The Best of Everything</span>",
+      "year": 1959,
+      "decade": 1950,
+      "genres": [],
+      "studio": null,
+      "directors": null,
+      "hasMedia": false,
+      "mediaCount": 0,
+      "featuredMedia": null,
+      "workId": 1027,
+      "workTitle": "The Best of Everything",
+      "workFormattedTitle": "The Best of Everything",
+      "workHtmlTitle": "<span class=\"work-title\">The Best of Everything</span>",
+      "workSlug": "the-best-of-everything",
+      "authorId": 511,
+      "authorName": "Rona Jaffe",
+      "authorSlug": "rona-jaffe",
+      "isRemake": false,
+      "adaptationNumber": 1,
+      "searchText": "the best of everything the best of everything rona jaffe"
     }
   ],
   "metadata": {
-    "totalCount": 1130,
+    "totalCount": 1131,
     "yearRange": [
       1910,
       1963

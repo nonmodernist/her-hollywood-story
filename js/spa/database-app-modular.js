@@ -267,7 +267,7 @@ function renderAuthorDetail(author) {
                                 <h4>Professional Life</h4>
                                 ${author.education ? `<p><strong>Education:</strong> ${author.education}</p>` : ''}
                                 ${occupations.length > 0 ? `<p><strong>Occupations:</strong> ${occupations.join(', ')}</p>` : ''}
-                                ${author.major_awards ? `<p><strong>Major Awards:</strong> ${author.major_awards}</p>` : ''}
+                                ${author.major_awards ? `<p><strong>Major Awards:</strong> ${author.major_awards.replace(/^\[|\]$/g, '').replace(/'/g, '').split(', ').join(', ')}</p>` : ''}
                                 ${author.literary_movement ? `<p><strong>Literary Movement:</strong> ${author.literary_movement}</p>` : ''}
                             </div>
                         ` : ''}

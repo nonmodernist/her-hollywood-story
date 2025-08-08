@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Her Hollywood Story</title>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/base.css">
+    <style>
+        /* Page-specific styles */
+        .about-content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .about-intro {
+            font-size: 1.5rem;
+            line-height: 2.2rem;
+            margin: 2rem 0 3rem;
+            font-style: italic;
+            color: var(--text-secondary);
+        }
+        
+        .methodology-box {
+            background: var(--background-alt);
+            border: 1px solid var(--border-light);
+            padding: 2rem;
+            margin: 2rem 0;
+        }
+        
+        .methodology-box h3 {
+            margin-top: 0;
+            font-size: 1.5rem;
+            font-style: normal;
+        }
+        
+        .methodology-list {
+            list-style: none;
+            padding: 0;
+            margin: 1rem 0;
+        }
+        
+        .methodology-list li {
+            padding: 0.5rem 0 0.5rem 2rem;
+            position: relative;
+            line-height: 1.8;
+        }
+        
+        .methodology-list li:before {
+            content: "•";
+            position: absolute;
+            left: 0.5rem;
+            color: var(--text-muted);
+        }
+        
+        .contact-section {
+            margin: 4rem 0;
+            padding: 2rem;
+            background: var(--background);
+            border: 1px solid var(--border-medium);
+            text-align: center;
+        }
+        
+        .contact-section h2 {
+            margin-top: 0;
+            font-style: normal;
+        }
+        
+        .author-bio {
+            margin: 3rem 0;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border-light);
+        }
+    </style>
+</head>
+<body>
+    <header class="site-header">
+        <h1 class="site-title">Her Hollywood Story</h1>
+        <p class="site-subtitle">How American Women Writers Shaped Cinema, 1910–1963</p>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="database/">Database</a></li>
+                <!-- <li><a href="patterns/index.html">Patterns</a></li> -->
+                <li><a href="about.html" class="active">About</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="about-content">
+        <h1>About This Project</h1>
+        
+        <p class="about-intro">
+            Her Hollywood Story is a digital humanities project that documents and analyzes a remarkable yet forgotten chapter of American cultural history: how women writers shaped Hollywood's golden age.
+        </p>
+
+        <section>
+            <!-- <h2>What Is This Database?</h2> -->
+            <p>
+                The site catalogs over <strong>1,125 films</strong> adapted from the prose and poetry of American women writers between 1910 and 1963. Each entry links authors, their original works, and the resulting films, creating a comprehensive resource for studying how women's literature became cinema.
+            </p>
+            <p>
+                The database goes beyond simple cataloging. By connecting films to their source works and authors, then layering in publication and production details, biographical information, and images, we can trace patterns that reveal how the Hollywood system depended on women's storytelling, and how their contributions were erased from film history.
+            </p>
+        </section>
+
+        <section>
+            <h2>Why This Matters</h2>
+            <p>
+                When we think of literary adaptations from Hollywood's golden age, we might recall <a href="database/film/little-women-1933" class="film-title">Little Women</a> (1933) or <a href="database/film/gone-with-the-wind-1939" class="film-title">Gone with the Wind</a> (1939). But these famous examples barely scratch the surface of women's influence on American cinema.
+            </p>
+            <p>
+                American women writers didn't just contribute the occasional prestige adaptation—they provided the narrative backbone of the studio system. From Mary Roberts Rinehart's mysteries that created the "spinsters solving crimes" genre to Fannie Hurst's tearjerking melodramas, from Gene Stratton-Porter's nature romances to Edna Ferber's sweeping American epics, women's prose (and occasionally poetry) shaped what audiences saw on screen for over half a century.
+            </p>
+            <p>
+                Yet this massive cultural influence has been almost entirely forgotten. These writers—once household names commanding top dollar for their film rights—have largely vanished from both literary and film history. This project seeks to restore their place in the narrative of American culture.
+            </p>
+        </section>
+
+        <section>
+            <h2>Scope & Methodology</h2>
+            <p>To qualify for inclusion, a film must meet these criteria:</p>
+            <ul class="methodology-list">
+                <li><strong>Source:</strong> Adapted from prose fiction or poetry (not plays) by an American woman writer</li>
+                <li><strong>Production:</strong> American film production (excluding British or other foreign productions)</li>
+                <li><strong>Release date:</strong> Between 1910 and 1963 (after which adaptations of women's literature sharply declined)</li>
+                <li><strong>Verification:</strong> Documented in at least one authoritative source (AFI Catalog, contemporary trade publications, or studio records)</li>
+            </ul>
+            
+            <p>
+                The project employs both traditional humanities research and digital methods. Primary sources include studio archives, author papers, and contemporary publications. Computational analysis makes it feasible to work with this scale of data—over 1,100 films, from over 1,000 literary works by almost 500 authors—allowing us to quickly identify patterns like which studios specialized in women's stories, how adaptation practices evolved across decades, and which authors dominated specific genres.
+            </p>
+            
+            <p>
+                Each entry undergoes verification against multiple sources, with conflicting information noted. The database acknowledges gaps in the historical record—many silent films are lost, credits often went unrecorded, and women's contributions were frequently minimized or erased from official documentation.
+            </p>
+        </div>
+
+        <section class="author-bio">
+            <h2>About the Researcher</h2>
+            <p>
+                Alexandra Edwards holds a PhD in English from the University of Georgia and currently teaches in the English department at Texas Christian University. Her research focuses on the intersections of literature, film, and other media in the early 20th century, with a special interest in the historical recovery of neglected women writers and filmmakers.
+            </p>
+            <p>
+               This database emerged from research for <i>Hollywood Regionalism</i>, a project investigating how the studio system adapted regional novels by American women writers from 1910-1961. What began as an effort to identify the best examples for that focused study revealed something much larger: the need to document the full scope of Hollywood's dependence on women's literature. Building this comprehensive dataset ensures that no significant patterns or connections are overlooked in understanding how women's storytelling shaped American cinema.
+            </p>
+        </section>
+
+        <section class="contact-section">
+            <h2>Contact & Contribute</h2>
+            <p>
+                This database is an ongoing research project. Corrections, additions, and scholarly collaboration are welcome.
+            </p>
+                        <p style="margin-top: 1.5rem;">
+                <strong>Found an error? Have additional information?</strong><br>
+                Every detail helps make this resource more complete and accurate for future researchers.
+            </p>
+            <p>
+                <strong>Email:</strong> a.k.edwards [at] tcu [dot] edu
+            </p>
+            <p style="margin-top: 1rem;">
+                <strong>For technical contributions:</strong> Visit the <a href="https://github.com/nonmodernist/her-hollywood-story" target="_blank">GitHub repository</a>
+            </p>
+
+        </section>
+
+        <section>
+            <h2>Acknowledgments</h2>
+            <p>
+                This project builds on decades of work by film historians, archivists, and scholars who have preserved these films and documented their histories. Special recognition goes to the <a href="https://aficatalog.afi.com" target="_blank">American Film Institute Catalog</a>, which provides essential documentation for many entries in this database.
+            </p>
+            <p>
+                Thanks also to the librarians and archivists who maintain author papers and studio records, making research like this possible.
+            </p>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="citation-box">
+            <h4>How to cite this project</h4>
+            <p class="citation-text">Edwards, Alexandra. "Her Hollywood Story: How American Women Writers Shaped Cinema, 1910–1963." Accessed [date]. [URL].</p>
+            <button class="copy-citation" aria-label="Copy citation">Copy</button>
+        </div>
+    </footer>
+
+    <script src="js/citation.js"></script>
+</body>
+</html>

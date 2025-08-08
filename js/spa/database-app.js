@@ -1022,7 +1022,11 @@ function addWorkFilters() {
         { value: 'novel', label: 'Novels' },
         { value: 'novella', label: 'Novellas' },
         { value: 'short_story', label: 'Short Stories' },
-        { value: 'collection', label: 'Collections' }
+        { value: 'collection', label: 'Collections' },
+        { value: 'collection', label: 'Collections' },
+        { value: 'biography', label: 'Biographies' },
+        { value: 'autobiography', label: 'Autobiographies' },
+        { value: 'poem', label: 'Poems' }
     ]);
 
     // Magazine publication filter

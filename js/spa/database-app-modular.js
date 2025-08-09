@@ -110,7 +110,7 @@ function renderDetailView(type, data) {
 
     let html = `
         <div class="detail-header">
-            <a href="${basePath}/${type}s" class="back-link">← Back to ${capitalizeFirst(type)}s</a>
+            <a href="${basePath}/${type}s" class="back-link font-sans">← Back to ${capitalizeFirst(type)}s</a>
         </div>
     `;
 
@@ -134,7 +134,7 @@ function renderFilmDetail(film) {
     return `
         <div class="film-detail">
             <h1>${film.html_title}</h1>
-            <div class="film-meta">
+            <div class="film-meta font-sans">
                 ${film.release_year} · ${film.studio || 'Unknown Studio'}
                 ${film.runtime_minutes ? ` · ${film.runtime_minutes} minutes` : ''}
             </div>
@@ -157,7 +157,7 @@ function renderFilmDetail(film) {
                                     <a href="${media.url}" target="_blank" rel="noopener">
                                         <img src="${media.thumbnail_url}" alt="${media.caption || media.title}" loading="lazy">
                                     </a>
-                                    <div class="media-caption">
+                                    <div class="media-caption font-sans">
                                         ${media.caption ? `<p>${media.caption}</p>` : ''}
                                         <small>Source: ${media.source} ${media.attribution ? `• ${media.attribution}` : ''}</small>
                                     </div>
@@ -212,7 +212,7 @@ function renderAuthorDetail(author) {
         <div class="author-detail">
             <h1>${author.name}</h1>
             ${author.birth_year || author.death_year || author.nationality ? `
-                <div class="author-lifespan">
+                <div class="author-lifespan font-sans">
                     ${author.birth_year || '?'}–${author.death_year || '?'}
                     ${author.nationality ? ` • ${author.nationality}` : ''}
                 </div>
@@ -325,7 +325,7 @@ function renderAuthorDetail(author) {
                         ${author.adapted_works.map(work => `
                             <div class="work-item">
                                 <a href="${getDatabaseURL('/work/' + work.slug)}">${work.html_title}</a>
-                                <span class="work-meta">${work.publication_year || 'Publication year unknown'} · ${work.adaptation_count} film${work.adaptation_count !== 1 ? 's' : ''}</span>
+                                <span class="work-meta font-sans">${work.publication_year || 'Publication year unknown'} · ${work.adaptation_count} film${work.adaptation_count !== 1 ? 's' : ''}</span>
                             </div>
                         `).join('')}
                     </div>
@@ -337,7 +337,7 @@ function renderAuthorDetail(author) {
                         ${author.films.map(film => `
                             <div class="timeline-item">
                                 <a href="${getDatabaseURL('/film/' + film.slug)}">${film.html_title}</a>
-                                <span class="work-meta">${film.year || 'Unknown'}</span>
+                                <span class="work-meta font-sans">${film.year || 'Unknown'}</span>
                             </div>
                         `).join('')}
                     </div>
@@ -352,7 +352,7 @@ function renderWorkDetail(work) {
     return `
         <div class="work-detail">
             <h1>${work.html_title}</h1>
-            <div class="work-meta">
+            <div class="work-meta font-sans">
                 by <a href="${getDatabaseURL('/author/' + work.author.slug)}">${work.author.name}</a> · 
                 ${capitalizeFirst(work.work_type?.replace('_', ' ') || 'Unknown type')} · 
                 ${work.publication_year || 'Publication year unknown'}
@@ -384,7 +384,7 @@ function renderWorkDetail(work) {
                 `<p class="issue-info">${work.magazine_publication.magazine_issue_info}</p>` : ''}
                         
                         ${work.magazine_publication.serialized && work.magazine_publication.serial_parts ?
-                `<p class="serialization-note">Serialized in ${work.magazine_publication.serial_parts} parts</p>` : ''}
+                `<p class="serialization-note font-sans">Serialized in ${work.magazine_publication.serial_parts} parts</p>` : ''}
             
                 <!-- Archive Links Section -->
         ${(work.magazine_publication.digitized_url || work.magazine_publication.FMI_link) ? `
@@ -400,7 +400,7 @@ function renderWorkDetail(work) {
                 ` : ''}
                 
                 ${work.magazine_publication.FMI_link ? `
-                    <p class="external-link">
+                    <p class="external-link font-sans">
                         <a href="${work.magazine_publication.FMI_link}" 
                            target="_blank" 
                            rel="noopener">
@@ -440,7 +440,7 @@ function renderWorkDetail(work) {
                             }
                             
                             return filteredUrls.map(url => `
-                                <p class="external-link">
+                                <p class="external-link font-sans">
                                     <a href="${url.url}" target="_blank" rel="noopener">
                                         ${url.source} →
                                     </a>
@@ -463,10 +463,10 @@ function renderWorkDetail(work) {
                     <div class="adaptations-list">
                         ${work.adaptations.map((film, index) => `
                             <div class="adaptation-item">
-                                <span class="adaptation-number">#${index + 1}</span>
+                                <span class="adaptation-number font-sans">#${index + 1}</span>
                                 <div class="adaptation-info">
                                     <a href="${getDatabaseURL('/film/' + film.slug)}">${film.html_title}</a>
-                                    <div class="adaptation-details">
+                                    <div class="adaptation-details font-sans">
                                         ${film.year || 'Unknown'} · ${film.studio || 'Unknown Studio'}
                                         ${film.directors ? ` · Dir: ${film.directors}` : ''}
                                     </div>
@@ -475,7 +475,7 @@ function renderWorkDetail(work) {
                         `).join('')}
                     </div>
                     ${work.adaptation_gaps && work.adaptation_gaps.length > 0 ? `
-                        <p class="adaptation-stats">Average gap between adaptations: ${work.stats.average_gap_between_adaptations} years</p>
+                        <p class="adaptation-stats font-sans">Average gap between adaptations: ${work.stats.average_gap_between_adaptations} years</p>
                     ` : ''}
                 </section>
             </div>
@@ -1127,7 +1127,7 @@ function createFilmListItem(film) {
         <div class="entry-title">
             <a href="${getDatabaseURL('/film/' + film.slug)}">${film.html_title || film.title}</a>${mediaIndicator}
         </div>
-        <div class="entry-meta">
+        <div class="entry-meta font-sans">
             ${film.year || 'Unknown year'}<span class="meta-separator">·</span>
             Based on ${workSlug ? `<a href="${getDatabaseURL('/work/' + workSlug)}">${workTitle}</a>` : workTitle} 
             by <a href="${getDatabaseURL('/author/' + film.authorSlug)}">${film.authorName || 'Unknown'}</a><span class="meta-separator">·</span>
@@ -1156,9 +1156,9 @@ function createAuthorListItem(author) {
                 <a href="${getDatabaseURL('/author/' + author.slug)}">${author.name}</a>
                 ${author.isTwentyTimer ? '<span class="media-indicator" title="Member of the Twenty Timers Club">⁑</span>' : ''}
             </div>
-            <div class="author-lifespan">${lifespan}</div>
+            <div class="author-lifespan font-sans">${lifespan}</div>
         </div>
-        <div class="author-stats">
+        <div class="author-stats font-sans">
             <div class="author-film-count">${author.filmCount}</div>
             <div class="author-film-label">Films</div>
         </div>
@@ -1183,7 +1183,7 @@ function createWorkListItem(work) {
             ${isSameYearAdaptation ? '<span class="media-indicator" title="Adapted in the same year it was published">🗲</span>' : ''}
         </div>
         <div class="work-author">by <a href="${getDatabaseURL('/author/' + work.authorSlug)}">${work.authorName}</a></div>
-        <div class="work-meta">
+        <div class="work-meta font-sans">
             ${work.workType ? capitalizeFirst(work.workType.replace('_', ' ')) : 'Unknown type'} · 
             ${work.publicationYear || 'Unknown year'} · 
             ${work.adaptationCount} film${work.adaptationCount !== 1 ? 's' : ''}
@@ -1227,11 +1227,11 @@ function createFilmGridItem(film) {
     }
     
     item.innerHTML = `
-        <div class="film-poster ${!film.featuredMedia ? 'no-image' : ''}">
+        <div class="film-poster font-sans ${!film.featuredMedia ? 'no-image' : ''}">
             ${posterContent}
         </div>
         <div class="film-title">${film.html_title}</div>
-        <div class="film-year">${film.year}</div>
+        <div class="film-year font-sans">${film.year}</div>
     `;
     
     return item;

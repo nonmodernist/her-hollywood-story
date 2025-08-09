@@ -1,5 +1,10 @@
 /* database-merged.css - Consolidated styles for Her Hollywood Story Database & SPA */
 
+/* --- Utility Classes --- */
+.font-sans {
+    font-family: 'Source Sans 3', sans-serif;
+}
+
 /* --- Database Intro Section --- */
 .database-intro {
     margin: 2rem 0 3rem;
@@ -60,7 +65,6 @@
     border: none;
     border-bottom: 3px solid transparent;
     cursor: pointer;
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 1.1rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -114,7 +118,6 @@
     border-top: 1px solid var(--border-light);
 }
 .results-info {
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 1rem;
     color: var(--text-secondary);
 }
@@ -197,7 +200,6 @@
     margin-bottom: 0.5rem;
 }
 .entry-meta {
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 1rem;
     color: var(--text-secondary);
     line-height: 1.6;
@@ -225,13 +227,11 @@
     margin-bottom: 0.25rem;
 }
 .author-lifespan {
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 1rem;
     color: var(--text-muted);
 }
 .author-stats {
     text-align: right;
-    font-family: 'Source Sans 3', sans-serif;
 }
 .author-film-count {
     font-size: 1.4rem;
@@ -288,7 +288,6 @@
     padding: 3rem 0;
 }
 .load-more-info {
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 0.95rem;
     color: var(--text-muted);
     margin-top: 1rem;
@@ -302,7 +301,6 @@
     margin-bottom: 2rem;
 }
 .back-link {
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 1rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -324,7 +322,6 @@
     margin-bottom: 0.5rem;
 }
 .film-meta {
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 1.1rem;
     color: var(--text-secondary);
     margin-bottom: 2rem;
@@ -364,7 +361,6 @@
 /* --- Author Detail (SPA) --- */
 /* h1 styles consolidated with film-detail and work-detail above */
 .author-lifespan {
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 1.1rem;
     color: var(--text-secondary);
     margin-bottom: 2rem;
@@ -396,7 +392,6 @@
 }
 /* Standardized work-meta styles - used in author detail work items */
 .work-meta {
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 1rem;
     color: var(--text-secondary);
 }
@@ -428,7 +423,6 @@
     border: 1px solid var(--border-light);
 }
 .adaptation-number {
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 1.5rem;
     font-weight: 600;
     color: var(--text-muted);
@@ -439,7 +433,6 @@
     flex: 1;
 }
 .adaptation-details {
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 0.9rem;
     color: var(--text-secondary);
     margin-top: 0.25rem;
@@ -704,7 +697,6 @@
     font-size: 0.95rem;
 }
 .serialization-note {
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 0.95rem;
     color: var(--text-muted);
     margin-top: 0.5rem;
@@ -716,7 +708,6 @@
     margin-top: 1rem;
 }
 .external-link a {
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 1rem;
     text-transform: none;
     letter-spacing: 0.05em;
@@ -725,7 +716,6 @@
 /* --- Adaptation Statistics (SPA) --- */
 .adaptation-stats {
     margin-top: 1rem;
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 0.95rem;
     color: var(--text-secondary);
     text-align: center;
@@ -743,7 +733,6 @@
     margin: 0.75rem 0;
 }
 .archive-link a {
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 1.05rem;
     font-weight: 400;
     text-transform: uppercase;
@@ -790,7 +779,6 @@
     border-color: var(--border-medium);
 }
 .media-caption {
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 0.9rem;
     line-height: 1.4;
 }
@@ -848,7 +836,6 @@
     height: 300px;
     border: 1px solid var(--border-light);
     margin-bottom: 0.75rem;
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 0.9rem;
     color: var(--text-muted);
     transition: border-color 0.2s ease;
@@ -881,7 +868,6 @@
     padding: 0 1rem 0.75rem;
     font-size: 0.875rem;
     color: var(--text-secondary);
-    font-family: 'Source Sans 3', sans-serif;
 }
 
 /* --- Responsive Grid Adjustments (SPA) --- */

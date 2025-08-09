@@ -1,106 +1,184 @@
-/* patterns.css - Styles for pattern pages in Her Hollywood Story */
+/* ============================================
+    PATTERNS.CSS - Component-Based Architecture
+   ============================================ */
 
-/* Network Graph Styling */
-.network-graph {
-    border: 1px solid var(--border-light) !important;
-    border-radius: 4px;
-    background: var(--background);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+/* ============================================
+    SECTION LAYOUTS
+   ============================================ */
+
+/* Base section with consistent spacing */
+.section {
+    margin: 5rem 0;
 }
 
-.network-graph .vis-network canvas {
-    border-radius: 4px;
+.section--compact {
+    margin: 3rem 0;
 }
 
-.network-analysis .main-column {
-    max-width: 900px;
-    margin: 2rem auto;
+.section--wide {
+    margin: 6rem 0;
 }
 
-/* Pattern Hero */
-.pattern-hero {
+/* Full-width sections that break out of container */
+.section--fullwidth {
+    margin-left: -12.5%;
+    margin-right: -12.5%;
+    padding: 4rem 3rem;
+}
+
+/* Sections with backgrounds */
+.section--highlight {
+    background: var(--background-alt);
+    padding: 3rem;
+}
+
+.section--bordered {
+    border: 1px solid var(--border-light);
+    padding: 2.5rem;
+}
+
+.section--accent-border {
+    border-left: 4px solid var(--accent);
+}
+
+/* ============================================
+   HERO COMPONENTS
+   ============================================ */
+
+.hero {
     margin: 3rem 0 4rem;
     text-align: center;
 }
 
-.pattern-title {
+.hero__title {
     font-size: 3.2rem;
     font-style: normal;
     margin-bottom: 1rem;
 }
 
-.pattern-subtitle {
+.hero__subtitle {
     font-size: 1.6rem;
     font-style: italic;
     color: var(--text-secondary);
     margin-bottom: 2rem;
 }
 
-.hero-intro {
+.hero__intro {
     max-width: 800px;
     margin: 0 auto 2rem;
 }
 
-.hero-intro p {
+.hero__intro p {
     font-size: 1.5rem;
     line-height: 2.2rem;
+    text-align: left;
 }
 
-.hero-stats {
+.hero__stats {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 1.1rem;
     text-transform: uppercase;
     letter-spacing: 0.1em;
     color: var(--text-secondary);
+    font-weight: 800;
 }
 
-.stat-item {
-    font-weight: 600;
-}
+/* ============================================
+   GRID LAYOUTS
+   ============================================ */
 
-.stat-separator {
-    margin: 0 1rem;
-    color: var(--text-muted);
-}
-
-/* Members Overview */
-.members-overview {
-    margin: 5rem 0;
-}
-
-.member-cards {
+.grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    align-items: stretch;
     gap: 2rem;
-    margin-top: 3rem;
 }
 
-.member-card {
+.grid--auto {
+    grid-template-columns: repeat(auto-fit, minmax(var(--grid-min, 250px), 1fr));
+}
+
+.grid--2col {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.grid--3col {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.grid--4col {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.grid--5col {
+    grid-template-columns: repeat(5, 1fr);
+}
+
+/* Grid modifiers */
+.grid--narrow-gap {
+    gap: 1rem;
+}
+
+.grid--wide-gap {
+    gap: 3rem;
+}
+
+/* Specific grid variations */
+.grid--members {
+    --grid-min: 220px;
+}
+
+.grid--traits {
+    --grid-min: 250px;
+}
+
+.grid--cta {
+    --grid-min: 250px;
+}
+
+/* ============================================
+   CARD COMPONENTS
+   ============================================ */
+
+.card {
     background: var(--background);
     border: 1px solid var(--border-light);
     padding: 2rem;
-    text-align: center;
-    position: relative;
     transition: all 0.3s ease;
-}
-/* 
-.member-card:hover {
-    border-color: var(--text-primary);
-    transform: translateY(-2px);
-} */
-
-.member-card-link {
-    text-decoration: none;
-    color: inherit;
-    display: block;
+     height: 100%; 
 }
 
-.member-card-link:hover .member-card {
+.card--clickable {
+    cursor: pointer;
+}
+
+.card--clickable:hover {
     border-color: var(--text-primary);
     transform: translateY(-2px);
 }
 
-.member-rank {
+/* Card variations */
+.card--centered {
+    text-align: center;
+}
+
+.card--compact {
+    padding: 1.5rem;
+}
+
+.card--spacious {
+    padding: 2.5rem;
+}
+
+.card--highlight {
+    background: var(--background-alt);
+}
+
+.card--bordered-medium {
+    border-color: var(--border-medium);
+}
+
+/* Card content elements */
+.card__number {
     font-size: 3rem;
     font-weight: 400;
     line-height: 1;
@@ -108,150 +186,50 @@
     color: var(--accent);
 }
 
-.member-card h3 {
+.card__title {
     font-size: 1.4rem;
     margin: 0 0 0.5rem;
     font-style: normal;
 }
 
-.member-years {
+.card__meta {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 0.95rem;
     color: var(--text-muted);
     margin-bottom: 1rem;
 }
 
-.member-fact {
+.card__description {
     font-style: italic;
+    color: var(--text-secondary);
     margin-bottom: 1.5rem;
-    min-height: 3rem;
-    color: var(--text-secondary);
 }
 
-/* Pattern Analysis Sections */
-.pattern-analysis,
-.pattern-traits,
-.studio-analysis,
-.peak-years {
-    margin: 5rem 0;
+.card__link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
 }
 
-/* Timeline Container */
-.timeline-container {
-    margin: 3rem 0;
-    padding: 2rem;
-    background: var(--background-alt);
-    border: 1px solid var(--border-light);
-    min-height: 400px;
-    position: relative;
-}
+/* ============================================
+   PREVIEW COMPONENTS (Author previews)
+   ============================================ */
 
-/* Traits Grid */
-.traits-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 2rem;
-    margin-top: 3rem;
-}
-
-.trait-card {
-    padding: 2rem;
-    background: var(--background);
-    border: 1px solid var(--border-light);
-}
-
-.trait-card h3 {
-    font-size: 1.4rem;
-    margin-top: 0;
-    margin-bottom: 1rem;
-    font-style: italic;
-}
-
-/* Studio Visualization */
-.studio-viz {
-    margin: 3rem 0;
-    padding: 2rem;
-    background: var(--background-alt);
-    border: 1px solid var(--border-light);
-    min-height: 300px;
-}
-
-.studio-insights {
-    max-width: 700px;
-    margin: 2rem auto 0;
-    text-align: center;
-}
-
-/* Decades Chart */
-.decades-chart {
-    margin: 3rem 0;
-    padding: 2rem;
-    background: var(--background-alt);
-    border: 1px solid var(--border-light);
-    min-height: 300px;
-}
-
-.era-analysis {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 3rem;
-    margin-top: 3rem;
-}
-
-.era-analysis h3 {
-    font-size: 1.5rem;
-    margin-bottom: 1rem;
-}
-
-/* Facts Grid */
-.facts-grid {
-    margin: 5rem 0;
-    background: var(--background-alt);
-    padding: 4rem 3rem;
-    margin-left: -12.5%;
-    margin-right: -12.5%;
-}
-
-.fact-cards {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 2rem;
-    max-width: 1200px;
-    margin: 3rem auto 0;
-}
-
-.fact-card {
-    background: var(--background);
-    padding: 2rem;
-    border: 1px solid var(--border-light);
-    text-align: center;
-}
-
-.fact-card h3 {
-    font-size: 1.2rem;
-    margin: 0 0 1rem;
-    font-style: normal;
-    color: var(--text-secondary);
-}
-
-.fact-card p {
-    margin: 0;
-    font-size: 1.3rem;
-}
-
-/* Member Previews */
-.member-previews {
-    margin: 5rem 0;
-}
-
-.preview-card {
+.preview {
     margin: 3rem 0;
     padding: 3rem;
     background: var(--background);
     border: 1px solid var(--border-medium);
 }
 
-.preview-header {
+.preview--with-image {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 2.5rem;
+    align-items: start;
+}
+
+.preview__header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -260,13 +238,13 @@
     border-bottom: 1px solid var(--border-light);
 }
 
-.preview-header h3 {
+.preview__title {
     font-size: 2rem;
     margin: 0;
     font-style: normal;
 }
 
-.preview-stats {
+.preview__stats {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 1rem;
     color: var(--text-muted);
@@ -274,662 +252,324 @@
     letter-spacing: 0.05em;
 }
 
-.signature-work {
-    font-size: 1.5rem;
-    margin-bottom: 1rem;
+.preview__image {
+    width: 100%;
+    height: auto;
+    border: 1px solid var(--border-light);
+    filter: sepia(10%) contrast(1.05);
 }
 
-.preview-teaser {
-    font-size: 1.3rem;
-    color: var(--text-secondary);
-    margin-bottom: 2rem;
-}
-
-.preview-highlights {
-    margin: 2rem 0;
-}
-
-.preview-highlights h4 {
+.preview__highlights h4 {
     font-size: 1.3rem;
     margin-bottom: 1rem;
     font-style: italic;
 }
 
-.preview-highlights ul {
+.preview__highlights ul {
     list-style: none;
     padding: 0;
 }
 
-.preview-highlights li {
-    padding: 0.5rem 0;
-    padding-left: 2rem;
+.preview__highlights li {
+    padding: 0.5rem 0 0.5rem 2rem;
     position: relative;
 }
 
-.preview-highlights li:before {
+.preview__highlights li:before {
     content: "→";
     position: absolute;
     left: 0;
     color: var(--text-muted);
 }
 
-/* Author portraits in preview cards */
-.preview-card.with-portrait {
-    display: grid;
-    grid-template-columns: 180px 1fr;
-    gap: 2.5rem;
-    align-items: start;
-}
+/* ============================================
+   STAT COMPONENTS
+   ============================================ */
 
-.author-portrait {
-    width: 100%;
-    height: auto;
-    border: 1px solid var(--border-light);
-    /* Subtle vintage effect using existing color variables */
-    filter: sepia(10%) contrast(1.05);
-}
-
-/* Responsive - reuse existing breakpoint */
-@media (max-width: 760px) {
-    .preview-card.with-portrait {
-        grid-template-columns: 1fr;
-    }
-    
-    .author-portrait {
-        max-width: 150px;
-        margin: 0 auto 1.5rem;
-        display: block;
-    }
-}
-
-.coming-soon {
-    font-family: 'Source Sans 3', sans-serif;
-    font-style: italic;
-    color: var(--text-muted);
+.stat {
     text-align: center;
+}
+
+.stat__number {
+    font-size: 2.8rem;
+    line-height: 1;
+    margin-bottom: 0.25rem;
+}
+
+.stat__label {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-muted);
+}
+
+.stat--inline {
+    display: inline-block;
+    margin: 0 1rem;
+}
+
+/* ============================================
+   VISUALIZATION CONTAINERS
+   ============================================ */
+
+.viz {
+    margin: 3rem 0;
     padding: 2rem;
     background: var(--background-alt);
     border: 1px solid var(--border-light);
-    margin-top: 2rem;
+    min-height: 300px;
+    position: relative;
 }
 
-/* Methodology Notes */
-.methodology-notes {
+.viz--no-bg {
+    margin: 1rem 0;
+    padding: 1rem;
+    min-height: 300px;
+    position: relative;
+}
+
+.viz--tall {
+    min-height: 400px;
+}
+
+.viz--compact {
+    min-height: 200px;
+}
+
+/* ============================================
+   METHODOLOGY/NOTES SECTIONS
+   ============================================ */
+
+.notes {
     margin: 6rem 0;
     padding: 4rem 3rem;
     background: var(--background-alt);
     border-top: 2px solid var(--border-light);
     border-bottom: 2px solid var(--border-light);
+}
+
+.notes--fullwidth {
     margin-left: -12.5%;
     margin-right: -12.5%;
 }
 
-.methodology-notes h2 {
+.notes__title {
     margin-top: 0;
     text-align: center;
     font-size: 2rem;
     margin-bottom: 2rem;
 }
 
-.methodology-content {
+.notes__content {
     max-width: 800px;
     margin: 0 auto;
 }
 
-.methodology-content h3 {
+.notes__subtitle {
     font-size: 1.4rem;
     margin: 2.5rem 0 1rem;
     font-style: italic;
     color: var(--text-primary);
 }
 
-.methodology-content ul {
+/* ============================================
+   LIST STYLES
+   ============================================ */
+
+.list {
     list-style: none;
     padding: 0;
+    margin: 0;
 }
 
-.methodology-content li {
+.list__item {
     padding: 0.5rem 0 0.5rem 2rem;
     position: relative;
     line-height: 1.8;
     font-size: 1.1rem;
 }
 
-.methodology-content li:before {
+.list__item:before {
     content: "•";
     position: absolute;
     left: 0.5rem;
     color: var(--text-muted);
 }
 
-.methodology-content strong {
-    font-weight: 500;
-    color: var(--text-primary);
+.list--arrow .list__item:before {
+    content: "→";
+    left: 0;
 }
 
-/* Pattern CTA */
-.pattern-cta {
+.list--numbered {
+    counter-reset: list-counter;
+}
+
+.list--numbered .list__item:before {
+    counter-increment: list-counter;
+    content: counter(list-counter) ".";
+    left: 0;
+}
+
+.list--divided .list__item {
+    padding: 1rem 0 1rem 2rem;
+    border-bottom: 1px solid var(--border-light);
+}
+
+.list--divided .list__item:last-child {
+    border-bottom: none;
+}
+
+/* ============================================
+   CTA (Call to Action) SECTIONS
+   ============================================ */
+
+.cta {
     margin: 6rem 0 0;
-    padding: 4rem 0;
+    padding-top: 4rem;
     background: var(--background);
     text-align: center;
 }
 
-.pattern-cta h2 {
+.cta__title {
     font-size: 2.2rem;
     margin-bottom: 3rem;
 }
 
-.cta-links {
+.cta__grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 2rem;
-    margin-top: 3rem;
-    max-width: 900px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 3rem auto 0;
 }
 
-.cta-card {
-    background: var(--background);
-    border: 1px solid var(--border-medium);
-    padding: 2.5rem 2rem;
-    text-decoration: none;
-    color: var(--text-primary);
-    transition: all 0.3s ease;
-}
-
-.cta-card:hover {
-    border-color: var(--text-primary);
-    transform: translateY(-2px);
-}
-
-.cta-card h3 {
+.cta__grid h3 {
     font-size: 1.5rem;
     margin-top: 0;
     margin-bottom: 1rem;
     font-style: normal;
 }
 
-.cta-card p {
+.cta__grid p {
     margin: 0;
     color: var(--text-secondary);
     font-size: 1.1rem;
 }
 
-/* Responsive */
+/* ============================================
+   UTILITY CLASSES
+   ============================================ */
+
+/* Text utilities */
+.text-center { text-align: center; }
+.text-left { text-align: left; }
+.text-right { text-align: right; }
+.text-muted { color: var(--text-muted); }
+.text-secondary { color: var(--text-secondary); }
+.text-italic { font-style: italic; }
+
+/* Spacing utilities */
+.mt-0 { margin-top: 0; }
+.mt-1 { margin-top: 1rem; }
+.mt-2 { margin-top: 2rem; }
+.mt-3 { margin-top: 3rem; }
+.mb-0 { margin-bottom: 0; }
+.mb-1 { margin-bottom: 1rem; }
+.mb-2 { margin-bottom: 2rem; }
+.mb-3 { margin-bottom: 3rem; }
+
+/* Content containers */
+.content-narrow {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content-medium {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content-wide {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ============================================
+   RESPONSIVE ADJUSTMENTS
+   ============================================ */
+
 @media (max-width: 760px) {
-    .pattern-title {
+    /* Adjust grids to single column */
+    .grid--2col,
+    .grid--3col,
+    .grid--4col,
+    .grid--5col {
+        grid-template-columns: 1fr;
+    }
+    
+    /* Adjust preview layout */
+    .preview--with-image {
+        grid-template-columns: 1fr;
+    }
+    
+    .preview__image {
+        max-width: 150px;
+        margin: 0 auto 1.5rem;
+        display: block;
+    }
+    
+    /* Adjust hero sizing */
+    .hero__title {
         font-size: 2.4rem;
     }
     
-    .hero-intro p {
+    .hero__intro p {
         font-size: 1.3rem;
     }
     
-    .member-cards {
-        grid-template-columns: 1fr;
+    /* Adjust fullwidth sections */
+    .section--fullwidth,
+    .notes--fullwidth {
+        margin-left: -5%;
+        margin-right: -5%;
+        padding: 3rem 1.5rem;
     }
     
-    .traits-grid {
-        grid-template-columns: 1fr;
-    }
-    
-    .preview-header {
+    /* Stack preview header */
+    .preview__header {
         flex-direction: column;
         gap: 0.5rem;
     }
-    
-    .facts-grid {
-        margin-left: -5%;
-        margin-right: -5%;
-        padding: 3rem 1.5rem;
-    }
-    
-    .methodology-notes {
-        margin-left: -5%;
-        margin-right: -5%;
-        padding: 3rem 1.5rem;
-    }
-    
-    .era-analysis {
-        grid-template-columns: 1fr;
-    }
 }
 
-.explore-more {
-    margin-top: 2rem;
-    padding-top: 1.5rem;
-    border-top: 1px solid var(--border-light);
-    display: flex;
-    gap: 1.5rem;
-    align-items: center;
-}
+/* ============================================
+   LEGACY SUPPORT / MIGRATION HELPERS
+   Keep these temporarily during migration
+   ============================================ */
 
-.explore-more .button {
-    margin-top: 0;
-    margin-left: auto;
-    margin-right: auto;
-}
+/* During migration, you can either:
+   1. Use multiple classes in HTML: class="card member-card"
+   2. Or duplicate the styles temporarily (shown below)
+   3. Or use CSS custom properties to share values
+*/
 
-@media (max-width: 760px) {
-    .explore-more {
-        flex-direction: column;
-        align-items: stretch;
-        gap: 1rem;
-    }
-}
-
-/* Statistical Significance Section - reuse existing patterns */
-.scholarly-context {
-    margin: 5rem 0;
-}
-
-.context-stats {
-    max-width: 800px;
-    margin: 0 auto;
-}
-
-.context-stats p {
-    font-size: 1.3rem;
-    line-height: 2rem;
-    margin-bottom: 2rem;
-}
-
-.distribution-chart {
-    margin: 3rem 0;
-    padding: 2.5rem;
-    background: var(--background);
-    border: 1px solid var(--border-medium);
-}
-
-
-.significance-note {
-    font-style: italic;
-    color: var(--text-secondary);
-    text-align: center;
-    margin-top: 2rem;
-    font-size: 1.1rem;
-}
-
-/* Network Analysis Section - reuse existing patterns */
-.network-analysis {
-    margin: 5rem 0;
-}
-
-.network-content {
-    max-width: 800px;
-    margin: 0 auto;
-}
-
-.network-insights {
-    margin: 3rem 0;
-}
-
-.network-section {
-    margin: 3rem 0;
-    padding: 2.5rem;
-    background: var(--background);
-    border: 1px solid var(--border-light);
-}
-
-.network-section h3 {
-    font-size: 1.5rem;
-    margin: 0 0 1.5rem;
-    font-style: italic;
-    color: var(--text-primary);
-}
-
-.network-list {
-    list-style: none;
-    padding: 0;
-    margin: 1.5rem 0;
-}
-
-.network-list li {
-    padding: 1rem 0 1rem 2rem;
-    position: relative;
-    line-height: 1.8;
-    border-bottom: 1px solid var(--border-light);
-}
-
-.network-list li:last-child {
-    border-bottom: none;
-}
-
-.network-list li:before {
-    content: "→";
-    position: absolute;
-    left: 0;
-    color: var(--text-muted);
-    font-weight: bold;
-}
-
-.studio-network {
-    margin: 2rem 0;
+/* Example migration approach - duplicate key styles */
+.pattern-hero {
+    /* Same as .hero */
+    margin: 3rem 0 4rem;
     text-align: center;
 }
 
-.studio-highlight {
-    display: inline-block;
-    padding: 1.5rem 2rem;
-    background: var(--background-alt);
-    border: 1px solid var(--border-medium);
-    border-radius: 4px;
-    font-size: 1.1rem;
-}
-
-.studio-authors {
-    font-family: 'Source Sans 3', sans-serif;
-    font-size: 0.95rem;
-    color: var(--text-secondary);
-    margin-top: 0.5rem;
-}
-
-.network-conclusion {
-    font-style: italic;
-    color: var(--text-secondary);
-    text-align: center;
-    margin: 3rem 0 0;
-    font-size: 1.2rem;
-    padding-top: 2rem;
-    border-top: 1px solid var(--border-light);
-}
-
-/* Data Transparency Box - reuse methodology styles */
-.data-transparency {
-    margin: 3rem 0;
-    padding: 2.5rem;
-    background: var(--background-alt);
-    border: 1px solid var(--border-medium);
-    border-left: 4px solid var(--accent);
-}
-
-.data-transparency h3 {
-    font-size: 1.4rem;
-    margin: 0 0 1.5rem;
-    font-style: italic;
-    color: var(--text-primary);
-}
-
-.data-transparency ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.data-transparency li {
-    padding: 0.75rem 0 0.75rem 2rem;
-    position: relative;
-    line-height: 1.8;
-    font-size: 1.1rem;
-}
-
-.data-transparency li:before {
-    content: "⚠";
-    position: absolute;
-    left: 0.5rem;
-    color: var(--accent);
-}
-
-.data-transparency strong {
-    font-weight: 500;
-    color: var(--text-primary);
-}
-
-/* Responsive adjustments */
-@media (max-width: 760px) {
-    
-    .network-section {
-        padding: 2rem 1.5rem;
-    }
-    
-    .data-transparency {
-        padding: 2rem 1.5rem;
-    }
-}
-
-/* Hot Off the Press specific styles */
-
-/* Speed Records */
-.speed-records {
-    margin: 5rem 0;
-}
-
-.record-cards {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 2rem;
-    margin-top: 2rem;
-}
-
-.record-card {
-    background: var(--background);
-    border: 1px solid var(--border-light);
-    padding: 2rem;
-}
-
-.record-card h3 {
-    font-size: 1.3rem;
-    margin: 0 0 1rem;
-    font-style: italic;
-    color: var(--text-secondary);
-}
-
-.record-title {
-    font-size: 1.5rem;
-    margin-bottom: 1rem;
-}
-
-.record-timeline {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-    margin: 1rem 0;
-    font-family: 'Source Sans 3', sans-serif;
-    font-size: 0.95rem;
-    color: var(--text-secondary);
-}
-
-.timeline-arrow {
-    color: var(--text-muted);
-}
-
-.record-detail {
-    font-size: 1rem;
-    color: var(--text-muted);
-    margin-top: 1rem;
-}
-
-/* Method cards - reuse trait-card structure */
-.method-cards {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 2rem;
-    margin-top: 3rem;
-}
-
-.method-card {
-    padding: 2rem;
-    background: var(--background);
-    border: 1px solid var(--border-light);
-}
-
-.method-card h3 {
-    font-size: 1.4rem;
-    margin-top: 0;
-    margin-bottom: 1rem;
-    font-style: italic;
-}
-
-/* Speed Authors */
-.speed-authors {
-    margin: 5rem 0;
-}
-
-.author-speed-list {
-    margin-top: 2rem;
-}
-
-.speed-author {
-    padding: 1.5rem 0;
-    border-bottom: 1px solid var(--border-light);
-}
-
-.speed-author:last-child {
-    border-bottom: none;
-}
-
-.speed-author h3 {
-    font-size: 1.5rem;
-    margin: 0 0 0.5rem;
+.pattern-title {
+    /* Same as .hero__title */
+    font-size: 3.2rem;
     font-style: normal;
+    margin-bottom: 1rem;
 }
 
-.speed-author p {
-    margin: 0;
-    color: var(--text-secondary);
-}
-
-/* Case Studies */
-.case-studies {
-    margin: 5rem 0;
-}
-
-.case-study {
-    margin: 3rem 0;
-    padding: 2.5rem;
-    background: var(--background);
-    border: 1px solid var(--border-medium);
-}
-
-.case-timeline {
-    margin: 2rem 0;
-    padding-left: 2rem;
-}
-
-.timeline-event {
-    display: flex;
-    gap: 2rem;
-    margin: 1rem 0;
-    padding-left: 1rem;
-    position: relative;
-}
-
-.timeline-event:before {
-    content: "•";
-    position: absolute;
-    left: -0.5rem;
-    color: var(--accent);
-    font-size: 1.5rem;
-}
-
-.event-date {
-    font-family: 'Source Sans 3', sans-serif;
-    font-weight: 600;
-    color: var(--text-secondary);
-    min-width: 100px;
-}
-
-.case-outcome {
-    font-style: italic;
-    color: var(--text-secondary);
-    margin-top: 2rem;
-    padding-top: 1.5rem;
-    border-top: 1px solid var(--border-light);
-}
-
-/* Era comparison cards */
-.era-comparison {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 2rem;
-    margin-top: 2rem;
-}
-
-.era-card {
-    background: var(--background);
-    border: 1px solid var(--border-light);
-    padding: 2rem;
-}
-
-.era-card h3 {
-    font-size: 1.4rem;
-    margin: 0 0 0.5rem;
-}
-
-.era-stat {
-    font-size: 1.8rem;
-    color: var(--accent);
-    margin: 1rem 0;
-}
-
-/* Genre chart container */
-.genre-chart {
-    margin: 3rem 0;
-    padding: 2rem;
-    background: var(--background-alt);
-    border: 1px solid var(--border-light);
-    min-height: 300px;
-}
-
-/* Studio chart */
-.studio-chart {
-    margin: 3rem 0;
-    padding: 2rem;
-    background: var(--background-alt);
-    border: 1px solid var(--border-light);
-    min-height: 300px;
-}
-
-/* Significance section */
-.significance {
-    margin: 5rem 0;
-}
-
-.significance-content {
-    max-width: 800px;
-    margin: 0 auto;
-}
-
-.significance-points {
-    list-style: none;
-    padding: 0;
-    margin: 2rem 0;
-}
-
-.significance-points li {
-    padding: 1rem 0 1rem 2rem;
-    position: relative;
-    line-height: 1.8;
-}
-
-.significance-points li:before {
-    content: "•";
-    position: absolute;
-    left: 0.5rem;
-    color: var(--text-muted);
-}
-
-.significance-points strong {
-    font-weight: 500;
-    color: var(--text-primary);
-}
-
-/* Responsive */
-@media (max-width: 760px) {
-    .record-cards,
-    .method-cards,
-    .era-comparison {
-        grid-template-columns: 1fr;
-    }
-    
-    .timeline-event {
-        flex-direction: column;
-        gap: 0.5rem;
-    }
-    
-    .event-date {
-        min-width: auto;
-    }
-}
+/* Or better: just add both classes to HTML elements during migration:
+   <div class="hero pattern-hero"> for backwards compatibility */

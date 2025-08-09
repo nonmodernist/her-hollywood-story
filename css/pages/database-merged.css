@@ -253,80 +253,27 @@
     font-style: normal;
     color: var(--text-secondary);
 }
-.work-meta {
-    font-family: 'Source Sans 3', sans-serif;
-    font-size: 1rem;
-    color: var(--text-secondary);
+/* Work list items - extends standardized work-meta with specific margin */
+.work-entry .work-meta {
     margin-top: 0.5rem;
 }
 
 /* --- Grid View Adaptations (SPA) --- */
-.author-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 2rem;
-}
-.author-card {
-    background: var(--background);
-    border: 1px solid var(--border-light);
-    padding: 2rem;
-    text-align: center;
-    cursor: pointer;
-    transition: all 0.2s ease;
-}
-.author-card:hover {
-    border-color: var(--text-primary);
-    transform: translateY(-2px);
-}
-.work-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 2rem;
-}
-.work-card {
-    background: var(--background);
-    border: 1px solid var(--border-light);
-    padding: 1.5rem;
-    cursor: pointer;
-    transition: all 0.2s ease;
-}
-.work-card:hover {
-    border-color: var(--text-primary);
-    transform: translateY(-2px);
-}
+/* Note: Author and work grid views moved to database-unused.css for future implementation */
 
 /* --- Loading States --- */
-.loading-state {
+.loading-state,
+.empty-state {
     text-align: center;
     padding: 4rem 2rem;
+}
+.loading-state {
     color: var(--text-muted);
     font-style: italic;
-}
-.skeleton {
-    background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
-    background-size: 200% 100%;
-    animation: loading 1.5s infinite;
-}
-@keyframes loading {
-    0% { background-position: 200% 0; }
-    100% { background-position: -200% 0; }
-}
-.skeleton-text {
-    height: 1rem;
-    margin: 0.5rem 0;
-    border-radius: 4px;
-}
-.skeleton-title {
-    height: 1.5rem;
-    width: 60%;
-    margin-bottom: 0.5rem;
-    border-radius: 4px;
 }
 
 /* --- Empty State --- */
 .empty-state {
-    text-align: center;
-    padding: 4rem 2rem;
     color: var(--text-secondary);
 }
 .empty-state h3 {
@@ -370,7 +317,9 @@
 }
 
 /* --- Film Detail (SPA) --- */
-.film-detail h1 {
+.film-detail h1,
+.author-detail h1,
+.work-detail h1 {
     margin-top: 0;
     margin-bottom: 0.5rem;
 }
@@ -389,9 +338,18 @@
     border: 1px solid var(--border-light);
     padding: 2rem;
 }
+.detail-section--no-outline {
+    background: var(--background);
+    padding: 2rem;
+}
+
+.detail-section h2 {
+    margin-top: 0;
+}
+
 .detail-section h3 {
     font-size: 1.5rem;
-    margin-top: 0;
+    margin-top: 4rem;
     margin-bottom: 1rem;
     font-style: italic;
 }
@@ -404,10 +362,7 @@
 }
 
 /* --- Author Detail (SPA) --- */
-.author-detail h1 {
-    margin-top: 0;
-    margin-bottom: 0.5rem;
-}
+/* h1 styles consolidated with film-detail and work-detail above */
 .author-lifespan {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 1.1rem;
@@ -422,7 +377,9 @@
     background: var(--background-alt);
     border: 1px solid var(--border-light);
 }
-.works-list {
+.works-list,
+.films-timeline,
+.related-items {
     display: grid;
     gap: 1rem;
 }
@@ -433,42 +390,30 @@
     padding: 0.75rem 0;
     border-bottom: 1px solid var(--border-light);
 }
-.work-item:last-child {
+.work-item:last-child,
+.timeline-item:last-child {
     border-bottom: none;
 }
+/* Standardized work-meta styles - used in author detail work items */
 .work-meta {
     font-family: 'Source Sans 3', sans-serif;
-    font-size: 0.9rem;
-    color: var(--text-muted);
+    font-size: 1rem;
+    color: var(--text-secondary);
 }
-.films-timeline {
-    display: grid;
-    gap: 1rem;
-}
+/* grid styles consolidated with .works-list above */
 .timeline-item {
     display: flex;
     justify-content: space-between;
     padding: 0.75rem 0;
     border-bottom: 1px solid var(--border-light);
 }
-.timeline-item:last-child {
-    border-bottom: none;
-}
-.film-year {
-    font-family: 'Source Sans 3', sans-serif;
-    font-size: 0.9rem;
-    color: var(--text-muted);
-}
+/* last-child border removal consolidated with .work-item:last-child above */
+/* .film-year styles consolidated with .film-item .film-year below */
 
 /* --- Work Detail (SPA) --- */
-.work-detail h1 {
-    margin-top: 0;
-    margin-bottom: 0.5rem;
-}
-.work-meta {
-    font-family: 'Source Sans 3', sans-serif;
-    font-size: 1.1rem;
-    color: var(--text-secondary);
+/* h1 styles consolidated with film-detail and author-detail above */
+/* Work detail page - extends standardized work-meta with specific margin */
+.work-detail .work-meta {
     margin-bottom: 2rem;
 }
 .adaptations-list {
@@ -501,10 +446,7 @@
 }
 
 /* --- Related Items (SPA) --- */
-.related-items {
-    display: grid;
-    gap: 1rem;
-}
+/* grid styles consolidated with .works-list and .films-timeline above */
 .related-item {
     display: block;
     padding: 1rem;
@@ -523,14 +465,8 @@
     margin-bottom: 0.25rem;
 }
 
-/* --- Media Count Indicator (SPA) --- */
-.media-count {
-    font-family: 'Source Sans 3', sans-serif;
-    padding: 0.75rem;
-    background: var(--background-alt);
-    border: 1px solid var(--border-light);
-    text-align: center;
-}
+/* --- Media Count Indicator --- */
+/* Note: Moved to database-unused.css as it's not currently used */
 
 /* --- Responsive --- */
 @media (max-width: 760px) {
@@ -566,8 +502,6 @@
     .view-toggle {
         justify-content: center;
     }
-    .author-grid,
-    .work-grid,
     .film-grid {
         grid-template-columns: 1fr;
     }
@@ -632,7 +566,7 @@
 
 
 .about-author {
-    background: var(--background-alt);
+    /* background: var(--background-alt); */
     padding: 2rem;
 }
 .about-author h3 {
@@ -646,6 +580,7 @@
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-style: normal;
+    font-variant: small-caps;
     font-weight: 600;
     color: var(--text-primary);
     border-bottom: 1px solid var(--border-light);
@@ -654,10 +589,9 @@
 .info-row {
     margin-bottom: 1rem;
     font-size: 1.1rem;
-    background: var(--background);
+    background: var(--background-alt);
     border-left: 3px solid var(--accent);
     padding: 0.75rem 1rem;
-    border-radius: 4px;
 }
 .professional-life p {
     margin: 0.5rem 0;
@@ -684,11 +618,13 @@
 }
 
 /* --- Associations (SPA) --- */
-.associations-section ul {
+.associations-section ul,
+.archival-collections ul {
     margin: 0.75rem 0 0 1.5rem;
     padding: 0;
 }
-.associations-section li {
+.associations-section li,
+.archival-collections li {
     margin: 0.5rem 0;
 }
 
@@ -721,28 +657,8 @@
     color: var(--text-secondary);
 }
 
-/* --- Career Insights (SPA) --- */
-.career-insights {
-    margin-top: 2rem;
-    padding-top: 1.5rem;
-    border-top: 1px solid var(--border-light);
-}
-.career-insights h4 {
-    font-size: 1.2rem;
-    margin-bottom: 0.75rem;
-    font-style: normal;
-}
-.career-insights p {
-    margin: 0.5rem 0;
-}
-
-/* --- Research & Discovery Section (SPA) --- */
-.research-discovery {
-    background: var(--background);
-    border-top: 2px solid var(--border-light);
-    margin-top: 3rem;
-    padding-top: 2rem;
-}
+/* --- Career Insights & Research Discovery --- */
+/* Note: These sections moved to database-unused.css as they're not currently implemented */
 .archival-collections h4,
 .modern-availability h4 {
     font-size: 1.2rem;
@@ -750,13 +666,7 @@
     font-style: normal;
     font-weight: 600;
 }
-.archival-collections ul {
-    margin: 0.75rem 0 0 1.5rem;
-    padding: 0;
-}
-.archival-collections li {
-    margin: 0.5rem 0;
-}
+/* ul and li styles consolidated with .associations-section above */
 .modern-availability {
     margin-top: 2rem;
 }

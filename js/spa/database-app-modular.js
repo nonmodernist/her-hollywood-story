@@ -141,16 +141,16 @@ function renderFilmDetail(film) {
             
             <div class="detail-sections">
                 <section class="detail-section">
-                    <h3>Film Details</h3>
-                    ${film.directors ? `<p><strong>Director(s):</strong> ${formatNameList(film.directors)}</p>` : ''}
-                    ${film.writers ? `<p><strong>Screenwriter(s):</strong> ${formatNameList(film.writers)}</p>` : ''}
+                    <h2>Film Details</h2>
+                    ${film.directors ? `<p><strong>Director:</strong> ${formatNameList(film.directors)}</p>` : ''}
+                    ${film.writers ? `<p><strong>Screenwriter:</strong> ${formatNameList(film.writers)}</p>` : ''}
                     ${film.cast_members ? `<p><strong>Cast:</strong> ${formatNameList(film.cast_members)}</p>` : ''}
                     ${film.genres?.length ? `<p><strong>Genres:</strong> ${film.genres.join(', ')}</p>` : ''}
                 </section>
 
                                 ${film.media?.length ? `
                     <section class="detail-section">
-                        <h3>Media Gallery</h3>
+                        <h2>Media Gallery</h2>
                         <div class="media-gallery">
                             ${film.media.map(media => `
                                 <div class="media-item">
@@ -168,15 +168,13 @@ function renderFilmDetail(film) {
                 ` : ''}
                 
                 <section class="detail-section">
-                    <h3>Source Work</h3>
+                    <h2>Source Work</h2>
                     <p><strong>Title:</strong> <a href="${getDatabaseURL('/work/' + film.source_work.slug)}">${film.source_work.html_title}</a></p>
                     <p><strong>Author:</strong> <a href="${getDatabaseURL('/author/' + film.author.slug)}">${film.author.name}</a></p>
                     ${film.source_work.publication_year ? `<p><strong>Published:</strong> ${film.source_work.publication_year}</p>` : ''}
                     ${film.source_work.year_to_adaptation !== null && film.source_work.year_to_adaptation !== undefined ? `<p><strong>Years to adaptation:</strong> ${film.source_work.year_to_adaptation}</p>` : ''}
-                </section>
                 
                 ${film.other_adaptations?.length ? `
-                    <section class="detail-section">
                         <h3>Other Adaptations of This Work</h3>
                         <div class="related-items">
                             ${film.other_adaptations.map(f => `
@@ -245,16 +243,33 @@ function renderAuthorDetail(author) {
                                  onerror="this.style.display='none'">
                         ` : ''}
                         <div class="bio-content">
-                            <h3>Biography</h3>
+                            <h2>Biography</h2>
                             <p>${author.biographical_notes}</p>
                         </div>
                     </section>
                 ` : ''}
+
+                ${signatureWorks.length > 0 ? `
+                    <section class="detail-section signature-works-section">
+                        <h2>Signature Works</h2>
+                        <div class="signature-works">
+                            ${signatureWorks.map(work => `
+                                <div class="signature-work-card">
+                                    <a href="${getDatabaseURL('/work/' + work.slug)}">${work.html_title}</a>
+                                    <div class="work-details">
+                                        ${work.publication_year || 'Year unknown'} • ${work.adaptation_count} adaptation${work.adaptation_count !== 1 ? 's' : ''}
+                                    </div>
+                                </div>
+                            `).join('')}
+                        </div>
+                        
+                    </section>
+                ` : ''}
                 
                 ${(alternativeNames.length > 0 || author.education || occupations.length > 0 || 
-                   author.major_awards || author.literary_movement || themes.length > 0 || associations.length > 0) ? `
+                   author.major_awards || author.literary_movement || themes.length > 0 || associations.length > 0 || archives.length > 0 || author.modern_availability) ? `
                     <section class="detail-section about-author">
-                        <h3>About ${author.name}</h3>
+                        <h2>Author Details</h2>
                         
                         ${alternativeNames.length > 0 ? `
                             <div class="info-row">
@@ -287,38 +302,14 @@ function renderAuthorDetail(author) {
                                 <p>${associations.join(', ')}</p>
                             </div>
                         ` : ''}
-                    </section>
-                ` : ''}
-                
-                ${signatureWorks.length > 0 ? `
-                    <section class="detail-section signature-works-section">
-                        <h3>Signature Works</h3>
-                        
-                        <div class="signature-works">
-                            ${signatureWorks.map(work => `
-                                <div class="signature-work-card">
-                                    <a href="${getDatabaseURL('/work/' + work.slug)}">${work.html_title}</a>
-                                    <div class="work-details">
-                                        ${work.publication_year || 'Year unknown'} • ${work.adaptation_count} adaptation${work.adaptation_count !== 1 ? 's' : ''}
-                                    </div>
-                                </div>
-                            `).join('')}
-                        </div>
-                        
-                    </section>
-                ` : ''}
-                
-                ${(archives.length > 0 || author.modern_availability) ? `
-                    <section class="detail-section research-discovery">
-                        <h3>Research & Discovery</h3>
-                        
+
                         ${archives.length > 0 ? `
                             <div class="archival-collections">
                                 <h4>Archival Collections</h4>
                                 <p>${archives.join(', ')}</p>
                             </div>
                         ` : ''}
-                        
+
                         ${author.modern_availability ? `
                             <div class="modern-availability">
                                 <h4>Modern Availability</h4>
@@ -329,7 +320,7 @@ function renderAuthorDetail(author) {
                 ` : ''}
                 
                 <section class="detail-section">
-                    <h3>Adapted Works</h3>
+                    <h2>Adapted Works</h2>
                     <div class="works-list">
                         ${author.adapted_works.map(work => `
                             <div class="work-item">
@@ -341,12 +332,12 @@ function renderAuthorDetail(author) {
                 </section>
                 
                 <section class="detail-section">
-                    <h3>Films</h3>
+                    <h2>Films</h2>
                     <div class="films-timeline">
                         ${author.films.map(film => `
                             <div class="timeline-item">
                                 <a href="${getDatabaseURL('/film/' + film.slug)}">${film.html_title}</a>
-                                <span class="film-year">${film.year || 'Unknown'}</span>
+                                <span class="work-meta">${film.year || 'Unknown'}</span>
                             </div>
                         `).join('')}
                     </div>
@@ -371,14 +362,14 @@ function renderWorkDetail(work) {
             <div class="detail-sections">
                 ${work.plot_summary ? `
                     <section class="detail-section">
-                        <h3>Plot Summary</h3>
+                        <h2>Plot Summary</h2>
                         <p>${work.plot_summary}</p>
                     </section>
                 ` : ''}
                 
                 ${work.literary_significance ? `
                     <section class="detail-section">
-                        <h3>Literary Significance</h3>
+                        <h2>Literary Significance</h2>
                         <p>${work.literary_significance}</p>
                     </section>
                 ` : ''}
@@ -386,7 +377,7 @@ function renderWorkDetail(work) {
                 <!-- Magazine Publication Section -->
                 ${work.magazine_publication ? `
                     <section class="detail-section">
-                        <h3>Original Publication</h3>
+                        <h2>Original Publication</h2>
                         <p><strong>${work.magazine_publication.magazine_title}</strong>${work.magazine_publication.magazine_pub_date ? ` · ${formatMagazineDate(work.magazine_publication.magazine_pub_date)}` : ''}</p>
                         
                         ${work.magazine_publication.magazine_issue_info ?
@@ -424,7 +415,7 @@ function renderWorkDetail(work) {
                 <!-- External Book Links Section -->
                 ${work.external_urls && work.external_urls.length > 0 ? `
                     <section class="detail-section">
-                        <h3>Read the Book</h3>
+                        <h2>Read the Book</h2>
                         ${(() => {
                             // Sort by priority
                             const sortedUrls = work.external_urls.sort((a, b) => a.priority - b.priority);
@@ -462,13 +453,13 @@ function renderWorkDetail(work) {
                 <!-- Photoplay Edition Section (simplified for now) -->
                 ${work.has_photoplay_edition ? `
                     <section class="detail-section">
-                        <h3>Photoplay Edition</h3>
+                        <h2>Photoplay Edition</h2>
                         <p class="photoplay-note">A photoplay edition of this work was published. More details coming soon!</p>
                     </section>
                 ` : ''}
                 
                     <section class="detail-section">
-                    <h3>Film Adaptation${work.stats.adaptation_count > 1 ? 's' : ''} (${work.stats.adaptation_count})</h3>
+                    <h2>Film Adaptation${work.stats.adaptation_count > 1 ? 's' : ''} (${work.stats.adaptation_count})</h2>
                     <div class="adaptations-list">
                         ${work.adaptations.map((film, index) => `
                             <div class="adaptation-item">

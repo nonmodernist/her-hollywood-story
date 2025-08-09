@@ -211,6 +211,7 @@
 .media-indicator {
     color: var(--text-muted);
     margin-left: 0.5rem;
+    font-size: 1rem;
 }
 
 /* --- Author List Items (SPA) --- */

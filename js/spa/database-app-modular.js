@@ -109,9 +109,7 @@ function renderDetailView(type, data) {
     const basePath = window.location.pathname.split('/database/')[0] + '/database';
 
     let html = `
-        <div class="detail-header">
-            <a href="javascript:history.back()" class="back-link font-sans">← Back to ${capitalizeFirst(type)}s</a>
-        </div>
+        
     `;
 
     switch (type) {
@@ -178,9 +176,10 @@ function renderFilmDetail(film) {
                         <h3>Other Adaptations of This Work</h3>
                         <div class="related-items">
                             ${film.other_adaptations.map(f => `
-                                <a href="${getDatabaseURL('/film/' + f.slug)}" class="related-item">
-                                    <strong>${f.html_title}</strong> (${f.year || 'Unknown'})
-                                </a>
+                                <div class="related-item">
+                                    <a href="${getDatabaseURL('/film/' + f.slug)}">${f.html_title}</a>
+                                    <span class="work-meta font-sans">${f.year || 'Unknown'}</span>
+                                </div>
                             `).join('')}
                         </div>
                     </section>

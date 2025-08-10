@@ -92,10 +92,41 @@
     text-align: center;
 }
 
+/* --- Unused Detail Section Variant --- */
+.detail-section--no-outline {
+    background: var(--background);
+    padding: 2rem;
+}
+
+/* --- Films Grid (currently unused, film-grid is used instead) --- */
+.films-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.5rem;
+    padding: 1rem 0;
+}
+
 /* --- Responsive adjustments for unused grid views --- */
 @media (max-width: 760px) {
     .author-grid,
     .work-grid {
         grid-template-columns: 1fr;
+    }
+}
+@media (max-width: 1200px) {
+    .films-grid {
+        grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    }
+}
+@media (max-width: 768px) {
+    .films-grid {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 1rem;
+    }
+}
+@media (max-width: 480px) {
+    .films-grid {
+        grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+        gap: 0.75rem;
     }
 }

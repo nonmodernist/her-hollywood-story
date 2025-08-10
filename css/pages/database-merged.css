@@ -171,6 +171,8 @@
     min-height: 400px;
 }
 
+/* --- Pattern A: Browse Lists (Main database - DO NOT MODIFY) --- */
+/* These styles are working well and should remain unchanged */
 /* --- Film List (Default View) --- */
 .film-list {
     margin: 2rem 0;
@@ -336,11 +338,6 @@
     border: 1px solid var(--border-light);
     padding: 2rem;
 }
-.detail-section--no-outline {
-    background: var(--background);
-    padding: 2rem;
-}
-
 .detail-section h2 {
     margin-top: 0;
 }
@@ -361,7 +358,7 @@
 
 /* --- Author Detail (SPA) --- */
 /* h1 styles consolidated with film-detail and work-detail above */
-.author-lifespan {
+.author-lifespan, .detail-meta {
     font-size: 1.1rem;
     color: var(--text-secondary);
     margin-bottom: 2rem;
@@ -374,37 +371,29 @@
     background: var(--background-alt);
     border: 1px solid var(--border-light);
 }
-.works-list,
-.films-timeline,
-.related-items {
-    display: grid;
-    gap: 1rem;
-}
-.work-item {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    padding: 0.75rem 0;
-    border-bottom: 1px solid var(--border-light);
-}
-.work-item:last-child,
-.timeline-item:last-child {
-    border-bottom: none;
-}
-/* Standardized work-meta styles - used in author detail work items */
-.work-meta {
-    font-size: 1rem;
-    color: var(--text-secondary);
-}
-/* grid styles consolidated with .works-list above */
+/* Work items and timeline items - flex layout for title/metadata */
+.work-item,
 .timeline-item {
     display: flex;
     justify-content: space-between;
-    padding: 0.75rem 0;
-    border-bottom: 1px solid var(--border-light);
+    align-items: baseline;
 }
-/* last-child border removal consolidated with .work-item:last-child above */
-/* .film-year styles consolidated with .film-item .film-year below */
+
+/* Ensure consistent italic styling for film/work titles in reference lists */
+.work-item a,
+.timeline-item a,
+.adaptation-info a,
+.related-item strong {
+    font-style: italic;
+}
+/* Standardized metadata styles for all reference lists */
+.work-meta,
+.adaptation-details {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    font-style: normal;
+}
+/* Timeline and work list specific adjustments handled by Pattern B above */
 
 /* --- Work Detail (SPA) --- */
 /* h1 styles consolidated with film-detail and author-detail above */
@@ -412,16 +401,10 @@
 .work-detail .work-meta {
     margin-bottom: 2rem;
 }
-.adaptations-list {
-    display: grid;
-    gap: 1.5rem;
-}
+/* Adaptation items - special layout with number indicator */
 .adaptation-item {
     display: flex;
     gap: 1rem;
-    padding: 1rem;
-    background: var(--background-alt);
-    border: 1px solid var(--border-light);
 }
 .adaptation-number {
     font-size: 1.5rem;
@@ -434,29 +417,40 @@
     flex: 1;
 }
 .adaptation-details {
-    font-size: 0.9rem;
-    color: var(--text-secondary);
     margin-top: 0.25rem;
 }
 
-/* --- Related Items (SPA) --- */
-/* grid styles consolidated with .works-list and .films-timeline above */
+/* --- Pattern B: Reference Lists (Secondary lists within detail pages) --- */
+/* Standardized styles for all reference lists on detail pages */
+.related-items,
+.adaptations-list,
+.films-timeline,
+.works-list {
+    display: grid;
+    gap: 1rem;
+}
+
+/* Individual list items - consistent structure */
+.related-item,
+.adaptation-item,
+.timeline-item,
+.work-item {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--border-light);
+}
+
+.related-item:last-child,
+.adaptation-item:last-child,
+.timeline-item:last-child,
+.work-item:last-child {
+    border-bottom: none;
+}
+
+/* Related items now match timeline items structure */
 .related-item {
-    display: block;
-    padding: 1rem;
-    background: var(--background-alt);
-    border: 1px solid var(--border-light);
-    text-decoration: none;
-    color: var(--text-primary);
-    transition: all 0.2s ease;
-}
-.related-item:hover {
-    border-color: var(--text-primary);
-    transform: translateY(-1px);
-}
-.related-item strong {
-    display: block;
-    margin-bottom: 0.25rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 /* --- Media Count Indicator --- */

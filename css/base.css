@@ -268,6 +268,10 @@ label {
     margin-right: -12.5%;
 }
 
+.font-sans {
+    font-family: 'Source Sans 3', sans-serif;
+}
+
 /* Footer */
 .site-footer {
     margin-top: 6rem;
@@ -286,7 +290,6 @@ label {
     padding: 1.5rem;
     background: var(--background-alt);
     border: 1px solid var(--border-light);
-    border-radius: 4px;
 }
 
 .citation-box h4 {
@@ -313,7 +316,6 @@ label {
     padding: 0.4rem 1rem;
     background: white;
     border: 1px solid var(--border-medium);
-    border-radius: 3px;
     font-family: 'Source Sans 3', sans-serif;
     font-size: 0.85rem;
     color: var(--text-secondary);
@@ -367,16 +369,6 @@ figure.fullwidth {
 
 figure.fullwidth img {
     width: 100%;
-}
-
-/* Margin figures (Tufte-style sidenotes for images) */
-figure.margin {
-    float: right;
-    clear: right;
-    width: 50%;
-    margin-right: -60%;
-    margin-top: 0;
-    margin-bottom: 1.4rem;
 }
 
 /* Figure captions */
@@ -583,12 +575,6 @@ figure.loading img {
     }
     
     /* Image and figure mobile adjustments */
-    figure.margin {
-        float: none;
-        width: 100%;
-        margin-right: 0;
-        margin-left: 0;
-    }
     
     figure.fullwidth {
         margin-left: -5%;

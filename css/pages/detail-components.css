@@ -1,0 +1,73 @@
+/* NEW components for styling detail views in the SPA */
+
+/* Starting from the top of each detail view */
+
+/* Main class - replaces film-detail, author-detail, and work-detail */
+/* --- Detail View Styles (SPA) - relocated from database-merged.css --- */
+.detail-view {
+    margin: 2rem 0;
+}
+.detail-header {
+    margin-bottom: 2rem;
+}
+.detail-view h1 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+/* detail-subtitle replaces film-meta, author-lifespan, and work-meta */
+.detail-subtitle {
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+    margin-bottom: 2rem;
+    line-height: 1.6;
+}
+/* Detail section styling for all detail views */
+.detail-sections {
+    display: grid;
+    gap: 2rem;
+}
+.detail-section {
+    background: var(--background);
+    border: 1px solid var(--border-light);
+    padding: 2rem;
+}
+.detail-section h2 {
+    margin-top: 0;
+}
+.detail-section h3 {
+    margin-top: 4rem;
+}
+.detail-section p {
+    margin: 0.75rem 0;
+}
+.detail-section strong {
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+/* Lists of films and works */
+
+/* List containers to replace .related-items, .adaptations-list, .films-timeline, .works-list*/
+.relation-list {     
+    display: grid;
+    gap: 1rem;
+}
+/* List items replace .related-item, .adaptation-item, .timeline-item, .work-item*/
+.relation-list__item {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--border-light);
+    display: flex;
+    gap: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.relation-list__item:last-child {
+    border-bottom: none;
+}
+/* replaces work-meta and adaptation-details */
+.relation-list__meta { 
+    font-size: 1rem;
+    color: var(--text-secondary);
+    font-style: normal;
+}

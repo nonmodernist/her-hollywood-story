@@ -1,10 +1,5 @@
 /* database-merged.css - Consolidated styles for Her Hollywood Story Database & SPA */
 
-/* --- Utility Classes --- */
-.font-sans {
-    font-family: 'Source Sans 3', sans-serif;
-}
-
 /* --- Database Intro Section --- */
 .database-intro {
     margin: 2rem 0 3rem;
@@ -255,9 +250,9 @@
 .work-author {
     font-style: normal;
     color: var(--text-secondary);
+    font-size: 1.25rem;
 }
-/* Work list items - extends standardized work-meta with specific margin */
-.work-entry .work-meta {
+.work-entry .entry-meta {
     margin-top: 0.5rem;
 }
 
@@ -296,74 +291,10 @@
     margin-top: 1rem;
 }
 
-/* --- Detail View Styles (SPA) --- */
-.detail-view {
-    margin: 2rem 0;
-}
-.detail-header {
-    margin-bottom: 2rem;
-}
-.back-link {
-    font-size: 1rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: var(--text-secondary);
-    text-decoration: none;
-    display: inline-flex;
-    align-items: center;
-    transition: color 0.2s ease;
-}
-.back-link:hover {
-    color: var(--text-primary);
-}
-
-/* --- Film Detail (SPA) --- */
-.film-detail h1,
-.author-detail h1,
-.work-detail h1 {
-    margin-top: 0;
-    margin-bottom: 0.5rem;
-}
-.film-meta {
-    font-size: 1.1rem;
-    color: var(--text-secondary);
-    margin-bottom: 2rem;
-}
-.detail-sections {
-    display: grid;
-    gap: 2rem;
-}
-.detail-section {
-    background: var(--background);
-    border: 1px solid var(--border-light);
-    padding: 2rem;
-}
-.detail-section h2 {
-    margin-top: 0;
-}
-
-.detail-section h3 {
-    font-size: 1.5rem;
-    margin-top: 4rem;
-    margin-bottom: 1rem;
-    font-style: italic;
-}
-.detail-section p {
-    margin: 0.75rem 0;
-}
-.detail-section strong {
-    font-weight: 500;
-    color: var(--text-primary);
-}
 
 /* --- Author Detail (SPA) --- */
-/* h1 styles consolidated with film-detail and work-detail above */
-.author-lifespan, .detail-meta {
-    font-size: 1.1rem;
-    color: var(--text-secondary);
-    margin-bottom: 2rem;
-}
-.author-stats-bar {
+/* stat-number and stat-label defined in base.css */
+.stats-bar {
     display: flex;
     gap: 3rem;
     margin: 2rem 0;
@@ -371,41 +302,9 @@
     background: var(--background-alt);
     border: 1px solid var(--border-light);
 }
-/* Work items and timeline items - flex layout for title/metadata */
-.work-item,
-.timeline-item {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-}
-
-/* Ensure consistent italic styling for film/work titles in reference lists */
-.work-item a,
-.timeline-item a,
-.adaptation-info a,
-.related-item strong {
-    font-style: italic;
-}
-/* Standardized metadata styles for all reference lists */
-.work-meta,
-.adaptation-details {
-    font-size: 1rem;
-    color: var(--text-secondary);
-    font-style: normal;
-}
-/* Timeline and work list specific adjustments handled by Pattern B above */
 
 /* --- Work Detail (SPA) --- */
-/* h1 styles consolidated with film-detail and author-detail above */
-/* Work detail page - extends standardized work-meta with specific margin */
-.work-detail .work-meta {
-    margin-bottom: 2rem;
-}
-/* Adaptation items - special layout with number indicator */
-.adaptation-item {
-    display: flex;
-    gap: 1rem;
-}
+
 .adaptation-number {
     font-size: 1.5rem;
     font-weight: 600;
@@ -418,39 +317,6 @@
 }
 .adaptation-details {
     margin-top: 0.25rem;
-}
-
-/* --- Pattern B: Reference Lists (Secondary lists within detail pages) --- */
-/* Standardized styles for all reference lists on detail pages */
-.related-items,
-.adaptations-list,
-.films-timeline,
-.works-list {
-    display: grid;
-    gap: 1rem;
-}
-
-/* Individual list items - consistent structure */
-.related-item,
-.adaptation-item,
-.timeline-item,
-.work-item {
-    padding: 0.75rem 0;
-    border-bottom: 1px solid var(--border-light);
-}
-
-.related-item:last-child,
-.adaptation-item:last-child,
-.timeline-item:last-child,
-.work-item:last-child {
-    border-bottom: none;
-}
-
-/* Related items now match timeline items structure */
-.related-item {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
 }
 
 /* --- Media Count Indicator --- */
@@ -493,15 +359,14 @@
     .film-grid {
         grid-template-columns: 1fr;
     }
-    .author-stats-bar {
+    .stats-bar {
         flex-direction: column;
         gap: 1.5rem;
     }
     .detail-section {
         padding: 1.5rem;
     }
-    .work-item,
-    .timeline-item {
+    .relation-list__item {
         flex-direction: column;
         align-items: flex-start;
     }
@@ -528,30 +393,6 @@
 .bio-content {
     flex: 1;
 }
-
-/* --- About Author Section (SPA) --- */
-/* .about-author {
-    background: var(--background-alt);
-    padding: 2rem;
-}
-.about-author h3 {
-    margin-bottom: 1.5rem;
-}
-.about-author h4 {
-    font-size: 1.2rem;
-    margin-top: 1.5rem;
-    margin-bottom: 0.75rem;
-    font-style: normal;
-    font-weight: 600;
-}
-.info-row {
-    margin-bottom: 1rem;
-    font-size: 1.1rem;
-}
-.professional-life p {
-    margin: 0.5rem 0;
-} */
-
 
 .about-author {
     /* background: var(--background-alt); */
@@ -708,16 +549,6 @@
     letter-spacing: 0.05em;
 }
 
-/* --- Adaptation Statistics (SPA) --- */
-.adaptation-stats {
-    margin-top: 1rem;
-    font-size: 0.95rem;
-    color: var(--text-secondary);
-    text-align: center;
-    padding-top: 1rem;
-    border-top: 1px solid var(--border-light);
-}
-
 /* --- Archive Links Styling (SPA) --- */
 .archive-links {
     margin-top: 1.5rem;
@@ -742,9 +573,10 @@
     content: "🔗 ";
     margin-right: 0.25rem;
     filter: grayscale(100%);
+    text-decoration: none;
 }
 
-/* --- Media Gallery Styling (SPA) --- */
+/* --- Media Gallery Styling (SPA) LEAVE AS IS, can be reused on other detail pages --- */
 .media-gallery {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -773,19 +605,16 @@
 .media-item a:hover img {
     border-color: var(--border-medium);
 }
-.media-caption {
-    font-size: 0.9rem;
-    line-height: 1.4;
-}
 .media-caption p {
     color: var(--text-secondary);
     margin: 0.5rem 0 0.75rem 0;
-    font-size: 0.85rem;
+    font-size: 1rem;
     line-height: 1.3;
 }
+
 .media-caption small {
     display: block;
-    font-size: 0.8rem;
+    font-size: 0.85rem;
     color: var(--text-muted);
     font-style: italic;
     margin-top: 0.25rem;

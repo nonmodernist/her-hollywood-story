@@ -11,9 +11,10 @@
     line-height: 1.3;
     font-style: normal;
     margin-bottom: 2rem;
-    max-width: 900px;
+    max-width: 800px;
     margin-left: auto;
     margin-right: auto;
+    orphans: 3;
 }
 
 .hero-intro {
@@ -82,11 +83,27 @@
     background: var(--background);
     border: 1px solid var(--border-light);
     padding: 2.5rem;
-    transition: border-color 0.3s ease;
+    text-decoration: none;
+    color: var(--text-primary);
+    transition: all 0.3s ease;
+    display: block;
 }
 
 .pattern-card:hover {
     border-color: var(--text-primary);
+    transform: translateY(-2px);
+}
+
+.pattern-card:hover h3 {
+    color: var(--accent-color);
+}
+
+.pattern-card .pattern-stat {
+    color: var(--text-muted);
+}
+
+.pattern-card p:not(.pattern-stat) {
+    color: var(--text-secondary);
 }
 
 .pattern-card h3 {

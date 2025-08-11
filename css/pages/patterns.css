@@ -331,6 +331,7 @@
 
 .viz--tall {
     min-height: 400px;
+    max-height: 700px;
 }
 
 .viz--compact {

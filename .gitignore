@@ -1,6 +1,9 @@
 # big file
 data/database/enhanced-database.json
 
+# template file
+patterns/_pattern-template.html
+
 # Backend directory - GitHub Pages ignores underscore folders
 _backend/
 
@@ -25,7 +28,6 @@ node_modules/
 
 
 # Temporary and archive folders
-_WEBSITE_TEMP/
 _archive/
 *.backup
 *.tmp

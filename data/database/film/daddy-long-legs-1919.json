@@ -10,7 +10,7 @@
   "genres": [
     "Comedy"
   ],
-  "studio": "Mary Pickford Productions",
+  "studio": "Mary Pickford",
   "production_companies": "Mary Pickford Co.",
   "distribution_companies": "First National Exhibitors' Circuit, Inc.",
   "directors": "Marshall A. Neilan",
@@ -80,32 +80,6 @@
   },
   "media": [
     {
-      "id": 2454,
-      "media_type": "poster",
-      "title": "Daddy-Long-Legs (1919) - Poster",
-      "caption": "Theatrical poster for Daddy-Long-Legs (1919)",
-      "url": "https://image.tmdb.org/t/p/original/m3CF9lgC1mH1NWft43tgmyyOEdm.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/m3CF9lgC1mH1NWft43tgmyyOEdm.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/70801",
-      "license": "fair_use",
-      "attribution": "Mary Pickford Productions",
-      "is_featured": "False"
-    },
-    {
-      "id": 2455,
-      "media_type": "poster",
-      "title": "Daddy-Long-Legs (1919) - Poster",
-      "caption": "Theatrical poster for Daddy-Long-Legs (1919)",
-      "url": "https://image.tmdb.org/t/p/original/fs4gPBkTfbvFdINoSr6kHKDPGU7.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/fs4gPBkTfbvFdINoSr6kHKDPGU7.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/70801",
-      "license": "fair_use",
-      "attribution": "Mary Pickford Productions",
-      "is_featured": "False"
-    },
-    {
       "id": 2456,
       "media_type": "still",
       "title": "Daddy-Long-Legs (1919) - Still",
@@ -142,32 +116,6 @@
       "source_url": "https://www.themoviedb.org/movie/70801",
       "license": "fair_use",
       "attribution": "Mary Pickford Productions",
-      "is_featured": "False"
-    },
-    {
-      "id": 93,
-      "media_type": "still",
-      "title": "Daddy-Long-Legs (1919) - 20.jpg",
-      "caption": "Still from the American film Daddy-Long-Legs (1919) with Mary Pickford and unidentified child actor, on page 33 of the June 7, 1919 Exhibitors Herald. The caption has this dialog: Pickford: \"This hurts me more'n it does you.\" Pantless one: \"Yes, but not in the same place.\"",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Daddy-Long-Legs_%281919%29_-_20.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Daddy-Long-Legs_%281919%29_-_20.jpg/300px-Daddy-Long-Legs_%281919%29_-_20.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Daddy-Long-Legs_(1919)_-_20.jpg",
-      "license": "public_domain",
-      "attribution": "First National Pictures",
-      "is_featured": "False"
-    },
-    {
-      "id": 94,
-      "media_type": "advertisement",
-      "title": "Daddy-Long-Legs (1919) - 22.jpg",
-      "caption": "Advertisement for the American film Daddy-Long-Legs (1919) with Mary Pickford, on page 4 of the June 21, 1919 Exhibitors Herald.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Daddy-Long-Legs_%281919%29_-_22.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Daddy-Long-Legs_%281919%29_-_22.jpg/300px-Daddy-Long-Legs_%281919%29_-_22.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Daddy-Long-Legs_(1919)_-_22.jpg",
-      "license": "public_domain",
-      "attribution": "First National Pictures",
       "is_featured": "False"
     },
     {
@@ -260,10 +208,49 @@
       "license": "public_domain",
       "attribution": "First National Pictures",
       "is_featured": "False"
+    },
+    {
+      "id": 93,
+      "media_type": "still",
+      "title": "Daddy-Long-Legs (1919) - 20.jpg",
+      "caption": "Still from the American film Daddy-Long-Legs (1919) with Mary Pickford and unidentified child actor, on page 33 of the June 7, 1919 Exhibitors Herald. The caption has this dialog: Pickford: \"This hurts me more'n it does you.\" Pantless one: \"Yes, but not in the same place.\"",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Daddy-Long-Legs_%281919%29_-_20.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Daddy-Long-Legs_%281919%29_-_20.jpg/300px-Daddy-Long-Legs_%281919%29_-_20.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Daddy-Long-Legs_(1919)_-_20.jpg",
+      "license": "public_domain",
+      "attribution": "First National Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 94,
+      "media_type": "advertisement",
+      "title": "Daddy-Long-Legs (1919) - 22.jpg",
+      "caption": "Advertisement for the American film Daddy-Long-Legs (1919) with Mary Pickford, on page 4 of the June 21, 1919 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Daddy-Long-Legs_%281919%29_-_22.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Daddy-Long-Legs_%281919%29_-_22.jpg/300px-Daddy-Long-Legs_%281919%29_-_22.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Daddy-Long-Legs_(1919)_-_22.jpg",
+      "license": "public_domain",
+      "attribution": "First National Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2455,
+      "media_type": "poster",
+      "title": "Daddy-Long-Legs (1919) - Poster",
+      "caption": "Poster for Daddy-Long-Legs (1919)",
+      "url": "https://image.tmdb.org/t/p/original/fs4gPBkTfbvFdINoSr6kHKDPGU7.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/fs4gPBkTfbvFdINoSr6kHKDPGU7.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/70801",
+      "license": "fair_use",
+      "attribution": "Mary Pickford Productions",
+      "is_featured": "True"
     }
   ],
   "has_media": true,
-  "media_count": 14,
+  "media_count": 13,
   "has_narrative": false,
-  "last_updated": "2025-08-10T20:42:17.043782"
+  "last_updated": "2025-08-11T14:35:06.03697"
 }

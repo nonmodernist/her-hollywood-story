@@ -10,7 +10,7 @@
   "genres": [
     "Drama"
   ],
-  "studio": "Mary Pickford Productions",
+  "studio": "Mary Pickford",
   "production_companies": "Mary Pickford Film Corp.",
   "distribution_companies": "Artcraft Pictures Corp.",
   "directors": "Marshall Neilan",
@@ -84,45 +84,6 @@
       "is_featured": "True"
     },
     {
-      "id": 41,
-      "media_type": "poster",
-      "title": "Rebecca of Sunnybrook Farm 1917 poster.jpg",
-      "caption": "Poster for the 1917 film Rebecca of Sunnybrook Farm.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Rebecca_of_Sunnybrook_Farm_1917_poster.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rebecca_of_Sunnybrook_Farm_1917_poster.jpg/300px-Rebecca_of_Sunnybrook_Farm_1917_poster.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Rebecca_of_Sunnybrook_Farm_1917_poster.jpg",
-      "license": "public_domain",
-      "attribution": "Artcraft",
-      "is_featured": "True"
-    },
-    {
-      "id": 2481,
-      "media_type": "poster",
-      "title": "Rebecca of Sunnybrook Farm (1917) - Poster",
-      "caption": "Poster for Rebecca of Sunnybrook Farm (1917)",
-      "url": "https://image.tmdb.org/t/p/original/nmymxaZK1IfVG1U7K7lIUoGqDm5.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/nmymxaZK1IfVG1U7K7lIUoGqDm5.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/36822",
-      "license": "fair_use",
-      "attribution": "Mary Pickford Productions",
-      "is_featured": "True"
-    },
-    {
-      "id": 2484,
-      "media_type": "poster",
-      "title": "Rebecca of Sunnybrook Farm (1917) - Poster",
-      "caption": "Theatrical poster for Rebecca of Sunnybrook Farm (1917)",
-      "url": "https://image.tmdb.org/t/p/original/6KQXEuZJUPDEOTzfBjsZ9eXj2jb.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/6KQXEuZJUPDEOTzfBjsZ9eXj2jb.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/36822",
-      "license": "fair_use",
-      "attribution": "Mary Pickford Productions",
-      "is_featured": "False"
-    },
-    {
       "id": 2485,
       "media_type": "still",
       "title": "Rebecca of Sunnybrook Farm (1917) - Still",
@@ -175,17 +136,43 @@
       "is_featured": "False"
     },
     {
-      "id": 38,
-      "media_type": "advertisement",
-      "title": "Rebecca of Sunnybrook Farm (1917) - 3.jpg",
-      "caption": "Advertisement for the 1920 reissue of the American film Rebecca of Sunnybrook Farm (1917) with Mary Pickford, on page 2 (inside front cover) of the June 12, 1920 Exhibitors Herald.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Rebecca_of_Sunnybrook_Farm_%281917%29_-_3.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Rebecca_of_Sunnybrook_Farm_%281917%29_-_3.jpg/300px-Rebecca_of_Sunnybrook_Farm_%281917%29_-_3.jpg",
+      "id": 2484,
+      "media_type": "poster",
+      "title": "Rebecca of Sunnybrook Farm (1917) - Poster",
+      "caption": "Poster for Rebecca of Sunnybrook Farm (1917)",
+      "url": "https://image.tmdb.org/t/p/original/6KQXEuZJUPDEOTzfBjsZ9eXj2jb.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/6KQXEuZJUPDEOTzfBjsZ9eXj2jb.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/36822",
+      "license": "fair_use",
+      "attribution": "Mary Pickford Productions",
+      "is_featured": "True"
+    },
+    {
+      "id": 41,
+      "media_type": "poster",
+      "title": "Rebecca of Sunnybrook Farm 1917 poster.jpg",
+      "caption": "Poster for the 1917 film Rebecca of Sunnybrook Farm.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Rebecca_of_Sunnybrook_Farm_1917_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rebecca_of_Sunnybrook_Farm_1917_poster.jpg/300px-Rebecca_of_Sunnybrook_Farm_1917_poster.jpg",
       "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Rebecca_of_Sunnybrook_Farm_(1917)_-_3.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rebecca_of_Sunnybrook_Farm_1917_poster.jpg",
       "license": "public_domain",
-      "attribution": "Artcraft Pictures Corporation",
-      "is_featured": "False"
+      "attribution": "Artcraft",
+      "is_featured": "True"
+    },
+    {
+      "id": 2481,
+      "media_type": "poster",
+      "title": "Rebecca of Sunnybrook Farm (1917) - Poster",
+      "caption": "Poster for Rebecca of Sunnybrook Farm (1917)",
+      "url": "https://image.tmdb.org/t/p/original/nmymxaZK1IfVG1U7K7lIUoGqDm5.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/nmymxaZK1IfVG1U7K7lIUoGqDm5.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/36822",
+      "license": "fair_use",
+      "attribution": "Mary Pickford Productions",
+      "is_featured": "True"
     },
     {
       "id": 39,
@@ -212,10 +199,23 @@
       "license": "public_domain",
       "attribution": "Mary Pickford Company / Artcraft Pictures Corporation",
       "is_featured": "False"
+    },
+    {
+      "id": 38,
+      "media_type": "advertisement",
+      "title": "Rebecca of Sunnybrook Farm (1917) - 3.jpg",
+      "caption": "Advertisement for the 1920 reissue of the American film Rebecca of Sunnybrook Farm (1917) with Mary Pickford, on page 2 (inside front cover) of the June 12, 1920 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Rebecca_of_Sunnybrook_Farm_%281917%29_-_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Rebecca_of_Sunnybrook_Farm_%281917%29_-_3.jpg/300px-Rebecca_of_Sunnybrook_Farm_%281917%29_-_3.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rebecca_of_Sunnybrook_Farm_(1917)_-_3.jpg",
+      "license": "public_domain",
+      "attribution": "Artcraft Pictures Corporation",
+      "is_featured": "False"
     }
   ],
   "has_media": true,
   "media_count": 11,
   "has_narrative": false,
-  "last_updated": "2025-08-10T20:32:31.75795"
+  "last_updated": "2025-08-11T14:34:52.352966"
 }

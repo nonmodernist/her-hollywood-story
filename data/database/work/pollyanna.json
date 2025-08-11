@@ -5,7 +5,7 @@
   "formatted_title": "Pollyanna",
   "html_title": "<span class=\"work-title\">Pollyanna</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1913,
   "plot_summary": null,
   "literary_significance": null,
   "attribution_notes": null,
@@ -24,8 +24,8 @@
     "average_gap_between_adaptations": 40
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 7,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -36,13 +36,13 @@
       "title": "Pollyanna",
       "html_title": "<span class=\"film-title\">Pollyanna</span>",
       "year": 1920,
-      "studio": "Mary Pickford Productions",
+      "studio": "Mary Pickford",
       "directors": "Paul Powell",
       "genres": [
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 1920
+      "years_after_publication": 7
     },
     {
       "id": 882,
@@ -56,7 +56,7 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 1960
+      "years_after_publication": 47
     }
   ],
   "adaptation_gaps": [
@@ -89,5 +89,5 @@
     "viaf_id": 317292564
   },
   "has_narrative": false,
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-11T03:18:48.720954"
 }

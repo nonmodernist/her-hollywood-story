@@ -10,7 +10,7 @@
   "genres": [
     "Drama"
   ],
-  "studio": "Mary Pickford Productions",
+  "studio": "Mary Pickford",
   "production_companies": "Mary Pickford Co.",
   "distribution_companies": "United Artists Corp.",
   "directors": "Paul Powell",
@@ -27,11 +27,11 @@
     "formatted_title": "Pollyanna",
     "html_title": "<span class=\"work-title\">Pollyanna</span>",
     "work_type": "novel",
-    "publication_year": null,
+    "publication_year": 1913,
     "plot_summary": null,
     "literary_significance": null,
     "adaptation_count": 2,
-    "year_to_adaptation": 1920
+    "year_to_adaptation": 7
   },
   "author": {
     "id": 400,
@@ -65,7 +65,7 @@
       "id": 4752,
       "media_type": "poster",
       "title": "Pollyanna (1920) - Poster",
-      "caption": "Theatrical poster for Pollyanna (1920)",
+      "caption": "Poster for Pollyanna (1920)",
       "url": "https://image.tmdb.org/t/p/original/sShuXyUMN1w3LNtl0HpRXingGxK.jpg",
       "thumbnail_url": "https://image.tmdb.org/t/p/w342/sShuXyUMN1w3LNtl0HpRXingGxK.jpg",
       "source": "TMDb",
@@ -78,7 +78,7 @@
       "id": 4753,
       "media_type": "poster",
       "title": "Pollyanna (1920) - Poster",
-      "caption": "Theatrical poster for Pollyanna (1920)",
+      "caption": "Poster for Pollyanna (1920)",
       "url": "https://image.tmdb.org/t/p/original/NN4gvbLUw9vImllXfArFWgxO3.jpg",
       "thumbnail_url": "https://image.tmdb.org/t/p/w342/NN4gvbLUw9vImllXfArFWgxO3.jpg",
       "source": "TMDb",
@@ -260,5 +260,5 @@
   "has_media": true,
   "media_count": 15,
   "has_narrative": false,
-  "last_updated": "2025-08-10T20:46:42.718801"
+  "last_updated": "2025-08-11T14:35:09.009861"
 }

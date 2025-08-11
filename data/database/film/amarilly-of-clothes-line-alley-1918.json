@@ -10,7 +10,7 @@
   "genres": [
     "Comedy"
   ],
-  "studio": "Mary Pickford Productions",
+  "studio": "Mary Pickford",
   "production_companies": "Mary Pickford Film Corp.",
   "distribution_companies": "Famous Players-Lasky Corp.",
   "directors": "Marshall A. Neilan",
@@ -45,45 +45,6 @@
   "other_adaptations": [],
   "adaptation_context": null,
   "media": [
-    {
-      "id": 1678,
-      "media_type": "poster",
-      "title": "Amarilly of Clothes-line Alley poster.jpg",
-      "caption": "Poster for the American romantic comedy film Amarilly of Clothes-line Alley (1918).",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Amarilly_of_Clothes-line_Alley_poster.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Amarilly_of_Clothes-line_Alley_poster.jpg/300px-Amarilly_of_Clothes-line_Alley_poster.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Amarilly_of_Clothes-line_Alley_poster.jpg",
-      "license": "public_domain",
-      "attribution": "Mary Pickford Company / Artcraft Pictures Corporation",
-      "is_featured": "True"
-    },
-    {
-      "id": 4495,
-      "media_type": "poster",
-      "title": "Amarilly of Clothes-Line Alley (1918) - Poster",
-      "caption": "Theatrical poster for Amarilly of Clothes-Line Alley (1918)",
-      "url": "https://image.tmdb.org/t/p/original/gN3Mm5N2r2YcGKoTZcuZc30iNGX.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/gN3Mm5N2r2YcGKoTZcuZc30iNGX.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/136842",
-      "license": "fair_use",
-      "attribution": "Mary Pickford Productions",
-      "is_featured": "False"
-    },
-    {
-      "id": 4496,
-      "media_type": "poster",
-      "title": "Amarilly of Clothes-Line Alley (1918) - Poster",
-      "caption": "Theatrical poster for Amarilly of Clothes-Line Alley (1918)",
-      "url": "https://image.tmdb.org/t/p/original/3sIltqBU2AWP6op6Z64n5ovFpoJ.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/3sIltqBU2AWP6op6Z64n5ovFpoJ.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/136842",
-      "license": "fair_use",
-      "attribution": "Mary Pickford Productions",
-      "is_featured": "False"
-    },
     {
       "id": 4497,
       "media_type": "still",
@@ -124,19 +85,6 @@
       "is_featured": "False"
     },
     {
-      "id": 1677,
-      "media_type": "still",
-      "title": "Amarilly of Clothes-Line Alley (1918) - 1.jpg",
-      "caption": "Still from the American romantic comedy film Amarilly of Clothes-line Alley (1918) with Mary Pickford, from the June 1918 Film Fun.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Amarilly_of_Clothes-Line_Alley_%281918%29_-_1.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Amarilly_of_Clothes-Line_Alley_%281918%29_-_1.jpg/300px-Amarilly_of_Clothes-Line_Alley_%281918%29_-_1.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Amarilly_of_Clothes-Line_Alley_(1918)_-_1.jpg",
-      "license": "public_domain",
-      "attribution": "Mary Pickford Company / Artcraft Pictures Corporation",
-      "is_featured": "False"
-    },
-    {
       "id": 1679,
       "media_type": "still",
       "title": "William Scott and Mary Pickford in Amarilly of Clothes-Line Alley.jpg",
@@ -148,10 +96,23 @@
       "license": "public_domain",
       "attribution": "Pickford Film Corp.",
       "is_featured": "False"
+    },
+    {
+      "id": 1678,
+      "media_type": "poster",
+      "title": "Amarilly of Clothes-line Alley poster.jpg",
+      "caption": "Poster for the American romantic comedy film Amarilly of Clothes-line Alley (1918).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Amarilly_of_Clothes-line_Alley_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Amarilly_of_Clothes-line_Alley_poster.jpg/300px-Amarilly_of_Clothes-line_Alley_poster.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Amarilly_of_Clothes-line_Alley_poster.jpg",
+      "license": "public_domain",
+      "attribution": "Mary Pickford Company / Artcraft Pictures Corporation",
+      "is_featured": "True"
     }
   ],
   "has_media": true,
-  "media_count": 8,
+  "media_count": 5,
   "has_narrative": false,
-  "last_updated": "2025-08-10T20:38:59.242895"
+  "last_updated": "2025-08-11T14:35:00.989037"
 }

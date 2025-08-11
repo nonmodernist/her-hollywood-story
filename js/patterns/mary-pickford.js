@@ -233,3 +233,14 @@ function createPublicationTimeline() {
 
 // Initialize when DOM is ready
 document.addEventListener('DOMContentLoaded', initMaryPickford);
+
+// Add this to your mary-pickford.js temporarily for testing
+document.addEventListener('DOMContentLoaded', function() {
+    // Replace broken images with placeholders for testing
+    const images = document.querySelectorAll('.gallery-item img');
+    images.forEach(img => {
+        img.onerror = function() {
+            this.src = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZGRkIi8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjE4IiBmaWxsPSIjOTk5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSI+SW1hZ2UgUGxhY2Vob2xkZXI8L3RleHQ+PC9zdmc+';
+        };
+    });
+});

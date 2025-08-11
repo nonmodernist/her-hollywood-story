@@ -93,6 +93,11 @@ export class Router {
                 } else if (key === 'page') {
                     // Restore pagination state (convert from 1-based to 0-based)
                     app.currentPage = Math.max(0, parseInt(value) - 1);
+                } else if (key === 'view') {
+                    // Set view mode from URL parameter
+                    if (value === 'grid' || value === 'list') {
+                        app.currentView = value;
+                    }
                 } else {
                     app.filters[key] = value;
                 }
@@ -148,6 +153,11 @@ export class Router {
             // Add pagination state
             if (app.currentPage > 0) {
                 params.set('page', app.currentPage + 1); // Use 1-based page numbers in URL
+            }
+
+            // Add view state (only if it's grid, since list is default)
+            if (app.currentView === 'grid') {
+                params.set('view', 'grid');
             }
 
             // Add other active filters

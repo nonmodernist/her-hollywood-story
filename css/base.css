@@ -1,6 +1,7 @@
 /* her-hollywood-base.css - Base design system for Her Hollywood Story */
 
 /* Import title formatting */
+@import url('media.css');
 @import url('titles.css');
 
 :root {

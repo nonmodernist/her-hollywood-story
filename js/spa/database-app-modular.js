@@ -531,6 +531,11 @@ async function switchTab(tabName) {
         tab.classList.toggle('active', tab.dataset.tab === tabName);
     });
 
+    // Update view buttons to reflect current view state
+    elements.viewButtons.forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.view === app.currentView);
+    });
+
     // Update search placeholder
     const placeholders = {
         films: 'Search films, directors, studios...',
@@ -1286,6 +1291,9 @@ function switchView(view) {
     // Re-render with new view
     app.currentPage = 0;
     renderResults();
+    
+    // Update URL to include view parameter
+    router.updateURL();
 }
 
 // Load more items

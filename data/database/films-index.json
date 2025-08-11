@@ -15,12 +15,12 @@
       "studio": "Biograph",
       "directors": "D. W. Griffith",
       "hasMedia": true,
-      "mediaCount": 3,
+      "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/uOQ5mnOleWTtJRQC1TYkaEjfmkM.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/uOQ5mnOleWTtJRQC1TYkaEjfmkM.jpg",
-        "caption": "Theatrical poster for Ramona (1910)",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/kM5DdvtsUuvu1gV3uj2LE3zNb5x.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/kM5DdvtsUuvu1gV3uj2LE3zNb5x.jpg",
+        "caption": "Contemporary poster made from cropped screenshot from Ramona (1910)",
         "source": "TMDb",
         "attribution": "Biograph"
       },
@@ -158,12 +158,12 @@
       "studio": "Famous Players",
       "directors": "Edwin S. Porter",
       "hasMedia": true,
-      "mediaCount": 8,
+      "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/qR3m3YKKftT5zhLTj0SziQfOJuq.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/qR3m3YKKftT5zhLTj0SziQfOJuq.jpg",
-        "caption": "Theatrical poster for Tess of the Storm Country (1914)",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/5bHA8r5bTFgFq9Usp0WrFc2Oo22.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/5bHA8r5bTFgFq9Usp0WrFc2Oo22.jpg",
+        "caption": "Theatrical poster  or advertisement for Tess of the Storm Country (1914)",
         "source": "TMDb",
         "attribution": "Famous Players"
       },
@@ -713,7 +713,7 @@
       "studio": "Mary Pickford Productions",
       "directors": "Marshall Neilan",
       "hasMedia": true,
-      "mediaCount": 13,
+      "mediaCount": 11,
       "featuredMedia": {
         "type": "production_photo",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rebecca_of_Sunnybrook_Farm_%281917%29_still_3.jpg/300px-Rebecca_of_Sunnybrook_Farm_%281917%29_still_3.jpg",
@@ -14485,10 +14485,10 @@
     },
     {
       "id": 426,
-      "slug": "the-little-princess-1917",
-      "title": "The Little Princess",
-      "formatted_title": "The Little Princess",
-      "html_title": "<span class=\"film-title\">The Little Princess</span>",
+      "slug": "a-little-princess-1917",
+      "title": "A Little Princess",
+      "formatted_title": "A Little Princess",
+      "html_title": "<span class=\"film-title\">A Little Princess</span>",
       "year": 1917,
       "decade": 1910,
       "genres": [
@@ -14497,12 +14497,12 @@
       "studio": "Mary Pickford Productions",
       "directors": "Marshall Neilan",
       "hasMedia": true,
-      "mediaCount": 10,
+      "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/5qpqn59J5eCKLyp4Oi6tNH21Sr3.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/5qpqn59J5eCKLyp4Oi6tNH21Sr3.jpg",
-        "caption": "Theatrical poster for The Little Princess (1917)",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/jWswQKua2ipuetxcFPegg1SQbwM.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/jWswQKua2ipuetxcFPegg1SQbwM.jpg",
+        "caption": "Modern poster for The Little Princess (1917)",
         "source": "TMDb",
         "attribution": "Mary Pickford Productions"
       },
@@ -14516,7 +14516,7 @@
       "authorSlug": "frances-hodgson-burnett",
       "isRemake": true,
       "adaptationNumber": 1,
-      "searchText": "the little princess marshall neilan frances marion mary pickford|norman kerry|katherine griffith|ann schaefer|zasu pitts|william e. \"babe\" lawrence|theodore roberts|gertrude short|gustav von seyffertitz|loretta blake mary pickford productions sara crewe; or, what happened at miss minchin’s frances hodgson burnett drama"
+      "searchText": "a little princess marshall neilan frances marion mary pickford|norman kerry|katherine griffith|ann schaefer|zasu pitts|william e. \"babe\" lawrence|theodore roberts|gertrude short|gustav von seyffertitz|loretta blake mary pickford productions sara crewe; or, what happened at miss minchin’s frances hodgson burnett drama"
     },
     {
       "id": 427,
@@ -14604,10 +14604,10 @@
       "hasMedia": true,
       "mediaCount": 3,
       "featuredMedia": {
-        "type": "poster",
+        "type": "advertisement",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/7ttUQRNjiua7zyz0ohRwODzwuFW.jpg",
         "fullUrl": "https://image.tmdb.org/t/p/original/7ttUQRNjiua7zyz0ohRwODzwuFW.jpg",
-        "caption": "Theatrical poster for The Dawn of a Tomorrow (1915)",
+        "caption": "Advertisement for The Dawn of a Tomorrow (1915)",
         "source": "tmdb",
         "attribution": "Image courtesy of TMDB"
       },
@@ -15713,9 +15713,9 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Blackmail_%281920%29_-_4.jpg/300px-Blackmail_%281920%29_-_4.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Blackmail_%281920%29_-_4.jpg",
-        "caption": "Still from the American drama film Blackmail (1920) with Viola Dana and the comedy short film Convict 13 (1920) with Buster Keaton, on page 11 of the November 27, 1920 The Duluth Herald.",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Blackmail_%281920%29_-_2.jpg/300px-Blackmail_%281920%29_-_2.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Blackmail_%281920%29_-_2.jpg",
+        "caption": "Still from the American drama film Blackmail (1920) with an unidentified actor and Viola Dana, on page 98 of the November 13, 1920 Exhibitors Herald.",
         "source": "Wikimedia Commons",
         "attribution": "Screen Classics Inc. / Metro Pictures Corporation"
       },
@@ -15808,12 +15808,12 @@
       "studio": "Famous Players",
       "directors": "James Kirkwood",
       "hasMedia": true,
-      "mediaCount": 5,
+      "mediaCount": 3,
       "featuredMedia": {
-        "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/y63AKM7nITTdDlonWy6tyIixNBj.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/y63AKM7nITTdDlonWy6tyIixNBj.jpg",
-        "caption": "Theatrical poster for The Eagle's Mate (1914)",
+        "type": "still",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/xFQPtbByRVFJd4Q8NLjAV48l01f.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/xFQPtbByRVFJd4Q8NLjAV48l01f.jpg",
+        "caption": "Cropped still from The Eagle's Mate (1914)",
         "source": "tmdb",
         "attribution": "Image courtesy of TMDB"
       },
@@ -21999,7 +21999,7 @@
       "authorName": "Mary Jane Holmes",
       "authorSlug": "mary-jane-holmes",
       "isRemake": true,
-      "adaptationNumber": 2,
+      "adaptationNumber": 3,
       "searchText": "lena rivers john william kellette violet horner|harrish ingraham|mary moore|marty faust|mrs. middleton|harry h. forman|mrs. ford whitman features lena rivers mary jane holmes melodrama"
     },
     {
@@ -22035,7 +22035,7 @@
       "authorName": "Mary Jane Holmes",
       "authorSlug": "mary-jane-holmes",
       "isRemake": true,
-      "adaptationNumber": 3,
+      "adaptationNumber": 2,
       "searchText": "lena rivers cosmos lena rivers mary jane holmes melodrama comedy"
     },
     {
@@ -26973,41 +26973,6 @@
       "searchText": "tarnished harry keller john k. butler dorothy patrick|arthur franz|barbra fuller|jimmy lydon|harry shannon|don beddoe|byron [s.] barr|alex gerry|hal price|stephen chase republic turn home eleanor mayo drama"
     },
     {
-      "id": 793,
-      "slug": "behind-the-scenes-1914",
-      "title": "Behind the Scenes",
-      "formatted_title": "Behind the Scenes",
-      "html_title": "<span class=\"film-title\">Behind the Scenes</span>",
-      "year": 1914,
-      "decade": 1910,
-      "genres": [
-        "Drama"
-      ],
-      "studio": "Famous Players",
-      "directors": "James Kirkwood",
-      "hasMedia": true,
-      "mediaCount": 3,
-      "featuredMedia": {
-        "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/u3esGf6qb4fp0ESfVPKIfpe1BpE.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/u3esGf6qb4fp0ESfVPKIfpe1BpE.jpg",
-        "caption": "Theatrical poster for Behind the Scenes (1914)",
-        "source": "TMDb",
-        "attribution": "Famous Players"
-      },
-      "workId": 707,
-      "workTitle": "Behind the Lines",
-      "workFormattedTitle": "Behind the Lines",
-      "workHtmlTitle": "<span class=\"work-title\">Behind the Lines</span>",
-      "workSlug": "behind-the-lines",
-      "authorId": 354,
-      "authorName": "Margaret Mayo",
-      "authorSlug": "margaret-mayo",
-      "isRemake": false,
-      "adaptationNumber": 1,
-      "searchText": "behind the scenes james kirkwood mary pickford|james kirkwood|lowell sherman|ida waterman|russell bassett famous players behind the lines margaret mayo drama"
-    },
-    {
       "id": 794,
       "slug": "on-the-sunny-side-1941",
       "title": "On the Sunny Side",
@@ -27401,7 +27366,7 @@
       "hasMedia": true,
       "mediaCount": 5,
       "featuredMedia": {
-        "type": "poster",
+        "type": "advertisement",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/dychyfN4sd4bF7vXRgxyU2Vprls.jpg",
         "fullUrl": "https://image.tmdb.org/t/p/original/dychyfN4sd4bF7vXRgxyU2Vprls.jpg",
         "caption": "Theatrical poster for In the Bishop's Carriage (1913)",
@@ -38646,12 +38611,12 @@
       "studio": "Famous Players",
       "directors": "James Kirkwood",
       "hasMedia": true,
-      "mediaCount": 5,
+      "mediaCount": 3,
       "featuredMedia": {
-        "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/9x6KGsQH7twFKX6kQG1QYtjl1Qk.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/9x6KGsQH7twFKX6kQG1QYtjl1Qk.jpg",
-        "caption": "Theatrical poster for Esmeralda (1915)",
+        "type": "advertisement",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/rXxhDX8NCFYclnFsAmlzh2eSgWU.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/rXxhDX8NCFYclnFsAmlzh2eSgWU.jpg",
+        "caption": "Advertisement for Esmeralda (1915)",
         "source": "TMDb",
         "attribution": "Famous Players"
       },
@@ -39011,12 +38976,12 @@
     }
   ],
   "metadata": {
-    "totalCount": 1131,
+    "totalCount": 1130,
     "yearRange": [
       1910,
       1963
     ],
-    "withMedia": 1043
+    "withMedia": 1042
   },
   "filterOptions": {
     "years": [
@@ -39425,7 +39390,7 @@
       {
         "value": "Famous Players",
         "label": "Famous Players",
-        "count": 13
+        "count": 12
       },
       {
         "value": "Famous Players-Lasky",
@@ -39682,7 +39647,7 @@
       {
         "value": "Drama",
         "label": "Drama",
-        "count": 457
+        "count": 456
       },
       {
         "value": "Epic",

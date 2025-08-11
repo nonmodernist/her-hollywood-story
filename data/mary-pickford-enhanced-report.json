@@ -1,0 +1,586 @@
+{
+  "metadata": {
+    "generated": "2025-08-11T00:59:12.381Z",
+    "version": "2.0-enhanced",
+    "totalFilmsFound": 17
+  },
+  "summary": {
+    "totalFilms": 17,
+    "asActor": 17,
+    "asProducer": 10,
+    "yearRange": "1910 - 1927"
+  },
+  "authorConnections": {
+    "Helen Hunt Jackson": {
+      "films": [
+        {
+          "title": "Ramona",
+          "year": 1910,
+          "workTitle": "Ramona",
+          "role": "Actor"
+        }
+      ],
+      "totalFilms": 1,
+      "asActor": 1,
+      "asProducer": 0,
+      "years": [
+        1910
+      ],
+      "authorId": 1
+    },
+    "Miriam Michelson": {
+      "films": [
+        {
+          "title": "In the Bishop's Carriage",
+          "year": 1913,
+          "workTitle": "In the Bishop's Carriage",
+          "role": "Actor"
+        }
+      ],
+      "totalFilms": 1,
+      "asActor": 1,
+      "asProducer": 0,
+      "years": [
+        1913
+      ],
+      "authorId": 360
+    },
+    "Grace Miller White": {
+      "films": [
+        {
+          "title": "Tess of the Storm Country",
+          "year": 1914,
+          "workTitle": "Tess of the Storm Country",
+          "role": "Actor"
+        },
+        {
+          "title": "Tess of the Storm Country",
+          "year": 1922,
+          "workTitle": "Tess of the Storm Country",
+          "role": "Actor/Producer"
+        }
+      ],
+      "totalFilms": 2,
+      "asActor": 2,
+      "asProducer": 1,
+      "years": [
+        1914,
+        1922
+      ],
+      "authorId": 4
+    },
+    "Anna Alice Chapin": {
+      "films": [
+        {
+          "title": "The Eagle's Mate",
+          "year": 1914,
+          "workTitle": "The Eagle's Mate",
+          "role": "Actor"
+        }
+      ],
+      "totalFilms": 1,
+      "asActor": 1,
+      "asProducer": 0,
+      "years": [
+        1914
+      ],
+      "authorId": 166
+    },
+    "Frances Hodgson Burnett": {
+      "films": [
+        {
+          "title": "The Dawn of a Tomorrow",
+          "year": 1915,
+          "workTitle": "The Dawn of a Tomorrow",
+          "role": "Actor"
+        },
+        {
+          "title": "Esmeralda",
+          "year": 1915,
+          "workTitle": "Esmeralda",
+          "role": "Actor"
+        },
+        {
+          "title": "A Little Princess",
+          "year": 1917,
+          "workTitle": "Sara Crewe; or, What Happened at Miss Minchin’s",
+          "role": "Actor/Producer"
+        },
+        {
+          "title": "Little Lord Fauntleroy",
+          "year": 1921,
+          "workTitle": "Little Lord Fauntleroy",
+          "role": "Actor/Producer"
+        }
+      ],
+      "totalFilms": 4,
+      "asActor": 4,
+      "asProducer": 2,
+      "years": [
+        1915,
+        1915,
+        1917,
+        1921
+      ],
+      "authorId": 3
+    },
+    "Kate Douglas Wiggin": {
+      "films": [
+        {
+          "title": "Rebecca of Sunnybrook Farm",
+          "year": 1917,
+          "workTitle": "Rebecca of Sunnybrook Farm",
+          "role": "Actor/Producer"
+        }
+      ],
+      "totalFilms": 1,
+      "asActor": 1,
+      "asProducer": 1,
+      "years": [
+        1917
+      ],
+      "authorId": 13
+    },
+    "Eleanor Gates": {
+      "films": [
+        {
+          "title": "The Poor Little Rich Girl",
+          "year": 1917,
+          "workTitle": "The Poor Little Rich Girl",
+          "role": "Actor"
+        }
+      ],
+      "totalFilms": 1,
+      "asActor": 1,
+      "asProducer": 0,
+      "years": [
+        1917
+      ],
+      "authorId": 234
+    },
+    "Eleanor Hoyt Brainerd": {
+      "films": [
+        {
+          "title": "How Could You, Jean?",
+          "year": 1918,
+          "workTitle": "How Could You Jean?",
+          "role": "Actor/Producer"
+        }
+      ],
+      "totalFilms": 1,
+      "asActor": 1,
+      "asProducer": 1,
+      "years": [
+        1918
+      ],
+      "authorId": 130
+    },
+    "Belle K. Maniates": {
+      "films": [
+        {
+          "title": "Amarilly of Clothes-Line Alley",
+          "year": 1918,
+          "workTitle": "Amarilly of Clothes-Line Alley",
+          "role": "Actor/Producer"
+        }
+      ],
+      "totalFilms": 1,
+      "asActor": 1,
+      "asProducer": 1,
+      "years": [
+        1918
+      ],
+      "authorId": 342
+    },
+    "Jean Webster": {
+      "films": [
+        {
+          "title": "Daddy-Long-Legs",
+          "year": 1919,
+          "workTitle": "Daddy-Long-Legs",
+          "role": "Actor/Producer"
+        }
+      ],
+      "totalFilms": 1,
+      "asActor": 1,
+      "asProducer": 1,
+      "years": [
+        1919
+      ],
+      "authorId": 27
+    },
+    "Julie M. Lippmann": {
+      "films": [
+        {
+          "title": "The Hoodlum",
+          "year": 1919,
+          "workTitle": "Burkeses Amy",
+          "role": "Actor/Producer"
+        }
+      ],
+      "totalFilms": 1,
+      "asActor": 1,
+      "asProducer": 1,
+      "years": [
+        1919
+      ],
+      "authorId": 326
+    },
+    "Eleanor H. Porter": {
+      "films": [
+        {
+          "title": "Pollyanna",
+          "year": 1920,
+          "workTitle": "Pollyanna",
+          "role": "Actor/Producer"
+        }
+      ],
+      "totalFilms": 1,
+      "asActor": 1,
+      "asProducer": 1,
+      "years": [
+        1920
+      ],
+      "authorId": 400
+    },
+    "Kathleen Norris": {
+      "films": [
+        {
+          "title": "My Best Girl",
+          "year": 1927,
+          "workTitle": "My Best Girl",
+          "role": "Actor/Producer"
+        }
+      ],
+      "totalFilms": 1,
+      "asActor": 1,
+      "asProducer": 1,
+      "years": [
+        1927
+      ],
+      "authorId": 376
+    }
+  },
+  "filmography": [
+    {
+      "filmId": 1,
+      "filmTitle": "Ramona",
+      "year": 1910,
+      "authorId": 1,
+      "authorName": "Helen Hunt Jackson",
+      "workTitle": "Ramona",
+      "role": "Actor",
+      "director": "D. W. Griffith",
+      "studio": "Biograph",
+      "genres": [
+        "Drama",
+        "Short"
+      ],
+      "availability": "public domain|streaming",
+      "runtime": 17
+    },
+    {
+      "filmId": 805,
+      "filmTitle": "In the Bishop's Carriage",
+      "year": 1913,
+      "authorId": 360,
+      "authorName": "Miriam Michelson",
+      "workTitle": "In the Bishop's Carriage",
+      "role": "Actor",
+      "director": "Edwin S. Porter|J. Searle Dawley",
+      "studio": "Famous Players",
+      "genres": [
+        "Drama"
+      ],
+      "availability": "lost",
+      "runtime": 50
+    },
+    {
+      "filmId": 5,
+      "filmTitle": "Tess of the Storm Country",
+      "year": 1914,
+      "authorId": 4,
+      "authorName": "Grace Miller White",
+      "workTitle": "Tess of the Storm Country",
+      "role": "Actor",
+      "director": "Edwin S. Porter",
+      "studio": "Famous Players",
+      "genres": [
+        "Drama"
+      ],
+      "availability": "public domain|streaming",
+      "runtime": 80
+    },
+    {
+      "filmId": 464,
+      "filmTitle": "The Eagle's Mate",
+      "year": 1914,
+      "authorId": 166,
+      "authorName": "Anna Alice Chapin",
+      "workTitle": "The Eagle's Mate",
+      "role": "Actor",
+      "director": "James Kirkwood",
+      "studio": "Famous Players",
+      "genres": [
+        "Melodrama"
+      ],
+      "availability": "extant",
+      "runtime": 50
+    },
+    {
+      "filmId": 429,
+      "filmTitle": "The Dawn of a Tomorrow",
+      "year": 1915,
+      "authorId": 3,
+      "authorName": "Frances Hodgson Burnett",
+      "workTitle": "The Dawn of a Tomorrow",
+      "role": "Actor",
+      "director": "James Kirkwood",
+      "studio": "Famous Players",
+      "genres": [
+        "Drama"
+      ],
+      "availability": "extant",
+      "runtime": 50
+    },
+    {
+      "filmId": 1135,
+      "filmTitle": "Esmeralda",
+      "year": 1915,
+      "authorId": 3,
+      "authorName": "Frances Hodgson Burnett",
+      "workTitle": "Esmeralda",
+      "role": "Actor",
+      "director": "James Kirkwood",
+      "studio": "Famous Players",
+      "genres": [
+        "Drama"
+      ],
+      "availability": "lost",
+      "runtime": 40
+    },
+    {
+      "filmId": 22,
+      "filmTitle": "Rebecca of Sunnybrook Farm",
+      "year": 1917,
+      "authorId": 13,
+      "authorName": "Kate Douglas Wiggin",
+      "workTitle": "Rebecca of Sunnybrook Farm",
+      "role": "Actor/Producer",
+      "director": "Marshall Neilan",
+      "studio": "Mary Pickford Productions",
+      "genres": [
+        "Drama"
+      ],
+      "availability": "streaming",
+      "runtime": 78
+    },
+    {
+      "filmId": 426,
+      "filmTitle": "A Little Princess",
+      "year": 1917,
+      "authorId": 3,
+      "authorName": "Frances Hodgson Burnett",
+      "workTitle": "Sara Crewe; or, What Happened at Miss Minchin’s",
+      "role": "Actor/Producer",
+      "director": "Marshall Neilan",
+      "studio": "Mary Pickford Productions",
+      "genres": [
+        "Drama"
+      ],
+      "availability": "extant|public domain",
+      "runtime": 62
+    },
+    {
+      "filmId": 596,
+      "filmTitle": "The Poor Little Rich Girl",
+      "year": 1917,
+      "authorId": 234,
+      "authorName": "Eleanor Gates",
+      "workTitle": "The Poor Little Rich Girl",
+      "role": "Actor",
+      "director": "Maurice Tourneur",
+      "studio": "Artcraft",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "availability": "public domain|streaming",
+      "runtime": 65
+    },
+    {
+      "filmId": 388,
+      "filmTitle": "How Could You, Jean?",
+      "year": 1918,
+      "authorId": 130,
+      "authorName": "Eleanor Hoyt Brainerd",
+      "workTitle": "How Could You Jean?",
+      "role": "Actor/Producer",
+      "director": "William D. Taylor",
+      "studio": "Mary Pickford Productions",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "availability": "lost",
+      "runtime": 50
+    },
+    {
+      "filmId": 769,
+      "filmTitle": "Amarilly of Clothes-Line Alley",
+      "year": 1918,
+      "authorId": 342,
+      "authorName": "Belle K. Maniates",
+      "workTitle": "Amarilly of Clothes-Line Alley",
+      "role": "Actor/Producer",
+      "director": "Marshall A. Neilan",
+      "studio": "Mary Pickford Productions",
+      "genres": [
+        "Comedy"
+      ],
+      "availability": "extant|home video",
+      "runtime": 67
+    },
+    {
+      "filmId": 52,
+      "filmTitle": "Daddy-Long-Legs",
+      "year": 1919,
+      "authorId": 27,
+      "authorName": "Jean Webster",
+      "workTitle": "Daddy-Long-Legs",
+      "role": "Actor/Producer",
+      "director": "Marshall A. Neilan",
+      "studio": "Mary Pickford Productions",
+      "genres": [
+        "Comedy"
+      ],
+      "availability": "public domain|streaming",
+      "runtime": 85
+    },
+    {
+      "filmId": 749,
+      "filmTitle": "The Hoodlum",
+      "year": 1919,
+      "authorId": 326,
+      "authorName": "Julie M. Lippmann",
+      "workTitle": "Burkeses Amy",
+      "role": "Actor/Producer",
+      "director": "Sidney A. Franklin",
+      "studio": "Mary Pickford Productions",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "availability": "extant|streaming",
+      "runtime": 78
+    },
+    {
+      "filmId": 881,
+      "filmTitle": "Pollyanna",
+      "year": 1920,
+      "authorId": 400,
+      "authorName": "Eleanor H. Porter",
+      "workTitle": "Pollyanna",
+      "role": "Actor/Producer",
+      "director": "Paul Powell",
+      "studio": "Mary Pickford Productions",
+      "genres": [
+        "Drama"
+      ],
+      "availability": "public domain|streaming",
+      "runtime": 58
+    },
+    {
+      "filmId": 76,
+      "filmTitle": "Little Lord Fauntleroy",
+      "year": 1921,
+      "authorId": 3,
+      "authorName": "Frances Hodgson Burnett",
+      "workTitle": "Little Lord Fauntleroy",
+      "role": "Actor/Producer",
+      "director": "Alfred E. Green|Jack Pickford",
+      "studio": "Mary Pickford Productions",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "availability": "public domain|streaming",
+      "runtime": 112
+    },
+    {
+      "filmId": 88,
+      "filmTitle": "Tess of the Storm Country",
+      "year": 1922,
+      "authorId": 4,
+      "authorName": "Grace Miller White",
+      "workTitle": "Tess of the Storm Country",
+      "role": "Actor/Producer",
+      "director": "John S. Robertson",
+      "studio": "Mary Pickford Productions",
+      "genres": [
+        "Melodrama"
+      ],
+      "availability": "public domain|streaming",
+      "runtime": 118
+    },
+    {
+      "filmId": 844,
+      "filmTitle": "My Best Girl",
+      "year": 1927,
+      "authorId": 376,
+      "authorName": "Kathleen Norris",
+      "workTitle": "My Best Girl",
+      "role": "Actor/Producer",
+      "director": "Sam Taylor",
+      "studio": "Mary Pickford Productions",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "availability": "public domain|streaming",
+      "runtime": 80
+    }
+  ],
+  "insights": {
+    "remakeInvolvement": [
+      "Ramona",
+      "Tess of the Storm Country",
+      "Daddy-Long-Legs"
+    ],
+    "studioRelationships": {
+      "Biograph": 1,
+      "Famous Players": 5,
+      "Mary Pickford Productions": 10,
+      "Artcraft": 1
+    },
+    "genrePreferences": {
+      "Drama": 8,
+      "Short": 1,
+      "Melodrama": 2,
+      "Comedy-drama": 4,
+      "Comedy": 2,
+      "Romantic comedy": 1
+    },
+    "availabilityStatus": {
+      "public domain|streaming": 8,
+      "lost": 3,
+      "extant": 2,
+      "streaming": 1,
+      "extant|public domain": 1,
+      "extant|home video": 1,
+      "extant|streaming": 1
+    },
+    "careerTransition": {
+      "actingSpan": "1910-1927",
+      "producingSpan": "1917-1927"
+    },
+    "authorNetwork": {
+      "totalAuthors": 13,
+      "multipleCollaborations": [
+        {
+          "author": "Grace Miller White",
+          "filmCount": 2
+        },
+        {
+          "author": "Frances Hodgson Burnett",
+          "filmCount": 4
+        }
+      ]
+    }
+  }
+}

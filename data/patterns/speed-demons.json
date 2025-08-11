@@ -7417,40 +7417,6 @@
     },
     {
       "work": {
-        "id": 266,
-        "slug": "the-enemy",
-        "title": "The Enemy",
-        "formatted_title": "The Enemy",
-        "html_title": "<span class=\"work-title\">The Enemy</span>",
-        "work_type": "novella",
-        "publication_year": 1951
-      },
-      "author": {
-        "id": 85,
-        "slug": "charlotte-armstrong",
-        "name": "Charlotte Armstrong"
-      },
-      "firstAdaptation": {
-        "id": 318,
-        "slug": "talk-about-a-stranger-1952",
-        "title": "Talk About a Stranger",
-        "html_title": "<span class=\"film-title\">Talk About a Stranger</span>",
-        "year": 1952,
-        "studio": "MGM",
-        "directors": "David Bradley"
-      },
-      "speed": {
-        "delay": 1,
-        "delayMonths": "1 year",
-        "isZeroDelay": false
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1952
-      }
-    },
-    {
-      "work": {
         "id": 400,
         "slug": "the-enemy",
         "title": "The Enemy",
@@ -7481,6 +7447,40 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1916
+      }
+    },
+    {
+      "work": {
+        "id": 266,
+        "slug": "the-enemy",
+        "title": "The Enemy",
+        "formatted_title": "The Enemy",
+        "html_title": "<span class=\"work-title\">The Enemy</span>",
+        "work_type": "novella",
+        "publication_year": 1951
+      },
+      "author": {
+        "id": 85,
+        "slug": "charlotte-armstrong",
+        "name": "Charlotte Armstrong"
+      },
+      "firstAdaptation": {
+        "id": 318,
+        "slug": "talk-about-a-stranger-1952",
+        "title": "Talk About a Stranger",
+        "html_title": "<span class=\"film-title\">Talk About a Stranger</span>",
+        "year": 1952,
+        "studio": "MGM",
+        "directors": "David Bradley"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1952
       }
     },
     {
@@ -16671,40 +16671,6 @@
         },
         {
           "work": {
-            "id": 266,
-            "slug": "the-enemy",
-            "title": "The Enemy",
-            "formatted_title": "The Enemy",
-            "html_title": "<span class=\"work-title\">The Enemy</span>",
-            "work_type": "novella",
-            "publication_year": 1951
-          },
-          "author": {
-            "id": 85,
-            "slug": "charlotte-armstrong",
-            "name": "Charlotte Armstrong"
-          },
-          "firstAdaptation": {
-            "id": 318,
-            "slug": "talk-about-a-stranger-1952",
-            "title": "Talk About a Stranger",
-            "html_title": "<span class=\"film-title\">Talk About a Stranger</span>",
-            "year": 1952,
-            "studio": "MGM",
-            "directors": "David Bradley"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1952
-          }
-        },
-        {
-          "work": {
             "id": 400,
             "slug": "the-enemy",
             "title": "The Enemy",
@@ -16735,6 +16701,40 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1916
+          }
+        },
+        {
+          "work": {
+            "id": 266,
+            "slug": "the-enemy",
+            "title": "The Enemy",
+            "formatted_title": "The Enemy",
+            "html_title": "<span class=\"work-title\">The Enemy</span>",
+            "work_type": "novella",
+            "publication_year": 1951
+          },
+          "author": {
+            "id": 85,
+            "slug": "charlotte-armstrong",
+            "name": "Charlotte Armstrong"
+          },
+          "firstAdaptation": {
+            "id": 318,
+            "slug": "talk-about-a-stranger-1952",
+            "title": "Talk About a Stranger",
+            "html_title": "<span class=\"film-title\">Talk About a Stranger</span>",
+            "year": 1952,
+            "studio": "MGM",
+            "directors": "David Bradley"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1952
           }
         },
         {
@@ -27881,7 +27881,7 @@
     "peakDecade": "1920"
   },
   "metadata": {
-    "generated": "2025-08-09T17:16:26.827Z",
+    "generated": "2025-08-10T23:52:20.096Z",
     "version": "2.0"
   }
 }

@@ -17,7 +17,7 @@
   "writers": "Eve Unsell",
   "cast_members": "Mary Pickford|David Powell|Forrest Robinson|Robert Cain|Margaret Seddon|Blanche Craig|Ogden Childe",
   "color_info": "black-and-white",
-  "availability": null,
+  "availability": "extant",
   "adaptation_notes": null,
   "afi_catalog_id": 18171,
   "source_work": {
@@ -62,19 +62,6 @@
   },
   "media": [
     {
-      "id": 5545,
-      "media_type": "poster",
-      "title": "The Dawn of a Tomorrow (1915) - Poster",
-      "caption": "Theatrical poster for The Dawn of a Tomorrow (1915)",
-      "url": "https://image.tmdb.org/t/p/original/7ttUQRNjiua7zyz0ohRwODzwuFW.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/7ttUQRNjiua7zyz0ohRwODzwuFW.jpg",
-      "source": "tmdb",
-      "source_url": "https://www.themoviedb.org/movie/488866",
-      "license": "fair_use",
-      "attribution": "Image courtesy of TMDB",
-      "is_featured": "False"
-    },
-    {
       "id": 5546,
       "media_type": "still",
       "title": "The Dawn of a Tomorrow (1915) - Still",
@@ -91,7 +78,7 @@
       "id": 1054,
       "media_type": "production_photo",
       "title": "Thedawnofatomorrow-photocard-1915.jpg",
-      "caption": "The Dawn of a Tomorrow is a 1915 American silent film starring Mary Pickford, produced by Adolph Zukor's Famous Players Film Company and directed by James Kirkwood. The source link claims copyright but being that this was published in 1915 I think that is a mistakenly selected license.",
+      "caption": "Photocard for the film.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Thedawnofatomorrow-photocard-1915.jpg",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Thedawnofatomorrow-photocard-1915.jpg/300px-Thedawnofatomorrow-photocard-1915.jpg",
       "source": "Wikimedia Commons",
@@ -99,10 +86,23 @@
       "license": "public_domain",
       "attribution": "Famous Players Film Company",
       "is_featured": "False"
+    },
+    {
+      "id": 5545,
+      "media_type": "advertisement",
+      "title": "The Dawn of a Tomorrow (1915) - Poster",
+      "caption": "Advertisement for The Dawn of a Tomorrow (1915)",
+      "url": "https://image.tmdb.org/t/p/original/7ttUQRNjiua7zyz0ohRwODzwuFW.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/7ttUQRNjiua7zyz0ohRwODzwuFW.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/488866",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
     }
   ],
   "has_media": true,
   "media_count": 3,
   "has_narrative": false,
-  "last_updated": "2025-08-04T19:48:13.472502"
+  "last_updated": "2025-08-10T20:27:04.673954"
 }

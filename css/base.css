@@ -3,6 +3,7 @@
 /* Import title formatting */
 @import url('media.css');
 @import url('titles.css');
+@import url('tables.css');
 
 :root {
     /* Monochromatic palette */

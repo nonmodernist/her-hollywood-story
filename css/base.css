@@ -355,6 +355,12 @@ figure {
     padding: 0;
 }
 
+/* For figure containers with fair-use images */
+figure.has-fair-use img.fair-use {
+    margin: 0 auto;
+    display: block;
+}
+
 /* Main column figures */
 figure.main-column {
     max-width: 100%;
@@ -412,12 +418,22 @@ figure.portrait {
     margin-right: auto;
 }
 
+/* Fair use image sizing - for low-resolution documentary purposes */
+.fair-use {
+    max-height: 180px;  /* Between your 100-150px request */
+    width: auto;        /* Maintain aspect ratio */
+    height: auto;       /* Allow smaller images to display naturally */
+    object-fit: contain; /* Ensure image fits within bounds without distortion */
+    display: inline-block;
+    vertical-align: middle;
+}
+
 /* Side-by-side figures */
 .figure-pair {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
-    margin: 2.5rem 0;
+    margin: 2.5rem auto;
 }
 
 .figure-pair figure {

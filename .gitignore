@@ -1,8 +1,11 @@
 # big file
 data/database/enhanced-database.json
 
-# template file
+# template files
 patterns/_pattern-template.html
+*_image-snippets.html
+images/staging
+_drafts/
 
 # Backend directory - GitHub Pages ignores underscore folders
 _backend/
@@ -16,7 +19,6 @@ _backend/source-data/current/
 
 # scripts
 *.sh
-PIPELINE_STATUS.md
 
 # Sensitive and generated files that might accidentally be at root
 .env

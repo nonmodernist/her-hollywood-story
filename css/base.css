@@ -379,6 +379,42 @@ figure.fullwidth img {
     width: 100%;
 }
 
+/* Floating figures for text wrap layouts */
+figure.float-right {
+    float: right;
+    margin: 0 0 1.5rem 2rem;
+    max-width: 40%;
+    clear: right;
+}
+
+figure.float-left {
+    float: left;
+    margin: 0 2rem 1.5rem 0;
+    max-width: 40%;
+    clear: left;
+}
+
+/* Optional size variants */
+figure.float-right.float-small,
+figure.float-left.float-small {
+    max-width: 30%;
+}
+
+figure.float-right.float-large,
+figure.float-left.float-large {
+    max-width: 50%;
+}
+
+/* Mobile: cancel float and center */
+@media (max-width: 760px) {
+    figure.float-right,
+    figure.float-left {
+        float: none;
+        margin: 2rem auto;
+        max-width: 100%;
+    }
+}
+
 /* Figure captions */
 figcaption {
     font-family: 'Source Sans 3', sans-serif;

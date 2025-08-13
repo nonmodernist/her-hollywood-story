@@ -45,6 +45,29 @@
     color: var(--text-primary);
 }
 
+/* Formatted text for HTML content (biographies, plot summaries, etc.) */
+.formatted-text p {
+    margin: 1rem 0;
+    line-height: 1.4;
+}
+
+.formatted-text p:first-child {
+    margin-top: 0;
+}
+
+.formatted-text p:last-child {
+    margin-bottom: 0;
+}
+
+.formatted-text em {
+    font-style: italic;
+}
+
+.formatted-text a {
+    color: var(--link);
+    text-decoration: underline;
+}
+
 /* Lists of films and works */
 
 /* List containers to replace .related-items, .adaptations-list, .films-timeline, .works-list*/

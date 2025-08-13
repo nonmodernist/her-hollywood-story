@@ -242,7 +242,7 @@ function renderAuthorDetail(author) {
                         ` : ''}
                         <div class="bio-content">
                             <h2>Biography</h2>
-                            <p>${author.biographical_notes}</p>
+                            <div class="formatted-text">${author.biographical_notes_html || author.biographical_notes}</div>
                         </div>
                     </section>
                 ` : ''}
@@ -361,14 +361,14 @@ function renderWorkDetail(work) {
                 ${work.plot_summary ? `
                     <section class="detail-section">
                         <h2>Plot Summary</h2>
-                        <p>${work.plot_summary}</p>
+                        <div class="formatted-text">${work.plot_summary_html || work.plot_summary}</div>
                     </section>
                 ` : ''}
                 
                 ${work.literary_significance ? `
                     <section class="detail-section">
                         <h2>Literary Significance</h2>
-                        <p>${work.literary_significance}</p>
+                        <div class="formatted-text">${work.literary_significance_html || work.literary_significance}</div>
                     </section>
                 ` : ''}
 

@@ -1,16 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Database - Her Hollywood Story</title>
-    
+
     <!-- Dynamic base path for proper asset loading in SPA -->
     <script>
         // Determine the base path dynamically
         const path = window.location.pathname;
         let basePath = '/';
-        
+
         // For GitHub Pages deployment
         if (path.includes('/adapted-from-women/')) {
             basePath = '/adapted-from-women/';
@@ -19,29 +20,33 @@
         else if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
             basePath = '/';
         }
-        
+
         // Set the base tag
         document.write(`<base href="${basePath}">`);
     </script>
-    
-    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Source+Sans+3:wght@400;600&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="css/base.css">
     <link rel="stylesheet" href="css/pages/database-merged.css">
     <link rel="stylesheet" href="css/pages/detail-components.css">
 </head>
+
 <body>
     <header class="site-header">
-                        <div style="background: #8b0000; color: white; padding: 0.75rem; text-align: center; font-family: 'Source Sans 3', sans-serif; font-size: 0.95rem; margin-bottom: 2rem;">
+        <!-- <div style="background: #8b0000; color: white; padding: 0.75rem; text-align: center; font-family: 'Source Sans 3', sans-serif; font-size: 0.95rem; margin-bottom: 2rem;">
     <strong>BETA VERSION</strong> — Database complete, pattern analysis ongoing. 
     <a href="/about.html#beta-status" style="color: white; text-decoration: underline;">Learn more</a>
-</div>
+</div> -->
         <h1 class="site-title">Her Hollywood Story</h1>
-        <p class="site-subtitle">How American Women Writers Shaped Cinema, 1910–1963</p>
+        <p class="site-subtitle">How American Women Writers Shaped Cinema,
+            1910–1963</p>
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="database/" class="active">Database</a></li>
-                <!-- <li><a href="patterns/">Patterns</a></li> -->
+                <li><a href="patterns/">Patterns</a></li>
                 <li><a href="about.html">About</a></li>
             </ul>
         </nav>
@@ -69,17 +74,19 @@
         <!-- Search and Filters -->
         <section class="search-section">
             <div class="search-box">
-                <input type="text" id="searchInput" placeholder="Search..." 
-                       autocomplete="off" aria-label="Search database">
-                <button id="clearSearch" class="clear-btn" aria-label="Clear search">×</button>
+                <input type="text" id="searchInput" placeholder="Search..."
+                    autocomplete="off" aria-label="Search database">
+                <button id="clearSearch" class="clear-btn"
+                    aria-label="Clear search">×</button>
             </div>
-            
+
             <div class="filter-row" id="filterRow">
                 <!-- Filters populated dynamically based on current tab -->
             </div>
 
             <div class="filter-actions">
-                <button id="clearFilters" class="text-button">Clear All Filters</button>
+                <button id="clearFilters" class="text-button">Clear All
+                    Filters</button>
                 <div class="results-info font-sans">
                     <span id="resultsCount">Loading...</span>
                 </div>
@@ -96,19 +103,23 @@
             </div>
 
             <div class="view-toggle">
-                <button class="view-btn active" data-view="list" aria-label="List view">
-                    <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
-                        <rect x="2" y="4" width="16" height="2"/>
-                        <rect x="2" y="9" width="16" height="2"/>
-                        <rect x="2" y="14" width="16" height="2"/>
+                <button class="view-btn active" data-view="list"
+                    aria-label="List view">
+                    <svg width="20" height="20" viewBox="0 0 20 20"
+                        fill="currentColor">
+                        <rect x="2" y="4" width="16" height="2" />
+                        <rect x="2" y="9" width="16" height="2" />
+                        <rect x="2" y="14" width="16" height="2" />
                     </svg>
                 </button>
-                <button class="view-btn" data-view="grid" aria-label="Grid view">
-                    <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
-                        <rect x="2" y="2" width="7" height="7"/>
-                        <rect x="11" y="2" width="7" height="7"/>
-                        <rect x="2" y="11" width="7" height="7"/>
-                        <rect x="11" y="11" width="7" height="7"/>
+                <button class="view-btn" data-view="grid"
+                    aria-label="Grid view">
+                    <svg width="20" height="20" viewBox="0 0 20 20"
+                        fill="currentColor">
+                        <rect x="2" y="2" width="7" height="7" />
+                        <rect x="11" y="2" width="7" height="7" />
+                        <rect x="2" y="11" width="7" height="7" />
+                        <rect x="11" y="11" width="7" height="7" />
                     </svg>
                 </button>
             </div>
@@ -122,9 +133,12 @@
         </div>
 
         <!-- Load More -->
-        <div id="loadMoreContainer" class="load-more-container" style="display: none;">
+        <div id="loadMoreContainer" class="load-more-container"
+            style="display: none;">
             <button id="loadMoreBtn" class="button">Load More</button>
-            <p class="load-more-info font-sans">Showing <span id="showingCount">0</span> of <span id="totalCount">0</span> items</p>
+            <p class="load-more-info font-sans">Showing <span
+                    id="showingCount">0</span> of <span id="totalCount">0</span>
+                items</p>
         </div>
     </main>
 
@@ -137,8 +151,11 @@
         <!-- <p>A research project by Alexandra Edwards • Last updated: July 2025</p> -->
         <div class="citation-box">
             <h4>How to cite the database</h4>
-            <p class="citation-text">Edwards, Alexandra. "Her Hollywood Story: How American Women Writers Shaped Cinema, 1910–1963." Accessed [date]. https://herhollywoodstory.com/database.</p>
-            <button class="copy-citation" aria-label="Copy citation">Copy</button>
+            <p class="citation-text">Edwards, Alexandra. "Her Hollywood Story:
+                How American Women Writers Shaped Cinema, 1910–1963." Accessed
+                [date]. https://herhollywoodstory.com/database.</p>
+            <button class="copy-citation"
+                aria-label="Copy citation">Copy</button>
         </div>
     </footer>
 
@@ -146,4 +163,5 @@
     <script src="../js/citation.js"></script>
 
 </body>
+
 </html>

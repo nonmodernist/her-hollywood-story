@@ -422,7 +422,7 @@
     border-left: 3px solid var(--accent);
     padding: 0.75rem 1rem;
 }
-.professional-life p {
+.professional-life, .archival-collections, .modern-availability, .associations-section p {
     margin: 0.5rem 0;
     color: var(--text-secondary);
     font-size: 1rem;
@@ -446,16 +446,6 @@
     color: var(--text-secondary);
 }
 
-/* --- Associations (SPA) --- */
-.associations-section ul,
-.archival-collections ul {
-    margin: 0.75rem 0 0 1.5rem;
-    padding: 0;
-}
-.associations-section li,
-.archival-collections li {
-    margin: 0.5rem 0;
-}
 
 /* --- Signature Works Section (SPA) --- */
 .signature-works-section {
@@ -484,20 +474,6 @@
     margin-top: 0.5rem;
     font-size: 0.95rem;
     color: var(--text-secondary);
-}
-
-/* --- Career Insights & Research Discovery --- */
-/* Note: These sections moved to database-unused.css as they're not currently implemented */
-.archival-collections h4,
-.modern-availability h4 {
-    font-size: 1.2rem;
-    margin-bottom: 0.75rem;
-    font-style: normal;
-    font-weight: 600;
-}
-/* ul and li styles consolidated with .associations-section above */
-.modern-availability {
-    margin-top: 2rem;
 }
 
 /* --- Mobile Responsive Adjustments (SPA) --- */

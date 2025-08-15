@@ -142,7 +142,7 @@ function renderFilmDetail(film) {
                     ${film.directors ? `<p><strong>Director:</strong> ${formatNameList(film.directors)}</p>` : ''}
                     ${film.writers ? `<p><strong>Screenwriter:</strong> ${formatNameList(film.writers)}</p>` : ''}
                     ${film.cast_members ? `<p><strong>Cast:</strong> ${formatNameList(film.cast_members)}</p>` : ''}
-                    ${film.genres?.length ? `<p><strong>Genres:</strong>${film.genres.join(', ')}</p>` : ''}
+                    ${film.genres?.length ? `<p><strong>Genres:</strong> ${film.genres.join(', ')}</p>` : ''}
                     
                     ${renderAvailabilityContent(film)}
                     ${renderExternalLinksContent(film)}

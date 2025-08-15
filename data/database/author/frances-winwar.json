@@ -1,0 +1,82 @@
+{
+  "id": 514,
+  "slug": "frances-winwar",
+  "name": "Frances Winwar",
+  "birth_year": 1900,
+  "death_year": 1985,
+  "nationality": "Sicilian-American",
+  "literary_movement": null,
+  "biographical_notes": null,
+  "biographical_notes_html": "",
+  "author_notes": null,
+  "wikidata_id": null,
+  "alternative_names": null,
+  "occupations": null,
+  "key_themes": null,
+  "education": null,
+  "maiden_name": null,
+  "key_associations": null,
+  "major_awards": null,
+  "archives_locations": null,
+  "modern_availability": null,
+  "has_portrait": "False",
+  "signature_work_ids": null,
+  "has_pseudonym": "False",
+  "is_pseudonym": "False",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1948,
+    "last_adaptation": 1948,
+    "year_span": 0,
+    "top_genres": [],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1148,
+      "slug": "joan-of-arc-1948",
+      "title": "Joan of Arc",
+      "html_title": "<span class=\"film-title\">Joan of Arc</span>",
+      "year": 1948,
+      "studio": null,
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "Joan of Arc",
+      "work_html_title": "<span class=\"work-title\">Joan of Arc</span>",
+      "work_id": 1029
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 1029,
+      "slug": "joan-of-arc",
+      "title": "Joan of Arc",
+      "formatted_title": "Joan of Arc",
+      "html_title": "<span class=\"work-title\">Joan of Arc</span>",
+      "work_type": "biography",
+      "publication_year": 1948,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 1029,
+    "slug": "joan-of-arc",
+    "title": "Joan of Arc",
+    "formatted_title": "Joan of Arc",
+    "html_title": "<span class=\"work-title\">Joan of Arc</span>",
+    "work_type": "biography",
+    "publication_year": 1948,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "last_updated": "2025-08-14T18:15:44.375155"
+}

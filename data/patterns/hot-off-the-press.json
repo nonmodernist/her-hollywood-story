@@ -2249,6 +2249,31 @@
     },
     {
       "work": {
+        "id": 1029,
+        "slug": "joan-of-arc",
+        "title": "Joan of Arc",
+        "html_title": "<span class=\"work-title\">Joan of Arc</span>",
+        "work_type": "biography",
+        "publication_year": 1948
+      },
+      "author": {
+        "id": 514,
+        "slug": "frances-winwar",
+        "name": "Frances Winwar"
+      },
+      "film": {
+        "id": 1148,
+        "slug": "joan-of-arc-1948",
+        "title": "Joan of Arc",
+        "html_title": "<span class=\"film-title\">Joan of Arc</span>",
+        "year": 1948,
+        "studio": null,
+        "directors": null,
+        "genres": []
+      }
+    },
+    {
+      "work": {
         "id": 260,
         "slug": "once-upon-a-train-the-loco-motive",
         "title": "Once Upon a Train (The Loco Motive)",
@@ -2357,7 +2382,7 @@
     }
   ],
   "stats": {
-    "total": 87,
+    "total": 88,
     "yearRange": {
       "earliest": 1914,
       "latest": 1962
@@ -2366,7 +2391,7 @@
       "1910s": 16,
       "1920s": 34,
       "1930s": 27,
-      "1940s": 6,
+      "1940s": 7,
       "1950s": 2,
       "1960s": 2
     },
@@ -2416,6 +2441,10 @@
         "count": 1
       },
       {
+        "genre": "Unknown",
+        "count": 1
+      },
+      {
         "genre": "Screwball comedy",
         "count": 1
       }
@@ -2439,6 +2468,10 @@
       },
       {
         "type": "autobiography",
+        "count": 1
+      },
+      {
+        "type": "biography",
         "count": 1
       }
     ],
@@ -2528,7 +2561,7 @@
     ]
   },
   "metadata": {
-    "generated": "2025-08-13T21:47:54.248Z",
+    "generated": "2025-08-14T23:04:49.980Z",
     "version": "1.1"
   }
 }

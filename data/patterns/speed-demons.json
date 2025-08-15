@@ -991,6 +991,40 @@
     },
     {
       "work": {
+        "id": 1029,
+        "slug": "joan-of-arc",
+        "title": "Joan of Arc",
+        "formatted_title": "Joan of Arc",
+        "html_title": "<span class=\"work-title\">Joan of Arc</span>",
+        "work_type": "biography",
+        "publication_year": 1948
+      },
+      "author": {
+        "id": 514,
+        "slug": "frances-winwar",
+        "name": "Frances Winwar"
+      },
+      "firstAdaptation": {
+        "id": 1148,
+        "slug": "joan-of-arc-1948",
+        "title": "Joan of Arc",
+        "html_title": "<span class=\"film-title\">Joan of Arc</span>",
+        "year": 1948,
+        "studio": null,
+        "directors": null
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1948
+      }
+    },
+    {
+      "work": {
         "id": 975,
         "slug": "lord-john-in-new-york",
         "title": "Lord John in New York",
@@ -10239,6 +10273,40 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1920
+          }
+        },
+        {
+          "work": {
+            "id": 1029,
+            "slug": "joan-of-arc",
+            "title": "Joan of Arc",
+            "formatted_title": "Joan of Arc",
+            "html_title": "<span class=\"work-title\">Joan of Arc</span>",
+            "work_type": "biography",
+            "publication_year": 1948
+          },
+          "author": {
+            "id": 514,
+            "slug": "frances-winwar",
+            "name": "Frances Winwar"
+          },
+          "firstAdaptation": {
+            "id": 1148,
+            "slug": "joan-of-arc-1948",
+            "title": "Joan of Arc",
+            "html_title": "<span class=\"film-title\">Joan of Arc</span>",
+            "year": 1948,
+            "studio": null,
+            "directors": null
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1948
           }
         },
         {
@@ -26065,6 +26133,40 @@
         },
         {
           "work": {
+            "id": 1029,
+            "slug": "joan-of-arc",
+            "title": "Joan of Arc",
+            "formatted_title": "Joan of Arc",
+            "html_title": "<span class=\"work-title\">Joan of Arc</span>",
+            "work_type": "biography",
+            "publication_year": 1948
+          },
+          "author": {
+            "id": 514,
+            "slug": "frances-winwar",
+            "name": "Frances Winwar"
+          },
+          "firstAdaptation": {
+            "id": 1148,
+            "slug": "joan-of-arc-1948",
+            "title": "Joan of Arc",
+            "html_title": "<span class=\"film-title\">Joan of Arc</span>",
+            "year": 1948,
+            "studio": null,
+            "directors": null
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1948
+          }
+        },
+        {
+          "work": {
             "id": 285,
             "slug": "thanks-god-ill-take-it-from-here",
             "title": "Thanks God! I'll Take It From Here",
@@ -27875,13 +27977,13 @@
     ]
   },
   "stats": {
-    "total": 272,
-    "sameYearCount": 87,
+    "total": 273,
+    "sameYearCount": 88,
     "oneYearCount": 185,
     "peakDecade": "1920"
   },
   "metadata": {
-    "generated": "2025-08-13T21:47:54.233Z",
+    "generated": "2025-08-14T23:04:49.969Z",
     "version": "2.0"
   }
 }

@@ -19094,11 +19094,49 @@
       "hasMagazinePublication": false,
       "hasPhotoplayEdition": true,
       "searchText": "the best of everything rona jaffe"
+    },
+    {
+      "id": 1028,
+      "slug": "in-the-cool-of-the-day",
+      "title": "In the Cool of the Day",
+      "formatted_title": "In the Cool of the Day",
+      "html_title": "<span class=\"work-title\">In the Cool of the Day</span>",
+      "workType": "novel",
+      "authorId": 513,
+      "authorName": "Susan Ertz",
+      "authorSlug": "susan-ertz",
+      "publicationYear": 1960,
+      "adaptationCount": 1,
+      "yearSpan": 0,
+      "isRemakeChampion": false,
+      "firstAdaptationYear": 1963,
+      "hasMagazinePublication": false,
+      "hasPhotoplayEdition": true,
+      "searchText": "in the cool of the day susan ertz"
+    },
+    {
+      "id": 1029,
+      "slug": "joan-of-arc",
+      "title": "Joan of Arc",
+      "formatted_title": "Joan of Arc",
+      "html_title": "<span class=\"work-title\">Joan of Arc</span>",
+      "workType": "biography",
+      "authorId": 514,
+      "authorName": "Frances Winwar",
+      "authorSlug": "frances-winwar",
+      "publicationYear": 1948,
+      "adaptationCount": 1,
+      "yearSpan": 0,
+      "isRemakeChampion": false,
+      "firstAdaptationYear": 1948,
+      "hasMagazinePublication": false,
+      "hasPhotoplayEdition": false,
+      "searchText": "joan of arc frances winwar"
     }
   ],
   "metadata": {
-    "totalCount": 1007,
-    "withAdaptations": 1005,
+    "totalCount": 1009,
+    "withAdaptations": 1007,
     "remakeChampions": 13
   }
 }

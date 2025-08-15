@@ -142,7 +142,10 @@ function renderFilmDetail(film) {
                     ${film.directors ? `<p><strong>Director:</strong> ${formatNameList(film.directors)}</p>` : ''}
                     ${film.writers ? `<p><strong>Screenwriter:</strong> ${formatNameList(film.writers)}</p>` : ''}
                     ${film.cast_members ? `<p><strong>Cast:</strong> ${formatNameList(film.cast_members)}</p>` : ''}
-                    ${film.genres?.length ? `<p><strong>Genres:</strong> ${film.genres.join(', ')}</p>` : ''}
+                    ${film.genres?.length ? `<p><strong>Genres:</strong>${film.genres.join(', ')}</p>` : ''}
+                    
+                    ${renderAvailabilityContent(film)}
+                    ${renderExternalLinksContent(film)}
                 </section>
 
                                 ${film.media?.length ? `
@@ -163,6 +166,7 @@ function renderFilmDetail(film) {
                         </div>
                     </section>
                 ` : ''}
+
                 
                 <section class="detail-section">
                     <h2>Source Work</h2>
@@ -187,6 +191,110 @@ function renderFilmDetail(film) {
 
             </div>
         </div>
+    `;
+}
+
+// Render availability and archive location content
+function renderAvailabilityContent(film) {
+    // Check if we have any availability or archive data
+    const hasAvailability = film.availability && film.availability !== null;
+    const hasArchiveLocation = film.archive_location && film.archive_location !== null;
+    
+    if (!hasAvailability && !hasArchiveLocation) {
+        return '';
+    }
+    
+    let availabilityHTML = '';
+    
+    // Process availability status
+    if (hasAvailability) {
+        const availabilityStatuses = film.availability.split('|').map(status => {
+            const trimmedStatus = status.trim();
+            switch (trimmedStatus) {
+                case 'lost': return 'This film is considered lost';
+                case 'extant': return 'Preserved in archives';
+                case 'streaming': return 'Available on streaming platforms';
+                case 'home_video': return 'Available on DVD/Blu-ray';
+                case 'public_domain': return 'In the public domain';
+                case 'restricted': return 'Access restricted';
+                default: return trimmedStatus;
+            }
+        });
+        
+        availabilityHTML += `<p class="detail-text"><strong>Status:</strong> ${availabilityStatuses.join(' · ')}</p>`;
+    }
+    
+    // Process archive location
+    if (hasArchiveLocation) {
+        const parts = film.archive_location.split(';');
+        const physicalArchives = parts[0] ? parts[0].trim() : '';
+        const digitalStreaming = parts[1] ? parts[1].trim() : '';
+        
+        if (physicalArchives) {
+            availabilityHTML += `<p class="detail-text"><strong>Archive Locations:</strong> ${physicalArchives}</p>`;
+        }
+        
+        if (digitalStreaming) {
+            const streamingLinks = digitalStreaming.split(',').map(platform => {
+                const trimmedPlatform = platform.trim();
+                
+                if (trimmedPlatform.includes('Internet Archive (free)')) {
+                    const searchQuery = encodeURIComponent(`${film.title} ${film.release_year}`);
+                    return `<a href="https://archive.org/details/feature_films?tab=collection&query=${searchQuery}" target="_blank" rel="noopener">Internet Archive</a> (free)`;
+                } else if (trimmedPlatform.includes('YouTube (free)')) {
+                    const searchQuery = encodeURIComponent(`${film.title} ${film.release_year}`);
+                    return `<a href="https://www.youtube.com/results?search_query=${searchQuery}" target="_blank" rel="noopener">YouTube</a> (free)`;
+                } else if (trimmedPlatform.includes('Criterion Channel (subscription)')) {
+                    return 'Criterion Channel (subscription required)';
+                } else {
+                    return trimmedPlatform;
+                }
+            });
+            
+            availabilityHTML += `<p class="detail-text"><strong>Streaming:</strong> ${streamingLinks.join(' · ')}</p>`;
+        }
+    }
+    
+    return `
+        <h4 class="detail-subheading">Availability & Access</h4>
+        ${availabilityHTML}
+    `;
+}
+
+// Render external database links content
+function renderExternalLinksContent(film) {
+    const hasAFI = film.afi_catalog_id && film.afi_catalog_id !== null;
+    const hasIMDb = film.imdb_id && film.imdb_id !== null;
+    
+    if (!hasAFI && !hasIMDb) {
+        return '';
+    }
+    
+    let linksHTML = '';
+    
+    if (hasAFI) {
+        linksHTML += `
+            <p class="external-link font-sans">
+                <a href="https://catalog.afi.com/Catalog/moviedetails/${film.afi_catalog_id}" target="_blank" rel="noopener">
+                    View in AFI Catalog →
+                </a>
+            </p>
+        `;
+    }
+    
+    if (hasIMDb) {
+        linksHTML += `
+            <p class="external-link font-sans">
+                <a href="https://www.imdb.com/title/${film.imdb_id}/" target="_blank" rel="noopener">
+                    View on IMDb →
+                </a>
+            </p>
+        `;
+    }
+    
+    return `
+        <h4 class="detail-subheading">External Resources</h4>
+        ${linksHTML}
     `;
 }
 
@@ -277,41 +385,41 @@ function renderAuthorDetail(author) {
                         
                         ${author.education || occupations.length > 0 || author.major_awards || author.literary_movement ? `
                             <div class="professional-life">
-                                <h4>Professional Life</h4>
-                                ${author.education ? `<p><strong>Education:</strong> ${author.education}</p>` : ''}
-                                ${occupations.length > 0 ? `<p><strong>Occupations:</strong> ${occupations.join(', ')}</p>` : ''}
-                                ${author.major_awards ? `<p><strong>Major Awards:</strong> ${author.major_awards.replace(/^\[|\]$/g, '').replace(/'/g, '').split(', ').join(', ')}</p>` : ''}
-                                ${author.literary_movement ? `<p><strong>Literary Movement:</strong> ${author.literary_movement}</p>` : ''}
+                                <h4 class="detail-subheading">Professional Life</h4>
+                                ${author.education ? `<p class="detail-text"><strong>Education:</strong> ${author.education}</p>` : ''}
+                                ${occupations.length > 0 ? `<p class="detail-text"><strong>Occupations:</strong> ${occupations.join(', ')}</p>` : ''}
+                                ${author.major_awards ? `<p class="detail-text"><strong>Major Awards:</strong> ${author.major_awards.replace(/^\[|\]$/g, '').replace(/'/g, '').split(', ').join(', ')}</p>` : ''}
+                                ${author.literary_movement ? `<p class="detail-text"><strong>Literary Movement:</strong> ${author.literary_movement}</p>` : ''}
                             </div>
                         ` : ''}
                         
                         ${themes.length > 0 ? `
                             <div class="themes-section">
-                                <h4>Themes & Subjects</h4>
-                                <div class="theme-tags">
-                                    ${themes.map(theme => `<span class="theme-tag">${theme}</span>`).join('')}
+                                <h4 class="detail-subheading">Themes & Subjects</h4>
+                                <div class="pseudo-tags">
+                                    ${themes.map(theme => `<span class="pseudo-tag">${theme}</span>`).join('')}
                                 </div>
                             </div>
                         ` : ''}
                         
                         ${associations.length > 0 ? `
                             <div class="associations-section">
-                                <h4>Key Associations</h4>
-                                <p>${associations.join(', ')}</p>
+                                <h4 class="detail-subheading">Key Associations</h4>
+                                <p class="detail-text">${associations.join(', ')}</p>
                             </div>
                         ` : ''}
 
                         ${archives.length > 0 ? `
                             <div class="archival-collections">
-                                <h4>Archival Collections</h4>
-                                <p>${archives.join(', ')}</p>
+                                <h4 class="detail-subheading">Archival Collections</h4>
+                                <p class="detail-text">${archives.join(', ')}</p>
                             </div>
                         ` : ''}
 
                         ${author.modern_availability ? `
                             <div class="modern-availability">
-                                <h4>Modern Availability</h4>
-                                <p>${author.modern_availability}</p>
+                                <h4 class="detail-subheading">Modern Availability</h4>
+                                <p class="detail-text">${author.modern_availability}</p>
                             </div>
                         ` : ''}
                     </section>

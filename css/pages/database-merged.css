@@ -404,17 +404,6 @@
     font-weight: 700;
     letter-spacing: 0.02em;
 }
-.about-author h4 {
-    font-size: 1.25rem;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    font-style: normal;
-    font-variant: small-caps;
-    font-weight: 600;
-    color: var(--text-primary);
-    border-bottom: 1px solid var(--border-light);
-    padding-bottom: 0.25rem;
-}
 .info-row {
     margin-bottom: 1rem;
     font-size: 1.1rem;
@@ -422,29 +411,8 @@
     border-left: 3px solid var(--accent);
     padding: 0.75rem 1rem;
 }
-.professional-life, .archival-collections, .modern-availability, .associations-section p {
-    margin: 0.5rem 0;
-    color: var(--text-secondary);
-    font-size: 1rem;
-    line-height: 1.6;
-}
 
 
-/* --- Theme Tags (SPA) --- */
-.theme-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    margin-top: 0.75rem;
-}
-.theme-tag {
-    background: var(--background);
-    border: 1px solid var(--border-light);
-    padding: 0.25rem 0.75rem;
-    border-radius: 20px;
-    font-size: 0.95rem;
-    color: var(--text-secondary);
-}
 
 
 /* --- Signature Works Section (SPA) --- */

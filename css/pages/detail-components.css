@@ -94,3 +94,42 @@
     color: var(--text-secondary);
     font-style: normal;
 }
+
+/* --- Reusable Detail Components --- */
+
+/* Small caps section headers for detail pages */
+.detail-subheading {
+    font-size: 1.25rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: 600;
+    color: var(--text-primary);
+    border-bottom: 1px solid var(--border-light);
+    padding-bottom: 0.25rem;
+}
+
+/* Pseudo tags for themes, subjects, and categories */
+.pseudo-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 0.75rem;
+}
+.pseudo-tag {
+    background: var(--background);
+    border: 1px solid var(--border-light);
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+}
+
+/* Slightly smaller paragraph text for detail sections */
+.detail-text {
+    margin: 0.5rem 0;
+    color: var(--text-secondary);
+    font-size: 1rem;
+    line-height: 1.6;
+}

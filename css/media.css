@@ -40,6 +40,7 @@
     color: var(--text-muted);
     font-style: italic;
     margin-top: 0.25rem;
+    line-height: 1.3;
 }
 
 /* --- Mobile Adjustments for Media Gallery (SPA) --- */

@@ -41,11 +41,24 @@
       "studio": "Thanhouser",
       "directors": null,
       "genres": [
-        "Melodrama",
-        "Short"
+        "Melodrama"
       ],
       "has_media": true,
       "years_after_publication": 54
+    },
+    {
+      "id": 646,
+      "slug": "lena-rivers-1914",
+      "title": "Lena Rivers",
+      "html_title": "<span class=\"film-title\">Lena Rivers</span>",
+      "year": 1914,
+      "studio": "Whitman Features",
+      "directors": null,
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "years_after_publication": 58
     },
     {
       "id": 647,
@@ -60,20 +73,6 @@
         "Comedy"
       ],
       "has_media": true,
-      "years_after_publication": 58
-    },
-    {
-      "id": 646,
-      "slug": "lena-rivers-1914",
-      "title": "Lena Rivers",
-      "html_title": "<span class=\"film-title\">Lena Rivers</span>",
-      "year": 1914,
-      "studio": "Whitman Features",
-      "directors": null,
-      "genres": [
-        "Melodrama"
-      ],
-      "has_media": false,
       "years_after_publication": 58
     },
     {

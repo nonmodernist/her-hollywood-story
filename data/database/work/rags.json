@@ -1,0 +1,63 @@
+{
+  "id": 1030,
+  "slug": "rags",
+  "title": "Rags",
+  "formatted_title": "Rags",
+  "html_title": "<span class=\"work-title\">Rags</span>",
+  "work_type": "novel",
+  "publication_year": 1915,
+  "plot_summary": null,
+  "plot_summary_html": "",
+  "literary_significance": null,
+  "literary_significance_html": "",
+  "attribution_notes": null,
+  "author": {
+    "id": 197,
+    "slug": "edith-barnard-delano",
+    "name": "Edith Barnard Delano",
+    "birth_year": 1874,
+    "death_year": 1946,
+    "film_count": 3
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 0,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1149,
+      "slug": "rags-1915",
+      "title": "Rags",
+      "html_title": "<span class=\"film-title\">Rags</span>",
+      "year": 1915,
+      "studio": "Famous Players",
+      "directors": "James Kirkwood",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 0
+    }
+  ],
+  "adaptation_gaps": [],
+  "has_photoplay_edition": false,
+  "magazine_publication": null,
+  "external_urls": [],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": null,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
+  "last_updated": "2025-08-16T17:03:47.140217"
+}

@@ -38,10 +38,12 @@
       "title": "The Best of Everything",
       "html_title": "<span class=\"film-title\">The Best of Everything</span>",
       "year": 1959,
-      "studio": null,
-      "directors": null,
-      "genres": [],
-      "has_media": false,
+      "studio": "Company of Artists",
+      "directors": "Jean Negulesco",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
       "years_after_publication": 1
     }
   ],
@@ -54,8 +56,8 @@
     "internet_archive_id": null,
     "openlibrary_id": null,
     "oclc_number": null,
-    "wikidata_id": null,
+    "wikidata_id": "Q589841",
     "viaf_id": null
   },
-  "last_updated": "2025-08-07T15:26:26.774982"
+  "last_updated": "2025-08-16T17:35:21.505745"
 }

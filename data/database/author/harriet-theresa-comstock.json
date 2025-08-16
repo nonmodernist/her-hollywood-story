@@ -35,12 +35,12 @@
         "count": 3
       },
       {
-        "genre": "Short",
+        "genre": "Melodrama",
         "count": 2
       },
       {
-        "genre": "Melodrama",
-        "count": 2
+        "genre": "Short",
+        "count": 1
       }
     ],
     "films_by_decade": {
@@ -79,8 +79,7 @@
       "studio": "Universal",
       "directors": "Joseph De Grasse",
       "genres": [
-        "Drama",
-        "Short"
+        "Drama"
       ],
       "has_media": true,
       "work_title": "The Place Beyond the Winds",

@@ -35,10 +35,6 @@
         "count": 5
       },
       {
-        "genre": "Short",
-        "count": 1
-      },
-      {
         "genre": "Comedy",
         "count": 1
       },
@@ -67,25 +63,7 @@
       "studio": "Thanhouser",
       "directors": null,
       "genres": [
-        "Melodrama",
-        "Short"
-      ],
-      "has_media": true,
-      "work_title": "Lena Rivers",
-      "work_html_title": "<span class=\"work-title\">Lena Rivers</span>",
-      "work_id": 568
-    },
-    {
-      "id": 647,
-      "slug": "lena-rivers-1914",
-      "title": "Lena Rivers",
-      "html_title": "<span class=\"film-title\">Lena Rivers</span>",
-      "year": 1914,
-      "studio": "Cosmos",
-      "directors": null,
-      "genres": [
-        "Melodrama",
-        "Comedy"
+        "Melodrama"
       ],
       "has_media": true,
       "work_title": "Lena Rivers",
@@ -104,6 +82,23 @@
         "Melodrama"
       ],
       "has_media": false,
+      "work_title": "Lena Rivers",
+      "work_html_title": "<span class=\"work-title\">Lena Rivers</span>",
+      "work_id": 568
+    },
+    {
+      "id": 647,
+      "slug": "lena-rivers-1914",
+      "title": "Lena Rivers",
+      "html_title": "<span class=\"film-title\">Lena Rivers</span>",
+      "year": 1914,
+      "studio": "Cosmos",
+      "directors": null,
+      "genres": [
+        "Melodrama",
+        "Comedy"
+      ],
+      "has_media": true,
       "work_title": "Lena Rivers",
       "work_html_title": "<span class=\"work-title\">Lena Rivers</span>",
       "work_id": 568

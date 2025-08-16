@@ -86,6 +86,33 @@
     },
     {
       "work": {
+        "id": 1030,
+        "slug": "rags",
+        "title": "Rags",
+        "html_title": "<span class=\"work-title\">Rags</span>",
+        "work_type": "novel",
+        "publication_year": 1915
+      },
+      "author": {
+        "id": 197,
+        "slug": "edith-barnard-delano",
+        "name": "Edith Barnard Delano"
+      },
+      "film": {
+        "id": 1149,
+        "slug": "rags-1915",
+        "title": "Rags",
+        "html_title": "<span class=\"film-title\">Rags</span>",
+        "year": 1915,
+        "studio": "Famous Players",
+        "directors": "James Kirkwood",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
         "id": 12,
         "slug": "the-shop-girl",
         "title": "The Shop Girl",
@@ -1889,7 +1916,7 @@
         "html_title": "<span class=\"film-title\">Now I'll Tell</span>",
         "year": 1934,
         "studio": "Fox Film",
-        "directors": "Edwin J. Burke",
+        "directors": null,
         "genres": [
           "Biography",
           "Drama"
@@ -2249,31 +2276,6 @@
     },
     {
       "work": {
-        "id": 1029,
-        "slug": "joan-of-arc",
-        "title": "Joan of Arc",
-        "html_title": "<span class=\"work-title\">Joan of Arc</span>",
-        "work_type": "biography",
-        "publication_year": 1948
-      },
-      "author": {
-        "id": 514,
-        "slug": "frances-winwar",
-        "name": "Frances Winwar"
-      },
-      "film": {
-        "id": 1148,
-        "slug": "joan-of-arc-1948",
-        "title": "Joan of Arc",
-        "html_title": "<span class=\"film-title\">Joan of Arc</span>",
-        "year": 1948,
-        "studio": null,
-        "directors": null,
-        "genres": []
-      }
-    },
-    {
-      "work": {
         "id": 260,
         "slug": "once-upon-a-train-the-loco-motive",
         "title": "Once Upon a Train (The Loco Motive)",
@@ -2388,17 +2390,17 @@
       "latest": 1962
     },
     "byDecade": {
-      "1910s": 16,
+      "1910s": 17,
       "1920s": 34,
       "1930s": 27,
-      "1940s": 7,
+      "1940s": 6,
       "1950s": 2,
       "1960s": 2
     },
     "byGenre": [
       {
         "genre": "Drama",
-        "count": 34
+        "count": 35
       },
       {
         "genre": "Melodrama",
@@ -2441,10 +2443,6 @@
         "count": 1
       },
       {
-        "genre": "Unknown",
-        "count": 1
-      },
-      {
         "genre": "Screwball comedy",
         "count": 1
       }
@@ -2452,7 +2450,7 @@
     "byWorkType": [
       {
         "type": "novel",
-        "count": 51
+        "count": 52
       },
       {
         "type": "short story",
@@ -2468,10 +2466,6 @@
       },
       {
         "type": "autobiography",
-        "count": 1
-      },
-      {
-        "type": "biography",
         "count": 1
       }
     ],
@@ -2501,12 +2495,12 @@
         "count": 5
       },
       {
-        "studio": "Columbia",
+        "studio": "Famous Players",
         "count": 4
       },
       {
-        "studio": "Famous Players",
-        "count": 3
+        "studio": "Columbia",
+        "count": 4
       },
       {
         "studio": "Vitagraph",
@@ -2561,7 +2555,7 @@
     ]
   },
   "metadata": {
-    "generated": "2025-08-14T23:04:49.980Z",
+    "generated": "2025-08-16T18:06:18.908Z",
     "version": "1.1"
   }
 }

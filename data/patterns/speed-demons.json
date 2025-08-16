@@ -991,40 +991,6 @@
     },
     {
       "work": {
-        "id": 1029,
-        "slug": "joan-of-arc",
-        "title": "Joan of Arc",
-        "formatted_title": "Joan of Arc",
-        "html_title": "<span class=\"work-title\">Joan of Arc</span>",
-        "work_type": "biography",
-        "publication_year": 1948
-      },
-      "author": {
-        "id": 514,
-        "slug": "frances-winwar",
-        "name": "Frances Winwar"
-      },
-      "firstAdaptation": {
-        "id": 1148,
-        "slug": "joan-of-arc-1948",
-        "title": "Joan of Arc",
-        "html_title": "<span class=\"film-title\">Joan of Arc</span>",
-        "year": 1948,
-        "studio": null,
-        "directors": null
-      },
-      "speed": {
-        "delay": 0,
-        "delayMonths": "Same year",
-        "isZeroDelay": true
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1948
-      }
-    },
-    {
-      "work": {
         "id": 975,
         "slug": "lord-john-in-new-york",
         "title": "Lord John in New York",
@@ -1351,7 +1317,7 @@
         "html_title": "<span class=\"film-title\">Now I'll Tell</span>",
         "year": 1934,
         "studio": "Fox Film",
-        "directors": "Edwin J. Burke"
+        "directors": null
       },
       "speed": {
         "delay": 0,
@@ -1463,6 +1429,40 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1937
+      }
+    },
+    {
+      "work": {
+        "id": 1030,
+        "slug": "rags",
+        "title": "Rags",
+        "formatted_title": "Rags",
+        "html_title": "<span class=\"work-title\">Rags</span>",
+        "work_type": "novel",
+        "publication_year": 1915
+      },
+      "author": {
+        "id": 197,
+        "slug": "edith-barnard-delano",
+        "name": "Edith Barnard Delano"
+      },
+      "firstAdaptation": {
+        "id": 1149,
+        "slug": "rags-1915",
+        "title": "Rags",
+        "html_title": "<span class=\"film-title\">Rags</span>",
+        "year": 1915,
+        "studio": "Famous Players",
+        "directors": "James Kirkwood"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1915
       }
     },
     {
@@ -7130,8 +7130,8 @@
         "title": "The Best of Everything",
         "html_title": "<span class=\"film-title\">The Best of Everything</span>",
         "year": 1959,
-        "studio": null,
-        "directors": null
+        "studio": "Company of Artists",
+        "directors": "Jean Negulesco"
       },
       "speed": {
         "delay": 1,
@@ -10277,40 +10277,6 @@
         },
         {
           "work": {
-            "id": 1029,
-            "slug": "joan-of-arc",
-            "title": "Joan of Arc",
-            "formatted_title": "Joan of Arc",
-            "html_title": "<span class=\"work-title\">Joan of Arc</span>",
-            "work_type": "biography",
-            "publication_year": 1948
-          },
-          "author": {
-            "id": 514,
-            "slug": "frances-winwar",
-            "name": "Frances Winwar"
-          },
-          "firstAdaptation": {
-            "id": 1148,
-            "slug": "joan-of-arc-1948",
-            "title": "Joan of Arc",
-            "html_title": "<span class=\"film-title\">Joan of Arc</span>",
-            "year": 1948,
-            "studio": null,
-            "directors": null
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1948
-          }
-        },
-        {
-          "work": {
             "id": 975,
             "slug": "lord-john-in-new-york",
             "title": "Lord John in New York",
@@ -10637,7 +10603,7 @@
             "html_title": "<span class=\"film-title\">Now I'll Tell</span>",
             "year": 1934,
             "studio": "Fox Film",
-            "directors": "Edwin J. Burke"
+            "directors": null
           },
           "speed": {
             "delay": 0,
@@ -10749,6 +10715,40 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1937
+          }
+        },
+        {
+          "work": {
+            "id": 1030,
+            "slug": "rags",
+            "title": "Rags",
+            "formatted_title": "Rags",
+            "html_title": "<span class=\"work-title\">Rags</span>",
+            "work_type": "novel",
+            "publication_year": 1915
+          },
+          "author": {
+            "id": 197,
+            "slug": "edith-barnard-delano",
+            "name": "Edith Barnard Delano"
+          },
+          "firstAdaptation": {
+            "id": 1149,
+            "slug": "rags-1915",
+            "title": "Rags",
+            "html_title": "<span class=\"film-title\">Rags</span>",
+            "year": 1915,
+            "studio": "Famous Players",
+            "directors": "James Kirkwood"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1915
           }
         },
         {
@@ -16418,8 +16418,8 @@
             "title": "The Best of Everything",
             "html_title": "<span class=\"film-title\">The Best of Everything</span>",
             "year": 1959,
-            "studio": null,
-            "directors": null
+            "studio": "Company of Artists",
+            "directors": "Jean Negulesco"
           },
           "speed": {
             "delay": 1,
@@ -18847,6 +18847,40 @@
           "context": {
             "totalAdaptations": 2,
             "lastAdaptation": 1923
+          }
+        },
+        {
+          "work": {
+            "id": 1030,
+            "slug": "rags",
+            "title": "Rags",
+            "formatted_title": "Rags",
+            "html_title": "<span class=\"work-title\">Rags</span>",
+            "work_type": "novel",
+            "publication_year": 1915
+          },
+          "author": {
+            "id": 197,
+            "slug": "edith-barnard-delano",
+            "name": "Edith Barnard Delano"
+          },
+          "firstAdaptation": {
+            "id": 1149,
+            "slug": "rags-1915",
+            "title": "Rags",
+            "html_title": "<span class=\"film-title\">Rags</span>",
+            "year": 1915,
+            "studio": "Famous Players",
+            "directors": "James Kirkwood"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1915
           }
         },
         {
@@ -23737,7 +23771,7 @@
             "html_title": "<span class=\"film-title\">Now I'll Tell</span>",
             "year": 1934,
             "studio": "Fox Film",
-            "directors": "Edwin J. Burke"
+            "directors": null
           },
           "speed": {
             "delay": 0,
@@ -26133,40 +26167,6 @@
         },
         {
           "work": {
-            "id": 1029,
-            "slug": "joan-of-arc",
-            "title": "Joan of Arc",
-            "formatted_title": "Joan of Arc",
-            "html_title": "<span class=\"work-title\">Joan of Arc</span>",
-            "work_type": "biography",
-            "publication_year": 1948
-          },
-          "author": {
-            "id": 514,
-            "slug": "frances-winwar",
-            "name": "Frances Winwar"
-          },
-          "firstAdaptation": {
-            "id": 1148,
-            "slug": "joan-of-arc-1948",
-            "title": "Joan of Arc",
-            "html_title": "<span class=\"film-title\">Joan of Arc</span>",
-            "year": 1948,
-            "studio": null,
-            "directors": null
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1948
-          }
-        },
-        {
-          "work": {
             "id": 285,
             "slug": "thanks-god-ill-take-it-from-here",
             "title": "Thanks God! I'll Take It From Here",
@@ -27650,8 +27650,8 @@
             "title": "The Best of Everything",
             "html_title": "<span class=\"film-title\">The Best of Everything</span>",
             "year": 1959,
-            "studio": null,
-            "directors": null
+            "studio": "Company of Artists",
+            "directors": "Jean Negulesco"
           },
           "speed": {
             "delay": 1,
@@ -27983,7 +27983,7 @@
     "peakDecade": "1920"
   },
   "metadata": {
-    "generated": "2025-08-14T23:04:49.969Z",
+    "generated": "2025-08-16T18:06:18.881Z",
     "version": "2.0"
   }
 }

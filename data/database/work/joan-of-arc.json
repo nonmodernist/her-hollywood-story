@@ -26,23 +26,23 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": true,
-    "speed_demon_delay": 0,
+    "is_speed_demon": false,
+    "speed_demon_delay": 2,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
   "adaptations": [
     {
       "id": 1148,
-      "slug": "joan-of-arc-1948",
+      "slug": "joan-of-arc-1950",
       "title": "Joan of Arc",
       "html_title": "<span class=\"film-title\">Joan of Arc</span>",
-      "year": 1948,
+      "year": 1950,
       "studio": null,
       "directors": null,
       "genres": [],
-      "has_media": false,
-      "years_after_publication": 0
+      "has_media": true,
+      "years_after_publication": 2
     }
   ],
   "adaptation_gaps": [],

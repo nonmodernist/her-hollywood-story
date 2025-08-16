@@ -24,19 +24,19 @@
   "has_pseudonym": "False",
   "is_pseudonym": "False",
   "stats": {
-    "total_films": 2,
-    "works_adapted": 2,
-    "first_adaptation": 1918,
+    "total_films": 3,
+    "works_adapted": 3,
+    "first_adaptation": 1915,
     "last_adaptation": 1918,
-    "year_span": 0,
+    "year_span": 3,
     "top_genres": [
       {
         "genre": "Drama",
-        "count": 2
+        "count": 3
       }
     ],
     "films_by_decade": {
-      "1910": 2
+      "1910": 3
     }
   },
   "patterns": {
@@ -44,6 +44,22 @@
     "twenty_timer_rank": null
   },
   "films": [
+    {
+      "id": 1149,
+      "slug": "rags-1915",
+      "title": "Rags",
+      "html_title": "<span class=\"film-title\">Rags</span>",
+      "year": 1915,
+      "studio": "Famous Players",
+      "directors": "James Kirkwood",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "work_title": "Rags",
+      "work_html_title": "<span class=\"work-title\">Rags</span>",
+      "work_id": 1030
+    },
     {
       "id": 509,
       "slug": "all-woman-1918",
@@ -79,6 +95,17 @@
   ],
   "adapted_works": [
     {
+      "id": 1030,
+      "slug": "rags",
+      "title": "Rags",
+      "formatted_title": "Rags",
+      "html_title": "<span class=\"work-title\">Rags</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 440,
       "slug": "when-carey-came-to-town",
       "title": "When Carey Came to Town",
@@ -102,13 +129,13 @@
     }
   ],
   "most_adapted_work": {
-    "id": 440,
-    "slug": "when-carey-came-to-town",
-    "title": "When Carey Came to Town",
-    "formatted_title": "When Carey Came to Town",
-    "html_title": "<span class=\"work-title\">When Carey Came to Town</span>",
+    "id": 1030,
+    "slug": "rags",
+    "title": "Rags",
+    "formatted_title": "Rags",
+    "html_title": "<span class=\"work-title\">Rags</span>",
     "work_type": "novel",
-    "publication_year": 1916,
+    "publication_year": 1915,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

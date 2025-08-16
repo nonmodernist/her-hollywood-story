@@ -5,20 +5,22 @@
   "formatted_title": "The Best of Everything",
   "html_title": "<span class=\"film-title\">The Best of Everything</span>",
   "release_year": 1959,
-  "runtime_minutes": null,
-  "country_of_production": null,
-  "genres": [],
-  "studio": null,
-  "production_companies": null,
-  "distribution_companies": null,
-  "directors": null,
-  "writers": null,
-  "cast_members": null,
-  "color_info": null,
+  "runtime_minutes": 121,
+  "country_of_production": "United States",
+  "genres": [
+    "Melodrama"
+  ],
+  "studio": "Company of Artists",
+  "production_companies": "Company of Artists, Inc.",
+  "distribution_companies": "Twentieth Century-Fox Film Corp.",
+  "directors": "Jean Negulesco",
+  "writers": "Edith Sommer|Mann Rubin",
+  "cast_members": "Hope Lange|Stephen Boyd|Suzy Parker|Martha Hyer|Diane Baker|Brian Aherne|Robert Evans|Brett Halsey|Donald Harron|Sue Carson",
+  "color_info": "color",
   "availability": null,
   "archive_location": null,
   "adaptation_notes": null,
-  "afi_catalog_id": null,
+  "afi_catalog_id": 52828,
   "source_work": {
     "id": 1027,
     "slug": "the-best-of-everything",
@@ -40,13 +42,27 @@
     "name": "Rona Jaffe",
     "birth_year": 1931,
     "death_year": 2005,
-    "nationality": "American",
+    "nationality": "United States",
     "film_count": 1
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
-  "last_updated": "2025-08-07T15:27:08.589379"
+  "media": [
+    {
+      "id": 6003,
+      "media_type": "still",
+      "title": "1959 Cooley's Gardens (1959) (16463573157).jpg",
+      "caption": "Title: 1959 Cooley's Gardens Identifier: 1959cooleysgarde1959cool (find matches) Year: 1959 (1950s) Authors: Cooley's Gardens; Henry G. Gilbert Nursery and Seed Trade Catalog Collection Subjects: Nurseries (Horticulture) Catalogs; Irises (Plants) Catalogs Publisher: Silverton, Ore. : Cooley's Gardens Contributing Library: U.S. Department of Agriculture, National Agricultural Library Digitizing Sponsor: U.S. Department of Agriculture, National Agricultural Library View Book Page: Book Viewer Abou",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/1959_Cooley%27s_Gardens_%281959%29_%2816463573157%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/1959_Cooley%27s_Gardens_%281959%29_%2816463573157%29.jpg/300px-1959_Cooley%27s_Gardens_%281959%29_%2816463573157%29.jpg",
+      "source": "wikimedia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1959_Cooley's_Gardens_(1959)_(16463573157).jpg",
+      "license": "other",
+      "attribution": "Internet Archive Book Images",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 1,
+  "last_updated": "2025-08-16T18:02:30.289388"
 }

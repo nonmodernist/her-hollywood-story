@@ -19128,15 +19128,34 @@
       "adaptationCount": 1,
       "yearSpan": 0,
       "isRemakeChampion": false,
-      "firstAdaptationYear": 1948,
+      "firstAdaptationYear": 1950,
       "hasMagazinePublication": false,
       "hasPhotoplayEdition": false,
       "searchText": "joan of arc frances winwar"
+    },
+    {
+      "id": 1030,
+      "slug": "rags",
+      "title": "Rags",
+      "formatted_title": "Rags",
+      "html_title": "<span class=\"work-title\">Rags</span>",
+      "workType": "novel",
+      "authorId": 197,
+      "authorName": "Edith Barnard Delano",
+      "authorSlug": "edith-barnard-delano",
+      "publicationYear": 1915,
+      "adaptationCount": 1,
+      "yearSpan": 0,
+      "isRemakeChampion": false,
+      "firstAdaptationYear": 1915,
+      "hasMagazinePublication": false,
+      "hasPhotoplayEdition": false,
+      "searchText": "rags edith barnard delano"
     }
   ],
   "metadata": {
-    "totalCount": 1009,
-    "withAdaptations": 1007,
+    "totalCount": 1010,
+    "withAdaptations": 1008,
     "remakeChampions": 13
   }
 }

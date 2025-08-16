@@ -6,10 +6,10 @@
   "death_year": 1985,
   "nationality": "Anglo-American",
   "literary_movement": null,
-  "biographical_notes": null,
-  "biographical_notes_html": "",
+  "biographical_notes": "British writer (1887–1985). Occupations: science fiction writer, writer",
+  "biographical_notes_html": "<p>British writer (1887–1985). Occupations: science fiction writer, writer</p>",
   "author_notes": null,
-  "wikidata_id": null,
+  "wikidata_id": "Q7647805",
   "alternative_names": null,
   "occupations": null,
   "key_themes": null,
@@ -29,7 +29,16 @@
     "first_adaptation": 1963,
     "last_adaptation": 1963,
     "year_span": 0,
-    "top_genres": [],
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      },
+      {
+        "genre": "Romance",
+        "count": 1
+      }
+    ],
     "films_by_decade": {
       "1960": 1
     }
@@ -45,9 +54,12 @@
       "title": "In the Cool of the Day",
       "html_title": "<span class=\"film-title\">In the Cool of the Day</span>",
       "year": 1963,
-      "studio": null,
-      "directors": null,
-      "genres": [],
+      "studio": "John Houseman Productions|Metro-Goldwyn-Mayer, Inc.",
+      "directors": "Robert Stevens",
+      "genres": [
+        "Melodrama",
+        "Romance"
+      ],
       "has_media": false,
       "work_title": "In the Cool of the Day",
       "work_html_title": "<span class=\"work-title\">In the Cool of the Day</span>",
@@ -78,5 +90,5 @@
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-14T18:00:52.993657"
+  "last_updated": "2025-08-16T17:08:38.037268"
 }

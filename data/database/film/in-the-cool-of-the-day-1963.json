@@ -7,18 +7,21 @@
   "release_year": 1963,
   "runtime_minutes": null,
   "country_of_production": null,
-  "genres": [],
-  "studio": null,
-  "production_companies": null,
-  "distribution_companies": null,
-  "directors": null,
-  "writers": null,
-  "cast_members": null,
+  "genres": [
+    "Melodrama",
+    "Romance"
+  ],
+  "studio": "John Houseman Productions|Metro-Goldwyn-Mayer, Inc.",
+  "production_companies": "John Houseman Productions|Metro-Goldwyn-Mayer, Inc.",
+  "distribution_companies": "Metro-Goldwyn-Mayer, Inc.",
+  "directors": "Robert Stevens",
+  "writers": "Meade Roberts",
+  "cast_members": "Jane Fonda|Peter Finch|Angela Lansbury|Arthur Hill|Constance Cummings|Alexander Knox|Nigel Davenport|John Le Mesurier|Alec McCowen|Valerie Taylor",
   "color_info": null,
   "availability": null,
   "archive_location": null,
   "adaptation_notes": null,
-  "afi_catalog_id": null,
+  "afi_catalog_id": 22394,
   "source_work": {
     "id": 1028,
     "slug": "in-the-cool-of-the-day",
@@ -48,5 +51,5 @@
   "media": [],
   "has_media": false,
   "media_count": 0,
-  "last_updated": "2025-08-14T18:03:35.533357"
+  "last_updated": "2025-08-16T18:01:16.949327"
 }

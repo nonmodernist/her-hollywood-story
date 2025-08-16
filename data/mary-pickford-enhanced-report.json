@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated": "2025-08-11T00:59:12.381Z",
+    "generated": "2025-08-16T18:25:00.536Z",
     "version": "2.0-enhanced",
-    "totalFilmsFound": 17
+    "totalFilmsFound": 18
   },
   "summary": {
-    "totalFilms": 17,
-    "asActor": 17,
-    "asProducer": 10,
+    "totalFilms": 18,
+    "asActor": 18,
+    "asProducer": 11,
     "yearRange": "1910 - 1927"
   },
   "authorConnections": {
@@ -124,6 +124,23 @@
       ],
       "authorId": 3
     },
+    "Edith Barnard Delano": {
+      "films": [
+        {
+          "title": "Rags",
+          "year": 1915,
+          "workTitle": "Rags",
+          "role": "Actor"
+        }
+      ],
+      "totalFilms": 1,
+      "asActor": 1,
+      "asProducer": 0,
+      "years": [
+        1915
+      ],
+      "authorId": 197
+    },
     "Kate Douglas Wiggin": {
       "films": [
         {
@@ -147,12 +164,12 @@
           "title": "The Poor Little Rich Girl",
           "year": 1917,
           "workTitle": "The Poor Little Rich Girl",
-          "role": "Actor"
+          "role": "Actor/Producer"
         }
       ],
       "totalFilms": 1,
       "asActor": 1,
-      "asProducer": 0,
+      "asProducer": 1,
       "years": [
         1917
       ],
@@ -273,10 +290,9 @@
       "director": "D. W. Griffith",
       "studio": "Biograph",
       "genres": [
-        "Drama",
-        "Short"
+        "Drama"
       ],
-      "availability": "public domain|streaming",
+      "availability": "extant|public_domain",
       "runtime": 17
     },
     {
@@ -303,12 +319,12 @@
       "authorName": "Grace Miller White",
       "workTitle": "Tess of the Storm Country",
       "role": "Actor",
-      "director": "Edwin S. Porter",
+      "director": null,
       "studio": "Famous Players",
       "genres": [
         "Drama"
       ],
-      "availability": "public domain|streaming",
+      "availability": "extant",
       "runtime": 80
     },
     {
@@ -360,6 +376,22 @@
       "runtime": 40
     },
     {
+      "filmId": 1149,
+      "filmTitle": "Rags",
+      "year": 1915,
+      "authorId": 197,
+      "authorName": "Edith Barnard Delano",
+      "workTitle": "Rags",
+      "role": "Actor",
+      "director": "James Kirkwood",
+      "studio": "Famous Players",
+      "genres": [
+        "Drama"
+      ],
+      "availability": null,
+      "runtime": null
+    },
+    {
       "filmId": 22,
       "filmTitle": "Rebecca of Sunnybrook Farm",
       "year": 1917,
@@ -368,11 +400,11 @@
       "workTitle": "Rebecca of Sunnybrook Farm",
       "role": "Actor/Producer",
       "director": "Marshall Neilan",
-      "studio": "Mary Pickford Productions",
+      "studio": "Mary Pickford",
       "genres": [
         "Drama"
       ],
-      "availability": "streaming",
+      "availability": "extant|public_domain",
       "runtime": 78
     },
     {
@@ -384,11 +416,11 @@
       "workTitle": "Sara Crewe; or, What Happened at Miss Minchin’s",
       "role": "Actor/Producer",
       "director": "Marshall Neilan",
-      "studio": "Mary Pickford Productions",
+      "studio": "Mary Pickford",
       "genres": [
         "Drama"
       ],
-      "availability": "extant|public domain",
+      "availability": "extant|public_domain",
       "runtime": 62
     },
     {
@@ -398,13 +430,13 @@
       "authorId": 234,
       "authorName": "Eleanor Gates",
       "workTitle": "The Poor Little Rich Girl",
-      "role": "Actor",
+      "role": "Actor/Producer",
       "director": "Maurice Tourneur",
-      "studio": "Artcraft",
+      "studio": "Mary Pickford",
       "genres": [
         "Comedy-drama"
       ],
-      "availability": "public domain|streaming",
+      "availability": "extant|public_domain",
       "runtime": 65
     },
     {
@@ -416,7 +448,7 @@
       "workTitle": "How Could You Jean?",
       "role": "Actor/Producer",
       "director": "William D. Taylor",
-      "studio": "Mary Pickford Productions",
+      "studio": "Mary Pickford",
       "genres": [
         "Comedy-drama"
       ],
@@ -432,11 +464,11 @@
       "workTitle": "Amarilly of Clothes-Line Alley",
       "role": "Actor/Producer",
       "director": "Marshall A. Neilan",
-      "studio": "Mary Pickford Productions",
+      "studio": "Mary Pickford",
       "genres": [
         "Comedy"
       ],
-      "availability": "extant|home video",
+      "availability": "extant|home_video",
       "runtime": 67
     },
     {
@@ -448,11 +480,11 @@
       "workTitle": "Daddy-Long-Legs",
       "role": "Actor/Producer",
       "director": "Marshall A. Neilan",
-      "studio": "Mary Pickford Productions",
+      "studio": "Mary Pickford",
       "genres": [
         "Comedy"
       ],
-      "availability": "public domain|streaming",
+      "availability": "extant|public_domain",
       "runtime": 85
     },
     {
@@ -464,7 +496,7 @@
       "workTitle": "Burkeses Amy",
       "role": "Actor/Producer",
       "director": "Sidney A. Franklin",
-      "studio": "Mary Pickford Productions",
+      "studio": "Mary Pickford",
       "genres": [
         "Comedy-drama"
       ],
@@ -480,11 +512,11 @@
       "workTitle": "Pollyanna",
       "role": "Actor/Producer",
       "director": "Paul Powell",
-      "studio": "Mary Pickford Productions",
+      "studio": "Mary Pickford",
       "genres": [
         "Drama"
       ],
-      "availability": "public domain|streaming",
+      "availability": "extant|public_domain",
       "runtime": 58
     },
     {
@@ -496,11 +528,11 @@
       "workTitle": "Little Lord Fauntleroy",
       "role": "Actor/Producer",
       "director": "Alfred E. Green|Jack Pickford",
-      "studio": "Mary Pickford Productions",
+      "studio": "Mary Pickford",
       "genres": [
         "Comedy-drama"
       ],
-      "availability": "public domain|streaming",
+      "availability": "extant|public_domain",
       "runtime": 112
     },
     {
@@ -512,11 +544,11 @@
       "workTitle": "Tess of the Storm Country",
       "role": "Actor/Producer",
       "director": "John S. Robertson",
-      "studio": "Mary Pickford Productions",
+      "studio": "Mary Pickford",
       "genres": [
         "Melodrama"
       ],
-      "availability": "public domain|streaming",
+      "availability": "extant|public_domain",
       "runtime": 118
     },
     {
@@ -528,11 +560,11 @@
       "workTitle": "My Best Girl",
       "role": "Actor/Producer",
       "director": "Sam Taylor",
-      "studio": "Mary Pickford Productions",
+      "studio": "Mary Pickford",
       "genres": [
         "Romantic comedy"
       ],
-      "availability": "public domain|streaming",
+      "availability": "extant|public_domain",
       "runtime": 80
     }
   ],
@@ -544,25 +576,22 @@
     ],
     "studioRelationships": {
       "Biograph": 1,
-      "Famous Players": 5,
-      "Mary Pickford Productions": 10,
-      "Artcraft": 1
+      "Famous Players": 6,
+      "Mary Pickford": 11
     },
     "genrePreferences": {
-      "Drama": 8,
-      "Short": 1,
+      "Drama": 9,
       "Melodrama": 2,
       "Comedy-drama": 4,
       "Comedy": 2,
       "Romantic comedy": 1
     },
     "availabilityStatus": {
-      "public domain|streaming": 8,
+      "extant|public_domain": 9,
       "lost": 3,
-      "extant": 2,
-      "streaming": 1,
-      "extant|public domain": 1,
-      "extant|home video": 1,
+      "extant": 3,
+      "unknown": 1,
+      "extant|home_video": 1,
       "extant|streaming": 1
     },
     "careerTransition": {
@@ -570,7 +599,7 @@
       "producingSpan": "1917-1927"
     },
     "authorNetwork": {
-      "totalAuthors": 13,
+      "totalAuthors": 14,
       "multipleCollaborations": [
         {
           "author": "Grace Miller White",

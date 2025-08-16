@@ -30,6 +30,7 @@ function createPublicationTimeline() {
         { film_title: "Tess of the Storm Country", release_year: 1914, work_title: "Tess of the Storm Country", publication_year: 1909 },
         { film_title: "The Dawn of a Tomorrow", release_year: 1915, work_title: "The Dawn of a Tomorrow", publication_year: 1905 },
         { film_title: "Esmeralda", release_year: 1915, work_title: "Esmeralda", publication_year: 1877 },
+        { film_title: "Rags", release_year: 1915, work_title: "Rags", publication_year: 1915 },
         { film_title: "A Little Princess", release_year: 1917, work_title: "Sara Crewe; or, What Happened at Miss Minchin's", publication_year: 1887 },
         { film_title: "Rebecca of Sunnybrook Farm", release_year: 1917, work_title: "Rebecca of Sunnybrook Farm", publication_year: 1903 },
         { film_title: "The Poor Little Rich Girl", release_year: 1917, work_title: "The Poor Little Rich Girl", publication_year: 1912 },

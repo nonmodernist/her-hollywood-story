@@ -6,11 +6,11 @@
   "death_year": null,
   "nationality": "American",
   "literary_movement": null,
-  "biographical_notes": "combined pseudonym of co-writers Jane Mayer and Clara Spiegel. Occupations: writer",
-  "biographical_notes_html": "<p>combined pseudonym of co-writers Jane Mayer and Clara Spiegel. Occupations: writer</p>",
-  "author_notes": "pseud of writing partners Jane Mayer and Clara Spiegel",
+  "biographical_notes": "Clare Jaynes was the combined pseudonym of writing partners Jane Mayer and Clara Spiegel.",
+  "biographical_notes_html": "<p>Clare Jaynes was the combined pseudonym of writing partners Jane Mayer and Clara Spiegel.</p>",
+  "author_notes": null,
   "wikidata_id": "Q25338397",
-  "alternative_names": null,
+  "alternative_names": "['Jane Mayer', 'Clara Spiegel']",
   "occupations": null,
   "key_themes": null,
   "education": null,
@@ -22,7 +22,7 @@
   "has_portrait": "False",
   "signature_work_ids": null,
   "has_pseudonym": "False",
-  "is_pseudonym": "False",
+  "is_pseudonym": "True",
   "stats": {
     "total_films": 1,
     "works_adapted": 1,
@@ -85,5 +85,5 @@
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-17T20:18:19.60586"
 }

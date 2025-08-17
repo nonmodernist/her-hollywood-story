@@ -8,9 +8,9 @@
   "literary_movement": null,
   "biographical_notes": "American writer. Born in Illinois. Occupations: writer, novelist",
   "biographical_notes_html": "<p>American writer. Born in Illinois. Occupations: writer, novelist</p>",
-  "author_notes": "aka Nell Columbia Boyer Martin, who also published under the name Columbia Boyer",
+  "author_notes": null,
   "wikidata_id": "Q6990027",
-  "alternative_names": null,
+  "alternative_names": "['Nell Columbia Boyer Martin', 'Columbia Boyer']",
   "occupations": null,
   "key_themes": null,
   "education": null,
@@ -22,7 +22,7 @@
   "has_portrait": "False",
   "signature_work_ids": null,
   "has_pseudonym": "False",
-  "is_pseudonym": "False",
+  "is_pseudonym": "True",
   "stats": {
     "total_films": 1,
     "works_adapted": 1,
@@ -85,5 +85,5 @@
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-17T20:10:03.620757"
 }

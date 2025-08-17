@@ -6,9 +6,9 @@
   "death_year": null,
   "nationality": "American",
   "literary_movement": null,
-  "biographical_notes": null,
-  "biographical_notes_html": "",
-  "author_notes": "group pseud of Silvia Schulman and Jane Shore, and later Jane Shore and ???",
+  "biographical_notes": "Jane Allen was the pseudonym of co-writers Silvia Schulman and Jane Shore, who collaborated on _I Lost My Girlish Laughter_, a _roman á clef_ about Schulman's time in Hollywood. Jane Shore later used the pseudonym with another co-writer. ",
+  "biographical_notes_html": "<p>Jane Allen was the pseudonym of co-writers Silvia Schulman and Jane Shore, who collaborated on <em>I Lost My Girlish Laughter</em>, a <em>roman á clef</em> about Schulman's time in Hollywood. Jane Shore later used the pseudonym with another co-writer. </p>",
+  "author_notes": null,
   "wikidata_id": "-",
   "alternative_names": null,
   "occupations": null,
@@ -22,7 +22,7 @@
   "has_portrait": "False",
   "signature_work_ids": null,
   "has_pseudonym": "False",
-  "is_pseudonym": "False",
+  "is_pseudonym": "True",
   "stats": {
     "total_films": 2,
     "works_adapted": 2,
@@ -112,5 +112,5 @@
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-17T20:25:06.555539"
 }

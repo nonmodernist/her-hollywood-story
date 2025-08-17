@@ -8,9 +8,9 @@
   "literary_movement": null,
   "biographical_notes": "American children's writer (pseudonym). Born in New Haven. Occupations: children's writer, writer, publisher. Notable works: Five Little Peppers",
   "biographical_notes_html": "<p>American children's writer (pseudonym). Born in New Haven. Occupations: children's writer, writer, publisher. Notable works: Five Little Peppers</p>",
-  "author_notes": "pseud of Harriett Lothrop",
+  "author_notes": null,
   "wikidata_id": "Q6759892",
-  "alternative_names": null,
+  "alternative_names": "['Harriett Lothrop']",
   "occupations": null,
   "key_themes": null,
   "education": null,
@@ -22,7 +22,7 @@
   "has_portrait": "False",
   "signature_work_ids": null,
   "has_pseudonym": "False",
-  "is_pseudonym": "False",
+  "is_pseudonym": "True",
   "stats": {
     "total_films": 4,
     "works_adapted": 1,
@@ -138,5 +138,5 @@
     "adaptation_count": 4,
     "is_remake_champion": true
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-17T19:56:02.609639"
 }

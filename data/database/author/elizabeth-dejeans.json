@@ -8,9 +8,9 @@
   "literary_movement": null,
   "biographical_notes": "American writer. Occupations: writer",
   "biographical_notes_html": "<p>American writer. Occupations: writer</p>",
-  "author_notes": "pseud of Frances Elizabeth Janes Budgett",
+  "author_notes": null,
   "wikidata_id": "Q114065088",
-  "alternative_names": null,
+  "alternative_names": "['Frances Elizabeth Janes Budgett']",
   "occupations": null,
   "key_themes": null,
   "education": null,
@@ -22,7 +22,7 @@
   "has_portrait": "False",
   "signature_work_ids": null,
   "has_pseudonym": "False",
-  "is_pseudonym": "False",
+  "is_pseudonym": "True",
   "stats": {
     "total_films": 3,
     "works_adapted": 3,
@@ -147,5 +147,5 @@
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-17T20:01:12.907644"
 }

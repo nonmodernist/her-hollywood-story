@@ -8,9 +8,9 @@
   "literary_movement": null,
   "biographical_notes": "American author. Occupations: novelist, writer",
   "biographical_notes_html": "<p>American author. Occupations: novelist, writer</p>",
-  "author_notes": "pseud of Peggy Dern",
+  "author_notes": null,
   "wikidata_id": "Q10347927",
-  "alternative_names": null,
+  "alternative_names": "['Peggy Dern']",
   "occupations": null,
   "key_themes": null,
   "education": null,
@@ -22,7 +22,7 @@
   "has_portrait": "False",
   "signature_work_ids": null,
   "has_pseudonym": "False",
-  "is_pseudonym": "False",
+  "is_pseudonym": "True",
   "stats": {
     "total_films": 1,
     "works_adapted": 1,
@@ -85,5 +85,5 @@
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-17T20:13:19.291414"
 }

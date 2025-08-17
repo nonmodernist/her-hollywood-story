@@ -6,11 +6,11 @@
   "death_year": null,
   "nationality": "American",
   "literary_movement": null,
-  "biographical_notes": null,
-  "biographical_notes_html": "",
-  "author_notes": "group pseud of 12 authors, including Eunice Mays Boyd, Florence Ostern Faulkner, Dana Lyon, Lenore Glen Offord, and Virginia Rath",
+  "biographical_notes": "Theo Durrant was the pseudonym of 12 authors, including Eunice Mays Boyd, Florence Ostern Faulkner, Dana Lyon, Lenore Glen Offord, and Virginia Rath",
+  "biographical_notes_html": "<p>Theo Durrant was the pseudonym of 12 authors, including Eunice Mays Boyd, Florence Ostern Faulkner, Dana Lyon, Lenore Glen Offord, and Virginia Rath</p>",
+  "author_notes": null,
   "wikidata_id": null,
-  "alternative_names": null,
+  "alternative_names": "['Eunice Mays Boyd', 'Florence Ostern Faulkner', 'Dana Lyon', 'Lenore Glen Offord', 'Virginia Rath']",
   "occupations": null,
   "key_themes": null,
   "education": null,
@@ -22,7 +22,7 @@
   "has_portrait": "False",
   "signature_work_ids": null,
   "has_pseudonym": "False",
-  "is_pseudonym": "False",
+  "is_pseudonym": "True",
   "stats": {
     "total_films": 1,
     "works_adapted": 1,
@@ -85,5 +85,5 @@
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-17T20:25:10.034113"
 }

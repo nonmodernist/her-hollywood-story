@@ -6,11 +6,11 @@
   "death_year": 1982,
   "nationality": "American",
   "literary_movement": null,
-  "biographical_notes": "American juvenile mystery novelist and publisher. Born in Newark. Died in Tewksbury Township. Occupations: writer, children's writer, novelist. Notable works: Nancy Drew",
-  "biographical_notes_html": "<p>American juvenile mystery novelist and publisher. Born in Newark. Died in Tewksbury Township. Occupations: writer, children's writer, novelist. Notable works: Nancy Drew</p>",
-  "author_notes": "pseud of the authors of the Nancy Drew mystery stories produced by the Stratemeyer Syndicate, notably Mildred Wirt Benson and Harriet Stratemeyer Adams",
+  "biographical_notes": "Carolyn Keene was the pseudonym of the authors of the Nancy Drew mystery stories produced by the Stratemeyer Syndicate, notably Mildred Wirt Benson and Harriet Stratemeyer Adams.",
+  "biographical_notes_html": "<p>Carolyn Keene was the pseudonym of the authors of the Nancy Drew mystery stories produced by the Stratemeyer Syndicate, notably Mildred Wirt Benson and Harriet Stratemeyer Adams.</p>",
+  "author_notes": null,
   "wikidata_id": "Q3040664",
-  "alternative_names": null,
+  "alternative_names": "['Mildred Wirt Benson', 'Harriet Stratemeyer Adams']",
   "occupations": null,
   "key_themes": null,
   "education": null,
@@ -22,7 +22,7 @@
   "has_portrait": "False",
   "signature_work_ids": null,
   "has_pseudonym": "False",
-  "is_pseudonym": "False",
+  "is_pseudonym": "True",
   "stats": {
     "total_films": 2,
     "works_adapted": 2,
@@ -112,5 +112,5 @@
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-17T20:11:38.879598"
 }

@@ -174,6 +174,14 @@ function renderFilmDetail(film) {
                     <p><strong>Author:</strong> <a href="${getDatabaseURL('/author/' + film.author.slug)}">${film.author.name}</a></p>
                     ${film.source_work.publication_year ? `<p><strong>Published:</strong> ${film.source_work.publication_year}</p>` : ''}
                     ${film.source_work.year_to_adaptation !== null && film.source_work.year_to_adaptation !== undefined ? `<p><strong>Years to adaptation:</strong> ${film.source_work.year_to_adaptation}</p>` : ''}
+                    ${film.source_work.photoplay_edition_count > 0 ? `
+                        <p><strong>Photoplay Editions:</strong> 
+                            ${film.source_work.photoplay_edition_count} known edition${film.source_work.photoplay_edition_count !== 1 ? 's' : ''}
+                            <a href="${getDatabaseURL('/work/' + film.source_work.slug)}">
+                                · View on work page →
+                            </a>
+                        </p>
+                    ` : ''}
                 
                 ${film.other_adaptations?.length ? `
                         <h3>Other Adaptations of This Work</h3>
@@ -462,7 +470,6 @@ function renderWorkDetail(work) {
                 by <a href="${getDatabaseURL('/author/' + work.author.slug)}">${work.author.name}</a> · 
                 ${capitalizeFirst(work.work_type?.replace('_', ' ') || 'Unknown type')} · 
                 ${work.publication_year || 'Publication year unknown'}
-
             </div>
             
             <div class="detail-sections">
@@ -556,11 +563,78 @@ function renderWorkDetail(work) {
                     </section>
                 ` : ''}
                 
-                <!-- Photoplay Edition Section (simplified for now) -->
-                ${work.has_photoplay_edition ? `
+                <!-- Premium Photoplay Showcase -->
+                ${work.photoplay_editions?.length ? `
                     <section class="detail-section">
-                        <h2>Photoplay Edition</h2>
-                        <p class="photoplay-note">A photoplay edition of this work was published. More details coming soon!</p>
+                        <h2>Photoplay Editions (${work.photoplay_editions.length})</h2>
+                        
+                        <div class="photoplay-showcase">
+                            <div class="photoplay-showcase__editions">
+                                ${work.photoplay_editions.map(edition => {
+                                    const heroImage = edition.media?.find(m => ['dust_jacket', 'cover', 'title_page'].includes(m.media_type)) || edition.media?.[0];
+                                    const secondaryImages = edition.media?.filter(m => m !== heroImage).slice(0, 3) || [];
+                                    
+                                    return `
+                                        <article class="photoplay-edition">
+                                            ${heroImage ? `
+                                                <div class="photoplay-edition__hero">
+                                                    <a href="${edition.ia_url}" target="_blank" rel="noopener">
+                                                        <img src="${heroImage.ia_url}" 
+                                                             alt="${edition.publisher || 'Unknown publisher'} photoplay edition cover"
+                                                             class="photoplay-edition__hero-image"
+                                                             loading="lazy">
+                                                    </a>
+                                                </div>
+                                            ` : ''}
+                                            
+                                            <div class="photoplay-edition__content">
+                                                <h3 class="photoplay-edition__title">
+                                                    ${edition.publisher || 'Unknown Publisher'}
+                                                    ${edition.binding_type && edition.binding_type !== 'unknown' ? ` ${edition.binding_type}` : ''}
+                                                </h3>
+                                                
+                                                <p class="photoplay-edition__subtitle">
+                                                    ${(edition.country && edition.country !== 'unknown') ? `${edition.country} edition, published` : 'Published'} circa ${edition.edition_year || 'date unknown'}${edition.series_info ? ` · ${edition.series_info}` : ''}
+                                                </p>
+                                                
+                                                <p class="photoplay-edition__description font-sans">
+                                                    Created to promote the ${edition.film_year} film adaptation 
+                                                    <a href="${getDatabaseURL('/film/' + edition.film_slug)}">
+                                                        <em>${edition.film_title}</em>
+                                                    </a>${edition.cover_type || edition.photo_content ? `. Features ${[edition.cover_type, edition.photo_content].filter(Boolean).join(' and ').toLowerCase()}` : ''}.
+                                                </p>
+                                                
+                                                
+                                                ${secondaryImages.length ? `
+                                                    <div class="photoplay-edition__gallery">
+                                                        ${secondaryImages.map(img => `
+                                                            <a href="${edition.ia_url}" target="_blank" rel="noopener" class="photoplay-edition__gallery-item">
+                                                                <img src="${img.ia_url}" 
+                                                                     alt="${img.caption || 'Additional page'}"
+                                                                     loading="lazy">
+                                                            </a>
+                                                        `).join('')}
+                                                    </div>
+                                                ` : ''}
+                                                
+                                                ${edition.edition_description ? `
+                                                    <div class="photoplay-edition__specs">
+                                                        <p class="specs__item"><span class="specs__term">Notes:</span> <span class="specs__description">${edition.edition_description}</span></p>
+                                                    </div>
+                                                ` : ''}
+                                            </div>
+                                        </article>
+                                    `;
+                                }).join('')}
+                            </div>
+                            
+                            <div class="attribution">
+                                <p class="attribution__note">
+                                    Photoplay editions are typically undated. Years shown are generally estimates based on film release dates 
+                                    and publisher catalogs. Images courtesy of the researcher's private collection.
+                                </p>
+                            </div>
+                        </div>
                     </section>
                 ` : ''}
                 

@@ -375,54 +375,6 @@
 }
 
 /* ============================================
-   LIST STYLES
-   ============================================ */
-
-.list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.list__item {
-    padding: 0.5rem 0 0.5rem 2rem;
-    position: relative;
-    line-height: 1.8;
-    font-size: 1.1rem;
-}
-
-.list__item:before {
-    content: "•";
-    position: absolute;
-    left: 0.5rem;
-    color: var(--text-muted);
-}
-
-.list--arrow .list__item:before {
-    content: "→";
-    left: 0;
-}
-
-.list--numbered {
-    counter-reset: list-counter;
-}
-
-.list--numbered .list__item:before {
-    counter-increment: list-counter;
-    content: counter(list-counter) ".";
-    left: 0;
-}
-
-.list--divided .list__item {
-    padding: 1rem 0 1rem 2rem;
-    border-bottom: 1px solid var(--border-light);
-}
-
-.list--divided .list__item:last-child {
-    border-bottom: none;
-}
-
-/* ============================================
    CTA (Call to Action) SECTIONS
    ============================================ */
 

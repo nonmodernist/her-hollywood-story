@@ -133,3 +133,242 @@
     font-size: 1rem;
     line-height: 1.6;
 }
+
+/* --- Showcase Component for Media Displays --- */
+.showcase {
+    margin: 2rem 0;
+}
+
+.showcase__header {
+    margin-bottom: 1.5rem;
+}
+
+.showcase__title {
+    font-size: 1.4rem;
+    font-weight: 400;
+    margin: 0 0 0.5rem 0;
+    font-style: normal;
+    line-height: 1.3;
+}
+
+.showcase__subtitle {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    margin: 0;
+    line-height: 1.4;
+}
+
+.showcase__intro {
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+    margin: 0 0 2rem 0;
+    line-height: 1.5;
+}
+
+.showcase__content {
+    display: grid;
+    gap: 2rem;
+}
+
+.showcase__item {
+    padding: 0;
+    margin: 0;
+}
+
+.showcase__item + .showcase__item {
+    padding-top: 2rem;
+    border-top: 1px solid var(--border-light);
+}
+
+/* --- Specs Component for Data Display --- */
+.specs {
+    margin: 1rem 0;
+}
+
+.specs__term {
+    font-weight: 600;
+    color: var(--text-primary);
+    display: inline;
+}
+
+.specs__description {
+    color: var(--text-secondary);
+    display: inline;
+    margin: 0;
+}
+
+.specs__item {
+    margin: 0.5rem 0;
+    font-size: 1rem;
+    line-height: 1.4;
+}
+
+/* --- Attribution Component --- */
+.attribution {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border-light);
+}
+
+.attribution__note {
+    font-size: 0.95rem;
+    color: var(--text-muted);
+    font-style: italic;
+    margin: 0;
+    line-height: 1.4;
+}
+
+/* --- Premium Photoplay Showcase --- */
+.photoplay-showcase {
+    margin: 0;
+}
+
+.photoplay-showcase__intro {
+    font-size: 1.25rem;
+    color: var(--text-secondary);
+    margin: 0 0 3rem 0;
+    line-height: 1.6;
+    font-style: normal;
+}
+
+.photoplay-showcase__editions {
+    display: grid;
+    gap: 2rem;
+}
+
+/* Individual edition styling */
+.photoplay-edition {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    align-items: start;
+    padding: 0;
+    margin: 0;
+}
+
+.photoplay-edition + .photoplay-edition {
+    padding-top: 2rem;
+    border-top: 1px solid var(--border-light);
+}
+
+/* Hero image area */
+.photoplay-edition__hero {
+    position: relative;
+    transition: all 0.3s ease;
+    max-width: 600px;
+    margin: 2rem auto 0 auto;
+}
+
+.photoplay-edition__hero:hover {
+    transform: translateY(-2px);
+}
+
+.photoplay-edition__hero-image {
+    width: 100%;
+    height: auto;
+    max-width: 700px;
+    object-fit: contain;
+    display: block;
+}
+
+/* Overlay for visual cue */
+.photoplay-edition__hero::after {
+    content: "Click to explore at Internet Archive";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(transparent, rgba(0, 0, 0, 0.8));
+    color: white;
+    padding: 2rem 1rem 1rem 1rem;
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.9rem;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.photoplay-edition__hero:hover::after {
+    opacity: 1;
+}
+
+/* Content area */
+.photoplay-edition__content {
+    padding-top: 0.5rem;
+}
+
+.photoplay-edition .photoplay-edition__title {
+    font-size: 1.75rem;
+    font-weight: 400;
+    margin: 0 0 0.25rem 0;
+    line-height: 1.3;
+    color: var(--text-primary);
+}
+
+.photoplay-edition__subtitle {
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+    margin: 0 0 2rem 0;
+    line-height: 1.5;
+}
+
+.photoplay-edition__description {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    margin: 1.5rem 0;
+    line-height: 1.6;
+}
+
+
+/* Secondary specs */
+/* .photoplay-edition__specs {
+    margin-top: 0;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border-light);
+} */
+
+.photoplay-edition__specs .specs__item {
+    font-size: 0.95rem;
+    margin: 0.75rem 0;
+}
+
+/* Secondary gallery for additional images */
+.photoplay-edition__gallery {
+    margin-top: 2rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+}
+
+.photoplay-edition__gallery-item {
+    border: 1px solid var(--border-light);
+    padding: 0.5rem;
+    background: var(--background-alt);
+    transition: border-color 0.2s ease;
+}
+
+.photoplay-edition__gallery-item:hover {
+    border-color: var(--border-medium);
+}
+
+.photoplay-edition__gallery-item img {
+    width: 100%;
+    height: 120px;
+    object-fit: contain;
+    display: block;
+}
+
+/* Mobile responsive */
+@media (max-width: 760px) {
+    .photoplay-edition__hero {
+        max-width: 400px;
+    }
+    
+    .photoplay-showcase__editions {
+        gap: 1rem;
+    }
+    
+    .photoplay-edition + .photoplay-edition {
+        padding-top: 1rem;
+    }
+}

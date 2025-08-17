@@ -1,5 +1,7 @@
 /* database-merged.css - Consolidated styles for Her Hollywood Story Database & SPA */
 
+@import url('detail-components.css');
+
 /* --- Database Intro Section --- */
 .database-intro {
     margin: 2rem 0 3rem;
@@ -318,9 +320,6 @@
 .adaptation-details {
     margin-top: 0.25rem;
 }
-
-/* --- Media Count Indicator --- */
-/* Note: Moved to database-unused.css as it's not currently used */
 
 /* --- Responsive --- */
 @media (max-width: 760px) {

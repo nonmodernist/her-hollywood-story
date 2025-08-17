@@ -23,6 +23,7 @@
     "adaptation_count": 2,
     "year_span": 23,
     "is_remake_champion": false,
+    "photoplay_edition_count": 0,
     "average_gap_between_adaptations": 23
   },
   "patterns": {
@@ -68,7 +69,7 @@
       "gap_years": 23
     }
   ],
-  "has_photoplay_edition": false,
+  "photoplay_editions": [],
   "magazine_publication": {
     "magazine_title": "The Saturday Evening Post",
     "magazine_pub_date": "1920-11-13",

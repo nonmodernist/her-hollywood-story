@@ -23,6 +23,7 @@
     "adaptation_count": 5,
     "year_span": 17,
     "is_remake_champion": true,
+    "photoplay_edition_count": 0,
     "average_gap_between_adaptations": 4
   },
   "patterns": {
@@ -125,7 +126,7 @@
       "gap_years": 3
     }
   ],
-  "has_photoplay_edition": false,
+  "photoplay_editions": [],
   "magazine_publication": {
     "magazine_title": "The Saturday Evening Post",
     "magazine_pub_date": "1919-06-21",

@@ -23,6 +23,7 @@
     "adaptation_count": 2,
     "year_span": 12,
     "is_remake_champion": false,
+    "photoplay_edition_count": 1,
     "average_gap_between_adaptations": 12
   },
   "patterns": {
@@ -68,7 +69,31 @@
       "gap_years": 12
     }
   ],
-  "has_photoplay_edition": true,
+  "photoplay_editions": [
+    {
+      "id": 70,
+      "source_work_id": 112,
+      "film_id": 117,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1925,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "art front DJ",
+      "photo_content": "8 stills",
+      "price_low_cents": 2500,
+      "price_high_cents": 6000,
+      "source_url": "https://www.abaa.org/book/1555630777$0",
+      "source_notes": null,
+      "verified": "False",
+      "created_at": "2025-07-06T02:40:19.102139",
+      "updated_at": "2025-08-17T00:55:31.771666",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    }
+  ],
   "magazine_publication": {
     "magazine_title": "The American Magazine",
     "magazine_pub_date": "1922-10-01",

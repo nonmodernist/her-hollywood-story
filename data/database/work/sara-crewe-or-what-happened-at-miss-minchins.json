@@ -23,6 +23,7 @@
     "adaptation_count": 2,
     "year_span": 22,
     "is_remake_champion": false,
+    "photoplay_edition_count": 0,
     "average_gap_between_adaptations": 22
   },
   "patterns": {
@@ -68,7 +69,7 @@
       "gap_years": 22
     }
   ],
-  "has_photoplay_edition": false,
+  "photoplay_editions": [],
   "magazine_publication": {
     "magazine_title": "St. Nicholas",
     "magazine_pub_date": "1887-12-01",

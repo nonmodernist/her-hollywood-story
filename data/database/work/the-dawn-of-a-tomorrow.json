@@ -23,6 +23,7 @@
     "adaptation_count": 2,
     "year_span": 9,
     "is_remake_champion": false,
+    "photoplay_edition_count": 2,
     "average_gap_between_adaptations": 9
   },
   "patterns": {
@@ -68,7 +69,54 @@
       "gap_years": 9
     }
   ],
-  "has_photoplay_edition": true,
+  "photoplay_editions": [
+    {
+      "id": 190,
+      "source_work_id": 360,
+      "film_id": 430,
+      "publisher": "Frederick Warne",
+      "edition_year": 1924,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "photo front DJ",
+      "photo_content": "unknown stills",
+      "price_low_cents": 800,
+      "price_high_cents": 3000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-08T15:25:14.302514",
+      "updated_at": "2025-08-17T01:10:18.067097",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "UK",
+      "media": []
+    },
+    {
+      "id": 13,
+      "source_work_id": 360,
+      "film_id": 430,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1924,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "photo front DJ",
+      "photo_content": "8 stills",
+      "price_low_cents": 500,
+      "price_high_cents": 3000,
+      "source_url": "https://www.photoplay-edition.com/index4.php?a=Frances+Hodgson+Burnett",
+      "source_notes": null,
+      "verified": "False",
+      "created_at": "2025-07-02T20:38:51.238095",
+      "updated_at": "2025-08-17T00:59:28.710309",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    }
+  ],
   "magazine_publication": {
     "magazine_title": "Scribner's Magazine",
     "magazine_pub_date": "1905-12-01",

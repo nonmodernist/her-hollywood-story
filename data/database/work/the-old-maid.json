@@ -23,6 +23,7 @@
     "adaptation_count": 1,
     "year_span": 0,
     "is_remake_champion": false,
+    "photoplay_edition_count": 1,
     "average_gap_between_adaptations": null
   },
   "patterns": {
@@ -48,7 +49,31 @@
     }
   ],
   "adaptation_gaps": [],
-  "has_photoplay_edition": false,
+  "photoplay_editions": [
+    {
+      "id": 34,
+      "source_work_id": 217,
+      "film_id": 253,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1939,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "photo covers DJ",
+      "photo_content": null,
+      "price_low_cents": 2500,
+      "price_high_cents": 5000,
+      "source_url": "https://www.photoplay-edition.com/index4.php?a=edith+wharton",
+      "source_notes": null,
+      "verified": "False",
+      "created_at": "2025-07-02T21:16:53.860387",
+      "updated_at": "2025-08-17T00:58:09.528779",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    }
+  ],
   "magazine_publication": {
     "magazine_title": "The Red Book Magazine",
     "magazine_pub_date": "1922-02-01",

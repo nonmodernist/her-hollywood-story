@@ -23,6 +23,7 @@
     "adaptation_count": 3,
     "year_span": 22,
     "is_remake_champion": false,
+    "photoplay_edition_count": 2,
     "average_gap_between_adaptations": 11
   },
   "patterns": {
@@ -87,7 +88,54 @@
       "gap_years": 12
     }
   ],
-  "has_photoplay_edition": false,
+  "photoplay_editions": [
+    {
+      "id": 2,
+      "source_work_id": 111,
+      "film_id": 116,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1925,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "photo wraparound band over non movie DJ",
+      "photo_content": null,
+      "price_low_cents": 10000,
+      "price_high_cents": 30000,
+      "source_url": "https://www.photoplay-edition.com/index4.php?a=gene+stratton+porter",
+      "source_notes": null,
+      "verified": "False",
+      "created_at": "2025-07-02T20:06:08.686308",
+      "updated_at": "2025-08-17T00:55:28.930597",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    },
+    {
+      "id": 117,
+      "source_work_id": 111,
+      "film_id": 222,
+      "publisher": "Hutchinson",
+      "edition_year": 1935,
+      "edition_description": "#410; \"Famous Sixpenny Novels\"; 152,000th printing (?)",
+      "binding_type": "PB",
+      "dust_jacket": "False",
+      "cover_type": "photo front cover",
+      "photo_content": null,
+      "price_low_cents": 1000,
+      "price_high_cents": 2000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-07T01:34:03.386693",
+      "updated_at": "2025-08-17T01:08:51.074694",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "UK",
+      "media": []
+    }
+  ],
   "magazine_publication": {
     "magazine_title": "McCall's",
     "magazine_pub_date": "1925-02-01",

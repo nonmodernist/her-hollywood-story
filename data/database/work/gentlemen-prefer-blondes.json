@@ -23,6 +23,7 @@
     "adaptation_count": 2,
     "year_span": 25,
     "is_remake_champion": false,
+    "photoplay_edition_count": 1,
     "average_gap_between_adaptations": 25
   },
   "patterns": {
@@ -68,7 +69,31 @@
       "gap_years": 25
     }
   ],
-  "has_photoplay_edition": true,
+  "photoplay_editions": [
+    {
+      "id": 95,
+      "source_work_id": 140,
+      "film_id": 151,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1928,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "art front DJ",
+      "photo_content": "4 stills",
+      "price_low_cents": 1000,
+      "price_high_cents": 5000,
+      "source_url": "https://www.photoplay-edition.com/index4.php?y=1928",
+      "source_notes": null,
+      "verified": "False",
+      "created_at": "2025-07-06T04:43:41.760495",
+      "updated_at": "2025-08-17T00:56:02.159045",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    }
+  ],
   "magazine_publication": {
     "magazine_title": "Harper's Bazar",
     "magazine_pub_date": "1925-03-01",

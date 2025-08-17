@@ -23,6 +23,7 @@
     "adaptation_count": 2,
     "year_span": 29,
     "is_remake_champion": false,
+    "photoplay_edition_count": 2,
     "average_gap_between_adaptations": 29
   },
   "patterns": {
@@ -68,7 +69,54 @@
       "gap_years": 29
     }
   ],
-  "has_photoplay_edition": false,
+  "photoplay_editions": [
+    {
+      "id": 82,
+      "source_work_id": 165,
+      "film_id": 179,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1931,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "wraparound art DJ",
+      "photo_content": null,
+      "price_low_cents": 5000,
+      "price_high_cents": 15000,
+      "source_url": "https://www.photoplay-edition.com/index4.php?a=ferber",
+      "source_notes": null,
+      "verified": "False",
+      "created_at": "2025-07-06T04:04:12.555515",
+      "updated_at": "2025-08-17T00:56:57.892596",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    },
+    {
+      "id": 135,
+      "source_work_id": 165,
+      "film_id": 339,
+      "publisher": "Pan",
+      "edition_year": 1961,
+      "edition_description": "#X 57",
+      "binding_type": "PB",
+      "dust_jacket": "False",
+      "cover_type": "photo both covers",
+      "photo_content": null,
+      "price_low_cents": 400,
+      "price_high_cents": 800,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-07T02:35:39.476091",
+      "updated_at": "2025-08-17T01:09:53.880096",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "UK",
+      "media": []
+    }
+  ],
   "magazine_publication": {
     "magazine_title": "Woman's Home Companion",
     "magazine_pub_date": "1929-11-01",

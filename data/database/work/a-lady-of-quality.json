@@ -23,6 +23,7 @@
     "adaptation_count": 2,
     "year_span": 11,
     "is_remake_champion": false,
+    "photoplay_edition_count": 2,
     "average_gap_between_adaptations": 11
   },
   "patterns": {
@@ -68,7 +69,54 @@
       "gap_years": 11
     }
   ],
-  "has_photoplay_edition": true,
+  "photoplay_editions": [
+    {
+      "id": 256,
+      "source_work_id": 4,
+      "film_id": 104,
+      "publisher": "Frederick Warne",
+      "edition_year": 1923,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "photo both DJ",
+      "photo_content": "unknown stills",
+      "price_low_cents": 1000,
+      "price_high_cents": 3000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-16T20:36:28.319436",
+      "updated_at": "2025-08-17T01:08:19.55264",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "UK",
+      "media": []
+    },
+    {
+      "id": 66,
+      "source_work_id": 4,
+      "film_id": 104,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1924,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "photo front DJ",
+      "photo_content": null,
+      "price_low_cents": 5000,
+      "price_high_cents": 8500,
+      "source_url": "https://www.abaa.org/book/301805951$0",
+      "source_notes": null,
+      "verified": "False",
+      "created_at": "2025-07-06T02:17:59.323276",
+      "updated_at": "2025-08-17T00:55:13.522117",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    }
+  ],
   "magazine_publication": null,
   "external_urls": [],
   "external_ids": {

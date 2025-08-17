@@ -23,6 +23,7 @@
     "adaptation_count": 2,
     "year_span": 12,
     "is_remake_champion": false,
+    "photoplay_edition_count": 2,
     "average_gap_between_adaptations": 12
   },
   "patterns": {
@@ -68,7 +69,54 @@
       "gap_years": 12
     }
   ],
-  "has_photoplay_edition": false,
+  "photoplay_editions": [
+    {
+      "id": 174,
+      "source_work_id": 248,
+      "film_id": 298,
+      "publisher": "Ward Lock",
+      "edition_year": 1949,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "art both covers DJ, art front cover (same as DJ front)",
+      "photo_content": "8 color stills, 80 stills",
+      "price_low_cents": 1500,
+      "price_high_cents": 5000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-07T16:19:23.830191",
+      "updated_at": "2025-08-17T01:09:21.622733",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "UK",
+      "media": []
+    },
+    {
+      "id": 223,
+      "source_work_id": 248,
+      "film_id": 351,
+      "publisher": "Puffin",
+      "edition_year": 1968,
+      "edition_description": "#166; 4th printing",
+      "binding_type": "PB",
+      "dust_jacket": "False",
+      "cover_type": "photo both covers",
+      "photo_content": null,
+      "price_low_cents": 400,
+      "price_high_cents": 800,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-14T01:45:07.768323",
+      "updated_at": "2025-08-17T01:10:00.983547",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "UK",
+      "media": []
+    }
+  ],
   "magazine_publication": null,
   "external_urls": [],
   "external_ids": {

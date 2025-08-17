@@ -23,6 +23,7 @@
     "adaptation_count": 1,
     "year_span": 0,
     "is_remake_champion": false,
+    "photoplay_edition_count": 2,
     "average_gap_between_adaptations": null
   },
   "patterns": {
@@ -48,7 +49,54 @@
     }
   ],
   "adaptation_gaps": [],
-  "has_photoplay_edition": false,
+  "photoplay_editions": [
+    {
+      "id": 206,
+      "source_work_id": 532,
+      "film_id": 608,
+      "publisher": "Bantam",
+      "edition_year": 1962,
+      "edition_description": "# J 2324",
+      "binding_type": "PB",
+      "dust_jacket": "False",
+      "cover_type": "photo both covers",
+      "photo_content": null,
+      "price_low_cents": 400,
+      "price_high_cents": 800,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-13T23:42:13.419592",
+      "updated_at": "2025-08-16T23:34:48.32205",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    },
+    {
+      "id": 207,
+      "source_work_id": 532,
+      "film_id": 608,
+      "publisher": "Corgi",
+      "edition_year": 1962,
+      "edition_description": null,
+      "binding_type": "PB",
+      "dust_jacket": "False",
+      "cover_type": "photo both covers",
+      "photo_content": null,
+      "price_low_cents": 400,
+      "price_high_cents": 800,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-13T23:42:13.419592",
+      "updated_at": "2025-08-17T01:10:49.024831",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "UK",
+      "media": []
+    }
+  ],
   "magazine_publication": null,
   "external_urls": [],
   "external_ids": {

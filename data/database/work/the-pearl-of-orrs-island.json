@@ -23,6 +23,7 @@
     "adaptation_count": 1,
     "year_span": 0,
     "is_remake_champion": false,
+    "photoplay_edition_count": 1,
     "average_gap_between_adaptations": null
   },
   "patterns": {
@@ -48,7 +49,59 @@
     }
   ],
   "adaptation_gaps": [],
-  "has_photoplay_edition": true,
+  "photoplay_editions": [
+    {
+      "id": 11,
+      "source_work_id": 118,
+      "film_id": 123,
+      "publisher": "A.L. Burt",
+      "edition_year": 1925,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "photo front DJ",
+      "photo_content": "4 stills",
+      "price_low_cents": 1000,
+      "price_high_cents": 4000,
+      "source_url": "https://www.photoplay-edition.com/index4.php?a=harriet+beecher+stowe",
+      "source_notes": null,
+      "verified": "True",
+      "created_at": "2025-07-02T20:35:37.88542",
+      "updated_at": "2025-08-17T00:55:46.46446",
+      "ia_url": "https://archive.org/details/pearl-orrs-island-1925-photoplay-selections",
+      "has_visual_content": "True",
+      "country": "US",
+      "media": [
+        {
+          "id": 6,
+          "photoplay_edition_id": 11,
+          "media_type": "dust_jacket",
+          "ia_url": "https://dn720702.ca.archive.org/0/items/pearl-orrs-island-1925-photoplay-selections/stowe-1925-pearl-dj-outer.jpg",
+          "caption": "Dust jacket with art or colorized film still",
+          "display_order": 1,
+          "created_at": "2025-08-16T23:21:25.411543"
+        },
+        {
+          "id": 7,
+          "photoplay_edition_id": 11,
+          "media_type": "dust_jacket_flaps",
+          "ia_url": "https://ia803203.us.archive.org/34/items/pearl-orrs-island-1925-photoplay-selections/stowe-1925-pearl-dj-inner_flaps.jpg",
+          "caption": "Dust jacket flaps promoting photoplay",
+          "display_order": 2,
+          "created_at": "2025-08-16T23:21:25.411543"
+        },
+        {
+          "id": 8,
+          "photoplay_edition_id": 11,
+          "media_type": "title_page",
+          "ia_url": "https://ia803203.us.archive.org/34/items/pearl-orrs-island-1925-photoplay-selections/stowe-1925-pearl-frontispiece-title_page.jpg",
+          "caption": "Frontispiece film still and title page",
+          "display_order": 3,
+          "created_at": "2025-08-16T23:21:25.411543"
+        }
+      ]
+    }
+  ],
   "magazine_publication": null,
   "external_urls": [],
   "external_ids": {

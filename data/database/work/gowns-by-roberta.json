@@ -23,6 +23,7 @@
     "adaptation_count": 2,
     "year_span": 17,
     "is_remake_champion": false,
+    "photoplay_edition_count": 1,
     "average_gap_between_adaptations": 17
   },
   "patterns": {
@@ -69,7 +70,31 @@
       "gap_years": 17
     }
   ],
-  "has_photoplay_edition": true,
+  "photoplay_editions": [
+    {
+      "id": 59,
+      "source_work_id": 198,
+      "film_id": 223,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1935,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "art front DJ",
+      "photo_content": null,
+      "price_low_cents": 4000,
+      "price_high_cents": 8000,
+      "source_url": "https://www.photoplay-edition.com/index4.php?a=alice",
+      "source_notes": null,
+      "verified": "False",
+      "created_at": "2025-07-06T01:08:10.860075",
+      "updated_at": "2025-08-17T00:57:42.809092",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    }
+  ],
   "magazine_publication": {
     "magazine_title": "Ladies' Home Journal",
     "magazine_pub_date": "1933-05-01",

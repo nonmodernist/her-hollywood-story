@@ -23,6 +23,7 @@
     "adaptation_count": 2,
     "year_span": 25,
     "is_remake_champion": false,
+    "photoplay_edition_count": 0,
     "average_gap_between_adaptations": 25
   },
   "patterns": {
@@ -68,7 +69,7 @@
       "gap_years": 25
     }
   ],
-  "has_photoplay_edition": false,
+  "photoplay_editions": [],
   "magazine_publication": {
     "magazine_title": "Ladies' Home Journal",
     "magazine_pub_date": "1910-11-01",

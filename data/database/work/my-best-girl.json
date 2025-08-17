@@ -23,6 +23,7 @@
     "adaptation_count": 1,
     "year_span": 0,
     "is_remake_champion": false,
+    "photoplay_edition_count": 2,
     "average_gap_between_adaptations": null
   },
   "patterns": {
@@ -48,7 +49,54 @@
     }
   ],
   "adaptation_gaps": [],
-  "has_photoplay_edition": false,
+  "photoplay_editions": [
+    {
+      "id": 196,
+      "source_work_id": 753,
+      "film_id": 844,
+      "publisher": "A.L. Burt",
+      "edition_year": 1927,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "art front DJ",
+      "photo_content": "4 stills",
+      "price_low_cents": 1500,
+      "price_high_cents": 6000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-10T19:49:02.998155",
+      "updated_at": "2025-08-16T23:38:00.316442",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    },
+    {
+      "id": 197,
+      "source_work_id": 753,
+      "film_id": 844,
+      "publisher": "Readers Library",
+      "edition_year": 1927,
+      "edition_description": "#196",
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "art both covers DJ, text credit",
+      "photo_content": null,
+      "price_low_cents": 1000,
+      "price_high_cents": 4000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-10T19:49:02.998155",
+      "updated_at": "2025-08-17T01:11:33.9005",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "UK",
+      "media": []
+    }
+  ],
   "magazine_publication": {
     "magazine_title": "Collier's",
     "magazine_pub_date": "1927-07-23",

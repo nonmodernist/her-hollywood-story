@@ -23,6 +23,7 @@
     "adaptation_count": 2,
     "year_span": 7,
     "is_remake_champion": false,
+    "photoplay_edition_count": 0,
     "average_gap_between_adaptations": 7
   },
   "patterns": {
@@ -68,7 +69,7 @@
       "gap_years": 7
     }
   ],
-  "has_photoplay_edition": false,
+  "photoplay_editions": [],
   "magazine_publication": {
     "magazine_title": "Liberty",
     "magazine_pub_date": "1929-03-16",

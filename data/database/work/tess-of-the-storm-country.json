@@ -23,6 +23,7 @@
     "adaptation_count": 4,
     "year_span": 46,
     "is_remake_champion": true,
+    "photoplay_edition_count": 1,
     "average_gap_between_adaptations": 15
   },
   "patterns": {
@@ -106,7 +107,31 @@
       "gap_years": 28
     }
   ],
-  "has_photoplay_edition": true,
+  "photoplay_editions": [
+    {
+      "id": 16,
+      "source_work_id": 5,
+      "film_id": 185,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1932,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "art front DJ, photo read DJ",
+      "photo_content": "12 endpaper stills",
+      "price_low_cents": 1000,
+      "price_high_cents": 4000,
+      "source_url": "https://www.photoplay-edition.com/index4.php?a=grace+miller+white",
+      "source_notes": null,
+      "verified": "False",
+      "created_at": "2025-07-02T20:43:59.004929",
+      "updated_at": "2025-08-17T00:57:13.744866",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    }
+  ],
   "magazine_publication": null,
   "external_urls": [],
   "external_ids": {

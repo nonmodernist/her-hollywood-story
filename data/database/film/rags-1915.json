@@ -6,7 +6,7 @@
   "html_title": "<span class=\"film-title\">Rags</span>",
   "release_year": 1915,
   "runtime_minutes": null,
-  "country_of_production": null,
+  "country_of_production": "United States",
   "genres": [
     "Drama"
   ],
@@ -14,11 +14,11 @@
   "production_companies": "Famous Players Film Co.",
   "distribution_companies": "Paramount Pictures Corp.",
   "directors": "James Kirkwood",
-  "writers": "Edith Bernard Delano|Edith Barnard Delano",
+  "writers": "Edith Bernard Delano",
   "cast_members": "Mary Pickford|Marshall Neilan|Joseph Manning|J. Farrell MacDonald|Hugh Thompson",
   "color_info": null,
-  "availability": null,
-  "archive_location": null,
+  "availability": "extant",
+  "archive_location": "George Eastman House/Museum, Library of Congress",
   "adaptation_notes": null,
   "afi_catalog_id": 13855,
   "source_work": {
@@ -34,6 +34,7 @@
     "literary_significance": null,
     "literary_significance_html": "",
     "adaptation_count": 1,
+    "photoplay_edition_count": 1,
     "year_to_adaptation": 0
   },
   "author": {
@@ -64,5 +65,5 @@
   ],
   "has_media": true,
   "media_count": 1,
-  "last_updated": "2025-08-16T18:01:41.755819"
+  "last_updated": "2025-08-16T18:34:45.49175"
 }

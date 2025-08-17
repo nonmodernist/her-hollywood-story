@@ -23,6 +23,7 @@
     "adaptation_count": 2,
     "year_span": 12,
     "is_remake_champion": false,
+    "photoplay_edition_count": 2,
     "average_gap_between_adaptations": 12
   },
   "patterns": {
@@ -68,7 +69,54 @@
       "gap_years": 12
     }
   ],
-  "has_photoplay_edition": false,
+  "photoplay_editions": [
+    {
+      "id": 172,
+      "source_work_id": 822,
+      "film_id": 916,
+      "publisher": "Random House",
+      "edition_year": 1959,
+      "edition_description": "book title: The Shirley Temple Treasury; anthology also containing \"The Little Colonel\" and \"Rebecca of Sunnybrook Farm\"",
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "photo front DJ",
+      "photo_content": "? stills",
+      "price_low_cents": 1000,
+      "price_high_cents": 4000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-07T16:13:25.189992",
+      "updated_at": "2025-08-16T23:38:00.316442",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    },
+    {
+      "id": 173,
+      "source_work_id": 822,
+      "film_id": 916,
+      "publisher": "Random House",
+      "edition_year": 1959,
+      "edition_description": "also contains \"The Little Colonel\"",
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "photo front DJ and cover",
+      "photo_content": "12 stills",
+      "price_low_cents": 1500,
+      "price_high_cents": 3000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-07T16:13:25.189992",
+      "updated_at": "2025-08-16T23:38:00.316442",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    }
+  ],
   "magazine_publication": null,
   "external_urls": [],
   "external_ids": {

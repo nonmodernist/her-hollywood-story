@@ -23,6 +23,7 @@
     "adaptation_count": 2,
     "year_span": 6,
     "is_remake_champion": false,
+    "photoplay_edition_count": 1,
     "average_gap_between_adaptations": 6
   },
   "patterns": {
@@ -68,7 +69,31 @@
       "gap_years": 6
     }
   ],
-  "has_photoplay_edition": false,
+  "photoplay_editions": [
+    {
+      "id": 108,
+      "source_work_id": 835,
+      "film_id": 930,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1924,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "photos front DJ",
+      "photo_content": "8 stills",
+      "price_low_cents": 900,
+      "price_high_cents": 3000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-07T00:27:00.769674",
+      "updated_at": "2025-08-16T23:38:00.316442",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    }
+  ],
   "magazine_publication": {
     "magazine_title": "McClure's",
     "magazine_pub_date": "1914-10-01",

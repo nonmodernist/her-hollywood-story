@@ -23,6 +23,7 @@
     "adaptation_count": 2,
     "year_span": 9,
     "is_remake_champion": false,
+    "photoplay_edition_count": 2,
     "average_gap_between_adaptations": 9
   },
   "patterns": {
@@ -68,7 +69,54 @@
       "gap_years": 9
     }
   ],
-  "has_photoplay_edition": false,
+  "photoplay_editions": [
+    {
+      "id": 22,
+      "source_work_id": 220,
+      "film_id": 261,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1932,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "photo front DJ",
+      "photo_content": null,
+      "price_low_cents": 2000,
+      "price_high_cents": 4000,
+      "source_url": "https://www.photoplay-edition.com/index4.php?a=mary+roberts+rinehart",
+      "source_notes": null,
+      "verified": "False",
+      "created_at": "2025-07-02T20:53:52.447754",
+      "updated_at": "2025-08-17T00:58:13.137252",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    },
+    {
+      "id": 23,
+      "source_work_id": 220,
+      "film_id": 261,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1941,
+      "edition_description": "omnibus",
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "photo front DJ",
+      "photo_content": null,
+      "price_low_cents": 1500,
+      "price_high_cents": 3000,
+      "source_url": "https://www.photoplay-edition.com/index4.php?a=mary+roberts+rinehart",
+      "source_notes": null,
+      "verified": "False",
+      "created_at": "2025-07-02T20:54:28.030447",
+      "updated_at": "2025-08-17T00:58:20.659767",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    }
+  ],
   "magazine_publication": {
     "magazine_title": "The Saturday Evening Post",
     "magazine_pub_date": "1932-01-02",

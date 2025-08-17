@@ -23,6 +23,7 @@
     "adaptation_count": 1,
     "year_span": 0,
     "is_remake_champion": false,
+    "photoplay_edition_count": 1,
     "average_gap_between_adaptations": null
   },
   "patterns": {
@@ -48,7 +49,31 @@
     }
   ],
   "adaptation_gaps": [],
-  "has_photoplay_edition": false,
+  "photoplay_editions": [
+    {
+      "id": 57,
+      "source_work_id": 540,
+      "film_id": 617,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1924,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "art front DJ",
+      "photo_content": "8 stills",
+      "price_low_cents": 800,
+      "price_high_cents": 2500,
+      "source_url": "https://www.photoplay-edition.com/index4.php?a=sarah",
+      "source_notes": null,
+      "verified": "False",
+      "created_at": "2025-07-06T01:02:23.038373",
+      "updated_at": "2025-08-17T01:00:30.095356",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    }
+  ],
   "magazine_publication": null,
   "external_urls": [
     {

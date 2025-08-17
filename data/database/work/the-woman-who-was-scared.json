@@ -23,6 +23,7 @@
     "adaptation_count": 1,
     "year_span": 0,
     "is_remake_champion": false,
+    "photoplay_edition_count": 1,
     "average_gap_between_adaptations": null
   },
   "patterns": {
@@ -48,7 +49,31 @@
     }
   ],
   "adaptation_gaps": [],
-  "has_photoplay_edition": false,
+  "photoplay_editions": [
+    {
+      "id": 237,
+      "source_work_id": 686,
+      "film_id": 966,
+      "publisher": "Arthur Barker",
+      "edition_year": 1956,
+      "edition_description": "8th printing",
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "photo front DJ",
+      "photo_content": null,
+      "price_low_cents": 1000,
+      "price_high_cents": 2000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-14T02:23:49.615932",
+      "updated_at": "2025-08-17T01:11:47.677589",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "UK",
+      "media": []
+    }
+  ],
   "magazine_publication": null,
   "external_urls": [],
   "external_ids": {

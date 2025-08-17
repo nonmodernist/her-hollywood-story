@@ -23,6 +23,7 @@
     "adaptation_count": 3,
     "year_span": 29,
     "is_remake_champion": false,
+    "photoplay_edition_count": 2,
     "average_gap_between_adaptations": 15
   },
   "patterns": {
@@ -87,7 +88,54 @@
       "gap_years": 21
     }
   ],
-  "has_photoplay_edition": true,
+  "photoplay_editions": [
+    {
+      "id": 145,
+      "source_work_id": 100,
+      "film_id": 105,
+      "publisher": "Readers Library",
+      "edition_year": 1925,
+      "edition_description": "#163",
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "art both covers DJ, text credit",
+      "photo_content": null,
+      "price_low_cents": 800,
+      "price_high_cents": 3000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-07T03:00:40.961177",
+      "updated_at": "2025-08-17T01:08:22.120826",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "UK",
+      "media": []
+    },
+    {
+      "id": 81,
+      "source_work_id": 100,
+      "film_id": 196,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1932,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "rear panel list of photoplays DJ",
+      "photo_content": "? stills",
+      "price_low_cents": 2500,
+      "price_high_cents": 10000,
+      "source_url": "https://www.photoplay-edition.com/index4.php?a=ferber",
+      "source_notes": null,
+      "verified": "False",
+      "created_at": "2025-07-06T04:03:11.203525",
+      "updated_at": "2025-08-17T00:57:23.675372",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    }
+  ],
   "magazine_publication": null,
   "external_urls": [
     {

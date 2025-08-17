@@ -23,6 +23,7 @@
     "adaptation_count": 2,
     "year_span": 25,
     "is_remake_champion": false,
+    "photoplay_edition_count": 2,
     "average_gap_between_adaptations": 25
   },
   "patterns": {
@@ -68,7 +69,54 @@
       "gap_years": 25
     }
   ],
-  "has_photoplay_edition": true,
+  "photoplay_editions": [
+    {
+      "id": 129,
+      "source_work_id": 191,
+      "film_id": 212,
+      "publisher": "A.L. Burt",
+      "edition_year": 1934,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "art front DJ, DJ spine photos",
+      "photo_content": "15 endpaper stills repeated",
+      "price_low_cents": 1500,
+      "price_high_cents": 7500,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-07T02:20:51.49675",
+      "updated_at": "2025-08-16T23:38:00.316442",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    },
+    {
+      "id": 130,
+      "source_work_id": 191,
+      "film_id": 335,
+      "publisher": "Perma Books",
+      "edition_year": 1959,
+      "edition_description": "#M-4124",
+      "binding_type": "PB",
+      "dust_jacket": "False",
+      "cover_type": "photo front cover",
+      "photo_content": null,
+      "price_low_cents": 400,
+      "price_high_cents": 800,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-07T02:22:09.371827",
+      "updated_at": "2025-08-16T23:34:48.32205",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    }
+  ],
   "magazine_publication": null,
   "external_urls": [
     {

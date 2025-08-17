@@ -23,6 +23,7 @@
     "adaptation_count": 1,
     "year_span": 0,
     "is_remake_champion": false,
+    "photoplay_edition_count": 1,
     "average_gap_between_adaptations": null
   },
   "patterns": {
@@ -48,7 +49,31 @@
     }
   ],
   "adaptation_gaps": [],
-  "has_photoplay_edition": false,
+  "photoplay_editions": [
+    {
+      "id": 242,
+      "source_work_id": 711,
+      "film_id": 800,
+      "publisher": "Macrae Smith",
+      "edition_year": 1956,
+      "edition_description": "Book club edition",
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "credit rear DJ; photo shows star Loretta Young and the author",
+      "photo_content": null,
+      "price_low_cents": 1000,
+      "price_high_cents": 1500,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-14T18:11:56.143429",
+      "updated_at": "2025-08-16T23:34:48.32205",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    }
+  ],
   "magazine_publication": null,
   "external_urls": [],
   "external_ids": {

@@ -23,6 +23,7 @@
     "adaptation_count": 1,
     "year_span": 0,
     "is_remake_champion": false,
+    "photoplay_edition_count": 1,
     "average_gap_between_adaptations": null
   },
   "patterns": {
@@ -48,7 +49,41 @@
     }
   ],
   "adaptation_gaps": [],
-  "has_photoplay_edition": true,
+  "photoplay_editions": [
+    {
+      "id": 36,
+      "source_work_id": 512,
+      "film_id": 584,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1915,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "wraparound photos DJ",
+      "photo_content": "8 stills",
+      "price_low_cents": 1500,
+      "price_high_cents": 7500,
+      "source_url": "https://www.photoplay-edition.com/index4.php?y=1915",
+      "source_notes": "My copy is missing its dust jacket.",
+      "verified": "True",
+      "created_at": "2025-07-03T17:54:58.708148",
+      "updated_at": "2025-08-17T01:00:09.839957",
+      "ia_url": "https://archive.org/details/from-the-valley-of-the-missing-1915-photoplay-edition-selections",
+      "has_visual_content": "True",
+      "country": "US",
+      "media": [
+        {
+          "id": 5,
+          "photoplay_edition_id": 36,
+          "media_type": "title_page",
+          "ia_url": "https://ia800905.us.archive.org/17/items/from-the-valley-of-the-missing-1915-photoplay-edition-selections/white-1915-valley-frontispiece-title.jpg",
+          "caption": "Frontispiece with film still and title page",
+          "display_order": 2,
+          "created_at": "2025-08-16T23:14:12.446661"
+        }
+      ]
+    }
+  ],
   "magazine_publication": null,
   "external_urls": [],
   "external_ids": {

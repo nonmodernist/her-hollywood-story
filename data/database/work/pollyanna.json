@@ -23,6 +23,7 @@
     "adaptation_count": 2,
     "year_span": 40,
     "is_remake_champion": false,
+    "photoplay_edition_count": 1,
     "average_gap_between_adaptations": 40
   },
   "patterns": {
@@ -68,7 +69,31 @@
       "gap_years": 40
     }
   ],
-  "has_photoplay_edition": false,
+  "photoplay_editions": [
+    {
+      "id": 195,
+      "source_work_id": 790,
+      "film_id": 881,
+      "publisher": "Page",
+      "edition_year": 1920,
+      "edition_description": "49th printing; scarce edition",
+      "binding_type": "HB",
+      "dust_jacket": null,
+      "cover_type": "? DJ",
+      "photo_content": "16 stills",
+      "price_low_cents": 2500,
+      "price_high_cents": 15000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-10T19:45:13.188926",
+      "updated_at": "2025-08-16T23:38:00.316442",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    }
+  ],
   "magazine_publication": null,
   "external_urls": [
     {

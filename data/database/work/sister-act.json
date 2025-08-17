@@ -23,6 +23,7 @@
     "adaptation_count": 4,
     "year_span": 17,
     "is_remake_champion": true,
+    "photoplay_edition_count": 0,
     "average_gap_between_adaptations": 6
   },
   "patterns": {
@@ -107,7 +108,7 @@
       "gap_years": 14
     }
   ],
-  "has_photoplay_edition": false,
+  "photoplay_editions": [],
   "magazine_publication": {
     "magazine_title": "Hearst's International-Cosmopolitan",
     "magazine_pub_date": "1937-03-01",

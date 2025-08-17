@@ -23,6 +23,7 @@
     "adaptation_count": 4,
     "year_span": 28,
     "is_remake_champion": true,
+    "photoplay_edition_count": 2,
     "average_gap_between_adaptations": 9
   },
   "patterns": {
@@ -107,7 +108,100 @@
       "gap_years": 8
     }
   ],
-  "has_photoplay_edition": true,
+  "photoplay_editions": [
+    {
+      "id": 18,
+      "source_work_id": 6,
+      "film_id": 216,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1934,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "photo rear DJ",
+      "photo_content": "16 endpaper stills",
+      "price_low_cents": 1000,
+      "price_high_cents": 4000,
+      "source_url": "https://www.photoplay-edition.com/index4.php?a=Alice+Hegan+Rice",
+      "source_notes": null,
+      "verified": "True",
+      "created_at": "2025-07-02T20:47:23.783393",
+      "updated_at": "2025-08-17T00:57:39.940345",
+      "ia_url": "https://archive.org/details/mrs-wiggs-1934-photoplay-selections",
+      "has_visual_content": "True",
+      "country": "US",
+      "media": [
+        {
+          "id": 9,
+          "photoplay_edition_id": 18,
+          "media_type": "dust_jacket",
+          "ia_url": "https://dn721600.ca.archive.org/0/items/mrs-wiggs-1934-photoplay-selections/rice-1934-mrs_wiggs-dj-outer.jpg",
+          "caption": "Dust jacket with art and promotional still",
+          "display_order": 1,
+          "created_at": "2025-08-16T23:28:04.45374"
+        },
+        {
+          "id": 10,
+          "photoplay_edition_id": 18,
+          "media_type": "dust_jacket_flaps",
+          "ia_url": "https://dn721600.ca.archive.org/0/items/mrs-wiggs-1934-photoplay-selections/rice-1934-mrs_wiggs-dj-inner_flaps.jpg",
+          "caption": "Dust jacket flaps recommending other books that readers will enjoy",
+          "display_order": 2,
+          "created_at": "2025-08-16T23:28:04.45374"
+        },
+        {
+          "id": 11,
+          "photoplay_edition_id": 18,
+          "media_type": "endpaper_stills",
+          "ia_url": "https://dn721600.ca.archive.org/0/items/mrs-wiggs-1934-photoplay-selections/rice-1934-mrs_wiggs-photo_endpapers_front.jpg",
+          "caption": "Front endpaper stills",
+          "display_order": 3,
+          "created_at": "2025-08-16T23:28:04.45374"
+        },
+        {
+          "id": 12,
+          "photoplay_edition_id": 18,
+          "media_type": "endpaper_stills",
+          "ia_url": "https://dn721600.ca.archive.org/0/items/mrs-wiggs-1934-photoplay-selections/rice-1934-mrs_wiggs-photo_endpapers_back.jpg",
+          "caption": "Back endpaper stills",
+          "display_order": 3,
+          "created_at": "2025-08-16T23:28:04.45374"
+        },
+        {
+          "id": 13,
+          "photoplay_edition_id": 18,
+          "media_type": "cover",
+          "ia_url": "  https://dn721600.ca.archive.org/0/items/mrs-wiggs-1934-photoplay-selections/rice-1934-mrs_wiggs-cover.jpg",
+          "caption": "Book cover",
+          "display_order": 10,
+          "created_at": "2025-08-16T23:28:04.45374"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "source_work_id": 6,
+      "film_id": 266,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1942,
+      "edition_description": null,
+      "binding_type": "HB",
+      "dust_jacket": "True",
+      "cover_type": "photo rear DJ",
+      "photo_content": null,
+      "price_low_cents": 1000,
+      "price_high_cents": 2000,
+      "source_url": "https://www.photoplay-edition.com/index4.php?a=Alice+Hegan+Rice",
+      "source_notes": null,
+      "verified": "False",
+      "created_at": "2025-07-02T20:48:00.921774",
+      "updated_at": "2025-08-17T00:58:26.484262",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "media": []
+    }
+  ],
   "magazine_publication": null,
   "external_urls": [],
   "external_ids": {

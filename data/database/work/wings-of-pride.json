@@ -51,14 +51,30 @@
   "adaptation_gaps": [],
   "photoplay_editions": [],
   "magazine_publication": null,
-  "external_urls": [],
+  "external_urls": [
+    {
+      "source": "Internet Archive",
+      "url": "https://archive.org/details/wingsofpride00mabiiala",
+      "priority": 2
+    },
+    {
+      "source": "Open Library",
+      "url": "https://openlibrary.org/works/OL197327W",
+      "priority": 3
+    },
+    {
+      "source": "WorldCat",
+      "url": "https://www.worldcat.org/oclc/679694677",
+      "priority": 4
+    }
+  ],
   "external_ids": {
     "gutenberg_id": null,
-    "internet_archive_id": null,
-    "openlibrary_id": null,
-    "oclc_number": null,
+    "internet_archive_id": "wingsofpride00mabiiala",
+    "openlibrary_id": "OL197327W",
+    "oclc_number": 679694677,
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-18T19:19:07.645567"
 }

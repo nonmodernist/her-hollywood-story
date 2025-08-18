@@ -1031,6 +1031,33 @@
     },
     {
       "work": {
+        "id": 920,
+        "slug": "face",
+        "title": "Face",
+        "html_title": "<span class=\"work-title short-story\">\"Face\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1924
+      },
+      "author": {
+        "id": 466,
+        "slug": "lucy-stone-terrill",
+        "name": "Lucy Stone Terrill"
+      },
+      "film": {
+        "id": 1026,
+        "slug": "unguarded-women-1924",
+        "title": "Unguarded Women",
+        "html_title": "<span class=\"film-title\">Unguarded Women</span>",
+        "year": 1924,
+        "studio": "Famous Players-Lasky",
+        "directors": "Alan Crosland",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
         "id": 1022,
         "slug": "the-altar-on-the-hill",
         "title": "The Altar on the Hill",
@@ -2411,14 +2438,14 @@
     }
   ],
   "stats": {
-    "total": 89,
+    "total": 90,
     "yearRange": {
       "earliest": 1914,
       "latest": 1962
     },
     "byDecade": {
       "1910s": 18,
-      "1920s": 34,
+      "1920s": 35,
       "1930s": 27,
       "1940s": 6,
       "1950s": 2,
@@ -2431,7 +2458,7 @@
       },
       {
         "genre": "Melodrama",
-        "count": 17
+        "count": 18
       },
       {
         "genre": "Comedy-drama",
@@ -2481,7 +2508,7 @@
       },
       {
         "type": "short story",
-        "count": 25
+        "count": 26
       },
       {
         "type": "novella",
@@ -2514,11 +2541,11 @@
         "count": 7
       },
       {
-        "studio": "Universal",
-        "count": 5
+        "studio": "Famous Players-Lasky",
+        "count": 6
       },
       {
-        "studio": "Famous Players-Lasky",
+        "studio": "Universal",
         "count": 5
       },
       {
@@ -2582,7 +2609,7 @@
     ]
   },
   "metadata": {
-    "generated": "2025-08-18T17:35:52.381Z",
+    "generated": "2025-08-18T19:26:16.655Z",
     "version": "1.1"
   }
 }

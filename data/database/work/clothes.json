@@ -2,10 +2,10 @@
   "id": 919,
   "slug": "clothes",
   "title": "Clothes",
-  "formatted_title": "Clothes",
-  "html_title": "<span class=\"work-title\">Clothes</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "formatted_title": "\"Clothes\"",
+  "html_title": "<span class=\"work-title short-story\">\"Clothes\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1928,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -27,8 +27,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -43,12 +43,20 @@
       "directors": null,
       "genres": [],
       "has_media": false,
-      "years_after_publication": 1929
+      "years_after_publication": 1
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Saturday Evening Post",
+    "magazine_pub_date": "1928-08-25",
+    "magazine_issue_info": "v201 #8",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1928-08-25_201_8",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1928SEPAUG25%27",
+    "serialized": false,
+    "serial_parts": null
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -58,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-18T18:25:54.532798"
 }

@@ -617,6 +617,40 @@
     },
     {
       "work": {
+        "id": 920,
+        "slug": "face",
+        "title": "Face",
+        "formatted_title": "\"Face\"",
+        "html_title": "<span class=\"work-title short-story\">\"Face\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1924
+      },
+      "author": {
+        "id": 466,
+        "slug": "lucy-stone-terrill",
+        "name": "Lucy Stone Terrill"
+      },
+      "firstAdaptation": {
+        "id": 1026,
+        "slug": "unguarded-women-1924",
+        "title": "Unguarded Women",
+        "html_title": "<span class=\"film-title\">Unguarded Women</span>",
+        "year": 1924,
+        "studio": "Famous Players-Lasky",
+        "directors": "Alan Crosland"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1924
+      }
+    },
+    {
+      "work": {
         "id": 126,
         "slug": "footloose",
         "title": "Footloose",
@@ -4119,6 +4153,40 @@
     },
     {
       "work": {
+        "id": 919,
+        "slug": "clothes",
+        "title": "Clothes",
+        "formatted_title": "\"Clothes\"",
+        "html_title": "<span class=\"work-title short-story\">\"Clothes\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1928
+      },
+      "author": {
+        "id": 466,
+        "slug": "lucy-stone-terrill",
+        "name": "Lucy Stone Terrill"
+      },
+      "firstAdaptation": {
+        "id": 1025,
+        "slug": "clothes-1929",
+        "title": "Clothes",
+        "html_title": "<span class=\"film-title\">Clothes</span>",
+        "year": 1929,
+        "studio": null,
+        "directors": null
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1929
+      }
+    },
+    {
+      "work": {
         "id": 210,
         "slug": "comet-over-broadway",
         "title": "Comet Over Broadway",
@@ -7519,40 +7587,6 @@
     },
     {
       "work": {
-        "id": 266,
-        "slug": "the-enemy",
-        "title": "The Enemy",
-        "formatted_title": "The Enemy",
-        "html_title": "<span class=\"work-title\">The Enemy</span>",
-        "work_type": "novella",
-        "publication_year": 1951
-      },
-      "author": {
-        "id": 85,
-        "slug": "charlotte-armstrong",
-        "name": "Charlotte Armstrong"
-      },
-      "firstAdaptation": {
-        "id": 318,
-        "slug": "talk-about-a-stranger-1952",
-        "title": "Talk About a Stranger",
-        "html_title": "<span class=\"film-title\">Talk About a Stranger</span>",
-        "year": 1952,
-        "studio": "MGM",
-        "directors": "David Bradley"
-      },
-      "speed": {
-        "delay": 1,
-        "delayMonths": "1 year",
-        "isZeroDelay": false
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1952
-      }
-    },
-    {
-      "work": {
         "id": 400,
         "slug": "the-enemy",
         "title": "The Enemy",
@@ -7583,6 +7617,40 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1916
+      }
+    },
+    {
+      "work": {
+        "id": 266,
+        "slug": "the-enemy",
+        "title": "The Enemy",
+        "formatted_title": "The Enemy",
+        "html_title": "<span class=\"work-title\">The Enemy</span>",
+        "work_type": "novella",
+        "publication_year": 1951
+      },
+      "author": {
+        "id": 85,
+        "slug": "charlotte-armstrong",
+        "name": "Charlotte Armstrong"
+      },
+      "firstAdaptation": {
+        "id": 318,
+        "slug": "talk-about-a-stranger-1952",
+        "title": "Talk About a Stranger",
+        "html_title": "<span class=\"film-title\">Talk About a Stranger</span>",
+        "year": 1952,
+        "studio": "MGM",
+        "directors": "David Bradley"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1952
       }
     },
     {
@@ -10026,6 +10094,40 @@
             "year": 1924,
             "studio": "Banner Productions",
             "directors": "Al Santell"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1924
+          }
+        },
+        {
+          "work": {
+            "id": 920,
+            "slug": "face",
+            "title": "Face",
+            "formatted_title": "\"Face\"",
+            "html_title": "<span class=\"work-title short-story\">\"Face\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1924
+          },
+          "author": {
+            "id": 466,
+            "slug": "lucy-stone-terrill",
+            "name": "Lucy Stone Terrill"
+          },
+          "firstAdaptation": {
+            "id": 1026,
+            "slug": "unguarded-women-1924",
+            "title": "Unguarded Women",
+            "html_title": "<span class=\"film-title\">Unguarded Women</span>",
+            "year": 1924,
+            "studio": "Famous Players-Lasky",
+            "directors": "Alan Crosland"
           },
           "speed": {
             "delay": 0,
@@ -13543,6 +13645,40 @@
         },
         {
           "work": {
+            "id": 919,
+            "slug": "clothes",
+            "title": "Clothes",
+            "formatted_title": "\"Clothes\"",
+            "html_title": "<span class=\"work-title short-story\">\"Clothes\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1928
+          },
+          "author": {
+            "id": 466,
+            "slug": "lucy-stone-terrill",
+            "name": "Lucy Stone Terrill"
+          },
+          "firstAdaptation": {
+            "id": 1025,
+            "slug": "clothes-1929",
+            "title": "Clothes",
+            "html_title": "<span class=\"film-title\">Clothes</span>",
+            "year": 1929,
+            "studio": null,
+            "directors": null
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1929
+          }
+        },
+        {
+          "work": {
             "id": 210,
             "slug": "comet-over-broadway",
             "title": "Comet Over Broadway",
@@ -16943,40 +17079,6 @@
         },
         {
           "work": {
-            "id": 266,
-            "slug": "the-enemy",
-            "title": "The Enemy",
-            "formatted_title": "The Enemy",
-            "html_title": "<span class=\"work-title\">The Enemy</span>",
-            "work_type": "novella",
-            "publication_year": 1951
-          },
-          "author": {
-            "id": 85,
-            "slug": "charlotte-armstrong",
-            "name": "Charlotte Armstrong"
-          },
-          "firstAdaptation": {
-            "id": 318,
-            "slug": "talk-about-a-stranger-1952",
-            "title": "Talk About a Stranger",
-            "html_title": "<span class=\"film-title\">Talk About a Stranger</span>",
-            "year": 1952,
-            "studio": "MGM",
-            "directors": "David Bradley"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1952
-          }
-        },
-        {
-          "work": {
             "id": 400,
             "slug": "the-enemy",
             "title": "The Enemy",
@@ -17007,6 +17109,40 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1916
+          }
+        },
+        {
+          "work": {
+            "id": 266,
+            "slug": "the-enemy",
+            "title": "The Enemy",
+            "formatted_title": "The Enemy",
+            "html_title": "<span class=\"work-title\">The Enemy</span>",
+            "work_type": "novella",
+            "publication_year": 1951
+          },
+          "author": {
+            "id": 85,
+            "slug": "charlotte-armstrong",
+            "name": "Charlotte Armstrong"
+          },
+          "firstAdaptation": {
+            "id": 318,
+            "slug": "talk-about-a-stranger-1952",
+            "title": "Talk About a Stranger",
+            "html_title": "<span class=\"film-title\">Talk About a Stranger</span>",
+            "year": 1952,
+            "studio": "MGM",
+            "directors": "David Bradley"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1952
           }
         },
         {
@@ -20655,6 +20791,40 @@
         },
         {
           "work": {
+            "id": 920,
+            "slug": "face",
+            "title": "Face",
+            "formatted_title": "\"Face\"",
+            "html_title": "<span class=\"work-title short-story\">\"Face\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1924
+          },
+          "author": {
+            "id": 466,
+            "slug": "lucy-stone-terrill",
+            "name": "Lucy Stone Terrill"
+          },
+          "firstAdaptation": {
+            "id": 1026,
+            "slug": "unguarded-women-1924",
+            "title": "Unguarded Women",
+            "html_title": "<span class=\"film-title\">Unguarded Women</span>",
+            "year": 1924,
+            "studio": "Famous Players-Lasky",
+            "directors": "Alan Crosland"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1924
+          }
+        },
+        {
+          "work": {
             "id": 126,
             "slug": "footloose",
             "title": "Footloose",
@@ -21976,6 +22146,40 @@
           },
           "context": {
             "totalAdaptations": 2,
+            "lastAdaptation": 1929
+          }
+        },
+        {
+          "work": {
+            "id": 919,
+            "slug": "clothes",
+            "title": "Clothes",
+            "formatted_title": "\"Clothes\"",
+            "html_title": "<span class=\"work-title short-story\">\"Clothes\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1928
+          },
+          "author": {
+            "id": 466,
+            "slug": "lucy-stone-terrill",
+            "name": "Lucy Stone Terrill"
+          },
+          "firstAdaptation": {
+            "id": 1025,
+            "slug": "clothes-1929",
+            "title": "Clothes",
+            "html_title": "<span class=\"film-title\">Clothes</span>",
+            "year": 1929,
+            "studio": null,
+            "directors": null
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
             "lastAdaptation": 1929
           }
         },
@@ -28351,15 +28555,15 @@
         "count": 26
       },
       {
+        "studio": "Famous Players-Lasky",
+        "count": 20
+      },
+      {
         "studio": "Paramount",
         "count": 19
       },
       {
         "studio": "Universal",
-        "count": 19
-      },
-      {
-        "studio": "Famous Players-Lasky",
         "count": 19
       },
       {
@@ -28385,13 +28589,13 @@
     ]
   },
   "stats": {
-    "total": 277,
-    "sameYearCount": 89,
-    "oneYearCount": 188,
+    "total": 279,
+    "sameYearCount": 90,
+    "oneYearCount": 189,
     "peakDecade": "1920"
   },
   "metadata": {
-    "generated": "2025-08-18T17:35:52.369Z",
+    "generated": "2025-08-18T19:26:16.643Z",
     "version": "2.0"
   }
 }

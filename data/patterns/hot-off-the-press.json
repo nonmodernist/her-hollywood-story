@@ -410,6 +410,33 @@
     },
     {
       "work": {
+        "id": 862,
+        "slug": "wild-honey",
+        "title": "Wild Honey",
+        "html_title": "<span class=\"work-title short-story\">\"Wild Honey\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1918
+      },
+      "author": {
+        "id": 422,
+        "slug": "vingie-e-roe",
+        "name": "Vingie E. Roe"
+      },
+      "film": {
+        "id": 960,
+        "slug": "wild-honey-1918",
+        "title": "Wild Honey",
+        "html_title": "<span class=\"film-title\">Wild Honey</span>",
+        "year": 1918,
+        "studio": "De Luxe Pictures",
+        "directors": "Francis J. Grandon",
+        "genres": [
+          "Western"
+        ]
+      }
+    },
+    {
+      "work": {
         "id": 287,
         "slug": "the-avalanche-a-mystery-story",
         "title": "The Avalanche: A Mystery Story",
@@ -2384,13 +2411,13 @@
     }
   ],
   "stats": {
-    "total": 88,
+    "total": 89,
     "yearRange": {
       "earliest": 1914,
       "latest": 1962
     },
     "byDecade": {
-      "1910s": 17,
+      "1910s": 18,
       "1920s": 34,
       "1930s": 27,
       "1940s": 6,
@@ -2428,7 +2455,7 @@
       },
       {
         "genre": "Western",
-        "count": 2
+        "count": 3
       },
       {
         "genre": "Short",
@@ -2454,7 +2481,7 @@
       },
       {
         "type": "short story",
-        "count": 24
+        "count": 25
       },
       {
         "type": "novella",
@@ -2555,7 +2582,7 @@
     ]
   },
   "metadata": {
-    "generated": "2025-08-18T03:16:14.087Z",
+    "generated": "2025-08-18T17:35:52.381Z",
     "version": "1.1"
   }
 }

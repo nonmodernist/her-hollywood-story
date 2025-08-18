@@ -2895,6 +2895,40 @@
     },
     {
       "work": {
+        "id": 862,
+        "slug": "wild-honey",
+        "title": "Wild Honey",
+        "formatted_title": "\"Wild Honey\"",
+        "html_title": "<span class=\"work-title short-story\">\"Wild Honey\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1918
+      },
+      "author": {
+        "id": 422,
+        "slug": "vingie-e-roe",
+        "name": "Vingie E. Roe"
+      },
+      "firstAdaptation": {
+        "id": 960,
+        "slug": "wild-honey-1918",
+        "title": "Wild Honey",
+        "html_title": "<span class=\"film-title\">Wild Honey</span>",
+        "year": 1918,
+        "studio": "De Luxe Pictures",
+        "directors": "Francis J. Grandon"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1918
+      }
+    },
+    {
+      "work": {
         "id": 301,
         "slug": "without-compromise",
         "title": "Without Compromise",
@@ -7077,6 +7111,40 @@
     },
     {
       "work": {
+        "id": 855,
+        "slug": "the-alchemy-of-love",
+        "title": "The Alchemy of Love",
+        "formatted_title": "The Alchemy of Love",
+        "html_title": "<span class=\"work-title\">The Alchemy of Love</span>",
+        "work_type": "novella",
+        "publication_year": 1918
+      },
+      "author": {
+        "id": 422,
+        "slug": "vingie-e-roe",
+        "name": "Vingie E. Roe"
+      },
+      "firstAdaptation": {
+        "id": 953,
+        "slug": "twilight-1919",
+        "title": "Twilight",
+        "html_title": "<span class=\"film-title\">Twilight</span>",
+        "year": 1919,
+        "studio": "De Luxe Pictures",
+        "directors": "J. Searle Dawley"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1919
+      }
+    },
+    {
+      "work": {
         "id": 1001,
         "slug": "the-babys-had-a-hard-day",
         "title": "The Baby's had a Hard Day",
@@ -8301,40 +8369,6 @@
     },
     {
       "work": {
-        "id": 858,
-        "slug": "the-primal-lure-a-romance-of-fort-lu-cerne",
-        "title": "The Primal Lure: a Romance of Fort Lu Cerne",
-        "formatted_title": "The Primal Lure: a Romance of Fort Lu Cerne",
-        "html_title": "<span class=\"work-title\">The Primal Lure: a Romance of Fort Lu Cerne</span>",
-        "work_type": "novel",
-        "publication_year": 1915
-      },
-      "author": {
-        "id": 422,
-        "slug": "vingie-e-roe",
-        "name": "Vingie E. Roe"
-      },
-      "firstAdaptation": {
-        "id": 956,
-        "slug": "the-primal-lure-1916",
-        "title": "The Primal Lure",
-        "html_title": "<span class=\"film-title\">The Primal Lure</span>",
-        "year": 1916,
-        "studio": "New York Motion Picture Corp.",
-        "directors": "William S. Hart"
-      },
-      "speed": {
-        "delay": 1,
-        "delayMonths": "1 year",
-        "isZeroDelay": false
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1916
-      }
-    },
-    {
-      "work": {
         "id": 155,
         "slug": "the-princess-and-the-plumber",
         "title": "The Princess and the Plumber",
@@ -8675,6 +8709,40 @@
     },
     {
       "work": {
+        "id": 859,
+        "slug": "the-splendid-road",
+        "title": "The Splendid Road",
+        "formatted_title": "The Splendid Road",
+        "html_title": "<span class=\"work-title\">The Splendid Road</span>",
+        "work_type": "novel",
+        "publication_year": 1924
+      },
+      "author": {
+        "id": 422,
+        "slug": "vingie-e-roe",
+        "name": "Vingie E. Roe"
+      },
+      "firstAdaptation": {
+        "id": 957,
+        "slug": "the-splendid-road-1925",
+        "title": "The Splendid Road",
+        "html_title": "<span class=\"film-title\">The Splendid Road</span>",
+        "year": 1925,
+        "studio": "Frank Lloyd Productions ",
+        "directors": null
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1925
+      }
+    },
+    {
+      "work": {
         "id": 838,
         "slug": "the-state-versus-elinor-norton",
         "title": "The State versus Elinor Norton",
@@ -9011,6 +9079,40 @@
       "context": {
         "totalAdaptations": 2,
         "lastAdaptation": 1937
+      }
+    },
+    {
+      "work": {
+        "id": 861,
+        "slug": "val-of-paradise",
+        "title": "Val of Paradise",
+        "formatted_title": "Val of Paradise",
+        "html_title": "<span class=\"work-title\">Val of Paradise</span>",
+        "work_type": "novel",
+        "publication_year": 1921
+      },
+      "author": {
+        "id": 422,
+        "slug": "vingie-e-roe",
+        "name": "Vingie E. Roe"
+      },
+      "firstAdaptation": {
+        "id": 959,
+        "slug": "north-of-the-rio-grande-1922",
+        "title": "North of the Rio Grande",
+        "html_title": "<span class=\"film-title\">North of the Rio Grande</span>",
+        "year": 1922,
+        "studio": "Famous Players-Lasky",
+        "directors": "Rollin Sturgeon|Joseph Henabery"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1922
       }
     },
     {
@@ -12211,6 +12313,40 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1935
+          }
+        },
+        {
+          "work": {
+            "id": 862,
+            "slug": "wild-honey",
+            "title": "Wild Honey",
+            "formatted_title": "\"Wild Honey\"",
+            "html_title": "<span class=\"work-title short-story\">\"Wild Honey\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 422,
+            "slug": "vingie-e-roe",
+            "name": "Vingie E. Roe"
+          },
+          "firstAdaptation": {
+            "id": 960,
+            "slug": "wild-honey-1918",
+            "title": "Wild Honey",
+            "html_title": "<span class=\"film-title\">Wild Honey</span>",
+            "year": 1918,
+            "studio": "De Luxe Pictures",
+            "directors": "Francis J. Grandon"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1918
           }
         },
         {
@@ -16399,6 +16535,40 @@
         },
         {
           "work": {
+            "id": 855,
+            "slug": "the-alchemy-of-love",
+            "title": "The Alchemy of Love",
+            "formatted_title": "The Alchemy of Love",
+            "html_title": "<span class=\"work-title\">The Alchemy of Love</span>",
+            "work_type": "novella",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 422,
+            "slug": "vingie-e-roe",
+            "name": "Vingie E. Roe"
+          },
+          "firstAdaptation": {
+            "id": 953,
+            "slug": "twilight-1919",
+            "title": "Twilight",
+            "html_title": "<span class=\"film-title\">Twilight</span>",
+            "year": 1919,
+            "studio": "De Luxe Pictures",
+            "directors": "J. Searle Dawley"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1919
+          }
+        },
+        {
+          "work": {
             "id": 1001,
             "slug": "the-babys-had-a-hard-day",
             "title": "The Baby's had a Hard Day",
@@ -17623,40 +17793,6 @@
         },
         {
           "work": {
-            "id": 858,
-            "slug": "the-primal-lure-a-romance-of-fort-lu-cerne",
-            "title": "The Primal Lure: a Romance of Fort Lu Cerne",
-            "formatted_title": "The Primal Lure: a Romance of Fort Lu Cerne",
-            "html_title": "<span class=\"work-title\">The Primal Lure: a Romance of Fort Lu Cerne</span>",
-            "work_type": "novel",
-            "publication_year": 1915
-          },
-          "author": {
-            "id": 422,
-            "slug": "vingie-e-roe",
-            "name": "Vingie E. Roe"
-          },
-          "firstAdaptation": {
-            "id": 956,
-            "slug": "the-primal-lure-1916",
-            "title": "The Primal Lure",
-            "html_title": "<span class=\"film-title\">The Primal Lure</span>",
-            "year": 1916,
-            "studio": "New York Motion Picture Corp.",
-            "directors": "William S. Hart"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1916
-          }
-        },
-        {
-          "work": {
             "id": 155,
             "slug": "the-princess-and-the-plumber",
             "title": "The Princess and the Plumber",
@@ -17997,6 +18133,40 @@
         },
         {
           "work": {
+            "id": 859,
+            "slug": "the-splendid-road",
+            "title": "The Splendid Road",
+            "formatted_title": "The Splendid Road",
+            "html_title": "<span class=\"work-title\">The Splendid Road</span>",
+            "work_type": "novel",
+            "publication_year": 1924
+          },
+          "author": {
+            "id": 422,
+            "slug": "vingie-e-roe",
+            "name": "Vingie E. Roe"
+          },
+          "firstAdaptation": {
+            "id": 957,
+            "slug": "the-splendid-road-1925",
+            "title": "The Splendid Road",
+            "html_title": "<span class=\"film-title\">The Splendid Road</span>",
+            "year": 1925,
+            "studio": "Frank Lloyd Productions ",
+            "directors": null
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1925
+          }
+        },
+        {
+          "work": {
             "id": 838,
             "slug": "the-state-versus-elinor-norton",
             "title": "The State versus Elinor Norton",
@@ -18333,6 +18503,40 @@
           "context": {
             "totalAdaptations": 2,
             "lastAdaptation": 1937
+          }
+        },
+        {
+          "work": {
+            "id": 861,
+            "slug": "val-of-paradise",
+            "title": "Val of Paradise",
+            "formatted_title": "Val of Paradise",
+            "html_title": "<span class=\"work-title\">Val of Paradise</span>",
+            "work_type": "novel",
+            "publication_year": 1921
+          },
+          "author": {
+            "id": 422,
+            "slug": "vingie-e-roe",
+            "name": "Vingie E. Roe"
+          },
+          "firstAdaptation": {
+            "id": 959,
+            "slug": "north-of-the-rio-grande-1922",
+            "title": "North of the Rio Grande",
+            "html_title": "<span class=\"film-title\">North of the Rio Grande</span>",
+            "year": 1922,
+            "studio": "Famous Players-Lasky",
+            "directors": "Rollin Sturgeon|Joseph Henabery"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1922
           }
         },
         {
@@ -19225,6 +19429,40 @@
         },
         {
           "work": {
+            "id": 862,
+            "slug": "wild-honey",
+            "title": "Wild Honey",
+            "formatted_title": "\"Wild Honey\"",
+            "html_title": "<span class=\"work-title short-story\">\"Wild Honey\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 422,
+            "slug": "vingie-e-roe",
+            "name": "Vingie E. Roe"
+          },
+          "firstAdaptation": {
+            "id": 960,
+            "slug": "wild-honey-1918",
+            "title": "Wild Honey",
+            "html_title": "<span class=\"film-title\">Wild Honey</span>",
+            "year": 1918,
+            "studio": "De Luxe Pictures",
+            "directors": "Francis J. Grandon"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1918
+          }
+        },
+        {
+          "work": {
             "id": 785,
             "slug": "a-gentle-ill-wind",
             "title": "A Gentle Ill Wind",
@@ -19701,6 +19939,40 @@
         },
         {
           "work": {
+            "id": 855,
+            "slug": "the-alchemy-of-love",
+            "title": "The Alchemy of Love",
+            "formatted_title": "The Alchemy of Love",
+            "html_title": "<span class=\"work-title\">The Alchemy of Love</span>",
+            "work_type": "novella",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 422,
+            "slug": "vingie-e-roe",
+            "name": "Vingie E. Roe"
+          },
+          "firstAdaptation": {
+            "id": 953,
+            "slug": "twilight-1919",
+            "title": "Twilight",
+            "html_title": "<span class=\"film-title\">Twilight</span>",
+            "year": 1919,
+            "studio": "De Luxe Pictures",
+            "directors": "J. Searle Dawley"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1919
+          }
+        },
+        {
+          "work": {
             "id": 607,
             "slug": "the-call-of-life",
             "title": "The Call of Life",
@@ -20003,40 +20275,6 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1915
-          }
-        },
-        {
-          "work": {
-            "id": 858,
-            "slug": "the-primal-lure-a-romance-of-fort-lu-cerne",
-            "title": "The Primal Lure: a Romance of Fort Lu Cerne",
-            "formatted_title": "The Primal Lure: a Romance of Fort Lu Cerne",
-            "html_title": "<span class=\"work-title\">The Primal Lure: a Romance of Fort Lu Cerne</span>",
-            "work_type": "novel",
-            "publication_year": 1915
-          },
-          "author": {
-            "id": 422,
-            "slug": "vingie-e-roe",
-            "name": "Vingie E. Roe"
-          },
-          "firstAdaptation": {
-            "id": 956,
-            "slug": "the-primal-lure-1916",
-            "title": "The Primal Lure",
-            "html_title": "<span class=\"film-title\">The Primal Lure</span>",
-            "year": 1916,
-            "studio": "New York Motion Picture Corp.",
-            "directors": "William S. Hart"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1916
           }
         },
         {
@@ -23205,6 +23443,40 @@
         },
         {
           "work": {
+            "id": 859,
+            "slug": "the-splendid-road",
+            "title": "The Splendid Road",
+            "formatted_title": "The Splendid Road",
+            "html_title": "<span class=\"work-title\">The Splendid Road</span>",
+            "work_type": "novel",
+            "publication_year": 1924
+          },
+          "author": {
+            "id": 422,
+            "slug": "vingie-e-roe",
+            "name": "Vingie E. Roe"
+          },
+          "firstAdaptation": {
+            "id": 957,
+            "slug": "the-splendid-road-1925",
+            "title": "The Splendid Road",
+            "html_title": "<span class=\"film-title\">The Splendid Road</span>",
+            "year": 1925,
+            "studio": "Frank Lloyd Productions ",
+            "directors": null
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1925
+          }
+        },
+        {
+          "work": {
             "id": 110,
             "slug": "the-tenth-woman",
             "title": "The Tenth Woman",
@@ -23303,6 +23575,40 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1920
+          }
+        },
+        {
+          "work": {
+            "id": 861,
+            "slug": "val-of-paradise",
+            "title": "Val of Paradise",
+            "formatted_title": "Val of Paradise",
+            "html_title": "<span class=\"work-title\">Val of Paradise</span>",
+            "work_type": "novel",
+            "publication_year": 1921
+          },
+          "author": {
+            "id": 422,
+            "slug": "vingie-e-roe",
+            "name": "Vingie E. Roe"
+          },
+          "firstAdaptation": {
+            "id": 959,
+            "slug": "north-of-the-rio-grande-1922",
+            "title": "North of the Rio Grande",
+            "html_title": "<span class=\"film-title\">North of the Rio Grande</span>",
+            "year": 1922,
+            "studio": "Famous Players-Lasky",
+            "directors": "Rollin Sturgeon|Joseph Henabery"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1922
           }
         },
         {
@@ -28053,12 +28359,12 @@
         "count": 19
       },
       {
-        "studio": "Fox Film",
+        "studio": "Famous Players-Lasky",
         "count": 19
       },
       {
-        "studio": "Famous Players-Lasky",
-        "count": 18
+        "studio": "Fox Film",
+        "count": 19
       },
       {
         "studio": "First National",
@@ -28079,13 +28385,13 @@
     ]
   },
   "stats": {
-    "total": 274,
-    "sameYearCount": 88,
-    "oneYearCount": 186,
+    "total": 277,
+    "sameYearCount": 89,
+    "oneYearCount": 188,
     "peakDecade": "1920"
   },
   "metadata": {
-    "generated": "2025-08-18T03:16:14.080Z",
+    "generated": "2025-08-18T17:35:52.369Z",
     "version": "2.0"
   }
 }

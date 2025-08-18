@@ -4,8 +4,8 @@
   "title": "The Alchemy of Love",
   "formatted_title": "The Alchemy of Love",
   "html_title": "<span class=\"work-title\">The Alchemy of Love</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "work_type": "novella",
+  "publication_year": 1918,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -27,8 +27,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -45,12 +45,20 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 1919
+      "years_after_publication": 1
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Story-Teller",
+    "magazine_pub_date": "1918-10-01",
+    "magazine_issue_info": "No. 139",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1918S$mTOCT%27",
+    "serialized": false,
+    "serial_parts": null
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -60,5 +68,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-18T14:01:16.646011"
 }

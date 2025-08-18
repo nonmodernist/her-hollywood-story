@@ -18,7 +18,7 @@
   "cast_members": "Mary Pickford|Lloyd Hughes|Gloria Hope|David Torrence|Forrest Robinson|Jean Hersholt|Danny Hoy|Bob Russell|Gus Saville|Madame De Bodamere",
   "color_info": "black-and-white",
   "availability": "extant|public_domain",
-  "archive_location": "George Eastman House, Library of Congress, UCLA Film & Television Archive, GFF; Internet Archive (free)",
+  "archive_location": "George Eastman House, Library of Congress, UCLA Film & Television Archive, Gosfilmofond; Internet Archive (free)",
   "adaptation_notes": null,
   "afi_catalog_id": 12586,
   "source_work": {
@@ -83,6 +83,19 @@
     "is_latest": false
   },
   "media": [
+    {
+      "id": 6019,
+      "media_type": "still",
+      "title": "Mary Pickford as \"Tess\"",
+      "caption": "Mary Pickford as \"Tess\" in a promotional still for the 1922 film.",
+      "url": "https://ia902800.us.archive.org/1/items/Tess22Floor/Tess-22-Floor.jpg",
+      "thumbnail_url": null,
+      "source": "Internet Archive",
+      "source_url": "https://archive.org/details/Tess22Floor",
+      "license": "public_domain",
+      "attribution": "Mary Pickford Productions",
+      "is_featured": "False"
+    },
     {
       "id": 278,
       "media_type": "still",
@@ -189,6 +202,6 @@
     }
   ],
   "has_media": true,
-  "media_count": 8,
+  "media_count": 9,
   "last_updated": "2025-08-18T01:56:07.994291"
 }

@@ -5,7 +5,7 @@
   "formatted_title": "Tharon of Lost Valley",
   "html_title": "<span class=\"work-title\">Tharon of Lost Valley</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1919,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -27,8 +27,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": false,
+    "speed_demon_delay": 3,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -45,12 +45,20 @@
         "Western"
       ],
       "has_media": true,
-      "years_after_publication": 1922
+      "years_after_publication": 3
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Metropolitan",
+    "magazine_pub_date": "1919-03-01",
+    "magazine_issue_info": "v49 #4",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1919METMAR%27",
+    "serialized": true,
+    "serial_parts": null
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -60,5 +68,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-18T14:08:17.437189"
 }

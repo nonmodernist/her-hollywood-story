@@ -18,7 +18,7 @@
   "cast_members": "Mary Pickford|Charles \"Buddy\" Rogers|Sunshine Hart|Lucien Littlefield|Carmelita Geraghty|Hobart Bosworth|Evelyn Hall|Avonne Taylor|Mack Swain|Frank Finch Smiles",
   "color_info": "black-and-white",
   "availability": "extant|public_domain",
-  "archive_location": "Academy Film Archive, CRB, George Eastman House/Museum, Library of Congress; Internet Archive (free)",
+  "archive_location": "Academy Film Archive, CRB, George Eastman House, Library of Congress; Internet Archive (free)",
   "adaptation_notes": null,
   "afi_catalog_id": 10882,
   "source_work": {
@@ -50,32 +50,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 1864,
-      "media_type": "poster",
-      "title": "My Best Girl (1927) Poster HC Miner.jpg",
-      "caption": "Cropped from a scan at Heritage Auction. on Linen. One Sheet (27\" X 41\").",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/My_Best_Girl_%281927%29_Poster_HC_Miner.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/My_Best_Girl_%281927%29_Poster_HC_Miner.jpg/300px-My_Best_Girl_%281927%29_Poster_HC_Miner.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:My_Best_Girl_(1927)_Poster_HC_Miner.jpg",
-      "license": "public_domain",
-      "attribution": "H. C. Miner Litho Co.",
-      "is_featured": "True"
-    },
-    {
-      "id": 1865,
-      "media_type": "poster",
-      "title": "My Best Girl poster.jpg",
-      "caption": "Poster for the American romantic comedy film My Best Girl (1927).",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/My_Best_Girl_poster.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/My_Best_Girl_poster.jpg/300px-My_Best_Girl_poster.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:My_Best_Girl_poster.jpg",
-      "license": "public_domain",
-      "attribution": "H. C. Miner Litho Co",
-      "is_featured": "True"
-    },
-    {
       "id": 1867,
       "media_type": "still",
       "title": "My Best Girl (SAYRE 14096).jpg",
@@ -102,6 +76,32 @@
       "is_featured": "False"
     },
     {
+      "id": 1864,
+      "media_type": "poster",
+      "title": "My Best Girl (1927) Poster HC Miner.jpg",
+      "caption": "Cropped from a scan at Heritage Auction. on Linen. One Sheet (27\" X 41\").",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/My_Best_Girl_%281927%29_Poster_HC_Miner.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/My_Best_Girl_%281927%29_Poster_HC_Miner.jpg/300px-My_Best_Girl_%281927%29_Poster_HC_Miner.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:My_Best_Girl_(1927)_Poster_HC_Miner.jpg",
+      "license": "public_domain",
+      "attribution": "H. C. Miner Litho Co.",
+      "is_featured": "True"
+    },
+    {
+      "id": 1865,
+      "media_type": "poster",
+      "title": "My Best Girl poster.jpg",
+      "caption": "Poster for the American romantic comedy film My Best Girl (1927).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/My_Best_Girl_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/My_Best_Girl_poster.jpg/300px-My_Best_Girl_poster.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:My_Best_Girl_poster.jpg",
+      "license": "public_domain",
+      "attribution": "H. C. Miner Litho Co",
+      "is_featured": "True"
+    },
+    {
       "id": 1866,
       "media_type": "lobby_card",
       "title": "My Best Girl lobby card.jpg",
@@ -117,5 +117,5 @@
   ],
   "has_media": true,
   "media_count": 5,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

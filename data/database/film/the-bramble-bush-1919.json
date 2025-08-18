@@ -50,32 +50,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 85,
-      "media_type": "still",
-      "title": "The Bramble Bush (1919) - 2.jpg",
-      "caption": "Still from the American film The Bramble Bush (1919) with Corinne Griffith holding a kitten, on page 74 of the August 30, 1919 Exhibitors Herald.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/The_Bramble_Bush_%281919%29_-_2.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Bramble_Bush_%281919%29_-_2.jpg/300px-The_Bramble_Bush_%281919%29_-_2.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:The_Bramble_Bush_(1919)_-_2.jpg",
-      "license": "public_domain",
-      "attribution": "Vitagraph Company of America",
-      "is_featured": "False"
-    },
-    {
-      "id": 83,
-      "media_type": "advertisement",
-      "title": "The Bramble Bush (1919) - Ad.jpg",
-      "caption": "Ad for the American film The Bramble Bush (1919) with Corinne Griffith, page 1383 of the August 16, 1919 MotionPicture News.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/The_Bramble_Bush_%281919%29_-_Ad.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/The_Bramble_Bush_%281919%29_-_Ad.jpg/300px-The_Bramble_Bush_%281919%29_-_Ad.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:The_Bramble_Bush_(1919)_-_Ad.jpg",
-      "license": "public_domain",
-      "attribution": "Vitagraph Company of America",
-      "is_featured": "False"
-    },
-    {
       "id": 84,
       "media_type": "still",
       "title": "The Bramble Bush (1919) - 1.jpg",
@@ -84,6 +58,19 @@
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Bramble_Bush_%281919%29_-_1.jpg/300px-The_Bramble_Bush_%281919%29_-_1.jpg",
       "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:The_Bramble_Bush_(1919)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Vitagraph Company of America",
+      "is_featured": "False"
+    },
+    {
+      "id": 85,
+      "media_type": "still",
+      "title": "The Bramble Bush (1919) - 2.jpg",
+      "caption": "Still from the American film The Bramble Bush (1919) with Corinne Griffith holding a kitten, on page 74 of the August 30, 1919 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/The_Bramble_Bush_%281919%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Bramble_Bush_%281919%29_-_2.jpg/300px-The_Bramble_Bush_%281919%29_-_2.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Bramble_Bush_(1919)_-_2.jpg",
       "license": "public_domain",
       "attribution": "Vitagraph Company of America",
       "is_featured": "False"
@@ -100,9 +87,22 @@
       "license": "public_domain",
       "attribution": "Vitagraph Company of America",
       "is_featured": "False"
+    },
+    {
+      "id": 83,
+      "media_type": "advertisement",
+      "title": "The Bramble Bush (1919) - Ad.jpg",
+      "caption": "Ad for the American film The Bramble Bush (1919) with Corinne Griffith, page 1383 of the August 16, 1919 MotionPicture News.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/The_Bramble_Bush_%281919%29_-_Ad.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/The_Bramble_Bush_%281919%29_-_Ad.jpg/300px-The_Bramble_Bush_%281919%29_-_Ad.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Bramble_Bush_(1919)_-_Ad.jpg",
+      "license": "public_domain",
+      "attribution": "Vitagraph Company of America",
+      "is_featured": "False"
     }
   ],
   "has_media": true,
   "media_count": 4,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

@@ -23,7 +23,7 @@
     "adaptation_count": 2,
     "year_span": 22,
     "is_remake_champion": false,
-    "photoplay_edition_count": 0,
+    "photoplay_edition_count": 1,
     "average_gap_between_adaptations": 22
   },
   "patterns": {
@@ -69,7 +69,34 @@
       "gap_years": 22
     }
   ],
-  "photoplay_editions": [],
+  "photoplay_editions": [
+    {
+      "id": 270,
+      "source_work_id": 362,
+      "film_id": 427,
+      "publisher": "Frederick Wayne",
+      "edition_year": 1939,
+      "edition_description": null,
+      "binding_type": "paperback",
+      "dust_jacket": "False",
+      "cover_type": "photos on front cover",
+      "photo_content": null,
+      "price_low_cents": 2500,
+      "price_high_cents": 5000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-18T00:19:48.540807",
+      "updated_at": "2025-08-18T00:19:48.540807",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "UK",
+      "film_title": "The Little Princess",
+      "film_year": 1939,
+      "film_slug": "the-little-princess-1939",
+      "media": []
+    }
+  ],
   "magazine_publication": {
     "magazine_title": "St. Nicholas",
     "magazine_pub_date": "1887-12-01",

@@ -50,6 +50,58 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 1380,
+      "media_type": "still",
+      "title": "Juarez 1939 Title.jpg",
+      "caption": "Screenshot of the title of the film Juarez, cropped from its trailer.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Juarez_1939_Title.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Juarez_1939_Title.jpg/300px-Juarez_1939_Title.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Juarez_1939_Title.jpg",
+      "license": "public_domain",
+      "attribution": "This work is in the public domain in the United States because it was published in the United States between 1930 and 1977, inclusive, without a copyright notice. For further explanation, see Commo...",
+      "is_featured": "False"
+    },
+    {
+      "id": 4121,
+      "media_type": "still",
+      "title": "Juarez (1939) - Still",
+      "caption": "Scene from Juarez (1939)",
+      "url": "https://image.tmdb.org/t/p/original/wIkio1H3an8DidlNmosy1DZaXvN.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/wIkio1H3an8DidlNmosy1DZaXvN.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/78318",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4122,
+      "media_type": "still",
+      "title": "Juarez (1939) - Still",
+      "caption": "Scene from Juarez (1939)",
+      "url": "https://image.tmdb.org/t/p/original/v9zO6jLRq6j15BqQcQ25u5X8P3j.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/v9zO6jLRq6j15BqQcQ25u5X8P3j.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/78318",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4123,
+      "media_type": "still",
+      "title": "Juarez (1939) - Still",
+      "caption": "Scene from Juarez (1939)",
+      "url": "https://image.tmdb.org/t/p/original/t28mjOXw3jZ6zSrDWSGgKhOrXRd.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/t28mjOXw3jZ6zSrDWSGgKhOrXRd.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/78318",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
       "id": 4116,
       "media_type": "poster",
       "title": "Juarez (1939) - Poster",
@@ -113,61 +165,9 @@
       "license": "fair_use",
       "attribution": "Warner Bros",
       "is_featured": "False"
-    },
-    {
-      "id": 4121,
-      "media_type": "still",
-      "title": "Juarez (1939) - Still",
-      "caption": "Scene from Juarez (1939)",
-      "url": "https://image.tmdb.org/t/p/original/wIkio1H3an8DidlNmosy1DZaXvN.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/wIkio1H3an8DidlNmosy1DZaXvN.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/78318",
-      "license": "fair_use",
-      "attribution": "Warner Bros",
-      "is_featured": "False"
-    },
-    {
-      "id": 4122,
-      "media_type": "still",
-      "title": "Juarez (1939) - Still",
-      "caption": "Scene from Juarez (1939)",
-      "url": "https://image.tmdb.org/t/p/original/v9zO6jLRq6j15BqQcQ25u5X8P3j.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/v9zO6jLRq6j15BqQcQ25u5X8P3j.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/78318",
-      "license": "fair_use",
-      "attribution": "Warner Bros",
-      "is_featured": "False"
-    },
-    {
-      "id": 4123,
-      "media_type": "still",
-      "title": "Juarez (1939) - Still",
-      "caption": "Scene from Juarez (1939)",
-      "url": "https://image.tmdb.org/t/p/original/t28mjOXw3jZ6zSrDWSGgKhOrXRd.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/t28mjOXw3jZ6zSrDWSGgKhOrXRd.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/78318",
-      "license": "fair_use",
-      "attribution": "Warner Bros",
-      "is_featured": "False"
-    },
-    {
-      "id": 1380,
-      "media_type": "still",
-      "title": "Juarez 1939 Title.jpg",
-      "caption": "Screenshot of the title of the film Juarez, cropped from its trailer.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Juarez_1939_Title.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Juarez_1939_Title.jpg/300px-Juarez_1939_Title.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Juarez_1939_Title.jpg",
-      "license": "public_domain",
-      "attribution": "This work is in the public domain in the United States because it was published in the United States between 1930 and 1977, inclusive, without a copyright notice. For further explanation, see Commo...",
-      "is_featured": "False"
     }
   ],
   "has_media": true,
   "media_count": 9,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

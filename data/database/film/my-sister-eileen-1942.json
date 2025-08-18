@@ -1,0 +1,71 @@
+{
+  "id": 1151,
+  "slug": "my-sister-eileen-1942",
+  "title": "My Sister Eileen",
+  "formatted_title": "My Sister Eileen",
+  "html_title": "<span class=\"film-title\">My Sister Eileen</span>",
+  "release_year": 1942,
+  "runtime_minutes": null,
+  "country_of_production": "United States",
+  "genres": [
+    "Comedy"
+  ],
+  "studio": "Columbia",
+  "production_companies": "Columbia Pictures Corp.",
+  "distribution_companies": "Columbia Pictures Corp.",
+  "directors": "Alexander Hall",
+  "writers": "Joseph Fields|Jerome Chodorov",
+  "cast_members": "Rosalind Russell|Brian Aherne|Janet Blair|George Tobias|Allyn Joslyn|Grant Mitchell|Gordon Jones|Elizabeth Patterson|Richard Quine|June Havoc",
+  "color_info": null,
+  "availability": null,
+  "archive_location": null,
+  "adaptation_notes": null,
+  "afi_catalog_id": 27368,
+  "source_work": {
+    "id": 1032,
+    "slug": "my-sister-eileen",
+    "title": "My Sister Eileen",
+    "formatted_title": "My Sister Eileen",
+    "html_title": "<span class=\"work-title\">My Sister Eileen</span>",
+    "work_type": "memoir",
+    "publication_year": 1938,
+    "plot_summary": null,
+    "plot_summary_html": "",
+    "literary_significance": null,
+    "literary_significance_html": "",
+    "adaptation_count": 2,
+    "photoplay_edition_count": 1,
+    "year_to_adaptation": 4
+  },
+  "author": {
+    "id": 517,
+    "slug": "ruth-mckenney",
+    "name": "Ruth McKenney",
+    "birth_year": 1911,
+    "death_year": 1972,
+    "nationality": "American",
+    "film_count": 2
+  },
+  "other_adaptations": [
+    {
+      "id": 1152,
+      "slug": "my-sister-eileen-1955",
+      "title": "My Sister Eileen",
+      "html_title": "<span class=\"film-title\">My Sister Eileen</span>",
+      "year": 1955,
+      "directors": "Richard Quine",
+      "studio": "Columbia"
+    }
+  ],
+  "adaptation_context": {
+    "is_remake": true,
+    "total_adaptations": 2,
+    "adaptation_number": 1,
+    "is_first": true,
+    "is_latest": false
+  },
+  "media": [],
+  "has_media": false,
+  "media_count": 0,
+  "last_updated": "2025-08-18T01:57:17.78277"
+}

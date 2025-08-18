@@ -50,29 +50,16 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 2098,
-      "media_type": "poster",
-      "title": "The Wind (1928 film poster).jpg",
-      "caption": "Theatrical poster for the American release of the 1928 film The Wind.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/The_Wind_%281928_film_poster%29.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/The_Wind_%281928_film_poster%29.jpg/300px-The_Wind_%281928_film_poster%29.jpg",
+      "id": 2099,
+      "media_type": "still",
+      "title": "Lillian Gish in The Wind (1928).jpg",
+      "caption": "Lillian Gish in The Wind (1928).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Lillian_Gish_in_The_Wind_%281928%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Lillian_Gish_in_The_Wind_%281928%29.jpg/300px-Lillian_Gish_in_The_Wind_%281928%29.jpg",
       "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:The_Wind_(1928_film_poster).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lillian_Gish_in_The_Wind_(1928).jpg",
       "license": "public_domain",
-      "attribution": "Illustrated by Aris Bacci. Distributed by Metro-Goldwyn-Mayer (MGM).",
-      "is_featured": "True"
-    },
-    {
-      "id": 2101,
-      "media_type": "production_photo",
-      "title": "Lillian Gish in The Wind (1928) - 300-130.jpg",
-      "caption": "Promo photo (numbered 300-130) of Lillian Gish in the 1928 film The Wind.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Lillian_Gish_in_The_Wind_%281928%29_-_300-130.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Lillian_Gish_in_The_Wind_%281928%29_-_300-130.jpg/300px-Lillian_Gish_in_The_Wind_%281928%29_-_300-130.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Lillian_Gish_in_The_Wind_(1928)_-_300-130.jpg",
-      "license": "public_domain",
-      "attribution": "MGM",
+      "attribution": "Victor Sjöström",
       "is_featured": "False"
     },
     {
@@ -100,6 +87,19 @@
       "license": "public_domain",
       "attribution": "Metro-Goldwyn-Mayer",
       "is_featured": "False"
+    },
+    {
+      "id": 2098,
+      "media_type": "poster",
+      "title": "The Wind (1928 film poster).jpg",
+      "caption": "Theatrical poster for the American release of the 1928 film The Wind.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/The_Wind_%281928_film_poster%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/The_Wind_%281928_film_poster%29.jpg/300px-The_Wind_%281928_film_poster%29.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Wind_(1928_film_poster).jpg",
+      "license": "public_domain",
+      "attribution": "Illustrated by Aris Bacci. Distributed by Metro-Goldwyn-Mayer (MGM).",
+      "is_featured": "True"
     },
     {
       "id": 2100,
@@ -156,5 +156,5 @@
   ],
   "has_media": true,
   "media_count": 8,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

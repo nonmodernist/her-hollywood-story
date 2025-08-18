@@ -34,7 +34,7 @@
     "literary_significance": null,
     "literary_significance_html": "",
     "adaptation_count": 1,
-    "photoplay_edition_count": 0,
+    "photoplay_edition_count": 1,
     "year_to_adaptation": 1957
   },
   "author": {
@@ -49,6 +49,45 @@
   "other_adaptations": [],
   "adaptation_context": null,
   "media": [
+    {
+      "id": 4232,
+      "media_type": "still",
+      "title": "Lizzie (1957) - Still",
+      "caption": "Scene from Lizzie (1957)",
+      "url": "https://image.tmdb.org/t/p/original/136zjaWQlC0oF2hrx94ZJeDaZ1L.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/136zjaWQlC0oF2hrx94ZJeDaZ1L.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/116780",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 4233,
+      "media_type": "still",
+      "title": "Lizzie (1957) - Still",
+      "caption": "Scene from Lizzie (1957)",
+      "url": "https://image.tmdb.org/t/p/original/4IGaTZ9Q14hAt2cNmMcjWZ9zhBt.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/4IGaTZ9Q14hAt2cNmMcjWZ9zhBt.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/116780",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 4234,
+      "media_type": "still",
+      "title": "Lizzie (1957) - Still",
+      "caption": "Scene from Lizzie (1957)",
+      "url": "https://image.tmdb.org/t/p/original/cUUtuyFpU614yDaWa2z96xFC3Cx.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/cUUtuyFpU614yDaWa2z96xFC3Cx.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/116780",
+      "license": "fair_use",
+      "attribution": "MGM",
+      "is_featured": "False"
+    },
     {
       "id": 4228,
       "media_type": "poster",
@@ -102,58 +141,6 @@
       "is_featured": "False"
     },
     {
-      "id": 4232,
-      "media_type": "still",
-      "title": "Lizzie (1957) - Still",
-      "caption": "Scene from Lizzie (1957)",
-      "url": "https://image.tmdb.org/t/p/original/136zjaWQlC0oF2hrx94ZJeDaZ1L.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/136zjaWQlC0oF2hrx94ZJeDaZ1L.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/116780",
-      "license": "fair_use",
-      "attribution": "MGM",
-      "is_featured": "False"
-    },
-    {
-      "id": 4233,
-      "media_type": "still",
-      "title": "Lizzie (1957) - Still",
-      "caption": "Scene from Lizzie (1957)",
-      "url": "https://image.tmdb.org/t/p/original/4IGaTZ9Q14hAt2cNmMcjWZ9zhBt.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/4IGaTZ9Q14hAt2cNmMcjWZ9zhBt.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/116780",
-      "license": "fair_use",
-      "attribution": "MGM",
-      "is_featured": "False"
-    },
-    {
-      "id": 4234,
-      "media_type": "still",
-      "title": "Lizzie (1957) - Still",
-      "caption": "Scene from Lizzie (1957)",
-      "url": "https://image.tmdb.org/t/p/original/cUUtuyFpU614yDaWa2z96xFC3Cx.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/cUUtuyFpU614yDaWa2z96xFC3Cx.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/116780",
-      "license": "fair_use",
-      "attribution": "MGM",
-      "is_featured": "False"
-    },
-    {
-      "id": 1475,
-      "media_type": "still",
-      "title": "Eleanor Parker.JPG",
-      "caption": "Cropped screenshot of Eleanor Parker from the trailer for the film Lizzie (1957).",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Eleanor_Parker.JPG",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Eleanor_Parker.JPG/300px-Eleanor_Parker.JPG",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Eleanor_Parker.JPG",
-      "license": "public_domain",
-      "attribution": "Trailer screenshot",
-      "is_featured": "False"
-    },
-    {
       "id": 1476,
       "media_type": "production_photo",
       "title": "Hettie Gray Baker 1923 (11906375886).jpg",
@@ -168,6 +155,6 @@
     }
   ],
   "has_media": true,
-  "media_count": 9,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "media_count": 8,
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

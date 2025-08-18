@@ -66,19 +66,6 @@
   },
   "media": [
     {
-      "id": 2022,
-      "media_type": "poster",
-      "title": "Affinities (1922, lobby card).jpg",
-      "caption": "Distribution poster by Hodkinson Pictures.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Affinities_%281922%2C_lobby_card%29.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Affinities_%281922%2C_lobby_card%29.jpg/300px-Affinities_%281922%2C_lobby_card%29.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Affinities_(1922,_lobby_card).jpg",
-      "license": "public_domain",
-      "attribution": "Hodkinson Pictures",
-      "is_featured": "True"
-    },
-    {
       "id": 2023,
       "media_type": "still",
       "title": "John Bowers and Colleen Moore in Affinities.jpg",
@@ -90,9 +77,22 @@
       "license": "public_domain",
       "attribution": "Ward Lascelle Productions / Hodkinson Pictures",
       "is_featured": "False"
+    },
+    {
+      "id": 2022,
+      "media_type": "poster",
+      "title": "Affinities (1922, lobby card).jpg",
+      "caption": "Distribution poster by Hodkinson Pictures.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Affinities_%281922%2C_lobby_card%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Affinities_%281922%2C_lobby_card%29.jpg/300px-Affinities_%281922%2C_lobby_card%29.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Affinities_(1922,_lobby_card).jpg",
+      "license": "public_domain",
+      "attribution": "Hodkinson Pictures",
+      "is_featured": "True"
     }
   ],
   "has_media": true,
   "media_count": 2,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

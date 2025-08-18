@@ -1,0 +1,119 @@
+{
+  "id": 1032,
+  "slug": "my-sister-eileen",
+  "title": "My Sister Eileen",
+  "formatted_title": "My Sister Eileen",
+  "html_title": "<span class=\"work-title\">My Sister Eileen</span>",
+  "work_type": "memoir",
+  "publication_year": 1938,
+  "plot_summary": null,
+  "plot_summary_html": "",
+  "literary_significance": null,
+  "literary_significance_html": "",
+  "attribution_notes": null,
+  "author": {
+    "id": 517,
+    "slug": "ruth-mckenney",
+    "name": "Ruth McKenney",
+    "birth_year": 1911,
+    "death_year": 1972,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 13,
+    "is_remake_champion": false,
+    "photoplay_edition_count": 1,
+    "average_gap_between_adaptations": 13
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 4,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1151,
+      "slug": "my-sister-eileen-1942",
+      "title": "My Sister Eileen",
+      "html_title": "<span class=\"film-title\">My Sister Eileen</span>",
+      "year": 1942,
+      "studio": "Columbia",
+      "directors": "Alexander Hall",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "years_after_publication": 4
+    },
+    {
+      "id": 1152,
+      "slug": "my-sister-eileen-1955",
+      "title": "My Sister Eileen",
+      "html_title": "<span class=\"film-title\">My Sister Eileen</span>",
+      "year": 1955,
+      "studio": "Columbia",
+      "directors": "Richard Quine",
+      "genres": [
+        "Musical comedy"
+      ],
+      "has_media": false,
+      "years_after_publication": 17
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1942,
+      "to_year": 1955,
+      "gap_years": 13
+    }
+  ],
+  "photoplay_editions": [
+    {
+      "id": 294,
+      "source_work_id": 1032,
+      "film_id": 1151,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1942,
+      "edition_description": null,
+      "binding_type": "hardback",
+      "dust_jacket": "True",
+      "cover_type": "photo on front dustjacket",
+      "photo_content": null,
+      "price_low_cents": 1000,
+      "price_high_cents": 2000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-18T01:38:26.06257",
+      "updated_at": "2025-08-18T01:38:26.06257",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "film_title": "My Sister Eileen",
+      "film_year": 1942,
+      "film_slug": "my-sister-eileen-1942",
+      "media": []
+    }
+  ],
+  "magazine_publication": {
+    "magazine_title": "The New Yorker",
+    "magazine_pub_date": null,
+    "magazine_issue_info": null,
+    "digitized_url": null,
+    "FMI_link": null,
+    "serialized": false,
+    "serial_parts": null
+  },
+  "external_urls": [],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": null,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
+  "last_updated": "2025-08-18T01:33:50.226158"
+}

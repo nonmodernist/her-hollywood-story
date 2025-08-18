@@ -18,7 +18,7 @@
   "cast_members": "Mary Pickford|Harold Lockwood|Olive Carey|David M. Hartford|Louise Dunlap|W. R. Walters|Richard Garrick|Eugene Walter|Lorraine Thompson|Jack Henry",
   "color_info": "black-and-white",
   "availability": "extant",
-  "archive_location": "George Eastman House/Museum, Library of Congress, UCLA Film & Television Archive",
+  "archive_location": "George Eastman House, Library of Congress, UCLA Film & Television Archive",
   "adaptation_notes": null,
   "afi_catalog_id": 16453,
   "source_work": {
@@ -84,6 +84,19 @@
   },
   "media": [
     {
+      "id": 2437,
+      "media_type": "still",
+      "title": "Tess of the Storm Country (1914) - Still",
+      "caption": "Scene or production photo from Tess of the Storm Country (1914)",
+      "url": "https://image.tmdb.org/t/p/original/jJ23yXols3cgLKFI1n5otIbXs5H.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/jJ23yXols3cgLKFI1n5otIbXs5H.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/174023",
+      "license": "fair_use",
+      "attribution": "Famous Players",
+      "is_featured": "False"
+    },
+    {
       "id": 2438,
       "media_type": "still",
       "title": "Tess of the Storm Country (1914) - Still",
@@ -103,19 +116,6 @@
       "caption": "Scene from Tess of the Storm Country (1914)",
       "url": "https://image.tmdb.org/t/p/original/gAxEiQQWfmlf962yxK9i7W21Kem.jpg",
       "thumbnail_url": "https://image.tmdb.org/t/p/w780/gAxEiQQWfmlf962yxK9i7W21Kem.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/174023",
-      "license": "fair_use",
-      "attribution": "Famous Players",
-      "is_featured": "False"
-    },
-    {
-      "id": 2437,
-      "media_type": "still",
-      "title": "Tess of the Storm Country (1914) - Still",
-      "caption": "Scene or production photo from Tess of the Storm Country (1914)",
-      "url": "https://image.tmdb.org/t/p/original/jJ23yXols3cgLKFI1n5otIbXs5H.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/jJ23yXols3cgLKFI1n5otIbXs5H.jpg",
       "source": "TMDb",
       "source_url": "https://www.themoviedb.org/movie/174023",
       "license": "fair_use",
@@ -151,5 +151,5 @@
   ],
   "has_media": true,
   "media_count": 5,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

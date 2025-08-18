@@ -23,7 +23,7 @@ export function createFilmListItem(film) {
     const div = document.createElement('div');
     div.className = 'film-entry';
 
-    const mediaIndicator = film.hasMedia ? '<span class="media-indicator" title="Media gallery available">◉</span>' : '';
+    const mediaIndicator = film.hasMedia ? '' : ''; // removed media indicator
 
     // Debug log to check film structure
     if (!film.sourceWorkSlug && !film.workSlug) {
@@ -36,7 +36,7 @@ export function createFilmListItem(film) {
 
     div.innerHTML = `
         <div class="entry-title">
-            <a href="${getDatabaseURL('/film/' + film.slug)}">${film.html_title || film.title}</a>${mediaIndicator}
+            <a href="${getDatabaseURL('/film/' + film.slug)}">${film.html_title || film.title}</a> ${mediaIndicator}
         </div>
         <div class="entry-meta font-sans">
             ${film.year || 'Unknown year'}<span class="meta-separator">·</span>

@@ -18,7 +18,7 @@
   "cast_members": "Mary Pickford|Madeline Traverse|Charles Wellesley|Gladys Fairbanks|Frank McGlynn Sr.|Emile LaCroix|Marcia Harris|Charles Craig|Frank Andrews|Herbert Prior",
   "color_info": "black-and-white",
   "availability": "extant|public_domain",
-  "archive_location": "George Eastman House/Museum, Library of Congress, Museum of Modern Art; Internet Archive (free)",
+  "archive_location": "George Eastman House, Library of Congress, Museum of Modern Art; Internet Archive (free)",
   "adaptation_notes": null,
   "afi_catalog_id": 18012,
   "source_work": {
@@ -66,16 +66,16 @@
   },
   "media": [
     {
-      "id": 1330,
+      "id": 1329,
       "media_type": "still",
-      "title": "The Poor Little Rich Girl (1917) 3.jpg",
-      "caption": "Nora Cecil (left) &amp; Marcia Harris in The Poor Little Rich Girl - cropped screenshot",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/The_Poor_Little_Rich_Girl_%281917%29_3.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Poor_Little_Rich_Girl_%281917%29_3.jpg/300px-The_Poor_Little_Rich_Girl_%281917%29_3.jpg",
+      "title": "Scene from The Poor Little Rich Girl (1917).jpg",
+      "caption": "Scene from The Poor Little Rich Girl featuring Mary Pickford (second from right)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Scene_from_The_Poor_Little_Rich_Girl_%281917%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Scene_from_The_Poor_Little_Rich_Girl_%281917%29.jpg/300px-Scene_from_The_Poor_Little_Rich_Girl_%281917%29.jpg",
       "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:The_Poor_Little_Rich_Girl_(1917)_3.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Scene_from_The_Poor_Little_Rich_Girl_(1917).jpg",
       "license": "public_domain",
-      "attribution": "film screenshot (Artcraft Pictures Corporation)",
+      "attribution": "Artcraft",
       "is_featured": "False"
     },
     {
@@ -131,32 +131,6 @@
       "is_featured": "False"
     },
     {
-      "id": 1333,
-      "media_type": "still",
-      "title": "Frank McGlynn Sr. in The Poor Little Rich Girl.jpg",
-      "caption": "Frank McGlynn Sr. in The Poor Little Rich Girl - cropped screenshot",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Frank_McGlynn_Sr._in_The_Poor_Little_Rich_Girl.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Frank_McGlynn_Sr._in_The_Poor_Little_Rich_Girl.jpg/300px-Frank_McGlynn_Sr._in_The_Poor_Little_Rich_Girl.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Frank_McGlynn_Sr._in_The_Poor_Little_Rich_Girl.jpg",
-      "license": "public_domain",
-      "attribution": "film screenshot (Artcraft Pictures Corporation)",
-      "is_featured": "False"
-    },
-    {
-      "id": 1329,
-      "media_type": "still",
-      "title": "Scene from The Poor Little Rich Girl (1917).jpg",
-      "caption": "Scene from The Poor Little Rich Girl featuring Mary Pickford (second from right)",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Scene_from_The_Poor_Little_Rich_Girl_%281917%29.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Scene_from_The_Poor_Little_Rich_Girl_%281917%29.jpg/300px-Scene_from_The_Poor_Little_Rich_Girl_%281917%29.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Scene_from_The_Poor_Little_Rich_Girl_(1917).jpg",
-      "license": "public_domain",
-      "attribution": "Artcraft",
-      "is_featured": "False"
-    },
-    {
       "id": 4027,
       "media_type": "poster",
       "title": "The Poor Little Rich Girl (1917) - Poster",
@@ -171,6 +145,6 @@
     }
   ],
   "has_media": true,
-  "media_count": 8,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "media_count": 6,
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

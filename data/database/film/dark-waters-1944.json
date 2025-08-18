@@ -50,45 +50,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 5576,
-      "media_type": "poster",
-      "title": "Dark Waters (1944) - Poster",
-      "caption": "Theatrical poster for Dark Waters (1944)",
-      "url": "https://image.tmdb.org/t/p/original/cMLW8FvVIN6OoSfT9h9ZTGEaoD4.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/cMLW8FvVIN6OoSfT9h9ZTGEaoD4.jpg",
-      "source": "tmdb",
-      "source_url": "https://www.themoviedb.org/movie/36332",
-      "license": "fair_use",
-      "attribution": "Image courtesy of TMDB",
-      "is_featured": "True"
-    },
-    {
-      "id": 5577,
-      "media_type": "poster",
-      "title": "Dark Waters (1944) - Poster",
-      "caption": "Theatrical poster for Dark Waters (1944)",
-      "url": "https://image.tmdb.org/t/p/original/xZm932Mo56dT1GLJUWIGptYB700.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/xZm932Mo56dT1GLJUWIGptYB700.jpg",
-      "source": "tmdb",
-      "source_url": "https://www.themoviedb.org/movie/36332",
-      "license": "fair_use",
-      "attribution": "Image courtesy of TMDB",
-      "is_featured": "False"
-    },
-    {
-      "id": 5578,
-      "media_type": "poster",
-      "title": "Dark Waters (1944) - Poster",
-      "caption": "Theatrical poster for Dark Waters (1944)",
-      "url": "https://image.tmdb.org/t/p/original/1aqeRbLFztE6ONOqgcL8b6pyahr.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1aqeRbLFztE6ONOqgcL8b6pyahr.jpg",
-      "source": "tmdb",
-      "source_url": "https://www.themoviedb.org/movie/36332",
-      "license": "fair_use",
-      "attribution": "Image courtesy of TMDB",
-      "is_featured": "False"
-    },
-    {
       "id": 5579,
       "media_type": "still",
       "title": "Dark Waters (1944) - Still",
@@ -128,20 +89,46 @@
       "is_featured": "False"
     },
     {
-      "id": 1125,
-      "media_type": "still",
-      "title": "Rex Ingram in Dark Waters.jpg",
-      "caption": "Rex Ingram in Dark Waters (1944) - cropped screenshot.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Rex_Ingram_in_Dark_Waters.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rex_Ingram_in_Dark_Waters.jpg/300px-Rex_Ingram_in_Dark_Waters.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Rex_Ingram_in_Dark_Waters.jpg",
-      "license": "public_domain",
-      "attribution": "Benedict Bogeaus Productions",
+      "id": 5576,
+      "media_type": "poster",
+      "title": "Dark Waters (1944) - Poster",
+      "caption": "Theatrical poster for Dark Waters (1944)",
+      "url": "https://image.tmdb.org/t/p/original/cMLW8FvVIN6OoSfT9h9ZTGEaoD4.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/cMLW8FvVIN6OoSfT9h9ZTGEaoD4.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/36332",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 5577,
+      "media_type": "poster",
+      "title": "Dark Waters (1944) - Poster",
+      "caption": "Theatrical poster for Dark Waters (1944)",
+      "url": "https://image.tmdb.org/t/p/original/xZm932Mo56dT1GLJUWIGptYB700.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/xZm932Mo56dT1GLJUWIGptYB700.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/36332",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5578,
+      "media_type": "poster",
+      "title": "Dark Waters (1944) - Poster",
+      "caption": "Theatrical poster for Dark Waters (1944)",
+      "url": "https://image.tmdb.org/t/p/original/1aqeRbLFztE6ONOqgcL8b6pyahr.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1aqeRbLFztE6ONOqgcL8b6pyahr.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/36332",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
       "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 7,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "media_count": 6,
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

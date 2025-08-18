@@ -7,18 +7,20 @@
   "release_year": 1950,
   "runtime_minutes": null,
   "country_of_production": null,
-  "genres": [],
-  "studio": null,
-  "production_companies": null,
-  "distribution_companies": null,
-  "directors": null,
-  "writers": null,
-  "cast_members": null,
+  "genres": [
+    "Biography"
+  ],
+  "studio": "Sierra Pictures",
+  "production_companies": "Sierra Pictures, Inc.",
+  "distribution_companies": "RKO Radio Pictures, Inc.",
+  "directors": "Victor Fleming",
+  "writers": "Maxwell Anderson|Andrew Solt",
+  "cast_members": "Ingrid Bergman|Selena Royle|Robert Barrat|Jimmy Lydon|Rand Brooks|Roman Bohnen|Irene Rich|Nestor Paiva|Richard Derr|Ray Teal",
   "color_info": null,
   "availability": null,
   "archive_location": null,
   "adaptation_notes": null,
-  "afi_catalog_id": null,
+  "afi_catalog_id": 25598,
   "source_work": {
     "id": 1029,
     "slug": "joan-of-arc",
@@ -41,7 +43,7 @@
     "name": "Frances Winwar",
     "birth_year": 1900,
     "death_year": 1985,
-    "nationality": "United States",
+    "nationality": "American",
     "film_count": 1
   },
   "other_adaptations": [],
@@ -89,5 +91,5 @@
   ],
   "has_media": true,
   "media_count": 3,
-  "last_updated": "2025-08-16T18:03:59.480085"
+  "last_updated": "2025-08-18T01:57:57.044197"
 }

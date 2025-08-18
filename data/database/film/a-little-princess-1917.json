@@ -18,7 +18,7 @@
   "cast_members": "Mary Pickford|Norman Kerry|Katherine Griffith|Ann Schaefer|ZaSu Pitts|William E. \"Babe\" Lawrence|Theodore Roberts|Gertrude Short|Gustav von Seyffertitz|Loretta Blake",
   "color_info": "black-and-white",
   "availability": "extant|public_domain",
-  "archive_location": "EYE Filmmuseum, George Eastman House/Museum, Library of Congress, FTC, UCLA Film & Television Archive; Internet Archive (free)",
+  "archive_location": "EYE Filmmuseum, George Eastman House, Library of Congress, FTC, UCLA Film & Television Archive; Internet Archive (free)",
   "adaptation_notes": null,
   "afi_catalog_id": 16982,
   "source_work": {
@@ -34,7 +34,7 @@
     "literary_significance": null,
     "literary_significance_html": "",
     "adaptation_count": 2,
-    "photoplay_edition_count": 0,
+    "photoplay_edition_count": 1,
     "year_to_adaptation": 30
   },
   "author": {
@@ -65,45 +65,6 @@
     "is_latest": false
   },
   "media": [
-    {
-      "id": 3622,
-      "media_type": "still",
-      "title": "The Little Princess (1917) - Still",
-      "caption": "Scene from The Little Princess (1917)",
-      "url": "https://image.tmdb.org/t/p/original/crICSHTheUFFAo3OWdYqRzfvMNx.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/crICSHTheUFFAo3OWdYqRzfvMNx.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/133929",
-      "license": "fair_use",
-      "attribution": "Mary Pickford Productions",
-      "is_featured": "False"
-    },
-    {
-      "id": 3623,
-      "media_type": "still",
-      "title": "The Little Princess (1917) - Still",
-      "caption": "Scene from The Little Princess (1917)",
-      "url": "https://image.tmdb.org/t/p/original/uCC2OJjAr9UdtkXWy8lCkQt9deo.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/uCC2OJjAr9UdtkXWy8lCkQt9deo.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/133929",
-      "license": "fair_use",
-      "attribution": "Mary Pickford Productions",
-      "is_featured": "False"
-    },
-    {
-      "id": 3624,
-      "media_type": "still",
-      "title": "The Little Princess (1917) - Still",
-      "caption": "Scene from The Little Princess (1917)",
-      "url": "https://image.tmdb.org/t/p/original/a7BhVoHCZWHkpo7Yw5F8xKeKUwF.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/a7BhVoHCZWHkpo7Yw5F8xKeKUwF.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/133929",
-      "license": "fair_use",
-      "attribution": "Mary Pickford Productions",
-      "is_featured": "False"
-    },
     {
       "id": 1042,
       "media_type": "still",
@@ -144,6 +105,58 @@
       "is_featured": "False"
     },
     {
+      "id": 3622,
+      "media_type": "still",
+      "title": "The Little Princess (1917) - Still",
+      "caption": "Scene from The Little Princess (1917)",
+      "url": "https://image.tmdb.org/t/p/original/crICSHTheUFFAo3OWdYqRzfvMNx.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/crICSHTheUFFAo3OWdYqRzfvMNx.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/133929",
+      "license": "fair_use",
+      "attribution": "Mary Pickford Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 3623,
+      "media_type": "still",
+      "title": "The Little Princess (1917) - Still",
+      "caption": "Scene from The Little Princess (1917)",
+      "url": "https://image.tmdb.org/t/p/original/uCC2OJjAr9UdtkXWy8lCkQt9deo.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/uCC2OJjAr9UdtkXWy8lCkQt9deo.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/133929",
+      "license": "fair_use",
+      "attribution": "Mary Pickford Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 3624,
+      "media_type": "still",
+      "title": "The Little Princess (1917) - Still",
+      "caption": "Scene from The Little Princess (1917)",
+      "url": "https://image.tmdb.org/t/p/original/a7BhVoHCZWHkpo7Yw5F8xKeKUwF.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/a7BhVoHCZWHkpo7Yw5F8xKeKUwF.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/133929",
+      "license": "fair_use",
+      "attribution": "Mary Pickford Productions",
+      "is_featured": "False"
+    },
+    {
+      "id": 1043,
+      "media_type": "advertisement",
+      "title": "The Little Princess (1917) - 4.jpg",
+      "caption": "Advertisement for the American drama film The Little Princess (1917) with Mary Pickford as Sara Crewe, on page 46 of the November 23, 1917 Variety.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/The_Little_Princess_%281917%29_-_4.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_Little_Princess_%281917%29_-_4.jpg/300px-The_Little_Princess_%281917%29_-_4.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Little_Princess_(1917)_-_4.jpg",
+      "license": "public_domain",
+      "attribution": "Artcraft Pictures Corporation",
+      "is_featured": "False"
+    },
+    {
       "id": 3621,
       "media_type": "advertisement",
       "title": "The Little Princess (1917) - Poster",
@@ -168,22 +181,9 @@
       "license": "fair_use",
       "attribution": "Mary Pickford Productions",
       "is_featured": "True"
-    },
-    {
-      "id": 1043,
-      "media_type": "advertisement",
-      "title": "The Little Princess (1917) - 4.jpg",
-      "caption": "Advertisement for the American drama film The Little Princess (1917) with Mary Pickford as Sara Crewe, on page 46 of the November 23, 1917 Variety.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/The_Little_Princess_%281917%29_-_4.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_Little_Princess_%281917%29_-_4.jpg/300px-The_Little_Princess_%281917%29_-_4.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:The_Little_Princess_(1917)_-_4.jpg",
-      "license": "public_domain",
-      "attribution": "Artcraft Pictures Corporation",
-      "is_featured": "False"
     }
   ],
   "has_media": true,
   "media_count": 9,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

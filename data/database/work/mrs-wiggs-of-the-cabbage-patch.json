@@ -23,7 +23,7 @@
     "adaptation_count": 4,
     "year_span": 28,
     "is_remake_champion": true,
-    "photoplay_edition_count": 2,
+    "photoplay_edition_count": 4,
     "average_gap_between_adaptations": 9
   },
   "patterns": {
@@ -110,6 +110,32 @@
   ],
   "photoplay_editions": [
     {
+      "id": 285,
+      "source_work_id": 6,
+      "film_id": 54,
+      "publisher": "Hodder & Stoughton",
+      "edition_year": 1919,
+      "edition_description": "205,000th printing? likely 1920s edition",
+      "binding_type": "hardback",
+      "dust_jacket": "True",
+      "cover_type": "art on front dustjacket",
+      "photo_content": null,
+      "price_low_cents": 1500,
+      "price_high_cents": 3000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-18T01:15:26.771417",
+      "updated_at": "2025-08-18T01:15:26.771417",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "UK",
+      "film_title": "Mrs. Wiggs of the Cabbage Patch",
+      "film_year": 1919,
+      "film_slug": "mrs-wiggs-of-the-cabbage-patch-1919",
+      "media": []
+    },
+    {
       "id": 18,
       "source_work_id": 6,
       "film_id": 216,
@@ -180,6 +206,32 @@
           "created_at": "2025-08-16T23:28:04.45374"
         }
       ]
+    },
+    {
+      "id": 286,
+      "source_work_id": 6,
+      "film_id": 216,
+      "publisher": "Hodder & Stoughton",
+      "edition_year": 1935,
+      "edition_description": "Yellow Jacket series; 255,000th printing, dated September 1935",
+      "binding_type": "hardback",
+      "dust_jacket": "True",
+      "cover_type": "photo on front dustjacket",
+      "photo_content": null,
+      "price_low_cents": 1500,
+      "price_high_cents": 3000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-18T01:15:26.771417",
+      "updated_at": "2025-08-18T01:15:26.771417",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "UK",
+      "film_title": "Mrs. Wiggs of the Cabbage Patch",
+      "film_year": 1934,
+      "film_slug": "mrs-wiggs-of-the-cabbage-patch-1934",
+      "media": []
     },
     {
       "id": 19,

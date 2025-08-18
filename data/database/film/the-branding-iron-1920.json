@@ -34,7 +34,7 @@
     "literary_significance": null,
     "literary_significance_html": "",
     "adaptation_count": 1,
-    "photoplay_edition_count": 0,
+    "photoplay_edition_count": 2,
     "year_to_adaptation": 1
   },
   "author": {
@@ -49,71 +49,6 @@
   "other_adaptations": [],
   "adaptation_context": null,
   "media": [
-    {
-      "id": 2472,
-      "media_type": "poster",
-      "title": "The Branding Iron (1920) - Poster",
-      "caption": "Theatrical poster for The Branding Iron (1920)",
-      "url": "https://image.tmdb.org/t/p/original/dIzNe9VxXkIY0CkkVWrLuFhp86q.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dIzNe9VxXkIY0CkkVWrLuFhp86q.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/314162",
-      "license": "fair_use",
-      "attribution": "Goldwyn Pictures",
-      "is_featured": "False"
-    },
-    {
-      "id": 2473,
-      "media_type": "poster",
-      "title": "The Branding Iron (1920) - Poster",
-      "caption": "Theatrical poster for The Branding Iron (1920)",
-      "url": "https://image.tmdb.org/t/p/original/1QXEM0wUAFdSh2FDuO7ZLMEH6ow.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1QXEM0wUAFdSh2FDuO7ZLMEH6ow.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/314162",
-      "license": "fair_use",
-      "attribution": "Goldwyn Pictures",
-      "is_featured": "False"
-    },
-    {
-      "id": 194,
-      "media_type": "advertisement",
-      "title": "The Branding Iron by Reginald Barker.png",
-      "caption": "Ad for the film The Branding Iron (1920) directed by Reginald Barker",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/The_Branding_Iron_by_Reginald_Barker.png",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Branding_Iron_by_Reginald_Barker.png/300px-The_Branding_Iron_by_Reginald_Barker.png",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:The_Branding_Iron_by_Reginald_Barker.png",
-      "license": "public_domain",
-      "attribution": "Goldwyn Pictures",
-      "is_featured": "False"
-    },
-    {
-      "id": 185,
-      "media_type": "advertisement",
-      "title": "The Branding Iron (1920) - 8.jpg",
-      "caption": "Newspaper advertisement for the American drama film The Branding Iron (1920), on page 2 of the October 20, 1920 The Duluth Herald.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Branding_Iron_%281920%29_-_8.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/The_Branding_Iron_%281920%29_-_8.jpg/300px-The_Branding_Iron_%281920%29_-_8.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:The_Branding_Iron_(1920)_-_8.jpg",
-      "license": "public_domain",
-      "attribution": "Reginald Barker Productions / Goldwyn Pictures Corporation",
-      "is_featured": "False"
-    },
-    {
-      "id": 186,
-      "media_type": "advertisement",
-      "title": "The Branding Iron (1920) - 6.jpg",
-      "caption": "Advertisement for the American drama film The Branding Iron (1920) with Barbara Castleton and James Kirkwood, on page 4 of the September 18, 1920 Exhibitors Herald.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/The_Branding_Iron_%281920%29_-_6.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Branding_Iron_%281920%29_-_6.jpg/300px-The_Branding_Iron_%281920%29_-_6.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:The_Branding_Iron_(1920)_-_6.jpg",
-      "license": "public_domain",
-      "attribution": "Reginald Barker Productions / Goldwyn Pictures Corporation",
-      "is_featured": "False"
-    },
     {
       "id": 187,
       "media_type": "still",
@@ -204,9 +139,74 @@
       "license": "public_domain",
       "attribution": "Reginald Barker Productions / Goldwyn Pictures Corporation",
       "is_featured": "False"
+    },
+    {
+      "id": 185,
+      "media_type": "advertisement",
+      "title": "The Branding Iron (1920) - 8.jpg",
+      "caption": "Newspaper advertisement for the American drama film The Branding Iron (1920), on page 2 of the October 20, 1920 The Duluth Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Branding_Iron_%281920%29_-_8.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/The_Branding_Iron_%281920%29_-_8.jpg/300px-The_Branding_Iron_%281920%29_-_8.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Branding_Iron_(1920)_-_8.jpg",
+      "license": "public_domain",
+      "attribution": "Reginald Barker Productions / Goldwyn Pictures Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 186,
+      "media_type": "advertisement",
+      "title": "The Branding Iron (1920) - 6.jpg",
+      "caption": "Advertisement for the American drama film The Branding Iron (1920) with Barbara Castleton and James Kirkwood, on page 4 of the September 18, 1920 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/The_Branding_Iron_%281920%29_-_6.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Branding_Iron_%281920%29_-_6.jpg/300px-The_Branding_Iron_%281920%29_-_6.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Branding_Iron_(1920)_-_6.jpg",
+      "license": "public_domain",
+      "attribution": "Reginald Barker Productions / Goldwyn Pictures Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 194,
+      "media_type": "advertisement",
+      "title": "The Branding Iron by Reginald Barker.png",
+      "caption": "Ad for the film The Branding Iron (1920) directed by Reginald Barker",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/The_Branding_Iron_by_Reginald_Barker.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Branding_Iron_by_Reginald_Barker.png/300px-The_Branding_Iron_by_Reginald_Barker.png",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Branding_Iron_by_Reginald_Barker.png",
+      "license": "public_domain",
+      "attribution": "Goldwyn Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2472,
+      "media_type": "poster",
+      "title": "The Branding Iron (1920) - Poster",
+      "caption": "Theatrical poster for The Branding Iron (1920)",
+      "url": "https://image.tmdb.org/t/p/original/dIzNe9VxXkIY0CkkVWrLuFhp86q.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dIzNe9VxXkIY0CkkVWrLuFhp86q.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/314162",
+      "license": "fair_use",
+      "attribution": "Goldwyn Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2473,
+      "media_type": "poster",
+      "title": "The Branding Iron (1920) - Poster",
+      "caption": "Theatrical poster for The Branding Iron (1920)",
+      "url": "https://image.tmdb.org/t/p/original/1QXEM0wUAFdSh2FDuO7ZLMEH6ow.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1QXEM0wUAFdSh2FDuO7ZLMEH6ow.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/314162",
+      "license": "fair_use",
+      "attribution": "Goldwyn Pictures",
+      "is_featured": "False"
     }
   ],
   "has_media": true,
   "media_count": 12,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

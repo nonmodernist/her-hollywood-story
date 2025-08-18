@@ -50,6 +50,32 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 488,
+      "media_type": "still",
+      "title": "Footloose Widows (1926) - 1.jpg",
+      "caption": "Cut still from the American comedy film Footloose Widows (1926) with Jacqueline Logan, on page 142 of the May 15, 1926 Exhibitors Herald. The caption states that Logan injured her foot on the Warner Bros. lot during the film.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Footloose_Widows_%281926%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Footloose_Widows_%281926%29_-_1.jpg/300px-Footloose_Widows_%281926%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Footloose_Widows_(1926)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "Warner Bros.",
+      "is_featured": "False"
+    },
+    {
+      "id": 2605,
+      "media_type": "still",
+      "title": "Footloose Widows (1926) - Still",
+      "caption": "Scene from Footloose Widows (1926)",
+      "url": "https://image.tmdb.org/t/p/original/1HFiPMD6zZgKZshebo5obKj5Fj5.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/1HFiPMD6zZgKZshebo5obKj5Fj5.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/211826",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
       "id": 489,
       "media_type": "poster",
       "title": "Footloose Widows poster.jpg",
@@ -87,35 +113,9 @@
       "license": "fair_use",
       "attribution": "Warner Bros",
       "is_featured": "False"
-    },
-    {
-      "id": 2605,
-      "media_type": "still",
-      "title": "Footloose Widows (1926) - Still",
-      "caption": "Scene from Footloose Widows (1926)",
-      "url": "https://image.tmdb.org/t/p/original/1HFiPMD6zZgKZshebo5obKj5Fj5.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/1HFiPMD6zZgKZshebo5obKj5Fj5.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/211826",
-      "license": "fair_use",
-      "attribution": "Warner Bros",
-      "is_featured": "False"
-    },
-    {
-      "id": 488,
-      "media_type": "still",
-      "title": "Footloose Widows (1926) - 1.jpg",
-      "caption": "Cut still from the American comedy film Footloose Widows (1926) with Jacqueline Logan, on page 142 of the May 15, 1926 Exhibitors Herald. The caption states that Logan injured her foot on the Warner Bros. lot during the film.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Footloose_Widows_%281926%29_-_1.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Footloose_Widows_%281926%29_-_1.jpg/300px-Footloose_Widows_%281926%29_-_1.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Footloose_Widows_(1926)_-_1.jpg",
-      "license": "public_domain",
-      "attribution": "Warner Bros.",
-      "is_featured": "False"
     }
   ],
   "has_media": true,
   "media_count": 5,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

@@ -48,15 +48,6 @@
   },
   "other_adaptations": [
     {
-      "id": 646,
-      "slug": "lena-rivers-1914",
-      "title": "Lena Rivers",
-      "html_title": "<span class=\"film-title\">Lena Rivers</span>",
-      "year": 1914,
-      "directors": null,
-      "studio": "Whitman Features"
-    },
-    {
       "id": 647,
       "slug": "lena-rivers-1914",
       "title": "Lena Rivers",
@@ -64,6 +55,15 @@
       "year": 1914,
       "directors": null,
       "studio": "Cosmos"
+    },
+    {
+      "id": 646,
+      "slug": "lena-rivers-1914",
+      "title": "Lena Rivers",
+      "html_title": "<span class=\"film-title\">Lena Rivers</span>",
+      "year": 1914,
+      "directors": null,
+      "studio": "Whitman Features"
     },
     {
       "id": 648,
@@ -108,5 +108,5 @@
   ],
   "has_media": true,
   "media_count": 1,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

@@ -23,7 +23,7 @@
     "adaptation_count": 1,
     "year_span": 0,
     "is_remake_champion": false,
-    "photoplay_edition_count": 0,
+    "photoplay_edition_count": 1,
     "average_gap_between_adaptations": null
   },
   "patterns": {
@@ -49,7 +49,34 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_editions": [],
+  "photoplay_editions": [
+    {
+      "id": 274,
+      "source_work_id": 642,
+      "film_id": 728,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1937,
+      "edition_description": null,
+      "binding_type": "hardback",
+      "dust_jacket": "True",
+      "cover_type": "photo on front dustjacket",
+      "photo_content": null,
+      "price_low_cents": 1500,
+      "price_high_cents": 3000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-18T00:30:50.329657",
+      "updated_at": "2025-08-18T00:30:50.329657",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "film_title": "Make Way for Tomorrow",
+      "film_year": 1937,
+      "film_slug": "make-way-for-tomorrow-1937",
+      "media": []
+    }
+  ],
   "magazine_publication": null,
   "external_urls": [],
   "external_ids": {

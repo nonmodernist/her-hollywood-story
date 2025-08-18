@@ -50,19 +50,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 132,
-      "media_type": "advertisement",
-      "title": "Love's Harvest (1920) - Ad 1.jpg",
-      "caption": "Advertisement for the American drama film Love's Harvest (1920) with Shirley Mason, on pages 4110 and 4111 of the May 15, 1920 Motion Picture News.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Love%27s_Harvest_%281920%29_-_Ad_1.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Love%27s_Harvest_%281920%29_-_Ad_1.jpg/300px-Love%27s_Harvest_%281920%29_-_Ad_1.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Love's_Harvest_(1920)_-_Ad_1.jpg",
-      "license": "public_domain",
-      "attribution": "Fox Film Corporation",
-      "is_featured": "False"
-    },
-    {
       "id": 133,
       "media_type": "still",
       "title": "Love's Harvest (1920) - 2.jpg",
@@ -102,6 +89,19 @@
       "is_featured": "False"
     },
     {
+      "id": 132,
+      "media_type": "advertisement",
+      "title": "Love's Harvest (1920) - Ad 1.jpg",
+      "caption": "Advertisement for the American drama film Love's Harvest (1920) with Shirley Mason, on pages 4110 and 4111 of the May 15, 1920 Motion Picture News.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Love%27s_Harvest_%281920%29_-_Ad_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Love%27s_Harvest_%281920%29_-_Ad_1.jpg/300px-Love%27s_Harvest_%281920%29_-_Ad_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Love's_Harvest_(1920)_-_Ad_1.jpg",
+      "license": "public_domain",
+      "attribution": "Fox Film Corporation",
+      "is_featured": "False"
+    },
+    {
       "id": 136,
       "media_type": "advertisement",
       "title": "Love's Harvest (1920) - 1.jpg",
@@ -117,5 +117,5 @@
   ],
   "has_media": true,
   "media_count": 5,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

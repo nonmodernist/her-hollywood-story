@@ -50,45 +50,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 5095,
-      "media_type": "poster",
-      "title": "Winter Meeting (1948) - Poster",
-      "caption": "Theatrical poster for Winter Meeting (1948)",
-      "url": "https://image.tmdb.org/t/p/original/1oTZOVu00BgTg9Yf7LFoU1S1eME.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1oTZOVu00BgTg9Yf7LFoU1S1eME.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/43457",
-      "license": "fair_use",
-      "attribution": "Warner Bros",
-      "is_featured": "False"
-    },
-    {
-      "id": 5096,
-      "media_type": "poster",
-      "title": "Winter Meeting (1948) - Poster",
-      "caption": "Theatrical poster for Winter Meeting (1948)",
-      "url": "https://image.tmdb.org/t/p/original/dhDAGCoUzq7Y4g5f6ahzK0ENUVy.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dhDAGCoUzq7Y4g5f6ahzK0ENUVy.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/43457",
-      "license": "fair_use",
-      "attribution": "Warner Bros",
-      "is_featured": "False"
-    },
-    {
-      "id": 5097,
-      "media_type": "poster",
-      "title": "Winter Meeting (1948) - Poster",
-      "caption": "Theatrical poster for Winter Meeting (1948)",
-      "url": "https://image.tmdb.org/t/p/original/ll6bYkX4HvTXZAzQLHFuchd4Lxn.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ll6bYkX4HvTXZAzQLHFuchd4Lxn.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/43457",
-      "license": "fair_use",
-      "attribution": "Warner Bros",
-      "is_featured": "False"
-    },
-    {
       "id": 5098,
       "media_type": "still",
       "title": "Winter Meeting (1948) - Still",
@@ -128,20 +89,46 @@
       "is_featured": "False"
     },
     {
-      "id": 2209,
-      "media_type": "still",
-      "title": "Jim Davis Winter Meeting.jpg",
-      "caption": "Cropped screenshot of Jim Davis from the trailer for the film Winter Meeting (1948).",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Jim_Davis_Winter_Meeting.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Jim_Davis_Winter_Meeting.jpg/300px-Jim_Davis_Winter_Meeting.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Jim_Davis_Winter_Meeting.jpg",
-      "license": "public_domain",
-      "attribution": "Trailer screenshot / Warner Bros.",
+      "id": 5095,
+      "media_type": "poster",
+      "title": "Winter Meeting (1948) - Poster",
+      "caption": "Theatrical poster for Winter Meeting (1948)",
+      "url": "https://image.tmdb.org/t/p/original/1oTZOVu00BgTg9Yf7LFoU1S1eME.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/1oTZOVu00BgTg9Yf7LFoU1S1eME.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43457",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 5096,
+      "media_type": "poster",
+      "title": "Winter Meeting (1948) - Poster",
+      "caption": "Theatrical poster for Winter Meeting (1948)",
+      "url": "https://image.tmdb.org/t/p/original/dhDAGCoUzq7Y4g5f6ahzK0ENUVy.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dhDAGCoUzq7Y4g5f6ahzK0ENUVy.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43457",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 5097,
+      "media_type": "poster",
+      "title": "Winter Meeting (1948) - Poster",
+      "caption": "Theatrical poster for Winter Meeting (1948)",
+      "url": "https://image.tmdb.org/t/p/original/ll6bYkX4HvTXZAzQLHFuchd4Lxn.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ll6bYkX4HvTXZAzQLHFuchd4Lxn.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/43457",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
       "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 7,
-  "last_updated": "2025-08-17T21:47:40.729793"
+  "media_count": 6,
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

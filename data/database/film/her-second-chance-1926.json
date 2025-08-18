@@ -50,19 +50,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 2365,
-      "media_type": "advertisement",
-      "title": "Her Second Chance (1926) - 3.jpg",
-      "caption": "Advertisement for the American comedy film Her Second Chance (1926) with Huntley Gordon and Anna Q. Nilsson, on page 1358 of the March 27, 1926 Motion Picture News.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Her_Second_Chance_%281926%29_-_3.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Her_Second_Chance_%281926%29_-_3.jpg/300px-Her_Second_Chance_%281926%29_-_3.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Her_Second_Chance_(1926)_-_3.jpg",
-      "license": "public_domain",
-      "attribution": "First National Pictures",
-      "is_featured": "False"
-    },
-    {
       "id": 2366,
       "media_type": "still",
       "title": "Her Second Chance (1926) - 1.jpg",
@@ -73,19 +60,6 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Her_Second_Chance_(1926)_-_1.jpg",
       "license": "public_domain",
       "attribution": "First National Pictures / Vitagraph Company of America",
-      "is_featured": "False"
-    },
-    {
-      "id": 2367,
-      "media_type": "advertisement",
-      "title": "Her Second Chance (1926) - 2.jpg",
-      "caption": "Advertisement for the American comedy film Her Second Chance (1926) using the varient title The Second Chance, from the January 23, 1926 Motion Picture News.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Her_Second_Chance_%281926%29_-_2.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Her_Second_Chance_%281926%29_-_2.jpg/300px-Her_Second_Chance_%281926%29_-_2.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Her_Second_Chance_(1926)_-_2.jpg",
-      "license": "public_domain",
-      "attribution": "First National Pictures",
       "is_featured": "False"
     },
     {
@@ -112,6 +86,32 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Charlie_Murray_in_Her_Second_Chance_ad_in_1926_Film_Fun_(IA_filmfun446lesl)_(page_16_crop).jpg",
       "license": "public_domain",
       "attribution": "Internet Archive identifier: filmfun446lesl https://archive.org/download/filmfun446lesl/filmfun446lesl.pdf",
+      "is_featured": "False"
+    },
+    {
+      "id": 2365,
+      "media_type": "advertisement",
+      "title": "Her Second Chance (1926) - 3.jpg",
+      "caption": "Advertisement for the American comedy film Her Second Chance (1926) with Huntley Gordon and Anna Q. Nilsson, on page 1358 of the March 27, 1926 Motion Picture News.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Her_Second_Chance_%281926%29_-_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Her_Second_Chance_%281926%29_-_3.jpg/300px-Her_Second_Chance_%281926%29_-_3.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Her_Second_Chance_(1926)_-_3.jpg",
+      "license": "public_domain",
+      "attribution": "First National Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 2367,
+      "media_type": "advertisement",
+      "title": "Her Second Chance (1926) - 2.jpg",
+      "caption": "Advertisement for the American comedy film Her Second Chance (1926) using the varient title The Second Chance, from the January 23, 1926 Motion Picture News.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Her_Second_Chance_%281926%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Her_Second_Chance_%281926%29_-_2.jpg/300px-Her_Second_Chance_%281926%29_-_2.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Her_Second_Chance_(1926)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "First National Pictures",
       "is_featured": "False"
     },
     {
@@ -143,5 +143,5 @@
   ],
   "has_media": true,
   "media_count": 7,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

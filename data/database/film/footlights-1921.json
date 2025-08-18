@@ -66,16 +66,16 @@
   },
   "media": [
     {
-      "id": 5116,
-      "media_type": "poster",
-      "title": "Footlights (1921) - Poster",
-      "caption": "Theatrical poster for Footlights (1921)",
-      "url": "https://image.tmdb.org/t/p/original/gG8lMcU0Bj3WHiP64J2wC3nY2o7.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/gG8lMcU0Bj3WHiP64J2wC3nY2o7.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/602595",
-      "license": "fair_use",
-      "attribution": "Famous Players-Lasky",
+      "id": 2248,
+      "media_type": "still",
+      "title": "Footlights (1921) - Ferguson & Denny.jpg",
+      "caption": "Still from the American silent film Footlights (1921) with Elsie Ferguson and Reginald Denny, page 59 of the October 1921 Photoplay.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Footlights_%281921%29_-_Ferguson_%26_Denny.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Footlights_%281921%29_-_Ferguson_%26_Denny.jpg/300px-Footlights_%281921%29_-_Ferguson_%26_Denny.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Footlights_(1921)_-_Ferguson_&_Denny.jpg",
+      "license": "public_domain",
+      "attribution": "Paramount Pictures",
       "is_featured": "False"
     },
     {
@@ -92,19 +92,6 @@
       "is_featured": "False"
     },
     {
-      "id": 2248,
-      "media_type": "still",
-      "title": "Footlights (1921) - Ferguson & Denny.jpg",
-      "caption": "Still from the American silent film Footlights (1921) with Elsie Ferguson and Reginald Denny, page 59 of the October 1921 Photoplay.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Footlights_%281921%29_-_Ferguson_%26_Denny.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Footlights_%281921%29_-_Ferguson_%26_Denny.jpg/300px-Footlights_%281921%29_-_Ferguson_%26_Denny.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Footlights_(1921)_-_Ferguson_&_Denny.jpg",
-      "license": "public_domain",
-      "attribution": "Paramount Pictures",
-      "is_featured": "False"
-    },
-    {
       "id": 2249,
       "media_type": "advertisement",
       "title": "Footlights (1921) - 1.jpg",
@@ -115,6 +102,19 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Footlights_(1921)_-_1.jpg",
       "license": "public_domain",
       "attribution": "Paramount Pictures",
+      "is_featured": "False"
+    },
+    {
+      "id": 5116,
+      "media_type": "poster",
+      "title": "Footlights (1921) - Poster",
+      "caption": "Theatrical poster for Footlights (1921)",
+      "url": "https://image.tmdb.org/t/p/original/gG8lMcU0Bj3WHiP64J2wC3nY2o7.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/gG8lMcU0Bj3WHiP64J2wC3nY2o7.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/602595",
+      "license": "fair_use",
+      "attribution": "Famous Players-Lasky",
       "is_featured": "False"
     },
     {
@@ -146,5 +146,5 @@
   ],
   "has_media": true,
   "media_count": 6,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

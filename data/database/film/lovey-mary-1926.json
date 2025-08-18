@@ -50,19 +50,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 459,
-      "media_type": "poster",
-      "title": "Lovey Mary.jpg",
-      "caption": "Poster for the 1926 film Lovey Mary",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Lovey_Mary.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lovey_Mary.jpg/300px-Lovey_Mary.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Lovey_Mary.jpg",
-      "license": "public_domain",
-      "attribution": "MGM",
-      "is_featured": "True"
-    },
-    {
       "id": 458,
       "media_type": "still",
       "title": "Lovey Mary (1926) - 1.jpg",
@@ -74,9 +61,22 @@
       "license": "public_domain",
       "attribution": "Metro-Goldwyn-Mayer",
       "is_featured": "False"
+    },
+    {
+      "id": 459,
+      "media_type": "poster",
+      "title": "Lovey Mary.jpg",
+      "caption": "Poster for the 1926 film Lovey Mary",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Lovey_Mary.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lovey_Mary.jpg/300px-Lovey_Mary.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lovey_Mary.jpg",
+      "license": "public_domain",
+      "attribution": "MGM",
+      "is_featured": "True"
     }
   ],
   "has_media": true,
   "media_count": 2,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

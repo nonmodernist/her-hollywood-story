@@ -23,7 +23,7 @@
     "adaptation_count": 1,
     "year_span": 0,
     "is_remake_champion": false,
-    "photoplay_edition_count": 0,
+    "photoplay_edition_count": 1,
     "average_gap_between_adaptations": null
   },
   "patterns": {
@@ -50,7 +50,34 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_editions": [],
+  "photoplay_editions": [
+    {
+      "id": 277,
+      "source_work_id": 317,
+      "film_id": 380,
+      "publisher": "Benn",
+      "edition_year": 1949,
+      "edition_description": null,
+      "binding_type": "hardback",
+      "dust_jacket": "True",
+      "cover_type": "photo on band over dustjacket",
+      "photo_content": null,
+      "price_low_cents": 2000,
+      "price_high_cents": 4000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-18T00:38:29.766811",
+      "updated_at": "2025-08-18T00:38:29.766811",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "UK",
+      "film_title": "The Magnificent Yankee",
+      "film_year": 1952,
+      "film_slug": "the-magnificent-yankee-1952",
+      "media": []
+    }
+  ],
   "magazine_publication": null,
   "external_urls": [],
   "external_ids": {

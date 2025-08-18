@@ -50,19 +50,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 4302,
-      "media_type": "poster",
-      "title": "Nancy Drew, Detective (1938) - Poster",
-      "caption": "Theatrical poster for Nancy Drew, Detective (1938)",
-      "url": "https://image.tmdb.org/t/p/original/Ptkn6MnB2pyFJpJuHyxSBG3Qlh.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/Ptkn6MnB2pyFJpJuHyxSBG3Qlh.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/47883",
-      "license": "fair_use",
-      "attribution": "Warner Bros",
-      "is_featured": "True"
-    },
-    {
       "id": 4303,
       "media_type": "still",
       "title": "Nancy Drew, Detective (1938) - Still",
@@ -100,9 +87,22 @@
       "license": "fair_use",
       "attribution": "Warner Bros",
       "is_featured": "False"
+    },
+    {
+      "id": 4302,
+      "media_type": "poster",
+      "title": "Nancy Drew, Detective (1938) - Poster",
+      "caption": "Theatrical poster for Nancy Drew, Detective (1938)",
+      "url": "https://image.tmdb.org/t/p/original/Ptkn6MnB2pyFJpJuHyxSBG3Qlh.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/Ptkn6MnB2pyFJpJuHyxSBG3Qlh.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/47883",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "True"
     }
   ],
   "has_media": true,
   "media_count": 4,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

@@ -50,19 +50,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 1796,
-      "media_type": "advertisement",
-      "title": "The Girl of My Heart (1920) - 4.jpg",
-      "caption": "Newspaper advertisement for the American film The Girl of My Heart (1920) with Shirley Mason, on page 6 of the December 18, 1920 The Duluth Herald.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/The_Girl_of_My_Heart_%281920%29_-_4.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Girl_of_My_Heart_%281920%29_-_4.jpg/300px-The_Girl_of_My_Heart_%281920%29_-_4.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:The_Girl_of_My_Heart_(1920)_-_4.jpg",
-      "license": "public_domain",
-      "attribution": "Fox Film Corporation",
-      "is_featured": "False"
-    },
-    {
       "id": 1797,
       "media_type": "still",
       "title": "The Girl of My Heart (1920) - 2.jpg",
@@ -113,9 +100,22 @@
       "license": "public_domain",
       "attribution": "Fox Film Corporation",
       "is_featured": "False"
+    },
+    {
+      "id": 1796,
+      "media_type": "advertisement",
+      "title": "The Girl of My Heart (1920) - 4.jpg",
+      "caption": "Newspaper advertisement for the American film The Girl of My Heart (1920) with Shirley Mason, on page 6 of the December 18, 1920 The Duluth Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/The_Girl_of_My_Heart_%281920%29_-_4.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Girl_of_My_Heart_%281920%29_-_4.jpg/300px-The_Girl_of_My_Heart_%281920%29_-_4.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Girl_of_My_Heart_(1920)_-_4.jpg",
+      "license": "public_domain",
+      "attribution": "Fox Film Corporation",
+      "is_featured": "False"
     }
   ],
   "has_media": true,
   "media_count": 5,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

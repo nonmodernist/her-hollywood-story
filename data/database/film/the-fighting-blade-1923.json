@@ -44,11 +44,24 @@
     "birth_year": 1876,
     "death_year": 1970,
     "nationality": "American",
-    "film_count": 2
+    "film_count": 3
   },
   "other_adaptations": [],
   "adaptation_context": null,
   "media": [
+    {
+      "id": 1226,
+      "media_type": "still",
+      "title": "Richard Barthelmess as Karl Van Kerstenbroock.jpg",
+      "caption": "Richard Barthelmess as Karl Van Kerstenbroock in the American drama film The Fighting Blade (1923). Printed in Motion Picture Classic, October 1923 with the caption: \"Albin has gone back to the immortal manner of Rembrandt for the inspiration for this portrait of Richard Barthelmess in the title rôle of The Fighting Blade.\"",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Richard_Barthelmess_as_Karl_Van_Kerstenbroock.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Richard_Barthelmess_as_Karl_Van_Kerstenbroock.jpg/300px-Richard_Barthelmess_as_Karl_Van_Kerstenbroock.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Richard_Barthelmess_as_Karl_Van_Kerstenbroock.jpg",
+      "license": "public_domain",
+      "attribution": "Brewster Publications (Life time: 1977)",
+      "is_featured": "False"
+    },
     {
       "id": 1223,
       "media_type": "advertisement",
@@ -87,22 +100,9 @@
       "license": "public_domain",
       "attribution": "Inspiration Company / Associated First National Pictures",
       "is_featured": "False"
-    },
-    {
-      "id": 1226,
-      "media_type": "still",
-      "title": "Richard Barthelmess as Karl Van Kerstenbroock.jpg",
-      "caption": "Richard Barthelmess as Karl Van Kerstenbroock in the American drama film The Fighting Blade (1923). Printed in Motion Picture Classic, October 1923 with the caption: \"Albin has gone back to the immortal manner of Rembrandt for the inspiration for this portrait of Richard Barthelmess in the title rôle of The Fighting Blade.\"",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Richard_Barthelmess_as_Karl_Van_Kerstenbroock.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Richard_Barthelmess_as_Karl_Van_Kerstenbroock.jpg/300px-Richard_Barthelmess_as_Karl_Van_Kerstenbroock.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Richard_Barthelmess_as_Karl_Van_Kerstenbroock.jpg",
-      "license": "public_domain",
-      "attribution": "Brewster Publications (Life time: 1977)",
-      "is_featured": "False"
     }
   ],
   "has_media": true,
   "media_count": 4,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

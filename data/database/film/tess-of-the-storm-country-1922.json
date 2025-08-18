@@ -18,7 +18,7 @@
   "cast_members": "Mary Pickford|Lloyd Hughes|Gloria Hope|David Torrence|Forrest Robinson|Jean Hersholt|Danny Hoy|Bob Russell|Gus Saville|Madame De Bodamere",
   "color_info": "black-and-white",
   "availability": "extant|public_domain",
-  "archive_location": "George Eastman House/Museum, Library of Congress, UCLA Film & Television Archive, GFF; Internet Archive (free)",
+  "archive_location": "George Eastman House, Library of Congress, UCLA Film & Television Archive, GFF; Internet Archive (free)",
   "adaptation_notes": null,
   "afi_catalog_id": 12586,
   "source_work": {
@@ -84,17 +84,43 @@
   },
   "media": [
     {
-      "id": 280,
-      "media_type": "poster",
-      "title": "Tess of the Storm Country 1922.jpg",
-      "caption": "Movie poster",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Tess_of_the_Storm_Country_1922.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tess_of_the_Storm_Country_1922.jpg/300px-Tess_of_the_Storm_Country_1922.jpg",
+      "id": 278,
+      "media_type": "still",
+      "title": "Tess of the Storm Country (1922) - Pickford.jpg",
+      "caption": "Still from the American film Tess of the Storm Country (1922) with Mary Pickford in her role as Tess, on page 34 of the November 1922 Photoplay.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Tess_of_the_Storm_Country_%281922%29_-_Pickford.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Tess_of_the_Storm_Country_%281922%29_-_Pickford.jpg/300px-Tess_of_the_Storm_Country_%281922%29_-_Pickford.jpg",
       "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Tess_of_the_Storm_Country_1922.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tess_of_the_Storm_Country_(1922)_-_Pickford.jpg",
       "license": "public_domain",
-      "attribution": "United Artists",
-      "is_featured": "True"
+      "attribution": "James Abbe",
+      "is_featured": "False"
+    },
+    {
+      "id": 279,
+      "media_type": "still",
+      "title": "Tess of the Storm Country (1922) - 1.jpg",
+      "caption": "Still from the American film Tess of the Storm Country (1922) with Mary Pickford, on page 60 of the November 1922 Shadowland.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Tess_of_the_Storm_Country_%281922%29_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tess_of_the_Storm_Country_%281922%29_-_1.jpg/300px-Tess_of_the_Storm_Country_%281922%29_-_1.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tess_of_the_Storm_Country_(1922)_-_1.jpg",
+      "license": "public_domain",
+      "attribution": "United Artists / Arthur F. Kales (photographer)",
+      "is_featured": "False"
+    },
+    {
+      "id": 283,
+      "media_type": "still",
+      "title": "Tess of the Storm Country (SAYRE 14688).jpg",
+      "caption": "Still from the American film Tess of the Storm Country (1922) Subjects: motion pictures, actresses",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Tess_of_the_Storm_Country_%28SAYRE_14688%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tess_of_the_Storm_Country_%28SAYRE_14688%29.jpg/300px-Tess_of_the_Storm_Country_%28SAYRE_14688%29.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tess_of_the_Storm_Country_(SAYRE_14688).jpg",
+      "license": "public_domain",
+      "attribution": "Mary Pickford Productions",
+      "is_featured": "False"
     },
     {
       "id": 2513,
@@ -149,46 +175,20 @@
       "is_featured": "False"
     },
     {
-      "id": 278,
-      "media_type": "still",
-      "title": "Tess of the Storm Country (1922) - Pickford.jpg",
-      "caption": "Still from the American film Tess of the Storm Country (1922) with Mary Pickford in her role as Tess, on page 34 of the November 1922 Photoplay.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Tess_of_the_Storm_Country_%281922%29_-_Pickford.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Tess_of_the_Storm_Country_%281922%29_-_Pickford.jpg/300px-Tess_of_the_Storm_Country_%281922%29_-_Pickford.jpg",
+      "id": 280,
+      "media_type": "poster",
+      "title": "Tess of the Storm Country 1922.jpg",
+      "caption": "Movie poster",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Tess_of_the_Storm_Country_1922.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tess_of_the_Storm_Country_1922.jpg/300px-Tess_of_the_Storm_Country_1922.jpg",
       "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Tess_of_the_Storm_Country_(1922)_-_Pickford.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tess_of_the_Storm_Country_1922.jpg",
       "license": "public_domain",
-      "attribution": "James Abbe",
-      "is_featured": "False"
-    },
-    {
-      "id": 279,
-      "media_type": "still",
-      "title": "Tess of the Storm Country (1922) - 1.jpg",
-      "caption": "Still from the American film Tess of the Storm Country (1922) with Mary Pickford, on page 60 of the November 1922 Shadowland.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Tess_of_the_Storm_Country_%281922%29_-_1.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tess_of_the_Storm_Country_%281922%29_-_1.jpg/300px-Tess_of_the_Storm_Country_%281922%29_-_1.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Tess_of_the_Storm_Country_(1922)_-_1.jpg",
-      "license": "public_domain",
-      "attribution": "United Artists / Arthur F. Kales (photographer)",
-      "is_featured": "False"
-    },
-    {
-      "id": 283,
-      "media_type": "still",
-      "title": "Tess of the Storm Country (SAYRE 14688).jpg",
-      "caption": "Still from the American film Tess of the Storm Country (1922) Subjects: motion pictures, actresses",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Tess_of_the_Storm_Country_%28SAYRE_14688%29.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tess_of_the_Storm_Country_%28SAYRE_14688%29.jpg/300px-Tess_of_the_Storm_Country_%28SAYRE_14688%29.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Tess_of_the_Storm_Country_(SAYRE_14688).jpg",
-      "license": "public_domain",
-      "attribution": "Mary Pickford Productions",
-      "is_featured": "False"
+      "attribution": "United Artists",
+      "is_featured": "True"
     }
   ],
   "has_media": true,
   "media_count": 8,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

@@ -34,7 +34,7 @@
     "literary_significance": null,
     "literary_significance_html": "",
     "adaptation_count": 4,
-    "photoplay_edition_count": 2,
+    "photoplay_edition_count": 4,
     "year_to_adaptation": 33
   },
   "author": {
@@ -84,32 +84,6 @@
   },
   "media": [
     {
-      "id": 2837,
-      "media_type": "poster",
-      "title": "Mrs. Wiggs of the Cabbage Patch (1934) - Poster",
-      "caption": "Theatrical poster for Mrs. Wiggs of the Cabbage Patch (1934)",
-      "url": "https://image.tmdb.org/t/p/original/sNworf7TDQlMPC5pj1RXsB8SXxd.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/sNworf7TDQlMPC5pj1RXsB8SXxd.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/55777",
-      "license": "fair_use",
-      "attribution": "Paramount",
-      "is_featured": "False"
-    },
-    {
-      "id": 2838,
-      "media_type": "poster",
-      "title": "Mrs. Wiggs of the Cabbage Patch (1934) - Poster",
-      "caption": "Theatrical poster for Mrs. Wiggs of the Cabbage Patch (1934)",
-      "url": "https://image.tmdb.org/t/p/original/xseKPFw5CdMp7kVbJaPNQf4LuMm.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/xseKPFw5CdMp7kVbJaPNQf4LuMm.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/55777",
-      "license": "fair_use",
-      "attribution": "Paramount",
-      "is_featured": "False"
-    },
-    {
       "id": 2839,
       "media_type": "still",
       "title": "Mrs. Wiggs of the Cabbage Patch (1934) - Still",
@@ -134,9 +108,35 @@
       "license": "fair_use",
       "attribution": "Paramount",
       "is_featured": "False"
+    },
+    {
+      "id": 2837,
+      "media_type": "poster",
+      "title": "Mrs. Wiggs of the Cabbage Patch (1934) - Poster",
+      "caption": "Theatrical poster for Mrs. Wiggs of the Cabbage Patch (1934)",
+      "url": "https://image.tmdb.org/t/p/original/sNworf7TDQlMPC5pj1RXsB8SXxd.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/sNworf7TDQlMPC5pj1RXsB8SXxd.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/55777",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
+    },
+    {
+      "id": 2838,
+      "media_type": "poster",
+      "title": "Mrs. Wiggs of the Cabbage Patch (1934) - Poster",
+      "caption": "Theatrical poster for Mrs. Wiggs of the Cabbage Patch (1934)",
+      "url": "https://image.tmdb.org/t/p/original/xseKPFw5CdMp7kVbJaPNQf4LuMm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/xseKPFw5CdMp7kVbJaPNQf4LuMm.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/55777",
+      "license": "fair_use",
+      "attribution": "Paramount",
+      "is_featured": "False"
     }
   ],
   "has_media": true,
   "media_count": 4,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

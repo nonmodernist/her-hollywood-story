@@ -50,32 +50,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 4315,
-      "media_type": "poster",
-      "title": "Mary Stevens, M.D. (1933) - Poster",
-      "caption": "Theatrical poster for Mary Stevens, M.D. (1933)",
-      "url": "https://image.tmdb.org/t/p/original/ysEqJqMJVPmTi6v0hqCqanKm2c2.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ysEqJqMJVPmTi6v0hqCqanKm2c2.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/176627",
-      "license": "fair_use",
-      "attribution": "Warner Bros",
-      "is_featured": "True"
-    },
-    {
-      "id": 4316,
-      "media_type": "poster",
-      "title": "Mary Stevens, M.D. (1933) - Poster",
-      "caption": "Theatrical poster for Mary Stevens, M.D. (1933)",
-      "url": "https://image.tmdb.org/t/p/original/m9ssKS6co5zPMfieIlxFprpOAsF.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/m9ssKS6co5zPMfieIlxFprpOAsF.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/176627",
-      "license": "fair_use",
-      "attribution": "Warner Bros",
-      "is_featured": "False"
-    },
-    {
       "id": 4317,
       "media_type": "still",
       "title": "Mary Stevens, M.D. (1933) - Still",
@@ -102,20 +76,33 @@
       "is_featured": "False"
     },
     {
-      "id": 1545,
-      "media_type": "still",
-      "title": "Glenda Farrell in Mary Stevens, M.D. trailer.JPG",
-      "caption": "Cropped screenshot of Glenda Farrell from the film Mary Stevens, M.D.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Glenda_Farrell_in_Mary_Stevens%2C_M.D._trailer.JPG",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Glenda_Farrell_in_Mary_Stevens%2C_M.D._trailer.JPG/300px-Glenda_Farrell_in_Mary_Stevens%2C_M.D._trailer.JPG",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Glenda_Farrell_in_Mary_Stevens,_M.D._trailer.JPG",
-      "license": "public_domain",
-      "attribution": "Trailer screenshot",
+      "id": 4315,
+      "media_type": "poster",
+      "title": "Mary Stevens, M.D. (1933) - Poster",
+      "caption": "Theatrical poster for Mary Stevens, M.D. (1933)",
+      "url": "https://image.tmdb.org/t/p/original/ysEqJqMJVPmTi6v0hqCqanKm2c2.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/ysEqJqMJVPmTi6v0hqCqanKm2c2.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/176627",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "True"
+    },
+    {
+      "id": 4316,
+      "media_type": "poster",
+      "title": "Mary Stevens, M.D. (1933) - Poster",
+      "caption": "Theatrical poster for Mary Stevens, M.D. (1933)",
+      "url": "https://image.tmdb.org/t/p/original/m9ssKS6co5zPMfieIlxFprpOAsF.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/m9ssKS6co5zPMfieIlxFprpOAsF.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/176627",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
       "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 5,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "media_count": 4,
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

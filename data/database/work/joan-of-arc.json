@@ -39,9 +39,11 @@
       "title": "Joan of Arc",
       "html_title": "<span class=\"film-title\">Joan of Arc</span>",
       "year": 1950,
-      "studio": null,
-      "directors": null,
-      "genres": [],
+      "studio": "Sierra Pictures",
+      "directors": "Victor Fleming",
+      "genres": [
+        "Biography"
+      ],
       "has_media": true,
       "years_after_publication": 2
     }

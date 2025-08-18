@@ -23,7 +23,7 @@
     "adaptation_count": 1,
     "year_span": 0,
     "is_remake_champion": false,
-    "photoplay_edition_count": 0,
+    "photoplay_edition_count": 1,
     "average_gap_between_adaptations": null
   },
   "patterns": {
@@ -49,7 +49,34 @@
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_editions": [],
+  "photoplay_editions": [
+    {
+      "id": 288,
+      "source_work_id": 752,
+      "film_id": 843,
+      "publisher": "Grosset & Dunlap",
+      "edition_year": 1927,
+      "edition_description": null,
+      "binding_type": "hardback",
+      "dust_jacket": "True",
+      "cover_type": "art on front dustjacket",
+      "photo_content": "4 stills",
+      "price_low_cents": 800,
+      "price_high_cents": 3000,
+      "source_url": null,
+      "source_notes": "Davis 2002",
+      "verified": "False",
+      "created_at": "2025-08-18T01:21:20.460336",
+      "updated_at": "2025-08-18T01:21:20.460336",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "film_title": "Mother",
+      "film_year": 1927,
+      "film_slug": "mother-1927",
+      "media": []
+    }
+  ],
   "magazine_publication": null,
   "external_urls": [],
   "external_ids": {

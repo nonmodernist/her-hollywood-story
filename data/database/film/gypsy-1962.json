@@ -50,6 +50,71 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 1607,
+      "media_type": "still",
+      "title": "Rosalind Russell in Gypsy trailer.jpg",
+      "caption": "Screenshot of Rosalind Russell from the trailer for the film Gypsy.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Rosalind_Russell_in_Gypsy_trailer.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Rosalind_Russell_in_Gypsy_trailer.jpg/300px-Rosalind_Russell_in_Gypsy_trailer.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rosalind_Russell_in_Gypsy_trailer.jpg",
+      "license": "public_domain",
+      "attribution": "Trailer screenshot",
+      "is_featured": "False"
+    },
+    {
+      "id": 4416,
+      "media_type": "still",
+      "title": "Gypsy (1962) - Still",
+      "caption": "Scene from Gypsy (1962)",
+      "url": "https://image.tmdb.org/t/p/original/frVo9Q4TCYrH2Hm79SHa27SNYao.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/frVo9Q4TCYrH2Hm79SHa27SNYao.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/39391",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4417,
+      "media_type": "still",
+      "title": "Gypsy (1962) - Still",
+      "caption": "Scene from Gypsy (1962)",
+      "url": "https://image.tmdb.org/t/p/original/eYuqwiByekM5LNMoV4w5s0uIkSm.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/eYuqwiByekM5LNMoV4w5s0uIkSm.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/39391",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 4418,
+      "media_type": "still",
+      "title": "Gypsy (1962) - Still",
+      "caption": "Scene from Gypsy (1962)",
+      "url": "https://image.tmdb.org/t/p/original/yth2BP8uO5XIj432RtB6GATz4E5.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/yth2BP8uO5XIj432RtB6GATz4E5.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/39391",
+      "license": "fair_use",
+      "attribution": "Warner Bros",
+      "is_featured": "False"
+    },
+    {
+      "id": 1608,
+      "media_type": "advertisement",
+      "title": "1962 - Colonial Theater Ad - 28 Dec MC - Allentown PA.jpg",
+      "caption": "Colonial Theater advertisement for the American musical film Gypsy (1962) - 28 Dec. 1962 Morning Call, Allentown PA",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/1962_-_Colonial_Theater_Ad_-_28_Dec_MC_-_Allentown_PA.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1962_-_Colonial_Theater_Ad_-_28_Dec_MC_-_Allentown_PA.jpg/300px-1962_-_Colonial_Theater_Ad_-_28_Dec_MC_-_Allentown_PA.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1962_-_Colonial_Theater_Ad_-_28_Dec_MC_-_Allentown_PA.jpg",
+      "license": "public_domain",
+      "attribution": "Company shown on advertisement",
+      "is_featured": "False"
+    },
+    {
       "id": 4411,
       "media_type": "poster",
       "title": "Gypsy (1962) - Poster",
@@ -115,58 +180,6 @@
       "is_featured": "False"
     },
     {
-      "id": 4416,
-      "media_type": "still",
-      "title": "Gypsy (1962) - Still",
-      "caption": "Scene from Gypsy (1962)",
-      "url": "https://image.tmdb.org/t/p/original/frVo9Q4TCYrH2Hm79SHa27SNYao.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/frVo9Q4TCYrH2Hm79SHa27SNYao.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/39391",
-      "license": "fair_use",
-      "attribution": "Warner Bros",
-      "is_featured": "False"
-    },
-    {
-      "id": 4417,
-      "media_type": "still",
-      "title": "Gypsy (1962) - Still",
-      "caption": "Scene from Gypsy (1962)",
-      "url": "https://image.tmdb.org/t/p/original/eYuqwiByekM5LNMoV4w5s0uIkSm.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/eYuqwiByekM5LNMoV4w5s0uIkSm.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/39391",
-      "license": "fair_use",
-      "attribution": "Warner Bros",
-      "is_featured": "False"
-    },
-    {
-      "id": 4418,
-      "media_type": "still",
-      "title": "Gypsy (1962) - Still",
-      "caption": "Scene from Gypsy (1962)",
-      "url": "https://image.tmdb.org/t/p/original/yth2BP8uO5XIj432RtB6GATz4E5.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/yth2BP8uO5XIj432RtB6GATz4E5.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/39391",
-      "license": "fair_use",
-      "attribution": "Warner Bros",
-      "is_featured": "False"
-    },
-    {
-      "id": 1606,
-      "media_type": "still",
-      "title": "Natalie Wood in Gypsy trailer 1.jpg",
-      "caption": "Cropped screenshot of Natalie Wood from the trailer for the film Gypsy.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Natalie_Wood_in_Gypsy_trailer_1.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Natalie_Wood_in_Gypsy_trailer_1.jpg/300px-Natalie_Wood_in_Gypsy_trailer_1.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Natalie_Wood_in_Gypsy_trailer_1.jpg",
-      "license": "public_domain",
-      "attribution": "Trailer screenshot",
-      "is_featured": "False"
-    },
-    {
       "id": 1604,
       "media_type": "production_photo",
       "title": "Natalie Wood in Gypsy, 1962.png",
@@ -191,35 +204,9 @@
       "license": "public_domain",
       "attribution": "Warner Bros.",
       "is_featured": "False"
-    },
-    {
-      "id": 1607,
-      "media_type": "still",
-      "title": "Rosalind Russell in Gypsy trailer.jpg",
-      "caption": "Screenshot of Rosalind Russell from the trailer for the film Gypsy.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Rosalind_Russell_in_Gypsy_trailer.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Rosalind_Russell_in_Gypsy_trailer.jpg/300px-Rosalind_Russell_in_Gypsy_trailer.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Rosalind_Russell_in_Gypsy_trailer.jpg",
-      "license": "public_domain",
-      "attribution": "Trailer screenshot",
-      "is_featured": "False"
-    },
-    {
-      "id": 1608,
-      "media_type": "advertisement",
-      "title": "1962 - Colonial Theater Ad - 28 Dec MC - Allentown PA.jpg",
-      "caption": "Colonial Theater advertisement for the American musical film Gypsy (1962) - 28 Dec. 1962 Morning Call, Allentown PA",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/1962_-_Colonial_Theater_Ad_-_28_Dec_MC_-_Allentown_PA.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1962_-_Colonial_Theater_Ad_-_28_Dec_MC_-_Allentown_PA.jpg/300px-1962_-_Colonial_Theater_Ad_-_28_Dec_MC_-_Allentown_PA.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:1962_-_Colonial_Theater_Ad_-_28_Dec_MC_-_Allentown_PA.jpg",
-      "license": "public_domain",
-      "attribution": "Company shown on advertisement",
-      "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 13,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "media_count": 12,
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

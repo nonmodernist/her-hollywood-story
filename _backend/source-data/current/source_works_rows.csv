@@ -202,7 +202,6 @@ id,title,author_id,publication_year,plot_summary,literary_significance,created_a
 777,Flight into Freedom,390,,,,2025-07-09T23:42:46.595466,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W777
 813,Flower of the Dusk,408,1908,,,2025-07-11T15:26:12.14593,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W813
 894,Fog,448,1933,,,2025-07-16T15:09:48.739388,2025-08-04T17:06:35.659603,co-writer Valentine Williams,novel,,,,False,,,,,,,,,,,W894
-676,Follow as the Night,336,1950,,,2025-07-09T00:21:22.774833,2025-08-16T17:43:28.453053,,novel,,,,False,,,,Q130288764,1739014,,,,,,W676
 951,Footlights,487,1919,,,2025-07-16T20:02:16.109624,2025-08-04T17:06:35.659603,,short_story,Saturday Evening Post,1919-05-17,,False,,,,,,,,,,,W951
 126,Footloose,49,1926,,,2025-06-17T03:48:03.914138,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W126
 987,Forever Amber,500,1944,,,2025-07-16T20:26:26.272139,2025-08-16T17:47:06.805315,,novel,,,,False,,,,Q1646002,,,,,,,W987
@@ -435,6 +434,7 @@ id,title,author_id,publication_year,plot_summary,literary_significance,created_a
 391,My Husband,163,1919,,,2025-06-19T18:09:55.017203,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W391
 853,My Little Sister,420,1913,,,2025-07-11T15:59:05.172842,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W853
 585,My Reputation,280,1945,,,2025-07-06T14:57:52.041163,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W585
+1032,My Sister Eileen,517,1938,,,2025-08-18T01:33:50.226158,2025-08-18T01:33:50.226158,,memoir,The New Yorker,,,False,,,,,,,,,,,W1032
 119,My Wife and I,2,1871,,,2025-06-17T03:48:03.914138,2025-08-16T17:36:20.165156,,novel,,,,False,,,,Q3855984,,,47874,,,,W119
 413,Navy Born,48,1934,,,2025-06-19T19:46:43.339392,2025-08-09T16:26:41.18998,,short_story,Hearst's International-Cosmopolitan,1934-03-01,Vol. 96 No. 3,False,,https://archive.org/details/sim_cosmopolitan_1934-03_96_3,http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1934CMPMAR%27,,,,,,,,W413
 203,Next Time We Live,56,1935,,,2025-06-17T03:48:03.914138,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W203
@@ -540,8 +540,8 @@ id,title,author_id,publication_year,plot_summary,literary_significance,created_a
 505,Salvage,223,,,,2025-07-02T23:58:53.454687,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W505
 809,Sam,407,,,,2025-07-11T15:02:26.266047,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W809
 105,Sandra,31,1924,,,2025-06-17T03:48:03.914138,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W105
-41,Sandy,5,1905,,,2025-06-17T03:48:03.914138,2025-08-16T17:36:49.937092,,novel,,,,False,,,,Q7417124,,,,,,,W41
 125,Sandy,46,1926,,,2025-06-17T03:48:03.914138,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W125
+41,Sandy,5,1905,,,2025-06-17T03:48:03.914138,2025-08-16T17:36:49.937092,,novel,,,,False,,,,Q7417124,,,,,,,W41
 362,"Sara Crewe; or, What Happened at Miss Minchin’s",3,1887,,,2025-06-18T16:26:19.495342,2025-08-16T17:34:34.841347,,novel,St. Nicholas,1887-12-01,v15 #2-4,True,3,,http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1887SNMDEC%27,Q103624534,,,,saracreweorwhathburnett,,,W362
 237,Saratoga Trunk,40,1941,,,2025-06-17T03:48:03.914138,2025-08-16T17:36:12.120339,,novel,Cosmopolitan,1941-04-01,"Vol. 110 No. 4-6, Vol. 111 No. 1-4",True,7,https://archive.org/details/sim_cosmopolitan_1941-04_110_4,http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1941CMPAPR%27,Q7423385,,OL2646755W,,,,006152792,W237
 356,Satan Never Sleeps,146,1962,,,2025-06-18T16:21:09.473982,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W356
@@ -581,8 +581,8 @@ id,title,author_id,publication_year,plot_summary,literary_significance,created_a
 815,Spinner in the Sun,408,1906,,,2025-07-11T15:26:12.14593,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W815
 202,Spinster Dinner,57,1934,,,2025-06-17T03:48:03.914138,2025-08-09T16:26:39.928913,,novella,Hearst's International-Cosmopolitan,1934-07-01,Vol. 97 No. 1,False,,https://archive.org/details/sim_cosmopolitan_1934-07_97_1,http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1934CMPJUL%27,,,,,,,,W202
 729,Spoonhandle,368,1946,,,2025-07-09T01:10:37.369118,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W729
-788,Spring Fever,399,,,,2025-07-09T23:54:11.74898,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W788
 340,Spring Fever,141,,,,2025-06-18T15:46:18.48074,2025-08-04T17:06:35.659603,co-writer Katherien Pinkerton,short_story,,,,False,,,,,,,,,,,W340
+788,Spring Fever,399,,,,2025-07-09T23:54:11.74898,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W788
 76,Star-Dust,25,1920,,,2025-06-17T03:48:03.914138,2025-08-09T16:26:41.926564,,novel,Cosmopolitan,1920-03-01,"Vol. 68 No. 3-6, Vol. 69 No. 1-6",True,10,http://hdl.handle.net/2027/mdp.39015030763745,http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1920CMPMAR%27,,657113050,OL7239380M,9858,stardustamergirl00hursrich,,,W76
 984,Starr of the Southwest,498,,,,2025-07-16T20:25:10.480012,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W984
 112,Stella Dallas,45,1922,,,2025-06-17T03:48:03.914138,2025-08-16T17:35:30.611251,,novel,The American Magazine,1922-10-01,"v94 #4-6, v95 #1-5",True,8,https://hdl.handle.net/2027/mdp.39015056074191,http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1922AMGOCT%27,Q7607053,,,,,,,W112
@@ -687,8 +687,8 @@ Rubies",223,1920,,,2025-07-02T23:58:53.454687,2025-08-04T17:06:35.659603,,novel,
 675,The Egg and I,335,1945,,,2025-07-09T00:19:19.712228,2025-08-16T17:43:26.739517,,novel,,,,False,,,,Q7731633,,OL273762W,,,,,W675
 433,The Eleventh Virgin,193,,,,2025-06-23T01:02:15.470205,2025-08-16T17:40:36.939128,,novel,,,,False,,,,Q124098239,,,,,,,W433
 670,The Enchanted Barn,330,1918,,,2025-07-08T02:50:50.141539,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W670
-400,The Enemy,168,1915,,,2025-06-19T19:35:20.353074,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W400
 266,The Enemy,85,1951,,,2025-06-17T03:48:03.914138,2025-08-09T16:39:44.142705,,novella,Ellery Queen's Mystery Magazine,1951-05-01,"Vol. 17, Whole No. 90",False,,,http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1951EQMMAY%27,,,,,,,,W266
+400,The Enemy,168,1915,,,2025-06-19T19:35:20.353074,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W400
 377,The Eternal Masculine,154,,,,2025-06-19T18:01:09.399678,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W377
 914,The Failure,462,1932,,,2025-07-16T17:50:46.150541,2025-08-04T17:06:35.659603,,short_story,American Magazine,1932-11-01,Nov 1932,False,,,,,,,,,,,W914
 227,The Fallen Sparrow,78,1942,,,2025-06-17T03:48:03.914138,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W227
@@ -749,7 +749,7 @@ Rubies",223,1920,,,2025-07-02T23:58:53.454687,2025-08-04T17:06:35.659603,,novel,
 67,The Incubus,29,1915,,,2025-06-17T03:48:03.914138,2025-08-09T16:26:46.242225,,novel,Ainslee's,1915-06-01,"v35 #5-6, v36 #1-2",True,4,,http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1915AINJUN%27,,,,,,,,W67
 334,The Invisible Host,136,1930,,,2025-06-18T15:37:36.359624,2025-08-16T17:39:37.322023,co-writer Bruce Manning,novel,,,,False,,,,Q7742467,,,,,,,W334
 15,The Iron Woman,9,1910,,,2025-06-17T03:48:03.914138,2025-08-16T17:36:52.170458,,novel,Harper’s Monthly Magazine,1910-11-01,v121 #726-737,True,12,https://babel.hathitrust.org/cgi/pt?id=mdp.39015056097283;view=1up;seq=11,http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1910HPMNOV%27,Q7742628,,,,,,,W15
-510,Their Own Desire,227,1929,,,2025-07-03T00:03:20.69701,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W510
+510,Their Own Desire,199,1929,,,2025-07-03T00:03:20.69701,2025-08-17T22:03:12.473629,"published under Dix's pseudonym, Sarita Fuller",novel,,,,False,,,,,,,,,,,W510
 877,The Island of Faith,433,,,,2025-07-16T14:55:37.331684,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W877
 770,The Island of Intrigue,384,1918,,,2025-07-09T15:15:15.02922,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W770
 111,The Keeper of the Bees,12,1925,,,2025-06-17T03:48:03.914138,2025-08-09T17:13:07.624665,,novel,McCall's,1925-02-01,Volume LII Number 5,True,8,https://archive.org/details/sim_rosie_1925-02_52_5,http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1925MCCFEB%27,,1259537,,,,,006058823,W111
@@ -794,6 +794,7 @@ Rubies",223,1920,,,2025-07-02T23:58:53.454687,2025-08-04T17:06:35.659603,,novel,
 808,The Nervous Wreck,407,1923,,,2025-07-11T15:02:26.266047,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W808
 602,The Next Corner,289,1921,,,2025-07-06T15:07:55.205463,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W602
 610,The Night Before the Divorce,291,1941,,,2025-07-07T17:13:19.672106,2025-08-04T17:06:35.659603,co-writer Ladislaus Fodor,novel,,,,False,,,,,,,,,,,W610
+1031,The Norths Meet Murder,516,1940,,,2025-08-18T01:06:09.296277,2025-08-18T01:06:09.296277,co-written by Richard Lockridge,novel,,,,False,,,,,,,,,,,W1031
 97,The Nth Commandment,25,1914,,,2025-06-17T03:48:03.914138,2025-08-09T16:26:36.320502,,short_story,The Saturday Evening Post,1914-12-05,v187 #23,False,,https://archive.org/details/sim_saturday-evening-post_1914-12-05_187_23,http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1914SEPDEC5%27,,613719943,OL6590621M,12763,everysoulhathit00hursgoog,,000480610,W97
 573,The Nun's Story,271,1956,,,2025-07-05T22:43:24.169093,2025-08-16T17:42:48.671848,,novel,,,,False,,,,Q7754497,,,,,,,W573
 309,The Nurse's Story: In Which Reality Meets Romance,121,1915,,,2025-06-18T15:19:08.964046,2025-08-04T17:06:35.659603,,novel,,,,False,,,,,,,,,,,W309

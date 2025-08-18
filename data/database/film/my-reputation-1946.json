@@ -34,7 +34,7 @@
     "literary_significance": null,
     "literary_significance_html": "",
     "adaptation_count": 1,
-    "photoplay_edition_count": 0,
+    "photoplay_edition_count": 1,
     "year_to_adaptation": 1
   },
   "author": {
@@ -49,6 +49,58 @@
   "other_adaptations": [],
   "adaptation_context": null,
   "media": [
+    {
+      "id": 5662,
+      "media_type": "still",
+      "title": "My Reputation (1946) - Still",
+      "caption": "Scene from My Reputation (1946)",
+      "url": "https://image.tmdb.org/t/p/original/du0NkKLV7BqydXPTeGIHFKu7c2n.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/du0NkKLV7BqydXPTeGIHFKu7c2n.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/123295",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5663,
+      "media_type": "still",
+      "title": "My Reputation (1946) - Still",
+      "caption": "Scene from My Reputation (1946)",
+      "url": "https://image.tmdb.org/t/p/original/mfhynLjUX6PwPEKx0ArCbgsaL7A.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/mfhynLjUX6PwPEKx0ArCbgsaL7A.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/123295",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 5664,
+      "media_type": "still",
+      "title": "My Reputation (1946) - Still",
+      "caption": "Scene from My Reputation (1946)",
+      "url": "https://image.tmdb.org/t/p/original/jY3KBSvFMvFBcWHCELcMrgnJO3J.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/jY3KBSvFMvFBcWHCELcMrgnJO3J.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/123295",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 1479,
+      "media_type": "advertisement",
+      "title": "Barbara Stanwyck in 'My Reputation', 1946.jpg",
+      "caption": "Barbara Stanwyck in My Reputation, 1946",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Barbara_Stanwyck_in_%27My_Reputation%27%2C_1946.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Barbara_Stanwyck_in_%27My_Reputation%27%2C_1946.jpg/300px-Barbara_Stanwyck_in_%27My_Reputation%27%2C_1946.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Barbara_Stanwyck_in_'My_Reputation',_1946.jpg",
+      "license": "public_domain",
+      "attribution": "Warner Bros.",
+      "is_featured": "False"
+    },
     {
       "id": 5657,
       "media_type": "poster",
@@ -113,74 +165,9 @@
       "license": "fair_use",
       "attribution": "Image courtesy of TMDB",
       "is_featured": "False"
-    },
-    {
-      "id": 5662,
-      "media_type": "still",
-      "title": "My Reputation (1946) - Still",
-      "caption": "Scene from My Reputation (1946)",
-      "url": "https://image.tmdb.org/t/p/original/du0NkKLV7BqydXPTeGIHFKu7c2n.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/du0NkKLV7BqydXPTeGIHFKu7c2n.jpg",
-      "source": "tmdb",
-      "source_url": "https://www.themoviedb.org/movie/123295",
-      "license": "fair_use",
-      "attribution": "Image courtesy of TMDB",
-      "is_featured": "False"
-    },
-    {
-      "id": 5663,
-      "media_type": "still",
-      "title": "My Reputation (1946) - Still",
-      "caption": "Scene from My Reputation (1946)",
-      "url": "https://image.tmdb.org/t/p/original/mfhynLjUX6PwPEKx0ArCbgsaL7A.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/mfhynLjUX6PwPEKx0ArCbgsaL7A.jpg",
-      "source": "tmdb",
-      "source_url": "https://www.themoviedb.org/movie/123295",
-      "license": "fair_use",
-      "attribution": "Image courtesy of TMDB",
-      "is_featured": "False"
-    },
-    {
-      "id": 5664,
-      "media_type": "still",
-      "title": "My Reputation (1946) - Still",
-      "caption": "Scene from My Reputation (1946)",
-      "url": "https://image.tmdb.org/t/p/original/jY3KBSvFMvFBcWHCELcMrgnJO3J.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/jY3KBSvFMvFBcWHCELcMrgnJO3J.jpg",
-      "source": "tmdb",
-      "source_url": "https://www.themoviedb.org/movie/123295",
-      "license": "fair_use",
-      "attribution": "Image courtesy of TMDB",
-      "is_featured": "False"
-    },
-    {
-      "id": 1479,
-      "media_type": "advertisement",
-      "title": "Barbara Stanwyck in 'My Reputation', 1946.jpg",
-      "caption": "Barbara Stanwyck in My Reputation, 1946",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Barbara_Stanwyck_in_%27My_Reputation%27%2C_1946.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Barbara_Stanwyck_in_%27My_Reputation%27%2C_1946.jpg/300px-Barbara_Stanwyck_in_%27My_Reputation%27%2C_1946.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Barbara_Stanwyck_in_'My_Reputation',_1946.jpg",
-      "license": "public_domain",
-      "attribution": "Warner Bros.",
-      "is_featured": "False"
-    },
-    {
-      "id": 1480,
-      "media_type": "still",
-      "title": "Barbara Stanwyck in My Reputation trailer.JPG",
-      "caption": "Cropped screenshot of Barbara Stanwyck from the trailer for the film My Reputation",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barbara_Stanwyck_in_My_Reputation_trailer.JPG",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Barbara_Stanwyck_in_My_Reputation_trailer.JPG/300px-Barbara_Stanwyck_in_My_Reputation_trailer.JPG",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Barbara_Stanwyck_in_My_Reputation_trailer.JPG",
-      "license": "public_domain",
-      "attribution": "Trailer screenshot",
-      "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 10,
-  "last_updated": "2025-08-17T21:47:16.155183"
+  "media_count": 9,
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

@@ -50,19 +50,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 1386,
-      "media_type": "poster",
-      "title": "Silk Husbands and Calico Wives poster.jpg",
-      "caption": "Poster for the American drama film Silk Husbands and Calico Wives (1920).",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Silk_Husbands_and_Calico_Wives_poster.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Silk_Husbands_and_Calico_Wives_poster.jpg/300px-Silk_Husbands_and_Calico_Wives_poster.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Silk_Husbands_and_Calico_Wives_poster.jpg",
-      "license": "public_domain",
-      "attribution": "Equity Pictures",
-      "is_featured": "True"
-    },
-    {
       "id": 1382,
       "media_type": "advertisement",
       "title": "Husbands and Wives (1920) - Ad 1.jpg",
@@ -115,6 +102,19 @@
       "is_featured": "False"
     },
     {
+      "id": 1386,
+      "media_type": "poster",
+      "title": "Silk Husbands and Calico Wives poster.jpg",
+      "caption": "Poster for the American drama film Silk Husbands and Calico Wives (1920).",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Silk_Husbands_and_Calico_Wives_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Silk_Husbands_and_Calico_Wives_poster.jpg/300px-Silk_Husbands_and_Calico_Wives_poster.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Silk_Husbands_and_Calico_Wives_poster.jpg",
+      "license": "public_domain",
+      "attribution": "Equity Pictures",
+      "is_featured": "True"
+    },
+    {
       "id": 1387,
       "media_type": "lobby_card",
       "title": "Silk Husbands and Calico Wives lobby card.jpg",
@@ -130,5 +130,5 @@
   ],
   "has_media": true,
   "media_count": 6,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

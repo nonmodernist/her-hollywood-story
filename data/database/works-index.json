@@ -947,7 +947,7 @@
       "isRemakeChampion": false,
       "firstAdaptationYear": 1917,
       "hasMagazinePublication": true,
-      "hasPhotoplayEdition": false,
+      "hasPhotoplayEdition": true,
       "searchText": "sara crewe; or, what happened at miss minchin’s frances hodgson burnett"
     },
     {
@@ -1614,6 +1614,25 @@
       "hasMagazinePublication": false,
       "hasPhotoplayEdition": false,
       "searchText": "brown of harvard rida johnson young"
+    },
+    {
+      "id": 1032,
+      "slug": "my-sister-eileen",
+      "title": "My Sister Eileen",
+      "formatted_title": "My Sister Eileen",
+      "html_title": "<span class=\"work-title\">My Sister Eileen</span>",
+      "workType": "memoir",
+      "authorId": 517,
+      "authorName": "Ruth McKenney",
+      "authorSlug": "ruth-mckenney",
+      "publicationYear": 1938,
+      "adaptationCount": 2,
+      "yearSpan": 13,
+      "isRemakeChampion": false,
+      "firstAdaptationYear": 1942,
+      "hasMagazinePublication": true,
+      "hasPhotoplayEdition": true,
+      "searchText": "my sister eileen ruth mckenney"
     },
     {
       "id": 8,
@@ -2638,7 +2657,7 @@
       "isRemakeChampion": false,
       "firstAdaptationYear": 1920,
       "hasMagazinePublication": true,
-      "hasPhotoplayEdition": false,
+      "hasPhotoplayEdition": true,
       "searchText": "the branding iron katharine newlin burt"
     },
     {
@@ -2695,7 +2714,7 @@
       "isRemakeChampion": false,
       "firstAdaptationYear": 1921,
       "hasMagazinePublication": false,
-      "hasPhotoplayEdition": false,
+      "hasPhotoplayEdition": true,
       "searchText": "miss lulu bett zona gale"
     },
     {
@@ -5241,7 +5260,7 @@
       "isRemakeChampion": false,
       "firstAdaptationYear": 1944,
       "hasMagazinePublication": true,
-      "hasPhotoplayEdition": false,
+      "hasPhotoplayEdition": true,
       "searchText": "marriage is a private affair judith kelly"
     },
     {
@@ -5450,7 +5469,7 @@
       "isRemakeChampion": false,
       "firstAdaptationYear": 1948,
       "hasMagazinePublication": true,
-      "hasPhotoplayEdition": false,
+      "hasPhotoplayEdition": true,
       "searchText": "clementine peggy goodin"
     },
     {
@@ -6495,7 +6514,7 @@
       "isRemakeChampion": false,
       "firstAdaptationYear": 1944,
       "hasMagazinePublication": false,
-      "hasPhotoplayEdition": false,
+      "hasPhotoplayEdition": true,
       "searchText": "meet me in st. louis sally benson"
     },
     {
@@ -6742,7 +6761,7 @@
       "isRemakeChampion": false,
       "firstAdaptationYear": 1952,
       "hasMagazinePublication": false,
-      "hasPhotoplayEdition": false,
+      "hasPhotoplayEdition": true,
       "searchText": "yankee from olympus catherine drinker bowen"
     },
     {
@@ -9963,9 +9982,9 @@
       "formatted_title": "Their Own Desire",
       "html_title": "<span class=\"work-title\">Their Own Desire</span>",
       "workType": "novel",
-      "authorId": 227,
-      "authorName": "Sarita Fuller",
-      "authorSlug": "sarita-fuller",
+      "authorId": 199,
+      "authorName": "Beulah Marie Dix",
+      "authorSlug": "beulah-marie-dix",
       "publicationYear": 1929,
       "adaptationCount": 1,
       "yearSpan": 0,
@@ -9973,7 +9992,7 @@
       "firstAdaptationYear": 1929,
       "hasMagazinePublication": false,
       "hasPhotoplayEdition": false,
-      "searchText": "their own desire sarita fuller"
+      "searchText": "their own desire beulah marie dix"
     },
     {
       "id": 511,
@@ -10333,7 +10352,7 @@
       "isRemakeChampion": false,
       "firstAdaptationYear": 1954,
       "hasMagazinePublication": false,
-      "hasPhotoplayEdition": false,
+      "hasPhotoplayEdition": true,
       "searchText": "make haste to live mildred nixon gordon"
     },
     {
@@ -10827,7 +10846,7 @@
       "isRemakeChampion": false,
       "firstAdaptationYear": 1961,
       "hasMagazinePublication": false,
-      "hasPhotoplayEdition": false,
+      "hasPhotoplayEdition": true,
       "searchText": "misty of chincoteague marguerite henry"
     },
     {
@@ -11188,7 +11207,7 @@
       "isRemakeChampion": false,
       "firstAdaptationYear": 1957,
       "hasMagazinePublication": false,
-      "hasPhotoplayEdition": false,
+      "hasPhotoplayEdition": true,
       "searchText": "the bird's nest shirley jackson"
     },
     {
@@ -11283,7 +11302,7 @@
       "isRemakeChampion": false,
       "firstAdaptationYear": 1946,
       "hasMagazinePublication": false,
-      "hasPhotoplayEdition": false,
+      "hasPhotoplayEdition": true,
       "searchText": "my reputation clare jaynes"
     },
     {
@@ -12290,7 +12309,7 @@
       "isRemakeChampion": false,
       "firstAdaptationYear": 1937,
       "hasMagazinePublication": false,
-      "hasPhotoplayEdition": false,
+      "hasPhotoplayEdition": true,
       "searchText": "the years are so long josephine lawrence"
     },
     {
@@ -13221,7 +13240,7 @@
       "isRemakeChampion": false,
       "firstAdaptationYear": 1954,
       "hasMagazinePublication": false,
-      "hasPhotoplayEdition": false,
+      "hasPhotoplayEdition": true,
       "searchText": "a man called peter: the story of peter marshall catherine marshall"
     },
     {
@@ -14285,7 +14304,7 @@
       "isRemakeChampion": false,
       "firstAdaptationYear": 1927,
       "hasMagazinePublication": false,
-      "hasPhotoplayEdition": false,
+      "hasPhotoplayEdition": true,
       "searchText": "mother kathleen norris"
     },
     {
@@ -17990,7 +18009,7 @@
       "isRemakeChampion": false,
       "firstAdaptationYear": 1929,
       "hasMagazinePublication": true,
-      "hasPhotoplayEdition": false,
+      "hasPhotoplayEdition": true,
       "searchText": "the children edith wharton"
     },
     {
@@ -18693,7 +18712,7 @@
       "isRemakeChampion": false,
       "firstAdaptationYear": 1928,
       "hasMagazinePublication": false,
-      "hasPhotoplayEdition": false,
+      "hasPhotoplayEdition": true,
       "searchText": "the story of mother machree rida johnson young"
     },
     {
@@ -19151,11 +19170,30 @@
       "hasMagazinePublication": false,
       "hasPhotoplayEdition": true,
       "searchText": "rags edith barnard delano"
+    },
+    {
+      "id": 1031,
+      "slug": "the-norths-meet-murder",
+      "title": "The Norths Meet Murder",
+      "formatted_title": "The Norths Meet Murder",
+      "html_title": "<span class=\"work-title\">The Norths Meet Murder</span>",
+      "workType": "novel",
+      "authorId": 516,
+      "authorName": "Frances Lockridge",
+      "authorSlug": "frances-lockridge",
+      "publicationYear": 1940,
+      "adaptationCount": 1,
+      "yearSpan": 0,
+      "isRemakeChampion": false,
+      "firstAdaptationYear": 1941,
+      "hasMagazinePublication": false,
+      "hasPhotoplayEdition": true,
+      "searchText": "the norths meet murder frances lockridge"
     }
   ],
   "metadata": {
-    "totalCount": 1010,
-    "withAdaptations": 1008,
+    "totalCount": 1011,
+    "withAdaptations": 1010,
     "remakeChampions": 13
   }
 }

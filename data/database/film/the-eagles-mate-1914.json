@@ -18,7 +18,7 @@
   "cast_members": "Mary Pickford|James Kirkwood|Ida Waterman|Robert Broderick|Harry C. Browne|Helen Gillmore|Jack Pickford|Estelle Kirby|R. J. Henry|Russell Bassett",
   "color_info": "black-and-white",
   "availability": "extant",
-  "archive_location": "BFI National Archive, George Eastman House/Museum",
+  "archive_location": "BFI National Archive, George Eastman House",
   "adaptation_notes": null,
   "afi_catalog_id": 16319,
   "source_work": {
@@ -50,19 +50,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 5572,
-      "media_type": "still",
-      "title": "The Eagle's Mate (1914) - Still",
-      "caption": "Scene from The Eagle's Mate (1914)",
-      "url": "https://image.tmdb.org/t/p/original/eTunE2fkwfqXmjQrxIEHmWiUMLz.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/eTunE2fkwfqXmjQrxIEHmWiUMLz.jpg",
-      "source": "tmdb",
-      "source_url": "https://www.themoviedb.org/movie/488432",
-      "license": "fair_use",
-      "attribution": "Image courtesy of TMDB",
-      "is_featured": "False"
-    },
-    {
       "id": 5571,
       "media_type": "still",
       "title": "The Eagle's Mate (1914) - Poster",
@@ -74,6 +61,19 @@
       "license": "fair_use",
       "attribution": "Image courtesy of TMDB",
       "is_featured": "True"
+    },
+    {
+      "id": 5572,
+      "media_type": "still",
+      "title": "The Eagle's Mate (1914) - Still",
+      "caption": "Scene from The Eagle's Mate (1914)",
+      "url": "https://image.tmdb.org/t/p/original/eTunE2fkwfqXmjQrxIEHmWiUMLz.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/eTunE2fkwfqXmjQrxIEHmWiUMLz.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/488432",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
     },
     {
       "id": 5570,
@@ -91,5 +91,5 @@
   ],
   "has_media": true,
   "media_count": 3,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

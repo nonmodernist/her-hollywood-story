@@ -63,19 +63,6 @@
       "is_featured": "True"
     },
     {
-      "id": 562,
-      "media_type": "production_photo",
-      "title": "The Single Standard (SAYRE 14260).jpg",
-      "caption": "The Single Standard Subjects (LCTGM): motion pictures, actors, actresses",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/The_Single_Standard_%28SAYRE_14260%29.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Single_Standard_%28SAYRE_14260%29.jpg/300px-The_Single_Standard_%28SAYRE_14260%29.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:The_Single_Standard_(SAYRE_14260).jpg",
-      "license": "public_domain",
-      "attribution": "MGM",
-      "is_featured": "False"
-    },
-    {
       "id": 559,
       "media_type": "other",
       "title": "The Single Standard (1929).webm",
@@ -100,9 +87,22 @@
       "license": "public_domain",
       "attribution": "Photoplay",
       "is_featured": "False"
+    },
+    {
+      "id": 562,
+      "media_type": "production_photo",
+      "title": "The Single Standard (SAYRE 14260).jpg",
+      "caption": "The Single Standard Subjects (LCTGM): motion pictures, actors, actresses",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/The_Single_Standard_%28SAYRE_14260%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Single_Standard_%28SAYRE_14260%29.jpg/300px-The_Single_Standard_%28SAYRE_14260%29.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Single_Standard_(SAYRE_14260).jpg",
+      "license": "public_domain",
+      "attribution": "MGM",
+      "is_featured": "False"
     }
   ],
   "has_media": true,
   "media_count": 4,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

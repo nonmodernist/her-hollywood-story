@@ -50,6 +50,19 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 3002,
+      "media_type": "still",
+      "title": "Cheers for Miss Bishop (1941) - Still",
+      "caption": "Scene from Cheers for Miss Bishop (1941)",
+      "url": "https://image.tmdb.org/t/p/original/5pmh6lxg7R06nhzcslPCeoWHgoX.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/5pmh6lxg7R06nhzcslPCeoWHgoX.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/142876",
+      "license": "fair_use",
+      "attribution": "United Artists",
+      "is_featured": "False"
+    },
+    {
       "id": 2998,
       "media_type": "poster",
       "title": "Cheers for Miss Bishop (1941) - Poster",
@@ -100,48 +113,9 @@
       "license": "fair_use",
       "attribution": "United Artists",
       "is_featured": "False"
-    },
-    {
-      "id": 3002,
-      "media_type": "still",
-      "title": "Cheers for Miss Bishop (1941) - Still",
-      "caption": "Scene from Cheers for Miss Bishop (1941)",
-      "url": "https://image.tmdb.org/t/p/original/5pmh6lxg7R06nhzcslPCeoWHgoX.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w780/5pmh6lxg7R06nhzcslPCeoWHgoX.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/142876",
-      "license": "fair_use",
-      "attribution": "United Artists",
-      "is_featured": "False"
-    },
-    {
-      "id": 725,
-      "media_type": "still",
-      "title": "Mary Anderson in Cheers for Miss Bishop.jpg",
-      "caption": "Mary Anderson (with Donald Douglas back) in Cheers for Miss Bishop (1941) - cropped screenshot",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Mary_Anderson_in_Cheers_for_Miss_Bishop.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mary_Anderson_in_Cheers_for_Miss_Bishop.jpg/300px-Mary_Anderson_in_Cheers_for_Miss_Bishop.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Mary_Anderson_in_Cheers_for_Miss_Bishop.jpg",
-      "license": "public_domain",
-      "attribution": "film screenshot (Richard A. Rowland Productions)",
-      "is_featured": "False"
-    },
-    {
-      "id": 726,
-      "media_type": "still",
-      "title": "Howard Hickman in Cheers for Miss Bishop.jpg",
-      "caption": "Howard C. Hickman in Cheers for Miss Bishop - cropped screenshot",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Howard_Hickman_in_Cheers_for_Miss_Bishop.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Howard_Hickman_in_Cheers_for_Miss_Bishop.jpg/300px-Howard_Hickman_in_Cheers_for_Miss_Bishop.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Howard_Hickman_in_Cheers_for_Miss_Bishop.jpg",
-      "license": "public_domain",
-      "attribution": "film screenshot (United Artists)",
-      "is_featured": "False"
     }
   ],
   "has_media": true,
-  "media_count": 7,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "media_count": 5,
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

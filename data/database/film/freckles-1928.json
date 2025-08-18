@@ -84,19 +84,6 @@
   },
   "media": [
     {
-      "id": 535,
-      "media_type": "production_photo",
-      "title": "Freckles (SAYRE 14376).jpg",
-      "caption": "Freckles Subjects (LCTGM): motion pictures, actors",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Freckles_%28SAYRE_14376%29.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Freckles_%28SAYRE_14376%29.jpg/300px-Freckles_%28SAYRE_14376%29.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Freckles_(SAYRE_14376).jpg",
-      "license": "public_domain",
-      "attribution": "FBO",
-      "is_featured": "False"
-    },
-    {
       "id": 534,
       "media_type": "production_photo",
       "title": "Silent film juvenile John Fox in \"Freckles\" (SAYRE 16).jpg",
@@ -108,9 +95,22 @@
       "license": "public_domain",
       "attribution": "FBO",
       "is_featured": "False"
+    },
+    {
+      "id": 535,
+      "media_type": "production_photo",
+      "title": "Freckles (SAYRE 14376).jpg",
+      "caption": "Freckles Subjects (LCTGM): motion pictures, actors",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Freckles_%28SAYRE_14376%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Freckles_%28SAYRE_14376%29.jpg/300px-Freckles_%28SAYRE_14376%29.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Freckles_(SAYRE_14376).jpg",
+      "license": "public_domain",
+      "attribution": "FBO",
+      "is_featured": "False"
     }
   ],
   "has_media": true,
   "media_count": 2,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

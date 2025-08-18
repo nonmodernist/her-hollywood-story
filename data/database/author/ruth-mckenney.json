@@ -1,0 +1,110 @@
+{
+  "id": 517,
+  "slug": "ruth-mckenney",
+  "name": "Ruth McKenney",
+  "birth_year": 1911,
+  "death_year": 1972,
+  "nationality": "American",
+  "literary_movement": null,
+  "biographical_notes": "American journalist. Born in New York City. Occupations: journalist, writer",
+  "biographical_notes_html": "<p>American journalist. Born in New York City. Occupations: journalist, writer</p>",
+  "author_notes": null,
+  "wikidata_id": "Q7383124",
+  "alternative_names": null,
+  "occupations": null,
+  "key_themes": null,
+  "education": null,
+  "maiden_name": null,
+  "key_associations": null,
+  "major_awards": null,
+  "archives_locations": null,
+  "modern_availability": null,
+  "has_portrait": "False",
+  "signature_work_ids": null,
+  "has_pseudonym": "False",
+  "is_pseudonym": "False",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 1,
+    "first_adaptation": 1942,
+    "last_adaptation": 1955,
+    "year_span": 13,
+    "top_genres": [
+      {
+        "genre": "Comedy",
+        "count": 1
+      },
+      {
+        "genre": "Musical comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1,
+      "1950": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1151,
+      "slug": "my-sister-eileen-1942",
+      "title": "My Sister Eileen",
+      "html_title": "<span class=\"film-title\">My Sister Eileen</span>",
+      "year": 1942,
+      "studio": "Columbia",
+      "directors": "Alexander Hall",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "My Sister Eileen",
+      "work_html_title": "<span class=\"work-title\">My Sister Eileen</span>",
+      "work_id": 1032
+    },
+    {
+      "id": 1152,
+      "slug": "my-sister-eileen-1955",
+      "title": "My Sister Eileen",
+      "html_title": "<span class=\"film-title\">My Sister Eileen</span>",
+      "year": 1955,
+      "studio": "Columbia",
+      "directors": "Richard Quine",
+      "genres": [
+        "Musical comedy"
+      ],
+      "has_media": false,
+      "work_title": "My Sister Eileen",
+      "work_html_title": "<span class=\"work-title\">My Sister Eileen</span>",
+      "work_id": 1032
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 1032,
+      "slug": "my-sister-eileen",
+      "title": "My Sister Eileen",
+      "formatted_title": "My Sister Eileen",
+      "html_title": "<span class=\"work-title\">My Sister Eileen</span>",
+      "work_type": "memoir",
+      "publication_year": 1938,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 1032,
+    "slug": "my-sister-eileen",
+    "title": "My Sister Eileen",
+    "formatted_title": "My Sister Eileen",
+    "html_title": "<span class=\"work-title\">My Sister Eileen</span>",
+    "work_type": "memoir",
+    "publication_year": 1938,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "last_updated": "2025-08-18T01:56:37.77042"
+}

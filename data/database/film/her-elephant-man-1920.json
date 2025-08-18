@@ -50,32 +50,6 @@
   "adaptation_context": null,
   "media": [
     {
-      "id": 139,
-      "media_type": "advertisement",
-      "title": "Her Elephant Man (1920) - 2.jpg",
-      "caption": "Advertisement for the American circus drama film Her Elephant Man (1920) with Alan Roscoe and Shirley Mason, on page 10 of the February 14, 1920 Exhibitors Herald.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Her_Elephant_Man_%281920%29_-_2.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Her_Elephant_Man_%281920%29_-_2.jpg/300px-Her_Elephant_Man_%281920%29_-_2.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Her_Elephant_Man_(1920)_-_2.jpg",
-      "license": "public_domain",
-      "attribution": "Fox Film Corporation",
-      "is_featured": "False"
-    },
-    {
-      "id": 137,
-      "media_type": "advertisement",
-      "title": "Her Elephant Man (1920) - 4.jpg",
-      "caption": "Advertisement for the American circus drama film Her Elephant Man (1920) with Shirley Mason, on page 18 of the February 21, 1920 Exhibitors Herald.",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Her_Elephant_Man_%281920%29_-_4.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Her_Elephant_Man_%281920%29_-_4.jpg/300px-Her_Elephant_Man_%281920%29_-_4.jpg",
-      "source": "Wikimedia Commons",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Her_Elephant_Man_(1920)_-_4.jpg",
-      "license": "public_domain",
-      "attribution": "Fox Film Corporation",
-      "is_featured": "False"
-    },
-    {
       "id": 138,
       "media_type": "still",
       "title": "Her Elephant Man (1920) - 1.jpg",
@@ -102,6 +76,32 @@
       "is_featured": "False"
     },
     {
+      "id": 137,
+      "media_type": "advertisement",
+      "title": "Her Elephant Man (1920) - 4.jpg",
+      "caption": "Advertisement for the American circus drama film Her Elephant Man (1920) with Shirley Mason, on page 18 of the February 21, 1920 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Her_Elephant_Man_%281920%29_-_4.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Her_Elephant_Man_%281920%29_-_4.jpg/300px-Her_Elephant_Man_%281920%29_-_4.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Her_Elephant_Man_(1920)_-_4.jpg",
+      "license": "public_domain",
+      "attribution": "Fox Film Corporation",
+      "is_featured": "False"
+    },
+    {
+      "id": 139,
+      "media_type": "advertisement",
+      "title": "Her Elephant Man (1920) - 2.jpg",
+      "caption": "Advertisement for the American circus drama film Her Elephant Man (1920) with Alan Roscoe and Shirley Mason, on page 10 of the February 14, 1920 Exhibitors Herald.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Her_Elephant_Man_%281920%29_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Her_Elephant_Man_%281920%29_-_2.jpg/300px-Her_Elephant_Man_%281920%29_-_2.jpg",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Her_Elephant_Man_(1920)_-_2.jpg",
+      "license": "public_domain",
+      "attribution": "Fox Film Corporation",
+      "is_featured": "False"
+    },
+    {
       "id": 141,
       "media_type": "advertisement",
       "title": "Her Elephant Man (1920) - 3.jpg",
@@ -117,5 +117,5 @@
   ],
   "has_media": true,
   "media_count": 5,
-  "last_updated": "2025-08-16T18:01:13.15747"
+  "last_updated": "2025-08-18T01:56:07.994291"
 }

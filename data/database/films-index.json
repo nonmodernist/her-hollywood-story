@@ -14,12 +14,12 @@
       "studio": "Biograph",
       "directors": "D. W. Griffith",
       "hasMedia": true,
-      "mediaCount": 2,
+      "mediaCount": 1,
       "featuredMedia": {
-        "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/kM5DdvtsUuvu1gV3uj2LE3zNb5x.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/kM5DdvtsUuvu1gV3uj2LE3zNb5x.jpg",
-        "caption": "Contemporary poster made from cropped screenshot from Ramona (1910)",
+        "type": "still",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w780/fa8gQKiiKvJW9acoj1S8tk8xbpC.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/fa8gQKiiKvJW9acoj1S8tk8xbpC.jpg",
+        "caption": "Scene from Ramona (1910)",
         "source": "TMDb",
         "attribution": "Biograph"
       },
@@ -265,11 +265,11 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/yMgYbYL8hR7oeTeaLyrnZIkgrVU.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/yMgYbYL8hR7oeTeaLyrnZIkgrVU.jpg",
-        "caption": "Theatrical poster for The Pretty Sister of Jose (1915)",
-        "source": "TMDb",
-        "attribution": "Famous Players"
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Pretty_Sister_of_Jose.jpg/300px-The_Pretty_Sister_of_Jose.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/The_Pretty_Sister_of_Jose.jpg",
+        "caption": "Theatrical poster.",
+        "source": "Wikimedia Commons",
+        "attribution": "Famous Players-Lasky Corporation"
       },
       "workId": 8,
       "workTitle": "The Pretty Sister of Jose",
@@ -713,11 +713,11 @@
       "mediaCount": 11,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/6KQXEuZJUPDEOTzfBjsZ9eXj2jb.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/6KQXEuZJUPDEOTzfBjsZ9eXj2jb.jpg",
-        "caption": "Poster for Rebecca of Sunnybrook Farm (1917)",
-        "source": "TMDb",
-        "attribution": "Mary Pickford Productions"
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rebecca_of_Sunnybrook_Farm_1917_poster.jpg/300px-Rebecca_of_Sunnybrook_Farm_1917_poster.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Rebecca_of_Sunnybrook_Farm_1917_poster.jpg",
+        "caption": "Poster for the 1917 film Rebecca of Sunnybrook Farm.",
+        "source": "Wikimedia Commons",
+        "attribution": "Artcraft"
       },
       "workId": 20,
       "workTitle": "Rebecca of Sunnybrook Farm",
@@ -1660,9 +1660,9 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Bramble_Bush_%281919%29_-_2.jpg/300px-The_Bramble_Bush_%281919%29_-_2.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/The_Bramble_Bush_%281919%29_-_2.jpg",
-        "caption": "Still from the American film The Bramble Bush (1919) with Corinne Griffith holding a kitten, on page 74 of the August 30, 1919 Exhibitors Herald.",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Bramble_Bush_%281919%29_-_1.jpg/300px-The_Bramble_Bush_%281919%29_-_1.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/The_Bramble_Bush_%281919%29_-_1.jpg",
+        "caption": "Still from the American film The Bramble Bush (1919) with Corinne Griffith, page 1845 of the August 30, 1919 Motion Picture News.",
         "source": "Wikimedia Commons",
         "attribution": "Vitagraph Company of America"
       },
@@ -1695,11 +1695,11 @@
       "mediaCount": 5,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/A_scene_from_%22Come_Out_of_the_Kitchen%22_%28SAYRE_13000%29.jpg/300px-A_scene_from_%22Come_Out_of_the_Kitchen%22_%28SAYRE_13000%29.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/A_scene_from_%22Come_Out_of_the_Kitchen%22_%28SAYRE_13000%29.jpg",
-        "caption": "A scene from the American film Come Out of the Kitchen (1919) which played at the Strand Theater, Seattle. Includes Marguerite Clark and Eugene O'Brien. Subjects: motion pictures, actresses, actors, Paramount Pictures",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Come_Out_of_the_Kitchen_%281919%29_-_3.jpg/300px-Come_Out_of_the_Kitchen_%281919%29_-_3.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Come_Out_of_the_Kitchen_%281919%29_-_3.jpg",
+        "caption": "Still from the American film Come Out of the Kitchen with Marguerite Clark, on page 34 of the May 31, 1919 Exhibitors Herald.",
         "source": "Wikimedia Commons",
-        "attribution": "Famous Players-Lasky"
+        "attribution": "Paramount Pictures"
       },
       "workId": 49,
       "workTitle": "Come Out of the Kitchen!",
@@ -1727,7 +1727,7 @@
       "studio": "Mary Pickford",
       "directors": "Marshall A. Neilan",
       "hasMedia": true,
-      "mediaCount": 13,
+      "mediaCount": 12,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/fs4gPBkTfbvFdINoSr6kHKDPGU7.jpg",
@@ -2113,14 +2113,14 @@
       "studio": "Cosmopolitan Productions",
       "directors": "Frank Borzage",
       "hasMedia": true,
-      "mediaCount": 13,
+      "mediaCount": 12,
       "featuredMedia": {
-        "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/56JT45OHQe3TV7ZD6nK6qcdEbNf.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/56JT45OHQe3TV7ZD6nK6qcdEbNf.jpg",
-        "caption": "Theatrical poster for Humoresque (1920)",
-        "source": "TMDb",
-        "attribution": "Cosmopolitan Productions"
+        "type": "advertisement",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Humoresque_%281920%29_-_Ad_2.jpg/300px-Humoresque_%281920%29_-_Ad_2.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Humoresque_%281920%29_-_Ad_2.jpg",
+        "caption": "Advertisement for the American drama film Humoresque (1920) with Vera Gordon, on page 4077 of the May 15, 1920 Motion Picture News.",
+        "source": "Wikimedia Commons",
+        "attribution": "Cosmopolitan Productions / Paramount Pictures"
       },
       "workId": 60,
       "workTitle": "Humoresque",
@@ -2256,9 +2256,9 @@
       "mediaCount": 6,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Out_of_the_Storm_%281920%29_1.jpg/300px-Out_of_the_Storm_%281920%29_1.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Out_of_the_Storm_%281920%29_1.jpg",
-        "caption": "John Bowers and Barbara Castleton in Out of the Storm (1920) - publicity still (cropped)",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Out_of_the_Storm_%281920%29_-_4.jpg/300px-Out_of_the_Storm_%281920%29_-_4.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Out_of_the_Storm_%281920%29_-_4.jpg",
+        "caption": "Still from the American drama film Out of the Storm (1920) with John Bowers, on page 70 of the May 29, 1920 Exhibitors Herald.",
         "source": "Wikimedia Commons",
         "attribution": "Eminent Authors Pictures"
       },
@@ -2877,7 +2877,7 @@
       "studio": "Goldwyn Pictures",
       "directors": "E. Mason Hopper",
       "hasMedia": true,
-      "mediaCount": 9,
+      "mediaCount": 8,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/i8TuG9ktzSdLe2WnaU1wOaL0Jl7.jpg",
@@ -3017,7 +3017,7 @@
       "studio": "Famous Players-Lasky",
       "directors": "Cecil B. DeMille",
       "hasMedia": true,
-      "mediaCount": 17,
+      "mediaCount": 16,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/xWyKsjzkexx0UrOWWLAeXMh8WeL.jpg",
@@ -4105,9 +4105,9 @@
       "mediaCount": 9,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Scene_from_Chickie_%281925%29_06.jpg/300px-Scene_from_Chickie_%281925%29_06.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Scene_from_Chickie_%281925%29_06.jpg",
-        "caption": "A scene from the 1925 film Chickie just after a gun was fired.",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Chickie_%281925%29_-_7.jpg/300px-Chickie_%281925%29_-_7.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Chickie_%281925%29_-_7.jpg",
+        "caption": "Still from the American drama film Chickie (1925) with Hobart Bosworth and Dorothy Mackaill, on page 73 of the May 9, 1925 Exhibitors Herald.",
         "source": "Wikimedia Commons",
         "attribution": "First National Pictures"
       },
@@ -4278,7 +4278,7 @@
       "studio": "United Artists",
       "directors": "Roland West",
       "hasMedia": true,
-      "mediaCount": 10,
+      "mediaCount": 8,
       "featuredMedia": {
         "type": "advertisement",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/q4Ptjf3IDjSpnFoJyiNyhEVe7cb.jpg",
@@ -5156,9 +5156,9 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "production_photo",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Freckles_%28SAYRE_14376%29.jpg/300px-Freckles_%28SAYRE_14376%29.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Freckles_%28SAYRE_14376%29.jpg",
-        "caption": "Freckles Subjects (LCTGM): motion pictures, actors",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Silent_film_juvenile_John_Fox_in_%22Freckles%22_%28SAYRE_16%29.jpg/300px-Silent_film_juvenile_John_Fox_in_%22Freckles%22_%28SAYRE_16%29.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Silent_film_juvenile_John_Fox_in_%22Freckles%22_%28SAYRE_16%29.jpg",
+        "caption": "Silent film juvenile actor John Fox (1909-1997) in the American comedy film Freckles (1928). Subjects (LCTGM): children as actors, motion pictures",
         "source": "Wikimedia Commons",
         "attribution": "FBO"
       },
@@ -6862,9 +6862,9 @@
       "mediaCount": 12,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Poster_-_Faithless_04.jpg/300px-Poster_-_Faithless_04.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Poster_-_Faithless_04.jpg",
-        "caption": "Lobby card for the 1932 film Faithless",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Poster_-_Faithless_01.jpg/300px-Poster_-_Faithless_01.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Poster_-_Faithless_01.jpg",
+        "caption": "Lobby card for the 1932 film Faithless.",
         "source": "Wikimedia Commons",
         "attribution": "Employee(s) of MGM"
       },
@@ -7034,7 +7034,7 @@
       "studio": "RKO",
       "directors": "George Cukor|John Davis Lodge",
       "hasMedia": true,
-      "mediaCount": 17,
+      "mediaCount": 13,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Little_Women_%281933%29_poster.jpg/300px-Little_Women_%281933%29_poster.jpg",
@@ -7174,13 +7174,13 @@
       "studio": "MGM",
       "directors": "Clarence Brown",
       "hasMedia": true,
-      "mediaCount": 13,
+      "mediaCount": 12,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/vctkbkru8TKtymdRffRqZtUeUVT.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/vctkbkru8TKtymdRffRqZtUeUVT.jpg",
-        "caption": "Theatrical poster for Sadie McKee (1934)",
-        "source": "TMDb",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sadie_McKee_poster.jpg/300px-Sadie_McKee_poster.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sadie_McKee_poster.jpg",
+        "caption": "Poster for the 1934 film Sadie McKee.",
+        "source": "Wikimedia Commons",
         "attribution": "MGM"
       },
       "workId": 189,
@@ -7314,14 +7314,14 @@
       "studio": "Universal",
       "directors": "John M. Stahl",
       "hasMedia": true,
-      "mediaCount": 18,
+      "mediaCount": 10,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Imitation_of_Life_%281934_alternate_poster_-_Leader_Press%29.jpg/300px-Imitation_of_Life_%281934_alternate_poster_-_Leader_Press%29.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Imitation_of_Life_%281934_alternate_poster_-_Leader_Press%29.jpg",
-        "caption": "Alternate theatrical release poster of the 1934 film Imitation of Life.",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Imitation_of_Life_%281934_poster%29.jpg/300px-Imitation_of_Life_%281934_poster%29.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Imitation_of_Life_%281934_poster%29.jpg",
+        "caption": "Theatrical release poster of the 1934 film Imitation of Life.",
         "source": "Wikimedia Commons",
-        "attribution": "Universal"
+        "attribution": "\"Copyright 1934 – Universal Pictures Corp.\""
       },
       "workId": 191,
       "workTitle": "Imitation of Life",
@@ -7665,7 +7665,7 @@
       "studio": "RKO",
       "directors": "William A. Seiter",
       "hasMedia": true,
-      "mediaCount": 12,
+      "mediaCount": 10,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Roberta_1935_movie_poster.jpg/300px-Roberta_1935_movie_poster.jpg",
@@ -8078,7 +8078,7 @@
       "studio": "Selznick International",
       "directors": "John Cromwell",
       "hasMedia": true,
-      "mediaCount": 18,
+      "mediaCount": 10,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/xW0wVXvcc9i1BE7xIsx0ZCGqryS.jpg",
@@ -8533,7 +8533,7 @@
       "studio": "Warner Bros",
       "directors": "Michael Curtiz",
       "hasMedia": true,
-      "mediaCount": 17,
+      "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/b537l9ogYQY3y66G4zLXvP970Lj.jpg",
@@ -8708,7 +8708,7 @@
       "studio": "Warner Bros",
       "directors": "Edmund Goulding",
       "hasMedia": true,
-      "mediaCount": 9,
+      "mediaCount": 8,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/xBhLMf4KMayJAQqLmWBaZEF7th9.jpg",
@@ -8743,7 +8743,7 @@
       "studio": "Warner Bros",
       "directors": "Michael Curtiz",
       "hasMedia": true,
-      "mediaCount": 6,
+      "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/o9PC4kJa4gbBjFBACHObPpHyZDj.jpg",
@@ -8848,7 +8848,7 @@
       "studio": "RKO",
       "directors": "Norman Z. McLeod",
       "hasMedia": true,
-      "mediaCount": 3,
+      "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/1YIGwX1gTkBjzGWBnom2WPr2KlE.jpg",
@@ -9023,7 +9023,7 @@
       "studio": "United Artists",
       "directors": "Tay Garnett",
       "hasMedia": true,
-      "mediaCount": 7,
+      "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/qskXMXp76tEuIyKtg117UCG4LqS.jpg",
@@ -9233,7 +9233,7 @@
       "studio": "Warner Bros",
       "directors": "John Huston",
       "hasMedia": true,
-      "mediaCount": 8,
+      "mediaCount": 7,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/gl7ZRTQHYJ9c8LZhwRIVf06SuXg.jpg",
@@ -9268,7 +9268,7 @@
       "studio": "Warner Bros",
       "directors": "Irving Rapper",
       "hasMedia": true,
-      "mediaCount": 17,
+      "mediaCount": 11,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Now%2C_Voyager_%281942_poster%29.jpg/300px-Now%2C_Voyager_%281942_poster%29.jpg",
@@ -9338,7 +9338,7 @@
       "studio": "RKO",
       "directors": "Richard Wallace",
       "hasMedia": true,
-      "mediaCount": 10,
+      "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/dt9DIkNvK5Iq3IxBVgqbvlNWku1.jpg",
@@ -9513,7 +9513,7 @@
       "studio": "20th Century Fox",
       "directors": "Otto Preminger",
       "hasMedia": true,
-      "mediaCount": 12,
+      "mediaCount": 11,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Laura_%281944_film_poster%29.jpg/300px-Laura_%281944_film_poster%29.jpg",
@@ -9863,7 +9863,7 @@
       "studio": "MGM",
       "directors": "Clarence Brown|Victor Fleming",
       "hasMedia": true,
-      "mediaCount": 12,
+      "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/5KFOOHe5bNlgRzV7lqcYQWTjUJh.jpg",
@@ -10003,7 +10003,7 @@
       "studio": "Warner Bros",
       "directors": "Peter Godfrey",
       "hasMedia": true,
-      "mediaCount": 7,
+      "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/8gdORpyOau0su0sbL1miERzIxNS.jpg",
@@ -10379,7 +10379,7 @@
       "studio": "MGM",
       "directors": "Richard Thorpe",
       "hasMedia": true,
-      "mediaCount": 8,
+      "mediaCount": 7,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/qTa0kVP79sX8RJoylnatWlh9Mm3.jpg",
@@ -10589,7 +10589,7 @@
       "studio": "20th Century Fox",
       "directors": "Elia Kazan",
       "hasMedia": true,
-      "mediaCount": 17,
+      "mediaCount": 16,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panic_in_the_Streets_%281950%29.jpg/300px-Panic_in_the_Streets_%281950%29.jpg",
@@ -10627,11 +10627,11 @@
       "mediaCount": 18,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/i7xoFPOzlz3ZeuuIT5sbIDD7rsk.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/i7xoFPOzlz3ZeuuIT5sbIDD7rsk.jpg",
-        "caption": "Theatrical poster for In a Lonely Place (1950)",
-        "source": "TMDb",
-        "attribution": "Columbia"
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/In_a_Lonely_Place_%281950_poster%29.jpg/300px-In_a_Lonely_Place_%281950_poster%29.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/In_a_Lonely_Place_%281950_poster%29.jpg",
+        "caption": "Theatrical release poster for the 1950 film In a Lonely Place",
+        "source": "Wikimedia Commons",
+        "attribution": "\"Copyright 1950 Columbia Pictures Corp.\""
       },
       "workId": 258,
       "workTitle": "In A Lonely Place",
@@ -10659,7 +10659,7 @@
       "studio": "Universal-International",
       "directors": "Norman Foster",
       "hasMedia": true,
-      "mediaCount": 10,
+      "mediaCount": 8,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/mLeCOekYeSvNPJp4GSJxeaTuo92.jpg",
@@ -10729,7 +10729,7 @@
       "studio": "20th Century Fox",
       "directors": "Jean Negulesco",
       "hasMedia": true,
-      "mediaCount": 11,
+      "mediaCount": 8,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/3CameHomePoster.jpg/300px-3CameHomePoster.jpg",
@@ -10800,7 +10800,7 @@
       "studio": "MGM",
       "directors": "George Sidney",
       "hasMedia": true,
-      "mediaCount": 10,
+      "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/sk7s574pI9QAi6uVqbTg0bnLEUC.jpg",
@@ -11115,7 +11115,7 @@
       "studio": "20th Century Fox",
       "directors": "Howard Hawks",
       "hasMedia": true,
-      "mediaCount": 17,
+      "mediaCount": 15,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Gentlemen_Prefer_Blondes_1953_magazine_poster.jpg/300px-Gentlemen_Prefer_Blondes_1953_magazine_poster.jpg",
@@ -11255,7 +11255,7 @@
       "studio": "MGM",
       "directors": "Robert Z. Leonard",
       "hasMedia": true,
-      "mediaCount": 7,
+      "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/eUYHsKV6oIrMflEAa5d4gTvofcM.jpg",
@@ -11325,7 +11325,7 @@
       "studio": "United Artists",
       "directors": "Richard Sale",
       "hasMedia": true,
-      "mediaCount": 7,
+      "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/frYYVwR80lMlTQlMMogg9B9KtqO.jpg",
@@ -11397,7 +11397,7 @@
       "studio": "20th Century Fox",
       "directors": "Jean Negulesco",
       "hasMedia": true,
-      "mediaCount": 13,
+      "mediaCount": 8,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/bU773ynr74hGFgygcxgXdPyh7iS.jpg",
@@ -11432,7 +11432,7 @@
       "studio": "Universal-International",
       "directors": "Douglas Sirk",
       "hasMedia": true,
-      "mediaCount": 10,
+      "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/There%27s_Always_Tomorrow_poster.jpg/300px-There%27s_Always_Tomorrow_poster.jpg",
@@ -11573,7 +11573,7 @@
       "studio": "Universal-International",
       "directors": "Douglas Sirk",
       "hasMedia": true,
-      "mediaCount": 18,
+      "mediaCount": 7,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Imitation_of_Life_1959_poster.jpg/300px-Imitation_of_Life_1959_poster.jpg",
@@ -11643,11 +11643,11 @@
       "studio": "Allied Artists",
       "directors": "Crane Wilbur",
       "hasMedia": true,
-      "mediaCount": 9,
+      "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/umcFzgUTG79cDD5QRm6NBTmfQIl.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/umcFzgUTG79cDD5QRm6NBTmfQIl.jpg",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/5QUp6XZhaAizsr2cbrgTkzewAe3.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/5QUp6XZhaAizsr2cbrgTkzewAe3.jpg",
         "caption": "Theatrical poster for The Bat (1959)",
         "source": "TMDb",
         "attribution": "Allied Artists"
@@ -11716,11 +11716,11 @@
       "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/qEY9qLmc6X3LGDe7XhgG35MGm64.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/qEY9qLmc6X3LGDe7XhgG35MGm64.jpg",
-        "caption": "Theatrical poster for Cimarron (1960)",
-        "source": "TMDb",
-        "attribution": "MGM"
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cimarron1960.jpg/300px-Cimarron1960.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Cimarron1960.jpg",
+        "caption": "Poster for the film Cimarron (1960).",
+        "source": "Wikimedia Commons",
+        "attribution": "Reynold Brown"
       },
       "workId": 165,
       "workTitle": "Cimarron",
@@ -12063,7 +12063,7 @@
       "studio": "Famous Players-Lasky",
       "directors": "George Fitzmaurice",
       "hasMedia": true,
-      "mediaCount": 6,
+      "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/rHYBqzCOdtKDAy3MvAzeHgExj8c.jpg",
@@ -12413,14 +12413,14 @@
       "studio": "Republic",
       "directors": "Anthony Mann",
       "hasMedia": true,
-      "mediaCount": 11,
+      "mediaCount": 10,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/uqXTTpp1em7ZAZnNgYO8sKDsKsT.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/uqXTTpp1em7ZAZnNgYO8sKDsKsT.jpg",
-        "caption": "Theatrical poster for The Great Flamarion (1945)",
-        "source": "TMDb",
-        "attribution": "Republic"
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/GreatFlamarion.jpg/300px-GreatFlamarion.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/GreatFlamarion.jpg",
+        "caption": "Poster for the 1945 film The Great Flamarion. The item has no copyright markings on it as can be seen in the links above. At bottom is Country of origin USA, Morgan Litho Corp, Cleveland, O--they printed the poster-- and 27604. These look to be associated with the printing of the poster.",
+        "source": "Wikimedia Commons",
+        "attribution": "Republic Pictures"
       },
       "workId": 297,
       "workTitle": "The Big Shot",
@@ -12658,7 +12658,7 @@
       "studio": "MGM",
       "directors": "Vincente Minnelli",
       "hasMedia": true,
-      "mediaCount": 17,
+      "mediaCount": 14,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/lP8cPv0S1tbRhKDoLe0W5PW3y6h.jpg",
@@ -12693,7 +12693,7 @@
       "studio": "Monogram",
       "directors": "William Nigh",
       "hasMedia": true,
-      "mediaCount": 6,
+      "mediaCount": 4,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/dsZTosVwcMFUhr3NYcJ2tJRZLf1.jpg",
@@ -14153,12 +14153,12 @@
       "hasMedia": true,
       "mediaCount": 6,
       "featuredMedia": {
-        "type": "lobby_card",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Young-Man-of-Manhattan-LC-2.jpg/300px-Young-Man-of-Manhattan-LC-2.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Young-Man-of-Manhattan-LC-2.jpg",
-        "caption": "Lobby card for the 1930 film Young Man of Manhattan",
-        "source": "Wikimedia Commons",
-        "attribution": "Paramount Pictures"
+        "type": "poster",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/u3Lvwj3lsy5KtYzBgGbJfDrwNv.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/u3Lvwj3lsy5KtYzBgGbJfDrwNv.jpg",
+        "caption": "Theatrical poster for Young Man of Manhattan (1930)",
+        "source": "TMDb",
+        "attribution": "Paramount"
       },
       "workId": 348,
       "workTitle": "Young Man of Manhattan",
@@ -14326,7 +14326,7 @@
       "studio": "MGM",
       "directors": "Sidney Franklin|Victor Fleming|Gustav Machaty",
       "hasMedia": true,
-      "mediaCount": 15,
+      "mediaCount": 13,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Good_Earth_%281937%29_poster.jpg/300px-The_Good_Earth_%281937%29_poster.jpg",
@@ -14361,7 +14361,7 @@
       "studio": "20th Century Fox",
       "directors": "Leo McCarey|Jack Cardiff",
       "hasMedia": true,
-      "mediaCount": 8,
+      "mediaCount": 7,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/vcLWM9VnHU8hgzKppOWquYHSspP.jpg",
@@ -14529,7 +14529,7 @@
       "studio": "20th Century Fox",
       "directors": "Walter Lang",
       "hasMedia": true,
-      "mediaCount": 15,
+      "mediaCount": 10,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/yogrkvZrwQs9uV5s01RcUh1qred.jpg",
@@ -15390,7 +15390,7 @@
       "studio": "RKO",
       "directors": "Jacques Tourneur",
       "hasMedia": true,
-      "mediaCount": 12,
+      "mediaCount": 10,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/ojF4Bqj3uXKEApxK140vlyMvsfS.jpg",
@@ -15710,9 +15710,9 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Blackmail_%281920%29_-_2.jpg/300px-Blackmail_%281920%29_-_2.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Blackmail_%281920%29_-_2.jpg",
-        "caption": "Still from the American drama film Blackmail (1920) with an unidentified actor and Viola Dana, on page 98 of the November 13, 1920 Exhibitors Herald.",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Blackmail_%281920%29_-_4.jpg/300px-Blackmail_%281920%29_-_4.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Blackmail_%281920%29_-_4.jpg",
+        "caption": "Still from the American drama film Blackmail (1920) with Viola Dana and the comedy short film Convict 13 (1920) with Buster Keaton, on page 11 of the November 27, 1920 The Duluth Herald.",
         "source": "Wikimedia Commons",
         "attribution": "Screen Classics Inc. / Metro Pictures Corporation"
       },
@@ -15910,7 +15910,7 @@
       "studio": "Columbia",
       "directors": "George Stevens",
       "hasMedia": true,
-      "mediaCount": 15,
+      "mediaCount": 14,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/t1H7s1VOVDFLK0rx5ErDJklcFZk.jpg",
@@ -16078,7 +16078,7 @@
       "studio": "Benedict Bogeaus Productions",
       "directors": "Andre DeToth",
       "hasMedia": true,
-      "mediaCount": 7,
+      "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/cMLW8FvVIN6OoSfT9h9ZTGEaoD4.jpg",
@@ -16729,7 +16729,7 @@
       "studio": "MGM",
       "directors": "Richard Thorpe",
       "hasMedia": true,
-      "mediaCount": 9,
+      "mediaCount": 4,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/8q9ViA3wo0RsprwvCMF43V9SXuw.jpg",
@@ -16977,11 +16977,11 @@
       "mediaCount": 4,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/A_scene_from_%22Out_of_a_Clear_Sky_%28SAYRE_13426%29.jpg/300px-A_scene_from_%22Out_of_a_Clear_Sky_%28SAYRE_13426%29.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/A_scene_from_%22Out_of_a_Clear_Sky_%28SAYRE_13426%29.jpg",
-        "caption": "A scene from the American romance film Out of a Clear Sky (1918). Includes Marguerite Clark and Thoman Meighan. Date stamped Dec. 22, 1918. Subjects: motion pictures, actresses, actors",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Out_of_a_Clear_Sky_%281918%29_-_1.jpg/300px-Out_of_a_Clear_Sky_%281918%29_-_1.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Out_of_a_Clear_Sky_%281918%29_-_1.jpg",
+        "caption": "Still from the American romance film Out of a Clear Sky (1918) with Marguerite Clark and Thomas Meighan, on page 33 of the October 5, 1918 Exhibitors Herald.",
         "source": "Wikimedia Commons",
-        "attribution": "Famous Players-Lasky"
+        "attribution": "Famous Players-Lasky Corporation / Paramount Pictures"
       },
       "workId": 429,
       "workTitle": "Out of a Clear Sky",
@@ -17698,11 +17698,11 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/A_scene_from_%22The_Heart_of_Youth%22_%28SAYRE_13834%29.jpg/300px-A_scene_from_%22The_Heart_of_Youth%22_%28SAYRE_13834%29.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/A_scene_from_%22The_Heart_of_Youth%22_%28SAYRE_13834%29.jpg",
-        "caption": "A scene from the American film The Heart of Youth (1919), which played at the Mission Theater, Seattle. Dated Oct. 1, 1919. Includes Lila Lee. Subjects: motion pictures, actresses",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/The_Heart_of_Youth_%281919%29_-_1.jpg/300px-The_Heart_of_Youth_%281919%29_-_1.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/The_Heart_of_Youth_%281919%29_-_1.jpg",
+        "caption": "Still from the American film The Heart of Youth (1919) with Tom Forman and Lila Lee, on page 1845 of the August 30, 1919 Motion Picture News.",
         "source": "Wikimedia Commons",
-        "attribution": "Famous Players-Lasky"
+        "attribution": "Famous Players-Lasky Corporation / Paramount Pictures"
       },
       "workId": 450,
       "workTitle": "Friends in the End",
@@ -18595,11 +18595,11 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Elmo_kills_Murray.JPG/300px-Elmo_kills_Murray.JPG",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Elmo_kills_Murray.JPG",
-        "caption": "In a scene from the lost film St. Elmo (1914), the titular character (played by William Jossey) has killed his cousin Murray (Francis McDonald) as others look on.",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/St_Elmo_drinks_with_the_devil.jpg/300px-St_Elmo_drinks_with_the_devil.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/St_Elmo_drinks_with_the_devil.jpg",
+        "caption": "In a scene from the film, St. Elmo drinks with the devil over the body of his cousin.",
         "source": "Wikimedia Commons",
-        "attribution": "This is a frame from the lost film St. Elmo (1914), based on the novel by Augusta Jane Evans, as reprinted in The Moving Picture World (and also in Motion Picture News). All three elements are now ..."
+        "attribution": "Copyright originally held by Balboa Films or the Box Office Attraction Company"
       },
       "workId": 476,
       "workTitle": "St. Elmo",
@@ -19311,7 +19311,7 @@
       "studio": "Warner Bros",
       "directors": "Anatole Litvak",
       "hasMedia": true,
-      "mediaCount": 13,
+      "mediaCount": 8,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/j4KbLsCLnJVALXuV3djKOI8sUfc.jpg",
@@ -19716,7 +19716,7 @@
       "studio": "MGM",
       "directors": "Robert Z. Leonard",
       "hasMedia": true,
-      "mediaCount": 10,
+      "mediaCount": 7,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/dH50wSrGlyFf5rHCepxufYCG2jo.jpg",
@@ -19835,12 +19835,12 @@
       "workFormattedTitle": "Their Own Desire",
       "workHtmlTitle": "<span class=\"work-title\">Their Own Desire</span>",
       "workSlug": "their-own-desire",
-      "authorId": 227,
-      "authorName": "Sarita Fuller",
-      "authorSlug": "sarita-fuller",
+      "authorId": 199,
+      "authorName": "Beulah Marie Dix",
+      "authorSlug": "beulah-marie-dix",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "their own desire e. mason hopper frances marion norma shearer|belle bennett|lewis stone|robert montgomery|helene millard|cecil cunningham|henry hebert|mary doran|june nash mgm their own desire sarita fuller romance"
+      "searchText": "their own desire e. mason hopper frances marion norma shearer|belle bennett|lewis stone|robert montgomery|helene millard|cecil cunningham|henry hebert|mary doran|june nash mgm their own desire beulah marie dix romance"
     },
     {
       "id": 583,
@@ -20292,7 +20292,7 @@
       "studio": "Mary Pickford",
       "directors": "Maurice Tourneur",
       "hasMedia": true,
-      "mediaCount": 8,
+      "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/xTcoZ5DuCRCy2AAM7VGIG77pDjT.jpg",
@@ -20390,7 +20390,7 @@
       "studio": "Columbia",
       "directors": "Raoul Walsh",
       "hasMedia": true,
-      "mediaCount": 8,
+      "mediaCount": 7,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/ezoiUGVoc28IWsE5UwDlSFlOrLQ.jpg",
@@ -20673,8 +20673,8 @@
       "mediaCount": 11,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/MakeHasteToLive2.jpg/300px-MakeHasteToLive2.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/MakeHasteToLive2.jpg",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/MakeHasteToLive1.jpg/300px-MakeHasteToLive1.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/MakeHasteToLive1.jpg",
         "caption": "A poster featuring the stars of \"Make Haste to Live\" without a copyright notice indicating that it is public domain, because all works required copyright notices at the time.",
         "source": "Wikimedia Commons",
         "attribution": "Republic Pictures"
@@ -21535,7 +21535,7 @@
       "studio": "Samuel Goldwyn Productions",
       "directors": "Lewis Milestone",
       "hasMedia": true,
-      "mediaCount": 13,
+      "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/inDINnG2WZC7G2NlwOCenHFACX9.jpg",
@@ -21777,11 +21777,11 @@
       "mediaCount": 17,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/ihC083U7ef56Ui4x0P0dobojrZ1.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/ihC083U7ef56Ui4x0P0dobojrZ1.jpg",
-        "caption": "Theatrical poster for Strangers on a Train (1951)",
-        "source": "TMDb",
-        "attribution": "Warner Bros"
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Strangers_on_a_Train_%28film%29.jpg/300px-Strangers_on_a_Train_%28film%29.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Strangers_on_a_Train_%28film%29.jpg",
+        "caption": "Theatrical poster for the film Strangers on a Train",
+        "source": "Wikimedia Commons",
+        "attribution": "Bill Gold"
       },
       "workId": 563,
       "workTitle": "Strangers on a Train",
@@ -21813,11 +21813,11 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dusk_to_Dawn_%28SAYRE_14842%29.jpg/300px-Dusk_to_Dawn_%28SAYRE_14842%29.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Dusk_to_Dawn_%28SAYRE_14842%29.jpg",
-        "caption": "Still from the American film Dusk to Dawn (1922). Subjects: actresses, motion pictures",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Dusk_to_Dawn_%281922%29_-_Mulhall_%26_Vidor.jpg/300px-Dusk_to_Dawn_%281922%29_-_Mulhall_%26_Vidor.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Dusk_to_Dawn_%281922%29_-_Mulhall_%26_Vidor.jpg",
+        "caption": "Still from the American film Dusk to Dawn (1922) with Jack Mulhall and Florence Vidor, page 67 of the November 1922 Photoplay.",
         "source": "Wikimedia Commons",
-        "attribution": "Florence Vidor Productions"
+        "attribution": "Florence Vidor Productions / Associated Exhibitors"
       },
       "workId": 564,
       "workTitle": "The Shuttle Soul",
@@ -21950,14 +21950,14 @@
       "studio": "20th Century Fox",
       "directors": "Elia Kazan",
       "hasMedia": true,
-      "mediaCount": 18,
+      "mediaCount": 13,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/qj2wTHShlMQ2BXCfDzBYAGQBd3h.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/qj2wTHShlMQ2BXCfDzBYAGQBd3h.jpg",
-        "caption": "Theatrical poster for Gentleman's Agreement (1947)",
-        "source": "TMDb",
-        "attribution": "20th Century Fox"
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gentleman%27s_Agreement_%281947_poster%29.jpg/300px-Gentleman%27s_Agreement_%281947_poster%29.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Gentleman%27s_Agreement_%281947_poster%29.jpg",
+        "caption": "Theatrical release poster for the 1947 film Gentleman's Agreement.",
+        "source": "Wikimedia Commons",
+        "attribution": "\"Copyright 1947 - By Twentieth Century–Fox Film Corp.\""
       },
       "workId": 567,
       "workTitle": "Gentlemen's Agreement",
@@ -21996,7 +21996,7 @@
       "authorName": "Mary Jane Holmes",
       "authorSlug": "mary-jane-holmes",
       "isRemake": true,
-      "adaptationNumber": 2,
+      "adaptationNumber": 3,
       "searchText": "lena rivers john william kellette violet horner|harrish ingraham|mary moore|marty faust|mrs. middleton|harry h. forman|mrs. ford whitman features lena rivers mary jane holmes melodrama"
     },
     {
@@ -22032,7 +22032,7 @@
       "authorName": "Mary Jane Holmes",
       "authorSlug": "mary-jane-holmes",
       "isRemake": true,
-      "adaptationNumber": 3,
+      "adaptationNumber": 2,
       "searchText": "lena rivers cosmos lena rivers mary jane holmes melodrama comedy"
     },
     {
@@ -22217,7 +22217,7 @@
       "studio": "Warner Bros",
       "directors": "Mervyn LeRoy",
       "hasMedia": true,
-      "mediaCount": 6,
+      "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/cP78CJZYXMjWEcUsWre26i4icT5.jpg",
@@ -22527,7 +22527,7 @@
       "studio": "MGM",
       "directors": "Hugo Haas",
       "hasMedia": true,
-      "mediaCount": 9,
+      "mediaCount": 8,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/pqVG0hVCnk7kPgn4bJxfBFDGwQq.jpg",
@@ -22694,7 +22694,7 @@
       "studio": "Warner Bros",
       "directors": "Curtis Bernhardt",
       "hasMedia": true,
-      "mediaCount": 10,
+      "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/cBAiKCoxiHVm0I9Kqt6z7wcfush.jpg",
@@ -23661,7 +23661,7 @@
       "studio": "Warner Bros",
       "directors": "William Clemens",
       "hasMedia": true,
-      "mediaCount": 6,
+      "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/jOcGVTjpbEMrBlyNfWZfcN2gJM4.jpg",
@@ -23731,7 +23731,7 @@
       "studio": "Playfilms Productions",
       "directors": "Arthur Penn",
       "hasMedia": true,
-      "mediaCount": 9,
+      "mediaCount": 8,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/dXbQE7t9JlLad0dSprWJ3jOiTua.jpg",
@@ -23801,7 +23801,7 @@
       "studio": "Warner Bros",
       "directors": "Lloyd Bacon",
       "hasMedia": true,
-      "mediaCount": 5,
+      "mediaCount": 4,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/ysEqJqMJVPmTi6v0hqCqanKm2c2.jpg",
@@ -25011,7 +25011,7 @@
       "studio": "Hunt Stromberg Productions",
       "directors": "William A. Wellman",
       "hasMedia": true,
-      "mediaCount": 18,
+      "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/r1qAEEt1sv1Oz8i7bPiIiLLPBqf.jpg",
@@ -25046,7 +25046,7 @@
       "studio": "Warner Bros",
       "directors": "Mervyn LeRoy",
       "hasMedia": true,
-      "mediaCount": 13,
+      "mediaCount": 12,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/6146I9vZlJyYQVBP3sbbnnTYBls.jpg",
@@ -25081,7 +25081,7 @@
       "studio": "Pakula-Mulligan Productions",
       "directors": "Robert Mulligan",
       "hasMedia": true,
-      "mediaCount": 13,
+      "mediaCount": 11,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/To_Kill_a_Mockingbird_%281963_US_theatrical_poster%29.jpg/300px-To_Kill_a_Mockingbird_%281963_US_theatrical_poster%29.jpg",
@@ -25627,7 +25627,7 @@
       "studio": "Samuel Bronston Pictures",
       "directors": "Alfred Santell",
       "hasMedia": true,
-      "mediaCount": 7,
+      "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/xHZPrw1xvQ4vJFuEYPhIGoCVG2x.jpg",
@@ -25769,7 +25769,7 @@
       "studio": "20th Century Fox",
       "directors": "Robert Wise",
       "hasMedia": true,
-      "mediaCount": 9,
+      "mediaCount": 7,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/vjKabI7snDt6yym62ARh5MtBbw8.jpg",
@@ -25965,7 +25965,7 @@
       "studio": "MGM",
       "directors": "S. Sylvan Simon",
       "hasMedia": true,
-      "mediaCount": 12,
+      "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/kxfAIFhk9T35ZCLCRCfKlgHC3Vf.jpg",
@@ -27053,7 +27053,7 @@
       "studio": "Warner Bros",
       "directors": "William Dieterle",
       "hasMedia": true,
-      "mediaCount": 5,
+      "mediaCount": 4,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Poster_-_Scarlet_Dawn_01.jpg/300px-Poster_-_Scarlet_Dawn_01.jpg",
@@ -27466,7 +27466,7 @@
       "studio": "Warner Bros",
       "directors": "Michael Curtiz",
       "hasMedia": true,
-      "mediaCount": 6,
+      "mediaCount": 3,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Broadway_Through_a_Keyhole_poster.jpg/300px-Broadway_Through_a_Keyhole_poster.jpg",
@@ -28198,11 +28198,11 @@
       "mediaCount": 10,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Heedless_Moths_%281921%29_-_1.jpg/300px-Heedless_Moths_%281921%29_-_1.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Heedless_Moths_%281921%29_-_1.jpg",
-        "caption": "Still from the American film Heedless Moths (1921) with Hedda Hopper, on page 1 of the May 2, 1921 Film Daily.",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Heedless_Moths_%281921%29_-_Photoplay_Editorial.jpg/300px-Heedless_Moths_%281921%29_-_Photoplay_Editorial.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Heedless_Moths_%281921%29_-_Photoplay_Editorial.jpg",
+        "caption": "Editorial on page 64 of the September 1921 Photoplay magazine recommending that readers not see the American film Heedless Moths (1921), which featured scenes of actress Audrey Munson posing in the nude for an artist.",
         "source": "Wikimedia Commons",
-        "attribution": "Equity Pictures Corporation"
+        "attribution": "Photoplay editorial staff"
       },
       "workId": 735,
       "workTitle": "Life Story",
@@ -29169,7 +29169,7 @@
       "studio": "20th Century Fox",
       "directors": "Joseph L. Mankiewicz",
       "hasMedia": true,
-      "mediaCount": 17,
+      "mediaCount": 13,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/All_About_Eve_%281950_poster%29.jpg/300px-All_About_Eve_%281950_poster%29.jpg",
@@ -29300,7 +29300,7 @@
       "studio": "RKO",
       "directors": "Dudley Nichols",
       "hasMedia": true,
-      "mediaCount": 6,
+      "mediaCount": 5,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/kmwDdk6EaNmC5rjv40IPAUd3ROm.jpg",
@@ -29580,7 +29580,7 @@
       "studio": "RKO",
       "directors": "Nicholas Ray",
       "hasMedia": true,
-      "mediaCount": 13,
+      "mediaCount": 11,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/nbcIqkiaPl2aAgebMqk4xjKTKJg.jpg",
@@ -29685,7 +29685,7 @@
       "studio": "Warner Bros",
       "directors": "Joseph Santley",
       "hasMedia": true,
-      "mediaCount": 8,
+      "mediaCount": 7,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/fGa5OtReCIhYurYb7r5cqMBRwwY.jpg",
@@ -30306,8 +30306,8 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "lobby_card",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Slaves_of_Beauty_lobby_card_2.jpg/300px-Slaves_of_Beauty_lobby_card_2.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Slaves_of_Beauty_lobby_card_2.jpg",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Slaves_of_Beauty_lobby_card.jpg/300px-Slaves_of_Beauty_lobby_card.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Slaves_of_Beauty_lobby_card.jpg",
         "caption": "Lobby card for the American comedy drama film Slaves of Beauty (1927).",
         "source": "Wikimedia Commons",
         "attribution": "Fox Film Corp."
@@ -30719,9 +30719,9 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Too_Many_Crooks_%281919%29_-_2.jpg/300px-Too_Many_Crooks_%281919%29_-_2.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Too_Many_Crooks_%281919%29_-_2.jpg",
-        "caption": "Still from the American comedy film Too Many Crooks (1919) with Gladys Leslie and Jean Paige, the actors not identified, on page 52 of the June 28, 1919 Exhibitors Herald.",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Too_Many_Crooks_%281919%29_-_1.jpg/300px-Too_Many_Crooks_%281919%29_-_1.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Too_Many_Crooks_%281919%29_-_1.jpg",
+        "caption": "Still from the American comedy film Too Many Crooks (1919) with two unidentified actors, Anders Randolf, Gladys Leslie, Thomas J. McGrane (?), and Jean Paige, on page 1667 of the June 14, 1919 Moving Picture World.",
         "source": "Wikimedia Commons",
         "attribution": "Vitagraph Company of America"
       },
@@ -30954,7 +30954,7 @@
       "studio": "Metro Pictures",
       "directors": "John H. Collins",
       "hasMedia": true,
-      "mediaCount": 5,
+      "mediaCount": 4,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/k6Q9aGR0vpvNAmI96EayBOqUBjj.jpg",
@@ -31192,7 +31192,7 @@
       "studio": "20th Century Fox",
       "directors": "David Butler",
       "hasMedia": true,
-      "mediaCount": 10,
+      "mediaCount": 9,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/7iRxFqWmhCfEa39EElGfw10wKVQ.jpg",
@@ -31473,7 +31473,7 @@
       "studio": "Eminent Authors Pictures",
       "directors": "E. Mason Hopper",
       "hasMedia": true,
-      "mediaCount": 3,
+      "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/vxgunb7aoDGTNfJ2DBdvkSQoAkt.jpg",
@@ -31686,9 +31686,9 @@
       "mediaCount": 3,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w780/9lRsALhtLUQmvO6ffughh1LwBy1.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/9lRsALhtLUQmvO6ffughh1LwBy1.jpg",
-        "caption": "Advertisement K--The Unknown (1924)",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/61wXRSB3Icsi60rlfGjCdSketuc.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/61wXRSB3Icsi60rlfGjCdSketuc.jpg",
+        "caption": "Advertisement for K--The Unknown (1924)",
         "source": "TMDb",
         "attribution": "Universal"
       },
@@ -31896,9 +31896,9 @@
       "mediaCount": 2,
       "featuredMedia": {
         "type": "advertisement",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Babs_Matinee_Idol_-_1918_-_newspaper_ad.jpg/300px-Babs_Matinee_Idol_-_1918_-_newspaper_ad.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Babs_Matinee_Idol_-_1918_-_newspaper_ad.jpg",
-        "caption": "Bab's Matinee Idol is a 1917 American silent romantic comedy film produced by Famous Players Film Company directed by J. Searle Dawley.",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bab%27s_Matinee_Idol_%281917%29_-_1.jpg/300px-Bab%27s_Matinee_Idol_%281917%29_-_1.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bab%27s_Matinee_Idol_%281917%29_-_1.jpg",
+        "caption": "Advertisement for the American comedy romance film Bab's Matinee Idol (1917) with Marguerite Clark, on page 45 of the December 14, 1917 Variety.",
         "source": "Wikimedia Commons",
         "attribution": "Paramount Pictures"
       },
@@ -32664,7 +32664,7 @@
       "studio": "Famous Players-Lasky",
       "directors": "Rollin Sturgeon|Joseph Henabery",
       "hasMedia": true,
-      "mediaCount": 11,
+      "mediaCount": 10,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/n70uNFYXSCqhj2wiM5iGJkEHS4C.jpg",
@@ -33424,7 +33424,7 @@
       "studio": "Warner Bros",
       "directors": "Roy Del Ruth",
       "hasMedia": true,
-      "mediaCount": 10,
+      "mediaCount": 8,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/jDFue65MCa3fnehTVA9KCunQD0M.jpg",
@@ -34012,7 +34012,7 @@
       "studio": "Columbia",
       "directors": "Rudolph Maté",
       "hasMedia": true,
-      "mediaCount": 9,
+      "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/t8a0rQq2CjzqtgnEutvetR3Vil.jpg",
@@ -34117,7 +34117,7 @@
       "studio": "Pioneer Pictures",
       "directors": "Lloyd Corrigan",
       "hasMedia": true,
-      "mediaCount": 10,
+      "mediaCount": 8,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dancingpirate-r.jpg/300px-Dancingpirate-r.jpg",
@@ -35144,7 +35144,7 @@
       "studio": "Famous Players-Lasky",
       "directors": "Walter Edwards",
       "hasMedia": true,
-      "mediaCount": 3,
+      "mediaCount": 2,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/A_Girl_Named_Mary_poster.jpg/300px-A_Girl_Named_Mary_poster.jpg",
@@ -35543,7 +35543,7 @@
       "studio": "Warner Bros",
       "directors": "Bretaigne Windust",
       "hasMedia": true,
-      "mediaCount": 7,
+      "mediaCount": 6,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/1oTZOVu00BgTg9Yf7LFoU1S1eME.jpg",
@@ -35816,7 +35816,7 @@
       "studio": "20th Century Fox",
       "directors": "Anatole Litvak",
       "hasMedia": true,
-      "mediaCount": 15,
+      "mediaCount": 12,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/7NkGhyPfLoPHiFzXVUXU91nMeLb.jpg",
@@ -37384,14 +37384,14 @@
       "studio": "Paramount",
       "directors": "Cecil B. DeMille",
       "hasMedia": true,
-      "mediaCount": 18,
+      "mediaCount": 15,
       "featuredMedia": {
         "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/3Ei59AR64x6dMZfWobPCkZjbqTL.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/3Ei59AR64x6dMZfWobPCkZjbqTL.jpg",
-        "caption": "Theatrical poster for The Ten Commandments (1956)",
-        "source": "TMDb",
-        "attribution": "Paramount"
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/The_Ten_Commandments_%281956_film_poster%29.jpg/300px-The_Ten_Commandments_%281956_film_poster%29.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/The_Ten_Commandments_%281956_film_poster%29.jpg",
+        "caption": "Poster for the American theatrical run of the 1956 film The Ten Commandments.",
+        "source": "Wikimedia Commons",
+        "attribution": "Illustrated by Macario Gómez Quibus. \"Copyright © 1956 Paramount Pictures Corporation.\""
       },
       "workId": 986,
       "workTitle": "The Prince of Egypt",
@@ -37683,7 +37683,7 @@
       "authorSlug": "maritta-wolff",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "the man i love raoul walsh catherine turney|jo pagano ida lupino|robert alda|andrea king|martha vickers|bruce bennett|alan hale|dolores moran|john ridgely|don mcguire|warren douglas warner bros night shift maritta wolff melodrama"
+      "searchText": "the man i love raoul walsh catherine turney|jo pagano|catherine turney ida lupino|robert alda|andrea king|martha vickers|bruce bennett|alan hale|dolores moran|john ridgely|don mcguire|warren douglas warner bros night shift maritta wolff melodrama"
     },
     {
       "id": 1108,
@@ -37859,7 +37859,7 @@
       "studio": "Progressive Pictures",
       "directors": "Charles Lamont",
       "hasMedia": true,
-      "mediaCount": 6,
+      "mediaCount": 3,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Slander_House_poster.jpg/300px-Slander_House_poster.jpg",
@@ -37929,7 +37929,7 @@
       "studio": "Crime Club Productions",
       "directors": "Otis Garrett",
       "hasMedia": true,
-      "mediaCount": 4,
+      "mediaCount": 3,
       "featuredMedia": {
         "type": "poster",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/2xylje6WUCqhxZgZxKfvl09lKrS.jpg",
@@ -38607,7 +38607,7 @@
       "studio": "Famous Players",
       "directors": "James Kirkwood",
       "hasMedia": true,
-      "mediaCount": 5,
+      "mediaCount": 3,
       "featuredMedia": {
         "type": "advertisement",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/rXxhDX8NCFYclnFsAmlzh2eSgWU.jpg",
@@ -38677,7 +38677,7 @@
       "studio": "Essanay",
       "directors": null,
       "hasMedia": true,
-      "mediaCount": 11,
+      "mediaCount": 1,
       "featuredMedia": {
         "type": "advertisement",
         "thumbnailUrl": "https://image.tmdb.org/t/p/w342/zX2jiJ0QGXO97yrPlRU9EmWvZd7.jpg",
@@ -38958,14 +38958,14 @@
       "studio": "Company of Artists",
       "directors": "Jean Negulesco",
       "hasMedia": true,
-      "mediaCount": 1,
+      "mediaCount": 8,
       "featuredMedia": {
-        "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/1959_Cooley%27s_Gardens_%281959%29_%2816463573157%29.jpg/300px-1959_Cooley%27s_Gardens_%281959%29_%2816463573157%29.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/1959_Cooley%27s_Gardens_%281959%29_%2816463573157%29.jpg",
-        "caption": "Title: 1959 Cooley's Gardens Identifier: 1959cooleysgarde1959cool (find matches) Year: 1959 (1950s) Authors: Cooley's Gardens; Henry G. Gilbert Nursery and Seed Trade Catalog Collection Subjects: Nurseries (Horticulture) Catalogs; Irises (Plants) Catalogs Publisher: Silverton, Ore. : Cooley's Gardens Contributing Library: U.S. Department of Agriculture, National Agricultural Library Digitizing Sponsor: U.S. Department of Agriculture, National Agricultural Library View Book Page: Book Viewer Abou",
-        "source": "wikimedia",
-        "attribution": "Internet Archive Book Images"
+        "type": "poster",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/qH5xR8ZyXiLAjN6463Ny3SBsdVD.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/qH5xR8ZyXiLAjN6463Ny3SBsdVD.jpg",
+        "caption": "Theatrical poster for The Best of Everything (1959)",
+        "source": "tmdb",
+        "attribution": "Image courtesy of TMDB"
       },
       "workId": 1027,
       "workTitle": "The Best of Everything",
@@ -39016,9 +39016,11 @@
       "html_title": "<span class=\"film-title\">Joan of Arc</span>",
       "year": 1950,
       "decade": 1950,
-      "genres": [],
-      "studio": null,
-      "directors": null,
+      "genres": [
+        "Biography"
+      ],
+      "studio": "Sierra Pictures",
+      "directors": "Victor Fleming",
       "hasMedia": true,
       "mediaCount": 3,
       "featuredMedia": {
@@ -39039,7 +39041,7 @@
       "authorSlug": "frances-winwar",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "joan of arc joan of arc frances winwar"
+      "searchText": "joan of arc victor fleming maxwell anderson|andrew solt ingrid bergman|selena royle|robert barrat|jimmy lydon|rand brooks|roman bohnen|irene rich|nestor paiva|richard derr|ray teal sierra pictures joan of arc frances winwar biography"
     },
     {
       "id": 1149,
@@ -39074,11 +39076,96 @@
       "authorSlug": "edith-barnard-delano",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "rags james kirkwood edith bernard delano mary pickford|marshall neilan|joseph manning|j. farrell macdonald|hugh thompson famous players rags edith barnard delano drama"
+      "searchText": "rags james kirkwood edith bernard delano|edith barnard delano mary pickford|marshall neilan|joseph manning|j. farrell macdonald|hugh thompson famous players rags edith barnard delano drama"
+    },
+    {
+      "id": 1150,
+      "slug": "mr-and-mrs-north-1941",
+      "title": "Mr. and Mrs. North",
+      "formatted_title": "Mr. and Mrs. North",
+      "html_title": "<span class=\"film-title\">Mr. and Mrs. North</span>",
+      "year": 1941,
+      "decade": 1940,
+      "genres": [
+        "Romantic comedy",
+        "Screwball comedy"
+      ],
+      "studio": "RKO",
+      "directors": "Alfred Hitchcock",
+      "hasMedia": false,
+      "mediaCount": 0,
+      "featuredMedia": null,
+      "workId": 1031,
+      "workTitle": "The Norths Meet Murder",
+      "workFormattedTitle": "The Norths Meet Murder",
+      "workHtmlTitle": "<span class=\"work-title\">The Norths Meet Murder</span>",
+      "workSlug": "the-norths-meet-murder",
+      "authorId": 516,
+      "authorName": "Frances Lockridge",
+      "authorSlug": "frances-lockridge",
+      "isRemake": false,
+      "adaptationNumber": 1,
+      "searchText": "mr. and mrs. north alfred hitchcock norman krasna carole lombard|robert montgomery|gene raymond|jack carson|philip merivale|lucile watson|william tracy|charles halton|esther dale|emma dunn rko the norths meet murder frances lockridge romantic comedy screwball comedy"
+    },
+    {
+      "id": 1151,
+      "slug": "my-sister-eileen-1942",
+      "title": "My Sister Eileen",
+      "formatted_title": "My Sister Eileen",
+      "html_title": "<span class=\"film-title\">My Sister Eileen</span>",
+      "year": 1942,
+      "decade": 1940,
+      "genres": [
+        "Comedy"
+      ],
+      "studio": "Columbia",
+      "directors": "Alexander Hall",
+      "hasMedia": false,
+      "mediaCount": 0,
+      "featuredMedia": null,
+      "workId": 1032,
+      "workTitle": "My Sister Eileen",
+      "workFormattedTitle": "My Sister Eileen",
+      "workHtmlTitle": "<span class=\"work-title\">My Sister Eileen</span>",
+      "workSlug": "my-sister-eileen",
+      "authorId": 517,
+      "authorName": "Ruth McKenney",
+      "authorSlug": "ruth-mckenney",
+      "isRemake": true,
+      "adaptationNumber": 1,
+      "searchText": "my sister eileen alexander hall joseph fields|jerome chodorov rosalind russell|brian aherne|janet blair|george tobias|allyn joslyn|grant mitchell|gordon jones|elizabeth patterson|richard quine|june havoc columbia my sister eileen ruth mckenney comedy"
+    },
+    {
+      "id": 1152,
+      "slug": "my-sister-eileen-1955",
+      "title": "My Sister Eileen",
+      "formatted_title": "My Sister Eileen",
+      "html_title": "<span class=\"film-title\">My Sister Eileen</span>",
+      "year": 1955,
+      "decade": 1950,
+      "genres": [
+        "Musical comedy"
+      ],
+      "studio": "Columbia",
+      "directors": "Richard Quine",
+      "hasMedia": false,
+      "mediaCount": 0,
+      "featuredMedia": null,
+      "workId": 1032,
+      "workTitle": "My Sister Eileen",
+      "workFormattedTitle": "My Sister Eileen",
+      "workHtmlTitle": "<span class=\"work-title\">My Sister Eileen</span>",
+      "workSlug": "my-sister-eileen",
+      "authorId": 517,
+      "authorName": "Ruth McKenney",
+      "authorSlug": "ruth-mckenney",
+      "isRemake": true,
+      "adaptationNumber": 2,
+      "searchText": "my sister eileen richard quine blake edwards|richard quine janet leigh|jack lemmon|betty garrett|bob fosse|kurt kasznar|richard york|lucy marlow|tommy rall|barbara brown|horace m. mahon columbia my sister eileen ruth mckenney musical comedy"
     }
   ],
   "metadata": {
-    "totalCount": 1133,
+    "totalCount": 1136,
     "yearRange": [
       1910,
       1963
@@ -39462,7 +39549,7 @@
       {
         "value": "Columbia",
         "label": "Columbia",
-        "count": 37
+        "count": 39
       },
       {
         "value": "Cosmopolitan Productions",
@@ -39617,7 +39704,7 @@
       {
         "value": "RKO",
         "label": "RKO",
-        "count": 44
+        "count": 45
       },
       {
         "value": "Robertson-Cole",
@@ -39719,7 +39806,7 @@
       {
         "value": "Biography",
         "label": "Biography",
-        "count": 17
+        "count": 18
       },
       {
         "value": "Childrens works",
@@ -39729,7 +39816,7 @@
       {
         "value": "Comedy",
         "label": "Comedy",
-        "count": 87
+        "count": 88
       },
       {
         "value": "Comedy-drama",
@@ -39774,7 +39861,7 @@
       {
         "value": "Musical comedy",
         "label": "Musical comedy",
-        "count": 8
+        "count": 9
       },
       {
         "value": "Mystery",
@@ -39789,12 +39876,12 @@
       {
         "value": "Romantic comedy",
         "label": "Romantic comedy",
-        "count": 30
+        "count": 31
       },
       {
         "value": "Screwball comedy",
         "label": "Screwball comedy",
-        "count": 2
+        "count": 3
       },
       {
         "value": "Short",

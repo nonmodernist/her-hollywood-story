@@ -1,0 +1,94 @@
+{
+  "id": 516,
+  "slug": "frances-lockridge",
+  "name": "Frances Lockridge",
+  "birth_year": 1896,
+  "death_year": 1963,
+  "nationality": "American",
+  "literary_movement": null,
+  "biographical_notes": "American writer (1896–1963). Born in Kansas City. Died in Tryon. Occupations: journalist, writer",
+  "biographical_notes_html": "<p>American writer (1896–1963). Born in Kansas City. Died in Tryon. Occupations: journalist, writer</p>",
+  "author_notes": null,
+  "wikidata_id": "Q3749345",
+  "alternative_names": null,
+  "occupations": null,
+  "key_themes": null,
+  "education": null,
+  "maiden_name": null,
+  "key_associations": null,
+  "major_awards": null,
+  "archives_locations": null,
+  "modern_availability": null,
+  "has_portrait": "False",
+  "signature_work_ids": null,
+  "has_pseudonym": "False",
+  "is_pseudonym": "False",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1941,
+    "last_adaptation": 1941,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romantic comedy",
+        "count": 1
+      },
+      {
+        "genre": "Screwball comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1940": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1150,
+      "slug": "mr-and-mrs-north-1941",
+      "title": "Mr. and Mrs. North",
+      "html_title": "<span class=\"film-title\">Mr. and Mrs. North</span>",
+      "year": 1941,
+      "studio": "RKO",
+      "directors": "Alfred Hitchcock",
+      "genres": [
+        "Romantic comedy",
+        "Screwball comedy"
+      ],
+      "has_media": false,
+      "work_title": "The Norths Meet Murder",
+      "work_html_title": "<span class=\"work-title\">The Norths Meet Murder</span>",
+      "work_id": 1031
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 1031,
+      "slug": "the-norths-meet-murder",
+      "title": "The Norths Meet Murder",
+      "formatted_title": "The Norths Meet Murder",
+      "html_title": "<span class=\"work-title\">The Norths Meet Murder</span>",
+      "work_type": "novel",
+      "publication_year": 1940,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 1031,
+    "slug": "the-norths-meet-murder",
+    "title": "The Norths Meet Murder",
+    "formatted_title": "The Norths Meet Murder",
+    "html_title": "<span class=\"work-title\">The Norths Meet Murder</span>",
+    "work_type": "novel",
+    "publication_year": 1940,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "last_updated": "2025-08-18T02:26:52.024225"
+}

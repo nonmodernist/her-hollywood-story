@@ -4,7 +4,7 @@
   "name": "Frances Winwar",
   "birth_year": 1900,
   "death_year": 1985,
-  "nationality": "United States",
+  "nationality": "American",
   "literary_movement": null,
   "biographical_notes": "American writer (1900-1985). Occupations: biographer, translator, linguist, novelist, writer",
   "biographical_notes_html": "<p>American writer (1900-1985). Occupations: biographer, translator, linguist, novelist, writer</p>",
@@ -29,7 +29,12 @@
     "first_adaptation": 1950,
     "last_adaptation": 1950,
     "year_span": 0,
-    "top_genres": [],
+    "top_genres": [
+      {
+        "genre": "Biography",
+        "count": 1
+      }
+    ],
     "films_by_decade": {
       "1950": 1
     }
@@ -45,9 +50,11 @@
       "title": "Joan of Arc",
       "html_title": "<span class=\"film-title\">Joan of Arc</span>",
       "year": 1950,
-      "studio": null,
-      "directors": null,
-      "genres": [],
+      "studio": "Sierra Pictures",
+      "directors": "Victor Fleming",
+      "genres": [
+        "Biography"
+      ],
       "has_media": true,
       "work_title": "Joan of Arc",
       "work_html_title": "<span class=\"work-title\">Joan of Arc</span>",
@@ -78,5 +85,5 @@
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-16T17:08:39.663886"
+  "last_updated": "2025-08-18T02:26:48.221008"
 }

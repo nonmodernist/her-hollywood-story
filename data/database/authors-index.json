@@ -1329,6 +1329,22 @@
       "searchText": "edith barnard delano"
     },
     {
+      "id": 199,
+      "slug": "beulah-marie-dix",
+      "name": "Beulah Marie Dix",
+      "birthYear": 1876,
+      "deathYear": 1970,
+      "nationality": "American",
+      "literaryMovement": null,
+      "filmCount": 3,
+      "workCount": 3,
+      "firstAdaptation": 1919,
+      "lastAdaptation": 1929,
+      "yearSpan": 10,
+      "isTwentyTimer": false,
+      "searchText": "beulah marie dix"
+    },
+    {
       "id": 200,
       "slug": "ethel-smith-dorrance",
       "name": "Ethel Smith Dorrance",
@@ -2289,22 +2305,6 @@
       "searchText": "doris miles disney"
     },
     {
-      "id": 199,
-      "slug": "beulah-marie-dix",
-      "name": "Beulah Marie Dix",
-      "birthYear": 1876,
-      "deathYear": 1970,
-      "nationality": "American",
-      "literaryMovement": null,
-      "filmCount": 2,
-      "workCount": 2,
-      "firstAdaptation": 1919,
-      "lastAdaptation": 1923,
-      "yearSpan": 4,
-      "isTwentyTimer": false,
-      "searchText": "beulah marie dix"
-    },
-    {
       "id": 208,
       "slug": "eve-burkhardt",
       "name": "Eve Burkhardt",
@@ -3007,6 +3007,22 @@
       "yearSpan": 0,
       "isTwentyTimer": false,
       "searchText": "maritta wolff"
+    },
+    {
+      "id": 517,
+      "slug": "ruth-mckenney",
+      "name": "Ruth McKenney",
+      "birthYear": 1911,
+      "deathYear": 1972,
+      "nationality": "American",
+      "literaryMovement": null,
+      "filmCount": 2,
+      "workCount": 1,
+      "firstAdaptation": 1942,
+      "lastAdaptation": 1955,
+      "yearSpan": 13,
+      "isTwentyTimer": false,
+      "searchText": "ruth mckenney"
     },
     {
       "id": 11,
@@ -4863,22 +4879,6 @@
       "yearSpan": 0,
       "isTwentyTimer": false,
       "searchText": "ketti frings"
-    },
-    {
-      "id": 227,
-      "slug": "sarita-fuller",
-      "name": "Sarita Fuller",
-      "birthYear": 1876,
-      "deathYear": 1970,
-      "nationality": "American",
-      "literaryMovement": null,
-      "filmCount": 1,
-      "workCount": 1,
-      "firstAdaptation": 1929,
-      "lastAdaptation": 1929,
-      "yearSpan": 0,
-      "isTwentyTimer": false,
-      "searchText": "sarita fuller"
     },
     {
       "id": 228,
@@ -7862,7 +7862,7 @@
       "name": "Rona Jaffe",
       "birthYear": 1931,
       "deathYear": 2005,
-      "nationality": "United States",
+      "nationality": "American",
       "literaryMovement": null,
       "filmCount": 1,
       "workCount": 1,
@@ -7894,7 +7894,7 @@
       "name": "Frances Winwar",
       "birthYear": 1900,
       "deathYear": 1985,
-      "nationality": "United States",
+      "nationality": "American",
       "literaryMovement": null,
       "filmCount": 1,
       "workCount": 1,
@@ -7903,10 +7903,26 @@
       "yearSpan": 0,
       "isTwentyTimer": false,
       "searchText": "frances winwar"
+    },
+    {
+      "id": 516,
+      "slug": "frances-lockridge",
+      "name": "Frances Lockridge",
+      "birthYear": 1896,
+      "deathYear": 1963,
+      "nationality": "American",
+      "literaryMovement": null,
+      "filmCount": 1,
+      "workCount": 1,
+      "firstAdaptation": 1941,
+      "lastAdaptation": 1941,
+      "yearSpan": 0,
+      "isTwentyTimer": false,
+      "searchText": "frances lockridge"
     }
   ],
   "metadata": {
     "totalCount": 497,
-    "withFilms": 494
+    "withFilms": 495
   }
 }

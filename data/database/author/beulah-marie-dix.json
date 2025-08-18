@@ -6,11 +6,11 @@
   "death_year": 1970,
   "nationality": "American",
   "literary_movement": null,
-  "biographical_notes": "American screenwriter, children's book author (1876-1970). Born in Kingston. Died in Woodland Hills. Occupations: screenwriter, writer, children's writer, novelist",
-  "biographical_notes_html": "<p>American screenwriter, children's book author (1876-1970). Born in Kingston. Died in Woodland Hills. Occupations: screenwriter, writer, children's writer, novelist</p>",
+  "biographical_notes": "American screenwriter, children's book author (1876-1970). Born in Kingston. Died in Woodland Hills.",
+  "biographical_notes_html": "<p>American screenwriter, children's book author (1876-1970). Born in Kingston. Died in Woodland Hills.</p>",
   "author_notes": null,
   "wikidata_id": "Q3639218",
-  "alternative_names": null,
+  "alternative_names": "['Sarita Fuller']",
   "occupations": null,
   "key_themes": null,
   "education": null,
@@ -21,14 +21,14 @@
   "modern_availability": null,
   "has_portrait": "False",
   "signature_work_ids": null,
-  "has_pseudonym": "False",
+  "has_pseudonym": "True",
   "is_pseudonym": "False",
   "stats": {
-    "total_films": 2,
-    "works_adapted": 2,
+    "total_films": 3,
+    "works_adapted": 3,
     "first_adaptation": 1919,
-    "last_adaptation": 1923,
-    "year_span": 4,
+    "last_adaptation": 1929,
+    "year_span": 10,
     "top_genres": [
       {
         "genre": "Comedy-drama",
@@ -37,11 +37,15 @@
       {
         "genre": "Drama",
         "count": 1
+      },
+      {
+        "genre": "Romance",
+        "count": 1
       }
     ],
     "films_by_decade": {
       "1910": 1,
-      "1920": 1
+      "1920": 2
     }
   },
   "patterns": {
@@ -80,6 +84,22 @@
       "work_title": "The Fighting Blade",
       "work_html_title": "<span class=\"work-title\">The Fighting Blade</span>",
       "work_id": 449
+    },
+    {
+      "id": 582,
+      "slug": "their-own-desire-1929",
+      "title": "Their Own Desire",
+      "html_title": "<span class=\"film-title\">Their Own Desire</span>",
+      "year": 1929,
+      "studio": "MGM",
+      "directors": "E. Mason Hopper",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": true,
+      "work_title": "Their Own Desire",
+      "work_html_title": "<span class=\"work-title\">Their Own Desire</span>",
+      "work_id": 510
     }
   ],
   "adapted_works": [
@@ -104,6 +124,17 @@
       "publication_year": 1912,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 510,
+      "slug": "their-own-desire",
+      "title": "Their Own Desire",
+      "formatted_title": "Their Own Desire",
+      "html_title": "<span class=\"work-title\">Their Own Desire</span>",
+      "work_type": "novel",
+      "publication_year": 1929,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
@@ -117,5 +148,5 @@
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-17T22:01:20.344571"
 }

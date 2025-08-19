@@ -420,47 +420,25 @@
   ],
   "adapted_works": [
     {
-      "id": 74,
-      "slug": "the-charm-school",
-      "title": "The Charm School",
-      "formatted_title": "The Charm School",
-      "html_title": "<span class=\"work-title\">The Charm School</span>",
-      "work_type": "novel",
-      "publication_year": 1919,
-      "adaptation_count": 5,
-      "is_remake_champion": true
-    },
-    {
-      "id": 85,
-      "slug": "manslaughter",
-      "title": "Manslaughter",
-      "formatted_title": "Manslaughter",
-      "html_title": "<span class=\"work-title\">Manslaughter</span>",
-      "work_type": "novel",
-      "publication_year": 1921,
-      "adaptation_count": 3,
+      "id": 718,
+      "slug": "the-adventuress",
+      "title": "The Adventuress",
+      "formatted_title": "\"The Adventuress\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Adventuress\"</span>",
+      "work_type": "short_story",
+      "publication_year": null,
+      "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
-      "id": 49,
-      "slug": "come-out-of-the-kitchen",
-      "title": "Come Out of the Kitchen!",
-      "formatted_title": "Come Out of the Kitchen!",
-      "html_title": "<span class=\"work-title\">Come Out of the Kitchen!</span>",
+      "id": 62,
+      "slug": "calderons-prisoner",
+      "title": "Calderon's Prisoner",
+      "formatted_title": "Calderon's Prisoner",
+      "html_title": "<span class=\"work-title\">Calderon's Prisoner</span>",
       "work_type": "novel",
-      "publication_year": 1916,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
-      "id": 198,
-      "slug": "gowns-by-roberta",
-      "title": "Gowns By Roberta",
-      "formatted_title": "Gowns By Roberta",
-      "html_title": "<span class=\"work-title\">Gowns By Roberta</span>",
-      "work_type": "novel",
-      "publication_year": 1933,
-      "adaptation_count": 2,
+      "publication_year": 1903,
+      "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
@@ -486,14 +464,14 @@
       "is_remake_champion": false
     },
     {
-      "id": 62,
-      "slug": "calderons-prisoner",
-      "title": "Calderon's Prisoner",
-      "formatted_title": "Calderon's Prisoner",
-      "html_title": "<span class=\"work-title\">Calderon's Prisoner</span>",
+      "id": 49,
+      "slug": "come-out-of-the-kitchen",
+      "title": "Come Out of the Kitchen!",
+      "formatted_title": "Come Out of the Kitchen!",
+      "html_title": "<span class=\"work-title\">Come Out of the Kitchen!</span>",
       "work_type": "novel",
-      "publication_year": 1903,
-      "adaptation_count": 1,
+      "publication_year": 1916,
+      "adaptation_count": 2,
       "is_remake_champion": false
     },
     {
@@ -505,6 +483,28 @@
       "work_type": "novel",
       "publication_year": 1917,
       "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 74,
+      "slug": "the-charm-school",
+      "title": "The Charm School",
+      "formatted_title": "The Charm School",
+      "html_title": "<span class=\"work-title\">The Charm School</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "adaptation_count": 5,
+      "is_remake_champion": true
+    },
+    {
+      "id": 85,
+      "slug": "manslaughter",
+      "title": "Manslaughter",
+      "formatted_title": "Manslaughter",
+      "html_title": "<span class=\"work-title\">Manslaughter</span>",
+      "work_type": "novel",
+      "publication_year": 1921,
+      "adaptation_count": 3,
       "is_remake_champion": false
     },
     {
@@ -541,14 +541,14 @@
       "is_remake_champion": false
     },
     {
-      "id": 718,
-      "slug": "the-adventuress",
-      "title": "The Adventuress",
-      "formatted_title": "\"The Adventuress\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Adventuress\"</span>",
-      "work_type": "short_story",
-      "publication_year": null,
-      "adaptation_count": 1,
+      "id": 198,
+      "slug": "gowns-by-roberta",
+      "title": "Gowns By Roberta",
+      "formatted_title": "Gowns By Roberta",
+      "html_title": "<span class=\"work-title\">Gowns By Roberta</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "adaptation_count": 2,
       "is_remake_champion": false
     },
     {
@@ -575,15 +575,15 @@
     }
   ],
   "most_adapted_work": {
-    "id": 74,
-    "slug": "the-charm-school",
-    "title": "The Charm School",
-    "formatted_title": "The Charm School",
-    "html_title": "<span class=\"work-title\">The Charm School</span>",
-    "work_type": "novel",
-    "publication_year": 1919,
-    "adaptation_count": 5,
-    "is_remake_champion": true
+    "id": 718,
+    "slug": "the-adventuress",
+    "title": "The Adventuress",
+    "formatted_title": "\"The Adventuress\"",
+    "html_title": "<span class=\"work-title short-story\">\"The Adventuress\"</span>",
+    "work_type": "short_story",
+    "publication_year": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
   },
   "last_updated": "2025-08-17T20:04:36.61246"
 }

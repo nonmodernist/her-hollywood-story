@@ -237,25 +237,14 @@
   ],
   "adapted_works": [
     {
-      "id": 810,
-      "slug": "too-many-crooks",
-      "title": "Too Many Crooks",
-      "formatted_title": "Too Many Crooks",
-      "html_title": "<span class=\"work-title\">Too Many Crooks</span>",
+      "id": 809,
+      "slug": "sam",
+      "title": "Sam",
+      "formatted_title": "Sam",
+      "html_title": "<span class=\"work-title\">Sam</span>",
       "work_type": "novel",
-      "publication_year": 1918,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
-      "id": 803,
-      "slug": "the-dark-chapter-a-comedy-of-class-distinctions",
-      "title": "The Dark Chapter, a Comedy of Class Distinctions",
-      "formatted_title": "The Dark Chapter, a Comedy of Class Distinctions",
-      "html_title": "<span class=\"work-title\">The Dark Chapter, a Comedy of Class Distinctions</span>",
-      "work_type": "novel",
-      "publication_year": 1924,
-      "adaptation_count": 2,
+      "publication_year": null,
+      "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
@@ -270,13 +259,24 @@
       "is_remake_champion": false
     },
     {
-      "id": 809,
-      "slug": "sam",
-      "title": "Sam",
-      "formatted_title": "Sam",
-      "html_title": "<span class=\"work-title\">Sam</span>",
+      "id": 810,
+      "slug": "too-many-crooks",
+      "title": "Too Many Crooks",
+      "formatted_title": "Too Many Crooks",
+      "html_title": "<span class=\"work-title\">Too Many Crooks</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1918,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 804,
+      "slug": "elope-if-you-must",
+      "title": "Elope If You Must",
+      "formatted_title": "Elope If You Must",
+      "html_title": "<span class=\"work-title\">Elope If You Must</span>",
+      "work_type": "novel",
+      "publication_year": 1920,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -292,17 +292,6 @@
       "is_remake_champion": false
     },
     {
-      "id": 804,
-      "slug": "elope-if-you-must",
-      "title": "Elope If You Must",
-      "formatted_title": "Elope If You Must",
-      "html_title": "<span class=\"work-title\">Elope If You Must</span>",
-      "work_type": "novel",
-      "publication_year": 1920,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 808,
       "slug": "the-nervous-wreck",
       "title": "The Nervous Wreck",
@@ -311,6 +300,17 @@
       "work_type": "novel",
       "publication_year": 1923,
       "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 803,
+      "slug": "the-dark-chapter-a-comedy-of-class-distinctions",
+      "title": "The Dark Chapter, a Comedy of Class Distinctions",
+      "formatted_title": "The Dark Chapter, a Comedy of Class Distinctions",
+      "html_title": "<span class=\"work-title\">The Dark Chapter, a Comedy of Class Distinctions</span>",
+      "work_type": "novel",
+      "publication_year": 1924,
+      "adaptation_count": 2,
       "is_remake_champion": false
     },
     {
@@ -337,14 +337,14 @@
     }
   ],
   "most_adapted_work": {
-    "id": 810,
-    "slug": "too-many-crooks",
-    "title": "Too Many Crooks",
-    "formatted_title": "Too Many Crooks",
-    "html_title": "<span class=\"work-title\">Too Many Crooks</span>",
+    "id": 809,
+    "slug": "sam",
+    "title": "Sam",
+    "formatted_title": "Sam",
+    "html_title": "<span class=\"work-title\">Sam</span>",
     "work_type": "novel",
-    "publication_year": 1918,
-    "adaptation_count": 2,
+    "publication_year": null,
+    "adaptation_count": 1,
     "is_remake_champion": false
   },
   "last_updated": "2025-08-17T20:09:13.756382"

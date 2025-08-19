@@ -95,6 +95,17 @@
   ],
   "adapted_works": [
     {
+      "id": 439,
+      "slug": "flaming-ramparts",
+      "title": "Flaming Ramparts",
+      "formatted_title": "Flaming Ramparts",
+      "html_title": "<span class=\"work-title\">Flaming Ramparts</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 1030,
       "slug": "rags",
       "title": "Rags",
@@ -115,27 +126,16 @@
       "publication_year": 1916,
       "adaptation_count": 1,
       "is_remake_champion": false
-    },
-    {
-      "id": 439,
-      "slug": "flaming-ramparts",
-      "title": "Flaming Ramparts",
-      "formatted_title": "Flaming Ramparts",
-      "html_title": "<span class=\"work-title\">Flaming Ramparts</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 1030,
-    "slug": "rags",
-    "title": "Rags",
-    "formatted_title": "Rags",
-    "html_title": "<span class=\"work-title\">Rags</span>",
+    "id": 439,
+    "slug": "flaming-ramparts",
+    "title": "Flaming Ramparts",
+    "formatted_title": "Flaming Ramparts",
+    "html_title": "<span class=\"work-title\">Flaming Ramparts</span>",
     "work_type": "novel",
-    "publication_year": 1915,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

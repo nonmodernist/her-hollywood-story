@@ -425,25 +425,14 @@
       "is_remake_champion": true
     },
     {
-      "id": 91,
-      "slug": "michael-ohalloran",
-      "title": "Michael O'Halloran",
-      "formatted_title": "Michael O'Halloran",
-      "html_title": "<span class=\"work-title\">Michael O'Halloran</span>",
+      "id": 132,
+      "slug": "the-harvester",
+      "title": "The Harvester",
+      "formatted_title": "The Harvester",
+      "html_title": "<span class=\"work-title\">The Harvester</span>",
       "work_type": "novel",
-      "publication_year": 1915,
-      "adaptation_count": 3,
-      "is_remake_champion": false
-    },
-    {
-      "id": 111,
-      "slug": "the-keeper-of-the-bees",
-      "title": "The Keeper of the Bees",
-      "formatted_title": "The Keeper of the Bees",
-      "html_title": "<span class=\"work-title\">The Keeper of the Bees</span>",
-      "work_type": "novel",
-      "publication_year": 1925,
-      "adaptation_count": 3,
+      "publication_year": 1911,
+      "adaptation_count": 2,
       "is_remake_champion": false
     },
     {
@@ -458,25 +447,14 @@
       "is_remake_champion": false
     },
     {
-      "id": 132,
-      "slug": "the-harvester",
-      "title": "The Harvester",
-      "formatted_title": "The Harvester",
-      "html_title": "<span class=\"work-title\">The Harvester</span>",
+      "id": 91,
+      "slug": "michael-ohalloran",
+      "title": "Michael O'Halloran",
+      "formatted_title": "Michael O'Halloran",
+      "html_title": "<span class=\"work-title\">Michael O'Halloran</span>",
       "work_type": "novel",
-      "publication_year": 1911,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
-      "id": 131,
-      "slug": "the-magic-garden",
-      "title": "The Magic Garden",
-      "formatted_title": "The Magic Garden",
-      "html_title": "<span class=\"work-title\">The Magic Garden</span>",
-      "work_type": "novel",
-      "publication_year": 1926,
-      "adaptation_count": 1,
+      "publication_year": 1915,
+      "adaptation_count": 3,
       "is_remake_champion": false
     },
     {
@@ -487,6 +465,28 @@
       "html_title": "<span class=\"work-title\">Her Father's Daughter</span>",
       "work_type": "novel",
       "publication_year": 1921,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 111,
+      "slug": "the-keeper-of-the-bees",
+      "title": "The Keeper of the Bees",
+      "formatted_title": "The Keeper of the Bees",
+      "html_title": "<span class=\"work-title\">The Keeper of the Bees</span>",
+      "work_type": "novel",
+      "publication_year": 1925,
+      "adaptation_count": 3,
+      "is_remake_champion": false
+    },
+    {
+      "id": 131,
+      "slug": "the-magic-garden",
+      "title": "The Magic Garden",
+      "formatted_title": "The Magic Garden",
+      "html_title": "<span class=\"work-title\">The Magic Garden</span>",
+      "work_type": "novel",
+      "publication_year": 1926,
       "adaptation_count": 1,
       "is_remake_champion": false
     }

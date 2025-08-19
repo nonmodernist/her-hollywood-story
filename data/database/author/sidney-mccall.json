@@ -112,6 +112,28 @@
   ],
   "adapted_works": [
     {
+      "id": 708,
+      "slug": "the-breath-of-god",
+      "title": "The Breath of God",
+      "formatted_title": "The Breath of God",
+      "html_title": "<span class=\"work-title\">The Breath of God</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 480,
+      "slug": "the-dragon-painter",
+      "title": "The Dragon Painter",
+      "formatted_title": "The Dragon Painter",
+      "html_title": "<span class=\"work-title\">The Dragon Painter</span>",
+      "work_type": "novel",
+      "publication_year": 1906,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 709,
       "slug": "red-horse-hill",
       "title": "Red Horse Hill",
@@ -132,38 +154,16 @@
       "publication_year": 1914,
       "adaptation_count": 1,
       "is_remake_champion": false
-    },
-    {
-      "id": 480,
-      "slug": "the-dragon-painter",
-      "title": "The Dragon Painter",
-      "formatted_title": "The Dragon Painter",
-      "html_title": "<span class=\"work-title\">The Dragon Painter</span>",
-      "work_type": "novel",
-      "publication_year": 1906,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 708,
-      "slug": "the-breath-of-god",
-      "title": "The Breath of God",
-      "formatted_title": "The Breath of God",
-      "html_title": "<span class=\"work-title\">The Breath of God</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 709,
-    "slug": "red-horse-hill",
-    "title": "Red Horse Hill",
-    "formatted_title": "Red Horse Hill",
-    "html_title": "<span class=\"work-title\">Red Horse Hill</span>",
+    "id": 708,
+    "slug": "the-breath-of-god",
+    "title": "The Breath of God",
+    "formatted_title": "The Breath of God",
+    "html_title": "<span class=\"work-title\">The Breath of God</span>",
     "work_type": "novel",
-    "publication_year": 1909,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

@@ -83,17 +83,6 @@
   ],
   "adapted_works": [
     {
-      "id": 538,
-      "slug": "the-devil-to-pay",
-      "title": "The Devil to Pay",
-      "formatted_title": "The Devil to Pay",
-      "html_title": "<span class=\"work-title\">The Devil to Pay</span>",
-      "work_type": "novel",
-      "publication_year": 1918,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 539,
       "slug": "one-clear-call",
       "title": "One Clear Call",
@@ -103,16 +92,27 @@
       "publication_year": 1914,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 538,
+      "slug": "the-devil-to-pay",
+      "title": "The Devil to Pay",
+      "formatted_title": "The Devil to Pay",
+      "html_title": "<span class=\"work-title\">The Devil to Pay</span>",
+      "work_type": "novel",
+      "publication_year": 1918,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 538,
-    "slug": "the-devil-to-pay",
-    "title": "The Devil to Pay",
-    "formatted_title": "The Devil to Pay",
-    "html_title": "<span class=\"work-title\">The Devil to Pay</span>",
+    "id": 539,
+    "slug": "one-clear-call",
+    "title": "One Clear Call",
+    "formatted_title": "One Clear Call",
+    "html_title": "<span class=\"work-title\">One Clear Call</span>",
     "work_type": "novel",
-    "publication_year": 1918,
+    "publication_year": 1914,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

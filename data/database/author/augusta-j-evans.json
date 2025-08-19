@@ -116,17 +116,6 @@
   ],
   "adapted_works": [
     {
-      "id": 476,
-      "slug": "st-elmo",
-      "title": "St. Elmo",
-      "formatted_title": "St. Elmo",
-      "html_title": "<span class=\"work-title\">St. Elmo</span>",
-      "work_type": "novel",
-      "publication_year": 1866,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
       "id": 981,
       "slug": "beulah",
       "title": "Beulah",
@@ -135,6 +124,17 @@
       "work_type": "novel",
       "publication_year": 1860,
       "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 476,
+      "slug": "st-elmo",
+      "title": "St. Elmo",
+      "formatted_title": "St. Elmo",
+      "html_title": "<span class=\"work-title\">St. Elmo</span>",
+      "work_type": "novel",
+      "publication_year": 1866,
+      "adaptation_count": 2,
       "is_remake_champion": false
     },
     {
@@ -150,14 +150,14 @@
     }
   ],
   "most_adapted_work": {
-    "id": 476,
-    "slug": "st-elmo",
-    "title": "St. Elmo",
-    "formatted_title": "St. Elmo",
-    "html_title": "<span class=\"work-title\">St. Elmo</span>",
+    "id": 981,
+    "slug": "beulah",
+    "title": "Beulah",
+    "formatted_title": "Beulah",
+    "html_title": "<span class=\"work-title\">Beulah</span>",
     "work_type": "novel",
-    "publication_year": 1866,
-    "adaptation_count": 2,
+    "publication_year": 1860,
+    "adaptation_count": 1,
     "is_remake_champion": false
   },
   "last_updated": "2025-08-04T17:06:35.659603"

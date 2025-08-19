@@ -147,17 +147,6 @@
       "is_remake_champion": false
     },
     {
-      "id": 296,
-      "slug": "hotel-berlin",
-      "title": "Hotel Berlin",
-      "formatted_title": "Hotel Berlin",
-      "html_title": "<span class=\"work-title\">Hotel Berlin</span>",
-      "work_type": "novel",
-      "publication_year": 1943,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 297,
       "slug": "the-big-shot",
       "title": "The Big Shot",
@@ -165,6 +154,17 @@
       "html_title": "<span class=\"work-title short-story\">\"The Big Shot\"</span>",
       "work_type": "short_story",
       "publication_year": 1936,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 296,
+      "slug": "hotel-berlin",
+      "title": "Hotel Berlin",
+      "formatted_title": "Hotel Berlin",
+      "html_title": "<span class=\"work-title\">Hotel Berlin</span>",
+      "work_type": "novel",
+      "publication_year": 1943,
       "adaptation_count": 1,
       "is_remake_champion": false
     },

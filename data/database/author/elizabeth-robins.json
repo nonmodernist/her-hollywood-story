@@ -80,17 +80,6 @@
   ],
   "adapted_works": [
     {
-      "id": 853,
-      "slug": "my-little-sister",
-      "title": "My Little Sister",
-      "formatted_title": "My Little Sister",
-      "html_title": "<span class=\"work-title\">My Little Sister</span>",
-      "work_type": "novel",
-      "publication_year": 1913,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 852,
       "slug": "a-dark-lantern",
       "title": "A Dark Lantern",
@@ -100,16 +89,27 @@
       "publication_year": 1905,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 853,
+      "slug": "my-little-sister",
+      "title": "My Little Sister",
+      "formatted_title": "My Little Sister",
+      "html_title": "<span class=\"work-title\">My Little Sister</span>",
+      "work_type": "novel",
+      "publication_year": 1913,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 853,
-    "slug": "my-little-sister",
-    "title": "My Little Sister",
-    "formatted_title": "My Little Sister",
-    "html_title": "<span class=\"work-title\">My Little Sister</span>",
+    "id": 852,
+    "slug": "a-dark-lantern",
+    "title": "A Dark Lantern",
+    "formatted_title": "A Dark Lantern",
+    "html_title": "<span class=\"work-title\">A Dark Lantern</span>",
     "work_type": "novel",
-    "publication_year": 1913,
+    "publication_year": 1905,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

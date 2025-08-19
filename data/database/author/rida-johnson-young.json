@@ -121,14 +121,14 @@
   ],
   "adapted_works": [
     {
-      "id": 1005,
-      "slug": "brown-of-harvard",
-      "title": "Brown of Harvard",
-      "formatted_title": "Brown of Harvard",
-      "html_title": "<span class=\"work-title\">Brown of Harvard</span>",
+      "id": 1007,
+      "slug": "out-of-the-night",
+      "title": "Out of the Night",
+      "formatted_title": "Out of the Night",
+      "html_title": "<span class=\"work-title\">Out of the Night</span>",
       "work_type": "novel",
-      "publication_year": 1907,
-      "adaptation_count": 2,
+      "publication_year": null,
+      "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
@@ -143,26 +143,26 @@
       "is_remake_champion": false
     },
     {
-      "id": 1007,
-      "slug": "out-of-the-night",
-      "title": "Out of the Night",
-      "formatted_title": "Out of the Night",
-      "html_title": "<span class=\"work-title\">Out of the Night</span>",
+      "id": 1005,
+      "slug": "brown-of-harvard",
+      "title": "Brown of Harvard",
+      "formatted_title": "Brown of Harvard",
+      "html_title": "<span class=\"work-title\">Brown of Harvard</span>",
       "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
+      "publication_year": 1907,
+      "adaptation_count": 2,
       "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 1005,
-    "slug": "brown-of-harvard",
-    "title": "Brown of Harvard",
-    "formatted_title": "Brown of Harvard",
-    "html_title": "<span class=\"work-title\">Brown of Harvard</span>",
+    "id": 1007,
+    "slug": "out-of-the-night",
+    "title": "Out of the Night",
+    "formatted_title": "Out of the Night",
+    "html_title": "<span class=\"work-title\">Out of the Night</span>",
     "work_type": "novel",
-    "publication_year": 1907,
-    "adaptation_count": 2,
+    "publication_year": null,
+    "adaptation_count": 1,
     "is_remake_champion": false
   },
   "last_updated": "2025-08-04T17:06:35.659603"

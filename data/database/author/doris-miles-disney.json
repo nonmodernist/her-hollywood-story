@@ -83,17 +83,6 @@
   ],
   "adapted_works": [
     {
-      "id": 447,
-      "slug": "family-skeleton",
-      "title": "Family Skeleton",
-      "formatted_title": "Family Skeleton",
-      "html_title": "<span class=\"work-title\">Family Skeleton</span>",
-      "work_type": "novel",
-      "publication_year": 1949,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 448,
       "slug": "fugitive-lady",
       "title": "Fugitive Lady",
@@ -103,16 +92,27 @@
       "publication_year": 1946,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 447,
+      "slug": "family-skeleton",
+      "title": "Family Skeleton",
+      "formatted_title": "Family Skeleton",
+      "html_title": "<span class=\"work-title\">Family Skeleton</span>",
+      "work_type": "novel",
+      "publication_year": 1949,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 447,
-    "slug": "family-skeleton",
-    "title": "Family Skeleton",
-    "formatted_title": "Family Skeleton",
-    "html_title": "<span class=\"work-title\">Family Skeleton</span>",
+    "id": 448,
+    "slug": "fugitive-lady",
+    "title": "Fugitive Lady",
+    "formatted_title": "Fugitive Lady",
+    "html_title": "<span class=\"work-title\">Fugitive Lady</span>",
     "work_type": "novel",
-    "publication_year": 1949,
+    "publication_year": 1946,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

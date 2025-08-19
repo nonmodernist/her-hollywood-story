@@ -79,17 +79,6 @@
   ],
   "adapted_works": [
     {
-      "id": 578,
-      "slug": "the-unafraid",
-      "title": "The Unafraid",
-      "formatted_title": "The Unafraid",
-      "html_title": "<span class=\"work-title\">The Unafraid</span>",
-      "work_type": "novel",
-      "publication_year": 1913,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 577,
       "slug": "the-house-of-little-shoes",
       "title": "The House of Little Shoes",
@@ -99,16 +88,27 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 578,
+      "slug": "the-unafraid",
+      "title": "The Unafraid",
+      "formatted_title": "The Unafraid",
+      "html_title": "<span class=\"work-title\">The Unafraid</span>",
+      "work_type": "novel",
+      "publication_year": 1913,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 578,
-    "slug": "the-unafraid",
-    "title": "The Unafraid",
-    "formatted_title": "The Unafraid",
-    "html_title": "<span class=\"work-title\">The Unafraid</span>",
+    "id": 577,
+    "slug": "the-house-of-little-shoes",
+    "title": "The House of Little Shoes",
+    "formatted_title": "The House of Little Shoes",
+    "html_title": "<span class=\"work-title\">The House of Little Shoes</span>",
     "work_type": "novel",
-    "publication_year": 1913,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

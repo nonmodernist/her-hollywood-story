@@ -83,17 +83,6 @@
   ],
   "adapted_works": [
     {
-      "id": 303,
-      "slug": "meet-me-in-st-louis",
-      "title": "Meet Me in St. Louis",
-      "formatted_title": "Meet Me in St. Louis",
-      "html_title": "<span class=\"work-title\">Meet Me in St. Louis</span>",
-      "work_type": "novel",
-      "publication_year": 1942,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 302,
       "slug": "junior-miss",
       "title": "Junior Miss",
@@ -103,16 +92,27 @@
       "publication_year": 1941,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 303,
+      "slug": "meet-me-in-st-louis",
+      "title": "Meet Me in St. Louis",
+      "formatted_title": "Meet Me in St. Louis",
+      "html_title": "<span class=\"work-title\">Meet Me in St. Louis</span>",
+      "work_type": "novel",
+      "publication_year": 1942,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 303,
-    "slug": "meet-me-in-st-louis",
-    "title": "Meet Me in St. Louis",
-    "formatted_title": "Meet Me in St. Louis",
-    "html_title": "<span class=\"work-title\">Meet Me in St. Louis</span>",
-    "work_type": "novel",
-    "publication_year": 1942,
+    "id": 302,
+    "slug": "junior-miss",
+    "title": "Junior Miss",
+    "formatted_title": "\"Junior Miss\"",
+    "html_title": "<span class=\"work-title short-story\">\"Junior Miss\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1941,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

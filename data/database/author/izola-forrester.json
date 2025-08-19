@@ -131,6 +131,39 @@
   ],
   "adapted_works": [
     {
+      "id": 504,
+      "slug": "restless-wives",
+      "title": "Restless Wives",
+      "formatted_title": "Restless Wives",
+      "html_title": "<span class=\"work-title\">Restless Wives</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 505,
+      "slug": "salvage",
+      "title": "Salvage",
+      "formatted_title": "Salvage",
+      "html_title": "<span class=\"work-title\">Salvage</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 503,
+      "slug": "the-gray-path",
+      "title": "The Gray Path",
+      "formatted_title": "The Gray Path",
+      "html_title": "<span class=\"work-title\">The Gray Path</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 502,
       "slug": "the-dangerous-inheritance-or-the-mystery-of-the-tittani-rubies",
       "title": "The Dangerous Inheritance; or, the Mystery of the Tittani\nRubies",
@@ -151,49 +184,16 @@
       "publication_year": 1923,
       "adaptation_count": 1,
       "is_remake_champion": false
-    },
-    {
-      "id": 504,
-      "slug": "restless-wives",
-      "title": "Restless Wives",
-      "formatted_title": "Restless Wives",
-      "html_title": "<span class=\"work-title\">Restless Wives</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 503,
-      "slug": "the-gray-path",
-      "title": "The Gray Path",
-      "formatted_title": "The Gray Path",
-      "html_title": "<span class=\"work-title\">The Gray Path</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 505,
-      "slug": "salvage",
-      "title": "Salvage",
-      "formatted_title": "Salvage",
-      "html_title": "<span class=\"work-title\">Salvage</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 502,
-    "slug": "the-dangerous-inheritance-or-the-mystery-of-the-tittani-rubies",
-    "title": "The Dangerous Inheritance; or, the Mystery of the Tittani\nRubies",
-    "formatted_title": "The Dangerous Inheritance; or, the Mystery of the Tittani\nRubies",
-    "html_title": "<span class=\"work-title\">The Dangerous Inheritance; or, the Mystery of the Tittani\nRubies</span>",
+    "id": 504,
+    "slug": "restless-wives",
+    "title": "Restless Wives",
+    "formatted_title": "Restless Wives",
+    "html_title": "<span class=\"work-title\">Restless Wives</span>",
     "work_type": "novel",
-    "publication_year": 1920,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

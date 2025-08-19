@@ -104,17 +104,6 @@
   ],
   "adapted_works": [
     {
-      "id": 645,
-      "slug": "with-this-ring",
-      "title": "With This Ring",
-      "formatted_title": "With This Ring",
-      "html_title": "<span class=\"work-title\">With This Ring</span>",
-      "work_type": "novel",
-      "publication_year": 1925,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 644,
       "slug": "the-peacock-screen",
       "title": "The Peacock Screen",
@@ -122,6 +111,17 @@
       "html_title": "<span class=\"work-title\">The Peacock Screen</span>",
       "work_type": "novel",
       "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 645,
+      "slug": "with-this-ring",
+      "title": "With This Ring",
+      "formatted_title": "With This Ring",
+      "html_title": "<span class=\"work-title\">With This Ring</span>",
+      "work_type": "novel",
+      "publication_year": 1925,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -138,13 +138,13 @@
     }
   ],
   "most_adapted_work": {
-    "id": 645,
-    "slug": "with-this-ring",
-    "title": "With This Ring",
-    "formatted_title": "With This Ring",
-    "html_title": "<span class=\"work-title\">With This Ring</span>",
+    "id": 644,
+    "slug": "the-peacock-screen",
+    "title": "The Peacock Screen",
+    "formatted_title": "The Peacock Screen",
+    "html_title": "<span class=\"work-title\">The Peacock Screen</span>",
     "work_type": "novel",
-    "publication_year": 1925,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

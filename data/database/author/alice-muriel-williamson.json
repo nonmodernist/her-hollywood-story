@@ -226,13 +226,24 @@
   ],
   "adapted_works": [
     {
-      "id": 975,
-      "slug": "lord-john-in-new-york",
-      "title": "Lord John in New York",
-      "formatted_title": "Lord John in New York",
-      "html_title": "<span class=\"work-title\">Lord John in New York</span>",
+      "id": 45,
+      "slug": "unknown-novel",
+      "title": "Unknown Novel",
+      "formatted_title": "Unknown Novel",
+      "html_title": "<span class=\"work-title\">Unknown Novel</span>",
       "work_type": "novel",
-      "publication_year": 1915,
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 13,
+      "slug": "the-woman-who-dared",
+      "title": "The Woman Who Dared",
+      "formatted_title": "The Woman Who Dared",
+      "html_title": "<span class=\"work-title\">The Woman Who Dared</span>",
+      "work_type": "novel",
+      "publication_year": 1903,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -259,35 +270,13 @@
       "is_remake_champion": false
     },
     {
-      "id": 12,
-      "slug": "the-shop-girl",
-      "title": "The Shop Girl",
-      "formatted_title": "The Shop Girl",
-      "html_title": "<span class=\"work-title\">The Shop Girl</span>",
+      "id": 65,
+      "slug": "the-guests-of-hercules",
+      "title": "The Guests of Hercules",
+      "formatted_title": "The Guests of Hercules",
+      "html_title": "<span class=\"work-title\">The Guests of Hercules</span>",
       "work_type": "novel",
-      "publication_year": 1916,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 13,
-      "slug": "the-woman-who-dared",
-      "title": "The Woman Who Dared",
-      "formatted_title": "The Woman Who Dared",
-      "html_title": "<span class=\"work-title\">The Woman Who Dared</span>",
-      "work_type": "novel",
-      "publication_year": 1903,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 45,
-      "slug": "unknown-novel",
-      "title": "Unknown Novel",
-      "formatted_title": "Unknown Novel",
-      "html_title": "<span class=\"work-title\">Unknown Novel</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1912,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -303,13 +292,24 @@
       "is_remake_champion": false
     },
     {
-      "id": 65,
-      "slug": "the-guests-of-hercules",
-      "title": "The Guests of Hercules",
-      "formatted_title": "The Guests of Hercules",
-      "html_title": "<span class=\"work-title\">The Guests of Hercules</span>",
+      "id": 975,
+      "slug": "lord-john-in-new-york",
+      "title": "Lord John in New York",
+      "formatted_title": "Lord John in New York",
+      "html_title": "<span class=\"work-title\">Lord John in New York</span>",
       "work_type": "novel",
-      "publication_year": 1912,
+      "publication_year": 1915,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 12,
+      "slug": "the-shop-girl",
+      "title": "The Shop Girl",
+      "formatted_title": "The Shop Girl",
+      "html_title": "<span class=\"work-title\">The Shop Girl</span>",
+      "work_type": "novel",
+      "publication_year": 1916,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -337,13 +337,13 @@
     }
   ],
   "most_adapted_work": {
-    "id": 975,
-    "slug": "lord-john-in-new-york",
-    "title": "Lord John in New York",
-    "formatted_title": "Lord John in New York",
-    "html_title": "<span class=\"work-title\">Lord John in New York</span>",
+    "id": 45,
+    "slug": "unknown-novel",
+    "title": "Unknown Novel",
+    "formatted_title": "Unknown Novel",
+    "html_title": "<span class=\"work-title\">Unknown Novel</span>",
     "work_type": "novel",
-    "publication_year": 1915,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

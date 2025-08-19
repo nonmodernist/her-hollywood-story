@@ -79,17 +79,6 @@
   ],
   "adapted_works": [
     {
-      "id": 616,
-      "slug": "the-road-to-reno",
-      "title": "The Road to Reno",
-      "formatted_title": "The Road to Reno",
-      "html_title": "<span class=\"work-title\">The Road to Reno</span>",
-      "work_type": "novel",
-      "publication_year": 1931,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 615,
       "slug": "mary-stevens-md",
       "title": "Mary Stevens, M.D.",
@@ -99,16 +88,27 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 616,
+      "slug": "the-road-to-reno",
+      "title": "The Road to Reno",
+      "formatted_title": "The Road to Reno",
+      "html_title": "<span class=\"work-title\">The Road to Reno</span>",
+      "work_type": "novel",
+      "publication_year": 1931,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 616,
-    "slug": "the-road-to-reno",
-    "title": "The Road to Reno",
-    "formatted_title": "The Road to Reno",
-    "html_title": "<span class=\"work-title\">The Road to Reno</span>",
-    "work_type": "novel",
-    "publication_year": 1931,
+    "id": 615,
+    "slug": "mary-stevens-md",
+    "title": "Mary Stevens, M.D.",
+    "formatted_title": "\"Mary Stevens, M.D.\"",
+    "html_title": "<span class=\"work-title short-story\">\"Mary Stevens, M.D.\"</span>",
+    "work_type": "short_story",
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

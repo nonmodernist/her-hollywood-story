@@ -96,17 +96,6 @@
   ],
   "adapted_works": [
     {
-      "id": 914,
-      "slug": "the-failure",
-      "title": "The Failure",
-      "formatted_title": "\"The Failure\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Failure\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1932,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
       "id": 913,
       "slug": "cecilia-of-the-pink-roses",
       "title": "Cecilia of the Pink Roses",
@@ -116,17 +105,28 @@
       "publication_year": 1917,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 914,
+      "slug": "the-failure",
+      "title": "The Failure",
+      "formatted_title": "\"The Failure\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Failure\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1932,
+      "adaptation_count": 2,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 914,
-    "slug": "the-failure",
-    "title": "The Failure",
-    "formatted_title": "\"The Failure\"",
-    "html_title": "<span class=\"work-title short-story\">\"The Failure\"</span>",
-    "work_type": "short_story",
-    "publication_year": 1932,
-    "adaptation_count": 2,
+    "id": 913,
+    "slug": "cecilia-of-the-pink-roses",
+    "title": "Cecilia of the Pink Roses",
+    "formatted_title": "Cecilia of the Pink Roses",
+    "html_title": "<span class=\"work-title\">Cecilia of the Pink Roses</span>",
+    "work_type": "novel",
+    "publication_year": 1917,
+    "adaptation_count": 1,
     "is_remake_champion": false
   },
   "last_updated": "2025-08-04T17:06:35.659603"

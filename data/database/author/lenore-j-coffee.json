@@ -105,23 +105,23 @@
   ],
   "adapted_works": [
     {
-      "id": 405,
-      "slug": "the-forbidden-woman",
-      "title": "The Forbidden Woman",
-      "formatted_title": "\"The Forbidden Woman\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Forbidden Woman\"</span>",
-      "work_type": "short_story",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 407,
       "slug": "miss-aesop-butters-her-bread",
       "title": "Miss Aesop Butters Her Bread",
       "formatted_title": "Miss Aesop Butters Her Bread",
       "html_title": "<span class=\"work-title\">Miss Aesop Butters Her Bread</span>",
       "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 405,
+      "slug": "the-forbidden-woman",
+      "title": "The Forbidden Woman",
+      "formatted_title": "\"The Forbidden Woman\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Forbidden Woman\"</span>",
+      "work_type": "short_story",
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -139,12 +139,12 @@
     }
   ],
   "most_adapted_work": {
-    "id": 405,
-    "slug": "the-forbidden-woman",
-    "title": "The Forbidden Woman",
-    "formatted_title": "\"The Forbidden Woman\"",
-    "html_title": "<span class=\"work-title short-story\">\"The Forbidden Woman\"</span>",
-    "work_type": "short_story",
+    "id": 407,
+    "slug": "miss-aesop-butters-her-bread",
+    "title": "Miss Aesop Butters Her Bread",
+    "formatted_title": "Miss Aesop Butters Her Bread",
+    "html_title": "<span class=\"work-title\">Miss Aesop Butters Her Bread</span>",
+    "work_type": "novel",
     "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false

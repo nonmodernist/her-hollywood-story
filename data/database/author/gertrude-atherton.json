@@ -189,17 +189,6 @@
   ],
   "adapted_works": [
     {
-      "id": 25,
-      "slug": "mrs-balfame",
-      "title": "Mrs. Balfame",
-      "formatted_title": "Mrs. Balfame",
-      "html_title": "<span class=\"work-title\">Mrs. Balfame</span>",
-      "work_type": "novel",
-      "publication_year": 1915,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 34,
       "slug": "patience-sparhawk-and-her-times",
       "title": "Patience Sparhawk and Her Times",
@@ -207,17 +196,6 @@
       "html_title": "<span class=\"work-title\">Patience Sparhawk and Her Times</span>",
       "work_type": "novel",
       "publication_year": 1897,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 287,
-      "slug": "the-avalanche-a-mystery-story",
-      "title": "The Avalanche: A Mystery Story",
-      "formatted_title": "The Avalanche: A Mystery Story",
-      "html_title": "<span class=\"work-title\">The Avalanche: A Mystery Story</span>",
-      "work_type": "novel",
-      "publication_year": 1919,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -233,17 +211,6 @@
       "is_remake_champion": false
     },
     {
-      "id": 94,
-      "slug": "black-oxen",
-      "title": "Black Oxen",
-      "formatted_title": "Black Oxen",
-      "html_title": "<span class=\"work-title\">Black Oxen</span>",
-      "work_type": "novel",
-      "publication_year": 1923,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 134,
       "slug": "the-perch-of-the-devil",
       "title": "The Perch of the Devil",
@@ -251,6 +218,39 @@
       "html_title": "<span class=\"work-title\">The Perch of the Devil</span>",
       "work_type": "novel",
       "publication_year": 1914,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 25,
+      "slug": "mrs-balfame",
+      "title": "Mrs. Balfame",
+      "formatted_title": "Mrs. Balfame",
+      "html_title": "<span class=\"work-title\">Mrs. Balfame</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 287,
+      "slug": "the-avalanche-a-mystery-story",
+      "title": "The Avalanche: A Mystery Story",
+      "formatted_title": "The Avalanche: A Mystery Story",
+      "html_title": "<span class=\"work-title\">The Avalanche: A Mystery Story</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 94,
+      "slug": "black-oxen",
+      "title": "Black Oxen",
+      "formatted_title": "Black Oxen",
+      "html_title": "<span class=\"work-title\">Black Oxen</span>",
+      "work_type": "novel",
+      "publication_year": 1923,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -278,13 +278,13 @@
     }
   ],
   "most_adapted_work": {
-    "id": 25,
-    "slug": "mrs-balfame",
-    "title": "Mrs. Balfame",
-    "formatted_title": "Mrs. Balfame",
-    "html_title": "<span class=\"work-title\">Mrs. Balfame</span>",
+    "id": 34,
+    "slug": "patience-sparhawk-and-her-times",
+    "title": "Patience Sparhawk and Her Times",
+    "formatted_title": "Patience Sparhawk and Her Times",
+    "html_title": "<span class=\"work-title\">Patience Sparhawk and Her Times</span>",
     "work_type": "novel",
-    "publication_year": 1915,
+    "publication_year": 1897,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

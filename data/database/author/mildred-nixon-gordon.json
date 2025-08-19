@@ -100,17 +100,6 @@
   ],
   "adapted_works": [
     {
-      "id": 530,
-      "slug": "case-file-fbi",
-      "title": "Case File: FBI",
-      "formatted_title": "Case File: FBI",
-      "html_title": "<span class=\"work-title\">Case File: FBI</span>",
-      "work_type": "novel",
-      "publication_year": 1953,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 531,
       "slug": "make-haste-to-live",
       "title": "Make Haste to Live",
@@ -131,16 +120,27 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 530,
+      "slug": "case-file-fbi",
+      "title": "Case File: FBI",
+      "formatted_title": "Case File: FBI",
+      "html_title": "<span class=\"work-title\">Case File: FBI</span>",
+      "work_type": "novel",
+      "publication_year": 1953,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 530,
-    "slug": "case-file-fbi",
-    "title": "Case File: FBI",
-    "formatted_title": "Case File: FBI",
-    "html_title": "<span class=\"work-title\">Case File: FBI</span>",
+    "id": 531,
+    "slug": "make-haste-to-live",
+    "title": "Make Haste to Live",
+    "formatted_title": "Make Haste to Live",
+    "html_title": "<span class=\"work-title\">Make Haste to Live</span>",
     "work_type": "novel",
-    "publication_year": 1953,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

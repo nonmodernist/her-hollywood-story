@@ -79,17 +79,6 @@
   ],
   "adapted_works": [
     {
-      "id": 22,
-      "slug": "an-alabaster-box",
-      "title": "An Alabaster Box",
-      "formatted_title": "An Alabaster Box",
-      "html_title": "<span class=\"work-title\">An Alabaster Box</span>",
-      "work_type": "novel",
-      "publication_year": 1917,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 47,
       "slug": "madelon",
       "title": "Madelon",
@@ -99,16 +88,27 @@
       "publication_year": 1896,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 22,
+      "slug": "an-alabaster-box",
+      "title": "An Alabaster Box",
+      "formatted_title": "An Alabaster Box",
+      "html_title": "<span class=\"work-title\">An Alabaster Box</span>",
+      "work_type": "novel",
+      "publication_year": 1917,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 22,
-    "slug": "an-alabaster-box",
-    "title": "An Alabaster Box",
-    "formatted_title": "An Alabaster Box",
-    "html_title": "<span class=\"work-title\">An Alabaster Box</span>",
+    "id": 47,
+    "slug": "madelon",
+    "title": "Madelon",
+    "formatted_title": "Madelon",
+    "html_title": "<span class=\"work-title\">Madelon</span>",
     "work_type": "novel",
-    "publication_year": 1917,
+    "publication_year": 1896,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

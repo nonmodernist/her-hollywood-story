@@ -84,17 +84,6 @@
   ],
   "adapted_works": [
     {
-      "id": 992,
-      "slug": "ask-any-girl",
-      "title": "Ask Any Girl",
-      "formatted_title": "Ask Any Girl",
-      "html_title": "<span class=\"work-title\">Ask Any Girl</span>",
-      "work_type": "novel",
-      "publication_year": 1958,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 993,
       "slug": "if-a-man-answers",
       "title": "If a Man Answers",
@@ -104,16 +93,27 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 992,
+      "slug": "ask-any-girl",
+      "title": "Ask Any Girl",
+      "formatted_title": "Ask Any Girl",
+      "html_title": "<span class=\"work-title\">Ask Any Girl</span>",
+      "work_type": "novel",
+      "publication_year": 1958,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 992,
-    "slug": "ask-any-girl",
-    "title": "Ask Any Girl",
-    "formatted_title": "Ask Any Girl",
-    "html_title": "<span class=\"work-title\">Ask Any Girl</span>",
+    "id": 993,
+    "slug": "if-a-man-answers",
+    "title": "If a Man Answers",
+    "formatted_title": "If a Man Answers",
+    "html_title": "<span class=\"work-title\">If a Man Answers</span>",
     "work_type": "novel",
-    "publication_year": 1958,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

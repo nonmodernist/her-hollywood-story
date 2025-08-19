@@ -320,6 +320,28 @@
   ],
   "adapted_works": [
     {
+      "id": 456,
+      "slug": "a-story",
+      "title": "a story",
+      "formatted_title": "\"a story\"",
+      "html_title": "<span class=\"work-title short-story\">\"a story\"</span>",
+      "work_type": "short_story",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 292,
+      "slug": "rosalies-career",
+      "title": "Rosalie's Career",
+      "formatted_title": "\"Rosalie's Career\"",
+      "html_title": "<span class=\"work-title short-story\">\"Rosalie's Career\"</span>",
+      "work_type": "short_story",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 154,
       "slug": "the-office-wife",
       "title": "The Office Wife",
@@ -342,17 +364,6 @@
       "is_remake_champion": false
     },
     {
-      "id": 292,
-      "slug": "rosalies-career",
-      "title": "Rosalie's Career",
-      "formatted_title": "\"Rosalie's Career\"",
-      "html_title": "<span class=\"work-title short-story\">\"Rosalie's Career\"</span>",
-      "work_type": "short_story",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 171,
       "slug": "weekend-marriage",
       "title": "Weekend Marriage",
@@ -364,34 +375,23 @@
       "is_remake_champion": false
     },
     {
-      "id": 175,
-      "slug": "beauty",
-      "title": "Beauty",
-      "formatted_title": "Beauty",
-      "html_title": "<span class=\"work-title\">Beauty</span>",
-      "work_type": "novel",
-      "publication_year": 1933,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 197,
-      "slug": "wife-vs-secretary",
-      "title": "Wife vs. Secretary",
-      "formatted_title": "Wife vs. Secretary",
-      "html_title": "<span class=\"work-title\">Wife vs. Secretary</span>",
-      "work_type": "novella",
-      "publication_year": 1935,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 204,
       "slug": "august-week-end",
       "title": "August Week-end",
       "formatted_title": "August Week-end",
       "html_title": "<span class=\"work-title\">August Week-end</span>",
       "work_type": "novella",
+      "publication_year": 1933,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 175,
+      "slug": "beauty",
+      "title": "Beauty",
+      "formatted_title": "Beauty",
+      "html_title": "<span class=\"work-title\">Beauty</span>",
+      "work_type": "novel",
       "publication_year": 1933,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -419,24 +419,13 @@
       "is_remake_champion": false
     },
     {
-      "id": 291,
-      "slug": "portia-on-trial",
-      "title": "Portia on Trial",
-      "formatted_title": "\"Portia on Trial\"",
-      "html_title": "<span class=\"work-title short-story\">\"Portia on Trial\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1937,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 210,
-      "slug": "comet-over-broadway",
-      "title": "Comet Over Broadway",
-      "formatted_title": "Comet Over Broadway",
-      "html_title": "<span class=\"work-title\">Comet Over Broadway</span>",
+      "id": 197,
+      "slug": "wife-vs-secretary",
+      "title": "Wife vs. Secretary",
+      "formatted_title": "Wife vs. Secretary",
+      "html_title": "<span class=\"work-title\">Wife vs. Secretary</span>",
       "work_type": "novella",
-      "publication_year": 1937,
+      "publication_year": 1935,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -452,6 +441,28 @@
       "is_remake_champion": false
     },
     {
+      "id": 210,
+      "slug": "comet-over-broadway",
+      "title": "Comet Over Broadway",
+      "formatted_title": "Comet Over Broadway",
+      "html_title": "<span class=\"work-title\">Comet Over Broadway</span>",
+      "work_type": "novella",
+      "publication_year": 1937,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 291,
+      "slug": "portia-on-trial",
+      "title": "Portia on Trial",
+      "formatted_title": "\"Portia on Trial\"",
+      "html_title": "<span class=\"work-title short-story\">\"Portia on Trial\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1937,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 246,
       "slug": "an-apartment-for-jenny",
       "title": "An Apartment for Jenny",
@@ -459,17 +470,6 @@
       "html_title": "<span class=\"work-title\">An Apartment for Jenny</span>",
       "work_type": "novella",
       "publication_year": 1947,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 456,
-      "slug": "a-story",
-      "title": "a story",
-      "formatted_title": "\"a story\"",
-      "html_title": "<span class=\"work-title short-story\">\"a story\"</span>",
-      "work_type": "short_story",
-      "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -497,13 +497,13 @@
     }
   ],
   "most_adapted_work": {
-    "id": 154,
-    "slug": "the-office-wife",
-    "title": "The Office Wife",
-    "formatted_title": "The Office Wife",
-    "html_title": "<span class=\"work-title\">The Office Wife</span>",
-    "work_type": "novel",
-    "publication_year": 1929,
+    "id": 456,
+    "slug": "a-story",
+    "title": "a story",
+    "formatted_title": "\"a story\"",
+    "html_title": "<span class=\"work-title short-story\">\"a story\"</span>",
+    "work_type": "short_story",
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

@@ -119,6 +119,17 @@
   ],
   "adapted_works": [
     {
+      "id": 996,
+      "slug": "the-black-pearl",
+      "title": "The Black Pearl",
+      "formatted_title": "The Black Pearl",
+      "html_title": "<span class=\"work-title\">The Black Pearl</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 998,
       "slug": "the-hornets-nest",
       "title": "The Hornet's Nest",
@@ -141,17 +152,6 @@
       "is_remake_champion": false
     },
     {
-      "id": 996,
-      "slug": "the-black-pearl",
-      "title": "The Black Pearl",
-      "formatted_title": "The Black Pearl",
-      "html_title": "<span class=\"work-title\">The Black Pearl</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 997,
       "slug": "burned-evidence",
       "title": "Burned Evidence",
@@ -164,11 +164,11 @@
     }
   ],
   "most_adapted_work": {
-    "id": 998,
-    "slug": "the-hornets-nest",
-    "title": "The Hornet's Nest",
-    "formatted_title": "The Hornet's Nest",
-    "html_title": "<span class=\"work-title\">The Hornet's Nest</span>",
+    "id": 996,
+    "slug": "the-black-pearl",
+    "title": "The Black Pearl",
+    "formatted_title": "The Black Pearl",
+    "html_title": "<span class=\"work-title\">The Black Pearl</span>",
     "work_type": "novel",
     "publication_year": null,
     "adaptation_count": 1,

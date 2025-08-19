@@ -237,66 +237,11 @@
   ],
   "adapted_works": [
     {
-      "id": 951,
-      "slug": "footlights",
-      "title": "Footlights",
-      "formatted_title": "\"Footlights\"",
-      "html_title": "<span class=\"work-title short-story\">\"Footlights\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1919,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
-      "id": 950,
-      "slug": "curtain",
-      "title": "Curtain",
-      "formatted_title": "\"Curtain\"",
-      "html_title": "<span class=\"work-title short-story\">\"Curtain\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1919,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 952,
       "slug": "madame-peacock",
       "title": "Madame Peacock",
       "formatted_title": "Madame Peacock",
       "html_title": "<span class=\"work-title\">Madame Peacock</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 955,
-      "slug": "the-stage-door",
-      "title": "The Stage Door",
-      "formatted_title": "The Stage Door",
-      "html_title": "<span class=\"work-title\">The Stage Door</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 957,
-      "slug": "upstage",
-      "title": "Upstage",
-      "formatted_title": "Upstage",
-      "html_title": "<span class=\"work-title\">Upstage</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 956,
-      "slug": "to-whom-it-may-concern",
-      "title": "To Whom it May Concern",
-      "formatted_title": "To Whom it May Concern",
-      "html_title": "<span class=\"work-title\">To Whom it May Concern</span>",
       "work_type": "novel",
       "publication_year": null,
       "adaptation_count": 1,
@@ -314,11 +259,33 @@
       "is_remake_champion": false
     },
     {
+      "id": 954,
+      "slug": "one-mans-secret",
+      "title": "One Man's Secret",
+      "formatted_title": "One Man's Secret",
+      "html_title": "<span class=\"work-title\">One Man's Secret</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 959,
       "slug": "the-presidents-mystery",
       "title": "The President's Mystery",
       "formatted_title": "The President's Mystery",
       "html_title": "<span class=\"work-title\">The President's Mystery</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 955,
+      "slug": "the-stage-door",
+      "title": "The Stage Door",
+      "formatted_title": "The Stage Door",
+      "html_title": "<span class=\"work-title\">The Stage Door</span>",
       "work_type": "novel",
       "publication_year": null,
       "adaptation_count": 1,
@@ -336,26 +303,59 @@
       "is_remake_champion": false
     },
     {
-      "id": 954,
-      "slug": "one-mans-secret",
-      "title": "One Man's Secret",
-      "formatted_title": "One Man's Secret",
-      "html_title": "<span class=\"work-title\">One Man's Secret</span>",
+      "id": 956,
+      "slug": "to-whom-it-may-concern",
+      "title": "To Whom it May Concern",
+      "formatted_title": "To Whom it May Concern",
+      "html_title": "<span class=\"work-title\">To Whom it May Concern</span>",
       "work_type": "novel",
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 957,
+      "slug": "upstage",
+      "title": "Upstage",
+      "formatted_title": "Upstage",
+      "html_title": "<span class=\"work-title\">Upstage</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 950,
+      "slug": "curtain",
+      "title": "Curtain",
+      "formatted_title": "\"Curtain\"",
+      "html_title": "<span class=\"work-title short-story\">\"Curtain\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1919,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 951,
+      "slug": "footlights",
+      "title": "Footlights",
+      "formatted_title": "\"Footlights\"",
+      "html_title": "<span class=\"work-title short-story\">\"Footlights\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1919,
+      "adaptation_count": 2,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 951,
-    "slug": "footlights",
-    "title": "Footlights",
-    "formatted_title": "\"Footlights\"",
-    "html_title": "<span class=\"work-title short-story\">\"Footlights\"</span>",
-    "work_type": "short_story",
-    "publication_year": 1919,
-    "adaptation_count": 2,
+    "id": 952,
+    "slug": "madame-peacock",
+    "title": "Madame Peacock",
+    "formatted_title": "Madame Peacock",
+    "html_title": "<span class=\"work-title\">Madame Peacock</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "adaptation_count": 1,
     "is_remake_champion": false
   },
   "last_updated": "2025-08-04T17:06:35.659603"

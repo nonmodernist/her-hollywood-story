@@ -84,17 +84,6 @@
   ],
   "adapted_works": [
     {
-      "id": 550,
-      "slug": "making-her-his-wife",
-      "title": "Making Her His Wife",
-      "formatted_title": "Making Her His Wife",
-      "html_title": "<span class=\"work-title\">Making Her His Wife</span>",
-      "work_type": "novel",
-      "publication_year": 1918,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 549,
       "slug": "circuit-riders-wife",
       "title": "Circuit Rider's Wife",
@@ -104,16 +93,27 @@
       "publication_year": 1911,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 550,
+      "slug": "making-her-his-wife",
+      "title": "Making Her His Wife",
+      "formatted_title": "Making Her His Wife",
+      "html_title": "<span class=\"work-title\">Making Her His Wife</span>",
+      "work_type": "novel",
+      "publication_year": 1918,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 550,
-    "slug": "making-her-his-wife",
-    "title": "Making Her His Wife",
-    "formatted_title": "Making Her His Wife",
-    "html_title": "<span class=\"work-title\">Making Her His Wife</span>",
+    "id": 549,
+    "slug": "circuit-riders-wife",
+    "title": "Circuit Rider's Wife",
+    "formatted_title": "Circuit Rider's Wife",
+    "html_title": "<span class=\"work-title\">Circuit Rider's Wife</span>",
     "work_type": "novel",
-    "publication_year": 1918,
+    "publication_year": 1911,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

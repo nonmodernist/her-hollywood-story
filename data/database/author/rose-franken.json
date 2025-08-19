@@ -99,17 +99,6 @@
   ],
   "adapted_works": [
     {
-      "id": 230,
-      "slug": "claudia",
-      "title": "Claudia",
-      "formatted_title": "Claudia",
-      "html_title": "<span class=\"work-title\">Claudia</span>",
-      "work_type": "novel",
-      "publication_year": 1942,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 239,
       "slug": "claudia-and-david",
       "title": "Claudia and David",
@@ -117,6 +106,17 @@
       "html_title": "<span class=\"work-title\">Claudia and David</span>",
       "work_type": "novel",
       "publication_year": 1940,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 230,
+      "slug": "claudia",
+      "title": "Claudia",
+      "formatted_title": "Claudia",
+      "html_title": "<span class=\"work-title\">Claudia</span>",
+      "work_type": "novel",
+      "publication_year": 1942,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -133,13 +133,13 @@
     }
   ],
   "most_adapted_work": {
-    "id": 230,
-    "slug": "claudia",
-    "title": "Claudia",
-    "formatted_title": "Claudia",
-    "html_title": "<span class=\"work-title\">Claudia</span>",
+    "id": 239,
+    "slug": "claudia-and-david",
+    "title": "Claudia and David",
+    "formatted_title": "Claudia and David",
+    "html_title": "<span class=\"work-title\">Claudia and David</span>",
     "work_type": "novel",
-    "publication_year": 1942,
+    "publication_year": 1940,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

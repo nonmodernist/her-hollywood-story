@@ -83,17 +83,6 @@
   ],
   "adapted_works": [
     {
-      "id": 864,
-      "slug": "the-frightened-stiff",
-      "title": "The Frightened Stiff",
-      "formatted_title": "The Frightened Stiff",
-      "html_title": "<span class=\"work-title\">The Frightened Stiff</span>",
-      "work_type": "novel",
-      "publication_year": 1942,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 865,
       "slug": "if-the-shroud-fits",
       "title": "If the Shroud Fits",
@@ -103,16 +92,27 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 864,
+      "slug": "the-frightened-stiff",
+      "title": "The Frightened Stiff",
+      "formatted_title": "The Frightened Stiff",
+      "html_title": "<span class=\"work-title\">The Frightened Stiff</span>",
+      "work_type": "novel",
+      "publication_year": 1942,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 864,
-    "slug": "the-frightened-stiff",
-    "title": "The Frightened Stiff",
-    "formatted_title": "The Frightened Stiff",
-    "html_title": "<span class=\"work-title\">The Frightened Stiff</span>",
+    "id": 865,
+    "slug": "if-the-shroud-fits",
+    "title": "If the Shroud Fits",
+    "formatted_title": "If the Shroud Fits",
+    "html_title": "<span class=\"work-title\">If the Shroud Fits</span>",
     "work_type": "novel",
-    "publication_year": 1942,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

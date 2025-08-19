@@ -102,6 +102,17 @@
   ],
   "adapted_works": [
     {
+      "id": 160,
+      "slug": "the-dude-wrangler",
+      "title": "The Dude Wrangler",
+      "formatted_title": "The Dude Wrangler",
+      "html_title": "<span class=\"work-title\">The Dude Wrangler</span>",
+      "work_type": "novella",
+      "publication_year": 1907,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 17,
       "slug": "the-man-from-the-bitter-roots",
       "title": "The Man from the Bitter Roots",
@@ -122,27 +133,16 @@
       "publication_year": 1919,
       "adaptation_count": 1,
       "is_remake_champion": false
-    },
-    {
-      "id": 160,
-      "slug": "the-dude-wrangler",
-      "title": "The Dude Wrangler",
-      "formatted_title": "The Dude Wrangler",
-      "html_title": "<span class=\"work-title\">The Dude Wrangler</span>",
-      "work_type": "novella",
-      "publication_year": 1907,
-      "adaptation_count": 1,
-      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 17,
-    "slug": "the-man-from-the-bitter-roots",
-    "title": "The Man from the Bitter Roots",
-    "formatted_title": "The Man from the Bitter Roots",
-    "html_title": "<span class=\"work-title\">The Man from the Bitter Roots</span>",
-    "work_type": "novel",
-    "publication_year": 1915,
+    "id": 160,
+    "slug": "the-dude-wrangler",
+    "title": "The Dude Wrangler",
+    "formatted_title": "The Dude Wrangler",
+    "html_title": "<span class=\"work-title\">The Dude Wrangler</span>",
+    "work_type": "novella",
+    "publication_year": 1907,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

@@ -80,17 +80,6 @@
   ],
   "adapted_works": [
     {
-      "id": 571,
-      "slug": "the-spice-of-life",
-      "title": "The Spice of Life",
-      "formatted_title": "The Spice of Life",
-      "html_title": "<span class=\"work-title\">The Spice of Life</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 570,
       "slug": "black-sheep",
       "title": "Black Sheep",
@@ -100,15 +89,26 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 571,
+      "slug": "the-spice-of-life",
+      "title": "The Spice of Life",
+      "formatted_title": "The Spice of Life",
+      "html_title": "<span class=\"work-title\">The Spice of Life</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 571,
-    "slug": "the-spice-of-life",
-    "title": "The Spice of Life",
-    "formatted_title": "The Spice of Life",
-    "html_title": "<span class=\"work-title\">The Spice of Life</span>",
-    "work_type": "novel",
+    "id": 570,
+    "slug": "black-sheep",
+    "title": "Black Sheep",
+    "formatted_title": "\"Black Sheep\"",
+    "html_title": "<span class=\"work-title short-story\">\"Black Sheep\"</span>",
+    "work_type": "short_story",
     "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false

@@ -84,17 +84,6 @@
   ],
   "adapted_works": [
     {
-      "id": 378,
-      "slug": "the-home-maker",
-      "title": "The Home-Maker",
-      "formatted_title": "The Home-Maker",
-      "html_title": "<span class=\"work-title\">The Home-Maker</span>",
-      "work_type": "novel",
-      "publication_year": 1924,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 377,
       "slug": "the-eternal-masculine",
       "title": "The Eternal Masculine",
@@ -104,16 +93,27 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 378,
+      "slug": "the-home-maker",
+      "title": "The Home-Maker",
+      "formatted_title": "The Home-Maker",
+      "html_title": "<span class=\"work-title\">The Home-Maker</span>",
+      "work_type": "novel",
+      "publication_year": 1924,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 378,
-    "slug": "the-home-maker",
-    "title": "The Home-Maker",
-    "formatted_title": "The Home-Maker",
-    "html_title": "<span class=\"work-title\">The Home-Maker</span>",
+    "id": 377,
+    "slug": "the-eternal-masculine",
+    "title": "The Eternal Masculine",
+    "formatted_title": "The Eternal Masculine",
+    "html_title": "<span class=\"work-title\">The Eternal Masculine</span>",
     "work_type": "novel",
-    "publication_year": 1924,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

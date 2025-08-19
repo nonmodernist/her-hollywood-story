@@ -95,6 +95,17 @@
   ],
   "adapted_works": [
     {
+      "id": 844,
+      "slug": "the-long-lanes-turning",
+      "title": "The Long Lane's Turning",
+      "formatted_title": "The Long Lane's Turning",
+      "html_title": "<span class=\"work-title\">The Long Lane's Turning</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 845,
       "slug": "satan-sanderson",
       "title": "Satan Sanderson",
@@ -115,27 +126,16 @@
       "publication_year": 1912,
       "adaptation_count": 1,
       "is_remake_champion": false
-    },
-    {
-      "id": 844,
-      "slug": "the-long-lanes-turning",
-      "title": "The Long Lane's Turning",
-      "formatted_title": "The Long Lane's Turning",
-      "html_title": "<span class=\"work-title\">The Long Lane's Turning</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 845,
-    "slug": "satan-sanderson",
-    "title": "Satan Sanderson",
-    "formatted_title": "Satan Sanderson",
-    "html_title": "<span class=\"work-title\">Satan Sanderson</span>",
+    "id": 844,
+    "slug": "the-long-lanes-turning",
+    "title": "The Long Lane's Turning",
+    "formatted_title": "The Long Lane's Turning",
+    "html_title": "<span class=\"work-title\">The Long Lane's Turning</span>",
     "work_type": "novel",
-    "publication_year": 1907,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

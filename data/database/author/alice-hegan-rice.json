@@ -218,24 +218,13 @@
       "is_remake_champion": true
     },
     {
-      "id": 10,
-      "slug": "a-romance-of-billy-goat-hill",
-      "title": "A Romance of Billy-Goat Hill",
-      "formatted_title": "A Romance of Billy-Goat Hill",
-      "html_title": "<span class=\"work-title\">A Romance of Billy-Goat Hill</span>",
+      "id": 121,
+      "slug": "lovey-mary",
+      "title": "Lovey Mary",
+      "formatted_title": "Lovey Mary",
+      "html_title": "<span class=\"work-title\">Lovey Mary</span>",
       "work_type": "novel",
-      "publication_year": 1912,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 26,
-      "slug": "mr-opp",
-      "title": "Mr. Opp",
-      "formatted_title": "Mr. Opp",
-      "html_title": "<span class=\"work-title\">Mr. Opp</span>",
-      "work_type": "novel",
-      "publication_year": 1909,
+      "publication_year": 1903,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -251,6 +240,28 @@
       "is_remake_champion": false
     },
     {
+      "id": 26,
+      "slug": "mr-opp",
+      "title": "Mr. Opp",
+      "formatted_title": "Mr. Opp",
+      "html_title": "<span class=\"work-title\">Mr. Opp</span>",
+      "work_type": "novel",
+      "publication_year": 1909,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 10,
+      "slug": "a-romance-of-billy-goat-hill",
+      "title": "A Romance of Billy-Goat Hill",
+      "formatted_title": "A Romance of Billy-Goat Hill",
+      "html_title": "<span class=\"work-title\">A Romance of Billy-Goat Hill</span>",
+      "work_type": "novel",
+      "publication_year": 1912,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 32,
       "slug": "calvary-alley",
       "title": "Calvary Alley",
@@ -258,17 +269,6 @@
       "html_title": "<span class=\"work-title\">Calvary Alley</span>",
       "work_type": "novel",
       "publication_year": 1917,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 121,
-      "slug": "lovey-mary",
-      "title": "Lovey Mary",
-      "formatted_title": "Lovey Mary",
-      "html_title": "<span class=\"work-title\">Lovey Mary</span>",
-      "work_type": "novel",
-      "publication_year": 1903,
       "adaptation_count": 1,
       "is_remake_champion": false
     }

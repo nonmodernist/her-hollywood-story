@@ -83,17 +83,6 @@
   ],
   "adapted_works": [
     {
-      "id": 916,
-      "slug": "the-wild-fawn",
-      "title": "The Wild Fawn",
-      "formatted_title": "\"The Wild Fawn\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Wild Fawn\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1919,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 915,
       "slug": "candle-in-the-wind",
       "title": "Candle in the Wind",
@@ -103,15 +92,26 @@
       "publication_year": 1919,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 916,
+      "slug": "the-wild-fawn",
+      "title": "The Wild Fawn",
+      "formatted_title": "\"The Wild Fawn\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Wild Fawn\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1919,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 916,
-    "slug": "the-wild-fawn",
-    "title": "The Wild Fawn",
-    "formatted_title": "\"The Wild Fawn\"",
-    "html_title": "<span class=\"work-title short-story\">\"The Wild Fawn\"</span>",
-    "work_type": "short_story",
+    "id": 915,
+    "slug": "candle-in-the-wind",
+    "title": "Candle in the Wind",
+    "formatted_title": "Candle in the Wind",
+    "html_title": "<span class=\"work-title\">Candle in the Wind</span>",
+    "work_type": "novel",
     "publication_year": 1919,
     "adaptation_count": 1,
     "is_remake_champion": false

@@ -110,17 +110,6 @@
   ],
   "adapted_works": [
     {
-      "id": 163,
-      "slug": "basquerie",
-      "title": "Basquerie",
-      "formatted_title": "Basquerie",
-      "html_title": "<span class=\"work-title\">Basquerie</span>",
-      "work_type": "novella",
-      "publication_year": 1926,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
       "id": 31,
       "slug": "kildares-of-storm",
       "title": "Kildares of Storm",
@@ -130,17 +119,28 @@
       "publication_year": 1916,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 163,
+      "slug": "basquerie",
+      "title": "Basquerie",
+      "formatted_title": "Basquerie",
+      "html_title": "<span class=\"work-title\">Basquerie</span>",
+      "work_type": "novella",
+      "publication_year": 1926,
+      "adaptation_count": 2,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 163,
-    "slug": "basquerie",
-    "title": "Basquerie",
-    "formatted_title": "Basquerie",
-    "html_title": "<span class=\"work-title\">Basquerie</span>",
-    "work_type": "novella",
-    "publication_year": 1926,
-    "adaptation_count": 2,
+    "id": 31,
+    "slug": "kildares-of-storm",
+    "title": "Kildares of Storm",
+    "formatted_title": "Kildares of Storm",
+    "html_title": "<span class=\"work-title\">Kildares of Storm</span>",
+    "work_type": "novel",
+    "publication_year": 1916,
+    "adaptation_count": 1,
     "is_remake_champion": false
   },
   "last_updated": "2025-08-04T17:06:35.659603"

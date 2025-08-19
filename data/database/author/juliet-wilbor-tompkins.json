@@ -120,28 +120,6 @@
   ],
   "adapted_works": [
     {
-      "id": 926,
-      "slug": "a-girl-named-mary",
-      "title": "A Girl Named Mary",
-      "formatted_title": "A Girl Named Mary",
-      "html_title": "<span class=\"work-title\">A Girl Named Mary</span>",
-      "work_type": "novel",
-      "publication_year": 1918,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 928,
-      "slug": "the-two-benjamins",
-      "title": "The Two Benjamins",
-      "formatted_title": "The Two Benjamins",
-      "html_title": "<span class=\"work-title\">The Two Benjamins</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 921,
       "slug": "fanny-foley-herself",
       "title": "Fanny Foley Herself",
@@ -162,16 +140,38 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 928,
+      "slug": "the-two-benjamins",
+      "title": "The Two Benjamins",
+      "formatted_title": "The Two Benjamins",
+      "html_title": "<span class=\"work-title\">The Two Benjamins</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 926,
+      "slug": "a-girl-named-mary",
+      "title": "A Girl Named Mary",
+      "formatted_title": "A Girl Named Mary",
+      "html_title": "<span class=\"work-title\">A Girl Named Mary</span>",
+      "work_type": "novel",
+      "publication_year": 1918,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 926,
-    "slug": "a-girl-named-mary",
-    "title": "A Girl Named Mary",
-    "formatted_title": "A Girl Named Mary",
-    "html_title": "<span class=\"work-title\">A Girl Named Mary</span>",
+    "id": 921,
+    "slug": "fanny-foley-herself",
+    "title": "Fanny Foley Herself",
+    "formatted_title": "Fanny Foley Herself",
+    "html_title": "<span class=\"work-title\">Fanny Foley Herself</span>",
     "work_type": "novel",
-    "publication_year": 1918,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

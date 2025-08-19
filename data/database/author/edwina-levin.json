@@ -120,6 +120,17 @@
   ],
   "adapted_works": [
     {
+      "id": 657,
+      "slug": "false-gods",
+      "title": "False Gods",
+      "formatted_title": "False Gods",
+      "html_title": "<span class=\"work-title\">False Gods</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 658,
       "slug": "happiness-a-la-mode",
       "title": "Happiness a La Mode",
@@ -151,25 +162,14 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
-    },
-    {
-      "id": 657,
-      "slug": "false-gods",
-      "title": "False Gods",
-      "formatted_title": "False Gods",
-      "html_title": "<span class=\"work-title\">False Gods</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 658,
-    "slug": "happiness-a-la-mode",
-    "title": "Happiness a La Mode",
-    "formatted_title": "Happiness a La Mode",
-    "html_title": "<span class=\"work-title\">Happiness a La Mode</span>",
+    "id": 657,
+    "slug": "false-gods",
+    "title": "False Gods",
+    "formatted_title": "False Gods",
+    "html_title": "<span class=\"work-title\">False Gods</span>",
     "work_type": "novel",
     "publication_year": null,
     "adaptation_count": 1,

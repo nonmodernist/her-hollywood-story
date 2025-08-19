@@ -495,58 +495,47 @@
   ],
   "adapted_works": [
     {
-      "id": 185,
-      "slug": "back-street",
-      "title": "Back Street",
-      "formatted_title": "Back Street",
-      "html_title": "<span class=\"work-title\">Back Street</span>",
-      "work_type": "novel",
-      "publication_year": 1930,
-      "adaptation_count": 4,
-      "is_remake_champion": true
-    },
-    {
-      "id": 213,
-      "slug": "sister-act",
-      "title": "Sister Act",
-      "formatted_title": "Sister Act",
-      "html_title": "<span class=\"work-title\">Sister Act</span>",
-      "work_type": "novella",
-      "publication_year": 1937,
-      "adaptation_count": 4,
-      "is_remake_champion": true
-    },
-    {
-      "id": 60,
-      "slug": "humoresque",
-      "title": "Humoresque",
-      "formatted_title": "Humoresque",
-      "html_title": "<span class=\"work-title\">Humoresque</span>",
-      "work_type": "novella",
-      "publication_year": 1919,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
-      "id": 87,
-      "slug": "back-pay",
-      "title": "Back Pay",
-      "formatted_title": "\"Back Pay\"",
-      "html_title": "<span class=\"work-title short-story\">\"Back Pay\"</span>",
+      "id": 179,
+      "slug": "night-bell",
+      "title": "Night Bell",
+      "formatted_title": "\"Night Bell\"",
+      "html_title": "<span class=\"work-title short-story\">\"Night Bell\"</span>",
       "work_type": "short_story",
-      "publication_year": 1919,
-      "adaptation_count": 2,
+      "publication_year": null,
+      "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
-      "id": 191,
-      "slug": "imitation-of-life",
-      "title": "Imitation of Life",
-      "formatted_title": "Imitation of Life",
-      "html_title": "<span class=\"work-title\">Imitation of Life</span>",
-      "work_type": "novel",
-      "publication_year": 1933,
-      "adaptation_count": 2,
+      "id": 75,
+      "slug": "superman",
+      "title": "Superman",
+      "formatted_title": "\"Superman\"",
+      "html_title": "<span class=\"work-title short-story\">\"Superman\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1914,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 86,
+      "slug": "the-good-provider",
+      "title": "The Good Provider",
+      "formatted_title": "\"The Good Provider\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Good Provider\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1914,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 97,
+      "slug": "the-nth-commandment",
+      "title": "The Nth Commandment",
+      "formatted_title": "\"The Nth Commandment\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Nth Commandment\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1914,
+      "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
@@ -583,14 +572,25 @@
       "is_remake_champion": false
     },
     {
-      "id": 75,
-      "slug": "superman",
-      "title": "Superman",
-      "formatted_title": "\"Superman\"",
-      "html_title": "<span class=\"work-title short-story\">\"Superman\"</span>",
+      "id": 87,
+      "slug": "back-pay",
+      "title": "Back Pay",
+      "formatted_title": "\"Back Pay\"",
+      "html_title": "<span class=\"work-title short-story\">\"Back Pay\"</span>",
       "work_type": "short_story",
-      "publication_year": 1914,
-      "adaptation_count": 1,
+      "publication_year": 1919,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 60,
+      "slug": "humoresque",
+      "title": "Humoresque",
+      "formatted_title": "Humoresque",
+      "html_title": "<span class=\"work-title\">Humoresque</span>",
+      "work_type": "novella",
+      "publication_year": 1919,
+      "adaptation_count": 2,
       "is_remake_champion": false
     },
     {
@@ -601,39 +601,6 @@
       "html_title": "<span class=\"work-title\">Star-Dust</span>",
       "work_type": "novel",
       "publication_year": 1920,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 86,
-      "slug": "the-good-provider",
-      "title": "The Good Provider",
-      "formatted_title": "\"The Good Provider\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Good Provider\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1914,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 97,
-      "slug": "the-nth-commandment",
-      "title": "The Nth Commandment",
-      "formatted_title": "\"The Nth Commandment\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Nth Commandment\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1914,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 124,
-      "slug": "mannequin",
-      "title": "Mannequin",
-      "formatted_title": "Mannequin",
-      "html_title": "<span class=\"work-title\">Mannequin</span>",
-      "work_type": "novel",
-      "publication_year": 1925,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -649,17 +616,6 @@
       "is_remake_champion": false
     },
     {
-      "id": 148,
-      "slug": "give-this-little-girl-a-hand",
-      "title": "Give This Little Girl a Hand",
-      "formatted_title": "\"Give This Little Girl a Hand\"",
-      "html_title": "<span class=\"work-title short-story\">\"Give This Little Girl a Hand\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1928,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 158,
       "slug": "lummox",
       "title": "Lummox",
@@ -667,6 +623,28 @@
       "html_title": "<span class=\"work-title\">Lummox</span>",
       "work_type": "novel",
       "publication_year": 1924,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 124,
+      "slug": "mannequin",
+      "title": "Mannequin",
+      "formatted_title": "Mannequin",
+      "html_title": "<span class=\"work-title\">Mannequin</span>",
+      "work_type": "novel",
+      "publication_year": 1925,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 148,
+      "slug": "give-this-little-girl-a-hand",
+      "title": "Give This Little Girl a Hand",
+      "formatted_title": "\"Give This Little Girl a Hand\"",
+      "html_title": "<span class=\"work-title short-story\">\"Give This Little Girl a Hand\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1928,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -682,27 +660,49 @@
       "is_remake_champion": false
     },
     {
-      "id": 179,
-      "slug": "night-bell",
-      "title": "Night Bell",
-      "formatted_title": "\"Night Bell\"",
-      "html_title": "<span class=\"work-title short-story\">\"Night Bell\"</span>",
-      "work_type": "short_story",
-      "publication_year": null,
-      "adaptation_count": 1,
+      "id": 185,
+      "slug": "back-street",
+      "title": "Back Street",
+      "formatted_title": "Back Street",
+      "html_title": "<span class=\"work-title\">Back Street</span>",
+      "work_type": "novel",
+      "publication_year": 1930,
+      "adaptation_count": 4,
+      "is_remake_champion": true
+    },
+    {
+      "id": 191,
+      "slug": "imitation-of-life",
+      "title": "Imitation of Life",
+      "formatted_title": "Imitation of Life",
+      "html_title": "<span class=\"work-title\">Imitation of Life</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "adaptation_count": 2,
       "is_remake_champion": false
+    },
+    {
+      "id": 213,
+      "slug": "sister-act",
+      "title": "Sister Act",
+      "formatted_title": "Sister Act",
+      "html_title": "<span class=\"work-title\">Sister Act</span>",
+      "work_type": "novella",
+      "publication_year": 1937,
+      "adaptation_count": 4,
+      "is_remake_champion": true
     }
   ],
   "most_adapted_work": {
-    "id": 185,
-    "slug": "back-street",
-    "title": "Back Street",
-    "formatted_title": "Back Street",
-    "html_title": "<span class=\"work-title\">Back Street</span>",
-    "work_type": "novel",
-    "publication_year": 1930,
-    "adaptation_count": 4,
-    "is_remake_champion": true
+    "id": 179,
+    "slug": "night-bell",
+    "title": "Night Bell",
+    "formatted_title": "\"Night Bell\"",
+    "html_title": "<span class=\"work-title short-story\">\"Night Bell\"</span>",
+    "work_type": "short_story",
+    "publication_year": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
   },
   "last_updated": "2025-08-13T21:38:59.56359"
 }

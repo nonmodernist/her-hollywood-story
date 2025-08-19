@@ -258,17 +258,6 @@
   ],
   "adapted_works": [
     {
-      "id": 168,
-      "slug": "a-free-soul",
-      "title": "A Free Soul",
-      "formatted_title": "A Free Soul",
-      "html_title": "<span class=\"work-title\">A Free Soul</span>",
-      "work_type": "novel",
-      "publication_year": 1927,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
       "id": 107,
       "slug": "broken-laws",
       "title": "Broken Laws",
@@ -276,6 +265,28 @@
       "html_title": "<span class=\"work-title short-story\">\"Broken Laws\"</span>",
       "work_type": "short_story",
       "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 906,
+      "slug": "pretty-ladies",
+      "title": "Pretty Ladies",
+      "formatted_title": "Pretty Ladies",
+      "html_title": "<span class=\"work-title\">Pretty Ladies</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 196,
+      "slug": "the-great-god-four-flush",
+      "title": "The Great God Four-Flush",
+      "formatted_title": "\"The Great God Four-Flush\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Great God Four-Flush\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1923,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -291,13 +302,13 @@
       "is_remake_champion": false
     },
     {
-      "id": 906,
-      "slug": "pretty-ladies",
-      "title": "Pretty Ladies",
-      "formatted_title": "Pretty Ladies",
-      "html_title": "<span class=\"work-title\">Pretty Ladies</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "id": 146,
+      "slug": "the-haunted-lady",
+      "title": "The Haunted Lady",
+      "formatted_title": "\"The Haunted Lady\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Haunted Lady\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1925,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -324,14 +335,14 @@
       "is_remake_champion": false
     },
     {
-      "id": 146,
-      "slug": "the-haunted-lady",
-      "title": "The Haunted Lady",
-      "formatted_title": "\"The Haunted Lady\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Haunted Lady\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1925,
-      "adaptation_count": 1,
+      "id": 168,
+      "slug": "a-free-soul",
+      "title": "A Free Soul",
+      "formatted_title": "A Free Soul",
+      "html_title": "<span class=\"work-title\">A Free Soul</span>",
+      "work_type": "novel",
+      "publication_year": 1927,
+      "adaptation_count": 2,
       "is_remake_champion": false
     },
     {
@@ -342,17 +353,6 @@
       "html_title": "<span class=\"work-title\">The Single Standard</span>",
       "work_type": "novel",
       "publication_year": 1927,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 196,
-      "slug": "the-great-god-four-flush",
-      "title": "The Great God Four-Flush",
-      "formatted_title": "\"The Great God Four-Flush\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Great God Four-Flush\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1923,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -380,14 +380,14 @@
     }
   ],
   "most_adapted_work": {
-    "id": 168,
-    "slug": "a-free-soul",
-    "title": "A Free Soul",
-    "formatted_title": "A Free Soul",
-    "html_title": "<span class=\"work-title\">A Free Soul</span>",
-    "work_type": "novel",
-    "publication_year": 1927,
-    "adaptation_count": 2,
+    "id": 107,
+    "slug": "broken-laws",
+    "title": "Broken Laws",
+    "formatted_title": "\"Broken Laws\"",
+    "html_title": "<span class=\"work-title short-story\">\"Broken Laws\"</span>",
+    "work_type": "short_story",
+    "publication_year": null,
+    "adaptation_count": 1,
     "is_remake_champion": false
   },
   "last_updated": "2025-08-04T17:06:35.659603"

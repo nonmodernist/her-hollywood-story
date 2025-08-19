@@ -84,17 +84,6 @@
   ],
   "adapted_works": [
     {
-      "id": 594,
-      "slug": "peabodys-mermaid",
-      "title": "Peabody's Mermaid",
-      "formatted_title": "Peabody's Mermaid",
-      "html_title": "<span class=\"work-title\">Peabody's Mermaid</span>",
-      "work_type": "novel",
-      "publication_year": 1946,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 595,
       "slug": "there-was-a-little-man",
       "title": "There Was a Little Man",
@@ -104,16 +93,27 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 594,
+      "slug": "peabodys-mermaid",
+      "title": "Peabody's Mermaid",
+      "formatted_title": "Peabody's Mermaid",
+      "html_title": "<span class=\"work-title\">Peabody's Mermaid</span>",
+      "work_type": "novel",
+      "publication_year": 1946,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 594,
-    "slug": "peabodys-mermaid",
-    "title": "Peabody's Mermaid",
-    "formatted_title": "Peabody's Mermaid",
-    "html_title": "<span class=\"work-title\">Peabody's Mermaid</span>",
+    "id": 595,
+    "slug": "there-was-a-little-man",
+    "title": "There Was a Little Man",
+    "formatted_title": "There Was a Little Man",
+    "html_title": "<span class=\"work-title\">There Was a Little Man</span>",
     "work_type": "novel",
-    "publication_year": 1946,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

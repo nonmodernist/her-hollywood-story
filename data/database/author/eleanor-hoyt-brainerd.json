@@ -84,17 +84,6 @@
   ],
   "adapted_works": [
     {
-      "id": 325,
-      "slug": "how-could-you-jean",
-      "title": "How Could You Jean?",
-      "formatted_title": "How Could You Jean?",
-      "html_title": "<span class=\"work-title\">How Could You Jean?</span>",
-      "work_type": "novel",
-      "publication_year": 1917,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 326,
       "slug": "pegeen",
       "title": "Pegeen",
@@ -104,16 +93,27 @@
       "publication_year": 1915,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 325,
+      "slug": "how-could-you-jean",
+      "title": "How Could You Jean?",
+      "formatted_title": "How Could You Jean?",
+      "html_title": "<span class=\"work-title\">How Could You Jean?</span>",
+      "work_type": "novel",
+      "publication_year": 1917,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 325,
-    "slug": "how-could-you-jean",
-    "title": "How Could You Jean?",
-    "formatted_title": "How Could You Jean?",
-    "html_title": "<span class=\"work-title\">How Could You Jean?</span>",
+    "id": 326,
+    "slug": "pegeen",
+    "title": "Pegeen",
+    "formatted_title": "Pegeen",
+    "html_title": "<span class=\"work-title\">Pegeen</span>",
     "work_type": "novel",
-    "publication_year": 1917,
+    "publication_year": 1915,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

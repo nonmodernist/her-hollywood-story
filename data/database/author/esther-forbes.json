@@ -83,17 +83,6 @@
   ],
   "adapted_works": [
     {
-      "id": 499,
-      "slug": "the-running-of-the-tide",
-      "title": "The Running of the Tide",
-      "formatted_title": "The Running of the Tide",
-      "html_title": "<span class=\"work-title\">The Running of the Tide</span>",
-      "work_type": "novel",
-      "publication_year": 1948,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 498,
       "slug": "johnny-tremain-a-novel-for-old-and-young",
       "title": "Johnny Tremain, a Novel for Old and Young",
@@ -103,16 +92,27 @@
       "publication_year": 1943,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 499,
+      "slug": "the-running-of-the-tide",
+      "title": "The Running of the Tide",
+      "formatted_title": "The Running of the Tide",
+      "html_title": "<span class=\"work-title\">The Running of the Tide</span>",
+      "work_type": "novel",
+      "publication_year": 1948,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 499,
-    "slug": "the-running-of-the-tide",
-    "title": "The Running of the Tide",
-    "formatted_title": "The Running of the Tide",
-    "html_title": "<span class=\"work-title\">The Running of the Tide</span>",
+    "id": 498,
+    "slug": "johnny-tremain-a-novel-for-old-and-young",
+    "title": "Johnny Tremain, a Novel for Old and Young",
+    "formatted_title": "Johnny Tremain, a Novel for Old and Young",
+    "html_title": "<span class=\"work-title\">Johnny Tremain, a Novel for Old and Young</span>",
     "work_type": "novel",
-    "publication_year": 1948,
+    "publication_year": 1943,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

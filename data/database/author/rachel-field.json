@@ -95,6 +95,17 @@
   ],
   "adapted_works": [
     {
+      "id": 497,
+      "slug": "time-out-of-mind",
+      "title": "Time Out of Mind",
+      "formatted_title": "Time Out of Mind",
+      "html_title": "<span class=\"work-title\">Time Out of Mind</span>",
+      "work_type": "novel",
+      "publication_year": 1935,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 495,
       "slug": "all-this-and-heaven-too",
       "title": "All This and Heaven Too",
@@ -115,27 +126,16 @@
       "publication_year": 1942,
       "adaptation_count": 1,
       "is_remake_champion": false
-    },
-    {
-      "id": 497,
-      "slug": "time-out-of-mind",
-      "title": "Time Out of Mind",
-      "formatted_title": "Time Out of Mind",
-      "html_title": "<span class=\"work-title\">Time Out of Mind</span>",
-      "work_type": "novel",
-      "publication_year": 1935,
-      "adaptation_count": 1,
-      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 495,
-    "slug": "all-this-and-heaven-too",
-    "title": "All This and Heaven Too",
-    "formatted_title": "All This and Heaven Too",
-    "html_title": "<span class=\"work-title\">All This and Heaven Too</span>",
+    "id": 497,
+    "slug": "time-out-of-mind",
+    "title": "Time Out of Mind",
+    "formatted_title": "Time Out of Mind",
+    "html_title": "<span class=\"work-title\">Time Out of Mind</span>",
     "work_type": "novel",
-    "publication_year": 1938,
+    "publication_year": 1935,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

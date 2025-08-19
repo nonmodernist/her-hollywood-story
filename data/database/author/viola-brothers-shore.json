@@ -103,6 +103,17 @@
   ],
   "adapted_works": [
     {
+      "id": 889,
+      "slug": "notices",
+      "title": "Notices",
+      "formatted_title": "Notices",
+      "html_title": "<span class=\"work-title\">Notices</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 890,
       "slug": "on-the-shelf",
       "title": "On the Shelf",
@@ -123,25 +134,14 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
-    },
-    {
-      "id": 889,
-      "slug": "notices",
-      "title": "Notices",
-      "formatted_title": "Notices",
-      "html_title": "<span class=\"work-title\">Notices</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 890,
-    "slug": "on-the-shelf",
-    "title": "On the Shelf",
-    "formatted_title": "On the Shelf",
-    "html_title": "<span class=\"work-title\">On the Shelf</span>",
+    "id": 889,
+    "slug": "notices",
+    "title": "Notices",
+    "formatted_title": "Notices",
+    "html_title": "<span class=\"work-title\">Notices</span>",
     "work_type": "novel",
     "publication_year": null,
     "adaptation_count": 1,

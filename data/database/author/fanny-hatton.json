@@ -83,17 +83,6 @@
   ],
   "adapted_works": [
     {
-      "id": 554,
-      "slug": "with-the-tide",
-      "title": "With the Tide",
-      "formatted_title": "With the Tide",
-      "html_title": "<span class=\"work-title\">With the Tide</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 553,
       "slug": "the-azure-shore",
       "title": "The Azure Shore",
@@ -103,14 +92,25 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 554,
+      "slug": "with-the-tide",
+      "title": "With the Tide",
+      "formatted_title": "With the Tide",
+      "html_title": "<span class=\"work-title\">With the Tide</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 554,
-    "slug": "with-the-tide",
-    "title": "With the Tide",
-    "formatted_title": "With the Tide",
-    "html_title": "<span class=\"work-title\">With the Tide</span>",
+    "id": 553,
+    "slug": "the-azure-shore",
+    "title": "The Azure Shore",
+    "formatted_title": "The Azure Shore",
+    "html_title": "<span class=\"work-title\">The Azure Shore</span>",
     "work_type": "novel",
     "publication_year": null,
     "adaptation_count": 1,

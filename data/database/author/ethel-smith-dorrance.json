@@ -103,6 +103,17 @@
   ],
   "adapted_works": [
     {
+      "id": 452,
+      "slug": "whitewashed-walls",
+      "title": "Whitewashed Walls",
+      "formatted_title": "Whitewashed Walls",
+      "html_title": "<span class=\"work-title\">Whitewashed Walls</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 453,
       "slug": "who-knows",
       "title": "Who Knows?",
@@ -123,25 +134,14 @@
       "publication_year": 1916,
       "adaptation_count": 1,
       "is_remake_champion": false
-    },
-    {
-      "id": 452,
-      "slug": "whitewashed-walls",
-      "title": "Whitewashed Walls",
-      "formatted_title": "Whitewashed Walls",
-      "html_title": "<span class=\"work-title\">Whitewashed Walls</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 453,
-    "slug": "who-knows",
-    "title": "Who Knows?",
-    "formatted_title": "Who Knows?",
-    "html_title": "<span class=\"work-title\">Who Knows?</span>",
+    "id": 452,
+    "slug": "whitewashed-walls",
+    "title": "Whitewashed Walls",
+    "formatted_title": "Whitewashed Walls",
+    "html_title": "<span class=\"work-title\">Whitewashed Walls</span>",
     "work_type": "novel",
     "publication_year": null,
     "adaptation_count": 1,

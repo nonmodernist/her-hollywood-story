@@ -95,17 +95,6 @@
   ],
   "adapted_works": [
     {
-      "id": 59,
-      "slug": "her-elephant-man",
-      "title": "Her Elephant Man",
-      "formatted_title": "Her Elephant Man",
-      "html_title": "<span class=\"work-title\">Her Elephant Man</span>",
-      "work_type": "novel",
-      "publication_year": 1919,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 58,
       "slug": "his-harvest",
       "title": "His Harvest",
@@ -113,6 +102,17 @@
       "html_title": "<span class=\"work-title\">His Harvest</span>",
       "work_type": "novel",
       "publication_year": 1915,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 59,
+      "slug": "her-elephant-man",
+      "title": "Her Elephant Man",
+      "formatted_title": "Her Elephant Man",
+      "html_title": "<span class=\"work-title\">Her Elephant Man</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -129,13 +129,13 @@
     }
   ],
   "most_adapted_work": {
-    "id": 59,
-    "slug": "her-elephant-man",
-    "title": "Her Elephant Man",
-    "formatted_title": "Her Elephant Man",
-    "html_title": "<span class=\"work-title\">Her Elephant Man</span>",
+    "id": 58,
+    "slug": "his-harvest",
+    "title": "His Harvest",
+    "formatted_title": "His Harvest",
+    "html_title": "<span class=\"work-title\">His Harvest</span>",
     "work_type": "novel",
-    "publication_year": 1919,
+    "publication_year": 1915,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

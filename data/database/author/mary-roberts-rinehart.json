@@ -727,6 +727,28 @@
   ],
   "adapted_works": [
     {
+      "id": 1023,
+      "slug": "at-the-foot-of-the-hill",
+      "title": "At the Foot of the Hill",
+      "formatted_title": "\"At the Foot of the Hill\"",
+      "html_title": "<span class=\"work-title short-story\">\"At the Foot of the Hill\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1906,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 825,
+      "slug": "acquitted",
+      "title": "Acquitted",
+      "formatted_title": "\"Acquitted\"",
+      "html_title": "<span class=\"work-title short-story\">\"Acquitted\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1907,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 7,
       "slug": "the-circular-staircase",
       "title": "The Circular Staircase",
@@ -738,25 +760,14 @@
       "is_remake_champion": true
     },
     {
-      "id": 826,
-      "slug": "affinities",
-      "title": "Affinities",
-      "formatted_title": "Affinities",
-      "html_title": "<span class=\"work-title\">Affinities</span>",
-      "work_type": "novella",
-      "publication_year": 1913,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
-      "id": 837,
-      "slug": "mind-over-motor",
-      "title": "Mind Over Motor",
-      "formatted_title": "\"Mind Over Motor\"",
-      "html_title": "<span class=\"work-title short-story\">\"Mind Over Motor\"</span>",
+      "id": 1014,
+      "slug": "seven-days",
+      "title": "Seven Days",
+      "formatted_title": "\"Seven Days\"",
+      "html_title": "<span class=\"work-title short-story\">\"Seven Days\"</span>",
       "work_type": "short_story",
-      "publication_year": 1912,
-      "adaptation_count": 2,
+      "publication_year": 1908,
+      "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
@@ -771,46 +782,13 @@
       "is_remake_champion": false
     },
     {
-      "id": 835,
-      "slug": "k",
-      "title": "K",
-      "formatted_title": "K",
-      "html_title": "<span class=\"work-title\">K</span>",
-      "work_type": "novel",
-      "publication_year": 1914,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
-      "id": 842,
-      "slug": "twenty-three-and-a-half-hours-leave",
-      "title": "Twenty-Three and a Half Hours' Leave",
-      "formatted_title": "\"Twenty-Three and a Half Hours' Leave\"",
-      "html_title": "<span class=\"work-title short-story\">\"Twenty-Three and a Half Hours' Leave\"</span>",
+      "id": 834,
+      "slug": "in-the-pavilion",
+      "title": "In the Pavilion",
+      "formatted_title": "\"In the Pavilion\"",
+      "html_title": "<span class=\"work-title short-story\">\"In the Pavilion\"</span>",
       "work_type": "short_story",
-      "publication_year": 1918,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
-      "id": 220,
-      "slug": "miss-pinkerton-adventures-of-a-nurse-detective",
-      "title": "Miss Pinkerton: Adventures of a Nurse Detective",
-      "formatted_title": "Miss Pinkerton: Adventures of a Nurse Detective",
-      "html_title": "<span class=\"work-title\">Miss Pinkerton: Adventures of a Nurse Detective</span>",
-      "work_type": "novel",
-      "publication_year": 1932,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
-      "id": 1023,
-      "slug": "at-the-foot-of-the-hill",
-      "title": "At the Foot of the Hill",
-      "formatted_title": "\"At the Foot of the Hill\"",
-      "html_title": "<span class=\"work-title short-story\">\"At the Foot of the Hill\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1906,
+      "publication_year": 1912,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -826,6 +804,28 @@
       "is_remake_champion": false
     },
     {
+      "id": 92,
+      "slug": "long-live-the-king",
+      "title": "Long Live the King",
+      "formatted_title": "Long Live the King",
+      "html_title": "<span class=\"work-title\">Long Live the King</span>",
+      "work_type": "novella",
+      "publication_year": 1912,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 837,
+      "slug": "mind-over-motor",
+      "title": "Mind Over Motor",
+      "formatted_title": "\"Mind Over Motor\"",
+      "html_title": "<span class=\"work-title short-story\">\"Mind Over Motor\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1912,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
       "id": 1024,
       "slug": "the-cave-on-thunder-cloud",
       "title": "The Cave on Thunder Cloud",
@@ -837,12 +837,45 @@
       "is_remake_champion": false
     },
     {
+      "id": 826,
+      "slug": "affinities",
+      "title": "Affinities",
+      "formatted_title": "Affinities",
+      "html_title": "<span class=\"work-title\">Affinities</span>",
+      "work_type": "novella",
+      "publication_year": 1913,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 835,
+      "slug": "k",
+      "title": "K",
+      "formatted_title": "K",
+      "html_title": "<span class=\"work-title\">K</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
       "id": 1025,
       "slug": "the-papered-door",
       "title": "The Papered Door",
       "formatted_title": "\"The Papered Door\"",
       "html_title": "<span class=\"work-title short-story\">\"The Papered Door\"</span>",
       "work_type": "short_story",
+      "publication_year": 1914,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 839,
+      "slug": "the-street-of-seven-stars",
+      "title": "The Street of Seven Stars",
+      "formatted_title": "The Street of Seven Stars",
+      "html_title": "<span class=\"work-title\">The Street of Seven Stars</span>",
+      "work_type": "novel",
       "publication_year": 1914,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -859,13 +892,35 @@
       "is_remake_champion": false
     },
     {
-      "id": 825,
-      "slug": "acquitted",
-      "title": "Acquitted",
-      "formatted_title": "\"Acquitted\"",
-      "html_title": "<span class=\"work-title short-story\">\"Acquitted\"</span>",
+      "id": 830,
+      "slug": "empire-builders",
+      "title": "Empire Builders",
+      "formatted_title": "\"Empire Builders\"",
+      "html_title": "<span class=\"work-title short-story\">\"Empire Builders\"</span>",
       "work_type": "short_story",
-      "publication_year": 1907,
+      "publication_year": 1916,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 840,
+      "slug": "theme-the-celebrity",
+      "title": "Theme: The Celebrity",
+      "formatted_title": "\"Theme: The Celebrity\"",
+      "html_title": "<span class=\"work-title short-story\">\"Theme: The Celebrity\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1916,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 841,
+      "slug": "tish",
+      "title": "Tish",
+      "formatted_title": "Tish",
+      "html_title": "<span class=\"work-title\">Tish</span>",
+      "work_type": "novel",
+      "publication_year": 1916,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -892,17 +947,6 @@
       "is_remake_champion": false
     },
     {
-      "id": 840,
-      "slug": "theme-the-celebrity",
-      "title": "Theme: The Celebrity",
-      "formatted_title": "\"Theme: The Celebrity\"",
-      "html_title": "<span class=\"work-title short-story\">\"Theme: The Celebrity\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1916,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 831,
       "slug": "the-g-a-c",
       "title": "The G. A. C.",
@@ -914,14 +958,14 @@
       "is_remake_champion": false
     },
     {
-      "id": 839,
-      "slug": "the-street-of-seven-stars",
-      "title": "The Street of Seven Stars",
-      "formatted_title": "The Street of Seven Stars",
-      "html_title": "<span class=\"work-title\">The Street of Seven Stars</span>",
-      "work_type": "novel",
-      "publication_year": 1914,
-      "adaptation_count": 1,
+      "id": 842,
+      "slug": "twenty-three-and-a-half-hours-leave",
+      "title": "Twenty-Three and a Half Hours' Leave",
+      "formatted_title": "\"Twenty-Three and a Half Hours' Leave\"",
+      "html_title": "<span class=\"work-title short-story\">\"Twenty-Three and a Half Hours' Leave\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1918,
+      "adaptation_count": 2,
       "is_remake_champion": false
     },
     {
@@ -932,83 +976,6 @@
       "html_title": "<span class=\"work-title\">Dangerous Days</span>",
       "work_type": "novel",
       "publication_year": 1919,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 830,
-      "slug": "empire-builders",
-      "title": "Empire Builders",
-      "formatted_title": "\"Empire Builders\"",
-      "html_title": "<span class=\"work-title short-story\">\"Empire Builders\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1916,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 834,
-      "slug": "in-the-pavilion",
-      "title": "In the Pavilion",
-      "formatted_title": "\"In the Pavilion\"",
-      "html_title": "<span class=\"work-title short-story\">\"In the Pavilion\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1912,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 92,
-      "slug": "long-live-the-king",
-      "title": "Long Live the King",
-      "formatted_title": "Long Live the King",
-      "html_title": "<span class=\"work-title\">Long Live the King</span>",
-      "work_type": "novella",
-      "publication_year": 1912,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 833,
-      "slug": "her-majesty-the-queen",
-      "title": "Her Majesty, the Queen",
-      "formatted_title": "Her Majesty, the Queen",
-      "html_title": "<span class=\"work-title\">Her Majesty, the Queen</span>",
-      "work_type": "novella",
-      "publication_year": 1924,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 828,
-      "slug": "the-breaking-point",
-      "title": "The Breaking Point",
-      "formatted_title": "The Breaking Point",
-      "html_title": "<span class=\"work-title\">The Breaking Point</span>",
-      "work_type": "novel",
-      "publication_year": 1921,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 1022,
-      "slug": "the-altar-on-the-hill",
-      "title": "The Altar on the Hill",
-      "formatted_title": "\"The Altar on the Hill\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Altar on the Hill\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1924,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 1014,
-      "slug": "seven-days",
-      "title": "Seven Days",
-      "formatted_title": "\"Seven Days\"",
-      "html_title": "<span class=\"work-title short-story\">\"Seven Days\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1908,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -1024,6 +991,39 @@
       "is_remake_champion": false
     },
     {
+      "id": 828,
+      "slug": "the-breaking-point",
+      "title": "The Breaking Point",
+      "formatted_title": "The Breaking Point",
+      "html_title": "<span class=\"work-title\">The Breaking Point</span>",
+      "work_type": "novel",
+      "publication_year": 1921,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 833,
+      "slug": "her-majesty-the-queen",
+      "title": "Her Majesty, the Queen",
+      "formatted_title": "Her Majesty, the Queen",
+      "html_title": "<span class=\"work-title\">Her Majesty, the Queen</span>",
+      "work_type": "novella",
+      "publication_year": 1924,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1022,
+      "slug": "the-altar-on-the-hill",
+      "title": "The Altar on the Hill",
+      "formatted_title": "\"The Altar on the Hill\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Altar on the Hill\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1924,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 161,
       "slug": "lost-ecstasy",
       "title": "Lost Ecstasy",
@@ -1031,6 +1031,28 @@
       "html_title": "<span class=\"work-title\">Lost Ecstasy</span>",
       "work_type": "novel",
       "publication_year": 1927,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 220,
+      "slug": "miss-pinkerton-adventures-of-a-nurse-detective",
+      "title": "Miss Pinkerton: Adventures of a Nurse Detective",
+      "formatted_title": "Miss Pinkerton: Adventures of a Nurse Detective",
+      "html_title": "<span class=\"work-title\">Miss Pinkerton: Adventures of a Nurse Detective</span>",
+      "work_type": "novel",
+      "publication_year": 1932,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1018,
+      "slug": "mr-cohen-takes-a-walk",
+      "title": "Mr. Cohen Takes a Walk",
+      "formatted_title": "\"Mr. Cohen Takes a Walk\"",
+      "html_title": "<span class=\"work-title short-story\">\"Mr. Cohen Takes a Walk\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1934,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -1046,17 +1068,6 @@
       "is_remake_champion": false
     },
     {
-      "id": 1018,
-      "slug": "mr-cohen-takes-a-walk",
-      "title": "Mr. Cohen Takes a Walk",
-      "formatted_title": "\"Mr. Cohen Takes a Walk\"",
-      "html_title": "<span class=\"work-title short-story\">\"Mr. Cohen Takes a Walk\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1934,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 1019,
       "slug": "the-dog-in-the-orchard",
       "title": "The Dog in the Orchard",
@@ -1066,29 +1077,18 @@
       "publication_year": 1940,
       "adaptation_count": 1,
       "is_remake_champion": false
-    },
-    {
-      "id": 841,
-      "slug": "tish",
-      "title": "Tish",
-      "formatted_title": "Tish",
-      "html_title": "<span class=\"work-title\">Tish</span>",
-      "work_type": "novel",
-      "publication_year": 1916,
-      "adaptation_count": 1,
-      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 7,
-    "slug": "the-circular-staircase",
-    "title": "The Circular Staircase",
-    "formatted_title": "The Circular Staircase",
-    "html_title": "<span class=\"work-title\">The Circular Staircase</span>",
-    "work_type": "novel",
-    "publication_year": 1907,
-    "adaptation_count": 4,
-    "is_remake_champion": true
+    "id": 1023,
+    "slug": "at-the-foot-of-the-hill",
+    "title": "At the Foot of the Hill",
+    "formatted_title": "\"At the Foot of the Hill\"",
+    "html_title": "<span class=\"work-title short-story\">\"At the Foot of the Hill\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1906,
+    "adaptation_count": 1,
+    "is_remake_champion": false
   },
   "last_updated": "2025-08-13T21:37:35.897297"
 }

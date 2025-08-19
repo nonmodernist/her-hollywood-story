@@ -84,17 +84,6 @@
   ],
   "adapted_works": [
     {
-      "id": 423,
-      "slug": "diane-of-the-green-van",
-      "title": "Diane of the Green Van",
-      "formatted_title": "Diane of the Green Van",
-      "html_title": "<span class=\"work-title\">Diane of the Green Van</span>",
-      "work_type": "novel",
-      "publication_year": 1914,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 422,
       "slug": "dangerous-number",
       "title": "Dangerous Number",
@@ -104,16 +93,27 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 423,
+      "slug": "diane-of-the-green-van",
+      "title": "Diane of the Green Van",
+      "formatted_title": "Diane of the Green Van",
+      "html_title": "<span class=\"work-title\">Diane of the Green Van</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 423,
-    "slug": "diane-of-the-green-van",
-    "title": "Diane of the Green Van",
-    "formatted_title": "Diane of the Green Van",
-    "html_title": "<span class=\"work-title\">Diane of the Green Van</span>",
+    "id": 422,
+    "slug": "dangerous-number",
+    "title": "Dangerous Number",
+    "formatted_title": "Dangerous Number",
+    "html_title": "<span class=\"work-title\">Dangerous Number</span>",
     "work_type": "novel",
-    "publication_year": 1914,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

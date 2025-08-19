@@ -6,19 +6,19 @@
   "death_year": 1951,
   "nationality": "American",
   "literary_movement": null,
-  "biographical_notes": "American writer and playwright (1875-1951). Born in Shakopee. Died in Los Angeles. Among the first authors to create her own film production company, in 1914. ",
-  "biographical_notes_html": "<p>American writer and playwright (1875-1951). Born in Shakopee. Died in Los Angeles. Among the first authors to create her own film production company, in 1914. </p>",
+  "biographical_notes": "Eleanor Gates (1875-1951) was a novelist and playwright best known for _The Poor Little Rich Girl_ (1912 novel, 1913 Broadway play), which the New York Times called \"nearly a work of genius.\" Raised on a ranch in South Dakota's Jim River Valley, she later attended UC Berkeley and worked as a journalist in San Francisco before launching her literary career. Gates was, according to Ruth Ann Alexander, among the first generation of women writers to create prairie narratives, publishing _The Biography of a Prairie Girl_ in 1902. She founded The Eleanor Gates Photo-Play Company in 1914, producing at least one film (_Doc_), and wrote titles for the film adaptation. Her work was adapted into six films between 1914 and 1936, including Mary Pickford's highly successful 1917 version of _The Poor Little Rich Girl_ and the 1936 Shirley Temple remake for which Gates received $20,000. She advocated for women's independence in her non-fiction writing and was married to playwright Richard Walton Tully (1901-1914 or 1916). Despite her commercial success, no major archive holds her papers today.",
+  "biographical_notes_html": "<p>Eleanor Gates (1875-1951) was a novelist and playwright best known for <em>The Poor Little Rich Girl</em> (1912 novel, 1913 Broadway play), which the New York Times called \"nearly a work of genius.\" Raised on a ranch in South Dakota's Jim River Valley, she later attended UC Berkeley and worked as a journalist in San Francisco before launching her literary career. Gates was, according to Ruth Ann Alexander, among the first generation of women writers to create prairie narratives, publishing <em>The Biography of a Prairie Girl</em> in 1902. She founded The Eleanor Gates Photo-Play Company in 1914, producing at least one film (<em>Doc</em>), and wrote titles for the film adaptation. Her work was adapted into six films between 1914 and 1936, including Mary Pickford's highly successful 1917 version of <em>The Poor Little Rich Girl</em> and the 1936 Shirley Temple remake for which Gates received $20,000. She advocated for women's independence in her non-fiction writing and was married to playwright Richard Walton Tully (1901-1914 or 1916). Despite her commercial success, no major archive holds her papers today.</p>",
   "author_notes": null,
   "wikidata_id": "Q3721233",
   "alternative_names": null,
-  "occupations": null,
-  "key_themes": null,
-  "education": null,
+  "occupations": "['novelist', 'short story writer', 'playwright', 'screenwriter', 'journalist']",
+  "key_themes": "['social class', \"women's independence\", 'regional life', 'prairie life', \"children's experiences\", 'melodrama']",
+  "education": "University of California, Berkeley",
   "maiden_name": null,
-  "key_associations": null,
+  "key_associations": "[\"Author's League\", 'David Belasco', 'Mary Pickford']",
   "major_awards": null,
   "archives_locations": null,
-  "modern_availability": null,
+  "modern_availability": "Most works in public domain (except later books).",
   "has_portrait": "False",
   "signature_work_ids": "[523]",
   "has_pseudonym": "False",
@@ -136,8 +136,8 @@
         "Comedy-drama"
       ],
       "has_media": false,
-      "work_title": "Search for the Spring",
-      "work_html_title": "<span class=\"work-title\">Search for the Spring</span>",
+      "work_title": "The Search for the Spring",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Search for the Spring\"</span>",
       "work_id": 524
     },
     {
@@ -158,28 +158,6 @@
     }
   ],
   "adapted_works": [
-    {
-      "id": 523,
-      "slug": "the-poor-little-rich-girl",
-      "title": "The Poor Little Rich Girl",
-      "formatted_title": "The Poor Little Rich Girl",
-      "html_title": "<span class=\"work-title\">The Poor Little Rich Girl</span>",
-      "work_type": "novel",
-      "publication_year": 1912,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
-      "id": 521,
-      "slug": "doc",
-      "title": "Doc",
-      "formatted_title": "\"Doc\"",
-      "html_title": "<span class=\"work-title short-story\">\"Doc\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1910,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
     {
       "id": 522,
       "slug": "the-plow-woman",
@@ -203,27 +181,49 @@
       "is_remake_champion": false
     },
     {
-      "id": 524,
-      "slug": "search-for-the-spring",
-      "title": "Search for the Spring",
-      "formatted_title": "Search for the Spring",
-      "html_title": "<span class=\"work-title\">Search for the Spring</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "id": 521,
+      "slug": "doc",
+      "title": "Doc",
+      "formatted_title": "\"Doc\"",
+      "html_title": "<span class=\"work-title short-story\">\"Doc\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1910,
       "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 524,
+      "slug": "the-search-for-the-spring",
+      "title": "The Search for the Spring",
+      "formatted_title": "\"The Search for the Spring\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Search for the Spring\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1910,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 523,
+      "slug": "the-poor-little-rich-girl",
+      "title": "The Poor Little Rich Girl",
+      "formatted_title": "The Poor Little Rich Girl",
+      "html_title": "<span class=\"work-title\">The Poor Little Rich Girl</span>",
+      "work_type": "novel",
+      "publication_year": 1912,
+      "adaptation_count": 2,
       "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 523,
-    "slug": "the-poor-little-rich-girl",
-    "title": "The Poor Little Rich Girl",
-    "formatted_title": "The Poor Little Rich Girl",
-    "html_title": "<span class=\"work-title\">The Poor Little Rich Girl</span>",
+    "id": 522,
+    "slug": "the-plow-woman",
+    "title": "The Plow Woman",
+    "formatted_title": "The Plow Woman",
+    "html_title": "<span class=\"work-title\">The Plow Woman</span>",
     "work_type": "novel",
-    "publication_year": 1912,
-    "adaptation_count": 2,
+    "publication_year": 1906,
+    "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-18T22:04:35.920093"
+  "last_updated": "2025-08-19T01:47:08.32701"
 }

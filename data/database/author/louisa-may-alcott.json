@@ -164,17 +164,6 @@
       "is_remake_champion": false
     },
     {
-      "id": 193,
-      "slug": "little-men",
-      "title": "Little Men",
-      "formatted_title": "Little Men",
-      "html_title": "<span class=\"work-title\">Little Men</span>",
-      "work_type": "novel",
-      "publication_year": 1872,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
       "id": 247,
       "slug": "an-old-fashioned-girl",
       "title": "An Old Fashioned Girl",
@@ -183,6 +172,17 @@
       "work_type": "novel",
       "publication_year": 1870,
       "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 193,
+      "slug": "little-men",
+      "title": "Little Men",
+      "formatted_title": "Little Men",
+      "html_title": "<span class=\"work-title\">Little Men</span>",
+      "work_type": "novel",
+      "publication_year": 1872,
+      "adaptation_count": 2,
       "is_remake_champion": false
     }
   ],

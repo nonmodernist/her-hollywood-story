@@ -136,39 +136,6 @@
   ],
   "adapted_works": [
     {
-      "id": 801,
-      "slug": "the-price-of-applause",
-      "title": "The Price of Applause",
-      "formatted_title": "The Price of Applause",
-      "html_title": "<span class=\"work-title\">The Price of Applause</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 799,
-      "slug": "in-search-of-arcady",
-      "title": "In Search of Arcady",
-      "formatted_title": "In Search of Arcady",
-      "html_title": "<span class=\"work-title\">In Search of Arcady</span>",
-      "work_type": "novel",
-      "publication_year": 1912,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 800,
-      "slug": "two-weeks-with-pay",
-      "title": "Two Weeks with Pay",
-      "formatted_title": "Two Weeks with Pay",
-      "html_title": "<span class=\"work-title\">Two Weeks with Pay</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 797,
       "slug": "doubling-for-cupid",
       "title": "Doubling for Cupid",
@@ -189,14 +156,47 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 801,
+      "slug": "the-price-of-applause",
+      "title": "The Price of Applause",
+      "formatted_title": "The Price of Applause",
+      "html_title": "<span class=\"work-title\">The Price of Applause</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 800,
+      "slug": "two-weeks-with-pay",
+      "title": "Two Weeks with Pay",
+      "formatted_title": "Two Weeks with Pay",
+      "html_title": "<span class=\"work-title\">Two Weeks with Pay</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 799,
+      "slug": "in-search-of-arcady",
+      "title": "In Search of Arcady",
+      "formatted_title": "In Search of Arcady",
+      "html_title": "<span class=\"work-title\">In Search of Arcady</span>",
+      "work_type": "novel",
+      "publication_year": 1912,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 801,
-    "slug": "the-price-of-applause",
-    "title": "The Price of Applause",
-    "formatted_title": "The Price of Applause",
-    "html_title": "<span class=\"work-title\">The Price of Applause</span>",
+    "id": 797,
+    "slug": "doubling-for-cupid",
+    "title": "Doubling for Cupid",
+    "formatted_title": "Doubling for Cupid",
+    "html_title": "<span class=\"work-title\">Doubling for Cupid</span>",
     "work_type": "novel",
     "publication_year": null,
     "adaptation_count": 1,

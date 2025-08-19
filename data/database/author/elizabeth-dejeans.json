@@ -103,6 +103,17 @@
   ],
   "adapted_works": [
     {
+      "id": 437,
+      "slug": "romance-of-a-million-dollars",
+      "title": "Romance of a Million Dollars",
+      "formatted_title": "Romance of a Million Dollars",
+      "html_title": "<span class=\"work-title\">Romance of a Million Dollars</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 438,
       "slug": "the-tigers-coat",
       "title": "The Tiger's Coat",
@@ -123,27 +134,16 @@
       "publication_year": 1919,
       "adaptation_count": 1,
       "is_remake_champion": false
-    },
-    {
-      "id": 437,
-      "slug": "romance-of-a-million-dollars",
-      "title": "Romance of a Million Dollars",
-      "formatted_title": "Romance of a Million Dollars",
-      "html_title": "<span class=\"work-title\">Romance of a Million Dollars</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 438,
-    "slug": "the-tigers-coat",
-    "title": "The Tiger's Coat",
-    "formatted_title": "The Tiger's Coat",
-    "html_title": "<span class=\"work-title\">The Tiger's Coat</span>",
+    "id": 437,
+    "slug": "romance-of-a-million-dollars",
+    "title": "Romance of a Million Dollars",
+    "formatted_title": "Romance of a Million Dollars",
+    "html_title": "<span class=\"work-title\">Romance of a Million Dollars</span>",
     "work_type": "novel",
-    "publication_year": 1917,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

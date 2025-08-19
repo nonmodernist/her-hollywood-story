@@ -112,28 +112,6 @@
   ],
   "adapted_works": [
     {
-      "id": 982,
-      "slug": "the-branded-sombrero",
-      "title": "The Branded Sombrero",
-      "formatted_title": "The Branded Sombrero",
-      "html_title": "<span class=\"work-title\">The Branded Sombrero</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 985,
-      "slug": "stormy",
-      "title": "Stormy",
-      "formatted_title": "Stormy",
-      "html_title": "<span class=\"work-title\">Stormy</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 983,
       "slug": "empty-saddles",
       "title": "Empty Saddles",
@@ -154,14 +132,36 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 985,
+      "slug": "stormy",
+      "title": "Stormy",
+      "formatted_title": "Stormy",
+      "html_title": "<span class=\"work-title\">Stormy</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 982,
+      "slug": "the-branded-sombrero",
+      "title": "The Branded Sombrero",
+      "formatted_title": "The Branded Sombrero",
+      "html_title": "<span class=\"work-title\">The Branded Sombrero</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 982,
-    "slug": "the-branded-sombrero",
-    "title": "The Branded Sombrero",
-    "formatted_title": "The Branded Sombrero",
-    "html_title": "<span class=\"work-title\">The Branded Sombrero</span>",
+    "id": 983,
+    "slug": "empty-saddles",
+    "title": "Empty Saddles",
+    "formatted_title": "Empty Saddles",
+    "html_title": "<span class=\"work-title\">Empty Saddles</span>",
     "work_type": "novel",
     "publication_year": null,
     "adaptation_count": 1,

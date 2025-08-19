@@ -105,17 +105,6 @@
   ],
   "adapted_works": [
     {
-      "id": 683,
-      "slug": "amarilly-of-clothes-line-alley",
-      "title": "Amarilly of Clothes-Line Alley",
-      "formatted_title": "Amarilly of Clothes-Line Alley",
-      "html_title": "<span class=\"work-title\">Amarilly of Clothes-Line Alley</span>",
-      "work_type": "novel",
-      "publication_year": 1915,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 684,
       "slug": "the-littlest-scrub-lady",
       "title": "The Littlest Scrub Lady",
@@ -123,6 +112,17 @@
       "html_title": "<span class=\"work-title\">The Littlest Scrub Lady</span>",
       "work_type": "novel",
       "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 683,
+      "slug": "amarilly-of-clothes-line-alley",
+      "title": "Amarilly of Clothes-Line Alley",
+      "formatted_title": "Amarilly of Clothes-Line Alley",
+      "html_title": "<span class=\"work-title\">Amarilly of Clothes-Line Alley</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -139,13 +139,13 @@
     }
   ],
   "most_adapted_work": {
-    "id": 683,
-    "slug": "amarilly-of-clothes-line-alley",
-    "title": "Amarilly of Clothes-Line Alley",
-    "formatted_title": "Amarilly of Clothes-Line Alley",
-    "html_title": "<span class=\"work-title\">Amarilly of Clothes-Line Alley</span>",
+    "id": 684,
+    "slug": "the-littlest-scrub-lady",
+    "title": "The Littlest Scrub Lady",
+    "formatted_title": "The Littlest Scrub Lady",
+    "html_title": "<span class=\"work-title\">The Littlest Scrub Lady</span>",
     "work_type": "novel",
-    "publication_year": 1915,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

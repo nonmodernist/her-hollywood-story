@@ -100,17 +100,6 @@
   ],
   "adapted_works": [
     {
-      "id": 280,
-      "slug": "little-eve-edgarton",
-      "title": "Little Eve Edgarton",
-      "formatted_title": "Little Eve Edgarton",
-      "html_title": "<span class=\"work-title\">Little Eve Edgarton</span>",
-      "work_type": "novel",
-      "publication_year": 1914,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 281,
       "slug": "molly-make-believe",
       "title": "Molly Make-Believe",
@@ -118,6 +107,17 @@
       "html_title": "<span class=\"work-title\">Molly Make-Believe</span>",
       "work_type": "novel",
       "publication_year": 1910,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 280,
+      "slug": "little-eve-edgarton",
+      "title": "Little Eve Edgarton",
+      "formatted_title": "Little Eve Edgarton",
+      "html_title": "<span class=\"work-title\">Little Eve Edgarton</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -134,13 +134,13 @@
     }
   ],
   "most_adapted_work": {
-    "id": 280,
-    "slug": "little-eve-edgarton",
-    "title": "Little Eve Edgarton",
-    "formatted_title": "Little Eve Edgarton",
-    "html_title": "<span class=\"work-title\">Little Eve Edgarton</span>",
+    "id": 281,
+    "slug": "molly-make-believe",
+    "title": "Molly Make-Believe",
+    "formatted_title": "Molly Make-Believe",
+    "html_title": "<span class=\"work-title\">Molly Make-Believe</span>",
     "work_type": "novel",
-    "publication_year": 1914,
+    "publication_year": 1910,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

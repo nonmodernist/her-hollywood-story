@@ -119,17 +119,6 @@
   ],
   "adapted_works": [
     {
-      "id": 126,
-      "slug": "footloose",
-      "title": "Footloose",
-      "formatted_title": "Footloose",
-      "html_title": "<span class=\"work-title\">Footloose</span>",
-      "work_type": "novel",
-      "publication_year": 1926,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 127,
       "slug": "the-flapper-wife",
       "title": "The Flapper Wife",
@@ -137,6 +126,17 @@
       "html_title": "<span class=\"work-title\">The Flapper Wife</span>",
       "work_type": "novel",
       "publication_year": 1925,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 126,
+      "slug": "footloose",
+      "title": "Footloose",
+      "formatted_title": "Footloose",
+      "html_title": "<span class=\"work-title\">Footloose</span>",
+      "work_type": "novel",
+      "publication_year": 1926,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -164,13 +164,13 @@
     }
   ],
   "most_adapted_work": {
-    "id": 126,
-    "slug": "footloose",
-    "title": "Footloose",
-    "formatted_title": "Footloose",
-    "html_title": "<span class=\"work-title\">Footloose</span>",
+    "id": 127,
+    "slug": "the-flapper-wife",
+    "title": "The Flapper Wife",
+    "formatted_title": "The Flapper Wife",
+    "html_title": "<span class=\"work-title\">The Flapper Wife</span>",
     "work_type": "novel",
-    "publication_year": 1926,
+    "publication_year": 1925,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

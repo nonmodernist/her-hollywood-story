@@ -153,6 +153,17 @@
   ],
   "adapted_works": [
     {
+      "id": 274,
+      "slug": "theres-always-tomorrow",
+      "title": "There's Always Tomorrow",
+      "formatted_title": "There's Always Tomorrow",
+      "html_title": "<span class=\"work-title\">There's Always Tomorrow</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 153,
       "slug": "ex-wife",
       "title": "Ex-Wife",
@@ -164,23 +175,23 @@
       "is_remake_champion": false
     },
     {
-      "id": 164,
-      "slug": "strangers-may-kiss",
-      "title": "Strangers May Kiss",
-      "formatted_title": "Strangers May Kiss",
-      "html_title": "<span class=\"work-title\">Strangers May Kiss</span>",
-      "work_type": "novel",
-      "publication_year": 1930,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 181,
       "slug": "love-affair",
       "title": "Love Affair",
       "formatted_title": "\"Love Affair\"",
       "html_title": "<span class=\"work-title short-story\">\"Love Affair\"</span>",
       "work_type": "short_story",
+      "publication_year": 1930,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 164,
+      "slug": "strangers-may-kiss",
+      "title": "Strangers May Kiss",
+      "formatted_title": "Strangers May Kiss",
+      "html_title": "<span class=\"work-title\">Strangers May Kiss</span>",
+      "work_type": "novel",
       "publication_year": 1930,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -206,27 +217,16 @@
       "publication_year": 1935,
       "adaptation_count": 1,
       "is_remake_champion": false
-    },
-    {
-      "id": 274,
-      "slug": "theres-always-tomorrow",
-      "title": "There's Always Tomorrow",
-      "formatted_title": "There's Always Tomorrow",
-      "html_title": "<span class=\"work-title\">There's Always Tomorrow</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 153,
-    "slug": "ex-wife",
-    "title": "Ex-Wife",
-    "formatted_title": "Ex-Wife",
-    "html_title": "<span class=\"work-title\">Ex-Wife</span>",
+    "id": 274,
+    "slug": "theres-always-tomorrow",
+    "title": "There's Always Tomorrow",
+    "formatted_title": "There's Always Tomorrow",
+    "html_title": "<span class=\"work-title\">There's Always Tomorrow</span>",
     "work_type": "novel",
-    "publication_year": 1929,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

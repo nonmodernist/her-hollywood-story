@@ -146,22 +146,11 @@
   ],
   "adapted_works": [
     {
-      "id": 167,
-      "slug": "music-in-the-street",
-      "title": "Music in the Street",
-      "formatted_title": "Music in the Street",
-      "html_title": "<span class=\"work-title\">Music in the Street</span>",
-      "work_type": "novel",
-      "publication_year": 1930,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 389,
-      "slug": "suburbs",
-      "title": "Suburbs",
-      "formatted_title": "Suburbs",
-      "html_title": "<span class=\"work-title\">Suburbs</span>",
+      "id": 388,
+      "slug": "gardenia",
+      "title": "Gardenia",
+      "formatted_title": "Gardenia",
+      "html_title": "<span class=\"work-title\">Gardenia</span>",
       "work_type": "novel",
       "publication_year": null,
       "adaptation_count": 1,
@@ -179,6 +168,28 @@
       "is_remake_champion": false
     },
     {
+      "id": 389,
+      "slug": "suburbs",
+      "title": "Suburbs",
+      "formatted_title": "Suburbs",
+      "html_title": "<span class=\"work-title\">Suburbs</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 167,
+      "slug": "music-in-the-street",
+      "title": "Music in the Street",
+      "formatted_title": "Music in the Street",
+      "html_title": "<span class=\"work-title\">Music in the Street</span>",
+      "work_type": "novel",
+      "publication_year": 1930,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 232,
       "slug": "laura",
       "title": "Laura",
@@ -188,27 +199,16 @@
       "publication_year": 1942,
       "adaptation_count": 1,
       "is_remake_champion": false
-    },
-    {
-      "id": 388,
-      "slug": "gardenia",
-      "title": "Gardenia",
-      "formatted_title": "Gardenia",
-      "html_title": "<span class=\"work-title\">Gardenia</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 167,
-    "slug": "music-in-the-street",
-    "title": "Music in the Street",
-    "formatted_title": "Music in the Street",
-    "html_title": "<span class=\"work-title\">Music in the Street</span>",
+    "id": 388,
+    "slug": "gardenia",
+    "title": "Gardenia",
+    "formatted_title": "Gardenia",
+    "html_title": "<span class=\"work-title\">Gardenia</span>",
     "work_type": "novel",
-    "publication_year": 1930,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

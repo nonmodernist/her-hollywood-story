@@ -83,17 +83,6 @@
   ],
   "adapted_works": [
     {
-      "id": 402,
-      "slug": "these-days",
-      "title": "These Days",
-      "formatted_title": "These Days",
-      "html_title": "<span class=\"work-title\">These Days</span>",
-      "work_type": "novel",
-      "publication_year": 1928,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 401,
       "slug": "the-last-gentleman",
       "title": "The Last Gentleman",
@@ -103,16 +92,27 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 402,
+      "slug": "these-days",
+      "title": "These Days",
+      "formatted_title": "These Days",
+      "html_title": "<span class=\"work-title\">These Days</span>",
+      "work_type": "novel",
+      "publication_year": 1928,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 402,
-    "slug": "these-days",
-    "title": "These Days",
-    "formatted_title": "These Days",
-    "html_title": "<span class=\"work-title\">These Days</span>",
+    "id": 401,
+    "slug": "the-last-gentleman",
+    "title": "The Last Gentleman",
+    "formatted_title": "The Last Gentleman",
+    "html_title": "<span class=\"work-title\">The Last Gentleman</span>",
     "work_type": "novel",
-    "publication_year": 1928,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

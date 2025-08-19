@@ -89,17 +89,6 @@
   ],
   "adapted_works": [
     {
-      "id": 875,
-      "slug": "willie-the-worm",
-      "title": "Willie the Worm",
-      "formatted_title": "Willie the Worm",
-      "html_title": "<span class=\"work-title\">Willie the Worm</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 876,
       "slug": "borrowed-love",
       "title": "Borrowed Love",
@@ -109,15 +98,26 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 875,
+      "slug": "willie-the-worm",
+      "title": "Willie the Worm",
+      "formatted_title": "Willie the Worm",
+      "html_title": "<span class=\"work-title\">Willie the Worm</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 875,
-    "slug": "willie-the-worm",
-    "title": "Willie the Worm",
-    "formatted_title": "Willie the Worm",
-    "html_title": "<span class=\"work-title\">Willie the Worm</span>",
-    "work_type": "novel",
+    "id": 876,
+    "slug": "borrowed-love",
+    "title": "Borrowed Love",
+    "formatted_title": "\"Borrowed Love\"",
+    "html_title": "<span class=\"work-title short-story\">\"Borrowed Love\"</span>",
+    "work_type": "short_story",
     "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false

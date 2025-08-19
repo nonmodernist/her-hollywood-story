@@ -204,6 +204,17 @@
   ],
   "adapted_works": [
     {
+      "id": 182,
+      "slug": "tinfoil",
+      "title": "Tinfoil",
+      "formatted_title": "Tinfoil",
+      "html_title": "<span class=\"work-title\">Tinfoil</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 122,
       "slug": "sadie-of-the-desert",
       "title": "Sadie of the Desert",
@@ -226,17 +237,6 @@
       "is_remake_champion": false
     },
     {
-      "id": 166,
-      "slug": "girls-together",
-      "title": "Girls Together",
-      "formatted_title": "\"Girls Together\"",
-      "html_title": "<span class=\"work-title short-story\">\"Girls Together\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1931,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 184,
       "slug": "scotch-valley",
       "title": "Scotch Valley",
@@ -248,13 +248,13 @@
       "is_remake_champion": false
     },
     {
-      "id": 182,
-      "slug": "tinfoil",
-      "title": "Tinfoil",
-      "formatted_title": "Tinfoil",
-      "html_title": "<span class=\"work-title\">Tinfoil</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "id": 166,
+      "slug": "girls-together",
+      "title": "Girls Together",
+      "formatted_title": "\"Girls Together\"",
+      "html_title": "<span class=\"work-title short-story\">\"Girls Together\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1931,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -270,22 +270,22 @@
       "is_remake_champion": false
     },
     {
-      "id": 199,
-      "slug": "thin-air",
-      "title": "Thin Air",
-      "formatted_title": "\"Thin Air\"",
-      "html_title": "<span class=\"work-title short-story\">\"Thin Air\"</span>",
+      "id": 413,
+      "slug": "navy-born",
+      "title": "Navy Born",
+      "formatted_title": "\"Navy Born\"",
+      "html_title": "<span class=\"work-title short-story\">\"Navy Born\"</span>",
       "work_type": "short_story",
       "publication_year": 1934,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
-      "id": 413,
-      "slug": "navy-born",
-      "title": "Navy Born",
-      "formatted_title": "\"Navy Born\"",
-      "html_title": "<span class=\"work-title short-story\">\"Navy Born\"</span>",
+      "id": 199,
+      "slug": "thin-air",
+      "title": "Thin Air",
+      "formatted_title": "\"Thin Air\"",
+      "html_title": "<span class=\"work-title short-story\">\"Thin Air\"</span>",
       "work_type": "short_story",
       "publication_year": 1934,
       "adaptation_count": 1,
@@ -304,13 +304,13 @@
     }
   ],
   "most_adapted_work": {
-    "id": 122,
-    "slug": "sadie-of-the-desert",
-    "title": "Sadie of the Desert",
-    "formatted_title": "\"Sadie of the Desert\"",
-    "html_title": "<span class=\"work-title short-story\">\"Sadie of the Desert\"</span>",
-    "work_type": "short_story",
-    "publication_year": 1925,
+    "id": 182,
+    "slug": "tinfoil",
+    "title": "Tinfoil",
+    "formatted_title": "Tinfoil",
+    "html_title": "<span class=\"work-title\">Tinfoil</span>",
+    "work_type": "novel",
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

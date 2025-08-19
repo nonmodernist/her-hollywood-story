@@ -83,17 +83,6 @@
   ],
   "adapted_works": [
     {
-      "id": 468,
-      "slug": "dancing-feet",
-      "title": "Dancing Feet",
-      "formatted_title": "Dancing Feet",
-      "html_title": "<span class=\"work-title\">Dancing Feet</span>",
-      "work_type": "novel",
-      "publication_year": 1931,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 469,
       "slug": "i-demand-payment",
       "title": "I Demand Payment",
@@ -103,16 +92,27 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 468,
+      "slug": "dancing-feet",
+      "title": "Dancing Feet",
+      "formatted_title": "Dancing Feet",
+      "html_title": "<span class=\"work-title\">Dancing Feet</span>",
+      "work_type": "novel",
+      "publication_year": 1931,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 468,
-    "slug": "dancing-feet",
-    "title": "Dancing Feet",
-    "formatted_title": "Dancing Feet",
-    "html_title": "<span class=\"work-title\">Dancing Feet</span>",
+    "id": 469,
+    "slug": "i-demand-payment",
+    "title": "I Demand Payment",
+    "formatted_title": "I Demand Payment",
+    "html_title": "<span class=\"work-title\">I Demand Payment</span>",
     "work_type": "novel",
-    "publication_year": 1931,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

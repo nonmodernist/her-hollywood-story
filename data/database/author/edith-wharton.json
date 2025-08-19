@@ -169,17 +169,6 @@
   ],
   "adapted_works": [
     {
-      "id": 106,
-      "slug": "the-age-of-innocence",
-      "title": "The Age of Innocence",
-      "formatted_title": "The Age of Innocence",
-      "html_title": "<span class=\"work-title\">The Age of Innocence</span>",
-      "work_type": "novel",
-      "publication_year": 1920,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
       "id": 35,
       "slug": "the-house-of-mirth",
       "title": "The House of Mirth",
@@ -191,11 +180,33 @@
       "is_remake_champion": false
     },
     {
+      "id": 106,
+      "slug": "the-age-of-innocence",
+      "title": "The Age of Innocence",
+      "formatted_title": "The Age of Innocence",
+      "html_title": "<span class=\"work-title\">The Age of Innocence</span>",
+      "work_type": "novel",
+      "publication_year": 1920,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
       "id": 93,
       "slug": "the-glimpses-of-the-moon",
       "title": "The Glimpses of the Moon",
       "formatted_title": "The Glimpses of the Moon",
       "html_title": "<span class=\"work-title\">The Glimpses of the Moon</span>",
+      "work_type": "novel",
+      "publication_year": 1922,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 217,
+      "slug": "the-old-maid",
+      "title": "The Old Maid",
+      "formatted_title": "The Old Maid",
+      "html_title": "<span class=\"work-title\">The Old Maid</span>",
       "work_type": "novel",
       "publication_year": 1922,
       "adaptation_count": 1,
@@ -222,28 +233,17 @@
       "publication_year": 1934,
       "adaptation_count": 1,
       "is_remake_champion": false
-    },
-    {
-      "id": 217,
-      "slug": "the-old-maid",
-      "title": "The Old Maid",
-      "formatted_title": "The Old Maid",
-      "html_title": "<span class=\"work-title\">The Old Maid</span>",
-      "work_type": "novel",
-      "publication_year": 1922,
-      "adaptation_count": 1,
-      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 106,
-    "slug": "the-age-of-innocence",
-    "title": "The Age of Innocence",
-    "formatted_title": "The Age of Innocence",
-    "html_title": "<span class=\"work-title\">The Age of Innocence</span>",
+    "id": 35,
+    "slug": "the-house-of-mirth",
+    "title": "The House of Mirth",
+    "formatted_title": "The House of Mirth",
+    "html_title": "<span class=\"work-title\">The House of Mirth</span>",
     "work_type": "novel",
-    "publication_year": 1920,
-    "adaptation_count": 2,
+    "publication_year": 1905,
+    "adaptation_count": 1,
     "is_remake_champion": false
   },
   "last_updated": "2025-08-04T17:06:35.659603"

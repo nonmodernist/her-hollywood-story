@@ -80,17 +80,6 @@
   ],
   "adapted_works": [
     {
-      "id": 278,
-      "slug": "the-hanging-tree",
-      "title": "The Hanging Tree",
-      "formatted_title": "The Hanging Tree",
-      "html_title": "<span class=\"work-title\">The Hanging Tree</span>",
-      "work_type": "novel",
-      "publication_year": 1957,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 586,
       "slug": "the-man-who-shot-liberty-valance",
       "title": "The Man Who Shot Liberty Valance",
@@ -100,16 +89,27 @@
       "publication_year": 1949,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 278,
+      "slug": "the-hanging-tree",
+      "title": "The Hanging Tree",
+      "formatted_title": "The Hanging Tree",
+      "html_title": "<span class=\"work-title\">The Hanging Tree</span>",
+      "work_type": "novel",
+      "publication_year": 1957,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 278,
-    "slug": "the-hanging-tree",
-    "title": "The Hanging Tree",
-    "formatted_title": "The Hanging Tree",
-    "html_title": "<span class=\"work-title\">The Hanging Tree</span>",
-    "work_type": "novel",
-    "publication_year": 1957,
+    "id": 586,
+    "slug": "the-man-who-shot-liberty-valance",
+    "title": "The Man Who Shot Liberty Valance",
+    "formatted_title": "The Man Who Shot Liberty Valance",
+    "html_title": "<span class=\"work-title\">The Man Who Shot Liberty Valance</span>",
+    "work_type": "novella",
+    "publication_year": 1949,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

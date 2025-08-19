@@ -136,28 +136,6 @@
   ],
   "adapted_works": [
     {
-      "id": 816,
-      "slug": "a-weaver-of-dreams",
-      "title": "A Weaver of Dreams",
-      "formatted_title": "A Weaver of Dreams",
-      "html_title": "<span class=\"work-title\">A Weaver of Dreams</span>",
-      "work_type": "novel",
-      "publication_year": 1911,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 813,
-      "slug": "flower-of-the-dusk",
-      "title": "Flower of the Dusk",
-      "formatted_title": "Flower of the Dusk",
-      "html_title": "<span class=\"work-title\">Flower of the Dusk</span>",
-      "work_type": "novel",
-      "publication_year": 1908,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 814,
       "slug": "lavender-and-old-lace",
       "title": "Lavender and Old Lace",
@@ -189,16 +167,38 @@
       "publication_year": 1906,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 813,
+      "slug": "flower-of-the-dusk",
+      "title": "Flower of the Dusk",
+      "formatted_title": "Flower of the Dusk",
+      "html_title": "<span class=\"work-title\">Flower of the Dusk</span>",
+      "work_type": "novel",
+      "publication_year": 1908,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 816,
+      "slug": "a-weaver-of-dreams",
+      "title": "A Weaver of Dreams",
+      "formatted_title": "A Weaver of Dreams",
+      "html_title": "<span class=\"work-title\">A Weaver of Dreams</span>",
+      "work_type": "novel",
+      "publication_year": 1911,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 816,
-    "slug": "a-weaver-of-dreams",
-    "title": "A Weaver of Dreams",
-    "formatted_title": "A Weaver of Dreams",
-    "html_title": "<span class=\"work-title\">A Weaver of Dreams</span>",
+    "id": 814,
+    "slug": "lavender-and-old-lace",
+    "title": "Lavender and Old Lace",
+    "formatted_title": "Lavender and Old Lace",
+    "html_title": "<span class=\"work-title\">Lavender and Old Lace</span>",
     "work_type": "novel",
-    "publication_year": 1911,
+    "publication_year": 1902,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

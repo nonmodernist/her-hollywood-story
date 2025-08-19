@@ -84,17 +84,6 @@
   ],
   "adapted_works": [
     {
-      "id": 293,
-      "slug": "the-harbor-road",
-      "title": "The Harbor Road",
-      "formatted_title": "The Harbor Road",
-      "html_title": "<span class=\"work-title\">The Harbor Road</span>",
-      "work_type": "novel",
-      "publication_year": 1919,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 294,
       "slug": "the-taming-of-zenas-henry",
       "title": "The Taming of Zenas Henry",
@@ -104,16 +93,27 @@
       "publication_year": 1915,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 293,
+      "slug": "the-harbor-road",
+      "title": "The Harbor Road",
+      "formatted_title": "The Harbor Road",
+      "html_title": "<span class=\"work-title\">The Harbor Road</span>",
+      "work_type": "novel",
+      "publication_year": 1919,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 293,
-    "slug": "the-harbor-road",
-    "title": "The Harbor Road",
-    "formatted_title": "The Harbor Road",
-    "html_title": "<span class=\"work-title\">The Harbor Road</span>",
+    "id": 294,
+    "slug": "the-taming-of-zenas-henry",
+    "title": "The Taming of Zenas Henry",
+    "formatted_title": "The Taming of Zenas Henry",
+    "html_title": "<span class=\"work-title\">The Taming of Zenas Henry</span>",
     "work_type": "novel",
-    "publication_year": 1919,
+    "publication_year": 1915,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

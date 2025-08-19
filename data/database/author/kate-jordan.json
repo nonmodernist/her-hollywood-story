@@ -185,39 +185,6 @@
   ],
   "adapted_works": [
     {
-      "id": 602,
-      "slug": "the-next-corner",
-      "title": "The Next Corner",
-      "formatted_title": "The Next Corner",
-      "html_title": "<span class=\"work-title\">The Next Corner</span>",
-      "work_type": "novel",
-      "publication_year": 1921,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
-      "id": 601,
-      "slug": "the-creeping-tides-a-romance-of-an-old-neighborhood",
-      "title": "The Creeping Tides: a Romance of an Old Neighborhood",
-      "formatted_title": "The Creeping Tides: a Romance of an Old Neighborhood",
-      "html_title": "<span class=\"work-title\">The Creeping Tides: a Romance of an Old Neighborhood</span>",
-      "work_type": "novel",
-      "publication_year": 1915,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 604,
-      "slug": "secret-strings",
-      "title": "Secret Strings",
-      "formatted_title": "Secret Strings",
-      "html_title": "<span class=\"work-title\">Secret Strings</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 603,
       "slug": "orchestra-d-2",
       "title": "Orchestra D-2",
@@ -229,13 +196,13 @@
       "is_remake_champion": false
     },
     {
-      "id": 600,
-      "slug": "a-city-sparrow",
-      "title": "A City Sparrow",
-      "formatted_title": "\"A City Sparrow\"",
-      "html_title": "<span class=\"work-title short-story\">\"A City Sparrow\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1917,
+      "id": 604,
+      "slug": "secret-strings",
+      "title": "Secret Strings",
+      "formatted_title": "Secret Strings",
+      "html_title": "<span class=\"work-title\">Secret Strings</span>",
+      "work_type": "novel",
+      "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -260,17 +227,50 @@
       "publication_year": 1905,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 601,
+      "slug": "the-creeping-tides-a-romance-of-an-old-neighborhood",
+      "title": "The Creeping Tides: a Romance of an Old Neighborhood",
+      "formatted_title": "The Creeping Tides: a Romance of an Old Neighborhood",
+      "html_title": "<span class=\"work-title\">The Creeping Tides: a Romance of an Old Neighborhood</span>",
+      "work_type": "novel",
+      "publication_year": 1915,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 600,
+      "slug": "a-city-sparrow",
+      "title": "A City Sparrow",
+      "formatted_title": "\"A City Sparrow\"",
+      "html_title": "<span class=\"work-title short-story\">\"A City Sparrow\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1917,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 602,
+      "slug": "the-next-corner",
+      "title": "The Next Corner",
+      "formatted_title": "The Next Corner",
+      "html_title": "<span class=\"work-title\">The Next Corner</span>",
+      "work_type": "novel",
+      "publication_year": 1921,
+      "adaptation_count": 2,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 602,
-    "slug": "the-next-corner",
-    "title": "The Next Corner",
-    "formatted_title": "The Next Corner",
-    "html_title": "<span class=\"work-title\">The Next Corner</span>",
+    "id": 603,
+    "slug": "orchestra-d-2",
+    "title": "Orchestra D-2",
+    "formatted_title": "Orchestra D-2",
+    "html_title": "<span class=\"work-title\">Orchestra D-2</span>",
     "work_type": "novel",
-    "publication_year": 1921,
-    "adaptation_count": 2,
+    "publication_year": null,
+    "adaptation_count": 1,
     "is_remake_champion": false
   },
   "last_updated": "2025-08-04T17:06:35.659603"

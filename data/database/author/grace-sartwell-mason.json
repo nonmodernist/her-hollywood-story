@@ -114,17 +114,6 @@
       "is_remake_champion": false
     },
     {
-      "id": 703,
-      "slug": "speed",
-      "title": "Speed",
-      "formatted_title": "\"Speed\"",
-      "html_title": "<span class=\"work-title short-story\">\"Speed\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1924,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 701,
       "slug": "clarissa-and-the-post-road",
       "title": "Clarissa and the Post Road",
@@ -132,6 +121,17 @@
       "html_title": "<span class=\"work-title short-story\">\"Clarissa and the Post Road\"</span>",
       "work_type": "short_story",
       "publication_year": 1923,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 703,
+      "slug": "speed",
+      "title": "Speed",
+      "formatted_title": "\"Speed\"",
+      "html_title": "<span class=\"work-title short-story\">\"Speed\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1924,
       "adaptation_count": 1,
       "is_remake_champion": false
     }

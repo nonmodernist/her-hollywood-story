@@ -210,14 +210,14 @@
   ],
   "adapted_works": [
     {
-      "id": 20,
-      "slug": "rebecca-of-sunnybrook-farm",
-      "title": "Rebecca of Sunnybrook Farm",
-      "formatted_title": "Rebecca of Sunnybrook Farm",
-      "html_title": "<span class=\"work-title\">Rebecca of Sunnybrook Farm</span>",
+      "id": 967,
+      "slug": "the-birds-christmas-carol",
+      "title": "The Bird's Christmas Carol",
+      "formatted_title": "The Bird's Christmas Carol",
+      "html_title": "<span class=\"work-title\">The Bird's Christmas Carol</span>",
       "work_type": "novel",
-      "publication_year": 1903,
-      "adaptation_count": 3,
+      "publication_year": 1887,
+      "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
@@ -232,25 +232,14 @@
       "is_remake_champion": false
     },
     {
-      "id": 968,
-      "slug": "mother-careys-chickens",
-      "title": "Mother Carey's Chickens",
-      "formatted_title": "Mother Carey's Chickens",
-      "html_title": "<span class=\"work-title\">Mother Carey's Chickens</span>",
+      "id": 20,
+      "slug": "rebecca-of-sunnybrook-farm",
+      "title": "Rebecca of Sunnybrook Farm",
+      "formatted_title": "Rebecca of Sunnybrook Farm",
+      "html_title": "<span class=\"work-title\">Rebecca of Sunnybrook Farm</span>",
       "work_type": "novel",
-      "publication_year": 1910,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
-      "id": 967,
-      "slug": "the-birds-christmas-carol",
-      "title": "The Bird's Christmas Carol",
-      "formatted_title": "The Bird's Christmas Carol",
-      "html_title": "<span class=\"work-title\">The Bird's Christmas Carol</span>",
-      "work_type": "novel",
-      "publication_year": 1887,
-      "adaptation_count": 1,
+      "publication_year": 1903,
+      "adaptation_count": 3,
       "is_remake_champion": false
     },
     {
@@ -263,17 +252,28 @@
       "publication_year": 1905,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 968,
+      "slug": "mother-careys-chickens",
+      "title": "Mother Carey's Chickens",
+      "formatted_title": "Mother Carey's Chickens",
+      "html_title": "<span class=\"work-title\">Mother Carey's Chickens</span>",
+      "work_type": "novel",
+      "publication_year": 1910,
+      "adaptation_count": 2,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 20,
-    "slug": "rebecca-of-sunnybrook-farm",
-    "title": "Rebecca of Sunnybrook Farm",
-    "formatted_title": "Rebecca of Sunnybrook Farm",
-    "html_title": "<span class=\"work-title\">Rebecca of Sunnybrook Farm</span>",
+    "id": 967,
+    "slug": "the-birds-christmas-carol",
+    "title": "The Bird's Christmas Carol",
+    "formatted_title": "The Bird's Christmas Carol",
+    "html_title": "<span class=\"work-title\">The Bird's Christmas Carol</span>",
     "work_type": "novel",
-    "publication_year": 1903,
-    "adaptation_count": 3,
+    "publication_year": 1887,
+    "adaptation_count": 1,
     "is_remake_champion": false
   },
   "last_updated": "2025-08-04T17:06:35.659603"

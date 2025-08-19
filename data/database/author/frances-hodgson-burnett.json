@@ -350,6 +350,94 @@
   ],
   "adapted_works": [
     {
+      "id": 96,
+      "slug": "that-lass-o-lowries",
+      "title": "That Lass O' Lowrie's",
+      "formatted_title": "That Lass O' Lowrie's",
+      "html_title": "<span class=\"work-title\">That Lass O' Lowrie's</span>",
+      "work_type": "novel",
+      "publication_year": 1876,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 361,
+      "slug": "esmeralda",
+      "title": "Esmeralda",
+      "formatted_title": "\"Esmeralda\"",
+      "html_title": "<span class=\"work-title short-story\">\"Esmeralda\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1877,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 23,
+      "slug": "a-fair-barbarian",
+      "title": "A Fair Barbarian",
+      "formatted_title": "A Fair Barbarian",
+      "html_title": "<span class=\"work-title\">A Fair Barbarian</span>",
+      "work_type": "novel",
+      "publication_year": 1880,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 363,
+      "slug": "louisiana",
+      "title": "Louisiana",
+      "formatted_title": "Louisiana",
+      "html_title": "<span class=\"work-title\">Louisiana</span>",
+      "work_type": "novella",
+      "publication_year": 1880,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 73,
+      "slug": "little-lord-fauntleroy",
+      "title": "Little Lord Fauntleroy",
+      "formatted_title": "Little Lord Fauntleroy",
+      "html_title": "<span class=\"work-title\">Little Lord Fauntleroy</span>",
+      "work_type": "novel",
+      "publication_year": 1885,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 362,
+      "slug": "sara-crewe-or-what-happened-at-miss-minchins",
+      "title": "Sara Crewe; or, What Happened at Miss Minchin’s",
+      "formatted_title": "Sara Crewe; or, What Happened at Miss Minchin’s",
+      "html_title": "<span class=\"work-title\">Sara Crewe; or, What Happened at Miss Minchin’s</span>",
+      "work_type": "novel",
+      "publication_year": 1887,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 101,
+      "slug": "edithas-burglar",
+      "title": "Editha's Burglar",
+      "formatted_title": "Editha's Burglar",
+      "html_title": "<span class=\"work-title\">Editha's Burglar</span>",
+      "work_type": "novel",
+      "publication_year": 1888,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 8,
+      "slug": "the-pretty-sister-of-jose",
+      "title": "The Pretty Sister of Jose",
+      "formatted_title": "The Pretty Sister of Jose",
+      "html_title": "<span class=\"work-title\">The Pretty Sister of Jose</span>",
+      "work_type": "novel",
+      "publication_year": 1889,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 4,
       "slug": "a-lady-of-quality",
       "title": "A Lady of Quality",
@@ -372,25 +460,14 @@
       "is_remake_champion": false
     },
     {
-      "id": 96,
-      "slug": "that-lass-o-lowries",
-      "title": "That Lass O' Lowrie's",
-      "formatted_title": "That Lass O' Lowrie's",
-      "html_title": "<span class=\"work-title\">That Lass O' Lowrie's</span>",
+      "id": 365,
+      "slug": "the-shuttle",
+      "title": "The Shuttle",
+      "formatted_title": "The Shuttle",
+      "html_title": "<span class=\"work-title\">The Shuttle</span>",
       "work_type": "novel",
-      "publication_year": 1876,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
-      "id": 362,
-      "slug": "sara-crewe-or-what-happened-at-miss-minchins",
-      "title": "Sara Crewe; or, What Happened at Miss Minchin’s",
-      "formatted_title": "Sara Crewe; or, What Happened at Miss Minchin’s",
-      "html_title": "<span class=\"work-title\">Sara Crewe; or, What Happened at Miss Minchin’s</span>",
-      "work_type": "novel",
-      "publication_year": 1887,
-      "adaptation_count": 2,
+      "publication_year": 1908,
+      "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
@@ -403,93 +480,16 @@
       "publication_year": 1910,
       "adaptation_count": 2,
       "is_remake_champion": false
-    },
-    {
-      "id": 73,
-      "slug": "little-lord-fauntleroy",
-      "title": "Little Lord Fauntleroy",
-      "formatted_title": "Little Lord Fauntleroy",
-      "html_title": "<span class=\"work-title\">Little Lord Fauntleroy</span>",
-      "work_type": "novel",
-      "publication_year": 1885,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
-      "id": 361,
-      "slug": "esmeralda",
-      "title": "Esmeralda",
-      "formatted_title": "\"Esmeralda\"",
-      "html_title": "<span class=\"work-title short-story\">\"Esmeralda\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1877,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 8,
-      "slug": "the-pretty-sister-of-jose",
-      "title": "The Pretty Sister of Jose",
-      "formatted_title": "The Pretty Sister of Jose",
-      "html_title": "<span class=\"work-title\">The Pretty Sister of Jose</span>",
-      "work_type": "novel",
-      "publication_year": 1889,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 23,
-      "slug": "a-fair-barbarian",
-      "title": "A Fair Barbarian",
-      "formatted_title": "A Fair Barbarian",
-      "html_title": "<span class=\"work-title\">A Fair Barbarian</span>",
-      "work_type": "novel",
-      "publication_year": 1880,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 365,
-      "slug": "the-shuttle",
-      "title": "The Shuttle",
-      "formatted_title": "The Shuttle",
-      "html_title": "<span class=\"work-title\">The Shuttle</span>",
-      "work_type": "novel",
-      "publication_year": 1908,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 363,
-      "slug": "louisiana",
-      "title": "Louisiana",
-      "formatted_title": "Louisiana",
-      "html_title": "<span class=\"work-title\">Louisiana</span>",
-      "work_type": "novella",
-      "publication_year": 1880,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 101,
-      "slug": "edithas-burglar",
-      "title": "Editha's Burglar",
-      "formatted_title": "Editha's Burglar",
-      "html_title": "<span class=\"work-title\">Editha's Burglar</span>",
-      "work_type": "novel",
-      "publication_year": 1888,
-      "adaptation_count": 1,
-      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 4,
-    "slug": "a-lady-of-quality",
-    "title": "A Lady of Quality",
-    "formatted_title": "A Lady of Quality",
-    "html_title": "<span class=\"work-title\">A Lady of Quality</span>",
+    "id": 96,
+    "slug": "that-lass-o-lowries",
+    "title": "That Lass O' Lowrie's",
+    "formatted_title": "That Lass O' Lowrie's",
+    "html_title": "<span class=\"work-title\">That Lass O' Lowrie's</span>",
     "work_type": "novel",
-    "publication_year": 1896,
+    "publication_year": 1876,
     "adaptation_count": 2,
     "is_remake_champion": false
   },

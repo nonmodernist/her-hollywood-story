@@ -83,17 +83,6 @@
   ],
   "adapted_works": [
     {
-      "id": 636,
-      "slug": "clipped-wings",
-      "title": "Clipped Wings",
-      "formatted_title": "\"Clipped Wings\"",
-      "html_title": "<span class=\"work-title short-story\">\"Clipped Wings\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1928,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 637,
       "slug": "widows-night",
       "title": "Widow's Night",
@@ -103,16 +92,27 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 636,
+      "slug": "clipped-wings",
+      "title": "Clipped Wings",
+      "formatted_title": "\"Clipped Wings\"",
+      "html_title": "<span class=\"work-title short-story\">\"Clipped Wings\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1928,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 636,
-    "slug": "clipped-wings",
-    "title": "Clipped Wings",
-    "formatted_title": "\"Clipped Wings\"",
-    "html_title": "<span class=\"work-title short-story\">\"Clipped Wings\"</span>",
-    "work_type": "short_story",
-    "publication_year": 1928,
+    "id": 637,
+    "slug": "widows-night",
+    "title": "Widow's Night",
+    "formatted_title": "Widow's Night",
+    "html_title": "<span class=\"work-title\">Widow's Night</span>",
+    "work_type": "novel",
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

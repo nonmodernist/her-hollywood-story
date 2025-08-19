@@ -169,13 +169,13 @@
   ],
   "adapted_works": [
     {
-      "id": 38,
-      "slug": "the-bargain-true",
-      "title": "The Bargain True",
-      "formatted_title": "The Bargain True",
-      "html_title": "<span class=\"work-title\">The Bargain True</span>",
-      "work_type": "novel",
-      "publication_year": 1918,
+      "id": 48,
+      "slug": "the-bramble-bush",
+      "title": "The Bramble Bush",
+      "formatted_title": "The Bramble Bush",
+      "html_title": "<span class=\"work-title\">The Bramble Bush</span>",
+      "work_type": "novella",
+      "publication_year": 1914,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -191,24 +191,13 @@
       "is_remake_champion": false
     },
     {
-      "id": 48,
-      "slug": "the-bramble-bush",
-      "title": "The Bramble Bush",
-      "formatted_title": "The Bramble Bush",
-      "html_title": "<span class=\"work-title\">The Bramble Bush</span>",
-      "work_type": "novella",
-      "publication_year": 1914,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 63,
-      "slug": "miss-antique",
-      "title": "Miss Antique",
-      "formatted_title": "\"Miss Antique\"",
-      "html_title": "<span class=\"work-title short-story\">\"Miss Antique\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1919,
+      "id": 38,
+      "slug": "the-bargain-true",
+      "title": "The Bargain True",
+      "formatted_title": "The Bargain True",
+      "html_title": "<span class=\"work-title\">The Bargain True</span>",
+      "work_type": "novel",
+      "publication_year": 1918,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -219,6 +208,17 @@
       "formatted_title": "A Woman's Woman",
       "html_title": "<span class=\"work-title\">A Woman's Woman</span>",
       "work_type": "novel",
+      "publication_year": 1919,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 63,
+      "slug": "miss-antique",
+      "title": "Miss Antique",
+      "formatted_title": "\"Miss Antique\"",
+      "html_title": "<span class=\"work-title short-story\">\"Miss Antique\"</span>",
+      "work_type": "short_story",
       "publication_year": 1919,
       "adaptation_count": 1,
       "is_remake_champion": false
@@ -247,13 +247,13 @@
     }
   ],
   "most_adapted_work": {
-    "id": 38,
-    "slug": "the-bargain-true",
-    "title": "The Bargain True",
-    "formatted_title": "The Bargain True",
-    "html_title": "<span class=\"work-title\">The Bargain True</span>",
-    "work_type": "novel",
-    "publication_year": 1918,
+    "id": 48,
+    "slug": "the-bramble-bush",
+    "title": "The Bramble Bush",
+    "formatted_title": "The Bramble Bush",
+    "html_title": "<span class=\"work-title\">The Bramble Bush</span>",
+    "work_type": "novella",
+    "publication_year": 1914,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

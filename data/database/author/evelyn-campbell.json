@@ -172,14 +172,14 @@
   ],
   "adapted_works": [
     {
-      "id": 373,
-      "slug": "nobodys-bride",
-      "title": "Nobody's Bride",
-      "formatted_title": "Nobody's Bride",
-      "html_title": "<span class=\"work-title\">Nobody's Bride</span>",
-      "work_type": "novella",
-      "publication_year": 1918,
-      "adaptation_count": 2,
+      "id": 374,
+      "slug": "remorse",
+      "title": "Remorse",
+      "formatted_title": "Remorse",
+      "html_title": "<span class=\"work-title\">Remorse</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
@@ -191,6 +191,17 @@
       "work_type": "novella",
       "publication_year": 1917,
       "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 373,
+      "slug": "nobodys-bride",
+      "title": "Nobody's Bride",
+      "formatted_title": "Nobody's Bride",
+      "html_title": "<span class=\"work-title\">Nobody's Bride</span>",
+      "work_type": "novella",
+      "publication_year": 1918,
+      "adaptation_count": 2,
       "is_remake_champion": false
     },
     {
@@ -225,28 +236,17 @@
       "publication_year": 1924,
       "adaptation_count": 1,
       "is_remake_champion": false
-    },
-    {
-      "id": 374,
-      "slug": "remorse",
-      "title": "Remorse",
-      "formatted_title": "Remorse",
-      "html_title": "<span class=\"work-title\">Remorse</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 373,
-    "slug": "nobodys-bride",
-    "title": "Nobody's Bride",
-    "formatted_title": "Nobody's Bride",
-    "html_title": "<span class=\"work-title\">Nobody's Bride</span>",
-    "work_type": "novella",
-    "publication_year": 1918,
-    "adaptation_count": 2,
+    "id": 374,
+    "slug": "remorse",
+    "title": "Remorse",
+    "formatted_title": "Remorse",
+    "html_title": "<span class=\"work-title\">Remorse</span>",
+    "work_type": "novel",
+    "publication_year": null,
+    "adaptation_count": 1,
     "is_remake_champion": false
   },
   "last_updated": "2025-08-04T17:06:35.659603"

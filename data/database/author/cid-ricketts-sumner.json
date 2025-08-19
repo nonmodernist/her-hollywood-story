@@ -121,17 +121,6 @@
   ],
   "adapted_works": [
     {
-      "id": 276,
-      "slug": "tammy-out-of-time",
-      "title": "Tammy Out of Time",
-      "formatted_title": "Tammy Out of Time",
-      "html_title": "<span class=\"work-title\">Tammy Out of Time</span>",
-      "work_type": "novel",
-      "publication_year": 1948,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
       "id": 252,
       "slug": "quality",
       "title": "Quality",
@@ -140,6 +129,17 @@
       "work_type": "novel",
       "publication_year": 1946,
       "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 276,
+      "slug": "tammy-out-of-time",
+      "title": "Tammy Out of Time",
+      "formatted_title": "Tammy Out of Time",
+      "html_title": "<span class=\"work-title\">Tammy Out of Time</span>",
+      "work_type": "novel",
+      "publication_year": 1948,
+      "adaptation_count": 2,
       "is_remake_champion": false
     },
     {
@@ -155,14 +155,14 @@
     }
   ],
   "most_adapted_work": {
-    "id": 276,
-    "slug": "tammy-out-of-time",
-    "title": "Tammy Out of Time",
-    "formatted_title": "Tammy Out of Time",
-    "html_title": "<span class=\"work-title\">Tammy Out of Time</span>",
+    "id": 252,
+    "slug": "quality",
+    "title": "Quality",
+    "formatted_title": "Quality",
+    "html_title": "<span class=\"work-title\">Quality</span>",
     "work_type": "novel",
-    "publication_year": 1948,
-    "adaptation_count": 2,
+    "publication_year": 1946,
+    "adaptation_count": 1,
     "is_remake_champion": false
   },
   "last_updated": "2025-08-04T17:06:35.659603"

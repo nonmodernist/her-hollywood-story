@@ -100,6 +100,17 @@
   ],
   "adapted_works": [
     {
+      "id": 516,
+      "slug": "the-way",
+      "title": "The Way",
+      "formatted_title": "\"The Way\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Way\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1908,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 71,
       "slug": "miss-lulu-bett",
       "title": "Miss Lulu Bett",
@@ -120,27 +131,16 @@
       "publication_year": 1923,
       "adaptation_count": 1,
       "is_remake_champion": false
-    },
-    {
-      "id": 516,
-      "slug": "the-way",
-      "title": "The Way",
-      "formatted_title": "\"The Way\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Way\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1908,
-      "adaptation_count": 1,
-      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 71,
-    "slug": "miss-lulu-bett",
-    "title": "Miss Lulu Bett",
-    "formatted_title": "Miss Lulu Bett",
-    "html_title": "<span class=\"work-title\">Miss Lulu Bett</span>",
-    "work_type": "novel",
-    "publication_year": 1920,
+    "id": 516,
+    "slug": "the-way",
+    "title": "The Way",
+    "formatted_title": "\"The Way\"",
+    "html_title": "<span class=\"work-title short-story\">\"The Way\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1908,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

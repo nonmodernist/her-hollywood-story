@@ -466,61 +466,6 @@
   ],
   "adapted_works": [
     {
-      "id": 100,
-      "slug": "so-big",
-      "title": "So Big",
-      "formatted_title": "So Big",
-      "html_title": "<span class=\"work-title\">So Big</span>",
-      "work_type": "novel",
-      "publication_year": 1924,
-      "adaptation_count": 3,
-      "is_remake_champion": false
-    },
-    {
-      "id": 491,
-      "slug": "old-man-minick",
-      "title": "Old Man Minick",
-      "formatted_title": "\"Old Man Minick\"",
-      "html_title": "<span class=\"work-title short-story\">\"Old Man Minick\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1922,
-      "adaptation_count": 3,
-      "is_remake_champion": false
-    },
-    {
-      "id": 145,
-      "slug": "show-boat",
-      "title": "Show Boat",
-      "formatted_title": "Show Boat",
-      "html_title": "<span class=\"work-title\">Show Boat</span>",
-      "work_type": "novel",
-      "publication_year": 1926,
-      "adaptation_count": 3,
-      "is_remake_champion": false
-    },
-    {
-      "id": 481,
-      "slug": "classified",
-      "title": "Classified",
-      "formatted_title": "\"Classified\"",
-      "html_title": "<span class=\"work-title short-story\">\"Classified\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1924,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
-      "id": 165,
-      "slug": "cimarron",
-      "title": "Cimarron",
-      "formatted_title": "Cimarron",
-      "html_title": "<span class=\"work-title\">Cimarron</span>",
-      "work_type": "novel",
-      "publication_year": 1929,
-      "adaptation_count": 2,
-      "is_remake_champion": false
-    },
-    {
       "id": 483,
       "slug": "emma-mcchesney-co",
       "title": "Emma McChesney & Co.",
@@ -528,17 +473,6 @@
       "html_title": "<span class=\"work-title\">Emma McChesney & Co.</span>",
       "work_type": "collection",
       "publication_year": 1915,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 485,
-      "slug": "the-gay-old-dog",
-      "title": "The Gay Old Dog",
-      "formatted_title": "The Gay Old Dog",
-      "html_title": "<span class=\"work-title\">The Gay Old Dog</span>",
-      "work_type": "novella",
-      "publication_year": 1917,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -554,6 +488,28 @@
       "is_remake_champion": false
     },
     {
+      "id": 485,
+      "slug": "the-gay-old-dog",
+      "title": "The Gay Old Dog",
+      "formatted_title": "The Gay Old Dog",
+      "html_title": "<span class=\"work-title\">The Gay Old Dog</span>",
+      "work_type": "novella",
+      "publication_year": 1917,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 490,
+      "slug": "not-a-day-over-twenty-one",
+      "title": "Not A Day Over Twenty-One",
+      "formatted_title": "\"Not A Day Over Twenty-One\"",
+      "html_title": "<span class=\"work-title short-story\">\"Not A Day Over Twenty-One\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1921,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 486,
       "slug": "gigolo",
       "title": "Gigolo",
@@ -561,17 +517,6 @@
       "html_title": "<span class=\"work-title short-story\">\"Gigolo\"</span>",
       "work_type": "short_story",
       "publication_year": 1922,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 489,
-      "slug": "mother-knows-best",
-      "title": "Mother Knows Best",
-      "formatted_title": "\"Mother Knows Best\"",
-      "html_title": "<span class=\"work-title short-story\">\"Mother Knows Best\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1925,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -587,14 +532,69 @@
       "is_remake_champion": false
     },
     {
-      "id": 490,
-      "slug": "not-a-day-over-twenty-one",
-      "title": "Not A Day Over Twenty-One",
-      "formatted_title": "\"Not A Day Over Twenty-One\"",
-      "html_title": "<span class=\"work-title short-story\">\"Not A Day Over Twenty-One\"</span>",
+      "id": 491,
+      "slug": "old-man-minick",
+      "title": "Old Man Minick",
+      "formatted_title": "\"Old Man Minick\"",
+      "html_title": "<span class=\"work-title short-story\">\"Old Man Minick\"</span>",
       "work_type": "short_story",
-      "publication_year": 1921,
+      "publication_year": 1922,
+      "adaptation_count": 3,
+      "is_remake_champion": false
+    },
+    {
+      "id": 481,
+      "slug": "classified",
+      "title": "Classified",
+      "formatted_title": "\"Classified\"",
+      "html_title": "<span class=\"work-title short-story\">\"Classified\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1924,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 100,
+      "slug": "so-big",
+      "title": "So Big",
+      "formatted_title": "So Big",
+      "html_title": "<span class=\"work-title\">So Big</span>",
+      "work_type": "novel",
+      "publication_year": 1924,
+      "adaptation_count": 3,
+      "is_remake_champion": false
+    },
+    {
+      "id": 489,
+      "slug": "mother-knows-best",
+      "title": "Mother Knows Best",
+      "formatted_title": "\"Mother Knows Best\"",
+      "html_title": "<span class=\"work-title short-story\">\"Mother Knows Best\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1925,
       "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 145,
+      "slug": "show-boat",
+      "title": "Show Boat",
+      "formatted_title": "Show Boat",
+      "html_title": "<span class=\"work-title\">Show Boat</span>",
+      "work_type": "novel",
+      "publication_year": 1926,
+      "adaptation_count": 3,
+      "is_remake_champion": false
+    },
+    {
+      "id": 165,
+      "slug": "cimarron",
+      "title": "Cimarron",
+      "formatted_title": "Cimarron",
+      "html_title": "<span class=\"work-title\">Cimarron</span>",
+      "work_type": "novel",
+      "publication_year": 1929,
+      "adaptation_count": 2,
       "is_remake_champion": false
     },
     {
@@ -654,14 +654,14 @@
     }
   ],
   "most_adapted_work": {
-    "id": 100,
-    "slug": "so-big",
-    "title": "So Big",
-    "formatted_title": "So Big",
-    "html_title": "<span class=\"work-title\">So Big</span>",
-    "work_type": "novel",
-    "publication_year": 1924,
-    "adaptation_count": 3,
+    "id": 483,
+    "slug": "emma-mcchesney-co",
+    "title": "Emma McChesney & Co.",
+    "formatted_title": "Emma McChesney & Co.",
+    "html_title": "<span class=\"work-title\">Emma McChesney & Co.</span>",
+    "work_type": "collection",
+    "publication_year": 1915,
+    "adaptation_count": 1,
     "is_remake_champion": false
   },
   "last_updated": "2025-08-13T21:40:14.224627"

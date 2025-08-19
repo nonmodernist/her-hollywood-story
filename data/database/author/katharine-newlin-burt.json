@@ -171,6 +171,17 @@
   ],
   "adapted_works": [
     {
+      "id": 138,
+      "slug": "body-and-soul",
+      "title": "Body and Soul",
+      "formatted_title": "\"Body and Soul\"",
+      "html_title": "<span class=\"work-title short-story\">\"Body and Soul\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1919,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 68,
       "slug": "the-branding-iron",
       "title": "The Branding Iron",
@@ -204,17 +215,6 @@
       "is_remake_champion": false
     },
     {
-      "id": 98,
-      "slug": "the-leopardess",
-      "title": "The Leopardess",
-      "formatted_title": "\"The Leopardess\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Leopardess\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1923,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 117,
       "slug": "summoned",
       "title": "Summoned",
@@ -226,13 +226,13 @@
       "is_remake_champion": false
     },
     {
-      "id": 138,
-      "slug": "body-and-soul",
-      "title": "Body and Soul",
-      "formatted_title": "\"Body and Soul\"",
-      "html_title": "<span class=\"work-title short-story\">\"Body and Soul\"</span>",
+      "id": 98,
+      "slug": "the-leopardess",
+      "title": "The Leopardess",
+      "formatted_title": "\"The Leopardess\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Leopardess\"</span>",
       "work_type": "short_story",
-      "publication_year": 1919,
+      "publication_year": 1923,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -249,12 +249,12 @@
     }
   ],
   "most_adapted_work": {
-    "id": 68,
-    "slug": "the-branding-iron",
-    "title": "The Branding Iron",
-    "formatted_title": "The Branding Iron",
-    "html_title": "<span class=\"work-title\">The Branding Iron</span>",
-    "work_type": "novel",
+    "id": 138,
+    "slug": "body-and-soul",
+    "title": "Body and Soul",
+    "formatted_title": "\"Body and Soul\"",
+    "html_title": "<span class=\"work-title short-story\">\"Body and Soul\"</span>",
+    "work_type": "short_story",
     "publication_year": 1919,
     "adaptation_count": 1,
     "is_remake_champion": false

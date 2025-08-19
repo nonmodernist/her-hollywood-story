@@ -140,6 +140,17 @@
   ],
   "adapted_works": [
     {
+      "id": 820,
+      "slug": "big-story",
+      "title": "Big Story",
+      "formatted_title": "Big Story",
+      "html_title": "<span class=\"work-title\">Big Story</span>",
+      "work_type": "novel",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 235,
       "slug": "having-wonderful-crime",
       "title": "Having Wonderful Crime",
@@ -182,27 +193,16 @@
       "publication_year": 1950,
       "adaptation_count": 1,
       "is_remake_champion": false
-    },
-    {
-      "id": 820,
-      "slug": "big-story",
-      "title": "Big Story",
-      "formatted_title": "Big Story",
-      "html_title": "<span class=\"work-title\">Big Story</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 235,
-    "slug": "having-wonderful-crime",
-    "title": "Having Wonderful Crime",
-    "formatted_title": "Having Wonderful Crime",
-    "html_title": "<span class=\"work-title\">Having Wonderful Crime</span>",
+    "id": 820,
+    "slug": "big-story",
+    "title": "Big Story",
+    "formatted_title": "Big Story",
+    "html_title": "<span class=\"work-title\">Big Story</span>",
     "work_type": "novel",
-    "publication_year": 1943,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

@@ -79,17 +79,6 @@
   ],
   "adapted_works": [
     {
-      "id": 612,
-      "slug": "password-to-larkspur-lane",
-      "title": "Password to Larkspur Lane",
-      "formatted_title": "Password to Larkspur Lane",
-      "html_title": "<span class=\"work-title\">Password to Larkspur Lane</span>",
-      "work_type": "novel",
-      "publication_year": 1933,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 611,
       "slug": "the-hidden-staircase",
       "title": "The Hidden Staircase",
@@ -99,16 +88,27 @@
       "publication_year": 1930,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 612,
+      "slug": "password-to-larkspur-lane",
+      "title": "Password to Larkspur Lane",
+      "formatted_title": "Password to Larkspur Lane",
+      "html_title": "<span class=\"work-title\">Password to Larkspur Lane</span>",
+      "work_type": "novel",
+      "publication_year": 1933,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 612,
-    "slug": "password-to-larkspur-lane",
-    "title": "Password to Larkspur Lane",
-    "formatted_title": "Password to Larkspur Lane",
-    "html_title": "<span class=\"work-title\">Password to Larkspur Lane</span>",
+    "id": 611,
+    "slug": "the-hidden-staircase",
+    "title": "The Hidden Staircase",
+    "formatted_title": "The Hidden Staircase",
+    "html_title": "<span class=\"work-title\">The Hidden Staircase</span>",
     "work_type": "novel",
-    "publication_year": 1933,
+    "publication_year": 1930,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

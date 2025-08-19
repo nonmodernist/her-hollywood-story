@@ -84,17 +84,6 @@
   ],
   "adapted_works": [
     {
-      "id": 575,
-      "slug": "blind-date",
-      "title": "Blind Date",
-      "formatted_title": "Blind Date",
-      "html_title": "<span class=\"work-title\">Blind Date</span>",
-      "work_type": "novel",
-      "publication_year": 1931,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 576,
       "slug": "tango",
       "title": "Tango",
@@ -104,16 +93,27 @@
       "publication_year": null,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 575,
+      "slug": "blind-date",
+      "title": "Blind Date",
+      "formatted_title": "Blind Date",
+      "html_title": "<span class=\"work-title\">Blind Date</span>",
+      "work_type": "novel",
+      "publication_year": 1931,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 575,
-    "slug": "blind-date",
-    "title": "Blind Date",
-    "formatted_title": "Blind Date",
-    "html_title": "<span class=\"work-title\">Blind Date</span>",
+    "id": 576,
+    "slug": "tango",
+    "title": "Tango",
+    "formatted_title": "Tango",
+    "html_title": "<span class=\"work-title\">Tango</span>",
     "work_type": "novel",
-    "publication_year": 1931,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

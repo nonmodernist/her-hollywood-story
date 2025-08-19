@@ -100,17 +100,6 @@
   ],
   "adapted_works": [
     {
-      "id": 737,
-      "slug": "the-goldfish-bowl",
-      "title": "The Goldfish Bowl",
-      "formatted_title": "The Goldfish Bowl",
-      "html_title": "<span class=\"work-title\">The Goldfish Bowl</span>",
-      "work_type": "novel",
-      "publication_year": 1932,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 738,
       "slug": "revolt",
       "title": "Revolt",
@@ -118,6 +107,17 @@
       "html_title": "<span class=\"work-title\">Revolt</span>",
       "work_type": "novel",
       "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 737,
+      "slug": "the-goldfish-bowl",
+      "title": "The Goldfish Bowl",
+      "formatted_title": "The Goldfish Bowl",
+      "html_title": "<span class=\"work-title\">The Goldfish Bowl</span>",
+      "work_type": "novel",
+      "publication_year": 1932,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -134,13 +134,13 @@
     }
   ],
   "most_adapted_work": {
-    "id": 737,
-    "slug": "the-goldfish-bowl",
-    "title": "The Goldfish Bowl",
-    "formatted_title": "The Goldfish Bowl",
-    "html_title": "<span class=\"work-title\">The Goldfish Bowl</span>",
+    "id": 738,
+    "slug": "revolt",
+    "title": "Revolt",
+    "formatted_title": "Revolt",
+    "html_title": "<span class=\"work-title\">Revolt</span>",
     "work_type": "novel",
-    "publication_year": 1932,
+    "publication_year": null,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

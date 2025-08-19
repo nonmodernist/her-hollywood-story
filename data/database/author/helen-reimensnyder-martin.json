@@ -116,17 +116,6 @@
   ],
   "adapted_works": [
     {
-      "id": 696,
-      "slug": "barnabetta",
-      "title": "Barnabetta",
-      "formatted_title": "Barnabetta",
-      "html_title": "<span class=\"work-title\">Barnabetta</span>",
-      "work_type": "novel",
-      "publication_year": 1914,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 699,
       "slug": "tillie-a-mennonite-maid",
       "title": "Tillie, a Mennonite Maid",
@@ -134,17 +123,6 @@
       "html_title": "<span class=\"work-title\">Tillie, a Mennonite Maid</span>",
       "work_type": "novel",
       "publication_year": 1904,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 698,
-      "slug": "the-snob",
-      "title": "The Snob",
-      "formatted_title": "The Snob",
-      "html_title": "<span class=\"work-title\">The Snob</span>",
-      "work_type": "novel",
-      "publication_year": 1924,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -158,16 +136,38 @@
       "publication_year": 1913,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 696,
+      "slug": "barnabetta",
+      "title": "Barnabetta",
+      "formatted_title": "Barnabetta",
+      "html_title": "<span class=\"work-title\">Barnabetta</span>",
+      "work_type": "novel",
+      "publication_year": 1914,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 698,
+      "slug": "the-snob",
+      "title": "The Snob",
+      "formatted_title": "The Snob",
+      "html_title": "<span class=\"work-title\">The Snob</span>",
+      "work_type": "novel",
+      "publication_year": 1924,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 696,
-    "slug": "barnabetta",
-    "title": "Barnabetta",
-    "formatted_title": "Barnabetta",
-    "html_title": "<span class=\"work-title\">Barnabetta</span>",
+    "id": 699,
+    "slug": "tillie-a-mennonite-maid",
+    "title": "Tillie, a Mennonite Maid",
+    "formatted_title": "Tillie, a Mennonite Maid",
+    "html_title": "<span class=\"work-title\">Tillie, a Mennonite Maid</span>",
     "work_type": "novel",
-    "publication_year": 1914,
+    "publication_year": 1904,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

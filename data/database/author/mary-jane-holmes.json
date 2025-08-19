@@ -154,17 +154,6 @@
   ],
   "adapted_works": [
     {
-      "id": 568,
-      "slug": "lena-rivers",
-      "title": "Lena Rivers",
-      "formatted_title": "Lena Rivers",
-      "html_title": "<span class=\"work-title\">Lena Rivers</span>",
-      "work_type": "novel",
-      "publication_year": 1856,
-      "adaptation_count": 5,
-      "is_remake_champion": true
-    },
-    {
       "id": 569,
       "slug": "tempest-and-sunshine",
       "title": "Tempest and Sunshine",
@@ -174,18 +163,29 @@
       "publication_year": 1854,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 568,
+      "slug": "lena-rivers",
+      "title": "Lena Rivers",
+      "formatted_title": "Lena Rivers",
+      "html_title": "<span class=\"work-title\">Lena Rivers</span>",
+      "work_type": "novel",
+      "publication_year": 1856,
+      "adaptation_count": 5,
+      "is_remake_champion": true
     }
   ],
   "most_adapted_work": {
-    "id": 568,
-    "slug": "lena-rivers",
-    "title": "Lena Rivers",
-    "formatted_title": "Lena Rivers",
-    "html_title": "<span class=\"work-title\">Lena Rivers</span>",
+    "id": 569,
+    "slug": "tempest-and-sunshine",
+    "title": "Tempest and Sunshine",
+    "formatted_title": "Tempest and Sunshine",
+    "html_title": "<span class=\"work-title\">Tempest and Sunshine</span>",
     "work_type": "novel",
-    "publication_year": 1856,
-    "adaptation_count": 5,
-    "is_remake_champion": true
+    "publication_year": 1854,
+    "adaptation_count": 1,
+    "is_remake_champion": false
   },
   "last_updated": "2025-08-04T17:06:35.659603"
 }

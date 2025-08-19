@@ -201,17 +201,6 @@
       "is_remake_champion": true
     },
     {
-      "id": 119,
-      "slug": "my-wife-and-i",
-      "title": "My Wife and I",
-      "formatted_title": "My Wife and I",
-      "html_title": "<span class=\"work-title\">My Wife and I</span>",
-      "work_type": "novel",
-      "publication_year": 1871,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 118,
       "slug": "the-pearl-of-orrs-island",
       "title": "The Pearl of Orr's Island",
@@ -219,6 +208,17 @@
       "html_title": "<span class=\"work-title\">The Pearl of Orr's Island</span>",
       "work_type": "novel",
       "publication_year": 1862,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 119,
+      "slug": "my-wife-and-i",
+      "title": "My Wife and I",
+      "formatted_title": "My Wife and I",
+      "html_title": "<span class=\"work-title\">My Wife and I</span>",
+      "work_type": "novel",
+      "publication_year": 1871,
       "adaptation_count": 1,
       "is_remake_champion": false
     }

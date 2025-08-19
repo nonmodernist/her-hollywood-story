@@ -189,6 +189,17 @@
   ],
   "adapted_works": [
     {
+      "id": 857,
+      "slug": "the-heart-of-the-night-wind",
+      "title": "The Heart of the Night Wind",
+      "formatted_title": "The Heart of the Night Wind",
+      "html_title": "<span class=\"work-title\">The Heart of the Night Wind</span>",
+      "work_type": "novel",
+      "publication_year": 1913,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 858,
       "slug": "the-primal-lure-a-romance-of-fort-lu-cerne",
       "title": "The Primal Lure: a Romance of Fort Lu Cerne",
@@ -196,17 +207,6 @@
       "html_title": "<span class=\"work-title\">The Primal Lure: a Romance of Fort Lu Cerne</span>",
       "work_type": "novel",
       "publication_year": 1914,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 862,
-      "slug": "wild-honey",
-      "title": "Wild Honey",
-      "formatted_title": "\"Wild Honey\"",
-      "html_title": "<span class=\"work-title short-story\">\"Wild Honey\"</span>",
-      "work_type": "short_story",
-      "publication_year": 1918,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -222,13 +222,13 @@
       "is_remake_champion": false
     },
     {
-      "id": 861,
-      "slug": "val-of-paradise",
-      "title": "Val of Paradise",
-      "formatted_title": "Val of Paradise",
-      "html_title": "<span class=\"work-title\">Val of Paradise</span>",
-      "work_type": "novel",
-      "publication_year": 1921,
+      "id": 862,
+      "slug": "wild-honey",
+      "title": "Wild Honey",
+      "formatted_title": "\"Wild Honey\"",
+      "html_title": "<span class=\"work-title short-story\">\"Wild Honey\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1918,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -244,13 +244,13 @@
       "is_remake_champion": false
     },
     {
-      "id": 857,
-      "slug": "the-heart-of-the-night-wind",
-      "title": "The Heart of the Night Wind",
-      "formatted_title": "The Heart of the Night Wind",
-      "html_title": "<span class=\"work-title\">The Heart of the Night Wind</span>",
+      "id": 861,
+      "slug": "val-of-paradise",
+      "title": "Val of Paradise",
+      "formatted_title": "Val of Paradise",
+      "html_title": "<span class=\"work-title\">Val of Paradise</span>",
       "work_type": "novel",
-      "publication_year": 1913,
+      "publication_year": 1921,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -278,13 +278,13 @@
     }
   ],
   "most_adapted_work": {
-    "id": 858,
-    "slug": "the-primal-lure-a-romance-of-fort-lu-cerne",
-    "title": "The Primal Lure: a Romance of Fort Lu Cerne",
-    "formatted_title": "The Primal Lure: a Romance of Fort Lu Cerne",
-    "html_title": "<span class=\"work-title\">The Primal Lure: a Romance of Fort Lu Cerne</span>",
+    "id": 857,
+    "slug": "the-heart-of-the-night-wind",
+    "title": "The Heart of the Night Wind",
+    "formatted_title": "The Heart of the Night Wind",
+    "html_title": "<span class=\"work-title\">The Heart of the Night Wind</span>",
     "work_type": "novel",
-    "publication_year": 1914,
+    "publication_year": 1913,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

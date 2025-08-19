@@ -274,231 +274,6 @@
     },
     {
       "work": {
-        "id": 99,
-        "slug": "a-girl-of-the-limberlost",
-        "title": "A Girl of the Limberlost",
-        "formatted_title": "A Girl of the Limberlost",
-        "html_title": "<span class=\"work-title\">A Girl of the Limberlost</span>",
-        "work_type": "novel",
-        "publication_year": 1909
-      },
-      "author": {
-        "id": 12,
-        "slug": "gene-stratton-porter",
-        "name": "Gene Stratton-Porter",
-        "filmCount": 21
-      },
-      "adaptations": [
-        {
-          "id": 103,
-          "slug": "a-girl-of-the-limberlost-1924",
-          "title": "A Girl of the Limberlost",
-          "html_title": "<span class=\"film-title\">A Girl of the Limberlost</span>",
-          "year": 1924,
-          "studio": "Gene Stratton Porter Productions",
-          "directors": "James Leo Meehan",
-          "hasMedia": true
-        },
-        {
-          "id": 207,
-          "slug": "a-girl-of-the-limberlost-1934",
-          "title": "A Girl of the Limberlost",
-          "html_title": "<span class=\"film-title\">A Girl of the Limberlost</span>",
-          "year": 1934,
-          "studio": "Monogram",
-          "directors": "Christy Cabanne",
-          "hasMedia": true
-        },
-        {
-          "id": 246,
-          "slug": "romance-of-the-limberlost-1938",
-          "title": "Romance of the Limberlost",
-          "html_title": "<span class=\"film-title\">Romance of the Limberlost</span>",
-          "year": 1938,
-          "studio": "Monogram",
-          "directors": "William Nigh",
-          "hasMedia": true
-        },
-        {
-          "id": 279,
-          "slug": "the-girl-of-the-limberlost-1945",
-          "title": "The Girl of the Limberlost",
-          "html_title": "<span class=\"film-title\">The Girl of the Limberlost</span>",
-          "year": 1945,
-          "studio": "Columbia",
-          "directors": "Melchor Ferrer",
-          "hasMedia": true
-        }
-      ],
-      "stats": {
-        "count": 4,
-        "yearSpan": 21,
-        "averageGapBetweenRemakes": 7,
-        "decadesActive": 3
-      },
-      "remakePatterns": {
-        "gaps": [
-          10,
-          4,
-          7
-        ],
-        "longestGap": 10,
-        "shortestGap": 4,
-        "hasModernRemake": false
-      }
-    },
-    {
-      "work": {
-        "id": 185,
-        "slug": "back-street",
-        "title": "Back Street",
-        "formatted_title": "Back Street",
-        "html_title": "<span class=\"work-title\">Back Street</span>",
-        "work_type": "novel",
-        "publication_year": 1930
-      },
-      "author": {
-        "id": 25,
-        "slug": "fannie-hurst",
-        "name": "Fannie Hurst",
-        "filmCount": 27
-      },
-      "adaptations": [
-        {
-          "id": 202,
-          "slug": "back-street-1932",
-          "title": "Back Street",
-          "html_title": "<span class=\"film-title\">Back Street</span>",
-          "year": 1932,
-          "studio": "Universal",
-          "directors": "John M. Stahl",
-          "hasMedia": true
-        },
-        {
-          "id": 263,
-          "slug": "back-street-1941",
-          "title": "Back Street",
-          "html_title": "<span class=\"film-title\">Back Street</span>",
-          "year": 1941,
-          "studio": "Universal",
-          "directors": "Robert Stevenson",
-          "hasMedia": true
-        },
-        {
-          "id": 296,
-          "slug": "back-street-1948",
-          "title": "Back Street",
-          "html_title": "<span class=\"film-title\">Back Street</span>",
-          "year": 1948,
-          "studio": "Silver Light",
-          "directors": "Esther Eng",
-          "hasMedia": false
-        },
-        {
-          "id": 341,
-          "slug": "back-street-1961",
-          "title": "Back Street",
-          "html_title": "<span class=\"film-title\">Back Street</span>",
-          "year": 1961,
-          "studio": "Universal-International",
-          "directors": "David Miller",
-          "hasMedia": true
-        }
-      ],
-      "stats": {
-        "count": 4,
-        "yearSpan": 29,
-        "averageGapBetweenRemakes": 10,
-        "decadesActive": 3
-      },
-      "remakePatterns": {
-        "gaps": [
-          9,
-          7,
-          13
-        ],
-        "longestGap": 13,
-        "shortestGap": 7,
-        "hasModernRemake": true
-      }
-    },
-    {
-      "work": {
-        "id": 50,
-        "slug": "daddy-long-legs",
-        "title": "Daddy-Long-Legs",
-        "formatted_title": "Daddy-Long-Legs",
-        "html_title": "<span class=\"work-title\">Daddy-Long-Legs</span>",
-        "work_type": "novel",
-        "publication_year": 1912
-      },
-      "author": {
-        "id": 27,
-        "slug": "jean-webster",
-        "name": "Jean Webster",
-        "filmCount": 4
-      },
-      "adaptations": [
-        {
-          "id": 52,
-          "slug": "daddy-long-legs-1919",
-          "title": "Daddy-Long-Legs",
-          "html_title": "<span class=\"film-title\">Daddy-Long-Legs</span>",
-          "year": 1919,
-          "studio": "Mary Pickford",
-          "directors": "Marshall A. Neilan",
-          "hasMedia": true
-        },
-        {
-          "id": 184,
-          "slug": "daddy-long-legs-1931",
-          "title": "Daddy Long Legs",
-          "html_title": "<span class=\"film-title\">Daddy Long Legs</span>",
-          "year": 1931,
-          "studio": "Fox Film",
-          "directors": "Alfred Santell",
-          "hasMedia": true
-        },
-        {
-          "id": 228,
-          "slug": "curly-top-1935",
-          "title": "Curly Top",
-          "html_title": "<span class=\"film-title\">Curly Top</span>",
-          "year": 1935,
-          "studio": "Fox Film",
-          "directors": "Irving Cummings",
-          "hasMedia": true
-        },
-        {
-          "id": 330,
-          "slug": "daddy-long-legs-1955",
-          "title": "Daddy Long Legs",
-          "html_title": "<span class=\"film-title\">Daddy Long Legs</span>",
-          "year": 1955,
-          "studio": "20th Century Fox",
-          "directors": "Jean Negulesco",
-          "hasMedia": true
-        }
-      ],
-      "stats": {
-        "count": 4,
-        "yearSpan": 36,
-        "averageGapBetweenRemakes": 12,
-        "decadesActive": 3
-      },
-      "remakePatterns": {
-        "gaps": [
-          12,
-          4,
-          20
-        ],
-        "longestGap": 20,
-        "shortestGap": 4,
-        "hasModernRemake": true
-      }
-    },
-    {
-      "work": {
         "id": 892,
         "slug": "five-little-peppers-and-how-they-grew",
         "title": "Five Little Peppers and How they Grew",
@@ -569,156 +344,6 @@
         ],
         "longestGap": 1,
         "shortestGap": 0,
-        "hasModernRemake": false
-      }
-    },
-    {
-      "work": {
-        "id": 19,
-        "slug": "freckles",
-        "title": "Freckles",
-        "formatted_title": "Freckles",
-        "html_title": "<span class=\"work-title\">Freckles</span>",
-        "work_type": "novel",
-        "publication_year": 1904
-      },
-      "author": {
-        "id": 12,
-        "slug": "gene-stratton-porter",
-        "name": "Gene Stratton-Porter",
-        "filmCount": 21
-      },
-      "adaptations": [
-        {
-          "id": 21,
-          "slug": "freckles-1917",
-          "title": "Freckles",
-          "html_title": "<span class=\"film-title\">Freckles</span>",
-          "year": 1917,
-          "studio": "Jesse L. Lasky Feature Play Co.",
-          "directors": "Marshall Neilan",
-          "hasMedia": true
-        },
-        {
-          "id": 150,
-          "slug": "freckles-1928",
-          "title": "Freckles",
-          "html_title": "<span class=\"film-title\">Freckles</span>",
-          "year": 1928,
-          "studio": "FBO",
-          "directors": "Leo Meehan",
-          "hasMedia": true
-        },
-        {
-          "id": 225,
-          "slug": "freckles-1935",
-          "title": "Freckles",
-          "html_title": "<span class=\"film-title\">Freckles</span>",
-          "year": 1935,
-          "studio": "RKO",
-          "directors": "Edward Killy|William Hamilton",
-          "hasMedia": true
-        },
-        {
-          "id": 340,
-          "slug": "freckles-1960",
-          "title": "Freckles",
-          "html_title": "<span class=\"film-title\">Freckles</span>",
-          "year": 1960,
-          "studio": "20th Century Fox",
-          "directors": "Andrew V. McLaglen",
-          "hasMedia": true
-        }
-      ],
-      "stats": {
-        "count": 4,
-        "yearSpan": 43,
-        "averageGapBetweenRemakes": 14,
-        "decadesActive": 4
-      },
-      "remakePatterns": {
-        "gaps": [
-          11,
-          7,
-          25
-        ],
-        "longestGap": 25,
-        "shortestGap": 7,
-        "hasModernRemake": true
-      }
-    },
-    {
-      "work": {
-        "id": 6,
-        "slug": "mrs-wiggs-of-the-cabbage-patch",
-        "title": "Mrs. Wiggs of the Cabbage Patch",
-        "formatted_title": "Mrs. Wiggs of the Cabbage Patch",
-        "html_title": "<span class=\"work-title\">Mrs. Wiggs of the Cabbage Patch</span>",
-        "work_type": "novel",
-        "publication_year": 1901
-      },
-      "author": {
-        "id": 5,
-        "slug": "alice-hegan-rice",
-        "name": "Alice Hegan Rice",
-        "filmCount": 9
-      },
-      "adaptations": [
-        {
-          "id": 6,
-          "slug": "mrs-wiggs-of-the-cabbage-patch-1914",
-          "title": "Mrs. Wiggs of the Cabbage Patch",
-          "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
-          "year": 1914,
-          "studio": "California Motion Picture Corp.",
-          "directors": "Harold Entwhistle",
-          "hasMedia": true
-        },
-        {
-          "id": 54,
-          "slug": "mrs-wiggs-of-the-cabbage-patch-1919",
-          "title": "Mrs. Wiggs of the Cabbage Patch",
-          "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
-          "year": 1919,
-          "studio": "Famous Players-Lasky",
-          "directors": "Hugh Ford",
-          "hasMedia": true
-        },
-        {
-          "id": 216,
-          "slug": "mrs-wiggs-of-the-cabbage-patch-1934",
-          "title": "Mrs. Wiggs of the Cabbage Patch",
-          "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
-          "year": 1934,
-          "studio": "Paramount",
-          "directors": "Norman Taurog",
-          "hasMedia": true
-        },
-        {
-          "id": 266,
-          "slug": "mrs-wiggs-of-the-cabbage-patch-1942",
-          "title": "Mrs. Wiggs of the Cabbage Patch",
-          "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
-          "year": 1942,
-          "studio": "Paramount",
-          "directors": "Ralph Murphy",
-          "hasMedia": true
-        }
-      ],
-      "stats": {
-        "count": 4,
-        "yearSpan": 28,
-        "averageGapBetweenRemakes": 9,
-        "decadesActive": 3
-      },
-      "remakePatterns": {
-        "gaps": [
-          5,
-          15,
-          8
-        ],
-        "longestGap": 15,
-        "shortestGap": 5,
         "hasModernRemake": false
       }
     },
@@ -799,77 +424,302 @@
     },
     {
       "work": {
-        "id": 213,
-        "slug": "sister-act",
-        "title": "Sister Act",
-        "formatted_title": "Sister Act",
-        "html_title": "<span class=\"work-title\">Sister Act</span>",
-        "work_type": "novella",
-        "publication_year": 1937
+        "id": 6,
+        "slug": "mrs-wiggs-of-the-cabbage-patch",
+        "title": "Mrs. Wiggs of the Cabbage Patch",
+        "formatted_title": "Mrs. Wiggs of the Cabbage Patch",
+        "html_title": "<span class=\"work-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+        "work_type": "novel",
+        "publication_year": 1901
       },
       "author": {
-        "id": 25,
-        "slug": "fannie-hurst",
-        "name": "Fannie Hurst",
-        "filmCount": 27
+        "id": 5,
+        "slug": "alice-hegan-rice",
+        "name": "Alice Hegan Rice",
+        "filmCount": 9
       },
       "adaptations": [
         {
-          "id": 248,
-          "slug": "four-daughters-1938",
-          "title": "Four Daughters",
-          "html_title": "<span class=\"film-title\">Four Daughters</span>",
-          "year": 1938,
-          "studio": "Warner Bros",
-          "directors": "Michael Curtiz",
+          "id": 6,
+          "slug": "mrs-wiggs-of-the-cabbage-patch-1914",
+          "title": "Mrs. Wiggs of the Cabbage Patch",
+          "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+          "year": 1914,
+          "studio": "California Motion Picture Corp.",
+          "directors": "Harold Entwhistle",
           "hasMedia": true
         },
         {
-          "id": 254,
-          "slug": "four-wives-1939",
-          "title": "Four Wives",
-          "html_title": "<span class=\"film-title\">Four Wives</span>",
-          "year": 1939,
-          "studio": "Warner Bros",
-          "directors": "Michael Curtiz",
+          "id": 54,
+          "slug": "mrs-wiggs-of-the-cabbage-patch-1919",
+          "title": "Mrs. Wiggs of the Cabbage Patch",
+          "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+          "year": 1919,
+          "studio": "Famous Players-Lasky",
+          "directors": "Hugh Ford",
           "hasMedia": true
         },
         {
-          "id": 264,
-          "slug": "four-mothers-1941",
-          "title": "Four Mothers",
-          "html_title": "<span class=\"film-title\">Four Mothers</span>",
-          "year": 1941,
-          "studio": "Warner Bros",
-          "directors": "William Keighley",
+          "id": 216,
+          "slug": "mrs-wiggs-of-the-cabbage-patch-1934",
+          "title": "Mrs. Wiggs of the Cabbage Patch",
+          "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+          "year": 1934,
+          "studio": "Paramount",
+          "directors": "Norman Taurog",
           "hasMedia": true
         },
         {
-          "id": 329,
-          "slug": "young-at-heart-1955",
-          "title": "Young at Heart",
-          "html_title": "<span class=\"film-title\">Young at Heart</span>",
-          "year": 1955,
-          "studio": "Warner Bros",
-          "directors": "Gordon Douglas",
+          "id": 266,
+          "slug": "mrs-wiggs-of-the-cabbage-patch-1942",
+          "title": "Mrs. Wiggs of the Cabbage Patch",
+          "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+          "year": 1942,
+          "studio": "Paramount",
+          "directors": "Ralph Murphy",
           "hasMedia": true
         }
       ],
       "stats": {
         "count": 4,
-        "yearSpan": 17,
-        "averageGapBetweenRemakes": 6,
+        "yearSpan": 28,
+        "averageGapBetweenRemakes": 9,
         "decadesActive": 3
       },
       "remakePatterns": {
         "gaps": [
-          1,
-          2,
-          14
+          5,
+          15,
+          8
         ],
-        "longestGap": 14,
-        "shortestGap": 1,
+        "longestGap": 15,
+        "shortestGap": 5,
+        "hasModernRemake": false
+      }
+    },
+    {
+      "work": {
+        "id": 19,
+        "slug": "freckles",
+        "title": "Freckles",
+        "formatted_title": "Freckles",
+        "html_title": "<span class=\"work-title\">Freckles</span>",
+        "work_type": "novel",
+        "publication_year": 1904
+      },
+      "author": {
+        "id": 12,
+        "slug": "gene-stratton-porter",
+        "name": "Gene Stratton-Porter",
+        "filmCount": 21
+      },
+      "adaptations": [
+        {
+          "id": 21,
+          "slug": "freckles-1917",
+          "title": "Freckles",
+          "html_title": "<span class=\"film-title\">Freckles</span>",
+          "year": 1917,
+          "studio": "Jesse L. Lasky Feature Play Co.",
+          "directors": "Marshall Neilan",
+          "hasMedia": true
+        },
+        {
+          "id": 150,
+          "slug": "freckles-1928",
+          "title": "Freckles",
+          "html_title": "<span class=\"film-title\">Freckles</span>",
+          "year": 1928,
+          "studio": "FBO",
+          "directors": "Leo Meehan",
+          "hasMedia": true
+        },
+        {
+          "id": 225,
+          "slug": "freckles-1935",
+          "title": "Freckles",
+          "html_title": "<span class=\"film-title\">Freckles</span>",
+          "year": 1935,
+          "studio": "RKO",
+          "directors": "Edward Killy|William Hamilton",
+          "hasMedia": true
+        },
+        {
+          "id": 340,
+          "slug": "freckles-1960",
+          "title": "Freckles",
+          "html_title": "<span class=\"film-title\">Freckles</span>",
+          "year": 1960,
+          "studio": "20th Century Fox",
+          "directors": "Andrew V. McLaglen",
+          "hasMedia": true
+        }
+      ],
+      "stats": {
+        "count": 4,
+        "yearSpan": 43,
+        "averageGapBetweenRemakes": 14,
+        "decadesActive": 4
+      },
+      "remakePatterns": {
+        "gaps": [
+          11,
+          7,
+          25
+        ],
+        "longestGap": 25,
+        "shortestGap": 7,
         "hasModernRemake": true
+      }
+    },
+    {
+      "work": {
+        "id": 7,
+        "slug": "the-circular-staircase",
+        "title": "The Circular Staircase",
+        "formatted_title": "The Circular Staircase",
+        "html_title": "<span class=\"work-title\">The Circular Staircase</span>",
+        "work_type": "novel",
+        "publication_year": 1907
+      },
+      "author": {
+        "id": 6,
+        "slug": "mary-roberts-rinehart",
+        "name": "Mary Roberts Rinehart",
+        "filmCount": 41
+      },
+      "adaptations": [
+        {
+          "id": 8,
+          "slug": "the-circular-staircase-1915",
+          "title": "The Circular Staircase",
+          "html_title": "<span class=\"film-title\">The Circular Staircase</span>",
+          "year": 1915,
+          "studio": "Selig Polyscope",
+          "directors": "Edward J. Le Saint",
+          "hasMedia": true
+        },
+        {
+          "id": 125,
+          "slug": "the-bat-1926",
+          "title": "The Bat",
+          "html_title": "<span class=\"film-title\">The Bat</span>",
+          "year": 1926,
+          "studio": "United Artists",
+          "directors": "Roland West",
+          "hasMedia": true
+        },
+        {
+          "id": 160,
+          "slug": "the-bat-whispers-1930",
+          "title": "The Bat Whispers",
+          "html_title": "<span class=\"film-title\">The Bat Whispers</span>",
+          "year": 1930,
+          "studio": "United Artists",
+          "directors": "Roland West",
+          "hasMedia": true
+        },
+        {
+          "id": 337,
+          "slug": "the-bat-1959",
+          "title": "The Bat",
+          "html_title": "<span class=\"film-title\">The Bat</span>",
+          "year": 1959,
+          "studio": "Allied Artists",
+          "directors": "Crane Wilbur",
+          "hasMedia": true
+        }
+      ],
+      "stats": {
+        "count": 4,
+        "yearSpan": 44,
+        "averageGapBetweenRemakes": 15,
+        "decadesActive": 4
+      },
+      "remakePatterns": {
+        "gaps": [
+          11,
+          4,
+          29
+        ],
+        "longestGap": 29,
+        "shortestGap": 4,
+        "hasModernRemake": true
+      }
+    },
+    {
+      "work": {
+        "id": 99,
+        "slug": "a-girl-of-the-limberlost",
+        "title": "A Girl of the Limberlost",
+        "formatted_title": "A Girl of the Limberlost",
+        "html_title": "<span class=\"work-title\">A Girl of the Limberlost</span>",
+        "work_type": "novel",
+        "publication_year": 1909
+      },
+      "author": {
+        "id": 12,
+        "slug": "gene-stratton-porter",
+        "name": "Gene Stratton-Porter",
+        "filmCount": 21
+      },
+      "adaptations": [
+        {
+          "id": 103,
+          "slug": "a-girl-of-the-limberlost-1924",
+          "title": "A Girl of the Limberlost",
+          "html_title": "<span class=\"film-title\">A Girl of the Limberlost</span>",
+          "year": 1924,
+          "studio": "Gene Stratton Porter Productions",
+          "directors": "James Leo Meehan",
+          "hasMedia": true
+        },
+        {
+          "id": 207,
+          "slug": "a-girl-of-the-limberlost-1934",
+          "title": "A Girl of the Limberlost",
+          "html_title": "<span class=\"film-title\">A Girl of the Limberlost</span>",
+          "year": 1934,
+          "studio": "Monogram",
+          "directors": "Christy Cabanne",
+          "hasMedia": true
+        },
+        {
+          "id": 246,
+          "slug": "romance-of-the-limberlost-1938",
+          "title": "Romance of the Limberlost",
+          "html_title": "<span class=\"film-title\">Romance of the Limberlost</span>",
+          "year": 1938,
+          "studio": "Monogram",
+          "directors": "William Nigh",
+          "hasMedia": true
+        },
+        {
+          "id": 279,
+          "slug": "the-girl-of-the-limberlost-1945",
+          "title": "The Girl of the Limberlost",
+          "html_title": "<span class=\"film-title\">The Girl of the Limberlost</span>",
+          "year": 1945,
+          "studio": "Columbia",
+          "directors": "Melchor Ferrer",
+          "hasMedia": true
+        }
+      ],
+      "stats": {
+        "count": 4,
+        "yearSpan": 21,
+        "averageGapBetweenRemakes": 7,
+        "decadesActive": 3
+      },
+      "remakePatterns": {
+        "gaps": [
+          10,
+          4,
+          7
+        ],
+        "longestGap": 10,
+        "shortestGap": 4,
+        "hasModernRemake": false
       }
     },
     {
@@ -949,76 +799,226 @@
     },
     {
       "work": {
-        "id": 7,
-        "slug": "the-circular-staircase",
-        "title": "The Circular Staircase",
-        "formatted_title": "The Circular Staircase",
-        "html_title": "<span class=\"work-title\">The Circular Staircase</span>",
+        "id": 50,
+        "slug": "daddy-long-legs",
+        "title": "Daddy-Long-Legs",
+        "formatted_title": "Daddy-Long-Legs",
+        "html_title": "<span class=\"work-title\">Daddy-Long-Legs</span>",
         "work_type": "novel",
-        "publication_year": 1907
+        "publication_year": 1912
       },
       "author": {
-        "id": 6,
-        "slug": "mary-roberts-rinehart",
-        "name": "Mary Roberts Rinehart",
-        "filmCount": 41
+        "id": 27,
+        "slug": "jean-webster",
+        "name": "Jean Webster",
+        "filmCount": 4
       },
       "adaptations": [
         {
-          "id": 8,
-          "slug": "the-circular-staircase-1915",
-          "title": "The Circular Staircase",
-          "html_title": "<span class=\"film-title\">The Circular Staircase</span>",
-          "year": 1915,
-          "studio": "Selig Polyscope",
-          "directors": "Edward J. Le Saint",
+          "id": 52,
+          "slug": "daddy-long-legs-1919",
+          "title": "Daddy-Long-Legs",
+          "html_title": "<span class=\"film-title\">Daddy-Long-Legs</span>",
+          "year": 1919,
+          "studio": "Mary Pickford",
+          "directors": "Marshall A. Neilan",
           "hasMedia": true
         },
         {
-          "id": 125,
-          "slug": "the-bat-1926",
-          "title": "The Bat",
-          "html_title": "<span class=\"film-title\">The Bat</span>",
-          "year": 1926,
-          "studio": "United Artists",
-          "directors": "Roland West",
+          "id": 184,
+          "slug": "daddy-long-legs-1931",
+          "title": "Daddy Long Legs",
+          "html_title": "<span class=\"film-title\">Daddy Long Legs</span>",
+          "year": 1931,
+          "studio": "Fox Film",
+          "directors": "Alfred Santell",
           "hasMedia": true
         },
         {
-          "id": 160,
-          "slug": "the-bat-whispers-1930",
-          "title": "The Bat Whispers",
-          "html_title": "<span class=\"film-title\">The Bat Whispers</span>",
-          "year": 1930,
-          "studio": "United Artists",
-          "directors": "Roland West",
+          "id": 228,
+          "slug": "curly-top-1935",
+          "title": "Curly Top",
+          "html_title": "<span class=\"film-title\">Curly Top</span>",
+          "year": 1935,
+          "studio": "Fox Film",
+          "directors": "Irving Cummings",
           "hasMedia": true
         },
         {
-          "id": 337,
-          "slug": "the-bat-1959",
-          "title": "The Bat",
-          "html_title": "<span class=\"film-title\">The Bat</span>",
-          "year": 1959,
-          "studio": "Allied Artists",
-          "directors": "Crane Wilbur",
+          "id": 330,
+          "slug": "daddy-long-legs-1955",
+          "title": "Daddy Long Legs",
+          "html_title": "<span class=\"film-title\">Daddy Long Legs</span>",
+          "year": 1955,
+          "studio": "20th Century Fox",
+          "directors": "Jean Negulesco",
           "hasMedia": true
         }
       ],
       "stats": {
         "count": 4,
-        "yearSpan": 44,
-        "averageGapBetweenRemakes": 15,
-        "decadesActive": 4
+        "yearSpan": 36,
+        "averageGapBetweenRemakes": 12,
+        "decadesActive": 3
       },
       "remakePatterns": {
         "gaps": [
-          11,
+          12,
           4,
-          29
+          20
         ],
-        "longestGap": 29,
+        "longestGap": 20,
         "shortestGap": 4,
+        "hasModernRemake": true
+      }
+    },
+    {
+      "work": {
+        "id": 185,
+        "slug": "back-street",
+        "title": "Back Street",
+        "formatted_title": "Back Street",
+        "html_title": "<span class=\"work-title\">Back Street</span>",
+        "work_type": "novel",
+        "publication_year": 1930
+      },
+      "author": {
+        "id": 25,
+        "slug": "fannie-hurst",
+        "name": "Fannie Hurst",
+        "filmCount": 27
+      },
+      "adaptations": [
+        {
+          "id": 202,
+          "slug": "back-street-1932",
+          "title": "Back Street",
+          "html_title": "<span class=\"film-title\">Back Street</span>",
+          "year": 1932,
+          "studio": "Universal",
+          "directors": "John M. Stahl",
+          "hasMedia": true
+        },
+        {
+          "id": 263,
+          "slug": "back-street-1941",
+          "title": "Back Street",
+          "html_title": "<span class=\"film-title\">Back Street</span>",
+          "year": 1941,
+          "studio": "Universal",
+          "directors": "Robert Stevenson",
+          "hasMedia": true
+        },
+        {
+          "id": 296,
+          "slug": "back-street-1948",
+          "title": "Back Street",
+          "html_title": "<span class=\"film-title\">Back Street</span>",
+          "year": 1948,
+          "studio": "Silver Light",
+          "directors": "Esther Eng",
+          "hasMedia": false
+        },
+        {
+          "id": 341,
+          "slug": "back-street-1961",
+          "title": "Back Street",
+          "html_title": "<span class=\"film-title\">Back Street</span>",
+          "year": 1961,
+          "studio": "Universal-International",
+          "directors": "David Miller",
+          "hasMedia": true
+        }
+      ],
+      "stats": {
+        "count": 4,
+        "yearSpan": 29,
+        "averageGapBetweenRemakes": 10,
+        "decadesActive": 3
+      },
+      "remakePatterns": {
+        "gaps": [
+          9,
+          7,
+          13
+        ],
+        "longestGap": 13,
+        "shortestGap": 7,
+        "hasModernRemake": true
+      }
+    },
+    {
+      "work": {
+        "id": 213,
+        "slug": "sister-act",
+        "title": "Sister Act",
+        "formatted_title": "Sister Act",
+        "html_title": "<span class=\"work-title\">Sister Act</span>",
+        "work_type": "novella",
+        "publication_year": 1937
+      },
+      "author": {
+        "id": 25,
+        "slug": "fannie-hurst",
+        "name": "Fannie Hurst",
+        "filmCount": 27
+      },
+      "adaptations": [
+        {
+          "id": 248,
+          "slug": "four-daughters-1938",
+          "title": "Four Daughters",
+          "html_title": "<span class=\"film-title\">Four Daughters</span>",
+          "year": 1938,
+          "studio": "Warner Bros",
+          "directors": "Michael Curtiz",
+          "hasMedia": true
+        },
+        {
+          "id": 254,
+          "slug": "four-wives-1939",
+          "title": "Four Wives",
+          "html_title": "<span class=\"film-title\">Four Wives</span>",
+          "year": 1939,
+          "studio": "Warner Bros",
+          "directors": "Michael Curtiz",
+          "hasMedia": true
+        },
+        {
+          "id": 264,
+          "slug": "four-mothers-1941",
+          "title": "Four Mothers",
+          "html_title": "<span class=\"film-title\">Four Mothers</span>",
+          "year": 1941,
+          "studio": "Warner Bros",
+          "directors": "William Keighley",
+          "hasMedia": true
+        },
+        {
+          "id": 329,
+          "slug": "young-at-heart-1955",
+          "title": "Young at Heart",
+          "html_title": "<span class=\"film-title\">Young at Heart</span>",
+          "year": 1955,
+          "studio": "Warner Bros",
+          "directors": "Gordon Douglas",
+          "hasMedia": true
+        }
+      ],
+      "stats": {
+        "count": 4,
+        "yearSpan": 17,
+        "averageGapBetweenRemakes": 6,
+        "decadesActive": 3
+      },
+      "remakePatterns": {
+        "gaps": [
+          1,
+          2,
+          14
+        ],
+        "longestGap": 14,
+        "shortestGap": 1,
         "hasModernRemake": true
       }
     }
@@ -1110,231 +1110,6 @@
       "4": [
         {
           "work": {
-            "id": 99,
-            "slug": "a-girl-of-the-limberlost",
-            "title": "A Girl of the Limberlost",
-            "formatted_title": "A Girl of the Limberlost",
-            "html_title": "<span class=\"work-title\">A Girl of the Limberlost</span>",
-            "work_type": "novel",
-            "publication_year": 1909
-          },
-          "author": {
-            "id": 12,
-            "slug": "gene-stratton-porter",
-            "name": "Gene Stratton-Porter",
-            "filmCount": 21
-          },
-          "adaptations": [
-            {
-              "id": 103,
-              "slug": "a-girl-of-the-limberlost-1924",
-              "title": "A Girl of the Limberlost",
-              "html_title": "<span class=\"film-title\">A Girl of the Limberlost</span>",
-              "year": 1924,
-              "studio": "Gene Stratton Porter Productions",
-              "directors": "James Leo Meehan",
-              "hasMedia": true
-            },
-            {
-              "id": 207,
-              "slug": "a-girl-of-the-limberlost-1934",
-              "title": "A Girl of the Limberlost",
-              "html_title": "<span class=\"film-title\">A Girl of the Limberlost</span>",
-              "year": 1934,
-              "studio": "Monogram",
-              "directors": "Christy Cabanne",
-              "hasMedia": true
-            },
-            {
-              "id": 246,
-              "slug": "romance-of-the-limberlost-1938",
-              "title": "Romance of the Limberlost",
-              "html_title": "<span class=\"film-title\">Romance of the Limberlost</span>",
-              "year": 1938,
-              "studio": "Monogram",
-              "directors": "William Nigh",
-              "hasMedia": true
-            },
-            {
-              "id": 279,
-              "slug": "the-girl-of-the-limberlost-1945",
-              "title": "The Girl of the Limberlost",
-              "html_title": "<span class=\"film-title\">The Girl of the Limberlost</span>",
-              "year": 1945,
-              "studio": "Columbia",
-              "directors": "Melchor Ferrer",
-              "hasMedia": true
-            }
-          ],
-          "stats": {
-            "count": 4,
-            "yearSpan": 21,
-            "averageGapBetweenRemakes": 7,
-            "decadesActive": 3
-          },
-          "remakePatterns": {
-            "gaps": [
-              10,
-              4,
-              7
-            ],
-            "longestGap": 10,
-            "shortestGap": 4,
-            "hasModernRemake": false
-          }
-        },
-        {
-          "work": {
-            "id": 185,
-            "slug": "back-street",
-            "title": "Back Street",
-            "formatted_title": "Back Street",
-            "html_title": "<span class=\"work-title\">Back Street</span>",
-            "work_type": "novel",
-            "publication_year": 1930
-          },
-          "author": {
-            "id": 25,
-            "slug": "fannie-hurst",
-            "name": "Fannie Hurst",
-            "filmCount": 27
-          },
-          "adaptations": [
-            {
-              "id": 202,
-              "slug": "back-street-1932",
-              "title": "Back Street",
-              "html_title": "<span class=\"film-title\">Back Street</span>",
-              "year": 1932,
-              "studio": "Universal",
-              "directors": "John M. Stahl",
-              "hasMedia": true
-            },
-            {
-              "id": 263,
-              "slug": "back-street-1941",
-              "title": "Back Street",
-              "html_title": "<span class=\"film-title\">Back Street</span>",
-              "year": 1941,
-              "studio": "Universal",
-              "directors": "Robert Stevenson",
-              "hasMedia": true
-            },
-            {
-              "id": 296,
-              "slug": "back-street-1948",
-              "title": "Back Street",
-              "html_title": "<span class=\"film-title\">Back Street</span>",
-              "year": 1948,
-              "studio": "Silver Light",
-              "directors": "Esther Eng",
-              "hasMedia": false
-            },
-            {
-              "id": 341,
-              "slug": "back-street-1961",
-              "title": "Back Street",
-              "html_title": "<span class=\"film-title\">Back Street</span>",
-              "year": 1961,
-              "studio": "Universal-International",
-              "directors": "David Miller",
-              "hasMedia": true
-            }
-          ],
-          "stats": {
-            "count": 4,
-            "yearSpan": 29,
-            "averageGapBetweenRemakes": 10,
-            "decadesActive": 3
-          },
-          "remakePatterns": {
-            "gaps": [
-              9,
-              7,
-              13
-            ],
-            "longestGap": 13,
-            "shortestGap": 7,
-            "hasModernRemake": true
-          }
-        },
-        {
-          "work": {
-            "id": 50,
-            "slug": "daddy-long-legs",
-            "title": "Daddy-Long-Legs",
-            "formatted_title": "Daddy-Long-Legs",
-            "html_title": "<span class=\"work-title\">Daddy-Long-Legs</span>",
-            "work_type": "novel",
-            "publication_year": 1912
-          },
-          "author": {
-            "id": 27,
-            "slug": "jean-webster",
-            "name": "Jean Webster",
-            "filmCount": 4
-          },
-          "adaptations": [
-            {
-              "id": 52,
-              "slug": "daddy-long-legs-1919",
-              "title": "Daddy-Long-Legs",
-              "html_title": "<span class=\"film-title\">Daddy-Long-Legs</span>",
-              "year": 1919,
-              "studio": "Mary Pickford",
-              "directors": "Marshall A. Neilan",
-              "hasMedia": true
-            },
-            {
-              "id": 184,
-              "slug": "daddy-long-legs-1931",
-              "title": "Daddy Long Legs",
-              "html_title": "<span class=\"film-title\">Daddy Long Legs</span>",
-              "year": 1931,
-              "studio": "Fox Film",
-              "directors": "Alfred Santell",
-              "hasMedia": true
-            },
-            {
-              "id": 228,
-              "slug": "curly-top-1935",
-              "title": "Curly Top",
-              "html_title": "<span class=\"film-title\">Curly Top</span>",
-              "year": 1935,
-              "studio": "Fox Film",
-              "directors": "Irving Cummings",
-              "hasMedia": true
-            },
-            {
-              "id": 330,
-              "slug": "daddy-long-legs-1955",
-              "title": "Daddy Long Legs",
-              "html_title": "<span class=\"film-title\">Daddy Long Legs</span>",
-              "year": 1955,
-              "studio": "20th Century Fox",
-              "directors": "Jean Negulesco",
-              "hasMedia": true
-            }
-          ],
-          "stats": {
-            "count": 4,
-            "yearSpan": 36,
-            "averageGapBetweenRemakes": 12,
-            "decadesActive": 3
-          },
-          "remakePatterns": {
-            "gaps": [
-              12,
-              4,
-              20
-            ],
-            "longestGap": 20,
-            "shortestGap": 4,
-            "hasModernRemake": true
-          }
-        },
-        {
-          "work": {
             "id": 892,
             "slug": "five-little-peppers-and-how-they-grew",
             "title": "Five Little Peppers and How they Grew",
@@ -1405,156 +1180,6 @@
             ],
             "longestGap": 1,
             "shortestGap": 0,
-            "hasModernRemake": false
-          }
-        },
-        {
-          "work": {
-            "id": 19,
-            "slug": "freckles",
-            "title": "Freckles",
-            "formatted_title": "Freckles",
-            "html_title": "<span class=\"work-title\">Freckles</span>",
-            "work_type": "novel",
-            "publication_year": 1904
-          },
-          "author": {
-            "id": 12,
-            "slug": "gene-stratton-porter",
-            "name": "Gene Stratton-Porter",
-            "filmCount": 21
-          },
-          "adaptations": [
-            {
-              "id": 21,
-              "slug": "freckles-1917",
-              "title": "Freckles",
-              "html_title": "<span class=\"film-title\">Freckles</span>",
-              "year": 1917,
-              "studio": "Jesse L. Lasky Feature Play Co.",
-              "directors": "Marshall Neilan",
-              "hasMedia": true
-            },
-            {
-              "id": 150,
-              "slug": "freckles-1928",
-              "title": "Freckles",
-              "html_title": "<span class=\"film-title\">Freckles</span>",
-              "year": 1928,
-              "studio": "FBO",
-              "directors": "Leo Meehan",
-              "hasMedia": true
-            },
-            {
-              "id": 225,
-              "slug": "freckles-1935",
-              "title": "Freckles",
-              "html_title": "<span class=\"film-title\">Freckles</span>",
-              "year": 1935,
-              "studio": "RKO",
-              "directors": "Edward Killy|William Hamilton",
-              "hasMedia": true
-            },
-            {
-              "id": 340,
-              "slug": "freckles-1960",
-              "title": "Freckles",
-              "html_title": "<span class=\"film-title\">Freckles</span>",
-              "year": 1960,
-              "studio": "20th Century Fox",
-              "directors": "Andrew V. McLaglen",
-              "hasMedia": true
-            }
-          ],
-          "stats": {
-            "count": 4,
-            "yearSpan": 43,
-            "averageGapBetweenRemakes": 14,
-            "decadesActive": 4
-          },
-          "remakePatterns": {
-            "gaps": [
-              11,
-              7,
-              25
-            ],
-            "longestGap": 25,
-            "shortestGap": 7,
-            "hasModernRemake": true
-          }
-        },
-        {
-          "work": {
-            "id": 6,
-            "slug": "mrs-wiggs-of-the-cabbage-patch",
-            "title": "Mrs. Wiggs of the Cabbage Patch",
-            "formatted_title": "Mrs. Wiggs of the Cabbage Patch",
-            "html_title": "<span class=\"work-title\">Mrs. Wiggs of the Cabbage Patch</span>",
-            "work_type": "novel",
-            "publication_year": 1901
-          },
-          "author": {
-            "id": 5,
-            "slug": "alice-hegan-rice",
-            "name": "Alice Hegan Rice",
-            "filmCount": 9
-          },
-          "adaptations": [
-            {
-              "id": 6,
-              "slug": "mrs-wiggs-of-the-cabbage-patch-1914",
-              "title": "Mrs. Wiggs of the Cabbage Patch",
-              "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
-              "year": 1914,
-              "studio": "California Motion Picture Corp.",
-              "directors": "Harold Entwhistle",
-              "hasMedia": true
-            },
-            {
-              "id": 54,
-              "slug": "mrs-wiggs-of-the-cabbage-patch-1919",
-              "title": "Mrs. Wiggs of the Cabbage Patch",
-              "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
-              "year": 1919,
-              "studio": "Famous Players-Lasky",
-              "directors": "Hugh Ford",
-              "hasMedia": true
-            },
-            {
-              "id": 216,
-              "slug": "mrs-wiggs-of-the-cabbage-patch-1934",
-              "title": "Mrs. Wiggs of the Cabbage Patch",
-              "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
-              "year": 1934,
-              "studio": "Paramount",
-              "directors": "Norman Taurog",
-              "hasMedia": true
-            },
-            {
-              "id": 266,
-              "slug": "mrs-wiggs-of-the-cabbage-patch-1942",
-              "title": "Mrs. Wiggs of the Cabbage Patch",
-              "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
-              "year": 1942,
-              "studio": "Paramount",
-              "directors": "Ralph Murphy",
-              "hasMedia": true
-            }
-          ],
-          "stats": {
-            "count": 4,
-            "yearSpan": 28,
-            "averageGapBetweenRemakes": 9,
-            "decadesActive": 3
-          },
-          "remakePatterns": {
-            "gaps": [
-              5,
-              15,
-              8
-            ],
-            "longestGap": 15,
-            "shortestGap": 5,
             "hasModernRemake": false
           }
         },
@@ -1635,77 +1260,302 @@
         },
         {
           "work": {
-            "id": 213,
-            "slug": "sister-act",
-            "title": "Sister Act",
-            "formatted_title": "Sister Act",
-            "html_title": "<span class=\"work-title\">Sister Act</span>",
-            "work_type": "novella",
-            "publication_year": 1937
+            "id": 6,
+            "slug": "mrs-wiggs-of-the-cabbage-patch",
+            "title": "Mrs. Wiggs of the Cabbage Patch",
+            "formatted_title": "Mrs. Wiggs of the Cabbage Patch",
+            "html_title": "<span class=\"work-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+            "work_type": "novel",
+            "publication_year": 1901
           },
           "author": {
-            "id": 25,
-            "slug": "fannie-hurst",
-            "name": "Fannie Hurst",
-            "filmCount": 27
+            "id": 5,
+            "slug": "alice-hegan-rice",
+            "name": "Alice Hegan Rice",
+            "filmCount": 9
           },
           "adaptations": [
             {
-              "id": 248,
-              "slug": "four-daughters-1938",
-              "title": "Four Daughters",
-              "html_title": "<span class=\"film-title\">Four Daughters</span>",
-              "year": 1938,
-              "studio": "Warner Bros",
-              "directors": "Michael Curtiz",
+              "id": 6,
+              "slug": "mrs-wiggs-of-the-cabbage-patch-1914",
+              "title": "Mrs. Wiggs of the Cabbage Patch",
+              "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+              "year": 1914,
+              "studio": "California Motion Picture Corp.",
+              "directors": "Harold Entwhistle",
               "hasMedia": true
             },
             {
-              "id": 254,
-              "slug": "four-wives-1939",
-              "title": "Four Wives",
-              "html_title": "<span class=\"film-title\">Four Wives</span>",
-              "year": 1939,
-              "studio": "Warner Bros",
-              "directors": "Michael Curtiz",
+              "id": 54,
+              "slug": "mrs-wiggs-of-the-cabbage-patch-1919",
+              "title": "Mrs. Wiggs of the Cabbage Patch",
+              "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+              "year": 1919,
+              "studio": "Famous Players-Lasky",
+              "directors": "Hugh Ford",
               "hasMedia": true
             },
             {
-              "id": 264,
-              "slug": "four-mothers-1941",
-              "title": "Four Mothers",
-              "html_title": "<span class=\"film-title\">Four Mothers</span>",
-              "year": 1941,
-              "studio": "Warner Bros",
-              "directors": "William Keighley",
+              "id": 216,
+              "slug": "mrs-wiggs-of-the-cabbage-patch-1934",
+              "title": "Mrs. Wiggs of the Cabbage Patch",
+              "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+              "year": 1934,
+              "studio": "Paramount",
+              "directors": "Norman Taurog",
               "hasMedia": true
             },
             {
-              "id": 329,
-              "slug": "young-at-heart-1955",
-              "title": "Young at Heart",
-              "html_title": "<span class=\"film-title\">Young at Heart</span>",
-              "year": 1955,
-              "studio": "Warner Bros",
-              "directors": "Gordon Douglas",
+              "id": 266,
+              "slug": "mrs-wiggs-of-the-cabbage-patch-1942",
+              "title": "Mrs. Wiggs of the Cabbage Patch",
+              "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+              "year": 1942,
+              "studio": "Paramount",
+              "directors": "Ralph Murphy",
               "hasMedia": true
             }
           ],
           "stats": {
             "count": 4,
-            "yearSpan": 17,
-            "averageGapBetweenRemakes": 6,
+            "yearSpan": 28,
+            "averageGapBetweenRemakes": 9,
             "decadesActive": 3
           },
           "remakePatterns": {
             "gaps": [
-              1,
-              2,
-              14
+              5,
+              15,
+              8
             ],
-            "longestGap": 14,
-            "shortestGap": 1,
+            "longestGap": 15,
+            "shortestGap": 5,
+            "hasModernRemake": false
+          }
+        },
+        {
+          "work": {
+            "id": 19,
+            "slug": "freckles",
+            "title": "Freckles",
+            "formatted_title": "Freckles",
+            "html_title": "<span class=\"work-title\">Freckles</span>",
+            "work_type": "novel",
+            "publication_year": 1904
+          },
+          "author": {
+            "id": 12,
+            "slug": "gene-stratton-porter",
+            "name": "Gene Stratton-Porter",
+            "filmCount": 21
+          },
+          "adaptations": [
+            {
+              "id": 21,
+              "slug": "freckles-1917",
+              "title": "Freckles",
+              "html_title": "<span class=\"film-title\">Freckles</span>",
+              "year": 1917,
+              "studio": "Jesse L. Lasky Feature Play Co.",
+              "directors": "Marshall Neilan",
+              "hasMedia": true
+            },
+            {
+              "id": 150,
+              "slug": "freckles-1928",
+              "title": "Freckles",
+              "html_title": "<span class=\"film-title\">Freckles</span>",
+              "year": 1928,
+              "studio": "FBO",
+              "directors": "Leo Meehan",
+              "hasMedia": true
+            },
+            {
+              "id": 225,
+              "slug": "freckles-1935",
+              "title": "Freckles",
+              "html_title": "<span class=\"film-title\">Freckles</span>",
+              "year": 1935,
+              "studio": "RKO",
+              "directors": "Edward Killy|William Hamilton",
+              "hasMedia": true
+            },
+            {
+              "id": 340,
+              "slug": "freckles-1960",
+              "title": "Freckles",
+              "html_title": "<span class=\"film-title\">Freckles</span>",
+              "year": 1960,
+              "studio": "20th Century Fox",
+              "directors": "Andrew V. McLaglen",
+              "hasMedia": true
+            }
+          ],
+          "stats": {
+            "count": 4,
+            "yearSpan": 43,
+            "averageGapBetweenRemakes": 14,
+            "decadesActive": 4
+          },
+          "remakePatterns": {
+            "gaps": [
+              11,
+              7,
+              25
+            ],
+            "longestGap": 25,
+            "shortestGap": 7,
             "hasModernRemake": true
+          }
+        },
+        {
+          "work": {
+            "id": 7,
+            "slug": "the-circular-staircase",
+            "title": "The Circular Staircase",
+            "formatted_title": "The Circular Staircase",
+            "html_title": "<span class=\"work-title\">The Circular Staircase</span>",
+            "work_type": "novel",
+            "publication_year": 1907
+          },
+          "author": {
+            "id": 6,
+            "slug": "mary-roberts-rinehart",
+            "name": "Mary Roberts Rinehart",
+            "filmCount": 41
+          },
+          "adaptations": [
+            {
+              "id": 8,
+              "slug": "the-circular-staircase-1915",
+              "title": "The Circular Staircase",
+              "html_title": "<span class=\"film-title\">The Circular Staircase</span>",
+              "year": 1915,
+              "studio": "Selig Polyscope",
+              "directors": "Edward J. Le Saint",
+              "hasMedia": true
+            },
+            {
+              "id": 125,
+              "slug": "the-bat-1926",
+              "title": "The Bat",
+              "html_title": "<span class=\"film-title\">The Bat</span>",
+              "year": 1926,
+              "studio": "United Artists",
+              "directors": "Roland West",
+              "hasMedia": true
+            },
+            {
+              "id": 160,
+              "slug": "the-bat-whispers-1930",
+              "title": "The Bat Whispers",
+              "html_title": "<span class=\"film-title\">The Bat Whispers</span>",
+              "year": 1930,
+              "studio": "United Artists",
+              "directors": "Roland West",
+              "hasMedia": true
+            },
+            {
+              "id": 337,
+              "slug": "the-bat-1959",
+              "title": "The Bat",
+              "html_title": "<span class=\"film-title\">The Bat</span>",
+              "year": 1959,
+              "studio": "Allied Artists",
+              "directors": "Crane Wilbur",
+              "hasMedia": true
+            }
+          ],
+          "stats": {
+            "count": 4,
+            "yearSpan": 44,
+            "averageGapBetweenRemakes": 15,
+            "decadesActive": 4
+          },
+          "remakePatterns": {
+            "gaps": [
+              11,
+              4,
+              29
+            ],
+            "longestGap": 29,
+            "shortestGap": 4,
+            "hasModernRemake": true
+          }
+        },
+        {
+          "work": {
+            "id": 99,
+            "slug": "a-girl-of-the-limberlost",
+            "title": "A Girl of the Limberlost",
+            "formatted_title": "A Girl of the Limberlost",
+            "html_title": "<span class=\"work-title\">A Girl of the Limberlost</span>",
+            "work_type": "novel",
+            "publication_year": 1909
+          },
+          "author": {
+            "id": 12,
+            "slug": "gene-stratton-porter",
+            "name": "Gene Stratton-Porter",
+            "filmCount": 21
+          },
+          "adaptations": [
+            {
+              "id": 103,
+              "slug": "a-girl-of-the-limberlost-1924",
+              "title": "A Girl of the Limberlost",
+              "html_title": "<span class=\"film-title\">A Girl of the Limberlost</span>",
+              "year": 1924,
+              "studio": "Gene Stratton Porter Productions",
+              "directors": "James Leo Meehan",
+              "hasMedia": true
+            },
+            {
+              "id": 207,
+              "slug": "a-girl-of-the-limberlost-1934",
+              "title": "A Girl of the Limberlost",
+              "html_title": "<span class=\"film-title\">A Girl of the Limberlost</span>",
+              "year": 1934,
+              "studio": "Monogram",
+              "directors": "Christy Cabanne",
+              "hasMedia": true
+            },
+            {
+              "id": 246,
+              "slug": "romance-of-the-limberlost-1938",
+              "title": "Romance of the Limberlost",
+              "html_title": "<span class=\"film-title\">Romance of the Limberlost</span>",
+              "year": 1938,
+              "studio": "Monogram",
+              "directors": "William Nigh",
+              "hasMedia": true
+            },
+            {
+              "id": 279,
+              "slug": "the-girl-of-the-limberlost-1945",
+              "title": "The Girl of the Limberlost",
+              "html_title": "<span class=\"film-title\">The Girl of the Limberlost</span>",
+              "year": 1945,
+              "studio": "Columbia",
+              "directors": "Melchor Ferrer",
+              "hasMedia": true
+            }
+          ],
+          "stats": {
+            "count": 4,
+            "yearSpan": 21,
+            "averageGapBetweenRemakes": 7,
+            "decadesActive": 3
+          },
+          "remakePatterns": {
+            "gaps": [
+              10,
+              4,
+              7
+            ],
+            "longestGap": 10,
+            "shortestGap": 4,
+            "hasModernRemake": false
           }
         },
         {
@@ -1785,76 +1635,226 @@
         },
         {
           "work": {
-            "id": 7,
-            "slug": "the-circular-staircase",
-            "title": "The Circular Staircase",
-            "formatted_title": "The Circular Staircase",
-            "html_title": "<span class=\"work-title\">The Circular Staircase</span>",
+            "id": 50,
+            "slug": "daddy-long-legs",
+            "title": "Daddy-Long-Legs",
+            "formatted_title": "Daddy-Long-Legs",
+            "html_title": "<span class=\"work-title\">Daddy-Long-Legs</span>",
             "work_type": "novel",
-            "publication_year": 1907
+            "publication_year": 1912
           },
           "author": {
-            "id": 6,
-            "slug": "mary-roberts-rinehart",
-            "name": "Mary Roberts Rinehart",
-            "filmCount": 41
+            "id": 27,
+            "slug": "jean-webster",
+            "name": "Jean Webster",
+            "filmCount": 4
           },
           "adaptations": [
             {
-              "id": 8,
-              "slug": "the-circular-staircase-1915",
-              "title": "The Circular Staircase",
-              "html_title": "<span class=\"film-title\">The Circular Staircase</span>",
-              "year": 1915,
-              "studio": "Selig Polyscope",
-              "directors": "Edward J. Le Saint",
+              "id": 52,
+              "slug": "daddy-long-legs-1919",
+              "title": "Daddy-Long-Legs",
+              "html_title": "<span class=\"film-title\">Daddy-Long-Legs</span>",
+              "year": 1919,
+              "studio": "Mary Pickford",
+              "directors": "Marshall A. Neilan",
               "hasMedia": true
             },
             {
-              "id": 125,
-              "slug": "the-bat-1926",
-              "title": "The Bat",
-              "html_title": "<span class=\"film-title\">The Bat</span>",
-              "year": 1926,
-              "studio": "United Artists",
-              "directors": "Roland West",
+              "id": 184,
+              "slug": "daddy-long-legs-1931",
+              "title": "Daddy Long Legs",
+              "html_title": "<span class=\"film-title\">Daddy Long Legs</span>",
+              "year": 1931,
+              "studio": "Fox Film",
+              "directors": "Alfred Santell",
               "hasMedia": true
             },
             {
-              "id": 160,
-              "slug": "the-bat-whispers-1930",
-              "title": "The Bat Whispers",
-              "html_title": "<span class=\"film-title\">The Bat Whispers</span>",
-              "year": 1930,
-              "studio": "United Artists",
-              "directors": "Roland West",
+              "id": 228,
+              "slug": "curly-top-1935",
+              "title": "Curly Top",
+              "html_title": "<span class=\"film-title\">Curly Top</span>",
+              "year": 1935,
+              "studio": "Fox Film",
+              "directors": "Irving Cummings",
               "hasMedia": true
             },
             {
-              "id": 337,
-              "slug": "the-bat-1959",
-              "title": "The Bat",
-              "html_title": "<span class=\"film-title\">The Bat</span>",
-              "year": 1959,
-              "studio": "Allied Artists",
-              "directors": "Crane Wilbur",
+              "id": 330,
+              "slug": "daddy-long-legs-1955",
+              "title": "Daddy Long Legs",
+              "html_title": "<span class=\"film-title\">Daddy Long Legs</span>",
+              "year": 1955,
+              "studio": "20th Century Fox",
+              "directors": "Jean Negulesco",
               "hasMedia": true
             }
           ],
           "stats": {
             "count": 4,
-            "yearSpan": 44,
-            "averageGapBetweenRemakes": 15,
-            "decadesActive": 4
+            "yearSpan": 36,
+            "averageGapBetweenRemakes": 12,
+            "decadesActive": 3
           },
           "remakePatterns": {
             "gaps": [
-              11,
+              12,
               4,
-              29
+              20
             ],
-            "longestGap": 29,
+            "longestGap": 20,
             "shortestGap": 4,
+            "hasModernRemake": true
+          }
+        },
+        {
+          "work": {
+            "id": 185,
+            "slug": "back-street",
+            "title": "Back Street",
+            "formatted_title": "Back Street",
+            "html_title": "<span class=\"work-title\">Back Street</span>",
+            "work_type": "novel",
+            "publication_year": 1930
+          },
+          "author": {
+            "id": 25,
+            "slug": "fannie-hurst",
+            "name": "Fannie Hurst",
+            "filmCount": 27
+          },
+          "adaptations": [
+            {
+              "id": 202,
+              "slug": "back-street-1932",
+              "title": "Back Street",
+              "html_title": "<span class=\"film-title\">Back Street</span>",
+              "year": 1932,
+              "studio": "Universal",
+              "directors": "John M. Stahl",
+              "hasMedia": true
+            },
+            {
+              "id": 263,
+              "slug": "back-street-1941",
+              "title": "Back Street",
+              "html_title": "<span class=\"film-title\">Back Street</span>",
+              "year": 1941,
+              "studio": "Universal",
+              "directors": "Robert Stevenson",
+              "hasMedia": true
+            },
+            {
+              "id": 296,
+              "slug": "back-street-1948",
+              "title": "Back Street",
+              "html_title": "<span class=\"film-title\">Back Street</span>",
+              "year": 1948,
+              "studio": "Silver Light",
+              "directors": "Esther Eng",
+              "hasMedia": false
+            },
+            {
+              "id": 341,
+              "slug": "back-street-1961",
+              "title": "Back Street",
+              "html_title": "<span class=\"film-title\">Back Street</span>",
+              "year": 1961,
+              "studio": "Universal-International",
+              "directors": "David Miller",
+              "hasMedia": true
+            }
+          ],
+          "stats": {
+            "count": 4,
+            "yearSpan": 29,
+            "averageGapBetweenRemakes": 10,
+            "decadesActive": 3
+          },
+          "remakePatterns": {
+            "gaps": [
+              9,
+              7,
+              13
+            ],
+            "longestGap": 13,
+            "shortestGap": 7,
+            "hasModernRemake": true
+          }
+        },
+        {
+          "work": {
+            "id": 213,
+            "slug": "sister-act",
+            "title": "Sister Act",
+            "formatted_title": "Sister Act",
+            "html_title": "<span class=\"work-title\">Sister Act</span>",
+            "work_type": "novella",
+            "publication_year": 1937
+          },
+          "author": {
+            "id": 25,
+            "slug": "fannie-hurst",
+            "name": "Fannie Hurst",
+            "filmCount": 27
+          },
+          "adaptations": [
+            {
+              "id": 248,
+              "slug": "four-daughters-1938",
+              "title": "Four Daughters",
+              "html_title": "<span class=\"film-title\">Four Daughters</span>",
+              "year": 1938,
+              "studio": "Warner Bros",
+              "directors": "Michael Curtiz",
+              "hasMedia": true
+            },
+            {
+              "id": 254,
+              "slug": "four-wives-1939",
+              "title": "Four Wives",
+              "html_title": "<span class=\"film-title\">Four Wives</span>",
+              "year": 1939,
+              "studio": "Warner Bros",
+              "directors": "Michael Curtiz",
+              "hasMedia": true
+            },
+            {
+              "id": 264,
+              "slug": "four-mothers-1941",
+              "title": "Four Mothers",
+              "html_title": "<span class=\"film-title\">Four Mothers</span>",
+              "year": 1941,
+              "studio": "Warner Bros",
+              "directors": "William Keighley",
+              "hasMedia": true
+            },
+            {
+              "id": 329,
+              "slug": "young-at-heart-1955",
+              "title": "Young at Heart",
+              "html_title": "<span class=\"film-title\">Young at Heart</span>",
+              "year": 1955,
+              "studio": "Warner Bros",
+              "directors": "Gordon Douglas",
+              "hasMedia": true
+            }
+          ],
+          "stats": {
+            "count": 4,
+            "yearSpan": 17,
+            "averageGapBetweenRemakes": 6,
+            "decadesActive": 3
+          },
+          "remakePatterns": {
+            "gaps": [
+              1,
+              2,
+              14
+            ],
+            "longestGap": 14,
+            "shortestGap": 1,
             "hasModernRemake": true
           }
         }
@@ -2282,72 +2282,6 @@
             "workTitle": "The Charm School"
           },
           {
-            "id": 103,
-            "slug": "a-girl-of-the-limberlost-1924",
-            "title": "A Girl of the Limberlost",
-            "html_title": "<span class=\"film-title\">A Girl of the Limberlost</span>",
-            "year": 1924,
-            "studio": "Gene Stratton Porter Productions",
-            "directors": "James Leo Meehan",
-            "hasMedia": true,
-            "workTitle": "A Girl of the Limberlost"
-          },
-          {
-            "id": 52,
-            "slug": "daddy-long-legs-1919",
-            "title": "Daddy-Long-Legs",
-            "html_title": "<span class=\"film-title\">Daddy-Long-Legs</span>",
-            "year": 1919,
-            "studio": "Mary Pickford",
-            "directors": "Marshall A. Neilan",
-            "hasMedia": true,
-            "workTitle": "Daddy-Long-Legs"
-          },
-          {
-            "id": 21,
-            "slug": "freckles-1917",
-            "title": "Freckles",
-            "html_title": "<span class=\"film-title\">Freckles</span>",
-            "year": 1917,
-            "studio": "Jesse L. Lasky Feature Play Co.",
-            "directors": "Marshall Neilan",
-            "hasMedia": true,
-            "workTitle": "Freckles"
-          },
-          {
-            "id": 150,
-            "slug": "freckles-1928",
-            "title": "Freckles",
-            "html_title": "<span class=\"film-title\">Freckles</span>",
-            "year": 1928,
-            "studio": "FBO",
-            "directors": "Leo Meehan",
-            "hasMedia": true,
-            "workTitle": "Freckles"
-          },
-          {
-            "id": 6,
-            "slug": "mrs-wiggs-of-the-cabbage-patch-1914",
-            "title": "Mrs. Wiggs of the Cabbage Patch",
-            "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
-            "year": 1914,
-            "studio": "California Motion Picture Corp.",
-            "directors": "Harold Entwhistle",
-            "hasMedia": true,
-            "workTitle": "Mrs. Wiggs of the Cabbage Patch"
-          },
-          {
-            "id": 54,
-            "slug": "mrs-wiggs-of-the-cabbage-patch-1919",
-            "title": "Mrs. Wiggs of the Cabbage Patch",
-            "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
-            "year": 1919,
-            "studio": "Famous Players-Lasky",
-            "directors": "Hugh Ford",
-            "hasMedia": true,
-            "workTitle": "Mrs. Wiggs of the Cabbage Patch"
-          },
-          {
             "id": 1,
             "slug": "ramona-1910",
             "title": "Ramona",
@@ -2381,26 +2315,48 @@
             "workTitle": "Ramona"
           },
           {
-            "id": 5,
-            "slug": "tess-of-the-storm-country-1914",
-            "title": "Tess of the Storm Country",
-            "html_title": "<span class=\"film-title\">Tess of the Storm Country</span>",
+            "id": 6,
+            "slug": "mrs-wiggs-of-the-cabbage-patch-1914",
+            "title": "Mrs. Wiggs of the Cabbage Patch",
+            "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
             "year": 1914,
-            "studio": "Famous Players",
-            "directors": null,
+            "studio": "California Motion Picture Corp.",
+            "directors": "Harold Entwhistle",
             "hasMedia": true,
-            "workTitle": "Tess of the Storm Country"
+            "workTitle": "Mrs. Wiggs of the Cabbage Patch"
           },
           {
-            "id": 88,
-            "slug": "tess-of-the-storm-country-1922",
-            "title": "Tess of the Storm Country",
-            "html_title": "<span class=\"film-title\">Tess of the Storm Country</span>",
-            "year": 1922,
-            "studio": "Mary Pickford",
-            "directors": "John S. Robertson",
+            "id": 54,
+            "slug": "mrs-wiggs-of-the-cabbage-patch-1919",
+            "title": "Mrs. Wiggs of the Cabbage Patch",
+            "html_title": "<span class=\"film-title\">Mrs. Wiggs of the Cabbage Patch</span>",
+            "year": 1919,
+            "studio": "Famous Players-Lasky",
+            "directors": "Hugh Ford",
             "hasMedia": true,
-            "workTitle": "Tess of the Storm Country"
+            "workTitle": "Mrs. Wiggs of the Cabbage Patch"
+          },
+          {
+            "id": 21,
+            "slug": "freckles-1917",
+            "title": "Freckles",
+            "html_title": "<span class=\"film-title\">Freckles</span>",
+            "year": 1917,
+            "studio": "Jesse L. Lasky Feature Play Co.",
+            "directors": "Marshall Neilan",
+            "hasMedia": true,
+            "workTitle": "Freckles"
+          },
+          {
+            "id": 150,
+            "slug": "freckles-1928",
+            "title": "Freckles",
+            "html_title": "<span class=\"film-title\">Freckles</span>",
+            "year": 1928,
+            "studio": "FBO",
+            "directors": "Leo Meehan",
+            "hasMedia": true,
+            "workTitle": "Freckles"
           },
           {
             "id": 8,
@@ -2423,6 +2379,50 @@
             "directors": "Roland West",
             "hasMedia": true,
             "workTitle": "The Circular Staircase"
+          },
+          {
+            "id": 103,
+            "slug": "a-girl-of-the-limberlost-1924",
+            "title": "A Girl of the Limberlost",
+            "html_title": "<span class=\"film-title\">A Girl of the Limberlost</span>",
+            "year": 1924,
+            "studio": "Gene Stratton Porter Productions",
+            "directors": "James Leo Meehan",
+            "hasMedia": true,
+            "workTitle": "A Girl of the Limberlost"
+          },
+          {
+            "id": 5,
+            "slug": "tess-of-the-storm-country-1914",
+            "title": "Tess of the Storm Country",
+            "html_title": "<span class=\"film-title\">Tess of the Storm Country</span>",
+            "year": 1914,
+            "studio": "Famous Players",
+            "directors": null,
+            "hasMedia": true,
+            "workTitle": "Tess of the Storm Country"
+          },
+          {
+            "id": 88,
+            "slug": "tess-of-the-storm-country-1922",
+            "title": "Tess of the Storm Country",
+            "html_title": "<span class=\"film-title\">Tess of the Storm Country</span>",
+            "year": 1922,
+            "studio": "Mary Pickford",
+            "directors": "John S. Robertson",
+            "hasMedia": true,
+            "workTitle": "Tess of the Storm Country"
+          },
+          {
+            "id": 52,
+            "slug": "daddy-long-legs-1919",
+            "title": "Daddy-Long-Legs",
+            "html_title": "<span class=\"film-title\">Daddy-Long-Legs</span>",
+            "year": 1919,
+            "studio": "Mary Pickford",
+            "directors": "Marshall A. Neilan",
+            "hasMedia": true,
+            "workTitle": "Daddy-Long-Legs"
           }
         ],
         "count": 26,
@@ -2444,7 +2444,7 @@
             "count": 3
           },
           {
-            "title": "Freckles",
+            "title": "Mrs. Wiggs of the Cabbage Patch",
             "count": 2
           }
         ]
@@ -2485,94 +2485,6 @@
             "directors": "Raoul Walsh",
             "hasMedia": true,
             "workTitle": "The Charm School"
-          },
-          {
-            "id": 207,
-            "slug": "a-girl-of-the-limberlost-1934",
-            "title": "A Girl of the Limberlost",
-            "html_title": "<span class=\"film-title\">A Girl of the Limberlost</span>",
-            "year": 1934,
-            "studio": "Monogram",
-            "directors": "Christy Cabanne",
-            "hasMedia": true,
-            "workTitle": "A Girl of the Limberlost"
-          },
-          {
-            "id": 246,
-            "slug": "romance-of-the-limberlost-1938",
-            "title": "Romance of the Limberlost",
-            "html_title": "<span class=\"film-title\">Romance of the Limberlost</span>",
-            "year": 1938,
-            "studio": "Monogram",
-            "directors": "William Nigh",
-            "hasMedia": true,
-            "workTitle": "A Girl of the Limberlost"
-          },
-          {
-            "id": 279,
-            "slug": "the-girl-of-the-limberlost-1945",
-            "title": "The Girl of the Limberlost",
-            "html_title": "<span class=\"film-title\">The Girl of the Limberlost</span>",
-            "year": 1945,
-            "studio": "Columbia",
-            "directors": "Melchor Ferrer",
-            "hasMedia": true,
-            "workTitle": "A Girl of the Limberlost"
-          },
-          {
-            "id": 202,
-            "slug": "back-street-1932",
-            "title": "Back Street",
-            "html_title": "<span class=\"film-title\">Back Street</span>",
-            "year": 1932,
-            "studio": "Universal",
-            "directors": "John M. Stahl",
-            "hasMedia": true,
-            "workTitle": "Back Street"
-          },
-          {
-            "id": 263,
-            "slug": "back-street-1941",
-            "title": "Back Street",
-            "html_title": "<span class=\"film-title\">Back Street</span>",
-            "year": 1941,
-            "studio": "Universal",
-            "directors": "Robert Stevenson",
-            "hasMedia": true,
-            "workTitle": "Back Street"
-          },
-          {
-            "id": 296,
-            "slug": "back-street-1948",
-            "title": "Back Street",
-            "html_title": "<span class=\"film-title\">Back Street</span>",
-            "year": 1948,
-            "studio": "Silver Light",
-            "directors": "Esther Eng",
-            "hasMedia": false,
-            "workTitle": "Back Street"
-          },
-          {
-            "id": 184,
-            "slug": "daddy-long-legs-1931",
-            "title": "Daddy Long Legs",
-            "html_title": "<span class=\"film-title\">Daddy Long Legs</span>",
-            "year": 1931,
-            "studio": "Fox Film",
-            "directors": "Alfred Santell",
-            "hasMedia": true,
-            "workTitle": "Daddy-Long-Legs"
-          },
-          {
-            "id": 228,
-            "slug": "curly-top-1935",
-            "title": "Curly Top",
-            "html_title": "<span class=\"film-title\">Curly Top</span>",
-            "year": 1935,
-            "studio": "Fox Film",
-            "directors": "Irving Cummings",
-            "hasMedia": true,
-            "workTitle": "Daddy-Long-Legs"
           },
           {
             "id": 990,
@@ -2619,15 +2531,15 @@
             "workTitle": "Five Little Peppers and How they Grew"
           },
           {
-            "id": 225,
-            "slug": "freckles-1935",
-            "title": "Freckles",
-            "html_title": "<span class=\"film-title\">Freckles</span>",
-            "year": 1935,
-            "studio": "RKO",
-            "directors": "Edward Killy|William Hamilton",
+            "id": 230,
+            "slug": "ramona-1936",
+            "title": "Ramona",
+            "html_title": "<span class=\"film-title\">Ramona</span>",
+            "year": 1936,
+            "studio": "20th Century Fox",
+            "directors": "Henry King",
             "hasMedia": true,
-            "workTitle": "Freckles"
+            "workTitle": "Ramona"
           },
           {
             "id": 216,
@@ -2652,15 +2564,125 @@
             "workTitle": "Mrs. Wiggs of the Cabbage Patch"
           },
           {
-            "id": 230,
-            "slug": "ramona-1936",
-            "title": "Ramona",
-            "html_title": "<span class=\"film-title\">Ramona</span>",
-            "year": 1936,
-            "studio": "20th Century Fox",
-            "directors": "Henry King",
+            "id": 225,
+            "slug": "freckles-1935",
+            "title": "Freckles",
+            "html_title": "<span class=\"film-title\">Freckles</span>",
+            "year": 1935,
+            "studio": "RKO",
+            "directors": "Edward Killy|William Hamilton",
             "hasMedia": true,
-            "workTitle": "Ramona"
+            "workTitle": "Freckles"
+          },
+          {
+            "id": 160,
+            "slug": "the-bat-whispers-1930",
+            "title": "The Bat Whispers",
+            "html_title": "<span class=\"film-title\">The Bat Whispers</span>",
+            "year": 1930,
+            "studio": "United Artists",
+            "directors": "Roland West",
+            "hasMedia": true,
+            "workTitle": "The Circular Staircase"
+          },
+          {
+            "id": 207,
+            "slug": "a-girl-of-the-limberlost-1934",
+            "title": "A Girl of the Limberlost",
+            "html_title": "<span class=\"film-title\">A Girl of the Limberlost</span>",
+            "year": 1934,
+            "studio": "Monogram",
+            "directors": "Christy Cabanne",
+            "hasMedia": true,
+            "workTitle": "A Girl of the Limberlost"
+          },
+          {
+            "id": 246,
+            "slug": "romance-of-the-limberlost-1938",
+            "title": "Romance of the Limberlost",
+            "html_title": "<span class=\"film-title\">Romance of the Limberlost</span>",
+            "year": 1938,
+            "studio": "Monogram",
+            "directors": "William Nigh",
+            "hasMedia": true,
+            "workTitle": "A Girl of the Limberlost"
+          },
+          {
+            "id": 279,
+            "slug": "the-girl-of-the-limberlost-1945",
+            "title": "The Girl of the Limberlost",
+            "html_title": "<span class=\"film-title\">The Girl of the Limberlost</span>",
+            "year": 1945,
+            "studio": "Columbia",
+            "directors": "Melchor Ferrer",
+            "hasMedia": true,
+            "workTitle": "A Girl of the Limberlost"
+          },
+          {
+            "id": 185,
+            "slug": "tess-of-the-storm-country-1932",
+            "title": "Tess of the Storm Country",
+            "html_title": "<span class=\"film-title\">Tess of the Storm Country</span>",
+            "year": 1932,
+            "studio": "Fox Film",
+            "directors": "Alfred Santell",
+            "hasMedia": true,
+            "workTitle": "Tess of the Storm Country"
+          },
+          {
+            "id": 184,
+            "slug": "daddy-long-legs-1931",
+            "title": "Daddy Long Legs",
+            "html_title": "<span class=\"film-title\">Daddy Long Legs</span>",
+            "year": 1931,
+            "studio": "Fox Film",
+            "directors": "Alfred Santell",
+            "hasMedia": true,
+            "workTitle": "Daddy-Long-Legs"
+          },
+          {
+            "id": 228,
+            "slug": "curly-top-1935",
+            "title": "Curly Top",
+            "html_title": "<span class=\"film-title\">Curly Top</span>",
+            "year": 1935,
+            "studio": "Fox Film",
+            "directors": "Irving Cummings",
+            "hasMedia": true,
+            "workTitle": "Daddy-Long-Legs"
+          },
+          {
+            "id": 202,
+            "slug": "back-street-1932",
+            "title": "Back Street",
+            "html_title": "<span class=\"film-title\">Back Street</span>",
+            "year": 1932,
+            "studio": "Universal",
+            "directors": "John M. Stahl",
+            "hasMedia": true,
+            "workTitle": "Back Street"
+          },
+          {
+            "id": 263,
+            "slug": "back-street-1941",
+            "title": "Back Street",
+            "html_title": "<span class=\"film-title\">Back Street</span>",
+            "year": 1941,
+            "studio": "Universal",
+            "directors": "Robert Stevenson",
+            "hasMedia": true,
+            "workTitle": "Back Street"
+          },
+          {
+            "id": 296,
+            "slug": "back-street-1948",
+            "title": "Back Street",
+            "html_title": "<span class=\"film-title\">Back Street</span>",
+            "year": 1948,
+            "studio": "Silver Light",
+            "directors": "Esther Eng",
+            "hasMedia": false,
+            "workTitle": "Back Street"
           },
           {
             "id": 248,
@@ -2694,28 +2716,6 @@
             "directors": "William Keighley",
             "hasMedia": true,
             "workTitle": "Sister Act"
-          },
-          {
-            "id": 185,
-            "slug": "tess-of-the-storm-country-1932",
-            "title": "Tess of the Storm Country",
-            "html_title": "<span class=\"film-title\">Tess of the Storm Country</span>",
-            "year": 1932,
-            "studio": "Fox Film",
-            "directors": "Alfred Santell",
-            "hasMedia": true,
-            "workTitle": "Tess of the Storm Country"
-          },
-          {
-            "id": 160,
-            "slug": "the-bat-whispers-1930",
-            "title": "The Bat Whispers",
-            "html_title": "<span class=\"film-title\">The Bat Whispers</span>",
-            "year": 1930,
-            "studio": "United Artists",
-            "directors": "Roland West",
-            "hasMedia": true,
-            "workTitle": "The Circular Staircase"
           }
         ],
         "count": 24,
@@ -2747,28 +2747,6 @@
         "end": 1963,
         "remakes": [
           {
-            "id": 341,
-            "slug": "back-street-1961",
-            "title": "Back Street",
-            "html_title": "<span class=\"film-title\">Back Street</span>",
-            "year": 1961,
-            "studio": "Universal-International",
-            "directors": "David Miller",
-            "hasMedia": true,
-            "workTitle": "Back Street"
-          },
-          {
-            "id": 330,
-            "slug": "daddy-long-legs-1955",
-            "title": "Daddy Long Legs",
-            "html_title": "<span class=\"film-title\">Daddy Long Legs</span>",
-            "year": 1955,
-            "studio": "20th Century Fox",
-            "directors": "Jean Negulesco",
-            "hasMedia": true,
-            "workTitle": "Daddy-Long-Legs"
-          },
-          {
             "id": 340,
             "slug": "freckles-1960",
             "title": "Freckles",
@@ -2780,15 +2758,15 @@
             "workTitle": "Freckles"
           },
           {
-            "id": 329,
-            "slug": "young-at-heart-1955",
-            "title": "Young at Heart",
-            "html_title": "<span class=\"film-title\">Young at Heart</span>",
-            "year": 1955,
-            "studio": "Warner Bros",
-            "directors": "Gordon Douglas",
+            "id": 337,
+            "slug": "the-bat-1959",
+            "title": "The Bat",
+            "html_title": "<span class=\"film-title\">The Bat</span>",
+            "year": 1959,
+            "studio": "Allied Artists",
+            "directors": "Crane Wilbur",
             "hasMedia": true,
-            "workTitle": "Sister Act"
+            "workTitle": "The Circular Staircase"
           },
           {
             "id": 338,
@@ -2802,21 +2780,51 @@
             "workTitle": "Tess of the Storm Country"
           },
           {
-            "id": 337,
-            "slug": "the-bat-1959",
-            "title": "The Bat",
-            "html_title": "<span class=\"film-title\">The Bat</span>",
-            "year": 1959,
-            "studio": "Allied Artists",
-            "directors": "Crane Wilbur",
+            "id": 330,
+            "slug": "daddy-long-legs-1955",
+            "title": "Daddy Long Legs",
+            "html_title": "<span class=\"film-title\">Daddy Long Legs</span>",
+            "year": 1955,
+            "studio": "20th Century Fox",
+            "directors": "Jean Negulesco",
             "hasMedia": true,
-            "workTitle": "The Circular Staircase"
+            "workTitle": "Daddy-Long-Legs"
+          },
+          {
+            "id": 341,
+            "slug": "back-street-1961",
+            "title": "Back Street",
+            "html_title": "<span class=\"film-title\">Back Street</span>",
+            "year": 1961,
+            "studio": "Universal-International",
+            "directors": "David Miller",
+            "hasMedia": true,
+            "workTitle": "Back Street"
+          },
+          {
+            "id": 329,
+            "slug": "young-at-heart-1955",
+            "title": "Young at Heart",
+            "html_title": "<span class=\"film-title\">Young at Heart</span>",
+            "year": 1955,
+            "studio": "Warner Bros",
+            "directors": "Gordon Douglas",
+            "hasMedia": true,
+            "workTitle": "Sister Act"
           }
         ],
         "count": 6,
         "topWorks": [
           {
-            "title": "Back Street",
+            "title": "Freckles",
+            "count": 1
+          },
+          {
+            "title": "The Circular Staircase",
+            "count": 1
+          },
+          {
+            "title": "Tess of the Storm Country",
             "count": 1
           },
           {
@@ -2824,15 +2832,7 @@
             "count": 1
           },
           {
-            "title": "Freckles",
-            "count": 1
-          },
-          {
-            "title": "Sister Act",
-            "count": 1
-          },
-          {
-            "title": "Tess of the Storm Country",
+            "title": "Back Street",
             "count": 1
           }
         ]
@@ -2942,7 +2942,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-18T19:26:16.652Z",
+    "generated": "2025-08-19T00:44:34.313Z",
     "version": "2.0"
   }
 }

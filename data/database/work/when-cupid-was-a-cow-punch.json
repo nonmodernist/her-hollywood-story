@@ -1,0 +1,79 @@
+{
+  "id": 520,
+  "slug": "when-cupid-was-a-cow-punch",
+  "title": "When Cupid Was A Cow-Punch",
+  "formatted_title": "\"When Cupid Was A Cow-Punch\"",
+  "html_title": "<span class=\"work-title short-story\">\"When Cupid Was A Cow-Punch\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1906,
+  "plot_summary": null,
+  "plot_summary_html": "",
+  "literary_significance": null,
+  "literary_significance_html": "",
+  "attribution_notes": "Published as a short story in 1906; expanded into a novel titled _Cupid, The Cow-Punch_, published in 1907.",
+  "author": {
+    "id": 234,
+    "slug": "eleanor-gates",
+    "name": "Eleanor Gates",
+    "birth_year": 1875,
+    "death_year": 1951,
+    "film_count": 6
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "photoplay_edition_count": 0,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 14,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 593,
+      "slug": "cupid-the-cowpuncher-1920",
+      "title": "Cupid, the Cowpuncher",
+      "html_title": "<span class=\"film-title\">Cupid, the Cowpuncher</span>",
+      "year": 1920,
+      "studio": "Goldwyn Pictures",
+      "directors": "Clarence G. Badger",
+      "genres": [
+        "Comedy",
+        "Western"
+      ],
+      "has_media": true,
+      "years_after_publication": 14
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_editions": [],
+  "magazine_publication": {
+    "magazine_title": "The Saturday Evening Post",
+    "magazine_pub_date": "1906-01-13",
+    "magazine_issue_info": "Volume 178 Number 29",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1906-01-13_178_29",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1906SEPJAN13%27",
+    "serialized": false,
+    "serial_parts": null
+  },
+  "external_urls": [
+    {
+      "source": "WorldCat",
+      "url": "https://www.worldcat.org/oclc/6553386",
+      "priority": 4
+    }
+  ],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": 6553386,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
+  "last_updated": "2025-08-18T19:44:12.393446"
+}

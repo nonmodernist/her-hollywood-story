@@ -20203,16 +20203,16 @@
         "attribution": "Image courtesy of TMDB"
       },
       "workId": 520,
-      "workTitle": "Cupid: The Cow-Punch",
-      "workFormattedTitle": "Cupid: The Cow-Punch",
-      "workHtmlTitle": "<span class=\"work-title\">Cupid: The Cow-Punch</span>",
-      "workSlug": "cupid-the-cow-punch",
+      "workTitle": "When Cupid Was A Cow-Punch",
+      "workFormattedTitle": "\"When Cupid Was A Cow-Punch\"",
+      "workHtmlTitle": "<span class=\"work-title short-story\">\"When Cupid Was A Cow-Punch\"</span>",
+      "workSlug": "when-cupid-was-a-cow-punch",
       "authorId": 234,
       "authorName": "Eleanor Gates",
       "authorSlug": "eleanor-gates",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "cupid, the cowpuncher clarence g. badger edfrid bingham will rogers|helene chadwick|andrew robson|lloyd whitlock|guinn \"big boy\" williams|tex parker|roy laidlaw|katherine wallace|nelson mcdowell|cordelia callahan goldwyn pictures cupid: the cow-punch eleanor gates comedy western"
+      "searchText": "cupid, the cowpuncher clarence g. badger edfrid bingham will rogers|helene chadwick|andrew robson|lloyd whitlock|guinn \"big boy\" williams|tex parker|roy laidlaw|katherine wallace|nelson mcdowell|cordelia callahan goldwyn pictures when cupid was a cow-punch eleanor gates comedy western"
     },
     {
       "id": 594,
@@ -20225,22 +20225,29 @@
       "genres": [
         "Western"
       ],
-      "studio": "The Eleanor Gates Photo-Play Company|Bosburn Photo Play",
+      "studio": "The Eleanor Gates Photo-Play Company",
       "directors": "Richard Garrick",
-      "hasMedia": false,
-      "mediaCount": 0,
-      "featuredMedia": null,
+      "hasMedia": true,
+      "mediaCount": 1,
+      "featuredMedia": {
+        "type": "still",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Doc_1915_film_still_from_Motion_Picture_News_advertisement.jpg/300px-Doc_1915_film_still_from_Motion_Picture_News_advertisement.jpg",
+        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Doc_1915_film_still_from_Motion_Picture_News_advertisement.jpg",
+        "caption": "A still or publicity image from the 1914 film \"Doc,\" the only known film produced by The Eleanor Gates Photo-Play Co.",
+        "source": "wikimedia",
+        "attribution": "The Eleanor Gates Photo-Play Co."
+      },
       "workId": 521,
       "workTitle": "Doc",
-      "workFormattedTitle": "Doc",
-      "workHtmlTitle": "<span class=\"work-title\">Doc</span>",
+      "workFormattedTitle": "\"Doc\"",
+      "workHtmlTitle": "<span class=\"work-title short-story\">\"Doc\"</span>",
       "workSlug": "doc",
       "authorId": 234,
       "authorName": "Eleanor Gates",
       "authorSlug": "eleanor-gates",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "doc richard garrick eleanor gates sydney seaward|herbert boswick|cyril chadwick|regina richards|vivian blackburn|alfred grady|\"baby\" grau|dolly the eleanor gates photo-play company|bosburn photo play doc eleanor gates western"
+      "searchText": "doc richard garrick eleanor gates sydney seaward|herbert boswick|cyril chadwick|regina richards|vivian blackburn|alfred grady|\"baby\" grau|dolly the eleanor gates photo-play company doc eleanor gates western"
     },
     {
       "id": 595,
@@ -39170,7 +39177,7 @@
       1910,
       1963
     ],
-    "withMedia": 1045
+    "withMedia": 1046
   },
   "filterOptions": {
     "years": [

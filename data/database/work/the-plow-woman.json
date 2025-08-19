@@ -51,7 +51,15 @@
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Pearson's Magazine",
+    "magazine_pub_date": "1906-03-01",
+    "magazine_issue_info": "v15 #3-6, v16 #1-2",
+    "digitized_url": "https://archive.org/details/pearsonsmagazin01unkngoog/page/n6/mode/2up",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1906PRUMAR%27",
+    "serialized": true,
+    "serial_parts": 6
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -61,5 +69,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-18T19:52:40.225322"
 }

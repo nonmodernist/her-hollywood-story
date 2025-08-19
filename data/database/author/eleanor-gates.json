@@ -6,8 +6,8 @@
   "death_year": 1951,
   "nationality": "American",
   "literary_movement": null,
-  "biographical_notes": "American playwright (1875-1951). Born in Shakopee. Died in Los Angeles. Occupations: playwright, writer. Notable works: Good-Night (Buenas Noches)",
-  "biographical_notes_html": "<p>American playwright (1875-1951). Born in Shakopee. Died in Los Angeles. Occupations: playwright, writer. Notable works: Good-Night (Buenas Noches)</p>",
+  "biographical_notes": "American writer and playwright (1875-1951). Born in Shakopee. Died in Los Angeles. Among the first authors to create her own film production company, in 1914. ",
+  "biographical_notes_html": "<p>American writer and playwright (1875-1951). Born in Shakopee. Died in Los Angeles. Among the first authors to create her own film production company, in 1914. </p>",
   "author_notes": null,
   "wikidata_id": "Q3721233",
   "alternative_names": null,
@@ -20,7 +20,7 @@
   "archives_locations": null,
   "modern_availability": null,
   "has_portrait": "False",
-  "signature_work_ids": null,
+  "signature_work_ids": "[523]",
   "has_pseudonym": "False",
   "is_pseudonym": "False",
   "stats": {
@@ -64,14 +64,14 @@
       "title": "Doc",
       "html_title": "<span class=\"film-title\">Doc</span>",
       "year": 1914,
-      "studio": "The Eleanor Gates Photo-Play Company|Bosburn Photo Play",
+      "studio": "The Eleanor Gates Photo-Play Company",
       "directors": "Richard Garrick",
       "genres": [
         "Western"
       ],
-      "has_media": false,
+      "has_media": true,
       "work_title": "Doc",
-      "work_html_title": "<span class=\"work-title\">Doc</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Doc\"</span>",
       "work_id": 521
     },
     {
@@ -120,8 +120,8 @@
         "Western"
       ],
       "has_media": true,
-      "work_title": "Cupid: The Cow-Punch",
-      "work_html_title": "<span class=\"work-title\">Cupid: The Cow-Punch</span>",
+      "work_title": "When Cupid Was A Cow-Punch",
+      "work_html_title": "<span class=\"work-title short-story\">\"When Cupid Was A Cow-Punch\"</span>",
       "work_id": 520
     },
     {
@@ -173,10 +173,10 @@
       "id": 521,
       "slug": "doc",
       "title": "Doc",
-      "formatted_title": "Doc",
-      "html_title": "<span class=\"work-title\">Doc</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"Doc\"",
+      "html_title": "<span class=\"work-title short-story\">\"Doc\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1910,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -193,12 +193,12 @@
     },
     {
       "id": 520,
-      "slug": "cupid-the-cow-punch",
-      "title": "Cupid: The Cow-Punch",
-      "formatted_title": "Cupid: The Cow-Punch",
-      "html_title": "<span class=\"work-title\">Cupid: The Cow-Punch</span>",
-      "work_type": "novel",
-      "publication_year": 1907,
+      "slug": "when-cupid-was-a-cow-punch",
+      "title": "When Cupid Was A Cow-Punch",
+      "formatted_title": "\"When Cupid Was A Cow-Punch\"",
+      "html_title": "<span class=\"work-title short-story\">\"When Cupid Was A Cow-Punch\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1906,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -225,5 +225,5 @@
     "adaptation_count": 2,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-18T22:04:35.920093"
 }

@@ -3025,6 +3025,22 @@
       "searchText": "ruth mckenney"
     },
     {
+      "id": 518,
+      "slug": "anne-warner",
+      "name": "Anne Warner",
+      "birthYear": 1869,
+      "deathYear": 1913,
+      "nationality": "American",
+      "literaryMovement": null,
+      "filmCount": 2,
+      "workCount": 1,
+      "firstAdaptation": 1916,
+      "lastAdaptation": 1927,
+      "yearSpan": 11,
+      "isTwentyTimer": false,
+      "searchText": "anne warner"
+    },
+    {
       "id": 11,
       "slug": "alice-macgowan",
       "name": "Alice MacGowan",
@@ -7922,7 +7938,7 @@
     }
   ],
   "metadata": {
-    "totalCount": 497,
-    "withFilms": 495
+    "totalCount": 498,
+    "withFilms": 496
   }
 }

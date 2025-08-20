@@ -1635,6 +1635,25 @@
       "searchText": "my sister eileen ruth mckenney"
     },
     {
+      "id": 1033,
+      "slug": "the-rejuvenation-of-aunt-mary",
+      "title": "The Rejuvenation of Aunt Mary",
+      "formatted_title": "The Rejuvenation of Aunt Mary",
+      "html_title": "<span class=\"work-title\">The Rejuvenation of Aunt Mary</span>",
+      "workType": "novel",
+      "authorId": 518,
+      "authorName": "Anne Warner",
+      "authorSlug": "anne-warner",
+      "publicationYear": 1905,
+      "adaptationCount": 2,
+      "yearSpan": 11,
+      "isRemakeChampion": false,
+      "firstAdaptationYear": 1916,
+      "hasMagazinePublication": false,
+      "hasPhotoplayEdition": false,
+      "searchText": "the rejuvenation of aunt mary anne warner"
+    },
+    {
       "id": 8,
       "slug": "the-pretty-sister-of-jose",
       "title": "The Pretty Sister of Jose",
@@ -3479,10 +3498,10 @@
     },
     {
       "id": 125,
-      "slug": "sandy",
-      "title": "Sandy",
-      "formatted_title": "Sandy",
-      "html_title": "<span class=\"work-title\">Sandy</span>",
+      "slug": "sandy-ii",
+      "title": "Sandy (II)",
+      "formatted_title": "Sandy (II)",
+      "html_title": "<span class=\"work-title\">Sandy (II)</span>",
       "workType": "novel",
       "authorId": 46,
       "authorName": "Elenore Meherin",
@@ -3494,7 +3513,7 @@
       "firstAdaptationYear": 1926,
       "hasMagazinePublication": false,
       "hasPhotoplayEdition": true,
-      "searchText": "sandy elenore meherin"
+      "searchText": "sandy (ii) elenore meherin"
     },
     {
       "id": 126,
@@ -10156,7 +10175,7 @@
       "authorId": 233,
       "authorName": "Lotta Gannet",
       "authorSlug": "lotta-gannet",
-      "publicationYear": null,
+      "publicationYear": 1918,
       "adaptationCount": 1,
       "yearSpan": 0,
       "isRemakeChampion": false,
@@ -19192,8 +19211,8 @@
     }
   ],
   "metadata": {
-    "totalCount": 1011,
-    "withAdaptations": 1010,
+    "totalCount": 1012,
+    "withAdaptations": 1011,
     "remakeChampions": 13
   }
 }

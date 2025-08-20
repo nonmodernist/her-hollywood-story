@@ -5,7 +5,7 @@
   "formatted_title": "\"Her Decision\"",
   "html_title": "<span class=\"work-title short-story\">\"Her Decision\"</span>",
   "work_type": "short_story",
-  "publication_year": null,
+  "publication_year": 1918,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -27,8 +27,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": true,
+    "speed_demon_delay": 0,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -45,17 +45,17 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 1918
+      "years_after_publication": 0
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
   "magazine_publication": {
     "magazine_title": "Breezy Stories",
-    "magazine_pub_date": null,
-    "magazine_issue_info": null,
+    "magazine_pub_date": "1918-02-01",
+    "magazine_issue_info": "v5 #6",
     "digitized_url": null,
-    "FMI_link": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1918$kBRZSTFEB%27",
     "serialized": false,
     "serial_parts": null
   },
@@ -68,5 +68,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-20T00:49:29.881602"
 }

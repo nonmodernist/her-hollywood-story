@@ -1,0 +1,90 @@
+{
+  "id": 1033,
+  "slug": "the-rejuvenation-of-aunt-mary",
+  "title": "The Rejuvenation of Aunt Mary",
+  "formatted_title": "The Rejuvenation of Aunt Mary",
+  "html_title": "<span class=\"work-title\">The Rejuvenation of Aunt Mary</span>",
+  "work_type": "novel",
+  "publication_year": 1905,
+  "plot_summary": null,
+  "plot_summary_html": "",
+  "literary_significance": null,
+  "literary_significance_html": "",
+  "attribution_notes": null,
+  "author": {
+    "id": 518,
+    "slug": "anne-warner",
+    "name": "Anne Warner",
+    "birth_year": 1869,
+    "death_year": 1913,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 2,
+    "year_span": 11,
+    "is_remake_champion": false,
+    "photoplay_edition_count": 0,
+    "average_gap_between_adaptations": 11
+  },
+  "patterns": {
+    "is_speed_demon": false,
+    "speed_demon_delay": 11,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1153,
+      "slug": "the-rejuvenation-of-aunt-mary-1916",
+      "title": "The Rejuvenation of Aunt Mary",
+      "html_title": "<span class=\"film-title\">The Rejuvenation of Aunt Mary</span>",
+      "year": 1916,
+      "studio": "Biograph",
+      "directors": "Dell Henderson",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "years_after_publication": 11
+    },
+    {
+      "id": 1154,
+      "slug": "the-rejuvenation-of-aunt-mary-1927",
+      "title": "The Rejuvenation of Aunt Mary",
+      "html_title": "<span class=\"film-title\">The Rejuvenation of Aunt Mary</span>",
+      "year": 1927,
+      "studio": "Metropolitan Pictures",
+      "directors": "Erle C. Kenton",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "years_after_publication": 22
+    }
+  ],
+  "adaptation_gaps": [
+    {
+      "from_year": 1916,
+      "to_year": 1927,
+      "gap_years": 11
+    }
+  ],
+  "photoplay_editions": [],
+  "magazine_publication": null,
+  "external_urls": [
+    {
+      "source": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/15775",
+      "priority": 1
+    }
+  ],
+  "external_ids": {
+    "gutenberg_id": 15775,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": null,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
+  "last_updated": "2025-08-20T02:11:49.23281"
+}

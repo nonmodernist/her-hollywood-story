@@ -1,0 +1,110 @@
+{
+  "id": 518,
+  "slug": "anne-warner",
+  "name": "Anne Warner",
+  "birth_year": 1869,
+  "death_year": 1913,
+  "nationality": "American",
+  "literary_movement": null,
+  "biographical_notes": null,
+  "biographical_notes_html": "",
+  "author_notes": null,
+  "wikidata_id": "Q19838043",
+  "alternative_names": "['Anne Richmond Warner French']",
+  "occupations": null,
+  "key_themes": null,
+  "education": null,
+  "maiden_name": null,
+  "key_associations": null,
+  "major_awards": null,
+  "archives_locations": null,
+  "modern_availability": null,
+  "has_portrait": "False",
+  "signature_work_ids": null,
+  "has_pseudonym": "False",
+  "is_pseudonym": "False",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 1,
+    "first_adaptation": 1916,
+    "last_adaptation": 1927,
+    "year_span": 11,
+    "top_genres": [
+      {
+        "genre": "Comedy-drama",
+        "count": 1
+      },
+      {
+        "genre": "Comedy",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1910": 1,
+      "1920": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1153,
+      "slug": "the-rejuvenation-of-aunt-mary-1916",
+      "title": "The Rejuvenation of Aunt Mary",
+      "html_title": "<span class=\"film-title\">The Rejuvenation of Aunt Mary</span>",
+      "year": 1916,
+      "studio": "Biograph",
+      "directors": "Dell Henderson",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": false,
+      "work_title": "The Rejuvenation of Aunt Mary",
+      "work_html_title": "<span class=\"work-title\">The Rejuvenation of Aunt Mary</span>",
+      "work_id": 1033
+    },
+    {
+      "id": 1154,
+      "slug": "the-rejuvenation-of-aunt-mary-1927",
+      "title": "The Rejuvenation of Aunt Mary",
+      "html_title": "<span class=\"film-title\">The Rejuvenation of Aunt Mary</span>",
+      "year": 1927,
+      "studio": "Metropolitan Pictures",
+      "directors": "Erle C. Kenton",
+      "genres": [
+        "Comedy"
+      ],
+      "has_media": false,
+      "work_title": "The Rejuvenation of Aunt Mary",
+      "work_html_title": "<span class=\"work-title\">The Rejuvenation of Aunt Mary</span>",
+      "work_id": 1033
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 1033,
+      "slug": "the-rejuvenation-of-aunt-mary",
+      "title": "The Rejuvenation of Aunt Mary",
+      "formatted_title": "The Rejuvenation of Aunt Mary",
+      "html_title": "<span class=\"work-title\">The Rejuvenation of Aunt Mary</span>",
+      "work_type": "novel",
+      "publication_year": 1905,
+      "adaptation_count": 2,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 1033,
+    "slug": "the-rejuvenation-of-aunt-mary",
+    "title": "The Rejuvenation of Aunt Mary",
+    "formatted_title": "The Rejuvenation of Aunt Mary",
+    "html_title": "<span class=\"work-title\">The Rejuvenation of Aunt Mary</span>",
+    "work_type": "novel",
+    "publication_year": 1905,
+    "adaptation_count": 2,
+    "is_remake_champion": false
+  },
+  "last_updated": "2025-08-20T02:07:07.918734"
+}

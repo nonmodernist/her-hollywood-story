@@ -413,6 +413,40 @@
     },
     {
       "work": {
+        "id": 519,
+        "slug": "her-decision",
+        "title": "Her Decision",
+        "formatted_title": "\"Her Decision\"",
+        "html_title": "<span class=\"work-title short-story\">\"Her Decision\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1918
+      },
+      "author": {
+        "id": 233,
+        "slug": "lotta-gannet",
+        "name": "Lotta Gannet"
+      },
+      "firstAdaptation": {
+        "id": 592,
+        "slug": "her-decision-1918",
+        "title": "Her Decision",
+        "html_title": "<span class=\"film-title\">Her Decision</span>",
+        "year": 1918,
+        "studio": "Triangle Film",
+        "directors": "Jack Conway"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1918
+      }
+    },
+    {
+      "work": {
         "id": 373,
         "slug": "nobodys-bride",
         "title": "Nobody's Bride",
@@ -1570,10 +1604,10 @@
     {
       "work": {
         "id": 125,
-        "slug": "sandy",
-        "title": "Sandy",
-        "formatted_title": "Sandy",
-        "html_title": "<span class=\"work-title\">Sandy</span>",
+        "slug": "sandy-ii",
+        "title": "Sandy (II)",
+        "formatted_title": "Sandy (II)",
+        "html_title": "<span class=\"work-title\">Sandy (II)</span>",
         "work_type": "novel",
         "publication_year": 1926
       },
@@ -9903,6 +9937,40 @@
         },
         {
           "work": {
+            "id": 519,
+            "slug": "her-decision",
+            "title": "Her Decision",
+            "formatted_title": "\"Her Decision\"",
+            "html_title": "<span class=\"work-title short-story\">\"Her Decision\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 233,
+            "slug": "lotta-gannet",
+            "name": "Lotta Gannet"
+          },
+          "firstAdaptation": {
+            "id": 592,
+            "slug": "her-decision-1918",
+            "title": "Her Decision",
+            "html_title": "<span class=\"film-title\">Her Decision</span>",
+            "year": 1918,
+            "studio": "Triangle Film",
+            "directors": "Jack Conway"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1918
+          }
+        },
+        {
+          "work": {
             "id": 373,
             "slug": "nobodys-bride",
             "title": "Nobody's Bride",
@@ -11060,10 +11128,10 @@
         {
           "work": {
             "id": 125,
-            "slug": "sandy",
-            "title": "Sandy",
-            "formatted_title": "Sandy",
-            "html_title": "<span class=\"work-title\">Sandy</span>",
+            "slug": "sandy-ii",
+            "title": "Sandy (II)",
+            "formatted_title": "Sandy (II)",
+            "html_title": "<span class=\"work-title\">Sandy (II)</span>",
             "work_type": "novel",
             "publication_year": 1926
           },
@@ -19395,6 +19463,40 @@
         },
         {
           "work": {
+            "id": 519,
+            "slug": "her-decision",
+            "title": "Her Decision",
+            "formatted_title": "\"Her Decision\"",
+            "html_title": "<span class=\"work-title short-story\">\"Her Decision\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 233,
+            "slug": "lotta-gannet",
+            "name": "Lotta Gannet"
+          },
+          "firstAdaptation": {
+            "id": 592,
+            "slug": "her-decision-1918",
+            "title": "Her Decision",
+            "html_title": "<span class=\"film-title\">Her Decision</span>",
+            "year": 1918,
+            "studio": "Triangle Film",
+            "directors": "Jack Conway"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1918
+          }
+        },
+        {
+          "work": {
             "id": 373,
             "slug": "nobodys-bride",
             "title": "Nobody's Bride",
@@ -21574,10 +21676,10 @@
         {
           "work": {
             "id": 125,
-            "slug": "sandy",
-            "title": "Sandy",
-            "formatted_title": "Sandy",
-            "html_title": "<span class=\"work-title\">Sandy</span>",
+            "slug": "sandy-ii",
+            "title": "Sandy (II)",
+            "formatted_title": "Sandy (II)",
+            "html_title": "<span class=\"work-title\">Sandy (II)</span>",
             "work_type": "novel",
             "publication_year": 1926
           },
@@ -28589,13 +28691,13 @@
     ]
   },
   "stats": {
-    "total": 279,
-    "sameYearCount": 90,
+    "total": 280,
+    "sameYearCount": 91,
     "oneYearCount": 189,
     "peakDecade": "1920"
   },
   "metadata": {
-    "generated": "2025-08-19T01:47:34.967Z",
+    "generated": "2025-08-20T02:29:06.120Z",
     "version": "2.0"
   }
 }

@@ -410,6 +410,33 @@
     },
     {
       "work": {
+        "id": 519,
+        "slug": "her-decision",
+        "title": "Her Decision",
+        "html_title": "<span class=\"work-title short-story\">\"Her Decision\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1918
+      },
+      "author": {
+        "id": 233,
+        "slug": "lotta-gannet",
+        "name": "Lotta Gannet"
+      },
+      "film": {
+        "id": 592,
+        "slug": "her-decision-1918",
+        "title": "Her Decision",
+        "html_title": "<span class=\"film-title\">Her Decision</span>",
+        "year": 1918,
+        "studio": "Triangle Film",
+        "directors": "Jack Conway",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
         "id": 862,
         "slug": "wild-honey",
         "title": "Wild Honey",
@@ -1221,9 +1248,9 @@
     {
       "work": {
         "id": 125,
-        "slug": "sandy",
-        "title": "Sandy",
-        "html_title": "<span class=\"work-title\">Sandy</span>",
+        "slug": "sandy-ii",
+        "title": "Sandy (II)",
+        "html_title": "<span class=\"work-title\">Sandy (II)</span>",
         "work_type": "novel",
         "publication_year": 1926
       },
@@ -2438,13 +2465,13 @@
     }
   ],
   "stats": {
-    "total": 90,
+    "total": 91,
     "yearRange": {
       "earliest": 1914,
       "latest": 1962
     },
     "byDecade": {
-      "1910s": 18,
+      "1910s": 19,
       "1920s": 35,
       "1930s": 27,
       "1940s": 6,
@@ -2454,7 +2481,7 @@
     "byGenre": [
       {
         "genre": "Drama",
-        "count": 35
+        "count": 36
       },
       {
         "genre": "Melodrama",
@@ -2508,7 +2535,7 @@
       },
       {
         "type": "short story",
-        "count": 26
+        "count": 27
       },
       {
         "type": "novella",
@@ -2609,7 +2636,7 @@
     ]
   },
   "metadata": {
-    "generated": "2025-08-19T01:47:34.972Z",
+    "generated": "2025-08-20T02:29:06.125Z",
     "version": "1.1"
   }
 }

@@ -1,82 +1,55 @@
 {
-  "id": 125,
+  "id": 41,
   "slug": "sandy",
   "title": "Sandy",
   "formatted_title": "Sandy",
   "html_title": "<span class=\"work-title\">Sandy</span>",
   "work_type": "novel",
-  "publication_year": 1926,
+  "publication_year": 1905,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
   "literary_significance_html": "",
   "attribution_notes": null,
   "author": {
-    "id": 46,
-    "slug": "elenore-meherin",
-    "name": "Elenore Meherin",
-    "birth_year": 1887,
-    "death_year": 1963,
-    "film_count": 2
+    "id": 5,
+    "slug": "alice-hegan-rice",
+    "name": "Alice Hegan Rice",
+    "birth_year": 1870,
+    "death_year": 1942,
+    "film_count": 9
   },
   "stats": {
     "adaptation_count": 1,
     "year_span": 0,
     "is_remake_champion": false,
-    "photoplay_edition_count": 1,
+    "photoplay_edition_count": 0,
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": true,
-    "speed_demon_delay": 0,
+    "is_speed_demon": false,
+    "speed_demon_delay": 13,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
   "adaptations": [
     {
-      "id": 131,
-      "slug": "sandy-1926",
+      "id": 43,
+      "slug": "sandy-1918",
       "title": "Sandy",
       "html_title": "<span class=\"film-title\">Sandy</span>",
-      "year": 1926,
-      "studio": "Fox Film",
-      "directors": "Harry Beaumont",
+      "year": 1918,
+      "studio": "Famous Players-Lasky",
+      "directors": "George H. Melford",
       "genres": [
-        "Melodrama"
+        "Drama"
       ],
-      "has_media": true,
-      "years_after_publication": 0
+      "has_media": false,
+      "years_after_publication": 13
     }
   ],
   "adaptation_gaps": [],
-  "photoplay_editions": [
-    {
-      "id": 53,
-      "source_work_id": 125,
-      "film_id": 131,
-      "publisher": "Grosset & Dunlap",
-      "edition_year": 1926,
-      "edition_description": null,
-      "binding_type": "hardback",
-      "dust_jacket": "True",
-      "cover_type": "art front DJ",
-      "photo_content": "8 stills",
-      "price_low_cents": 800,
-      "price_high_cents": 3000,
-      "source_url": "https://www.photoplay-edition.com/index4.php?a=eleanor",
-      "source_notes": null,
-      "verified": "False",
-      "created_at": "2025-07-06T00:52:52.462381",
-      "updated_at": "2025-08-17T03:50:23.707607",
-      "ia_url": null,
-      "has_visual_content": "True",
-      "country": "US",
-      "film_title": "Sandy",
-      "film_year": 1926,
-      "film_slug": "sandy-1926",
-      "media": []
-    }
-  ],
+  "photoplay_editions": [],
   "magazine_publication": null,
   "external_urls": [],
   "external_ids": {
@@ -84,8 +57,8 @@
     "internet_archive_id": null,
     "openlibrary_id": null,
     "oclc_number": null,
-    "wikidata_id": null,
+    "wikidata_id": "Q7417124",
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-16T17:36:49.937092"
 }

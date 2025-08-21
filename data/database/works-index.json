@@ -7126,25 +7126,6 @@
       "searchText": "applause beth brown"
     },
     {
-      "id": 340,
-      "slug": "spring-fever",
-      "title": "Spring Fever",
-      "formatted_title": "\"Spring Fever\"",
-      "html_title": "<span class=\"work-title short-story\">\"Spring Fever\"</span>",
-      "workType": "short_story",
-      "authorId": 141,
-      "authorName": "Grace Drew Brown",
-      "authorSlug": "grace-drew-brown",
-      "publicationYear": null,
-      "adaptationCount": 1,
-      "yearSpan": 0,
-      "isRemakeChampion": false,
-      "firstAdaptationYear": 1922,
-      "hasMagazinePublication": false,
-      "hasPhotoplayEdition": false,
-      "searchText": "spring fever grace drew brown"
-    },
-    {
       "id": 342,
       "slug": "highway-to-romance",
       "title": "Highway to Romance",
@@ -19211,8 +19192,8 @@
     }
   ],
   "metadata": {
-    "totalCount": 1012,
-    "withAdaptations": 1011,
+    "totalCount": 1011,
+    "withAdaptations": 1010,
     "remakeChampions": 13
   }
 }

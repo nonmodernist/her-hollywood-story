@@ -50,9 +50,9 @@
     },
     {
       "id": 3,
-      "slug": "uncle-toms-cabin-part-3-1910",
-      "title": "Uncle Tom's Cabin, Part 3",
-      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin, Part 3</span>",
+      "slug": "uncle-toms-cabin-parts-1-3-1910",
+      "title": "Uncle Tom's Cabin, Parts 1-3",
+      "html_title": "<span class=\"film-title\">Uncle Tom's Cabin, Parts 1-3</span>",
       "year": 1910,
       "studio": "Vitagraph",
       "directors": "Frederick Thomson",
@@ -65,17 +65,17 @@
     },
     {
       "id": 1009,
-      "slug": "uncle-toms-cabin-1913",
+      "slug": "uncle-toms-cabin-1914",
       "title": "Uncle Tom's Cabin",
       "html_title": "<span class=\"film-title\">Uncle Tom's Cabin</span>",
-      "year": 1913,
+      "year": 1914,
       "studio": "World Producing",
       "directors": "William Robert Daly",
       "genres": [
         "Melodrama"
       ],
       "has_media": true,
-      "years_after_publication": 61
+      "years_after_publication": 62
     },
     {
       "id": 39,
@@ -128,13 +128,13 @@
     },
     {
       "from_year": 1910,
-      "to_year": 1913,
-      "gap_years": 3
+      "to_year": 1914,
+      "gap_years": 4
     },
     {
-      "from_year": 1913,
+      "from_year": 1914,
       "to_year": 1918,
-      "gap_years": 5
+      "gap_years": 4
     },
     {
       "from_year": 1918,

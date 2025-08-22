@@ -50,25 +50,25 @@
   "adaptation_context": null,
   "media": [
     {
+      "id": 6021,
+      "media_type": "still",
+      "title": "Jazz Heaven title card",
+      "caption": "Film title card, showing Pauline Forney's credit",
+      "url": "https://jbkrgvygrdsymzbcyosv.supabase.co/storage/v1/object/public/her-hollywood-story/films/title-cards/jazz-heaven-1929-title.jpg",
+      "thumbnail_url": "https://jbkrgvygrdsymzbcyosv.supabase.co/storage/v1/object/public/her-hollywood-story/films/title-cards/jazz-heaven-1929-title.jpg?width=400&quality=75",
+      "source": "Jazz Heaven (1929)",
+      "source_url": null,
+      "license": null,
+      "attribution": null,
+      "is_featured": "False"
+    },
+    {
       "id": 3984,
       "media_type": "still",
       "title": "Jazz Heaven (1929) - Still",
       "caption": "Scene from Jazz Heaven (1929)",
       "url": "https://image.tmdb.org/t/p/original/p9TINGkA9rpSpbvA5mYzhv1004A.jpg",
       "thumbnail_url": "https://image.tmdb.org/t/p/w780/p9TINGkA9rpSpbvA5mYzhv1004A.jpg",
-      "source": "TMDb",
-      "source_url": "https://www.themoviedb.org/movie/289479",
-      "license": "fair_use",
-      "attribution": "RKO",
-      "is_featured": "False"
-    },
-    {
-      "id": 3983,
-      "media_type": "poster",
-      "title": "Jazz Heaven (1929) - Poster",
-      "caption": "Poster for Jazz Heaven (1929)",
-      "url": "https://image.tmdb.org/t/p/original/kBhdfm5gKfUVCWXRrBDkU1uKXMJ.jpg",
-      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kBhdfm5gKfUVCWXRrBDkU1uKXMJ.jpg",
       "source": "TMDb",
       "source_url": "https://www.themoviedb.org/movie/289479",
       "license": "fair_use",
@@ -85,8 +85,21 @@
       "source": "Wikimedia Commons",
       "source_url": "https://commons.wikimedia.org/wiki/File:Jazz_Heaven_lobby_card.jpg",
       "license": "public_domain",
-      "attribution": "RKO.",
+      "attribution": "RKO",
       "is_featured": "False"
+    },
+    {
+      "id": 3983,
+      "media_type": "poster",
+      "title": "Jazz Heaven (1929) - Poster",
+      "caption": "Poster for Jazz Heaven (1929), cropped from lobby card",
+      "url": "https://image.tmdb.org/t/p/original/kBhdfm5gKfUVCWXRrBDkU1uKXMJ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/kBhdfm5gKfUVCWXRrBDkU1uKXMJ.jpg",
+      "source": "TMDb",
+      "source_url": "https://www.themoviedb.org/movie/289479",
+      "license": "fair_use",
+      "attribution": "RKO",
+      "is_featured": "True"
     },
     {
       "id": 1305,
@@ -103,6 +116,6 @@
     }
   ],
   "has_media": true,
-  "media_count": 4,
+  "media_count": 5,
   "last_updated": "2025-08-20T18:30:27.53423"
 }

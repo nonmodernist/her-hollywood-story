@@ -369,7 +369,7 @@ export function renderWorkDetail(work) {
         <div>
             <h1>${work.html_title}</h1>
             <div class="detail-subtitle font-sans">
-                by <a href="${getDatabaseURL('/author/' + work.author.slug)}">${work.author.name}</a> · 
+                by <a href="${getDatabaseURL('/author/' + work.author.slug)}">${work.author.name}</a>${work.attribution_notes ? ` and ${work.attribution_notes.replace('co-writer ', '').replace('co-writers ', '')}` : ''} · 
                 ${capitalizeFirst(work.work_type?.replace('_', ' ') || 'Unknown type')} · 
                 ${work.publication_year || 'Publication year unknown'}
             </div>

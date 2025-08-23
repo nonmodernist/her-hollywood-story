@@ -8836,44 +8836,6 @@
       "searchText": "the human side viña delmar"
     },
     {
-      "id": 445,
-      "slug": "playing-dead",
-      "title": "Playing Dead",
-      "formatted_title": "Playing Dead",
-      "html_title": "<span class=\"work-title\">Playing Dead</span>",
-      "workType": "novel",
-      "authorId": 53,
-      "authorName": "Viña Delmar",
-      "authorSlug": "via-delmar",
-      "publicationYear": null,
-      "adaptationCount": 1,
-      "yearSpan": 0,
-      "isRemakeChampion": false,
-      "firstAdaptationYear": 1922,
-      "hasMagazinePublication": false,
-      "hasPhotoplayEdition": false,
-      "searchText": "playing dead viña delmar"
-    },
-    {
-      "id": 446,
-      "slug": "the-rich-full-life",
-      "title": "The Rich Full Life",
-      "formatted_title": "\"The Rich Full Life\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Rich Full Life\"</span>",
-      "workType": "short_story",
-      "authorId": 53,
-      "authorName": "Viña Delmar",
-      "authorSlug": "via-delmar",
-      "publicationYear": null,
-      "adaptationCount": 1,
-      "yearSpan": 0,
-      "isRemakeChampion": false,
-      "firstAdaptationYear": 1947,
-      "hasMagazinePublication": false,
-      "hasPhotoplayEdition": false,
-      "searchText": "the rich full life viña delmar"
-    },
-    {
       "id": 447,
       "slug": "family-skeleton",
       "title": "Family Skeleton",
@@ -19192,8 +19154,8 @@
     }
   ],
   "metadata": {
-    "totalCount": 1011,
-    "withAdaptations": 1010,
+    "totalCount": 1009,
+    "withAdaptations": 1008,
     "remakeChampions": 13
   }
 }

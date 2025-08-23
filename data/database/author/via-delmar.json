@@ -24,26 +24,26 @@
   "has_pseudonym": "False",
   "is_pseudonym": "False",
   "stats": {
-    "total_films": 15,
-    "works_adapted": 13,
-    "first_adaptation": 1922,
+    "total_films": 13,
+    "works_adapted": 11,
+    "first_adaptation": 1929,
     "last_adaptation": 1953,
-    "year_span": 31,
+    "year_span": 24,
     "top_genres": [
-      {
-        "genre": "Melodrama",
-        "count": 5
-      },
       {
         "genre": "Drama",
         "count": 5
       },
       {
-        "genre": "Comedy-drama",
-        "count": 2
+        "genre": "Melodrama",
+        "count": 4
       },
       {
         "genre": "Romantic comedy",
+        "count": 1
+      },
+      {
+        "genre": "Comedy-drama",
         "count": 1
       },
       {
@@ -52,9 +52,9 @@
       }
     ],
     "films_by_decade": {
-      "1920": 2,
+      "1920": 1,
       "1930": 9,
-      "1940": 3,
+      "1940": 2,
       "1950": 1
     }
   },
@@ -63,22 +63,6 @@
     "twenty_timer_rank": null
   },
   "films": [
-    {
-      "id": 516,
-      "slug": "restless-souls-1922",
-      "title": "Restless Souls",
-      "html_title": "<span class=\"film-title\">Restless Souls</span>",
-      "year": 1922,
-      "studio": "Vitagraph",
-      "directors": "Robert Ensminger",
-      "genres": [
-        "Melodrama"
-      ],
-      "has_media": false,
-      "work_title": "Playing Dead",
-      "work_html_title": "<span class=\"work-title\">Playing Dead</span>",
-      "work_id": 445
-    },
     {
       "id": 512,
       "slug": "dance-hall-1929",
@@ -272,22 +256,6 @@
       "work_id": 444
     },
     {
-      "id": 515,
-      "slug": "cynthia-1947",
-      "title": "Cynthia",
-      "html_title": "<span class=\"film-title\">Cynthia</span>",
-      "year": 1947,
-      "studio": "MGM",
-      "directors": "Robert Z. Leonard",
-      "genres": [
-        "Comedy-drama"
-      ],
-      "has_media": true,
-      "work_title": "The Rich Full Life",
-      "work_html_title": "<span class=\"work-title short-story\">\"The Rich Full Life\"</span>",
-      "work_id": 446
-    },
-    {
       "id": 320,
       "slug": "about-mrs-leslie-1953",
       "title": "About Mrs. Leslie",
@@ -322,28 +290,6 @@
       "title": "Bracelets",
       "formatted_title": "\"Bracelets\"",
       "html_title": "<span class=\"work-title short-story\">\"Bracelets\"</span>",
-      "work_type": "short_story",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 445,
-      "slug": "playing-dead",
-      "title": "Playing Dead",
-      "formatted_title": "Playing Dead",
-      "html_title": "<span class=\"work-title\">Playing Dead</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 446,
-      "slug": "the-rich-full-life",
-      "title": "The Rich Full Life",
-      "formatted_title": "\"The Rich Full Life\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Rich Full Life\"</span>",
       "work_type": "short_story",
       "publication_year": null,
       "adaptation_count": 1,

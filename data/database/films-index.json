@@ -17479,69 +17479,6 @@
       "searchText": "the great man's lady william a. wellman w. l. river barbara stanwyck|joel mccrea|brian donlevy|k. t. stevens|thurston hall|lloyd corrigan|etta mcdaniel|frank m. thomas|william b. davidson|lillian yarbo paramount the human side viña delmar romance"
     },
     {
-      "id": 515,
-      "slug": "cynthia-1947",
-      "title": "Cynthia",
-      "formatted_title": "Cynthia",
-      "html_title": "<span class=\"film-title\">Cynthia</span>",
-      "year": 1947,
-      "decade": 1940,
-      "genres": [
-        "Comedy-drama"
-      ],
-      "studio": "MGM",
-      "directors": "Robert Z. Leonard",
-      "hasMedia": true,
-      "mediaCount": 7,
-      "featuredMedia": {
-        "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/bp7vgbjOlMSnHp8ugHhid4ZlROF.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/bp7vgbjOlMSnHp8ugHhid4ZlROF.jpg",
-        "caption": "Poster for Cynthia (1947)",
-        "source": "TMDb",
-        "attribution": "MGM"
-      },
-      "workId": 446,
-      "workTitle": "The Rich Full Life",
-      "workFormattedTitle": "\"The Rich Full Life\"",
-      "workHtmlTitle": "<span class=\"work-title short-story\">\"The Rich Full Life\"</span>",
-      "workSlug": "the-rich-full-life",
-      "authorId": 53,
-      "authorName": "Viña Delmar",
-      "authorSlug": "via-delmar",
-      "isRemake": false,
-      "adaptationNumber": 1,
-      "searchText": "cynthia robert z. leonard harold buchman|charles kaufman elizabeth taylor|george murphy|s. z. sakall|mary astor|gene lockhart|spring byington|jimmy lydon|scotty beckett|carol brannan|anna q. nilsson mgm the rich full life viña delmar comedy-drama"
-    },
-    {
-      "id": 516,
-      "slug": "restless-souls-1922",
-      "title": "Restless Souls",
-      "formatted_title": "Restless Souls",
-      "html_title": "<span class=\"film-title\">Restless Souls</span>",
-      "year": 1922,
-      "decade": 1920,
-      "genres": [
-        "Melodrama"
-      ],
-      "studio": "Vitagraph",
-      "directors": "Robert Ensminger",
-      "hasMedia": false,
-      "mediaCount": 0,
-      "featuredMedia": null,
-      "workId": 445,
-      "workTitle": "Playing Dead",
-      "workFormattedTitle": "Playing Dead",
-      "workHtmlTitle": "<span class=\"work-title\">Playing Dead</span>",
-      "workSlug": "playing-dead",
-      "authorId": 53,
-      "authorName": "Viña Delmar",
-      "authorSlug": "via-delmar",
-      "isRemake": false,
-      "adaptationNumber": 1,
-      "searchText": "restless souls robert ensminger fred schaefer|calder johnstone earle williams|francelia billington|arthur hoyt|martha mattox|nick cogley vitagraph playing dead viña delmar melodrama"
-    },
-    {
       "id": 517,
       "slug": "stella-1950",
       "title": "Stella",
@@ -39193,12 +39130,12 @@
     }
   ],
   "metadata": {
-    "totalCount": 1137,
+    "totalCount": 1135,
     "yearRange": [
       1910,
       1963
     ],
-    "withMedia": 1045
+    "withMedia": 1044
   },
   "filterOptions": {
     "years": [
@@ -39325,7 +39262,7 @@
       {
         "value": 53,
         "label": "Viña Delmar",
-        "count": 15
+        "count": 13
       },
       {
         "value": 43,
@@ -39687,7 +39624,7 @@
       {
         "value": "MGM",
         "label": "MGM",
-        "count": 89
+        "count": 88
       },
       {
         "value": "Monogram",
@@ -39807,7 +39744,7 @@
       {
         "value": "Vitagraph",
         "label": "Vitagraph",
-        "count": 18
+        "count": 17
       },
       {
         "value": "Walt Disney",
@@ -39854,7 +39791,7 @@
       {
         "value": "Comedy-drama",
         "label": "Comedy-drama",
-        "count": 129
+        "count": 128
       },
       {
         "value": "Documentary",
@@ -39884,7 +39821,7 @@
       {
         "value": "Melodrama",
         "label": "Melodrama",
-        "count": 230
+        "count": 229
       },
       {
         "value": "Musical",

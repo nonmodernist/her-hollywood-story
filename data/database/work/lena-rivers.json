@@ -23,7 +23,7 @@
     "adaptation_count": 5,
     "year_span": 22,
     "is_remake_champion": true,
-    "photoplay_edition_count": 1,
+    "photoplay_edition_count": 2,
     "average_gap_between_adaptations": 6
   },
   "patterns": {
@@ -128,6 +128,32 @@
     }
   ],
   "photoplay_editions": [
+    {
+      "id": 295,
+      "source_work_id": 568,
+      "film_id": 647,
+      "publisher": "J.S. Ogilvie",
+      "edition_year": 1914,
+      "edition_description": null,
+      "binding_type": "paperback?",
+      "dust_jacket": "False",
+      "cover_type": "photo on front cover",
+      "photo_content": null,
+      "price_low_cents": null,
+      "price_high_cents": null,
+      "source_url": null,
+      "source_notes": "Crowdsourced",
+      "verified": "False",
+      "created_at": "2025-08-23T13:56:43.978894",
+      "updated_at": "2025-08-23T13:56:43.978894",
+      "ia_url": null,
+      "has_visual_content": "True",
+      "country": "US",
+      "film_title": "Lena Rivers",
+      "film_year": 1914,
+      "film_slug": "lena-rivers-1914",
+      "media": []
+    },
     {
       "id": 259,
       "source_work_id": 568,

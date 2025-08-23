@@ -5,7 +5,7 @@
   "formatted_title": "The Studio Murder Mystery",
   "html_title": "<span class=\"work-title\">The Studio Murder Mystery</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1928,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -27,8 +27,8 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -46,20 +46,34 @@
         "Mystery"
       ],
       "has_media": true,
-      "years_after_publication": 1929
+      "years_after_publication": 1
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
-  "external_urls": [],
+  "magazine_publication": {
+    "magazine_title": "Photoplay",
+    "magazine_pub_date": "1928-10-01",
+    "magazine_issue_info": "v34 #5-6, v35 #1-6",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1928$kPHOPLOCT%27",
+    "serialized": true,
+    "serial_parts": 8
+  },
+  "external_urls": [
+    {
+      "source": "Internet Archive",
+      "url": "https://archive.org/details/studiomurdermyst0000unse_f7k7",
+      "priority": 2
+    }
+  ],
   "external_ids": {
     "gutenberg_id": null,
-    "internet_archive_id": null,
+    "internet_archive_id": "studiomurdermyst0000unse_f7k7",
     "openlibrary_id": null,
     "oclc_number": null,
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-23T16:58:26.436614"
 }

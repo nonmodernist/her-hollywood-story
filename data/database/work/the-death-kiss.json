@@ -51,14 +51,20 @@
   "adaptation_gaps": [],
   "photoplay_editions": [],
   "magazine_publication": null,
-  "external_urls": [],
+  "external_urls": [
+    {
+      "source": "Internet Archive",
+      "url": "https://archive.org/details/deathkiss0000made",
+      "priority": 2
+    }
+  ],
   "external_ids": {
     "gutenberg_id": null,
-    "internet_archive_id": null,
+    "internet_archive_id": "deathkiss0000made",
     "openlibrary_id": null,
     "oclc_number": null,
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-23T15:18:07.395357"
+  "last_updated": "2025-08-23T16:06:31.3259"
 }

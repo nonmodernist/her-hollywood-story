@@ -1517,6 +1517,33 @@
     },
     {
       "work": {
+        "id": 953,
+        "slug": "on-your-back",
+        "title": "On Your Back",
+        "html_title": "<span class=\"work-title short-story\">\"On Your Back\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1930
+      },
+      "author": {
+        "id": 487,
+        "slug": "rita-weiman",
+        "name": "Rita Weiman"
+      },
+      "film": {
+        "id": 1062,
+        "slug": "on-your-back-1930",
+        "title": "On Your Back",
+        "html_title": "<span class=\"film-title\">On Your Back</span>",
+        "year": 1930,
+        "studio": "Fox Film",
+        "directors": "Guthrie McClintic",
+        "genres": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "work": {
         "id": 166,
         "slug": "girls-together",
         "title": "Girls Together",
@@ -2465,7 +2492,7 @@
     }
   ],
   "stats": {
-    "total": 91,
+    "total": 92,
     "yearRange": {
       "earliest": 1914,
       "latest": 1962
@@ -2473,7 +2500,7 @@
     "byDecade": {
       "1910s": 19,
       "1920s": 35,
-      "1930s": 27,
+      "1930s": 28,
       "1940s": 6,
       "1950s": 2,
       "1960s": 2
@@ -2481,7 +2508,7 @@
     "byGenre": [
       {
         "genre": "Drama",
-        "count": 36
+        "count": 37
       },
       {
         "genre": "Melodrama",
@@ -2535,7 +2562,7 @@
       },
       {
         "type": "short story",
-        "count": 27
+        "count": 28
       },
       {
         "type": "novella",
@@ -2561,7 +2588,7 @@
       },
       {
         "studio": "Fox Film",
-        "count": 7
+        "count": 8
       },
       {
         "studio": "Paramount",
@@ -2636,7 +2663,7 @@
     ]
   },
   "metadata": {
-    "generated": "2025-08-23T15:45:13.843Z",
+    "generated": "2025-08-23T17:50:11.769Z",
     "version": "1.1"
   }
 }

@@ -1875,6 +1875,40 @@
     },
     {
       "work": {
+        "id": 953,
+        "slug": "on-your-back",
+        "title": "On Your Back",
+        "formatted_title": "\"On Your Back\"",
+        "html_title": "<span class=\"work-title short-story\">\"On Your Back\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1930
+      },
+      "author": {
+        "id": 487,
+        "slug": "rita-weiman",
+        "name": "Rita Weiman"
+      },
+      "firstAdaptation": {
+        "id": 1062,
+        "slug": "on-your-back-1930",
+        "title": "On Your Back",
+        "html_title": "<span class=\"film-title\">On Your Back</span>",
+        "year": 1930,
+        "studio": "Fox Film",
+        "directors": "Guthrie McClintic"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1930
+      }
+    },
+    {
+      "work": {
         "id": 947,
         "slug": "stolen-thunder",
         "title": "Stolen Thunder",
@@ -6180,6 +6214,40 @@
         "year": 1929,
         "studio": "Paramount",
         "directors": "Lothar Mendes"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1929
+      }
+    },
+    {
+      "work": {
+        "id": 471,
+        "slug": "the-studio-murder-mystery",
+        "title": "The Studio Murder Mystery",
+        "formatted_title": "The Studio Murder Mystery",
+        "html_title": "<span class=\"work-title\">The Studio Murder Mystery</span>",
+        "work_type": "novel",
+        "publication_year": 1928
+      },
+      "author": {
+        "id": 210,
+        "slug": "carmen-ballen-edington",
+        "name": "Carmen Ballen Edington"
+      },
+      "firstAdaptation": {
+        "id": 541,
+        "slug": "the-studio-murder-mystery-1929",
+        "title": "The Studio Murder Mystery",
+        "html_title": "<span class=\"film-title\">The Studio Murder Mystery</span>",
+        "year": 1929,
+        "studio": "Paramount",
+        "directors": "Frank Tuttle"
       },
       "speed": {
         "delay": 1,
@@ -11433,6 +11501,40 @@
         },
         {
           "work": {
+            "id": 953,
+            "slug": "on-your-back",
+            "title": "On Your Back",
+            "formatted_title": "\"On Your Back\"",
+            "html_title": "<span class=\"work-title short-story\">\"On Your Back\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1930
+          },
+          "author": {
+            "id": 487,
+            "slug": "rita-weiman",
+            "name": "Rita Weiman"
+          },
+          "firstAdaptation": {
+            "id": 1062,
+            "slug": "on-your-back-1930",
+            "title": "On Your Back",
+            "html_title": "<span class=\"film-title\">On Your Back</span>",
+            "year": 1930,
+            "studio": "Fox Film",
+            "directors": "Guthrie McClintic"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1930
+          }
+        },
+        {
+          "work": {
             "id": 947,
             "slug": "stolen-thunder",
             "title": "Stolen Thunder",
@@ -15740,6 +15842,40 @@
             "year": 1929,
             "studio": "Paramount",
             "directors": "Lothar Mendes"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1929
+          }
+        },
+        {
+          "work": {
+            "id": 471,
+            "slug": "the-studio-murder-mystery",
+            "title": "The Studio Murder Mystery",
+            "formatted_title": "The Studio Murder Mystery",
+            "html_title": "<span class=\"work-title\">The Studio Murder Mystery</span>",
+            "work_type": "novel",
+            "publication_year": 1928
+          },
+          "author": {
+            "id": 210,
+            "slug": "carmen-ballen-edington",
+            "name": "Carmen Ballen Edington"
+          },
+          "firstAdaptation": {
+            "id": 541,
+            "slug": "the-studio-murder-mystery-1929",
+            "title": "The Studio Murder Mystery",
+            "html_title": "<span class=\"film-title\">The Studio Murder Mystery</span>",
+            "year": 1929,
+            "studio": "Paramount",
+            "directors": "Frank Tuttle"
           },
           "speed": {
             "delay": 1,
@@ -24052,6 +24188,40 @@
             "totalAdaptations": 1,
             "lastAdaptation": 1929
           }
+        },
+        {
+          "work": {
+            "id": 471,
+            "slug": "the-studio-murder-mystery",
+            "title": "The Studio Murder Mystery",
+            "formatted_title": "The Studio Murder Mystery",
+            "html_title": "<span class=\"work-title\">The Studio Murder Mystery</span>",
+            "work_type": "novel",
+            "publication_year": 1928
+          },
+          "author": {
+            "id": 210,
+            "slug": "carmen-ballen-edington",
+            "name": "Carmen Ballen Edington"
+          },
+          "firstAdaptation": {
+            "id": 541,
+            "slug": "the-studio-murder-mystery-1929",
+            "title": "The Studio Murder Mystery",
+            "html_title": "<span class=\"film-title\">The Studio Murder Mystery</span>",
+            "year": 1929,
+            "studio": "Paramount",
+            "directors": "Frank Tuttle"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1929
+          }
         }
       ],
       "1930": [
@@ -24078,6 +24248,40 @@
             "year": 1930,
             "studio": "First National",
             "directors": "Hobart Henley"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1930
+          }
+        },
+        {
+          "work": {
+            "id": 953,
+            "slug": "on-your-back",
+            "title": "On Your Back",
+            "formatted_title": "\"On Your Back\"",
+            "html_title": "<span class=\"work-title short-story\">\"On Your Back\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1930
+          },
+          "author": {
+            "id": 487,
+            "slug": "rita-weiman",
+            "name": "Rita Weiman"
+          },
+          "firstAdaptation": {
+            "id": 1062,
+            "slug": "on-your-back-1930",
+            "title": "On Your Back",
+            "html_title": "<span class=\"film-title\">On Your Back</span>",
+            "year": 1930,
+            "studio": "Fox Film",
+            "directors": "Guthrie McClintic"
           },
           "speed": {
             "delay": 0,
@@ -28763,15 +28967,15 @@
         "count": 20
       },
       {
-        "studio": "Universal",
-        "count": 19
-      },
-      {
         "studio": "Fox Film",
-        "count": 19
+        "count": 20
       },
       {
         "studio": "Paramount",
+        "count": 20
+      },
+      {
+        "studio": "Universal",
         "count": 19
       },
       {
@@ -28793,13 +28997,13 @@
     ]
   },
   "stats": {
-    "total": 281,
-    "sameYearCount": 91,
-    "oneYearCount": 190,
+    "total": 283,
+    "sameYearCount": 92,
+    "oneYearCount": 191,
     "peakDecade": "1920"
   },
   "metadata": {
-    "generated": "2025-08-23T15:45:13.837Z",
+    "generated": "2025-08-23T17:50:11.763Z",
     "version": "2.0"
   }
 }

@@ -183,7 +183,7 @@
       ],
       "has_media": true,
       "work_title": "On Your Back",
-      "work_html_title": "<span class=\"work-title\">On Your Back</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"On Your Back\"</span>",
       "work_id": 953
     },
     {
@@ -242,17 +242,6 @@
       "title": "Madame Peacock",
       "formatted_title": "Madame Peacock",
       "html_title": "<span class=\"work-title\">Madame Peacock</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 953,
-      "slug": "on-your-back",
-      "title": "On Your Back",
-      "formatted_title": "On Your Back",
-      "html_title": "<span class=\"work-title\">On Your Back</span>",
       "work_type": "novel",
       "publication_year": null,
       "adaptation_count": 1,
@@ -344,6 +333,17 @@
       "work_type": "short_story",
       "publication_year": 1919,
       "adaptation_count": 2,
+      "is_remake_champion": false
+    },
+    {
+      "id": 953,
+      "slug": "on-your-back",
+      "title": "On Your Back",
+      "formatted_title": "\"On Your Back\"",
+      "html_title": "<span class=\"work-title short-story\">\"On Your Back\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1930,
+      "adaptation_count": 1,
       "is_remake_champion": false
     }
   ],

@@ -16,9 +16,9 @@
   "directors": "Edwin L. Marin",
   "writers": "Gordon Kahn|Barry Barringer",
   "cast_members": "David Manners|Adrienne Ames|Bela Lugosi|John Wray|Vince Barnett|Alexander Carr|Edward Van Sloan|Harold Minjir|Barbara Bedford|Al Hill",
-  "color_info": "black-and-white",
-  "availability": "public_domain|streaming",
-  "archive_location": "unknown; Tubi (free with ads), Amazon Prime (subscription), Kanopy (library subscription)",
+  "color_info": "black-and-white with hand-painted color sequences",
+  "availability": "home_video|streaming",
+  "archive_location": "Library of Congress; Kanopy (library subscription)",
   "adaptation_notes": null,
   "afi_catalog_id": 3852,
   "source_work": {
@@ -28,20 +28,20 @@
     "formatted_title": "The Death Kiss",
     "html_title": "<span class=\"work-title\">The Death Kiss</span>",
     "work_type": "novel",
-    "publication_year": null,
+    "publication_year": 1932,
     "plot_summary": null,
     "plot_summary_html": "",
     "literary_significance": null,
     "literary_significance_html": "",
     "adaptation_count": 1,
     "photoplay_edition_count": 0,
-    "year_to_adaptation": 1933
+    "year_to_adaptation": 1
   },
   "author": {
     "id": 455,
     "slug": "madelon-st-dennis",
     "name": "Madelon St. Dennis",
-    "birth_year": null,
+    "birth_year": 1884,
     "death_year": null,
     "nationality": "American",
     "film_count": 1
@@ -117,5 +117,5 @@
   ],
   "has_media": true,
   "media_count": 5,
-  "last_updated": "2025-08-20T16:15:05.957923"
+  "last_updated": "2025-08-23T15:40:59.900616"
 }

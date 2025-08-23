@@ -7111,6 +7111,40 @@
     },
     {
       "work": {
+        "id": 902,
+        "slug": "the-death-kiss",
+        "title": "The Death Kiss",
+        "formatted_title": "The Death Kiss",
+        "html_title": "<span class=\"work-title\">The Death Kiss</span>",
+        "work_type": "novel",
+        "publication_year": 1932
+      },
+      "author": {
+        "id": 455,
+        "slug": "madelon-st-dennis",
+        "name": "Madelon St. Dennis"
+      },
+      "firstAdaptation": {
+        "id": 1003,
+        "slug": "the-death-kiss-1933",
+        "title": "The Death Kiss",
+        "html_title": "<span class=\"film-title\">The Death Kiss</span>",
+        "year": 1933,
+        "studio": "K.B.S. Productions",
+        "directors": "Edwin L. Marin"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1933
+      }
+    },
+    {
+      "work": {
         "id": 914,
         "slug": "the-failure",
         "title": "The Failure",
@@ -16637,6 +16671,40 @@
         },
         {
           "work": {
+            "id": 902,
+            "slug": "the-death-kiss",
+            "title": "The Death Kiss",
+            "formatted_title": "The Death Kiss",
+            "html_title": "<span class=\"work-title\">The Death Kiss</span>",
+            "work_type": "novel",
+            "publication_year": 1932
+          },
+          "author": {
+            "id": 455,
+            "slug": "madelon-st-dennis",
+            "name": "Madelon St. Dennis"
+          },
+          "firstAdaptation": {
+            "id": 1003,
+            "slug": "the-death-kiss-1933",
+            "title": "The Death Kiss",
+            "html_title": "<span class=\"film-title\">The Death Kiss</span>",
+            "year": 1933,
+            "studio": "K.B.S. Productions",
+            "directors": "Edwin L. Marin"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1933
+          }
+        },
+        {
+          "work": {
             "id": 914,
             "slug": "the-failure",
             "title": "The Failure",
@@ -25825,6 +25893,40 @@
         },
         {
           "work": {
+            "id": 902,
+            "slug": "the-death-kiss",
+            "title": "The Death Kiss",
+            "formatted_title": "The Death Kiss",
+            "html_title": "<span class=\"work-title\">The Death Kiss</span>",
+            "work_type": "novel",
+            "publication_year": 1932
+          },
+          "author": {
+            "id": 455,
+            "slug": "madelon-st-dennis",
+            "name": "Madelon St. Dennis"
+          },
+          "firstAdaptation": {
+            "id": 1003,
+            "slug": "the-death-kiss-1933",
+            "title": "The Death Kiss",
+            "html_title": "<span class=\"film-title\">The Death Kiss</span>",
+            "year": 1933,
+            "studio": "K.B.S. Productions",
+            "directors": "Edwin L. Marin"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1933
+          }
+        },
+        {
+          "work": {
             "id": 914,
             "slug": "the-failure",
             "title": "The Failure",
@@ -28691,13 +28793,13 @@
     ]
   },
   "stats": {
-    "total": 280,
+    "total": 281,
     "sameYearCount": 91,
-    "oneYearCount": 189,
+    "oneYearCount": 190,
     "peakDecade": "1920"
   },
   "metadata": {
-    "generated": "2025-08-23T13:57:13.694Z",
+    "generated": "2025-08-23T15:45:13.837Z",
     "version": "2.0"
   }
 }

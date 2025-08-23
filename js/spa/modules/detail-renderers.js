@@ -161,7 +161,7 @@ export function renderAvailabilityContent(film) {
                 }
             });
             
-            availabilityHTML += `<p class="detail-text"><strong>Streaming:</strong> ${streamingLinks.join(' · ')}</p>`;
+            availabilityHTML += `<p class="detail-text"><strong>Viewing Options:</strong> ${streamingLinks.join(' · ')}</p>`;
         }
     }
     

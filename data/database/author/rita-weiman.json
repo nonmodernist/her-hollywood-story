@@ -87,7 +87,7 @@
       ],
       "has_media": true,
       "work_title": "Madame Peacock",
-      "work_html_title": "<span class=\"work-title\">Madame Peacock</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Madame Peacock\"</span>",
       "work_id": 952
     },
     {
@@ -103,7 +103,7 @@
       ],
       "has_media": true,
       "work_title": "The Stage Door",
-      "work_html_title": "<span class=\"work-title\">The Stage Door</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Stage Door\"</span>",
       "work_id": 955
     },
     {
@@ -151,7 +151,7 @@
       ],
       "has_media": true,
       "work_title": "To Whom it May Concern",
-      "work_html_title": "<span class=\"work-title\">To Whom it May Concern</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"To Whom it May Concern\"</span>",
       "work_id": 956
     },
     {
@@ -198,8 +198,8 @@
         "Mystery"
       ],
       "has_media": true,
-      "work_title": "The President's Mystery",
-      "work_html_title": "<span class=\"work-title\">The President's Mystery</span>",
+      "work_title": "The President's Mystery Story",
+      "work_html_title": "<span class=\"work-title\">The President's Mystery Story</span>",
       "work_id": 959
     },
     {
@@ -237,72 +237,6 @@
   ],
   "adapted_works": [
     {
-      "id": 952,
-      "slug": "madame-peacock",
-      "title": "Madame Peacock",
-      "formatted_title": "Madame Peacock",
-      "html_title": "<span class=\"work-title\">Madame Peacock</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 954,
-      "slug": "one-mans-secret",
-      "title": "One Man's Secret",
-      "formatted_title": "One Man's Secret",
-      "html_title": "<span class=\"work-title\">One Man's Secret</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 959,
-      "slug": "the-presidents-mystery",
-      "title": "The President's Mystery",
-      "formatted_title": "The President's Mystery",
-      "html_title": "<span class=\"work-title\">The President's Mystery</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 955,
-      "slug": "the-stage-door",
-      "title": "The Stage Door",
-      "formatted_title": "The Stage Door",
-      "html_title": "<span class=\"work-title\">The Stage Door</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 958,
-      "slug": "the-witness-chair",
-      "title": "The Witness Chair",
-      "formatted_title": "The Witness Chair",
-      "html_title": "<span class=\"work-title\">The Witness Chair</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 956,
-      "slug": "to-whom-it-may-concern",
-      "title": "To Whom it May Concern",
-      "formatted_title": "To Whom it May Concern",
-      "html_title": "<span class=\"work-title\">To Whom it May Concern</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 957,
       "slug": "upstage",
       "title": "Upstage",
@@ -336,6 +270,39 @@
       "is_remake_champion": false
     },
     {
+      "id": 952,
+      "slug": "madame-peacock",
+      "title": "Madame Peacock",
+      "formatted_title": "\"Madame Peacock\"",
+      "html_title": "<span class=\"work-title short-story\">\"Madame Peacock\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1919,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 955,
+      "slug": "the-stage-door",
+      "title": "The Stage Door",
+      "formatted_title": "\"The Stage Door\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Stage Door\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1920,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 956,
+      "slug": "to-whom-it-may-concern",
+      "title": "To Whom it May Concern",
+      "formatted_title": "\"To Whom it May Concern\"",
+      "html_title": "<span class=\"work-title short-story\">\"To Whom it May Concern\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1922,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 953,
       "slug": "on-your-back",
       "title": "On Your Back",
@@ -345,14 +312,47 @@
       "publication_year": 1930,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 959,
+      "slug": "the-presidents-mystery-story",
+      "title": "The President's Mystery Story",
+      "formatted_title": "The President's Mystery Story",
+      "html_title": "<span class=\"work-title\">The President's Mystery Story</span>",
+      "work_type": "novel",
+      "publication_year": 1935,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 958,
+      "slug": "the-witness-chair",
+      "title": "The Witness Chair",
+      "formatted_title": "The Witness Chair",
+      "html_title": "<span class=\"work-title\">The Witness Chair</span>",
+      "work_type": "novella",
+      "publication_year": 1935,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 954,
+      "slug": "one-mans-secret",
+      "title": "One Man's Secret",
+      "formatted_title": "One Man's Secret",
+      "html_title": "<span class=\"work-title\">One Man's Secret</span>",
+      "work_type": "novella",
+      "publication_year": 1943,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 952,
-    "slug": "madame-peacock",
-    "title": "Madame Peacock",
-    "formatted_title": "Madame Peacock",
-    "html_title": "<span class=\"work-title\">Madame Peacock</span>",
+    "id": 957,
+    "slug": "upstage",
+    "title": "Upstage",
+    "formatted_title": "Upstage",
+    "html_title": "<span class=\"work-title\">Upstage</span>",
     "work_type": "novel",
     "publication_year": null,
     "adaptation_count": 1,

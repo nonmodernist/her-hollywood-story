@@ -27,8 +27,6 @@
     "average_gap_between_adaptations": 6
   },
   "patterns": {
-    "is_speed_demon": false,
-    "speed_demon_delay": 2,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -79,14 +77,20 @@
     "serialized": false,
     "serial_parts": null
   },
-  "external_urls": [],
+  "external_urls": [
+    {
+      "source": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/60950",
+      "priority": 1
+    }
+  ],
   "external_ids": {
-    "gutenberg_id": null,
+    "gutenberg_id": 60950,
     "internet_archive_id": null,
     "openlibrary_id": null,
     "oclc_number": null,
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-23T18:00:44.363662"
 }

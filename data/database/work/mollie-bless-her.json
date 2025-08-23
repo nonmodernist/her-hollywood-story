@@ -27,8 +27,6 @@
     "average_gap_between_adaptations": null
   },
   "patterns": {
-    "is_speed_demon": null,
-    "speed_demon_delay": null,
     "is_remake_champion": false,
     "remake_champion_rank": null
   },
@@ -45,7 +43,7 @@
         "Comedy"
       ],
       "has_media": true,
-      "years_after_publication": 1945
+      "years_after_publication": null
     }
   ],
   "adaptation_gaps": [],

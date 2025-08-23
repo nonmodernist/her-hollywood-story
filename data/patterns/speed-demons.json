@@ -4323,6 +4323,40 @@
     },
     {
       "work": {
+        "id": 952,
+        "slug": "madame-peacock",
+        "title": "Madame Peacock",
+        "formatted_title": "\"Madame Peacock\"",
+        "html_title": "<span class=\"work-title short-story\">\"Madame Peacock\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1919
+      },
+      "author": {
+        "id": 487,
+        "slug": "rita-weiman",
+        "name": "Rita Weiman"
+      },
+      "firstAdaptation": {
+        "id": 1061,
+        "slug": "madame-peacock-1920",
+        "title": "Madame Peacock",
+        "html_title": "<span class=\"film-title\">Madame Peacock</span>",
+        "year": 1920,
+        "studio": "The Nazimova Productions",
+        "directors": "Ray C. Smallwood"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1920
+      }
+    },
+    {
+      "work": {
         "id": 63,
         "slug": "miss-antique",
         "title": "Miss Antique",
@@ -4867,6 +4901,40 @@
     },
     {
       "work": {
+        "id": 955,
+        "slug": "the-stage-door",
+        "title": "The Stage Door",
+        "formatted_title": "\"The Stage Door\"",
+        "html_title": "<span class=\"work-title short-story\">\"The Stage Door\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1920
+      },
+      "author": {
+        "id": 487,
+        "slug": "rita-weiman",
+        "name": "Rita Weiman"
+      },
+      "firstAdaptation": {
+        "id": 1064,
+        "slug": "after-the-show-1921",
+        "title": "After the Show",
+        "html_title": "<span class=\"film-title\">After the Show</span>",
+        "year": 1921,
+        "studio": "Famous Players-Lasky",
+        "directors": "William de Mille"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1921
+      }
+    },
+    {
+      "work": {
         "id": 85,
         "slug": "manslaughter",
         "title": "Manslaughter",
@@ -5024,6 +5092,40 @@
         "year": 1923,
         "studio": "Universal",
         "directors": "Jack Dillon"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1923
+      }
+    },
+    {
+      "work": {
+        "id": 956,
+        "slug": "to-whom-it-may-concern",
+        "title": "To Whom it May Concern",
+        "formatted_title": "\"To Whom it May Concern\"",
+        "html_title": "<span class=\"work-title short-story\">\"To Whom it May Concern\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1922
+      },
+      "author": {
+        "id": 487,
+        "slug": "rita-weiman",
+        "name": "Rita Weiman"
+      },
+      "firstAdaptation": {
+        "id": 1065,
+        "slug": "the-social-code-1923",
+        "title": "The Social Code",
+        "html_title": "<span class=\"film-title\">The Social Code</span>",
+        "year": 1923,
+        "studio": "Metro Pictures",
+        "directors": "Oscar Apfel"
       },
       "speed": {
         "delay": 1,
@@ -7846,6 +7948,74 @@
         "year": 1936,
         "studio": "Paramount",
         "directors": "William A. Seiter"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1936
+      }
+    },
+    {
+      "work": {
+        "id": 959,
+        "slug": "the-presidents-mystery-story",
+        "title": "The President's Mystery Story",
+        "formatted_title": "The President's Mystery Story",
+        "html_title": "<span class=\"work-title\">The President's Mystery Story</span>",
+        "work_type": "novel",
+        "publication_year": 1935
+      },
+      "author": {
+        "id": 487,
+        "slug": "rita-weiman",
+        "name": "Rita Weiman"
+      },
+      "firstAdaptation": {
+        "id": 1068,
+        "slug": "the-presidents-mystery-1936",
+        "title": "The President's Mystery",
+        "html_title": "<span class=\"film-title\">The President's Mystery</span>",
+        "year": 1936,
+        "studio": "Republic",
+        "directors": "Phil Rosen"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1936
+      }
+    },
+    {
+      "work": {
+        "id": 958,
+        "slug": "the-witness-chair",
+        "title": "The Witness Chair",
+        "formatted_title": "The Witness Chair",
+        "html_title": "<span class=\"work-title\">The Witness Chair</span>",
+        "work_type": "novella",
+        "publication_year": 1935
+      },
+      "author": {
+        "id": 487,
+        "slug": "rita-weiman",
+        "name": "Rita Weiman"
+      },
+      "firstAdaptation": {
+        "id": 1067,
+        "slug": "the-witness-chair-1936",
+        "title": "The Witness Chair",
+        "html_title": "<span class=\"film-title\">The Witness Chair</span>",
+        "year": 1936,
+        "studio": "RKO",
+        "directors": "George Nicholls Jr."
       },
       "speed": {
         "delay": 1,
@@ -13951,6 +14121,40 @@
         },
         {
           "work": {
+            "id": 952,
+            "slug": "madame-peacock",
+            "title": "Madame Peacock",
+            "formatted_title": "\"Madame Peacock\"",
+            "html_title": "<span class=\"work-title short-story\">\"Madame Peacock\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1919
+          },
+          "author": {
+            "id": 487,
+            "slug": "rita-weiman",
+            "name": "Rita Weiman"
+          },
+          "firstAdaptation": {
+            "id": 1061,
+            "slug": "madame-peacock-1920",
+            "title": "Madame Peacock",
+            "html_title": "<span class=\"film-title\">Madame Peacock</span>",
+            "year": 1920,
+            "studio": "The Nazimova Productions",
+            "directors": "Ray C. Smallwood"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1920
+          }
+        },
+        {
+          "work": {
             "id": 63,
             "slug": "miss-antique",
             "title": "Miss Antique",
@@ -14495,6 +14699,40 @@
         },
         {
           "work": {
+            "id": 955,
+            "slug": "the-stage-door",
+            "title": "The Stage Door",
+            "formatted_title": "\"The Stage Door\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Stage Door\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1920
+          },
+          "author": {
+            "id": 487,
+            "slug": "rita-weiman",
+            "name": "Rita Weiman"
+          },
+          "firstAdaptation": {
+            "id": 1064,
+            "slug": "after-the-show-1921",
+            "title": "After the Show",
+            "html_title": "<span class=\"film-title\">After the Show</span>",
+            "year": 1921,
+            "studio": "Famous Players-Lasky",
+            "directors": "William de Mille"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1921
+          }
+        },
+        {
+          "work": {
             "id": 85,
             "slug": "manslaughter",
             "title": "Manslaughter",
@@ -14652,6 +14890,40 @@
             "year": 1923,
             "studio": "Universal",
             "directors": "Jack Dillon"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1923
+          }
+        },
+        {
+          "work": {
+            "id": 956,
+            "slug": "to-whom-it-may-concern",
+            "title": "To Whom it May Concern",
+            "formatted_title": "\"To Whom it May Concern\"",
+            "html_title": "<span class=\"work-title short-story\">\"To Whom it May Concern\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1922
+          },
+          "author": {
+            "id": 487,
+            "slug": "rita-weiman",
+            "name": "Rita Weiman"
+          },
+          "firstAdaptation": {
+            "id": 1065,
+            "slug": "the-social-code-1923",
+            "title": "The Social Code",
+            "html_title": "<span class=\"film-title\">The Social Code</span>",
+            "year": 1923,
+            "studio": "Metro Pictures",
+            "directors": "Oscar Apfel"
           },
           "speed": {
             "delay": 1,
@@ -17474,6 +17746,74 @@
             "year": 1936,
             "studio": "Paramount",
             "directors": "William A. Seiter"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1936
+          }
+        },
+        {
+          "work": {
+            "id": 959,
+            "slug": "the-presidents-mystery-story",
+            "title": "The President's Mystery Story",
+            "formatted_title": "The President's Mystery Story",
+            "html_title": "<span class=\"work-title\">The President's Mystery Story</span>",
+            "work_type": "novel",
+            "publication_year": 1935
+          },
+          "author": {
+            "id": 487,
+            "slug": "rita-weiman",
+            "name": "Rita Weiman"
+          },
+          "firstAdaptation": {
+            "id": 1068,
+            "slug": "the-presidents-mystery-1936",
+            "title": "The President's Mystery",
+            "html_title": "<span class=\"film-title\">The President's Mystery</span>",
+            "year": 1936,
+            "studio": "Republic",
+            "directors": "Phil Rosen"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1936
+          }
+        },
+        {
+          "work": {
+            "id": 958,
+            "slug": "the-witness-chair",
+            "title": "The Witness Chair",
+            "formatted_title": "The Witness Chair",
+            "html_title": "<span class=\"work-title\">The Witness Chair</span>",
+            "work_type": "novella",
+            "publication_year": 1935
+          },
+          "author": {
+            "id": 487,
+            "slug": "rita-weiman",
+            "name": "Rita Weiman"
+          },
+          "firstAdaptation": {
+            "id": 1067,
+            "slug": "the-witness-chair-1936",
+            "title": "The Witness Chair",
+            "html_title": "<span class=\"film-title\">The Witness Chair</span>",
+            "year": 1936,
+            "studio": "RKO",
+            "directors": "George Nicholls Jr."
           },
           "speed": {
             "delay": 1,
@@ -22287,6 +22627,40 @@
         },
         {
           "work": {
+            "id": 952,
+            "slug": "madame-peacock",
+            "title": "Madame Peacock",
+            "formatted_title": "\"Madame Peacock\"",
+            "html_title": "<span class=\"work-title short-story\">\"Madame Peacock\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1919
+          },
+          "author": {
+            "id": 487,
+            "slug": "rita-weiman",
+            "name": "Rita Weiman"
+          },
+          "firstAdaptation": {
+            "id": 1061,
+            "slug": "madame-peacock-1920",
+            "title": "Madame Peacock",
+            "html_title": "<span class=\"film-title\">Madame Peacock</span>",
+            "year": 1920,
+            "studio": "The Nazimova Productions",
+            "directors": "Ray C. Smallwood"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1920
+          }
+        },
+        {
+          "work": {
             "id": 63,
             "slug": "miss-antique",
             "title": "Miss Antique",
@@ -22831,6 +23205,40 @@
         },
         {
           "work": {
+            "id": 955,
+            "slug": "the-stage-door",
+            "title": "The Stage Door",
+            "formatted_title": "\"The Stage Door\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Stage Door\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1920
+          },
+          "author": {
+            "id": 487,
+            "slug": "rita-weiman",
+            "name": "Rita Weiman"
+          },
+          "firstAdaptation": {
+            "id": 1064,
+            "slug": "after-the-show-1921",
+            "title": "After the Show",
+            "html_title": "<span class=\"film-title\">After the Show</span>",
+            "year": 1921,
+            "studio": "Famous Players-Lasky",
+            "directors": "William de Mille"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1921
+          }
+        },
+        {
+          "work": {
             "id": 85,
             "slug": "manslaughter",
             "title": "Manslaughter",
@@ -22988,6 +23396,40 @@
             "year": 1923,
             "studio": "Universal",
             "directors": "Jack Dillon"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1923
+          }
+        },
+        {
+          "work": {
+            "id": 956,
+            "slug": "to-whom-it-may-concern",
+            "title": "To Whom it May Concern",
+            "formatted_title": "\"To Whom it May Concern\"",
+            "html_title": "<span class=\"work-title short-story\">\"To Whom it May Concern\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1922
+          },
+          "author": {
+            "id": 487,
+            "slug": "rita-weiman",
+            "name": "Rita Weiman"
+          },
+          "firstAdaptation": {
+            "id": 1065,
+            "slug": "the-social-code-1923",
+            "title": "The Social Code",
+            "html_title": "<span class=\"film-title\">The Social Code</span>",
+            "year": 1923,
+            "studio": "Metro Pictures",
+            "directors": "Oscar Apfel"
           },
           "speed": {
             "delay": 1,
@@ -26777,6 +27219,74 @@
         },
         {
           "work": {
+            "id": 959,
+            "slug": "the-presidents-mystery-story",
+            "title": "The President's Mystery Story",
+            "formatted_title": "The President's Mystery Story",
+            "html_title": "<span class=\"work-title\">The President's Mystery Story</span>",
+            "work_type": "novel",
+            "publication_year": 1935
+          },
+          "author": {
+            "id": 487,
+            "slug": "rita-weiman",
+            "name": "Rita Weiman"
+          },
+          "firstAdaptation": {
+            "id": 1068,
+            "slug": "the-presidents-mystery-1936",
+            "title": "The President's Mystery",
+            "html_title": "<span class=\"film-title\">The President's Mystery</span>",
+            "year": 1936,
+            "studio": "Republic",
+            "directors": "Phil Rosen"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1936
+          }
+        },
+        {
+          "work": {
+            "id": 958,
+            "slug": "the-witness-chair",
+            "title": "The Witness Chair",
+            "formatted_title": "The Witness Chair",
+            "html_title": "<span class=\"work-title\">The Witness Chair</span>",
+            "work_type": "novella",
+            "publication_year": 1935
+          },
+          "author": {
+            "id": 487,
+            "slug": "rita-weiman",
+            "name": "Rita Weiman"
+          },
+          "firstAdaptation": {
+            "id": 1067,
+            "slug": "the-witness-chair-1936",
+            "title": "The Witness Chair",
+            "html_title": "<span class=\"film-title\">The Witness Chair</span>",
+            "year": 1936,
+            "studio": "RKO",
+            "directors": "George Nicholls Jr."
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1936
+          }
+        },
+        {
+          "work": {
             "id": 327,
             "slug": "wake-up-and-live",
             "title": "Wake Up and Live",
@@ -28923,6 +29433,12 @@
         "count": 7
       },
       {
+        "id": 487,
+        "slug": "rita-weiman",
+        "name": "Rita Weiman",
+        "count": 7
+      },
+      {
         "id": 32,
         "slug": "katharine-newlin-burt",
         "name": "Katharine Newlin Burt",
@@ -28945,12 +29461,6 @@
         "slug": "katherine-brush",
         "name": "Katherine Brush",
         "count": 5
-      },
-      {
-        "id": 7,
-        "slug": "alice-muriel-williamson",
-        "name": "Alice Muriel Williamson",
-        "count": 4
       }
     ],
     "topStudios": [
@@ -28964,7 +29474,7 @@
       },
       {
         "studio": "Famous Players-Lasky",
-        "count": 20
+        "count": 21
       },
       {
         "studio": "Fox Film",
@@ -28988,7 +29498,7 @@
       },
       {
         "studio": "RKO",
-        "count": 13
+        "count": 14
       },
       {
         "studio": "Columbia",
@@ -28997,13 +29507,13 @@
     ]
   },
   "stats": {
-    "total": 283,
+    "total": 288,
     "sameYearCount": 92,
-    "oneYearCount": 191,
+    "oneYearCount": 196,
     "peakDecade": "1920"
   },
   "metadata": {
-    "generated": "2025-08-23T17:50:11.763Z",
+    "generated": "2025-08-23T18:14:38.353Z",
     "version": "2.0"
   }
 }

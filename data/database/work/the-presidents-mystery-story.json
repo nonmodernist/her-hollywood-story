@@ -1,0 +1,70 @@
+{
+  "id": 959,
+  "slug": "the-presidents-mystery-story",
+  "title": "The President's Mystery Story",
+  "formatted_title": "The President's Mystery Story",
+  "html_title": "<span class=\"work-title\">The President's Mystery Story</span>",
+  "work_type": "novel",
+  "publication_year": 1935,
+  "plot_summary": null,
+  "plot_summary_html": "",
+  "literary_significance": null,
+  "literary_significance_html": "",
+  "attribution_notes": "co-writers Anthony Abbot, Samuel Hopkins Adams, John Erskine, Rupert Hughes, and S. S. Van Dine",
+  "author": {
+    "id": 487,
+    "slug": "rita-weiman",
+    "name": "Rita Weiman",
+    "birth_year": 1885,
+    "death_year": 1954,
+    "film_count": 11
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "photoplay_edition_count": 0,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1068,
+      "slug": "the-presidents-mystery-1936",
+      "title": "The President's Mystery",
+      "html_title": "<span class=\"film-title\">The President's Mystery</span>",
+      "year": 1936,
+      "studio": "Republic",
+      "directors": "Phil Rosen",
+      "genres": [
+        "Mystery"
+      ],
+      "has_media": true,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_editions": [],
+  "magazine_publication": {
+    "magazine_title": "Liberty",
+    "magazine_pub_date": "1935-12-07",
+    "magazine_issue_info": "v12 #49",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1935LBTDEC_7%27",
+    "serialized": true,
+    "serial_parts": 6
+  },
+  "external_urls": [],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": null,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
+  "last_updated": "2025-08-23T18:00:02.748159"
+}

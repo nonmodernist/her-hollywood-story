@@ -1,0 +1,64 @@
+{
+  "id": 400,
+  "slug": "the-enemy-ii",
+  "title": "The Enemy (II)",
+  "formatted_title": "The Enemy (II)",
+  "html_title": "<span class=\"work-title\">The Enemy (II)</span>",
+  "work_type": "novel",
+  "publication_year": 1915,
+  "plot_summary": null,
+  "plot_summary_html": "",
+  "literary_significance": null,
+  "literary_significance_html": "",
+  "attribution_notes": null,
+  "author": {
+    "id": 168,
+    "slug": "lillian-chester",
+    "name": "Lillian Chester",
+    "birth_year": 1887,
+    "death_year": 1961,
+    "film_count": 1
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "photoplay_edition_count": 0,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_speed_demon": true,
+    "speed_demon_delay": 1,
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 468,
+      "slug": "the-enemy-1916",
+      "title": "The Enemy",
+      "html_title": "<span class=\"film-title\">The Enemy</span>",
+      "year": 1916,
+      "studio": "Vitagraph",
+      "directors": "Paul Scardon",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": false,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_editions": [],
+  "magazine_publication": null,
+  "external_urls": [],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": null,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
+  "last_updated": "2025-08-23T00:02:46.14846"
+}

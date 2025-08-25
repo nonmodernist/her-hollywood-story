@@ -3779,6 +3779,40 @@
     },
     {
       "work": {
+        "id": 795,
+        "slug": "her-kingdom-of-dreams",
+        "title": "Her Kingdom of Dreams",
+        "formatted_title": "Her Kingdom of Dreams",
+        "html_title": "<span class=\"work-title\">Her Kingdom of Dreams</span>",
+        "work_type": "novel",
+        "publication_year": 1918
+      },
+      "author": {
+        "id": 403,
+        "slug": "agnes-louise-provost",
+        "name": "Agnes Louise Provost"
+      },
+      "firstAdaptation": {
+        "id": 887,
+        "slug": "her-kingdom-of-dreams-1919",
+        "title": "Her Kingdom of Dreams",
+        "html_title": "<span class=\"film-title\">Her Kingdom of Dreams</span>",
+        "year": 1919,
+        "studio": "Anita Stewart Productions",
+        "directors": "Marshall Neilan"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1919
+      }
+    },
+    {
+      "work": {
         "id": 749,
         "slug": "josselyns-wife",
         "title": "Josselyn's Wife",
@@ -5819,6 +5853,40 @@
     },
     {
       "work": {
+        "id": 721,
+        "slug": "into-her-kingdom",
+        "title": "Into Her Kingdom",
+        "formatted_title": "\"Into Her Kingdom\"",
+        "html_title": "<span class=\"work-title short-story\">\"Into Her Kingdom\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1925
+      },
+      "author": {
+        "id": 363,
+        "slug": "ruth-comfort-mitchell",
+        "name": "Ruth Comfort Mitchell"
+      },
+      "firstAdaptation": {
+        "id": 815,
+        "slug": "into-her-kingdom-1926",
+        "title": "Into Her Kingdom",
+        "html_title": "<span class=\"film-title\">Into Her Kingdom</span>",
+        "year": 1926,
+        "studio": "Corinne Griffith Productions",
+        "directors": "Svend Gade"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1926
+      }
+    },
+    {
+      "work": {
         "id": 124,
         "slug": "mannequin",
         "title": "Mannequin",
@@ -7558,7 +7626,7 @@
         "title": "Pretty Sadie McKee",
         "formatted_title": "Pretty Sadie McKee",
         "html_title": "<span class=\"work-title\">Pretty Sadie McKee</span>",
-        "work_type": "novella",
+        "work_type": "novel",
         "publication_year": 1933
       },
       "author": {
@@ -13577,6 +13645,40 @@
         },
         {
           "work": {
+            "id": 795,
+            "slug": "her-kingdom-of-dreams",
+            "title": "Her Kingdom of Dreams",
+            "formatted_title": "Her Kingdom of Dreams",
+            "html_title": "<span class=\"work-title\">Her Kingdom of Dreams</span>",
+            "work_type": "novel",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 403,
+            "slug": "agnes-louise-provost",
+            "name": "Agnes Louise Provost"
+          },
+          "firstAdaptation": {
+            "id": 887,
+            "slug": "her-kingdom-of-dreams-1919",
+            "title": "Her Kingdom of Dreams",
+            "html_title": "<span class=\"film-title\">Her Kingdom of Dreams</span>",
+            "year": 1919,
+            "studio": "Anita Stewart Productions",
+            "directors": "Marshall Neilan"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1919
+          }
+        },
+        {
+          "work": {
             "id": 749,
             "slug": "josselyns-wife",
             "title": "Josselyn's Wife",
@@ -15617,6 +15719,40 @@
         },
         {
           "work": {
+            "id": 721,
+            "slug": "into-her-kingdom",
+            "title": "Into Her Kingdom",
+            "formatted_title": "\"Into Her Kingdom\"",
+            "html_title": "<span class=\"work-title short-story\">\"Into Her Kingdom\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1925
+          },
+          "author": {
+            "id": 363,
+            "slug": "ruth-comfort-mitchell",
+            "name": "Ruth Comfort Mitchell"
+          },
+          "firstAdaptation": {
+            "id": 815,
+            "slug": "into-her-kingdom-1926",
+            "title": "Into Her Kingdom",
+            "html_title": "<span class=\"film-title\">Into Her Kingdom</span>",
+            "year": 1926,
+            "studio": "Corinne Griffith Productions",
+            "directors": "Svend Gade"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1926
+          }
+        },
+        {
+          "work": {
             "id": 124,
             "slug": "mannequin",
             "title": "Mannequin",
@@ -17356,7 +17492,7 @@
             "title": "Pretty Sadie McKee",
             "formatted_title": "Pretty Sadie McKee",
             "html_title": "<span class=\"work-title\">Pretty Sadie McKee</span>",
-            "work_type": "novella",
+            "work_type": "novel",
             "publication_year": 1933
           },
           "author": {
@@ -20891,6 +21027,40 @@
         },
         {
           "work": {
+            "id": 795,
+            "slug": "her-kingdom-of-dreams",
+            "title": "Her Kingdom of Dreams",
+            "formatted_title": "Her Kingdom of Dreams",
+            "html_title": "<span class=\"work-title\">Her Kingdom of Dreams</span>",
+            "work_type": "novel",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 403,
+            "slug": "agnes-louise-provost",
+            "name": "Agnes Louise Provost"
+          },
+          "firstAdaptation": {
+            "id": 887,
+            "slug": "her-kingdom-of-dreams-1919",
+            "title": "Her Kingdom of Dreams",
+            "html_title": "<span class=\"film-title\">Her Kingdom of Dreams</span>",
+            "year": 1919,
+            "studio": "Anita Stewart Productions",
+            "directors": "Marshall Neilan"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1919
+          }
+        },
+        {
+          "work": {
             "id": 749,
             "slug": "josselyns-wife",
             "title": "Josselyn's Wife",
@@ -24123,6 +24293,40 @@
         },
         {
           "work": {
+            "id": 721,
+            "slug": "into-her-kingdom",
+            "title": "Into Her Kingdom",
+            "formatted_title": "\"Into Her Kingdom\"",
+            "html_title": "<span class=\"work-title short-story\">\"Into Her Kingdom\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1925
+          },
+          "author": {
+            "id": 363,
+            "slug": "ruth-comfort-mitchell",
+            "name": "Ruth Comfort Mitchell"
+          },
+          "firstAdaptation": {
+            "id": 815,
+            "slug": "into-her-kingdom-1926",
+            "title": "Into Her Kingdom",
+            "html_title": "<span class=\"film-title\">Into Her Kingdom</span>",
+            "year": 1926,
+            "studio": "Corinne Griffith Productions",
+            "directors": "Svend Gade"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1926
+          }
+        },
+        {
+          "work": {
             "id": 124,
             "slug": "mannequin",
             "title": "Mannequin",
@@ -26816,7 +27020,7 @@
             "title": "Pretty Sadie McKee",
             "formatted_title": "Pretty Sadie McKee",
             "html_title": "<span class=\"work-title\">Pretty Sadie McKee</span>",
-            "work_type": "novella",
+            "work_type": "novel",
             "publication_year": 1933
           },
           "author": {
@@ -29507,13 +29711,13 @@
     ]
   },
   "stats": {
-    "total": 288,
+    "total": 290,
     "sameYearCount": 92,
-    "oneYearCount": 196,
+    "oneYearCount": 198,
     "peakDecade": "1920"
   },
   "metadata": {
-    "generated": "2025-08-23T20:33:00.705Z",
+    "generated": "2025-08-25T14:25:42.061Z",
     "version": "2.0"
   }
 }

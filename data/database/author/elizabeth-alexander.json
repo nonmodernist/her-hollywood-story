@@ -2,15 +2,15 @@
   "id": 39,
   "slug": "elizabeth-alexander",
   "name": "Elizabeth Alexander",
-  "birth_year": null,
-  "death_year": null,
+  "birth_year": 1894,
+  "death_year": 1976,
   "nationality": "American",
   "literary_movement": null,
   "biographical_notes": null,
   "biographical_notes_html": "",
   "author_notes": null,
   "wikidata_id": "-",
-  "alternative_names": null,
+  "alternative_names": "['Elizabeth Alexander Heermann', 'Mrs. Norbert Heermann']",
   "occupations": null,
   "key_themes": null,
   "education": null,
@@ -22,7 +22,7 @@
   "has_portrait": "False",
   "signature_work_ids": null,
   "has_pseudonym": "False",
-  "is_pseudonym": "False",
+  "is_pseudonym": "True",
   "stats": {
     "total_films": 4,
     "works_adapted": 4,
@@ -175,5 +175,5 @@
     "adaptation_count": 1,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-25T04:13:30.958387"
 }

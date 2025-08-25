@@ -49,14 +49,20 @@
   "adaptation_gaps": [],
   "photoplay_editions": [],
   "magazine_publication": null,
-  "external_urls": [],
+  "external_urls": [
+    {
+      "source": "Internet Archive",
+      "url": "https://archive.org/details/55230680R.nlm.nih.gov",
+      "priority": 2
+    }
+  ],
   "external_ids": {
     "gutenberg_id": null,
-    "internet_archive_id": null,
+    "internet_archive_id": "55230680R.nlm.nih.gov",
     "openlibrary_id": null,
     "oclc_number": null,
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-25T01:07:46.179206"
 }

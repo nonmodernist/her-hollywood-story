@@ -528,14 +528,14 @@
       "id": 24,
       "name": "Alice Duer Miller",
       "slug": "alice-duer-miller",
-      "filmCount": 22,
+      "filmCount": 21,
       "yearStart": 1918,
       "yearEnd": 1952,
       "yearSpan": 34,
       "filmsByDecade": {
         "1910": 2,
         "1920": 8,
-        "1930": 9,
+        "1930": 8,
         "1940": 2,
         "1950": 1
       },
@@ -687,7 +687,7 @@
           },
           "decade": 1950
         },
-        "peakYear": "1930"
+        "peakYear": "1920"
       }
     },
     {
@@ -866,7 +866,7 @@
   ],
   "patterns": {
     "collectiveStats": {
-      "totalFilms": 136,
+      "totalFilms": 135,
       "averageFilmsPerAuthor": 27,
       "collectiveYearSpan": {
         "start": 1914,
@@ -875,7 +875,7 @@
       "studioConcentration": [
         {
           "studio": "Warner Bros",
-          "count": 17
+          "count": 16
         },
         {
           "studio": "Universal",
@@ -917,7 +917,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-23T20:33:00.704Z",
+    "generated": "2025-08-25T14:25:42.060Z",
     "version": "2.0"
   }
 }

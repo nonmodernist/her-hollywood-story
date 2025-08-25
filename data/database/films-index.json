@@ -1620,7 +1620,7 @@
         "Drama"
       ],
       "studio": "Metro Pictures",
-      "directors": "Edwin Carew",
+      "directors": "Edwin Carewe",
       "hasMedia": true,
       "mediaCount": 3,
       "featuredMedia": {
@@ -1641,7 +1641,7 @@
       "authorSlug": "mary-wilkins-freeman",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "false evidence edwin carew finis fox viola dana|wheeler oakman|joseph king|edward j. connelly|j. patrick o'malley|peggy pearce|virginia ross metro pictures madelon mary wilkins freeman drama"
+      "searchText": "false evidence edwin carewe finis fox viola dana|wheeler oakman|joseph king|edward j. connelly|j. patrick o'malley|peggy pearce|virginia ross metro pictures madelon mary wilkins freeman drama"
     },
     {
       "id": 50,
@@ -1725,7 +1725,7 @@
         "Comedy"
       ],
       "studio": "Mary Pickford",
-      "directors": "Marshall A. Neilan",
+      "directors": "Marshall Neilan",
       "hasMedia": true,
       "mediaCount": 12,
       "featuredMedia": {
@@ -1746,7 +1746,7 @@
       "authorSlug": "jean-webster",
       "isRemake": true,
       "adaptationNumber": 1,
-      "searchText": "daddy-long-legs marshall a. neilan agnes c. johnston mary pickford|milla davenport|percy haswell|fay lemport|mahlon hamilton|lillian langdon|betty bouton|audrey chapman|marshall neilan|carrie clark ward mary pickford daddy-long-legs jean webster comedy"
+      "searchText": "daddy-long-legs marshall neilan agnes c. johnston mary pickford|milla davenport|percy haswell|fay lemport|mahlon hamilton|lillian langdon|betty bouton|audrey chapman|marshall neilan|carrie clark ward mary pickford daddy-long-legs jean webster comedy"
     },
     {
       "id": 53,
@@ -13076,7 +13076,7 @@
         "Drama"
       ],
       "studio": "Columbia",
-      "directors": "Albert S. Rogell",
+      "directors": "Albert Rogell",
       "hasMedia": true,
       "mediaCount": 3,
       "featuredMedia": {
@@ -13097,7 +13097,7 @@
       "authorSlug": "diana-bourbon",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "roaming lady albert s. rogell fred niblo jr.|earle snell fay wray|ralph bellamy|thurston hall|edward gargan|roger imhof|paul guilfoyle|tetsu komai|arthur rankin|gene morgan|barnett parker columbia roaming lady diana bourbon drama"
+      "searchText": "roaming lady albert rogell fred niblo jr.|earle snell fay wray|ralph bellamy|thurston hall|edward gargan|roger imhof|paul guilfoyle|tetsu komai|arthur rankin|gene morgan|barnett parker columbia roaming lady diana bourbon drama"
     },
     {
       "id": 380,
@@ -26048,7 +26048,7 @@
         "Comedy"
       ],
       "studio": "Mary Pickford",
-      "directors": "Marshall A. Neilan",
+      "directors": "Marshall Neilan",
       "hasMedia": true,
       "mediaCount": 5,
       "featuredMedia": {
@@ -26069,7 +26069,7 @@
       "authorSlug": "belle-k-maniates",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "amarilly of clothes-line alley marshall a. neilan frances marion mary pickford|william scott|norman kerry|ida waterman|margaret landis|kate price|tom wilson|fred goodwins|herbert standing|wesley barry mary pickford amarilly of clothes-line alley belle k. maniates comedy"
+      "searchText": "amarilly of clothes-line alley marshall neilan frances marion mary pickford|william scott|norman kerry|ida waterman|margaret landis|kate price|tom wilson|fred goodwins|herbert standing|wesley barry mary pickford amarilly of clothes-line alley belle k. maniates comedy"
     },
     {
       "id": 770,
@@ -26351,7 +26351,7 @@
       "authorSlug": "frances-marion",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "a girl's folly maurice tourneur frances marion|maurice tourneur|frances marion|maurice tourneur robert warwick|june elvidge|doris kenyon|johnny hines|chester barnett|leatrice joy|jane adair|maurice tourneur paragon films a movie romance frances marion comedy-drama"
+      "searchText": "a girl's folly maurice tourneur frances marion|maurice tourneur robert warwick|june elvidge|doris kenyon|johnny hines|chester barnett|leatrice joy|jane adair|maurice tourneur paragon films a movie romance frances marion comedy-drama"
     },
     {
       "id": 778,
@@ -27389,12 +27389,12 @@
       "workFormattedTitle": "\"The Adventuress\"",
       "workHtmlTitle": "<span class=\"work-title short-story\">\"The Adventuress\"</span>",
       "workSlug": "the-adventuress",
-      "authorId": 24,
-      "authorName": "Alice Duer Miller",
-      "authorSlug": "alice-duer-miller",
+      "authorId": 519,
+      "authorName": "Alice D. G. Miller",
+      "authorSlug": "alice-d-g-miller",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "the keyhole michael curtiz robert presnell kay francis|george brent|glenda farrell|monroe owsley|allen jenkins|helen ware|henry kolker|ferdinand gottschalk|irving bacon|george chandler warner bros the adventuress alice duer miller romance"
+      "searchText": "the keyhole michael curtiz robert presnell kay francis|george brent|glenda farrell|monroe owsley|allen jenkins|helen ware|henry kolker|ferdinand gottschalk|irving bacon|george chandler warner bros the adventuress alice d. g. miller romance"
     },
     {
       "id": 809,
@@ -27631,8 +27631,8 @@
       },
       "workId": 721,
       "workTitle": "Into Her Kingdom",
-      "workFormattedTitle": "Into Her Kingdom",
-      "workHtmlTitle": "<span class=\"work-title\">Into Her Kingdom</span>",
+      "workFormattedTitle": "\"Into Her Kingdom\"",
+      "workHtmlTitle": "<span class=\"work-title short-story\">\"Into Her Kingdom\"</span>",
       "workSlug": "into-her-kingdom",
       "authorId": 363,
       "authorName": "Ruth Comfort Mitchell",
@@ -39235,13 +39235,13 @@
         "count": 25
       },
       {
-        "value": 24,
-        "label": "Alice Duer Miller",
-        "count": 22
-      },
-      {
         "value": 12,
         "label": "Gene Stratton-Porter",
+        "count": 21
+      },
+      {
+        "value": 24,
+        "label": "Alice Duer Miller",
         "count": 21
       },
       {

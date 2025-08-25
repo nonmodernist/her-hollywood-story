@@ -98,6 +98,11 @@
   "magazine_publication": null,
   "external_urls": [
     {
+      "source": "Internet Archive",
+      "url": "https://archive.org/details/badgirl0000delm",
+      "priority": 2
+    },
+    {
       "source": "Open Library",
       "url": "https://openlibrary.org/works/OL17985501W",
       "priority": 3
@@ -105,11 +110,11 @@
   ],
   "external_ids": {
     "gutenberg_id": null,
-    "internet_archive_id": null,
+    "internet_archive_id": "badgirl0000delm",
     "openlibrary_id": "OL17985501W",
     "oclc_number": null,
     "wikidata_id": "Q124829346",
     "viaf_id": null
   },
-  "last_updated": "2025-08-16T17:34:38.045817"
+  "last_updated": "2025-08-23T20:42:24.43285"
 }

@@ -8,15 +8,15 @@
   "publication_year": 1921,
   "plot_summary": null,
   "plot_summary_html": "",
-  "literary_significance": null,
-  "literary_significance_html": "",
+  "literary_significance": "Finalist for the O. Henry Prize in 1921",
+  "literary_significance_html": "<p>Finalist for the O. Henry Prize in 1921</p>",
   "attribution_notes": null,
   "author": {
     "id": 39,
     "slug": "elizabeth-alexander",
     "name": "Elizabeth Alexander",
-    "birth_year": null,
-    "death_year": null,
+    "birth_year": 1894,
+    "death_year": 1976,
     "film_count": 4
   },
   "stats": {
@@ -57,14 +57,20 @@
     "serialized": false,
     "serial_parts": null
   },
-  "external_urls": [],
+  "external_urls": [
+    {
+      "source": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/11512",
+      "priority": 1
+    }
+  ],
   "external_ids": {
-    "gutenberg_id": null,
+    "gutenberg_id": 11512,
     "internet_archive_id": null,
     "openlibrary_id": null,
     "oclc_number": null,
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-09T16:26:46.766496"
+  "last_updated": "2025-08-25T14:08:30.500445"
 }

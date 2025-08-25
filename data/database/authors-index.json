@@ -49,22 +49,6 @@
       "searchText": "edna ferber"
     },
     {
-      "id": 24,
-      "slug": "alice-duer-miller",
-      "name": "Alice Duer Miller",
-      "birthYear": 1874,
-      "deathYear": 1942,
-      "nationality": "American",
-      "literaryMovement": null,
-      "filmCount": 22,
-      "workCount": 14,
-      "firstAdaptation": 1918,
-      "lastAdaptation": 1952,
-      "yearSpan": 34,
-      "isTwentyTimer": true,
-      "searchText": "alice duer miller"
-    },
-    {
       "id": 12,
       "slug": "gene-stratton-porter",
       "name": "Gene Stratton-Porter",
@@ -79,6 +63,22 @@
       "yearSpan": 43,
       "isTwentyTimer": true,
       "searchText": "gene stratton-porter"
+    },
+    {
+      "id": 24,
+      "slug": "alice-duer-miller",
+      "name": "Alice Duer Miller",
+      "birthYear": 1874,
+      "deathYear": 1942,
+      "nationality": "American",
+      "literaryMovement": null,
+      "filmCount": 21,
+      "workCount": 13,
+      "firstAdaptation": 1918,
+      "lastAdaptation": 1952,
+      "yearSpan": 34,
+      "isTwentyTimer": true,
+      "searchText": "alice duer miller"
     },
     {
       "id": 376,
@@ -356,9 +356,9 @@
       "id": 289,
       "slug": "kate-jordan",
       "name": "Kate Jordan",
-      "birthYear": null,
-      "deathYear": null,
-      "nationality": "American",
+      "birthYear": 1862,
+      "deathYear": 1926,
+      "nationality": "Irish-American",
       "literaryMovement": null,
       "filmCount": 8,
       "workCount": 7,
@@ -740,8 +740,8 @@
       "id": 39,
       "slug": "elizabeth-alexander",
       "name": "Elizabeth Alexander",
-      "birthYear": null,
-      "deathYear": null,
+      "birthYear": 1894,
+      "deathYear": 1976,
       "nationality": "American",
       "literaryMovement": null,
       "filmCount": 4,
@@ -852,8 +852,8 @@
       "id": 285,
       "slug": "mary-johnston",
       "name": "Mary Johnston",
-      "birthYear": null,
-      "deathYear": null,
+      "birthYear": 1870,
+      "deathYear": 1936,
       "nationality": "American",
       "literaryMovement": null,
       "filmCount": 4,
@@ -1428,8 +1428,8 @@
       "id": 288,
       "slug": "elizabeth-jordan",
       "name": "Elizabeth Jordan",
-      "birthYear": null,
-      "deathYear": null,
+      "birthYear": 1865,
+      "deathYear": 1947,
       "nationality": "American",
       "literaryMovement": null,
       "filmCount": 3,
@@ -7919,10 +7919,26 @@
       "yearSpan": 0,
       "isTwentyTimer": false,
       "searchText": "frances lockridge"
+    },
+    {
+      "id": 519,
+      "slug": "alice-d-g-miller",
+      "name": "Alice D. G. Miller",
+      "birthYear": null,
+      "deathYear": null,
+      "nationality": null,
+      "literaryMovement": null,
+      "filmCount": 1,
+      "workCount": 1,
+      "firstAdaptation": 1933,
+      "lastAdaptation": 1933,
+      "yearSpan": 0,
+      "isTwentyTimer": false,
+      "searchText": "alice d. g. miller"
     }
   ],
   "metadata": {
-    "totalCount": 497,
-    "withFilms": 495
+    "totalCount": 498,
+    "withFilms": 496
   }
 }

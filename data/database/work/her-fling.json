@@ -48,7 +48,15 @@
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Live Stories",
+    "magazine_pub_date": null,
+    "magazine_issue_info": null,
+    "digitized_url": null,
+    "FMI_link": null,
+    "serialized": false,
+    "serial_parts": null
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -58,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-25T03:21:10.072155"
 }

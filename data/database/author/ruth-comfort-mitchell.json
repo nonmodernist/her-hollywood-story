@@ -57,7 +57,7 @@
       ],
       "has_media": true,
       "work_title": "Into Her Kingdom",
-      "work_html_title": "<span class=\"work-title\">Into Her Kingdom</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Into Her Kingdom\"</span>",
       "work_id": 721
     }
   ],
@@ -66,10 +66,10 @@
       "id": 721,
       "slug": "into-her-kingdom",
       "title": "Into Her Kingdom",
-      "formatted_title": "Into Her Kingdom",
-      "html_title": "<span class=\"work-title\">Into Her Kingdom</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"Into Her Kingdom\"",
+      "html_title": "<span class=\"work-title short-story\">\"Into Her Kingdom\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1925,
       "adaptation_count": 1,
       "is_remake_champion": false
     }
@@ -78,10 +78,10 @@
     "id": 721,
     "slug": "into-her-kingdom",
     "title": "Into Her Kingdom",
-    "formatted_title": "Into Her Kingdom",
-    "html_title": "<span class=\"work-title\">Into Her Kingdom</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "formatted_title": "\"Into Her Kingdom\"",
+    "html_title": "<span class=\"work-title short-story\">\"Into Her Kingdom\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1925,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

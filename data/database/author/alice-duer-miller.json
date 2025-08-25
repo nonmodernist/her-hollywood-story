@@ -24,8 +24,8 @@
   "has_pseudonym": "True",
   "is_pseudonym": "False",
   "stats": {
-    "total_films": 22,
-    "works_adapted": 14,
+    "total_films": 21,
+    "works_adapted": 13,
     "first_adaptation": 1918,
     "last_adaptation": 1952,
     "year_span": 34,
@@ -54,7 +54,7 @@
     "films_by_decade": {
       "1910": 2,
       "1920": 8,
-      "1930": 9,
+      "1930": 8,
       "1940": 2,
       "1950": 1
     }
@@ -289,22 +289,6 @@
       "work_id": 186
     },
     {
-      "id": 808,
-      "slug": "the-keyhole-1933",
-      "title": "The Keyhole",
-      "html_title": "<span class=\"film-title\">The Keyhole</span>",
-      "year": 1933,
-      "studio": "Warner Bros",
-      "directors": "Michael Curtiz",
-      "genres": [
-        "Romance"
-      ],
-      "has_media": true,
-      "work_title": "The Adventuress",
-      "work_html_title": "<span class=\"work-title short-story\">\"The Adventuress\"</span>",
-      "work_id": 718
-    },
-    {
       "id": 220,
       "slug": "collegiate-1935",
       "title": "Collegiate",
@@ -419,17 +403,6 @@
     }
   ],
   "adapted_works": [
-    {
-      "id": 718,
-      "slug": "the-adventuress",
-      "title": "The Adventuress",
-      "formatted_title": "\"The Adventuress\"",
-      "html_title": "<span class=\"work-title short-story\">\"The Adventuress\"</span>",
-      "work_type": "short_story",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
     {
       "id": 62,
       "slug": "calderons-prisoner",
@@ -575,13 +548,13 @@
     }
   ],
   "most_adapted_work": {
-    "id": 718,
-    "slug": "the-adventuress",
-    "title": "The Adventuress",
-    "formatted_title": "\"The Adventuress\"",
-    "html_title": "<span class=\"work-title short-story\">\"The Adventuress\"</span>",
-    "work_type": "short_story",
-    "publication_year": null,
+    "id": 62,
+    "slug": "calderons-prisoner",
+    "title": "Calderon's Prisoner",
+    "formatted_title": "Calderon's Prisoner",
+    "html_title": "<span class=\"work-title\">Calderon's Prisoner</span>",
+    "work_type": "novel",
+    "publication_year": 1903,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

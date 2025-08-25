@@ -2,10 +2,10 @@
   "id": 721,
   "slug": "into-her-kingdom",
   "title": "Into Her Kingdom",
-  "formatted_title": "Into Her Kingdom",
-  "html_title": "<span class=\"work-title\">Into Her Kingdom</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "formatted_title": "\"Into Her Kingdom\"",
+  "html_title": "<span class=\"work-title short-story\">\"Into Her Kingdom\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1925,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -43,12 +43,20 @@
         "Romance"
       ],
       "has_media": true,
-      "years_after_publication": null
+      "years_after_publication": 1
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Red Book Magazine",
+    "magazine_pub_date": "1925-03-01",
+    "magazine_issue_info": "Vol. XLIV No. 5",
+    "digitized_url": "https://archive.org/details/sim_redbook_1925-03_44_5",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1925RBMMAR%27",
+    "serialized": false,
+    "serial_parts": null
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -58,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-25T01:12:49.417309"
 }

@@ -1,0 +1,89 @@
+{
+  "id": 519,
+  "slug": "alice-d-g-miller",
+  "name": "Alice D. G. Miller",
+  "birth_year": null,
+  "death_year": null,
+  "nationality": null,
+  "literary_movement": null,
+  "biographical_notes": null,
+  "biographical_notes_html": "",
+  "author_notes": null,
+  "wikidata_id": null,
+  "alternative_names": null,
+  "occupations": null,
+  "key_themes": null,
+  "education": null,
+  "maiden_name": null,
+  "key_associations": null,
+  "major_awards": null,
+  "archives_locations": null,
+  "modern_availability": null,
+  "has_portrait": "False",
+  "signature_work_ids": null,
+  "has_pseudonym": "False",
+  "is_pseudonym": "False",
+  "stats": {
+    "total_films": 1,
+    "works_adapted": 1,
+    "first_adaptation": 1933,
+    "last_adaptation": 1933,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Romance",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1930": 1
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 808,
+      "slug": "the-keyhole-1933",
+      "title": "The Keyhole",
+      "html_title": "<span class=\"film-title\">The Keyhole</span>",
+      "year": 1933,
+      "studio": "Warner Bros",
+      "directors": "Michael Curtiz",
+      "genres": [
+        "Romance"
+      ],
+      "has_media": true,
+      "work_title": "The Adventuress",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Adventuress\"</span>",
+      "work_id": 718
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 718,
+      "slug": "the-adventuress",
+      "title": "The Adventuress",
+      "formatted_title": "\"The Adventuress\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Adventuress\"</span>",
+      "work_type": "short_story",
+      "publication_year": null,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 718,
+    "slug": "the-adventuress",
+    "title": "The Adventuress",
+    "formatted_title": "\"The Adventuress\"",
+    "html_title": "<span class=\"work-title short-story\">\"The Adventuress\"</span>",
+    "work_type": "short_story",
+    "publication_year": null,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "last_updated": "2025-08-25T03:33:18.527516"
+}

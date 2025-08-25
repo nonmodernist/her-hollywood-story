@@ -5,7 +5,7 @@
   "formatted_title": "Her Kingdom of Dreams",
   "html_title": "<span class=\"work-title\">Her Kingdom of Dreams</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1918,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -43,12 +43,20 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": null
+      "years_after_publication": 1
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "People's Home Journal",
+    "magazine_pub_date": "1918-12-01",
+    "magazine_issue_info": null,
+    "digitized_url": null,
+    "FMI_link": null,
+    "serialized": true,
+    "serial_parts": 3
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -58,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-25T01:10:59.503208"
 }

@@ -39127,10 +39127,38 @@
       "isRemake": true,
       "adaptationNumber": 2,
       "searchText": "the rejuvenation of aunt mary erle c. kenton raymond cannon may robson|harrison ford|phyllis haver|franklin pangborn|robert edeson|arthur hoyt|betty brown metropolitan pictures the rejuvenation of aunt mary anne warner comedy"
+    },
+    {
+      "id": 1155,
+      "slug": "trial-marriage-1929",
+      "title": "Trial Marriage",
+      "formatted_title": "Trial Marriage",
+      "html_title": "<span class=\"film-title\">Trial Marriage</span>",
+      "year": 1929,
+      "decade": 1920,
+      "genres": [
+        "Drama"
+      ],
+      "studio": "Columbia",
+      "directors": "Erle C. Kenton",
+      "hasMedia": false,
+      "mediaCount": 0,
+      "featuredMedia": null,
+      "workId": 1034,
+      "workTitle": "Trial Marriage",
+      "workFormattedTitle": "Trial Marriage",
+      "workHtmlTitle": "<span class=\"work-title\">Trial Marriage</span>",
+      "workSlug": "trial-marriage",
+      "authorId": 39,
+      "authorName": "Elizabeth Alexander",
+      "authorSlug": "elizabeth-alexander",
+      "isRemake": false,
+      "adaptationNumber": 1,
+      "searchText": "trial marriage erle c. kenton sonya levien norman kerry|sally eilers|jason robards|thelma todd|charles clary|naomi childers|rosemary theby|gertrude short columbia trial marriage elizabeth alexander drama"
     }
   ],
   "metadata": {
-    "totalCount": 1135,
+    "totalCount": 1136,
     "yearRange": [
       1910,
       1963
@@ -39395,6 +39423,11 @@
         "count": 5
       },
       {
+        "value": 39,
+        "label": "Elizabeth Alexander",
+        "count": 5
+      },
+      {
         "value": 59,
         "label": "Vera Caspary",
         "count": 5
@@ -39447,11 +39480,6 @@
       {
         "value": 27,
         "label": "Jean Webster",
-        "count": 4
-      },
-      {
-        "value": 39,
-        "label": "Elizabeth Alexander",
         "count": 4
       },
       {
@@ -39514,7 +39542,7 @@
       {
         "value": "Columbia",
         "label": "Columbia",
-        "count": 39
+        "count": 40
       },
       {
         "value": "Cosmopolitan Productions",
@@ -39801,7 +39829,7 @@
       {
         "value": "Drama",
         "label": "Drama",
-        "count": 457
+        "count": 458
       },
       {
         "value": "Epic",

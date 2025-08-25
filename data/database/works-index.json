@@ -19151,11 +19151,30 @@
       "hasMagazinePublication": false,
       "hasPhotoplayEdition": true,
       "searchText": "the norths meet murder frances lockridge"
+    },
+    {
+      "id": 1034,
+      "slug": "trial-marriage",
+      "title": "Trial Marriage",
+      "formatted_title": "Trial Marriage",
+      "html_title": "<span class=\"work-title\">Trial Marriage</span>",
+      "workType": "novel",
+      "authorId": 39,
+      "authorName": "Elizabeth Alexander",
+      "authorSlug": "elizabeth-alexander",
+      "publicationYear": 1926,
+      "adaptationCount": 1,
+      "yearSpan": 0,
+      "isRemakeChampion": false,
+      "firstAdaptationYear": 1929,
+      "hasMagazinePublication": true,
+      "hasPhotoplayEdition": false,
+      "searchText": "trial marriage elizabeth alexander"
     }
   ],
   "metadata": {
-    "totalCount": 1009,
-    "withAdaptations": 1008,
+    "totalCount": 1010,
+    "withAdaptations": 1009,
     "remakeChampions": 13
   }
 }

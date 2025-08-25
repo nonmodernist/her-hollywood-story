@@ -24,8 +24,8 @@
   "has_pseudonym": "False",
   "is_pseudonym": "True",
   "stats": {
-    "total_films": 4,
-    "works_adapted": 4,
+    "total_films": 5,
+    "works_adapted": 5,
     "first_adaptation": 1923,
     "last_adaptation": 1934,
     "year_span": 11,
@@ -35,16 +35,16 @@
         "count": 2
       },
       {
-        "genre": "Romantic comedy",
-        "count": 1
+        "genre": "Drama",
+        "count": 2
       },
       {
-        "genre": "Drama",
+        "genre": "Romantic comedy",
         "count": 1
       }
     ],
     "films_by_decade": {
-      "1920": 2,
+      "1920": 3,
       "1930": 2
     }
   },
@@ -84,6 +84,22 @@
       "work_title": "Roles",
       "work_html_title": "<span class=\"work-title\">Roles</span>",
       "work_id": 103
+    },
+    {
+      "id": 1155,
+      "slug": "trial-marriage-1929",
+      "title": "Trial Marriage",
+      "html_title": "<span class=\"film-title\">Trial Marriage</span>",
+      "year": 1929,
+      "studio": "Columbia",
+      "directors": "Erle C. Kenton",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": false,
+      "work_title": "Trial Marriage",
+      "work_html_title": "<span class=\"work-title\">Trial Marriage</span>",
+      "work_id": 1034
     },
     {
       "id": 170,
@@ -149,6 +165,17 @@
       "html_title": "<span class=\"work-title\">Roles</span>",
       "work_type": "novel",
       "publication_year": 1923,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1034,
+      "slug": "trial-marriage",
+      "title": "Trial Marriage",
+      "formatted_title": "Trial Marriage",
+      "html_title": "<span class=\"work-title\">Trial Marriage</span>",
+      "work_type": "novel",
+      "publication_year": 1926,
       "adaptation_count": 1,
       "is_remake_champion": false
     },

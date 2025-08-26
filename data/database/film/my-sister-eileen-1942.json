@@ -20,6 +20,7 @@
   "availability": "extant",
   "archive_location": "UCLA Film & Television Archive",
   "adaptation_notes": null,
+  "adaptation_notes_html": "",
   "afi_catalog_id": 27368,
   "source_work": {
     "id": 1032,
@@ -64,8 +65,100 @@
     "is_first": true,
     "is_latest": false
   },
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
+  "media": [
+    {
+      "id": 6039,
+      "media_type": "poster",
+      "title": "My Sister Eileen (1942) - Poster",
+      "caption": "Theatrical poster for My Sister Eileen (1942)",
+      "url": "https://image.tmdb.org/t/p/original/x3e1zXt4hFh4sHqfmiYPIWQAU6D.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/x3e1zXt4hFh4sHqfmiYPIWQAU6D.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/33052",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 6040,
+      "media_type": "poster",
+      "title": "My Sister Eileen (1942) - Poster",
+      "caption": "Theatrical poster for My Sister Eileen (1942)",
+      "url": "https://image.tmdb.org/t/p/original/dIn4GaM36n8AJF3G1fY1PLSV1bQ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dIn4GaM36n8AJF3G1fY1PLSV1bQ.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/33052",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 6041,
+      "media_type": "poster",
+      "title": "My Sister Eileen (1942) - Poster",
+      "caption": "Theatrical poster for My Sister Eileen (1942)",
+      "url": "https://image.tmdb.org/t/p/original/dBMy47hpwwvNV07SQYWha2bTICd.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/dBMy47hpwwvNV07SQYWha2bTICd.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/33052",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 6042,
+      "media_type": "poster",
+      "title": "My Sister Eileen (1942) - Poster",
+      "caption": "Theatrical poster for My Sister Eileen (1942)",
+      "url": "https://image.tmdb.org/t/p/original/zLuskbZFlK0sQuoW8YJmhjnkNsQ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/zLuskbZFlK0sQuoW8YJmhjnkNsQ.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/33052",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 6043,
+      "media_type": "still",
+      "title": "My Sister Eileen (1942) - Still",
+      "caption": "Scene from My Sister Eileen (1942)",
+      "url": "https://image.tmdb.org/t/p/original/sWgQW74fS3wAfRLKq2PRvZTQMnN.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/sWgQW74fS3wAfRLKq2PRvZTQMnN.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/33052",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 6044,
+      "media_type": "still",
+      "title": "My Sister Eileen (1942) - Still",
+      "caption": "Scene from My Sister Eileen (1942)",
+      "url": "https://image.tmdb.org/t/p/original/4PufcFkzFphJ7e7Ilr4gdLaAuXh.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/4PufcFkzFphJ7e7Ilr4gdLaAuXh.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/33052",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 6045,
+      "media_type": "still",
+      "title": "My Sister Eileen (1942) - Still",
+      "caption": "Scene from My Sister Eileen (1942)",
+      "url": "https://image.tmdb.org/t/p/original/oHZ8SjwIEB3SE6cJpuwtomJYnYz.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/oHZ8SjwIEB3SE6cJpuwtomJYnYz.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/33052",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 7,
   "last_updated": "2025-08-25T16:59:00.023275"
 }

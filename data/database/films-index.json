@@ -38931,14 +38931,14 @@
       "studio": "Sierra Pictures",
       "directors": "Victor Fleming",
       "hasMedia": true,
-      "mediaCount": 3,
+      "mediaCount": 11,
       "featuredMedia": {
-        "type": "still",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ingrid_Bergman_Joan_of_Arc_Still.jpg/300px-Ingrid_Bergman_Joan_of_Arc_Still.jpg",
-        "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ingrid_Bergman_Joan_of_Arc_Still.jpg",
-        "caption": "Ingrid Bergman in American hagiographic epic film Joan of Arc (1948). See also film still. No copyright notice.",
-        "source": "wikimedia",
-        "attribution": "RKO Radio Pictures"
+        "type": "poster",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/l3SuIx1kP1BjqxVQcTV0KgPCAQl.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/l3SuIx1kP1BjqxVQcTV0KgPCAQl.jpg",
+        "caption": "Theatrical poster for Joan of Arc (1950)",
+        "source": "tmdb",
+        "attribution": "Image courtesy of TMDB"
       },
       "workId": 1029,
       "workTitle": "Joan of Arc",
@@ -39001,9 +39001,16 @@
       ],
       "studio": "RKO",
       "directors": "Alfred Hitchcock",
-      "hasMedia": false,
-      "mediaCount": 0,
-      "featuredMedia": null,
+      "hasMedia": true,
+      "mediaCount": 8,
+      "featuredMedia": {
+        "type": "poster",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/lIFBvhh9EbQpwkYa135dQvMHXSj.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/lIFBvhh9EbQpwkYa135dQvMHXSj.jpg",
+        "caption": "Theatrical poster for Mr. and Mrs. North (1941)",
+        "source": "tmdb",
+        "attribution": "Image courtesy of TMDB"
+      },
       "workId": 1031,
       "workTitle": "The Norths Meet Murder",
       "workFormattedTitle": "The Norths Meet Murder",
@@ -39029,9 +39036,16 @@
       ],
       "studio": "Columbia",
       "directors": "Alexander Hall",
-      "hasMedia": false,
-      "mediaCount": 0,
-      "featuredMedia": null,
+      "hasMedia": true,
+      "mediaCount": 7,
+      "featuredMedia": {
+        "type": "poster",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/x3e1zXt4hFh4sHqfmiYPIWQAU6D.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/x3e1zXt4hFh4sHqfmiYPIWQAU6D.jpg",
+        "caption": "Theatrical poster for My Sister Eileen (1942)",
+        "source": "tmdb",
+        "attribution": "Image courtesy of TMDB"
+      },
       "workId": 1032,
       "workTitle": "My Sister Eileen",
       "workFormattedTitle": "My Sister Eileen",
@@ -39141,9 +39155,16 @@
       ],
       "studio": "Columbia",
       "directors": "Erle C. Kenton",
-      "hasMedia": false,
-      "mediaCount": 0,
-      "featuredMedia": null,
+      "hasMedia": true,
+      "mediaCount": 2,
+      "featuredMedia": {
+        "type": "poster",
+        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/xmZUfjGKcgS1AH1Xxe9JT5K4paQ.jpg",
+        "fullUrl": "https://image.tmdb.org/t/p/original/xmZUfjGKcgS1AH1Xxe9JT5K4paQ.jpg",
+        "caption": "Poster for Trial Marriage (1929)",
+        "source": "tmdb",
+        "attribution": "Image courtesy of TMDB"
+      },
       "workId": 1034,
       "workTitle": "Trial Marriage",
       "workFormattedTitle": "Trial Marriage",
@@ -39163,7 +39184,7 @@
       1910,
       1963
     ],
-    "withMedia": 1044
+    "withMedia": 1047
   },
   "filterOptions": {
     "years": [

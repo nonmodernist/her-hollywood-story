@@ -17,9 +17,10 @@
   "writers": "Sonya Levien",
   "cast_members": "Norman Kerry|Sally Eilers|Jason Robards|Thelma Todd|Charles Clary|Naomi Childers|Rosemary Theby|Gertrude Short",
   "color_info": null,
-  "availability": null,
+  "availability": "restricted",
   "archive_location": null,
   "adaptation_notes": "Columbia's 1928 trade advertisements explicitly credit Elizabeth Alexander as author of the _Saturday Evening Post_ serial story, \"Trial Marriage,\" that they plan to adapt. The film features at least two characters with the same names as in the story: Constance Bannester and Thorvald Ware. However, AFI and all film sources credit only Sonya Levien with both story and screenplay. This appears to be a clear case of source author erasure.",
+  "adaptation_notes_html": "<p>Columbia's 1928 trade advertisements explicitly credit Elizabeth Alexander as author of the <em>Saturday Evening Post</em> serial story, \"Trial Marriage,\" that they plan to adapt. The film features at least two characters with the same names as in the story: Constance Bannester and Thorvald Ware. However, AFI and all film sources credit only Sonya Levien with both story and screenplay. This appears to be a clear case of source author erasure.</p>",
   "afi_catalog_id": 12832,
   "source_work": {
     "id": 1034,
@@ -48,8 +49,35 @@
   },
   "other_adaptations": [],
   "adaptation_context": null,
-  "media": [],
-  "has_media": false,
-  "media_count": 0,
-  "last_updated": "2025-08-25T17:00:19.012888"
+  "media": [
+    {
+      "id": 6047,
+      "media_type": "still",
+      "title": "Trial Marriage (1929) - Still",
+      "caption": "Scene from Trial Marriage (1929)",
+      "url": "https://image.tmdb.org/t/p/original/uRk76CwkyJ4KhURqvWJ7edDADN8.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/uRk76CwkyJ4KhURqvWJ7edDADN8.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/529547",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 6046,
+      "media_type": "poster",
+      "title": "Trial Marriage (1929) - Poster",
+      "caption": "Poster for Trial Marriage (1929)",
+      "url": "https://image.tmdb.org/t/p/original/xmZUfjGKcgS1AH1Xxe9JT5K4paQ.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/xmZUfjGKcgS1AH1Xxe9JT5K4paQ.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/529547",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    }
+  ],
+  "has_media": true,
+  "media_count": 2,
+  "last_updated": "2025-08-25T21:54:36.797638"
 }

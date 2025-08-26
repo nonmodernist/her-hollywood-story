@@ -19,7 +19,8 @@
   "color_info": "black-and-white",
   "availability": null,
   "archive_location": null,
-  "adaptation_notes": "According to the AFI Catalog, \"Although the story of 'Manslaughter' has similar elements to this story, it may not have been the source material for 'And Sudden Death.'\"",
+  "adaptation_notes": "According to the AFI Catalog, \"Although the story of _Manslaughter_ has similar elements to this story, it may not have been the source material for _And Sudden Death_.\"",
+  "adaptation_notes_html": "<p>According to the AFI Catalog, \"Although the story of <em>Manslaughter</em> has similar elements to this story, it may not have been the source material for <em>And Sudden Death</em>.\"</p>",
   "afi_catalog_id": 4874,
   "source_work": {
     "id": 85,
@@ -129,5 +130,5 @@
   ],
   "has_media": true,
   "media_count": 4,
-  "last_updated": "2025-08-25T16:59:00.023275"
+  "last_updated": "2025-08-26T00:33:07.809138"
 }

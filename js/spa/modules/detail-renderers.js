@@ -49,6 +49,8 @@ export function renderFilmDetail(film) {
                     ${film.cast_members ? `<p><strong>Cast:</strong> ${formatNameList(film.cast_members)}</p>` : ''}
                     ${film.genres?.length ? `<p><strong>Genres:</strong> ${film.genres.join(', ')}</p>` : ''}
                     
+
+                    
                     ${renderAvailabilityContent(film)}
                     ${renderExternalLinksContent(film)}
                 </section>
@@ -83,6 +85,11 @@ export function renderFilmDetail(film) {
                         <p><strong>Photoplay Editions:</strong> 
                             ${film.source_work.photoplay_edition_count} known edition${film.source_work.photoplay_edition_count !== 1 ? 's' : ''}
                         </p>
+                    ` : ''}
+
+                    ${film.adaptation_notes_html ? `
+                        <h4 class="detail-subheading">Adaptation Notes</h4>
+                        <div class="formatted-text detail-text">${film.adaptation_notes_html}</div>
                     ` : ''}
                 
                 ${film.other_adaptations?.length ? `

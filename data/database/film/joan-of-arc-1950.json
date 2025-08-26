@@ -20,6 +20,7 @@
   "availability": null,
   "archive_location": null,
   "adaptation_notes": null,
+  "adaptation_notes_html": "",
   "afi_catalog_id": 25598,
   "source_work": {
     "id": 1029,
@@ -49,6 +50,110 @@
   "other_adaptations": [],
   "adaptation_context": null,
   "media": [
+    {
+      "id": 6023,
+      "media_type": "poster",
+      "title": "Joan of Arc (1950) - Poster",
+      "caption": "Theatrical poster for Joan of Arc (1950)",
+      "url": "https://image.tmdb.org/t/p/original/l3SuIx1kP1BjqxVQcTV0KgPCAQl.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/l3SuIx1kP1BjqxVQcTV0KgPCAQl.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/43443",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "True"
+    },
+    {
+      "id": 6024,
+      "media_type": "poster",
+      "title": "Joan of Arc (1950) - Poster",
+      "caption": "Theatrical poster for Joan of Arc (1950)",
+      "url": "https://image.tmdb.org/t/p/original/5PkF5HNyk3Mb2e2tp8RdrFmchmr.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/5PkF5HNyk3Mb2e2tp8RdrFmchmr.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/43443",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 6025,
+      "media_type": "poster",
+      "title": "Joan of Arc (1950) - Poster",
+      "caption": "Theatrical poster for Joan of Arc (1950)",
+      "url": "https://image.tmdb.org/t/p/original/jyJ4x9YBowR9PEdVjjtdxh0Jo8h.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/jyJ4x9YBowR9PEdVjjtdxh0Jo8h.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/43443",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 6026,
+      "media_type": "poster",
+      "title": "Joan of Arc (1950) - Poster",
+      "caption": "Theatrical poster for Joan of Arc (1950)",
+      "url": "https://image.tmdb.org/t/p/original/rmZZCIUdioR2sDf2YWEZdLB2FJu.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/rmZZCIUdioR2sDf2YWEZdLB2FJu.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/43443",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 6027,
+      "media_type": "poster",
+      "title": "Joan of Arc (1950) - Poster",
+      "caption": "Theatrical poster for Joan of Arc (1950)",
+      "url": "https://image.tmdb.org/t/p/original/jEoYkCDjBKjxDfYIXP13sIiAguW.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w342/jEoYkCDjBKjxDfYIXP13sIiAguW.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/43443",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 6028,
+      "media_type": "still",
+      "title": "Joan of Arc (1950) - Still",
+      "caption": "Scene from Joan of Arc (1950)",
+      "url": "https://image.tmdb.org/t/p/original/9YLQnn3ChNgzBVoSMcV8oFmW7it.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/9YLQnn3ChNgzBVoSMcV8oFmW7it.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/43443",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 6029,
+      "media_type": "still",
+      "title": "Joan of Arc (1950) - Still",
+      "caption": "Scene from Joan of Arc (1950)",
+      "url": "https://image.tmdb.org/t/p/original/uFQjEOKXhIMcmQ1GKK3Ek9XsOkn.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/uFQjEOKXhIMcmQ1GKK3Ek9XsOkn.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/43443",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
+    {
+      "id": 6030,
+      "media_type": "still",
+      "title": "Joan of Arc (1950) - Still",
+      "caption": "Scene from Joan of Arc (1950)",
+      "url": "https://image.tmdb.org/t/p/original/fr12J5KPdttmWuJEck922vSyucc.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w780/fr12J5KPdttmWuJEck922vSyucc.jpg",
+      "source": "tmdb",
+      "source_url": "https://www.themoviedb.org/movie/43443",
+      "license": "fair_use",
+      "attribution": "Image courtesy of TMDB",
+      "is_featured": "False"
+    },
     {
       "id": 6004,
       "media_type": "still",
@@ -90,6 +195,6 @@
     }
   ],
   "has_media": true,
-  "media_count": 3,
+  "media_count": 11,
   "last_updated": "2025-08-25T16:59:00.023275"
 }

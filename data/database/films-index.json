@@ -10751,42 +10751,6 @@
       "searchText": "three came home jean negulesco nunnally johnson claudette colbert|patric knowles|florence desmond|sessue hayakawa|sylvia andrew|phyllis morris|mark keuning|howard chuman|drue mallory|carol savage 20th century fox three came home agnes newton keith drama"
     },
     {
-      "id": 312,
-      "slug": "goodbye-my-fancy-1951",
-      "title": "Goodbye, My Fancy",
-      "formatted_title": "Goodbye, My Fancy",
-      "html_title": "<span class=\"film-title\">Goodbye, My Fancy</span>",
-      "year": 1951,
-      "decade": 1950,
-      "genres": [
-        "Comedy-drama",
-        "Romance"
-      ],
-      "studio": "Warner Bros",
-      "directors": "Vincent Sherman|Frank Mattison",
-      "hasMedia": true,
-      "mediaCount": 6,
-      "featuredMedia": {
-        "type": "poster",
-        "thumbnailUrl": "https://image.tmdb.org/t/p/w342/a8qgZySMXeCJh4MweCATohuXYvK.jpg",
-        "fullUrl": "https://image.tmdb.org/t/p/original/a8qgZySMXeCJh4MweCATohuXYvK.jpg",
-        "caption": "Poster for Goodbye, My Fancy (1951)",
-        "source": "TMDb",
-        "attribution": "Warner Bros"
-      },
-      "workId": 262,
-      "workTitle": "Goodbye, My Fancy",
-      "workFormattedTitle": "\"Goodbye, My Fancy\"",
-      "workHtmlTitle": "<span class=\"work-title short-story\">\"Goodbye, My Fancy\"</span>",
-      "workSlug": "goodbye-my-fancy",
-      "authorId": 97,
-      "authorName": "Fay Kanin",
-      "authorSlug": "fay-kanin",
-      "isRemake": false,
-      "adaptationNumber": 1,
-      "searchText": "goodbye, my fancy vincent sherman|frank mattison ivan goff|ben roberts joan crawford|robert young|frank lovejoy|eve arden|janice rule|lurene tuttle|howard st. john|viola roache|ellen corby|morgan farley warner bros goodbye, my fancy fay kanin comedy-drama romance"
-    },
-    {
       "id": 313,
       "slug": "show-boat-1951",
       "title": "Show Boat",
@@ -39179,12 +39143,12 @@
     }
   ],
   "metadata": {
-    "totalCount": 1136,
+    "totalCount": 1135,
     "yearRange": [
       1910,
       1963
     ],
-    "withMedia": 1047
+    "withMedia": 1046
   },
   "filterOptions": {
     "years": [
@@ -39803,7 +39767,7 @@
       {
         "value": "Warner Bros",
         "label": "Warner Bros",
-        "count": 86
+        "count": 85
       },
       {
         "value": "World Film",
@@ -39840,7 +39804,7 @@
       {
         "value": "Comedy-drama",
         "label": "Comedy-drama",
-        "count": 128
+        "count": 127
       },
       {
         "value": "Documentary",
@@ -39890,7 +39854,7 @@
       {
         "value": "Romance",
         "label": "Romance",
-        "count": 64
+        "count": 63
       },
       {
         "value": "Romantic comedy",

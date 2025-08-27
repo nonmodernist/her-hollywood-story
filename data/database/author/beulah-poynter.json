@@ -69,8 +69,8 @@
         "Drama"
       ],
       "has_media": false,
-      "work_title": "The Marrying of Emmy",
-      "work_html_title": "<span class=\"work-title\">The Marrying of Emmy</span>",
+      "work_title": "Marrying Off Emmy",
+      "work_html_title": "<span class=\"work-title short-story\">\"Marrying Off Emmy\"</span>",
       "work_id": 793
     },
     {
@@ -85,8 +85,8 @@
         "Comedy-drama"
       ],
       "has_media": true,
-      "work_title": "unidentified novel",
-      "work_html_title": "<span class=\"work-title\">unidentified novel</span>",
+      "work_title": "The Splendid Folly",
+      "work_html_title": "<span class=\"work-title\">The Splendid Folly</span>",
       "work_id": 794
     },
     {
@@ -110,23 +110,23 @@
   "adapted_works": [
     {
       "id": 793,
-      "slug": "the-marrying-of-emmy",
-      "title": "The Marrying of Emmy",
-      "formatted_title": "The Marrying of Emmy",
-      "html_title": "<span class=\"work-title\">The Marrying of Emmy</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "slug": "marrying-off-emmy",
+      "title": "Marrying Off Emmy",
+      "formatted_title": "\"Marrying Off Emmy\"",
+      "html_title": "<span class=\"work-title short-story\">\"Marrying Off Emmy\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1919,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
       "id": 794,
-      "slug": "unidentified-novel",
-      "title": "unidentified novel",
-      "formatted_title": "unidentified novel",
-      "html_title": "<span class=\"work-title\">unidentified novel</span>",
+      "slug": "the-splendid-folly",
+      "title": "The Splendid Folly",
+      "formatted_title": "The Splendid Folly",
+      "html_title": "<span class=\"work-title\">The Splendid Folly</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1929,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -144,12 +144,12 @@
   ],
   "most_adapted_work": {
     "id": 793,
-    "slug": "the-marrying-of-emmy",
-    "title": "The Marrying of Emmy",
-    "formatted_title": "The Marrying of Emmy",
-    "html_title": "<span class=\"work-title\">The Marrying of Emmy</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "slug": "marrying-off-emmy",
+    "title": "Marrying Off Emmy",
+    "formatted_title": "\"Marrying Off Emmy\"",
+    "html_title": "<span class=\"work-title short-story\">\"Marrying Off Emmy\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1919,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

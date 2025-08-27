@@ -5,7 +5,7 @@
   "formatted_title": "Persuasive Peggy",
   "html_title": "<span class=\"work-title\">Persuasive Peggy</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1916,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -15,7 +15,7 @@
     "id": 468,
     "slug": "maravene-thompson",
     "name": "Maravene Thompson",
-    "birth_year": null,
+    "birth_year": 1880,
     "death_year": null,
     "film_count": 3
   },
@@ -43,20 +43,26 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": null
+      "years_after_publication": 1
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
   "magazine_publication": null,
-  "external_urls": [],
+  "external_urls": [
+    {
+      "source": "Internet Archive",
+      "url": "https://archive.org/details/persuasivepeggy00compgoog",
+      "priority": 2
+    }
+  ],
   "external_ids": {
     "gutenberg_id": null,
-    "internet_archive_id": null,
+    "internet_archive_id": "persuasivepeggy00compgoog",
     "openlibrary_id": null,
     "oclc_number": null,
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-27T00:52:51.381735"
 }

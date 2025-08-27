@@ -617,6 +617,40 @@
     },
     {
       "work": {
+        "id": 658,
+        "slug": "happiness-la-mode",
+        "title": "Happiness à La Mode",
+        "formatted_title": "\"Happiness à La Mode\"",
+        "html_title": "<span class=\"work-title short-story\">\"Happiness à La Mode\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1919
+      },
+      "author": {
+        "id": 321,
+        "slug": "edwina-levin",
+        "name": "Edwina LeVin"
+      },
+      "firstAdaptation": {
+        "id": 743,
+        "slug": "happiness-la-mode-1919",
+        "title": "Happiness À La Mode",
+        "html_title": "<span class=\"film-title\">Happiness À La Mode</span>",
+        "year": 1919,
+        "studio": "Select Pictures",
+        "directors": "Walter Edwards"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1919
+      }
+    },
+    {
+      "work": {
         "id": 287,
         "slug": "the-avalanche-a-mystery-story",
         "title": "The Avalanche: A Mystery Story",
@@ -1114,6 +1148,40 @@
         "year": 1923,
         "studio": "Famous Players-Lasky",
         "directors": "Henry Kolker"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1923
+      }
+    },
+    {
+      "work": {
+        "id": 554,
+        "slug": "with-the-tide",
+        "title": "With the Tide",
+        "formatted_title": "With the Tide",
+        "html_title": "<span class=\"work-title\">With the Tide</span>",
+        "work_type": "novella",
+        "publication_year": 1923
+      },
+      "author": {
+        "id": 256,
+        "slug": "fanny-hatton",
+        "name": "Fanny Hatton"
+      },
+      "firstAdaptation": {
+        "id": 631,
+        "slug": "south-sea-love-1923",
+        "title": "South Sea Love",
+        "html_title": "<span class=\"film-title\">South Sea Love</span>",
+        "year": 1923,
+        "studio": "Fox Film",
+        "directors": "David Soloman"
       },
       "speed": {
         "delay": 0,
@@ -3269,6 +3337,40 @@
     },
     {
       "work": {
+        "id": 922,
+        "slug": "persuasive-peggy",
+        "title": "Persuasive Peggy",
+        "formatted_title": "Persuasive Peggy",
+        "html_title": "<span class=\"work-title\">Persuasive Peggy</span>",
+        "work_type": "novel",
+        "publication_year": 1916
+      },
+      "author": {
+        "id": 468,
+        "slug": "maravene-thompson",
+        "name": "Maravene Thompson"
+      },
+      "firstAdaptation": {
+        "id": 1028,
+        "slug": "persuasive-peggy-1917",
+        "title": "Persuasive Peggy",
+        "html_title": "<span class=\"film-title\">Persuasive Peggy</span>",
+        "year": 1917,
+        "studio": "Mayfair Film Corp.",
+        "directors": "Charles J. Brabin"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1917
+      }
+    },
+    {
+      "work": {
         "id": 972,
         "slug": "reveries-of-a-station-house",
         "title": "Reveries of a Station House",
@@ -4323,6 +4425,40 @@
     },
     {
       "work": {
+        "id": 659,
+        "slug": "leona-goes-a-hunting",
+        "title": "Leona Goes A-Hunting",
+        "formatted_title": "Leona Goes A-Hunting",
+        "html_title": "<span class=\"work-title\">Leona Goes A-Hunting</span>",
+        "work_type": "novella",
+        "publication_year": 1919
+      },
+      "author": {
+        "id": 321,
+        "slug": "edwina-levin",
+        "name": "Edwina LeVin"
+      },
+      "firstAdaptation": {
+        "id": 744,
+        "slug": "help-wanted-xxx-male-1920",
+        "title": "Help Wanted -Xxx  Male",
+        "html_title": "<span class=\"film-title\">Help Wanted -Xxx  Male</span>",
+        "year": 1920,
+        "studio": "Jesse D. Hampton Productions",
+        "directors": "Henry King"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1920
+      }
+    },
+    {
+      "work": {
         "id": 940,
         "slug": "little-miss-by-the-day",
         "title": "Little Miss By-the-Day",
@@ -4378,6 +4514,40 @@
         "year": 1920,
         "studio": "The Nazimova Productions",
         "directors": "Ray C. Smallwood"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1920
+      }
+    },
+    {
+      "work": {
+        "id": 793,
+        "slug": "marrying-off-emmy",
+        "title": "Marrying Off Emmy",
+        "formatted_title": "\"Marrying Off Emmy\"",
+        "html_title": "<span class=\"work-title short-story\">\"Marrying Off Emmy\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1919
+      },
+      "author": {
+        "id": 402,
+        "slug": "beulah-poynter",
+        "name": "Beulah Poynter"
+      },
+      "firstAdaptation": {
+        "id": 885,
+        "slug": "the-miracle-of-money-1920",
+        "title": "The Miracle of Money",
+        "html_title": "<span class=\"film-title\">The Miracle of Money</span>",
+        "year": 1920,
+        "studio": "Hobart Henley Productions ",
+        "directors": "Hobart Henley"
       },
       "speed": {
         "delay": 1,
@@ -4514,6 +4684,40 @@
         "year": 1920,
         "studio": "Goldwyn Pictures",
         "directors": "Reginald Barker"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1920
+      }
+    },
+    {
+      "work": {
+        "id": 656,
+        "slug": "the-devils-riddle",
+        "title": "The Devil's Riddle",
+        "formatted_title": "The Devil's Riddle",
+        "html_title": "<span class=\"work-title\">The Devil's Riddle</span>",
+        "work_type": "novel",
+        "publication_year": 1919
+      },
+      "author": {
+        "id": 321,
+        "slug": "edwina-levin",
+        "name": "Edwina LeVin"
+      },
+      "firstAdaptation": {
+        "id": 741,
+        "slug": "the-devils-riddle-1920",
+        "title": "The Devil's Riddle",
+        "html_title": "<span class=\"film-title\">The Devil's Riddle</span>",
+        "year": 1920,
+        "studio": "Fox Film",
+        "directors": "Frank Beal"
       },
       "speed": {
         "delay": 1,
@@ -8744,10 +8948,10 @@
     {
       "work": {
         "id": 229,
-        "slug": "assignment-in-brittainy",
-        "title": "Assignment in Brittainy",
-        "formatted_title": "Assignment in Brittainy",
-        "html_title": "<span class=\"work-title\">Assignment in Brittainy</span>",
+        "slug": "assignment-in-brittany",
+        "title": "Assignment in Brittany",
+        "formatted_title": "Assignment in Brittany",
+        "html_title": "<span class=\"work-title\">Assignment in Brittany</span>",
         "work_type": "novel",
         "publication_year": 1942
       },
@@ -10481,6 +10685,40 @@
         },
         {
           "work": {
+            "id": 658,
+            "slug": "happiness-la-mode",
+            "title": "Happiness à La Mode",
+            "formatted_title": "\"Happiness à La Mode\"",
+            "html_title": "<span class=\"work-title short-story\">\"Happiness à La Mode\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1919
+          },
+          "author": {
+            "id": 321,
+            "slug": "edwina-levin",
+            "name": "Edwina LeVin"
+          },
+          "firstAdaptation": {
+            "id": 743,
+            "slug": "happiness-la-mode-1919",
+            "title": "Happiness À La Mode",
+            "html_title": "<span class=\"film-title\">Happiness À La Mode</span>",
+            "year": 1919,
+            "studio": "Select Pictures",
+            "directors": "Walter Edwards"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1919
+          }
+        },
+        {
+          "work": {
             "id": 287,
             "slug": "the-avalanche-a-mystery-story",
             "title": "The Avalanche: A Mystery Story",
@@ -10978,6 +11216,40 @@
             "year": 1923,
             "studio": "Famous Players-Lasky",
             "directors": "Henry Kolker"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1923
+          }
+        },
+        {
+          "work": {
+            "id": 554,
+            "slug": "with-the-tide",
+            "title": "With the Tide",
+            "formatted_title": "With the Tide",
+            "html_title": "<span class=\"work-title\">With the Tide</span>",
+            "work_type": "novella",
+            "publication_year": 1923
+          },
+          "author": {
+            "id": 256,
+            "slug": "fanny-hatton",
+            "name": "Fanny Hatton"
+          },
+          "firstAdaptation": {
+            "id": 631,
+            "slug": "south-sea-love-1923",
+            "title": "South Sea Love",
+            "html_title": "<span class=\"film-title\">South Sea Love</span>",
+            "year": 1923,
+            "studio": "Fox Film",
+            "directors": "David Soloman"
           },
           "speed": {
             "delay": 0,
@@ -13135,6 +13407,40 @@
         },
         {
           "work": {
+            "id": 922,
+            "slug": "persuasive-peggy",
+            "title": "Persuasive Peggy",
+            "formatted_title": "Persuasive Peggy",
+            "html_title": "<span class=\"work-title\">Persuasive Peggy</span>",
+            "work_type": "novel",
+            "publication_year": 1916
+          },
+          "author": {
+            "id": 468,
+            "slug": "maravene-thompson",
+            "name": "Maravene Thompson"
+          },
+          "firstAdaptation": {
+            "id": 1028,
+            "slug": "persuasive-peggy-1917",
+            "title": "Persuasive Peggy",
+            "html_title": "<span class=\"film-title\">Persuasive Peggy</span>",
+            "year": 1917,
+            "studio": "Mayfair Film Corp.",
+            "directors": "Charles J. Brabin"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1917
+          }
+        },
+        {
+          "work": {
             "id": 972,
             "slug": "reveries-of-a-station-house",
             "title": "Reveries of a Station House",
@@ -14189,6 +14495,40 @@
         },
         {
           "work": {
+            "id": 659,
+            "slug": "leona-goes-a-hunting",
+            "title": "Leona Goes A-Hunting",
+            "formatted_title": "Leona Goes A-Hunting",
+            "html_title": "<span class=\"work-title\">Leona Goes A-Hunting</span>",
+            "work_type": "novella",
+            "publication_year": 1919
+          },
+          "author": {
+            "id": 321,
+            "slug": "edwina-levin",
+            "name": "Edwina LeVin"
+          },
+          "firstAdaptation": {
+            "id": 744,
+            "slug": "help-wanted-xxx-male-1920",
+            "title": "Help Wanted -Xxx  Male",
+            "html_title": "<span class=\"film-title\">Help Wanted -Xxx  Male</span>",
+            "year": 1920,
+            "studio": "Jesse D. Hampton Productions",
+            "directors": "Henry King"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1920
+          }
+        },
+        {
+          "work": {
             "id": 940,
             "slug": "little-miss-by-the-day",
             "title": "Little Miss By-the-Day",
@@ -14244,6 +14584,40 @@
             "year": 1920,
             "studio": "The Nazimova Productions",
             "directors": "Ray C. Smallwood"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1920
+          }
+        },
+        {
+          "work": {
+            "id": 793,
+            "slug": "marrying-off-emmy",
+            "title": "Marrying Off Emmy",
+            "formatted_title": "\"Marrying Off Emmy\"",
+            "html_title": "<span class=\"work-title short-story\">\"Marrying Off Emmy\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1919
+          },
+          "author": {
+            "id": 402,
+            "slug": "beulah-poynter",
+            "name": "Beulah Poynter"
+          },
+          "firstAdaptation": {
+            "id": 885,
+            "slug": "the-miracle-of-money-1920",
+            "title": "The Miracle of Money",
+            "html_title": "<span class=\"film-title\">The Miracle of Money</span>",
+            "year": 1920,
+            "studio": "Hobart Henley Productions ",
+            "directors": "Hobart Henley"
           },
           "speed": {
             "delay": 1,
@@ -14380,6 +14754,40 @@
             "year": 1920,
             "studio": "Goldwyn Pictures",
             "directors": "Reginald Barker"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1920
+          }
+        },
+        {
+          "work": {
+            "id": 656,
+            "slug": "the-devils-riddle",
+            "title": "The Devil's Riddle",
+            "formatted_title": "The Devil's Riddle",
+            "html_title": "<span class=\"work-title\">The Devil's Riddle</span>",
+            "work_type": "novel",
+            "publication_year": 1919
+          },
+          "author": {
+            "id": 321,
+            "slug": "edwina-levin",
+            "name": "Edwina LeVin"
+          },
+          "firstAdaptation": {
+            "id": 741,
+            "slug": "the-devils-riddle-1920",
+            "title": "The Devil's Riddle",
+            "html_title": "<span class=\"film-title\">The Devil's Riddle</span>",
+            "year": 1920,
+            "studio": "Fox Film",
+            "directors": "Frank Beal"
           },
           "speed": {
             "delay": 1,
@@ -18610,10 +19018,10 @@
         {
           "work": {
             "id": 229,
-            "slug": "assignment-in-brittainy",
-            "title": "Assignment in Brittainy",
-            "formatted_title": "Assignment in Brittainy",
-            "html_title": "<span class=\"work-title\">Assignment in Brittainy</span>",
+            "slug": "assignment-in-brittany",
+            "title": "Assignment in Brittany",
+            "formatted_title": "Assignment in Brittany",
+            "html_title": "<span class=\"work-title\">Assignment in Brittany</span>",
             "work_type": "novel",
             "publication_year": 1942
           },
@@ -20347,6 +20755,40 @@
         },
         {
           "work": {
+            "id": 658,
+            "slug": "happiness-la-mode",
+            "title": "Happiness à La Mode",
+            "formatted_title": "\"Happiness à La Mode\"",
+            "html_title": "<span class=\"work-title short-story\">\"Happiness à La Mode\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1919
+          },
+          "author": {
+            "id": 321,
+            "slug": "edwina-levin",
+            "name": "Edwina LeVin"
+          },
+          "firstAdaptation": {
+            "id": 743,
+            "slug": "happiness-la-mode-1919",
+            "title": "Happiness À La Mode",
+            "html_title": "<span class=\"film-title\">Happiness À La Mode</span>",
+            "year": 1919,
+            "studio": "Select Pictures",
+            "directors": "Walter Edwards"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1919
+          }
+        },
+        {
+          "work": {
             "id": 287,
             "slug": "the-avalanche-a-mystery-story",
             "title": "The Avalanche: A Mystery Story",
@@ -20504,6 +20946,40 @@
             "year": 1917,
             "studio": "Universal",
             "directors": "Louis William Chaudet"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1917
+          }
+        },
+        {
+          "work": {
+            "id": 922,
+            "slug": "persuasive-peggy",
+            "title": "Persuasive Peggy",
+            "formatted_title": "Persuasive Peggy",
+            "html_title": "<span class=\"work-title\">Persuasive Peggy</span>",
+            "work_type": "novel",
+            "publication_year": 1916
+          },
+          "author": {
+            "id": 468,
+            "slug": "maravene-thompson",
+            "name": "Maravene Thompson"
+          },
+          "firstAdaptation": {
+            "id": 1028,
+            "slug": "persuasive-peggy-1917",
+            "title": "Persuasive Peggy",
+            "html_title": "<span class=\"film-title\">Persuasive Peggy</span>",
+            "year": 1917,
+            "studio": "Mayfair Film Corp.",
+            "directors": "Charles J. Brabin"
           },
           "speed": {
             "delay": 1,
@@ -21913,6 +22389,40 @@
         },
         {
           "work": {
+            "id": 554,
+            "slug": "with-the-tide",
+            "title": "With the Tide",
+            "formatted_title": "With the Tide",
+            "html_title": "<span class=\"work-title\">With the Tide</span>",
+            "work_type": "novella",
+            "publication_year": 1923
+          },
+          "author": {
+            "id": 256,
+            "slug": "fanny-hatton",
+            "name": "Fanny Hatton"
+          },
+          "firstAdaptation": {
+            "id": 631,
+            "slug": "south-sea-love-1923",
+            "title": "South Sea Love",
+            "html_title": "<span class=\"film-title\">South Sea Love</span>",
+            "year": 1923,
+            "studio": "Fox Film",
+            "directors": "David Soloman"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1923
+          }
+        },
+        {
+          "work": {
             "id": 102,
             "slug": "empty-hearts",
             "title": "Empty Hearts",
@@ -22763,6 +23273,40 @@
         },
         {
           "work": {
+            "id": 659,
+            "slug": "leona-goes-a-hunting",
+            "title": "Leona Goes A-Hunting",
+            "formatted_title": "Leona Goes A-Hunting",
+            "html_title": "<span class=\"work-title\">Leona Goes A-Hunting</span>",
+            "work_type": "novella",
+            "publication_year": 1919
+          },
+          "author": {
+            "id": 321,
+            "slug": "edwina-levin",
+            "name": "Edwina LeVin"
+          },
+          "firstAdaptation": {
+            "id": 744,
+            "slug": "help-wanted-xxx-male-1920",
+            "title": "Help Wanted -Xxx  Male",
+            "html_title": "<span class=\"film-title\">Help Wanted -Xxx  Male</span>",
+            "year": 1920,
+            "studio": "Jesse D. Hampton Productions",
+            "directors": "Henry King"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1920
+          }
+        },
+        {
+          "work": {
             "id": 940,
             "slug": "little-miss-by-the-day",
             "title": "Little Miss By-the-Day",
@@ -22818,6 +23362,40 @@
             "year": 1920,
             "studio": "The Nazimova Productions",
             "directors": "Ray C. Smallwood"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1920
+          }
+        },
+        {
+          "work": {
+            "id": 793,
+            "slug": "marrying-off-emmy",
+            "title": "Marrying Off Emmy",
+            "formatted_title": "\"Marrying Off Emmy\"",
+            "html_title": "<span class=\"work-title short-story\">\"Marrying Off Emmy\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1919
+          },
+          "author": {
+            "id": 402,
+            "slug": "beulah-poynter",
+            "name": "Beulah Poynter"
+          },
+          "firstAdaptation": {
+            "id": 885,
+            "slug": "the-miracle-of-money-1920",
+            "title": "The Miracle of Money",
+            "html_title": "<span class=\"film-title\">The Miracle of Money</span>",
+            "year": 1920,
+            "studio": "Hobart Henley Productions ",
+            "directors": "Hobart Henley"
           },
           "speed": {
             "delay": 1,
@@ -22954,6 +23532,40 @@
             "year": 1920,
             "studio": "Goldwyn Pictures",
             "directors": "Reginald Barker"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1920
+          }
+        },
+        {
+          "work": {
+            "id": 656,
+            "slug": "the-devils-riddle",
+            "title": "The Devil's Riddle",
+            "formatted_title": "The Devil's Riddle",
+            "html_title": "<span class=\"work-title\">The Devil's Riddle</span>",
+            "work_type": "novel",
+            "publication_year": 1919
+          },
+          "author": {
+            "id": 321,
+            "slug": "edwina-levin",
+            "name": "Edwina LeVin"
+          },
+          "firstAdaptation": {
+            "id": 741,
+            "slug": "the-devils-riddle-1920",
+            "title": "The Devil's Riddle",
+            "html_title": "<span class=\"film-title\">The Devil's Riddle</span>",
+            "year": 1920,
+            "studio": "Fox Film",
+            "directors": "Frank Beal"
           },
           "speed": {
             "delay": 1,
@@ -28344,10 +28956,10 @@
         {
           "work": {
             "id": 229,
-            "slug": "assignment-in-brittainy",
-            "title": "Assignment in Brittainy",
-            "formatted_title": "Assignment in Brittainy",
-            "html_title": "<span class=\"work-title\">Assignment in Brittainy</span>",
+            "slug": "assignment-in-brittany",
+            "title": "Assignment in Brittany",
+            "formatted_title": "Assignment in Brittany",
+            "html_title": "<span class=\"work-title\">Assignment in Brittany</span>",
             "work_type": "novel",
             "publication_year": 1942
           },
@@ -29677,12 +30289,12 @@
         "count": 26
       },
       {
-        "studio": "Famous Players-Lasky",
-        "count": 21
+        "studio": "Fox Film",
+        "count": 22
       },
       {
-        "studio": "Fox Film",
-        "count": 20
+        "studio": "Famous Players-Lasky",
+        "count": 21
       },
       {
         "studio": "Paramount",
@@ -29711,13 +30323,13 @@
     ]
   },
   "stats": {
-    "total": 290,
-    "sameYearCount": 92,
-    "oneYearCount": 198,
+    "total": 296,
+    "sameYearCount": 94,
+    "oneYearCount": 202,
     "peakDecade": "1920"
   },
   "metadata": {
-    "generated": "2025-08-26T00:35:42.606Z",
+    "generated": "2025-08-27T20:44:43.411Z",
     "version": "2.0"
   }
 }

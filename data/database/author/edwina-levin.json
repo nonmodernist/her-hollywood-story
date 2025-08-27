@@ -65,8 +65,8 @@
         "Comedy"
       ],
       "has_media": true,
-      "work_title": "Happiness a La Mode",
-      "work_html_title": "<span class=\"work-title\">Happiness a La Mode</span>",
+      "work_title": "Happiness à La Mode",
+      "work_html_title": "<span class=\"work-title short-story\">\"Happiness à La Mode\"</span>",
       "work_id": 658
     },
     {
@@ -113,31 +113,31 @@
         "Melodrama"
       ],
       "has_media": true,
-      "work_title": "False Gods",
-      "work_html_title": "<span class=\"work-title\">False Gods</span>",
+      "work_title": "False Colors",
+      "work_html_title": "<span class=\"work-title\">False Colors</span>",
       "work_id": 657
     }
   ],
   "adapted_works": [
     {
       "id": 657,
-      "slug": "false-gods",
-      "title": "False Gods",
-      "formatted_title": "False Gods",
-      "html_title": "<span class=\"work-title\">False Gods</span>",
+      "slug": "false-colors",
+      "title": "False Colors",
+      "formatted_title": "False Colors",
+      "html_title": "<span class=\"work-title\">False Colors</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1919,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
       "id": 658,
-      "slug": "happiness-a-la-mode",
-      "title": "Happiness a La Mode",
-      "formatted_title": "Happiness a La Mode",
-      "html_title": "<span class=\"work-title\">Happiness a La Mode</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "slug": "happiness-la-mode",
+      "title": "Happiness à La Mode",
+      "formatted_title": "\"Happiness à La Mode\"",
+      "html_title": "<span class=\"work-title short-story\">\"Happiness à La Mode\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1919,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -147,8 +147,8 @@
       "title": "Leona Goes A-Hunting",
       "formatted_title": "Leona Goes A-Hunting",
       "html_title": "<span class=\"work-title\">Leona Goes A-Hunting</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "work_type": "novella",
+      "publication_year": 1919,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -159,19 +159,19 @@
       "formatted_title": "The Devil's Riddle",
       "html_title": "<span class=\"work-title\">The Devil's Riddle</span>",
       "work_type": "novel",
-      "publication_year": null,
+      "publication_year": 1919,
       "adaptation_count": 1,
       "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
     "id": 657,
-    "slug": "false-gods",
-    "title": "False Gods",
-    "formatted_title": "False Gods",
-    "html_title": "<span class=\"work-title\">False Gods</span>",
+    "slug": "false-colors",
+    "title": "False Colors",
+    "formatted_title": "False Colors",
+    "html_title": "<span class=\"work-title\">False Colors</span>",
     "work_type": "novel",
-    "publication_year": null,
+    "publication_year": 1919,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

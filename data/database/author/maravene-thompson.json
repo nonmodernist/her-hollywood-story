@@ -2,7 +2,7 @@
   "id": 468,
   "slug": "maravene-thompson",
   "name": "Maravene Thompson",
-  "birth_year": null,
+  "birth_year": 1880,
   "death_year": null,
   "nationality": "American",
   "literary_movement": null,
@@ -100,17 +100,6 @@
   ],
   "adapted_works": [
     {
-      "id": 922,
-      "slug": "persuasive-peggy",
-      "title": "Persuasive Peggy",
-      "formatted_title": "Persuasive Peggy",
-      "html_title": "<span class=\"work-title\">Persuasive Peggy</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 923,
       "slug": "the-womans-law",
       "title": "The Woman's Law",
@@ -120,18 +109,29 @@
       "publication_year": 1914,
       "adaptation_count": 2,
       "is_remake_champion": false
+    },
+    {
+      "id": 922,
+      "slug": "persuasive-peggy",
+      "title": "Persuasive Peggy",
+      "formatted_title": "Persuasive Peggy",
+      "html_title": "<span class=\"work-title\">Persuasive Peggy</span>",
+      "work_type": "novel",
+      "publication_year": 1916,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 922,
-    "slug": "persuasive-peggy",
-    "title": "Persuasive Peggy",
-    "formatted_title": "Persuasive Peggy",
-    "html_title": "<span class=\"work-title\">Persuasive Peggy</span>",
+    "id": 923,
+    "slug": "the-womans-law",
+    "title": "The Woman's Law",
+    "formatted_title": "The Woman's Law",
+    "html_title": "<span class=\"work-title\">The Woman's Law</span>",
     "work_type": "novel",
-    "publication_year": null,
-    "adaptation_count": 1,
+    "publication_year": 1914,
+    "adaptation_count": 2,
     "is_remake_champion": false
   },
-  "last_updated": "2025-08-04T17:06:35.659603"
+  "last_updated": "2025-08-27T00:46:54.28304"
 }

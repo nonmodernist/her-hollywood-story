@@ -491,6 +491,33 @@
     },
     {
       "work": {
+        "id": 658,
+        "slug": "happiness-la-mode",
+        "title": "Happiness à La Mode",
+        "html_title": "<span class=\"work-title short-story\">\"Happiness à La Mode\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1919
+      },
+      "author": {
+        "id": 321,
+        "slug": "edwina-levin",
+        "name": "Edwina LeVin"
+      },
+      "film": {
+        "id": 743,
+        "slug": "happiness-la-mode-1919",
+        "title": "Happiness À La Mode",
+        "html_title": "<span class=\"film-title\">Happiness À La Mode</span>",
+        "year": 1919,
+        "studio": "Select Pictures",
+        "directors": "Walter Edwards",
+        "genres": [
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "work": {
         "id": 789,
         "slug": "dawn",
         "title": "Dawn",
@@ -889,6 +916,33 @@
         "year": 1923,
         "studio": "Famous Players-Lasky",
         "directors": "Henry Kolker",
+        "genres": [
+          "Melodrama"
+        ]
+      }
+    },
+    {
+      "work": {
+        "id": 554,
+        "slug": "with-the-tide",
+        "title": "With the Tide",
+        "html_title": "<span class=\"work-title\">With the Tide</span>",
+        "work_type": "novella",
+        "publication_year": 1923
+      },
+      "author": {
+        "id": 256,
+        "slug": "fanny-hatton",
+        "name": "Fanny Hatton"
+      },
+      "film": {
+        "id": 631,
+        "slug": "south-sea-love-1923",
+        "title": "South Sea Love",
+        "html_title": "<span class=\"film-title\">South Sea Love</span>",
+        "year": 1923,
+        "studio": "Fox Film",
+        "directors": "David Soloman",
         "genres": [
           "Melodrama"
         ]
@@ -2492,14 +2546,14 @@
     }
   ],
   "stats": {
-    "total": 92,
+    "total": 94,
     "yearRange": {
       "earliest": 1914,
       "latest": 1962
     },
     "byDecade": {
-      "1910s": 19,
-      "1920s": 35,
+      "1910s": 20,
+      "1920s": 36,
       "1930s": 28,
       "1940s": 6,
       "1950s": 2,
@@ -2512,7 +2566,7 @@
       },
       {
         "genre": "Melodrama",
-        "count": 18
+        "count": 19
       },
       {
         "genre": "Comedy-drama",
@@ -2524,7 +2578,7 @@
       },
       {
         "genre": "Comedy",
-        "count": 5
+        "count": 6
       },
       {
         "genre": "Romantic comedy",
@@ -2562,11 +2616,11 @@
       },
       {
         "type": "short story",
-        "count": 28
+        "count": 29
       },
       {
         "type": "novella",
-        "count": 10
+        "count": 11
       },
       {
         "type": "collection",
@@ -2583,12 +2637,12 @@
         "count": 10
       },
       {
-        "studio": "MGM",
+        "studio": "Fox Film",
         "count": 9
       },
       {
-        "studio": "Fox Film",
-        "count": 8
+        "studio": "MGM",
+        "count": 9
       },
       {
         "studio": "Paramount",
@@ -2663,7 +2717,7 @@
     ]
   },
   "metadata": {
-    "generated": "2025-08-26T00:35:42.614Z",
+    "generated": "2025-08-27T20:44:43.418Z",
     "version": "1.1"
   }
 }

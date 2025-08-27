@@ -1,9 +1,9 @@
 {
-  "id": 656,
-  "slug": "the-devils-riddle",
-  "title": "The Devil's Riddle",
-  "formatted_title": "The Devil's Riddle",
-  "html_title": "<span class=\"work-title\">The Devil's Riddle</span>",
+  "id": 657,
+  "slug": "false-colors",
+  "title": "False Colors",
+  "formatted_title": "False Colors",
+  "html_title": "<span class=\"work-title\">False Colors</span>",
   "work_type": "novel",
   "publication_year": 1919,
   "plot_summary": null,
@@ -32,30 +32,30 @@
   },
   "adaptations": [
     {
-      "id": 741,
-      "slug": "the-devils-riddle-1920",
-      "title": "The Devil's Riddle",
-      "html_title": "<span class=\"film-title\">The Devil's Riddle</span>",
-      "year": 1920,
-      "studio": "Fox Film",
-      "directors": "Frank Beal",
+      "id": 742,
+      "slug": "reputation-1921",
+      "title": "Reputation",
+      "html_title": "<span class=\"film-title\">Reputation</span>",
+      "year": 1921,
+      "studio": "Universal",
+      "directors": "Stuart Paton",
       "genres": [
-        "Drama"
+        "Melodrama"
       ],
       "has_media": true,
-      "years_after_publication": 1
+      "years_after_publication": 2
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
   "magazine_publication": {
-    "magazine_title": "Argosy and Railroad Man’s Magazine",
-    "magazine_pub_date": "1919-04-19",
-    "magazine_issue_info": "v107 #1-4, v108 #1-2",
+    "magazine_title": "Smith's Magazine",
+    "magazine_pub_date": "1919-05-01",
+    "magazine_issue_info": "v29 #2-5",
     "digitized_url": null,
-    "FMI_link": "http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1919$kARGRRAPR19%27",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1919SMMMAY%27",
     "serialized": true,
-    "serial_parts": 6
+    "serial_parts": 4
   },
   "external_urls": [],
   "external_ids": {
@@ -66,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-27T20:33:00.274691"
+  "last_updated": "2025-08-27T20:30:58.440604"
 }

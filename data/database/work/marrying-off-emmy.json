@@ -1,10 +1,10 @@
 {
-  "id": 659,
-  "slug": "leona-goes-a-hunting",
-  "title": "Leona Goes A-Hunting",
-  "formatted_title": "Leona Goes A-Hunting",
-  "html_title": "<span class=\"work-title\">Leona Goes A-Hunting</span>",
-  "work_type": "novella",
+  "id": 793,
+  "slug": "marrying-off-emmy",
+  "title": "Marrying Off Emmy",
+  "formatted_title": "\"Marrying Off Emmy\"",
+  "html_title": "<span class=\"work-title short-story\">\"Marrying Off Emmy\"</span>",
+  "work_type": "short_story",
   "publication_year": 1919,
   "plot_summary": null,
   "plot_summary_html": "",
@@ -12,12 +12,12 @@
   "literary_significance_html": "",
   "attribution_notes": null,
   "author": {
-    "id": 321,
-    "slug": "edwina-levin",
-    "name": "Edwina LeVin",
-    "birth_year": 1888,
-    "death_year": 1946,
-    "film_count": 4
+    "id": 402,
+    "slug": "beulah-poynter",
+    "name": "Beulah Poynter",
+    "birth_year": 1883,
+    "death_year": 1960,
+    "film_count": 3
   },
   "stats": {
     "adaptation_count": 1,
@@ -32,28 +32,28 @@
   },
   "adaptations": [
     {
-      "id": 744,
-      "slug": "help-wanted-xxx-male-1920",
-      "title": "Help Wanted -Xxx  Male",
-      "html_title": "<span class=\"film-title\">Help Wanted -Xxx  Male</span>",
+      "id": 885,
+      "slug": "the-miracle-of-money-1920",
+      "title": "The Miracle of Money",
+      "html_title": "<span class=\"film-title\">The Miracle of Money</span>",
       "year": 1920,
-      "studio": "Jesse D. Hampton Productions",
-      "directors": "Henry King",
+      "studio": "Hobart Henley Productions ",
+      "directors": "Hobart Henley",
       "genres": [
-        "Comedy"
+        "Drama"
       ],
-      "has_media": true,
+      "has_media": false,
       "years_after_publication": 1
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
   "magazine_publication": {
-    "magazine_title": "Smith's Magazine",
-    "magazine_pub_date": "1919-12-01",
-    "magazine_issue_info": "v30 #3",
+    "magazine_title": "Snappy Stories",
+    "magazine_pub_date": "1919-07-18",
+    "magazine_issue_info": "v44 #2",
     "digitized_url": null,
-    "FMI_link": "http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1919SMMDEC%27",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1919SNPJUL$c2%27",
     "serialized": false,
     "serial_parts": null
   },
@@ -66,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-27T20:35:53.639717"
+  "last_updated": "2025-08-27T20:26:54.524337"
 }

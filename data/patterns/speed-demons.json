@@ -5955,6 +5955,40 @@
     },
     {
       "work": {
+        "id": 906,
+        "slug": "the-heart-of-a-follies-girl",
+        "title": "The Heart of a Follies Girl",
+        "formatted_title": "\"The Heart of a Follies Girl\"",
+        "html_title": "<span class=\"work-title short-story\">\"The Heart of a Follies Girl\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1924
+      },
+      "author": {
+        "id": 43,
+        "slug": "adela-rogers-st-johns",
+        "name": "Adela Rogers St. Johns"
+      },
+      "firstAdaptation": {
+        "id": 1007,
+        "slug": "pretty-ladies-1925",
+        "title": "Pretty Ladies",
+        "html_title": "<span class=\"film-title\">Pretty Ladies</span>",
+        "year": 1925,
+        "studio": "Metro-Goldwyn Pictures",
+        "directors": "Monta Bell"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1925
+      }
+    },
+    {
+      "work": {
         "id": 378,
         "slug": "the-home-maker",
         "title": "The Home-Maker",
@@ -16025,6 +16059,40 @@
         },
         {
           "work": {
+            "id": 906,
+            "slug": "the-heart-of-a-follies-girl",
+            "title": "The Heart of a Follies Girl",
+            "formatted_title": "\"The Heart of a Follies Girl\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Heart of a Follies Girl\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1924
+          },
+          "author": {
+            "id": 43,
+            "slug": "adela-rogers-st-johns",
+            "name": "Adela Rogers St. Johns"
+          },
+          "firstAdaptation": {
+            "id": 1007,
+            "slug": "pretty-ladies-1925",
+            "title": "Pretty Ladies",
+            "html_title": "<span class=\"film-title\">Pretty Ladies</span>",
+            "year": 1925,
+            "studio": "Metro-Goldwyn Pictures",
+            "directors": "Monta Bell"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1925
+          }
+        },
+        {
+          "work": {
             "id": 378,
             "slug": "the-home-maker",
             "title": "The Home-Maker",
@@ -24803,6 +24871,40 @@
         },
         {
           "work": {
+            "id": 906,
+            "slug": "the-heart-of-a-follies-girl",
+            "title": "The Heart of a Follies Girl",
+            "formatted_title": "\"The Heart of a Follies Girl\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Heart of a Follies Girl\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1924
+          },
+          "author": {
+            "id": 43,
+            "slug": "adela-rogers-st-johns",
+            "name": "Adela Rogers St. Johns"
+          },
+          "firstAdaptation": {
+            "id": 1007,
+            "slug": "pretty-ladies-1925",
+            "title": "Pretty Ladies",
+            "html_title": "<span class=\"film-title\">Pretty Ladies</span>",
+            "year": 1925,
+            "studio": "Metro-Goldwyn Pictures",
+            "directors": "Monta Bell"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1925
+          }
+        },
+        {
+          "work": {
             "id": 378,
             "slug": "the-home-maker",
             "title": "The Home-Maker",
@@ -30255,15 +30357,15 @@
         "count": 7
       },
       {
-        "id": 32,
-        "slug": "katharine-newlin-burt",
-        "name": "Katharine Newlin Burt",
-        "count": 5
-      },
-      {
         "id": 43,
         "slug": "adela-rogers-st-johns",
         "name": "Adela Rogers St. Johns",
+        "count": 6
+      },
+      {
+        "id": 32,
+        "slug": "katharine-newlin-burt",
+        "name": "Katharine Newlin Burt",
         "count": 5
       },
       {
@@ -30323,13 +30425,13 @@
     ]
   },
   "stats": {
-    "total": 296,
+    "total": 297,
     "sameYearCount": 94,
-    "oneYearCount": 202,
+    "oneYearCount": 203,
     "peakDecade": "1920"
   },
   "metadata": {
-    "generated": "2025-08-27T22:53:58.656Z",
+    "generated": "2025-08-27T23:45:06.836Z",
     "version": "2.0"
   }
 }

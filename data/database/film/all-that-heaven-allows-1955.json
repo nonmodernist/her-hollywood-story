@@ -7,19 +7,21 @@
   "release_year": 1955,
   "runtime_minutes": 89,
   "country_of_production": "United States",
-  "genres": [],
+  "genres": [
+    "Melodrama"
+  ],
   "studio": "Universal-International",
-  "production_companies": null,
-  "distribution_companies": null,
-  "directors": null,
-  "writers": null,
-  "cast_members": null,
-  "color_info": null,
+  "production_companies": "Universal-International Pictures Co., Inc.",
+  "distribution_companies": "Universal Pictures Co., inc.",
+  "directors": "Douglas Sirk",
+  "writers": "Peg Fenwick",
+  "cast_members": "Jane Wyman|Rock Hudson|Agnes Moorehead|Conrad Nagel|Virginia Grey|Gloria Talbott|William Reynolds|Charles Drake|Hayden Rorke|Jacqueline de Wit",
+  "color_info": "color",
   "availability": null,
   "archive_location": null,
   "adaptation_notes": null,
   "adaptation_notes_html": "",
-  "afi_catalog_id": null,
+  "afi_catalog_id": 51424,
   "source_work": {
     "id": 1035,
     "slug": "all-that-heaven-allows",
@@ -50,5 +52,5 @@
   "media": [],
   "has_media": false,
   "media_count": 0,
-  "last_updated": "2025-08-27T22:52:35.065342"
+  "last_updated": "2025-08-27T23:44:53.758142"
 }

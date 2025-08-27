@@ -1,0 +1,70 @@
+{
+  "id": 906,
+  "slug": "the-heart-of-a-follies-girl",
+  "title": "The Heart of a Follies Girl",
+  "formatted_title": "\"The Heart of a Follies Girl\"",
+  "html_title": "<span class=\"work-title short-story\">\"The Heart of a Follies Girl\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1924,
+  "plot_summary": null,
+  "plot_summary_html": "",
+  "literary_significance": null,
+  "literary_significance_html": "",
+  "attribution_notes": null,
+  "author": {
+    "id": 43,
+    "slug": "adela-rogers-st-johns",
+    "name": "Adela Rogers St. Johns",
+    "birth_year": 1894,
+    "death_year": 1988,
+    "film_count": 12
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "photoplay_edition_count": 0,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1007,
+      "slug": "pretty-ladies-1925",
+      "title": "Pretty Ladies",
+      "html_title": "<span class=\"film-title\">Pretty Ladies</span>",
+      "year": 1925,
+      "studio": "Metro-Goldwyn Pictures",
+      "directors": "Monta Bell",
+      "genres": [
+        "Comedy-drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_editions": [],
+  "magazine_publication": {
+    "magazine_title": "Cosmopolitan",
+    "magazine_pub_date": "1924-12-01",
+    "magazine_issue_info": "Vol. 77 No. 6",
+    "digitized_url": "https://hdl.handle.net/2027/mdp.39015056096566?urlappend=%3Bseq=891%3Bownerid=13510798897162570-939",
+    "FMI_link": "http://www.philsp.com/homeville/fmi/ZZPERMLINK.ASP?NAME=%27P_1924CMPDEC%27",
+    "serialized": false,
+    "serial_parts": null
+  },
+  "external_urls": [],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": null,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
+  "last_updated": "2025-08-27T23:34:38.228708"
+}

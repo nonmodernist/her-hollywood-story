@@ -24,19 +24,19 @@
   "afi_catalog_id": 11428,
   "source_work": {
     "id": 906,
-    "slug": "pretty-ladies",
-    "title": "Pretty Ladies",
-    "formatted_title": "Pretty Ladies",
-    "html_title": "<span class=\"work-title\">Pretty Ladies</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "slug": "the-heart-of-a-follies-girl",
+    "title": "The Heart of a Follies Girl",
+    "formatted_title": "\"The Heart of a Follies Girl\"",
+    "html_title": "<span class=\"work-title short-story\">\"The Heart of a Follies Girl\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1924,
     "plot_summary": null,
     "plot_summary_html": "",
     "literary_significance": null,
     "literary_significance_html": "",
     "adaptation_count": 1,
     "photoplay_edition_count": 0,
-    "year_to_adaptation": null
+    "year_to_adaptation": 1
   },
   "author": {
     "id": 43,
@@ -170,5 +170,5 @@
   ],
   "has_media": true,
   "media_count": 9,
-  "last_updated": "2025-08-25T16:59:00.023275"
+  "last_updated": "2025-08-27T22:57:11.708135"
 }

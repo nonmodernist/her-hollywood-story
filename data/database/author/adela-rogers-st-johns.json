@@ -107,8 +107,8 @@
         "Comedy-drama"
       ],
       "has_media": true,
-      "work_title": "Pretty Ladies",
-      "work_html_title": "<span class=\"work-title\">Pretty Ladies</span>",
+      "work_title": "The Heart of a Follies Girl",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Heart of a Follies Girl\"</span>",
       "work_id": 906
     },
     {
@@ -269,17 +269,6 @@
       "is_remake_champion": false
     },
     {
-      "id": 906,
-      "slug": "pretty-ladies",
-      "title": "Pretty Ladies",
-      "formatted_title": "Pretty Ladies",
-      "html_title": "<span class=\"work-title\">Pretty Ladies</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 196,
       "slug": "the-great-god-four-flush",
       "title": "The Great God Four-Flush",
@@ -287,6 +276,17 @@
       "html_title": "<span class=\"work-title short-story\">\"The Great God Four-Flush\"</span>",
       "work_type": "short_story",
       "publication_year": 1923,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 906,
+      "slug": "the-heart-of-a-follies-girl",
+      "title": "The Heart of a Follies Girl",
+      "formatted_title": "\"The Heart of a Follies Girl\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Heart of a Follies Girl\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1924,
       "adaptation_count": 1,
       "is_remake_champion": false
     },

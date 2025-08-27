@@ -32,7 +32,7 @@
     "top_genres": [
       {
         "genre": "Melodrama",
-        "count": 1
+        "count": 2
       }
     ],
     "films_by_decade": {
@@ -51,8 +51,10 @@
       "html_title": "<span class=\"film-title\">All That Heaven Allows</span>",
       "year": 1955,
       "studio": "Universal-International",
-      "directors": null,
-      "genres": [],
+      "directors": "Douglas Sirk",
+      "genres": [
+        "Melodrama"
+      ],
       "has_media": false,
       "work_title": "All That Heaven Allows",
       "work_html_title": "<span class=\"work-title\">All That Heaven Allows</span>",

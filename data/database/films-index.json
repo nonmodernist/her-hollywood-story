@@ -34210,16 +34210,16 @@
         "attribution": "Monta Bell"
       },
       "workId": 906,
-      "workTitle": "Pretty Ladies",
-      "workFormattedTitle": "Pretty Ladies",
-      "workHtmlTitle": "<span class=\"work-title\">Pretty Ladies</span>",
-      "workSlug": "pretty-ladies",
+      "workTitle": "The Heart of a Follies Girl",
+      "workFormattedTitle": "\"The Heart of a Follies Girl\"",
+      "workHtmlTitle": "<span class=\"work-title short-story\">\"The Heart of a Follies Girl\"</span>",
+      "workSlug": "the-heart-of-a-follies-girl",
       "authorId": 43,
       "authorName": "Adela Rogers St. Johns",
       "authorSlug": "adela-rogers-st-johns",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "pretty ladies monta bell alice d. g. miller zasu pitts|tom moore|ann pennington|lilyan tashman|bernard randall|helena d'algy|conrad nagel|norma shearer|george k. arthur|joan crawford metro-goldwyn pictures pretty ladies adela rogers st. johns comedy-drama"
+      "searchText": "pretty ladies monta bell alice d. g. miller zasu pitts|tom moore|ann pennington|lilyan tashman|bernard randall|helena d'algy|conrad nagel|norma shearer|george k. arthur|joan crawford metro-goldwyn pictures the heart of a follies girl adela rogers st. johns comedy-drama"
     },
     {
       "id": 1008,
@@ -39149,9 +39149,11 @@
       "html_title": "<span class=\"film-title\">All That Heaven Allows</span>",
       "year": 1955,
       "decade": 1950,
-      "genres": [],
+      "genres": [
+        "Melodrama"
+      ],
       "studio": "Universal-International",
-      "directors": null,
+      "directors": "Douglas Sirk",
       "hasMedia": false,
       "mediaCount": 0,
       "featuredMedia": null,
@@ -39165,7 +39167,7 @@
       "authorSlug": "edna-lee",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "all that heaven allows universal-international all that heaven allows edna lee"
+      "searchText": "all that heaven allows douglas sirk peg fenwick jane wyman|rock hudson|agnes moorehead|conrad nagel|virginia grey|gloria talbott|william reynolds|charles drake|hayden rorke|jacqueline de wit universal-international all that heaven allows edna lee melodrama"
     }
   ],
   "metadata": {
@@ -39860,7 +39862,7 @@
       {
         "value": "Melodrama",
         "label": "Melodrama",
-        "count": 229
+        "count": 230
       },
       {
         "value": "Musical",

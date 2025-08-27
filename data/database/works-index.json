@@ -12333,22 +12333,22 @@
     },
     {
       "id": 647,
-      "slug": "queen-bee",
-      "title": "Queen Bee",
-      "formatted_title": "Queen Bee",
-      "html_title": "<span class=\"work-title\">Queen Bee</span>",
+      "slug": "the-queen-bee",
+      "title": "The Queen Bee",
+      "formatted_title": "The Queen Bee",
+      "html_title": "<span class=\"work-title\">The Queen Bee</span>",
       "workType": "novel",
       "authorId": 313,
-      "authorName": "Edna Henry Lee Turpin",
-      "authorSlug": "edna-henry-lee-turpin",
-      "publicationYear": null,
+      "authorName": "Edna Lee",
+      "authorSlug": "edna-lee",
+      "publicationYear": 1949,
       "adaptationCount": 1,
       "yearSpan": 0,
       "isRemakeChampion": false,
       "firstAdaptationYear": 1955,
-      "hasMagazinePublication": false,
+      "hasMagazinePublication": true,
       "hasPhotoplayEdition": false,
-      "searchText": "queen bee edna henry lee turpin"
+      "searchText": "the queen bee edna lee"
     },
     {
       "id": 648,
@@ -19151,11 +19151,30 @@
       "hasMagazinePublication": true,
       "hasPhotoplayEdition": false,
       "searchText": "trial marriage elizabeth alexander"
+    },
+    {
+      "id": 1035,
+      "slug": "all-that-heaven-allows",
+      "title": "All That Heaven Allows",
+      "formatted_title": "All That Heaven Allows",
+      "html_title": "<span class=\"work-title\">All That Heaven Allows</span>",
+      "workType": "novel",
+      "authorId": 313,
+      "authorName": "Edna Lee",
+      "authorSlug": "edna-lee",
+      "publicationYear": 1952,
+      "adaptationCount": 1,
+      "yearSpan": 0,
+      "isRemakeChampion": false,
+      "firstAdaptationYear": 1955,
+      "hasMagazinePublication": false,
+      "hasPhotoplayEdition": false,
+      "searchText": "all that heaven allows edna lee"
     }
   ],
   "metadata": {
-    "totalCount": 1009,
-    "withAdaptations": 1008,
+    "totalCount": 1010,
+    "withAdaptations": 1009,
     "remakeChampions": 13
   }
 }

@@ -1,0 +1,114 @@
+{
+  "id": 313,
+  "slug": "edna-lee",
+  "name": "Edna Lee",
+  "birth_year": 1890,
+  "death_year": 1963,
+  "nationality": "American",
+  "literary_movement": null,
+  "biographical_notes": null,
+  "biographical_notes_html": "",
+  "author_notes": null,
+  "wikidata_id": "Q67192997",
+  "alternative_names": "['Edna L. Mooney Lee']",
+  "occupations": null,
+  "key_themes": null,
+  "education": null,
+  "maiden_name": null,
+  "key_associations": null,
+  "major_awards": null,
+  "archives_locations": null,
+  "modern_availability": null,
+  "has_portrait": "False",
+  "signature_work_ids": null,
+  "has_pseudonym": "False",
+  "is_pseudonym": "False",
+  "stats": {
+    "total_films": 2,
+    "works_adapted": 2,
+    "first_adaptation": 1955,
+    "last_adaptation": 1955,
+    "year_span": 0,
+    "top_genres": [
+      {
+        "genre": "Melodrama",
+        "count": 1
+      }
+    ],
+    "films_by_decade": {
+      "1950": 2
+    }
+  },
+  "patterns": {
+    "is_twenty_timer": false,
+    "twenty_timer_rank": null
+  },
+  "films": [
+    {
+      "id": 1156,
+      "slug": "all-that-heaven-allows-1955",
+      "title": "All That Heaven Allows",
+      "html_title": "<span class=\"film-title\">All That Heaven Allows</span>",
+      "year": 1955,
+      "studio": "Universal-International",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "work_title": "All That Heaven Allows",
+      "work_html_title": "<span class=\"work-title\">All That Heaven Allows</span>",
+      "work_id": 1035
+    },
+    {
+      "id": 733,
+      "slug": "queen-bee-1955",
+      "title": "Queen Bee",
+      "html_title": "<span class=\"film-title\">Queen Bee</span>",
+      "year": 1955,
+      "studio": "Columbia",
+      "directors": "Ranald MacDougall",
+      "genres": [
+        "Melodrama"
+      ],
+      "has_media": true,
+      "work_title": "The Queen Bee",
+      "work_html_title": "<span class=\"work-title\">The Queen Bee</span>",
+      "work_id": 647
+    }
+  ],
+  "adapted_works": [
+    {
+      "id": 647,
+      "slug": "the-queen-bee",
+      "title": "The Queen Bee",
+      "formatted_title": "The Queen Bee",
+      "html_title": "<span class=\"work-title\">The Queen Bee</span>",
+      "work_type": "novel",
+      "publication_year": 1949,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
+      "id": 1035,
+      "slug": "all-that-heaven-allows",
+      "title": "All That Heaven Allows",
+      "formatted_title": "All That Heaven Allows",
+      "html_title": "<span class=\"work-title\">All That Heaven Allows</span>",
+      "work_type": "novel",
+      "publication_year": 1952,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    }
+  ],
+  "most_adapted_work": {
+    "id": 647,
+    "slug": "the-queen-bee",
+    "title": "The Queen Bee",
+    "formatted_title": "The Queen Bee",
+    "html_title": "<span class=\"work-title\">The Queen Bee</span>",
+    "work_type": "novel",
+    "publication_year": 1949,
+    "adaptation_count": 1,
+    "is_remake_champion": false
+  },
+  "last_updated": "2025-08-27T22:36:55.112502"
+}

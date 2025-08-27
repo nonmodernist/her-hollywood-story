@@ -24858,16 +24858,16 @@
         "attribution": "Columbia"
       },
       "workId": 647,
-      "workTitle": "Queen Bee",
-      "workFormattedTitle": "Queen Bee",
-      "workHtmlTitle": "<span class=\"work-title\">Queen Bee</span>",
-      "workSlug": "queen-bee",
+      "workTitle": "The Queen Bee",
+      "workFormattedTitle": "The Queen Bee",
+      "workHtmlTitle": "<span class=\"work-title\">The Queen Bee</span>",
+      "workSlug": "the-queen-bee",
       "authorId": 313,
-      "authorName": "Edna Henry Lee Turpin",
-      "authorSlug": "edna-henry-lee-turpin",
+      "authorName": "Edna Lee",
+      "authorSlug": "edna-lee",
       "isRemake": false,
       "adaptationNumber": 1,
-      "searchText": "queen bee ranald macdougall ranald macdougall joan crawford|barry sullivan|betsy palmer|john ireland|lucy marlow|william leslie|fay wray|katherine anderson|tim hovey|linda bennett columbia queen bee edna henry lee turpin melodrama"
+      "searchText": "queen bee ranald macdougall ranald macdougall joan crawford|barry sullivan|betsy palmer|john ireland|lucy marlow|william leslie|fay wray|katherine anderson|tim hovey|linda bennett columbia the queen bee edna lee melodrama"
     },
     {
       "id": 734,
@@ -39140,10 +39140,36 @@
       "isRemake": false,
       "adaptationNumber": 1,
       "searchText": "trial marriage erle c. kenton sonya levien norman kerry|sally eilers|jason robards|thelma todd|charles clary|naomi childers|rosemary theby|gertrude short columbia trial marriage elizabeth alexander drama"
+    },
+    {
+      "id": 1156,
+      "slug": "all-that-heaven-allows-1955",
+      "title": "All That Heaven Allows",
+      "formatted_title": "All That Heaven Allows",
+      "html_title": "<span class=\"film-title\">All That Heaven Allows</span>",
+      "year": 1955,
+      "decade": 1950,
+      "genres": [],
+      "studio": "Universal-International",
+      "directors": null,
+      "hasMedia": false,
+      "mediaCount": 0,
+      "featuredMedia": null,
+      "workId": 1035,
+      "workTitle": "All That Heaven Allows",
+      "workFormattedTitle": "All That Heaven Allows",
+      "workHtmlTitle": "<span class=\"work-title\">All That Heaven Allows</span>",
+      "workSlug": "all-that-heaven-allows",
+      "authorId": 313,
+      "authorName": "Edna Lee",
+      "authorSlug": "edna-lee",
+      "isRemake": false,
+      "adaptationNumber": 1,
+      "searchText": "all that heaven allows universal-international all that heaven allows edna lee"
     }
   ],
   "metadata": {
-    "totalCount": 1135,
+    "totalCount": 1136,
     "yearRange": [
       1910,
       1963
@@ -39752,7 +39778,7 @@
       {
         "value": "Universal-International",
         "label": "Universal-International",
-        "count": 15
+        "count": 16
       },
       {
         "value": "Vitagraph",

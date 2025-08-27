@@ -1,0 +1,71 @@
+{
+  "id": 1035,
+  "slug": "all-that-heaven-allows",
+  "title": "All That Heaven Allows",
+  "formatted_title": "All That Heaven Allows",
+  "html_title": "<span class=\"work-title\">All That Heaven Allows</span>",
+  "work_type": "novel",
+  "publication_year": 1952,
+  "plot_summary": null,
+  "plot_summary_html": "",
+  "literary_significance": null,
+  "literary_significance_html": "",
+  "attribution_notes": "co-writer Harry Lee",
+  "author": {
+    "id": 313,
+    "slug": "edna-lee",
+    "name": "Edna Lee",
+    "birth_year": 1890,
+    "death_year": 1963,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "photoplay_edition_count": 0,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1156,
+      "slug": "all-that-heaven-allows-1955",
+      "title": "All That Heaven Allows",
+      "html_title": "<span class=\"film-title\">All That Heaven Allows</span>",
+      "year": 1955,
+      "studio": "Universal-International",
+      "directors": null,
+      "genres": [],
+      "has_media": false,
+      "years_after_publication": 3
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_editions": [],
+  "magazine_publication": null,
+  "external_urls": [
+    {
+      "source": "Internet Archive",
+      "url": "https://archive.org/details/allthatheavenall00leee",
+      "priority": 2
+    },
+    {
+      "source": "WorldCat",
+      "url": "https://www.worldcat.org/oclc/1375148",
+      "priority": 4
+    }
+  ],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": "allthatheavenall00leee",
+    "openlibrary_id": null,
+    "oclc_number": 1375148,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
+  "last_updated": "2025-08-27T22:50:41.417388"
+}

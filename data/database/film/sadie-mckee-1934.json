@@ -17,10 +17,10 @@
   "writers": "John Meehan",
   "cast_members": "Joan Crawford|Gene Raymond|Franchot Tone|Edward Arnold|Esther Ralston|Earl Oxford|Jean Dixon|Leo G. Carroll|Akim Tamiroff|Zelda Sears",
   "color_info": "black-and-white",
-  "availability": "extant",
-  "archive_location": "UCLA Film & Television Archive",
-  "adaptation_notes": null,
-  "adaptation_notes_html": "",
+  "availability": "extant|home_video",
+  "archive_location": "UCLA Film & Television Archive; Warner Archive blu-ray",
+  "adaptation_notes": "MGM's prestige pre-code treatment elevates Delmar's story with elaborate camera work and star power. Retains author's sharp commentary on class and gender while adding spectacular production values, including remarkable long-take sequences that follow Joan Crawford as she moves back and forth between the kitchen and the dining room—between the worlds of very different socioeconomic classes.",
+  "adaptation_notes_html": "<p>MGM's prestige pre-code treatment elevates Delmar's story with elaborate camera work and star power. Retains author's sharp commentary on class and gender while adding spectacular production values, including remarkable long-take sequences that follow Joan Crawford as she moves back and forth between the kitchen and the dining room—between the worlds of very different socioeconomic classes.</p>",
   "afi_catalog_id": 7064,
   "source_work": {
     "id": 189,
@@ -87,6 +87,19 @@
       "source_url": "https://www.themoviedb.org/movie/43696",
       "license": "fair_use",
       "attribution": "MGM",
+      "is_featured": "False"
+    },
+    {
+      "id": 6049,
+      "media_type": "other",
+      "title": null,
+      "caption": "Viña Delmar and Joan Crawford in a promotional image published in The New Movie Magazine, July 1932.",
+      "url": "https://jbkrgvygrdsymzbcyosv.supabase.co/storage/v1/object/public/her-hollywood-story/films/sadie-mckee-vina-delmar-joan-crawford-1932.jpg",
+      "thumbnail_url": "https://jbkrgvygrdsymzbcyosv.supabase.co/storage/v1/object/public/her-hollywood-story/films/sadie-mckee-vina-delmar-joan-crawford-1932.jpg",
+      "source": "MHDL",
+      "source_url": null,
+      "license": "public_domain",
+      "attribution": "The New Movie Magazine, July 1932",
       "is_featured": "False"
     },
     {
@@ -169,6 +182,6 @@
     }
   ],
   "has_media": true,
-  "media_count": 9,
-  "last_updated": "2025-08-27T22:57:11.708135"
+  "media_count": 10,
+  "last_updated": "2025-08-28T00:23:36.115654"
 }

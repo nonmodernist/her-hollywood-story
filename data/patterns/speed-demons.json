@@ -379,6 +379,40 @@
     },
     {
       "work": {
+        "id": 632,
+        "slug": "sloth",
+        "title": "Sloth",
+        "formatted_title": "\"Sloth\"",
+        "html_title": "<span class=\"work-title short-story\">\"Sloth\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1917
+      },
+      "author": {
+        "id": 302,
+        "slug": "florence-morse-kingsley",
+        "name": "Florence Morse Kingsley"
+      },
+      "firstAdaptation": {
+        "id": 717,
+        "slug": "sloth-1917",
+        "title": "Sloth",
+        "html_title": "<span class=\"film-title\">Sloth</span>",
+        "year": 1917,
+        "studio": "McClure Pictures",
+        "directors": "Theodore Marston"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1917
+      }
+    },
+    {
+      "work": {
         "id": 796,
         "slug": "the-man-hater",
         "title": "The Man Hater",
@@ -583,6 +617,40 @@
     },
     {
       "work": {
+        "id": 428,
+        "slug": "the-golden-bird",
+        "title": "The Golden Bird",
+        "formatted_title": "\"The Golden Bird\"",
+        "html_title": "<span class=\"work-title short-story\">\"The Golden Bird\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1918
+      },
+      "author": {
+        "id": 189,
+        "slug": "maria-thompson-daviess",
+        "name": "Maria Thompson Daviess"
+      },
+      "firstAdaptation": {
+        "id": 497,
+        "slug": "little-miss-hoover-1918",
+        "title": "Little Miss Hoover",
+        "html_title": "<span class=\"film-title\">Little Miss Hoover</span>",
+        "year": 1918,
+        "studio": "Famous Players-Lasky",
+        "directors": "John S. Robertson"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1918
+      }
+    },
+    {
+      "work": {
         "id": 989,
         "slug": "the-magnificent-jacala",
         "title": "The Magnificent Jacala",
@@ -638,6 +706,40 @@
         "year": 1918,
         "studio": "Triangle Film",
         "directors": "Thomas N. Heffron"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1918
+      }
+    },
+    {
+      "work": {
+        "id": 478,
+        "slug": "the-way-of-a-maid-with-a-man",
+        "title": "The Way of a Maid with a Man",
+        "formatted_title": "\"The Way of a Maid with a Man\"",
+        "html_title": "<span class=\"work-title short-story\">\"The Way of a Maid with a Man\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1918
+      },
+      "author": {
+        "id": 216,
+        "slug": "ida-m-evans",
+        "name": "Ida M. Evans"
+      },
+      "firstAdaptation": {
+        "id": 548,
+        "slug": "the-way-of-a-man-with-a-maid-1918",
+        "title": "The Way of a Man with a Maid",
+        "html_title": "<span class=\"film-title\">The Way of a Man with a Maid</span>",
+        "year": 1918,
+        "studio": "Famous Players-Lasky",
+        "directors": "Donald Crisp"
       },
       "speed": {
         "delay": 0,
@@ -774,6 +876,40 @@
         "year": 1919,
         "studio": "Famous Players-Lasky",
         "directors": "George Fitzmaurice"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1919
+      }
+    },
+    {
+      "work": {
+        "id": 704,
+        "slug": "the-bleeders",
+        "title": "The Bleeders",
+        "formatted_title": "The Bleeders",
+        "html_title": "<span class=\"work-title\">The Bleeders</span>",
+        "work_type": "novella",
+        "publication_year": 1919
+      },
+      "author": {
+        "id": 352,
+        "slug": "margery-land-may",
+        "name": "Margery Land May"
+      },
+      "firstAdaptation": {
+        "id": 790,
+        "slug": "the-beauty-market-1919",
+        "title": "The Beauty Market",
+        "html_title": "<span class=\"film-title\">The Beauty Market</span>",
+        "year": 1919,
+        "studio": "Katherine MacDonald Pictures",
+        "directors": "Colin Campbell"
       },
       "speed": {
         "delay": 0,
@@ -1705,40 +1841,6 @@
     },
     {
       "work": {
-        "id": 645,
-        "slug": "with-this-ring",
-        "title": "With This Ring",
-        "formatted_title": "With This Ring",
-        "html_title": "<span class=\"work-title\">With This Ring</span>",
-        "work_type": "novel",
-        "publication_year": 1925
-      },
-      "author": {
-        "id": 311,
-        "slug": "fannie-heaslip-lea",
-        "name": "Fannie Heaslip Lea"
-      },
-      "firstAdaptation": {
-        "id": 731,
-        "slug": "with-this-ring-1925",
-        "title": "With This Ring",
-        "html_title": "<span class=\"film-title\">With This Ring</span>",
-        "year": 1925,
-        "studio": "B. P. Schulberg Productions",
-        "directors": "Fred Windermere"
-      },
-      "speed": {
-        "delay": 0,
-        "delayMonths": "Same year",
-        "isZeroDelay": true
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1925
-      }
-    },
-    {
-      "work": {
         "id": 126,
         "slug": "footloose",
         "title": "Footloose",
@@ -1760,6 +1862,40 @@
         "year": 1926,
         "studio": "Warner Bros",
         "directors": "Roy Del Ruth"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1926
+      }
+    },
+    {
+      "work": {
+        "id": 977,
+        "slug": "god-gave-me-20-cents",
+        "title": "God Gave Me 20 Cents",
+        "formatted_title": "\"God Gave Me 20 Cents\"",
+        "html_title": "<span class=\"work-title short-story\">\"God Gave Me 20 Cents\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1926
+      },
+      "author": {
+        "id": 497,
+        "slug": "dixie-willson",
+        "name": "Dixie Willson"
+      },
+      "firstAdaptation": {
+        "id": 1090,
+        "slug": "god-gave-me-twenty-cents-1926",
+        "title": "God Gave Me Twenty Cents",
+        "html_title": "<span class=\"film-title\">God Gave Me Twenty Cents</span>",
+        "year": 1926,
+        "studio": "Famous Players-Lasky",
+        "directors": "Herbert Brenon"
       },
       "speed": {
         "delay": 0,
@@ -1871,6 +2007,108 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1927
+      }
+    },
+    {
+      "work": {
+        "id": 891,
+        "slug": "the-prince-of-headwaiters",
+        "title": "The Prince of Headwaiters",
+        "formatted_title": "\"The Prince of Headwaiters\"",
+        "html_title": "<span class=\"work-title short-story\">\"The Prince of Headwaiters\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1927
+      },
+      "author": {
+        "id": 445,
+        "slug": "viola-brothers-shore",
+        "name": "Viola Brothers Shore"
+      },
+      "firstAdaptation": {
+        "id": 989,
+        "slug": "the-prince-of-headwaiters-1927",
+        "title": "The Prince of Headwaiters",
+        "html_title": "<span class=\"film-title\">The Prince of Headwaiters</span>",
+        "year": 1927,
+        "studio": "Sam E. Rork Productions",
+        "directors": "John Francis Dillon"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1927
+      }
+    },
+    {
+      "work": {
+        "id": 583,
+        "slug": "close-harmony",
+        "title": "Close Harmony",
+        "formatted_title": "\"Close Harmony\"",
+        "html_title": "<span class=\"work-title short-story\">\"Close Harmony\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1928
+      },
+      "author": {
+        "id": 279,
+        "slug": "elsie-janis",
+        "name": "Elsie Janis"
+      },
+      "firstAdaptation": {
+        "id": 665,
+        "slug": "close-harmony-1928",
+        "title": "Close Harmony",
+        "html_title": "<span class=\"film-title\">Close Harmony</span>",
+        "year": 1928,
+        "studio": "Paramount",
+        "directors": "John Cromwell|Edward Sutherland"
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1928
+      }
+    },
+    {
+      "work": {
+        "id": 584,
+        "slug": "listen-baby",
+        "title": "Listen, Baby!",
+        "formatted_title": "\"Listen, Baby!\"",
+        "html_title": "<span class=\"work-title short-story\">\"Listen, Baby!\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1928
+      },
+      "author": {
+        "id": 279,
+        "slug": "elsie-janis",
+        "name": "Elsie Janis"
+      },
+      "firstAdaptation": {
+        "id": 666,
+        "slug": "listen-baby-1928",
+        "title": "Listen Baby",
+        "html_title": "<span class=\"film-title\">Listen Baby</span>",
+        "year": 1928,
+        "studio": "Pathé Exchange",
+        "directors": null
+      },
+      "speed": {
+        "delay": 0,
+        "delayMonths": "Same year",
+        "isZeroDelay": true
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1928
       }
     },
     {
@@ -2827,40 +3065,6 @@
     },
     {
       "work": {
-        "id": 643,
-        "slug": "four-marys",
-        "title": "Four Marys",
-        "formatted_title": "Four Marys",
-        "html_title": "<span class=\"work-title\">Four Marys</span>",
-        "work_type": "novel",
-        "publication_year": 1937
-      },
-      "author": {
-        "id": 311,
-        "slug": "fannie-heaslip-lea",
-        "name": "Fannie Heaslip Lea"
-      },
-      "firstAdaptation": {
-        "id": 729,
-        "slug": "man-proof-1937",
-        "title": "Man-Proof",
-        "html_title": "<span class=\"film-title\">Man-Proof</span>",
-        "year": 1937,
-        "studio": "MGM",
-        "directors": "Richard Thorpe"
-      },
-      "speed": {
-        "delay": 0,
-        "delayMonths": "Same year",
-        "isZeroDelay": true
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1937
-      }
-    },
-    {
-      "work": {
         "id": 346,
         "slug": "marry-for-money",
         "title": "Marry for Money",
@@ -3235,6 +3439,40 @@
     },
     {
       "work": {
+        "id": 971,
+        "slug": "the-price-he-paid",
+        "title": "The Price He Paid",
+        "formatted_title": "The Price He Paid",
+        "html_title": "<span class=\"work-title\">The Price He Paid</span>",
+        "work_type": "poem",
+        "publication_year": 1913
+      },
+      "author": {
+        "id": 493,
+        "slug": "ella-wheeler-wilcox",
+        "name": "Ella Wheeler Wilcox"
+      },
+      "firstAdaptation": {
+        "id": 1083,
+        "slug": "the-price-he-paid-1914",
+        "title": "The Price He Paid",
+        "html_title": "<span class=\"film-title\">The Price He Paid</span>",
+        "year": 1914,
+        "studio": "Humanology Film Producing Co.",
+        "directors": "Lawrence B. McGill"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1914
+      }
+    },
+    {
+      "work": {
         "id": 1025,
         "slug": "the-papered-door",
         "title": "The Papered Door",
@@ -3371,6 +3609,40 @@
     },
     {
       "work": {
+        "id": 972,
+        "slug": "a-revery-in-the-station-house",
+        "title": "A Revery in the Station-House",
+        "formatted_title": "A Revery in the Station-House",
+        "html_title": "<span class=\"work-title\">A Revery in the Station-House</span>",
+        "work_type": "poem",
+        "publication_year": 1916
+      },
+      "author": {
+        "id": 493,
+        "slug": "ella-wheeler-wilcox",
+        "name": "Ella Wheeler Wilcox"
+      },
+      "firstAdaptation": {
+        "id": 1084,
+        "slug": "the-beautiful-lie-1917",
+        "title": "The Beautiful Lie",
+        "html_title": "<span class=\"film-title\">The Beautiful Lie</span>",
+        "year": 1917,
+        "studio": "Metro Pictures",
+        "directors": "John W. Noble"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1917
+      }
+    },
+    {
+      "work": {
         "id": 922,
         "slug": "persuasive-peggy",
         "title": "Persuasive Peggy",
@@ -3405,27 +3677,27 @@
     },
     {
       "work": {
-        "id": 972,
-        "slug": "reveries-of-a-station-house",
-        "title": "Reveries of a Station House",
-        "formatted_title": "Reveries of a Station House",
-        "html_title": "<span class=\"work-title\">Reveries of a Station House</span>",
-        "work_type": "poem",
+        "id": 577,
+        "slug": "the-house-of-little-shoes",
+        "title": "The House of Little Shoes",
+        "formatted_title": "The House of Little Shoes",
+        "html_title": "<span class=\"work-title\">The House of Little Shoes</span>",
+        "work_type": "novel",
         "publication_year": 1916
       },
       "author": {
-        "id": 493,
-        "slug": "ella-wheeler-wilcox",
-        "name": "Ella Wheeler Wilcox"
+        "id": 274,
+        "slug": "eleanor-marie-ingram",
+        "name": "Eleanor Marie Ingram"
       },
       "firstAdaptation": {
-        "id": 1084,
-        "slug": "the-beautiful-lie-1917",
-        "title": "The Beautiful Lie",
-        "html_title": "<span class=\"film-title\">The Beautiful Lie</span>",
+        "id": 659,
+        "slug": "little-shoes-1917",
+        "title": "Little Shoes",
+        "html_title": "<span class=\"film-title\">Little Shoes</span>",
         "year": 1917,
-        "studio": "Metro Pictures",
-        "directors": "John W. Noble"
+        "studio": "Essanay",
+        "directors": "Arthur Berthelet"
       },
       "speed": {
         "delay": 1,
@@ -3494,6 +3766,40 @@
         "year": 1917,
         "studio": "Famous Players",
         "directors": "J. Searle Dawley"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1917
+      }
+    },
+    {
+      "work": {
+        "id": 453,
+        "slug": "who-knows",
+        "title": "Who Knows?",
+        "formatted_title": "Who Knows?",
+        "html_title": "<span class=\"work-title\">Who Knows?</span>",
+        "work_type": "novel",
+        "publication_year": 1916
+      },
+      "author": {
+        "id": 200,
+        "slug": "ethel-smith-dorrance",
+        "name": "Ethel Smith Dorrance"
+      },
+      "firstAdaptation": {
+        "id": 523,
+        "slug": "who-knows-1917",
+        "title": "Who Knows?",
+        "html_title": "<span class=\"film-title\">Who Knows?</span>",
+        "year": 1917,
+        "studio": "Bernstein Film Productions",
+        "directors": "Jack Pratt"
       },
       "speed": {
         "delay": 1,
@@ -3766,6 +4072,40 @@
         "year": 1918,
         "studio": "American Film Co.",
         "directors": "Edward S. Sloman"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1918
+      }
+    },
+    {
+      "work": {
+        "id": 477,
+        "slug": "the-limousine-life",
+        "title": "The Limousine Life",
+        "formatted_title": "\"The Limousine Life\"",
+        "html_title": "<span class=\"work-title short-story\">\"The Limousine Life\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1917
+      },
+      "author": {
+        "id": 216,
+        "slug": "ida-m-evans",
+        "name": "Ida M. Evans"
+      },
+      "firstAdaptation": {
+        "id": 547,
+        "slug": "limousine-life-1918",
+        "title": "Limousine Life",
+        "html_title": "<span class=\"film-title\">Limousine Life</span>",
+        "year": 1918,
+        "studio": "Triangle Film",
+        "directors": "Jack Dillon"
       },
       "speed": {
         "delay": 1,
@@ -4834,10 +5174,10 @@
     {
       "work": {
         "id": 70,
-        "slug": "the-fighting-sherpherdess",
-        "title": "The Fighting Sherpherdess",
-        "formatted_title": "The Fighting Sherpherdess",
-        "html_title": "<span class=\"work-title\">The Fighting Sherpherdess</span>",
+        "slug": "the-fighting-shepherdess",
+        "title": "The Fighting Shepherdess",
+        "formatted_title": "The Fighting Shepherdess",
+        "html_title": "<span class=\"work-title\">The Fighting Shepherdess</span>",
         "work_type": "novel",
         "publication_year": 1919
       },
@@ -5989,6 +6329,40 @@
     },
     {
       "work": {
+        "id": 732,
+        "slug": "everything-money-can-buy",
+        "title": "Everything Money Can Buy",
+        "formatted_title": "\"Everything Money Can Buy\"",
+        "html_title": "<span class=\"work-title short-story\">\"Everything Money Can Buy\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1924
+      },
+      "author": {
+        "id": 371,
+        "slug": "ethel-watts-mumford",
+        "name": "Ethel Watts Mumford"
+      },
+      "firstAdaptation": {
+        "id": 826,
+        "slug": "after-business-hours-1925",
+        "title": "After Business Hours",
+        "html_title": "<span class=\"film-title\">After Business Hours</span>",
+        "year": 1925,
+        "studio": "Columbia",
+        "directors": "Mal St. Clair"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1925
+      }
+    },
+    {
+      "work": {
         "id": 116,
         "slug": "peacock-feathers",
         "title": "Peacock Feathers",
@@ -6248,6 +6622,40 @@
         "year": 1925,
         "studio": "Cinema Corp. of America",
         "directors": "Alan Hale"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1925
+      }
+    },
+    {
+      "work": {
+        "id": 645,
+        "slug": "with-this-ring",
+        "title": "With This Ring",
+        "formatted_title": "With This Ring",
+        "html_title": "<span class=\"work-title\">With This Ring</span>",
+        "work_type": "novel",
+        "publication_year": 1924
+      },
+      "author": {
+        "id": 311,
+        "slug": "fannie-heaslip-lea",
+        "name": "Fannie Heaslip Lea"
+      },
+      "firstAdaptation": {
+        "id": 731,
+        "slug": "with-this-ring-1925",
+        "title": "With This Ring",
+        "html_title": "<span class=\"film-title\">With This Ring</span>",
+        "year": 1925,
+        "studio": "B. P. Schulberg Productions",
+        "directors": "Fred Windermere"
       },
       "speed": {
         "delay": 1,
@@ -6635,6 +7043,40 @@
     },
     {
       "work": {
+        "id": 875,
+        "slug": "willie-the-worm",
+        "title": "Willie the Worm",
+        "formatted_title": "\"Willie the Worm\"",
+        "html_title": "<span class=\"work-title short-story\">\"Willie the Worm\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1926
+      },
+      "author": {
+        "id": 432,
+        "slug": "florence-ryerson",
+        "name": "Florence Ryerson"
+      },
+      "firstAdaptation": {
+        "id": 973,
+        "slug": "love-makes-em-wild-1927",
+        "title": "Love Makes 'em Wild",
+        "html_title": "<span class=\"film-title\">Love Makes 'em Wild</span>",
+        "year": 1927,
+        "studio": "Fox Film",
+        "directors": "Albert Ray"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1927
+      }
+    },
+    {
+      "work": {
         "id": 597,
         "slug": "black-butterflies",
         "title": "Black Butterflies",
@@ -6656,6 +7098,40 @@
         "year": 1928,
         "studio": "Carlos Productions",
         "directors": "James W. Horne"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1928
+      }
+    },
+    {
+      "work": {
+        "id": 978,
+        "slug": "help-yourself-to-hay",
+        "title": "Help Yourself to Hay",
+        "formatted_title": "\"Help Yourself to Hay\"",
+        "html_title": "<span class=\"work-title short-story\">\"Help Yourself to Hay\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1927
+      },
+      "author": {
+        "id": 497,
+        "slug": "dixie-willson",
+        "name": "Dixie Willson"
+      },
+      "firstAdaptation": {
+        "id": 1091,
+        "slug": "3-ring-marriage-1928",
+        "title": "3-Ring Marriage",
+        "html_title": "<span class=\"film-title\">3-Ring Marriage</span>",
+        "year": 1928,
+        "studio": "First National",
+        "directors": "Marshall Neilan"
       },
       "speed": {
         "delay": 1,
@@ -8301,6 +8777,40 @@
     },
     {
       "work": {
+        "id": 434,
+        "slug": "living-up-to-lizzie",
+        "title": "Living Up to Lizzie",
+        "formatted_title": "Living Up to Lizzie",
+        "html_title": "<span class=\"work-title\">Living Up to Lizzie</span>",
+        "work_type": "nonfiction",
+        "publication_year": 1934
+      },
+      "author": {
+        "id": 194,
+        "slug": "lillian-day",
+        "name": "Lillian Day"
+      },
+      "firstAdaptation": {
+        "id": 503,
+        "slug": "personal-maids-secret-1935",
+        "title": "Personal Maid's Secret",
+        "html_title": "<span class=\"film-title\">Personal Maid's Secret</span>",
+        "year": 1935,
+        "studio": "Warner Bros",
+        "directors": "Arthur Greville Collins"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1935
+      }
+    },
+    {
+      "work": {
         "id": 838,
         "slug": "the-state-versus-elinor-norton",
         "title": "The State versus Elinor Norton",
@@ -8641,6 +9151,40 @@
     },
     {
       "work": {
+        "id": 422,
+        "slug": "dangerous-number",
+        "title": "Dangerous Number",
+        "formatted_title": "\"Dangerous Number\"",
+        "html_title": "<span class=\"work-title short-story\">\"Dangerous Number\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1936
+      },
+      "author": {
+        "id": 186,
+        "slug": "leona-dalrymple",
+        "name": "Leona Dalrymple"
+      },
+      "firstAdaptation": {
+        "id": 491,
+        "slug": "dangerous-number-1937",
+        "title": "Dangerous Number",
+        "html_title": "<span class=\"film-title\">Dangerous Number</span>",
+        "year": 1937,
+        "studio": "MGM",
+        "directors": "Richard Thorpe"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1937
+      }
+    },
+    {
+      "work": {
         "id": 459,
         "slug": "dead-yesterday",
         "title": "Dead Yesterday",
@@ -8696,6 +9240,40 @@
         "year": 1937,
         "studio": "Universal",
         "directors": "Lesley Selander"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1937
+      }
+    },
+    {
+      "work": {
+        "id": 643,
+        "slug": "the-four-marys",
+        "title": "The Four Marys",
+        "formatted_title": "\"The Four Marys\"",
+        "html_title": "<span class=\"work-title short-story\">\"The Four Marys\"</span>",
+        "work_type": "short_story",
+        "publication_year": 1936
+      },
+      "author": {
+        "id": 311,
+        "slug": "fannie-heaslip-lea",
+        "name": "Fannie Heaslip Lea"
+      },
+      "firstAdaptation": {
+        "id": 729,
+        "slug": "man-proof-1937",
+        "title": "Man-Proof",
+        "html_title": "<span class=\"film-title\">Man-Proof</span>",
+        "year": 1937,
+        "studio": "MGM",
+        "directors": "Richard Thorpe"
       },
       "speed": {
         "delay": 1,
@@ -9593,6 +10171,40 @@
     },
     {
       "work": {
+        "id": 901,
+        "slug": "you-were-there",
+        "title": "You Were There",
+        "formatted_title": "You Were There",
+        "html_title": "<span class=\"work-title\">You Were There</span>",
+        "work_type": "novel",
+        "publication_year": 1945
+      },
+      "author": {
+        "id": 454,
+        "slug": "thelma-strabel",
+        "name": "Thelma Strabel"
+      },
+      "firstAdaptation": {
+        "id": 1002,
+        "slug": "undercurrent-1946",
+        "title": "Undercurrent",
+        "html_title": "<span class=\"film-title\">Undercurrent</span>",
+        "year": 1946,
+        "studio": "MGM",
+        "directors": "Vincente Minnelli"
+      },
+      "speed": {
+        "delay": 1,
+        "delayMonths": "1 year",
+        "isZeroDelay": false
+      },
+      "context": {
+        "totalAdaptations": 1,
+        "lastAdaptation": 1946
+      }
+    },
+    {
+      "work": {
         "id": 904,
         "slug": "desert-fury",
         "title": "Desert Fury",
@@ -9904,7 +10516,7 @@
         "title": "The Doctor Wears Three Faces",
         "formatted_title": "The Doctor Wears Three Faces",
         "html_title": "<span class=\"work-title\">The Doctor Wears Three Faces</span>",
-        "work_type": "novel",
+        "work_type": "nonfiction",
         "publication_year": 1949
       },
       "author": {
@@ -10065,40 +10677,6 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1952
-      }
-    },
-    {
-      "work": {
-        "id": 530,
-        "slug": "case-file-fbi",
-        "title": "Case File: FBI",
-        "formatted_title": "Case File: FBI",
-        "html_title": "<span class=\"work-title\">Case File: FBI</span>",
-        "work_type": "novel",
-        "publication_year": 1953
-      },
-      "author": {
-        "id": 241,
-        "slug": "mildred-nixon-gordon",
-        "name": "Mildred Nixon Gordon"
-      },
-      "firstAdaptation": {
-        "id": 606,
-        "slug": "down-three-dark-streets-1954",
-        "title": "Down Three Dark Streets",
-        "html_title": "<span class=\"film-title\">Down Three Dark Streets</span>",
-        "year": 1954,
-        "studio": "Challenge Pictures",
-        "directors": "Arnold Laven"
-      },
-      "speed": {
-        "delay": 1,
-        "delayMonths": "1 year",
-        "isZeroDelay": false
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1954
       }
     },
     {
@@ -10405,40 +10983,6 @@
       "context": {
         "totalAdaptations": 1,
         "lastAdaptation": 1958
-      }
-    },
-    {
-      "work": {
-        "id": 992,
-        "slug": "ask-any-girl",
-        "title": "Ask Any Girl",
-        "formatted_title": "Ask Any Girl",
-        "html_title": "<span class=\"work-title\">Ask Any Girl</span>",
-        "work_type": "novel",
-        "publication_year": 1958
-      },
-      "author": {
-        "id": 502,
-        "slug": "winifred-wolfe",
-        "name": "Winifred Wolfe"
-      },
-      "firstAdaptation": {
-        "id": 1105,
-        "slug": "ask-any-girl-1959",
-        "title": "Ask Any Girl",
-        "html_title": "<span class=\"film-title\">Ask Any Girl</span>",
-        "year": 1959,
-        "studio": "MGM",
-        "directors": "Charles Walters"
-      },
-      "speed": {
-        "delay": 1,
-        "delayMonths": "1 year",
-        "isZeroDelay": false
-      },
-      "context": {
-        "totalAdaptations": 1,
-        "lastAdaptation": 1959
       }
     },
     {
@@ -10855,6 +11399,40 @@
         },
         {
           "work": {
+            "id": 632,
+            "slug": "sloth",
+            "title": "Sloth",
+            "formatted_title": "\"Sloth\"",
+            "html_title": "<span class=\"work-title short-story\">\"Sloth\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1917
+          },
+          "author": {
+            "id": 302,
+            "slug": "florence-morse-kingsley",
+            "name": "Florence Morse Kingsley"
+          },
+          "firstAdaptation": {
+            "id": 717,
+            "slug": "sloth-1917",
+            "title": "Sloth",
+            "html_title": "<span class=\"film-title\">Sloth</span>",
+            "year": 1917,
+            "studio": "McClure Pictures",
+            "directors": "Theodore Marston"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1917
+          }
+        },
+        {
+          "work": {
             "id": 796,
             "slug": "the-man-hater",
             "title": "The Man Hater",
@@ -11059,6 +11637,40 @@
         },
         {
           "work": {
+            "id": 428,
+            "slug": "the-golden-bird",
+            "title": "The Golden Bird",
+            "formatted_title": "\"The Golden Bird\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Golden Bird\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 189,
+            "slug": "maria-thompson-daviess",
+            "name": "Maria Thompson Daviess"
+          },
+          "firstAdaptation": {
+            "id": 497,
+            "slug": "little-miss-hoover-1918",
+            "title": "Little Miss Hoover",
+            "html_title": "<span class=\"film-title\">Little Miss Hoover</span>",
+            "year": 1918,
+            "studio": "Famous Players-Lasky",
+            "directors": "John S. Robertson"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1918
+          }
+        },
+        {
+          "work": {
             "id": 989,
             "slug": "the-magnificent-jacala",
             "title": "The Magnificent Jacala",
@@ -11114,6 +11726,40 @@
             "year": 1918,
             "studio": "Triangle Film",
             "directors": "Thomas N. Heffron"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1918
+          }
+        },
+        {
+          "work": {
+            "id": 478,
+            "slug": "the-way-of-a-maid-with-a-man",
+            "title": "The Way of a Maid with a Man",
+            "formatted_title": "\"The Way of a Maid with a Man\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Way of a Maid with a Man\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 216,
+            "slug": "ida-m-evans",
+            "name": "Ida M. Evans"
+          },
+          "firstAdaptation": {
+            "id": 548,
+            "slug": "the-way-of-a-man-with-a-maid-1918",
+            "title": "The Way of a Man with a Maid",
+            "html_title": "<span class=\"film-title\">The Way of a Man with a Maid</span>",
+            "year": 1918,
+            "studio": "Famous Players-Lasky",
+            "directors": "Donald Crisp"
           },
           "speed": {
             "delay": 0,
@@ -11250,6 +11896,40 @@
             "year": 1919,
             "studio": "Famous Players-Lasky",
             "directors": "George Fitzmaurice"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1919
+          }
+        },
+        {
+          "work": {
+            "id": 704,
+            "slug": "the-bleeders",
+            "title": "The Bleeders",
+            "formatted_title": "The Bleeders",
+            "html_title": "<span class=\"work-title\">The Bleeders</span>",
+            "work_type": "novella",
+            "publication_year": 1919
+          },
+          "author": {
+            "id": 352,
+            "slug": "margery-land-may",
+            "name": "Margery Land May"
+          },
+          "firstAdaptation": {
+            "id": 790,
+            "slug": "the-beauty-market-1919",
+            "title": "The Beauty Market",
+            "html_title": "<span class=\"film-title\">The Beauty Market</span>",
+            "year": 1919,
+            "studio": "Katherine MacDonald Pictures",
+            "directors": "Colin Campbell"
           },
           "speed": {
             "delay": 0,
@@ -12181,40 +12861,6 @@
         },
         {
           "work": {
-            "id": 645,
-            "slug": "with-this-ring",
-            "title": "With This Ring",
-            "formatted_title": "With This Ring",
-            "html_title": "<span class=\"work-title\">With This Ring</span>",
-            "work_type": "novel",
-            "publication_year": 1925
-          },
-          "author": {
-            "id": 311,
-            "slug": "fannie-heaslip-lea",
-            "name": "Fannie Heaslip Lea"
-          },
-          "firstAdaptation": {
-            "id": 731,
-            "slug": "with-this-ring-1925",
-            "title": "With This Ring",
-            "html_title": "<span class=\"film-title\">With This Ring</span>",
-            "year": 1925,
-            "studio": "B. P. Schulberg Productions",
-            "directors": "Fred Windermere"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1925
-          }
-        },
-        {
-          "work": {
             "id": 126,
             "slug": "footloose",
             "title": "Footloose",
@@ -12236,6 +12882,40 @@
             "year": 1926,
             "studio": "Warner Bros",
             "directors": "Roy Del Ruth"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1926
+          }
+        },
+        {
+          "work": {
+            "id": 977,
+            "slug": "god-gave-me-20-cents",
+            "title": "God Gave Me 20 Cents",
+            "formatted_title": "\"God Gave Me 20 Cents\"",
+            "html_title": "<span class=\"work-title short-story\">\"God Gave Me 20 Cents\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1926
+          },
+          "author": {
+            "id": 497,
+            "slug": "dixie-willson",
+            "name": "Dixie Willson"
+          },
+          "firstAdaptation": {
+            "id": 1090,
+            "slug": "god-gave-me-twenty-cents-1926",
+            "title": "God Gave Me Twenty Cents",
+            "html_title": "<span class=\"film-title\">God Gave Me Twenty Cents</span>",
+            "year": 1926,
+            "studio": "Famous Players-Lasky",
+            "directors": "Herbert Brenon"
           },
           "speed": {
             "delay": 0,
@@ -12347,6 +13027,108 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1927
+          }
+        },
+        {
+          "work": {
+            "id": 891,
+            "slug": "the-prince-of-headwaiters",
+            "title": "The Prince of Headwaiters",
+            "formatted_title": "\"The Prince of Headwaiters\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Prince of Headwaiters\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1927
+          },
+          "author": {
+            "id": 445,
+            "slug": "viola-brothers-shore",
+            "name": "Viola Brothers Shore"
+          },
+          "firstAdaptation": {
+            "id": 989,
+            "slug": "the-prince-of-headwaiters-1927",
+            "title": "The Prince of Headwaiters",
+            "html_title": "<span class=\"film-title\">The Prince of Headwaiters</span>",
+            "year": 1927,
+            "studio": "Sam E. Rork Productions",
+            "directors": "John Francis Dillon"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1927
+          }
+        },
+        {
+          "work": {
+            "id": 583,
+            "slug": "close-harmony",
+            "title": "Close Harmony",
+            "formatted_title": "\"Close Harmony\"",
+            "html_title": "<span class=\"work-title short-story\">\"Close Harmony\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1928
+          },
+          "author": {
+            "id": 279,
+            "slug": "elsie-janis",
+            "name": "Elsie Janis"
+          },
+          "firstAdaptation": {
+            "id": 665,
+            "slug": "close-harmony-1928",
+            "title": "Close Harmony",
+            "html_title": "<span class=\"film-title\">Close Harmony</span>",
+            "year": 1928,
+            "studio": "Paramount",
+            "directors": "John Cromwell|Edward Sutherland"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1928
+          }
+        },
+        {
+          "work": {
+            "id": 584,
+            "slug": "listen-baby",
+            "title": "Listen, Baby!",
+            "formatted_title": "\"Listen, Baby!\"",
+            "html_title": "<span class=\"work-title short-story\">\"Listen, Baby!\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1928
+          },
+          "author": {
+            "id": 279,
+            "slug": "elsie-janis",
+            "name": "Elsie Janis"
+          },
+          "firstAdaptation": {
+            "id": 666,
+            "slug": "listen-baby-1928",
+            "title": "Listen Baby",
+            "html_title": "<span class=\"film-title\">Listen Baby</span>",
+            "year": 1928,
+            "studio": "Pathé Exchange",
+            "directors": null
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1928
           }
         },
         {
@@ -13303,40 +14085,6 @@
         },
         {
           "work": {
-            "id": 643,
-            "slug": "four-marys",
-            "title": "Four Marys",
-            "formatted_title": "Four Marys",
-            "html_title": "<span class=\"work-title\">Four Marys</span>",
-            "work_type": "novel",
-            "publication_year": 1937
-          },
-          "author": {
-            "id": 311,
-            "slug": "fannie-heaslip-lea",
-            "name": "Fannie Heaslip Lea"
-          },
-          "firstAdaptation": {
-            "id": 729,
-            "slug": "man-proof-1937",
-            "title": "Man-Proof",
-            "html_title": "<span class=\"film-title\">Man-Proof</span>",
-            "year": 1937,
-            "studio": "MGM",
-            "directors": "Richard Thorpe"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1937
-          }
-        },
-        {
-          "work": {
             "id": 346,
             "slug": "marry-for-money",
             "title": "Marry for Money",
@@ -13713,6 +14461,40 @@
       "oneYear": [
         {
           "work": {
+            "id": 971,
+            "slug": "the-price-he-paid",
+            "title": "The Price He Paid",
+            "formatted_title": "The Price He Paid",
+            "html_title": "<span class=\"work-title\">The Price He Paid</span>",
+            "work_type": "poem",
+            "publication_year": 1913
+          },
+          "author": {
+            "id": 493,
+            "slug": "ella-wheeler-wilcox",
+            "name": "Ella Wheeler Wilcox"
+          },
+          "firstAdaptation": {
+            "id": 1083,
+            "slug": "the-price-he-paid-1914",
+            "title": "The Price He Paid",
+            "html_title": "<span class=\"film-title\">The Price He Paid</span>",
+            "year": 1914,
+            "studio": "Humanology Film Producing Co.",
+            "directors": "Lawrence B. McGill"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1914
+          }
+        },
+        {
+          "work": {
             "id": 1025,
             "slug": "the-papered-door",
             "title": "The Papered Door",
@@ -13849,6 +14631,40 @@
         },
         {
           "work": {
+            "id": 972,
+            "slug": "a-revery-in-the-station-house",
+            "title": "A Revery in the Station-House",
+            "formatted_title": "A Revery in the Station-House",
+            "html_title": "<span class=\"work-title\">A Revery in the Station-House</span>",
+            "work_type": "poem",
+            "publication_year": 1916
+          },
+          "author": {
+            "id": 493,
+            "slug": "ella-wheeler-wilcox",
+            "name": "Ella Wheeler Wilcox"
+          },
+          "firstAdaptation": {
+            "id": 1084,
+            "slug": "the-beautiful-lie-1917",
+            "title": "The Beautiful Lie",
+            "html_title": "<span class=\"film-title\">The Beautiful Lie</span>",
+            "year": 1917,
+            "studio": "Metro Pictures",
+            "directors": "John W. Noble"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1917
+          }
+        },
+        {
+          "work": {
             "id": 922,
             "slug": "persuasive-peggy",
             "title": "Persuasive Peggy",
@@ -13883,27 +14699,27 @@
         },
         {
           "work": {
-            "id": 972,
-            "slug": "reveries-of-a-station-house",
-            "title": "Reveries of a Station House",
-            "formatted_title": "Reveries of a Station House",
-            "html_title": "<span class=\"work-title\">Reveries of a Station House</span>",
-            "work_type": "poem",
+            "id": 577,
+            "slug": "the-house-of-little-shoes",
+            "title": "The House of Little Shoes",
+            "formatted_title": "The House of Little Shoes",
+            "html_title": "<span class=\"work-title\">The House of Little Shoes</span>",
+            "work_type": "novel",
             "publication_year": 1916
           },
           "author": {
-            "id": 493,
-            "slug": "ella-wheeler-wilcox",
-            "name": "Ella Wheeler Wilcox"
+            "id": 274,
+            "slug": "eleanor-marie-ingram",
+            "name": "Eleanor Marie Ingram"
           },
           "firstAdaptation": {
-            "id": 1084,
-            "slug": "the-beautiful-lie-1917",
-            "title": "The Beautiful Lie",
-            "html_title": "<span class=\"film-title\">The Beautiful Lie</span>",
+            "id": 659,
+            "slug": "little-shoes-1917",
+            "title": "Little Shoes",
+            "html_title": "<span class=\"film-title\">Little Shoes</span>",
             "year": 1917,
-            "studio": "Metro Pictures",
-            "directors": "John W. Noble"
+            "studio": "Essanay",
+            "directors": "Arthur Berthelet"
           },
           "speed": {
             "delay": 1,
@@ -13972,6 +14788,40 @@
             "year": 1917,
             "studio": "Famous Players",
             "directors": "J. Searle Dawley"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1917
+          }
+        },
+        {
+          "work": {
+            "id": 453,
+            "slug": "who-knows",
+            "title": "Who Knows?",
+            "formatted_title": "Who Knows?",
+            "html_title": "<span class=\"work-title\">Who Knows?</span>",
+            "work_type": "novel",
+            "publication_year": 1916
+          },
+          "author": {
+            "id": 200,
+            "slug": "ethel-smith-dorrance",
+            "name": "Ethel Smith Dorrance"
+          },
+          "firstAdaptation": {
+            "id": 523,
+            "slug": "who-knows-1917",
+            "title": "Who Knows?",
+            "html_title": "<span class=\"film-title\">Who Knows?</span>",
+            "year": 1917,
+            "studio": "Bernstein Film Productions",
+            "directors": "Jack Pratt"
           },
           "speed": {
             "delay": 1,
@@ -14244,6 +15094,40 @@
             "year": 1918,
             "studio": "American Film Co.",
             "directors": "Edward S. Sloman"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1918
+          }
+        },
+        {
+          "work": {
+            "id": 477,
+            "slug": "the-limousine-life",
+            "title": "The Limousine Life",
+            "formatted_title": "\"The Limousine Life\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Limousine Life\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1917
+          },
+          "author": {
+            "id": 216,
+            "slug": "ida-m-evans",
+            "name": "Ida M. Evans"
+          },
+          "firstAdaptation": {
+            "id": 547,
+            "slug": "limousine-life-1918",
+            "title": "Limousine Life",
+            "html_title": "<span class=\"film-title\">Limousine Life</span>",
+            "year": 1918,
+            "studio": "Triangle Film",
+            "directors": "Jack Dillon"
           },
           "speed": {
             "delay": 1,
@@ -15312,10 +16196,10 @@
         {
           "work": {
             "id": 70,
-            "slug": "the-fighting-sherpherdess",
-            "title": "The Fighting Sherpherdess",
-            "formatted_title": "The Fighting Sherpherdess",
-            "html_title": "<span class=\"work-title\">The Fighting Sherpherdess</span>",
+            "slug": "the-fighting-shepherdess",
+            "title": "The Fighting Shepherdess",
+            "formatted_title": "The Fighting Shepherdess",
+            "html_title": "<span class=\"work-title\">The Fighting Shepherdess</span>",
             "work_type": "novel",
             "publication_year": 1919
           },
@@ -16467,6 +17351,40 @@
         },
         {
           "work": {
+            "id": 732,
+            "slug": "everything-money-can-buy",
+            "title": "Everything Money Can Buy",
+            "formatted_title": "\"Everything Money Can Buy\"",
+            "html_title": "<span class=\"work-title short-story\">\"Everything Money Can Buy\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1924
+          },
+          "author": {
+            "id": 371,
+            "slug": "ethel-watts-mumford",
+            "name": "Ethel Watts Mumford"
+          },
+          "firstAdaptation": {
+            "id": 826,
+            "slug": "after-business-hours-1925",
+            "title": "After Business Hours",
+            "html_title": "<span class=\"film-title\">After Business Hours</span>",
+            "year": 1925,
+            "studio": "Columbia",
+            "directors": "Mal St. Clair"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1925
+          }
+        },
+        {
+          "work": {
             "id": 116,
             "slug": "peacock-feathers",
             "title": "Peacock Feathers",
@@ -16726,6 +17644,40 @@
             "year": 1925,
             "studio": "Cinema Corp. of America",
             "directors": "Alan Hale"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1925
+          }
+        },
+        {
+          "work": {
+            "id": 645,
+            "slug": "with-this-ring",
+            "title": "With This Ring",
+            "formatted_title": "With This Ring",
+            "html_title": "<span class=\"work-title\">With This Ring</span>",
+            "work_type": "novel",
+            "publication_year": 1924
+          },
+          "author": {
+            "id": 311,
+            "slug": "fannie-heaslip-lea",
+            "name": "Fannie Heaslip Lea"
+          },
+          "firstAdaptation": {
+            "id": 731,
+            "slug": "with-this-ring-1925",
+            "title": "With This Ring",
+            "html_title": "<span class=\"film-title\">With This Ring</span>",
+            "year": 1925,
+            "studio": "B. P. Schulberg Productions",
+            "directors": "Fred Windermere"
           },
           "speed": {
             "delay": 1,
@@ -17113,6 +18065,40 @@
         },
         {
           "work": {
+            "id": 875,
+            "slug": "willie-the-worm",
+            "title": "Willie the Worm",
+            "formatted_title": "\"Willie the Worm\"",
+            "html_title": "<span class=\"work-title short-story\">\"Willie the Worm\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1926
+          },
+          "author": {
+            "id": 432,
+            "slug": "florence-ryerson",
+            "name": "Florence Ryerson"
+          },
+          "firstAdaptation": {
+            "id": 973,
+            "slug": "love-makes-em-wild-1927",
+            "title": "Love Makes 'em Wild",
+            "html_title": "<span class=\"film-title\">Love Makes 'em Wild</span>",
+            "year": 1927,
+            "studio": "Fox Film",
+            "directors": "Albert Ray"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1927
+          }
+        },
+        {
+          "work": {
             "id": 597,
             "slug": "black-butterflies",
             "title": "Black Butterflies",
@@ -17134,6 +18120,40 @@
             "year": 1928,
             "studio": "Carlos Productions",
             "directors": "James W. Horne"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1928
+          }
+        },
+        {
+          "work": {
+            "id": 978,
+            "slug": "help-yourself-to-hay",
+            "title": "Help Yourself to Hay",
+            "formatted_title": "\"Help Yourself to Hay\"",
+            "html_title": "<span class=\"work-title short-story\">\"Help Yourself to Hay\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1927
+          },
+          "author": {
+            "id": 497,
+            "slug": "dixie-willson",
+            "name": "Dixie Willson"
+          },
+          "firstAdaptation": {
+            "id": 1091,
+            "slug": "3-ring-marriage-1928",
+            "title": "3-Ring Marriage",
+            "html_title": "<span class=\"film-title\">3-Ring Marriage</span>",
+            "year": 1928,
+            "studio": "First National",
+            "directors": "Marshall Neilan"
           },
           "speed": {
             "delay": 1,
@@ -18779,6 +19799,40 @@
         },
         {
           "work": {
+            "id": 434,
+            "slug": "living-up-to-lizzie",
+            "title": "Living Up to Lizzie",
+            "formatted_title": "Living Up to Lizzie",
+            "html_title": "<span class=\"work-title\">Living Up to Lizzie</span>",
+            "work_type": "nonfiction",
+            "publication_year": 1934
+          },
+          "author": {
+            "id": 194,
+            "slug": "lillian-day",
+            "name": "Lillian Day"
+          },
+          "firstAdaptation": {
+            "id": 503,
+            "slug": "personal-maids-secret-1935",
+            "title": "Personal Maid's Secret",
+            "html_title": "<span class=\"film-title\">Personal Maid's Secret</span>",
+            "year": 1935,
+            "studio": "Warner Bros",
+            "directors": "Arthur Greville Collins"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1935
+          }
+        },
+        {
+          "work": {
             "id": 838,
             "slug": "the-state-versus-elinor-norton",
             "title": "The State versus Elinor Norton",
@@ -19119,6 +20173,40 @@
         },
         {
           "work": {
+            "id": 422,
+            "slug": "dangerous-number",
+            "title": "Dangerous Number",
+            "formatted_title": "\"Dangerous Number\"",
+            "html_title": "<span class=\"work-title short-story\">\"Dangerous Number\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1936
+          },
+          "author": {
+            "id": 186,
+            "slug": "leona-dalrymple",
+            "name": "Leona Dalrymple"
+          },
+          "firstAdaptation": {
+            "id": 491,
+            "slug": "dangerous-number-1937",
+            "title": "Dangerous Number",
+            "html_title": "<span class=\"film-title\">Dangerous Number</span>",
+            "year": 1937,
+            "studio": "MGM",
+            "directors": "Richard Thorpe"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1937
+          }
+        },
+        {
+          "work": {
             "id": 459,
             "slug": "dead-yesterday",
             "title": "Dead Yesterday",
@@ -19174,6 +20262,40 @@
             "year": 1937,
             "studio": "Universal",
             "directors": "Lesley Selander"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1937
+          }
+        },
+        {
+          "work": {
+            "id": 643,
+            "slug": "the-four-marys",
+            "title": "The Four Marys",
+            "formatted_title": "\"The Four Marys\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Four Marys\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1936
+          },
+          "author": {
+            "id": 311,
+            "slug": "fannie-heaslip-lea",
+            "name": "Fannie Heaslip Lea"
+          },
+          "firstAdaptation": {
+            "id": 729,
+            "slug": "man-proof-1937",
+            "title": "Man-Proof",
+            "html_title": "<span class=\"film-title\">Man-Proof</span>",
+            "year": 1937,
+            "studio": "MGM",
+            "directors": "Richard Thorpe"
           },
           "speed": {
             "delay": 1,
@@ -20071,6 +21193,40 @@
         },
         {
           "work": {
+            "id": 901,
+            "slug": "you-were-there",
+            "title": "You Were There",
+            "formatted_title": "You Were There",
+            "html_title": "<span class=\"work-title\">You Were There</span>",
+            "work_type": "novel",
+            "publication_year": 1945
+          },
+          "author": {
+            "id": 454,
+            "slug": "thelma-strabel",
+            "name": "Thelma Strabel"
+          },
+          "firstAdaptation": {
+            "id": 1002,
+            "slug": "undercurrent-1946",
+            "title": "Undercurrent",
+            "html_title": "<span class=\"film-title\">Undercurrent</span>",
+            "year": 1946,
+            "studio": "MGM",
+            "directors": "Vincente Minnelli"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1946
+          }
+        },
+        {
+          "work": {
             "id": 904,
             "slug": "desert-fury",
             "title": "Desert Fury",
@@ -20382,7 +21538,7 @@
             "title": "The Doctor Wears Three Faces",
             "formatted_title": "The Doctor Wears Three Faces",
             "html_title": "<span class=\"work-title\">The Doctor Wears Three Faces</span>",
-            "work_type": "novel",
+            "work_type": "nonfiction",
             "publication_year": 1949
           },
           "author": {
@@ -20543,40 +21699,6 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1952
-          }
-        },
-        {
-          "work": {
-            "id": 530,
-            "slug": "case-file-fbi",
-            "title": "Case File: FBI",
-            "formatted_title": "Case File: FBI",
-            "html_title": "<span class=\"work-title\">Case File: FBI</span>",
-            "work_type": "novel",
-            "publication_year": 1953
-          },
-          "author": {
-            "id": 241,
-            "slug": "mildred-nixon-gordon",
-            "name": "Mildred Nixon Gordon"
-          },
-          "firstAdaptation": {
-            "id": 606,
-            "slug": "down-three-dark-streets-1954",
-            "title": "Down Three Dark Streets",
-            "html_title": "<span class=\"film-title\">Down Three Dark Streets</span>",
-            "year": 1954,
-            "studio": "Challenge Pictures",
-            "directors": "Arnold Laven"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1954
           }
         },
         {
@@ -20883,40 +22005,6 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1958
-          }
-        },
-        {
-          "work": {
-            "id": 992,
-            "slug": "ask-any-girl",
-            "title": "Ask Any Girl",
-            "formatted_title": "Ask Any Girl",
-            "html_title": "<span class=\"work-title\">Ask Any Girl</span>",
-            "work_type": "novel",
-            "publication_year": 1958
-          },
-          "author": {
-            "id": 502,
-            "slug": "winifred-wolfe",
-            "name": "Winifred Wolfe"
-          },
-          "firstAdaptation": {
-            "id": 1105,
-            "slug": "ask-any-girl-1959",
-            "title": "Ask Any Girl",
-            "html_title": "<span class=\"film-title\">Ask Any Girl</span>",
-            "year": 1959,
-            "studio": "MGM",
-            "directors": "Charles Walters"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1959
           }
         },
         {
@@ -21333,6 +22421,40 @@
         },
         {
           "work": {
+            "id": 632,
+            "slug": "sloth",
+            "title": "Sloth",
+            "formatted_title": "\"Sloth\"",
+            "html_title": "<span class=\"work-title short-story\">\"Sloth\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1917
+          },
+          "author": {
+            "id": 302,
+            "slug": "florence-morse-kingsley",
+            "name": "Florence Morse Kingsley"
+          },
+          "firstAdaptation": {
+            "id": 717,
+            "slug": "sloth-1917",
+            "title": "Sloth",
+            "html_title": "<span class=\"film-title\">Sloth</span>",
+            "year": 1917,
+            "studio": "McClure Pictures",
+            "directors": "Theodore Marston"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1917
+          }
+        },
+        {
+          "work": {
             "id": 796,
             "slug": "the-man-hater",
             "title": "The Man Hater",
@@ -21537,6 +22659,40 @@
         },
         {
           "work": {
+            "id": 428,
+            "slug": "the-golden-bird",
+            "title": "The Golden Bird",
+            "formatted_title": "\"The Golden Bird\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Golden Bird\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 189,
+            "slug": "maria-thompson-daviess",
+            "name": "Maria Thompson Daviess"
+          },
+          "firstAdaptation": {
+            "id": 497,
+            "slug": "little-miss-hoover-1918",
+            "title": "Little Miss Hoover",
+            "html_title": "<span class=\"film-title\">Little Miss Hoover</span>",
+            "year": 1918,
+            "studio": "Famous Players-Lasky",
+            "directors": "John S. Robertson"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1918
+          }
+        },
+        {
+          "work": {
             "id": 989,
             "slug": "the-magnificent-jacala",
             "title": "The Magnificent Jacala",
@@ -21592,6 +22748,40 @@
             "year": 1918,
             "studio": "Triangle Film",
             "directors": "Thomas N. Heffron"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1918
+          }
+        },
+        {
+          "work": {
+            "id": 478,
+            "slug": "the-way-of-a-maid-with-a-man",
+            "title": "The Way of a Maid with a Man",
+            "formatted_title": "\"The Way of a Maid with a Man\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Way of a Maid with a Man\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1918
+          },
+          "author": {
+            "id": 216,
+            "slug": "ida-m-evans",
+            "name": "Ida M. Evans"
+          },
+          "firstAdaptation": {
+            "id": 548,
+            "slug": "the-way-of-a-man-with-a-maid-1918",
+            "title": "The Way of a Man with a Maid",
+            "html_title": "<span class=\"film-title\">The Way of a Man with a Maid</span>",
+            "year": 1918,
+            "studio": "Famous Players-Lasky",
+            "directors": "Donald Crisp"
           },
           "speed": {
             "delay": 0,
@@ -21741,6 +22931,74 @@
         },
         {
           "work": {
+            "id": 704,
+            "slug": "the-bleeders",
+            "title": "The Bleeders",
+            "formatted_title": "The Bleeders",
+            "html_title": "<span class=\"work-title\">The Bleeders</span>",
+            "work_type": "novella",
+            "publication_year": 1919
+          },
+          "author": {
+            "id": 352,
+            "slug": "margery-land-may",
+            "name": "Margery Land May"
+          },
+          "firstAdaptation": {
+            "id": 790,
+            "slug": "the-beauty-market-1919",
+            "title": "The Beauty Market",
+            "html_title": "<span class=\"film-title\">The Beauty Market</span>",
+            "year": 1919,
+            "studio": "Katherine MacDonald Pictures",
+            "directors": "Colin Campbell"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1919
+          }
+        },
+        {
+          "work": {
+            "id": 971,
+            "slug": "the-price-he-paid",
+            "title": "The Price He Paid",
+            "formatted_title": "The Price He Paid",
+            "html_title": "<span class=\"work-title\">The Price He Paid</span>",
+            "work_type": "poem",
+            "publication_year": 1913
+          },
+          "author": {
+            "id": 493,
+            "slug": "ella-wheeler-wilcox",
+            "name": "Ella Wheeler Wilcox"
+          },
+          "firstAdaptation": {
+            "id": 1083,
+            "slug": "the-price-he-paid-1914",
+            "title": "The Price He Paid",
+            "html_title": "<span class=\"film-title\">The Price He Paid</span>",
+            "year": 1914,
+            "studio": "Humanology Film Producing Co.",
+            "directors": "Lawrence B. McGill"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1914
+          }
+        },
+        {
+          "work": {
             "id": 1025,
             "slug": "the-papered-door",
             "title": "The Papered Door",
@@ -21877,6 +23135,40 @@
         },
         {
           "work": {
+            "id": 972,
+            "slug": "a-revery-in-the-station-house",
+            "title": "A Revery in the Station-House",
+            "formatted_title": "A Revery in the Station-House",
+            "html_title": "<span class=\"work-title\">A Revery in the Station-House</span>",
+            "work_type": "poem",
+            "publication_year": 1916
+          },
+          "author": {
+            "id": 493,
+            "slug": "ella-wheeler-wilcox",
+            "name": "Ella Wheeler Wilcox"
+          },
+          "firstAdaptation": {
+            "id": 1084,
+            "slug": "the-beautiful-lie-1917",
+            "title": "The Beautiful Lie",
+            "html_title": "<span class=\"film-title\">The Beautiful Lie</span>",
+            "year": 1917,
+            "studio": "Metro Pictures",
+            "directors": "John W. Noble"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1917
+          }
+        },
+        {
+          "work": {
             "id": 922,
             "slug": "persuasive-peggy",
             "title": "Persuasive Peggy",
@@ -21911,27 +23203,27 @@
         },
         {
           "work": {
-            "id": 972,
-            "slug": "reveries-of-a-station-house",
-            "title": "Reveries of a Station House",
-            "formatted_title": "Reveries of a Station House",
-            "html_title": "<span class=\"work-title\">Reveries of a Station House</span>",
-            "work_type": "poem",
+            "id": 577,
+            "slug": "the-house-of-little-shoes",
+            "title": "The House of Little Shoes",
+            "formatted_title": "The House of Little Shoes",
+            "html_title": "<span class=\"work-title\">The House of Little Shoes</span>",
+            "work_type": "novel",
             "publication_year": 1916
           },
           "author": {
-            "id": 493,
-            "slug": "ella-wheeler-wilcox",
-            "name": "Ella Wheeler Wilcox"
+            "id": 274,
+            "slug": "eleanor-marie-ingram",
+            "name": "Eleanor Marie Ingram"
           },
           "firstAdaptation": {
-            "id": 1084,
-            "slug": "the-beautiful-lie-1917",
-            "title": "The Beautiful Lie",
-            "html_title": "<span class=\"film-title\">The Beautiful Lie</span>",
+            "id": 659,
+            "slug": "little-shoes-1917",
+            "title": "Little Shoes",
+            "html_title": "<span class=\"film-title\">Little Shoes</span>",
             "year": 1917,
-            "studio": "Metro Pictures",
-            "directors": "John W. Noble"
+            "studio": "Essanay",
+            "directors": "Arthur Berthelet"
           },
           "speed": {
             "delay": 1,
@@ -22000,6 +23292,40 @@
             "year": 1917,
             "studio": "Famous Players",
             "directors": "J. Searle Dawley"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1917
+          }
+        },
+        {
+          "work": {
+            "id": 453,
+            "slug": "who-knows",
+            "title": "Who Knows?",
+            "formatted_title": "Who Knows?",
+            "html_title": "<span class=\"work-title\">Who Knows?</span>",
+            "work_type": "novel",
+            "publication_year": 1916
+          },
+          "author": {
+            "id": 200,
+            "slug": "ethel-smith-dorrance",
+            "name": "Ethel Smith Dorrance"
+          },
+          "firstAdaptation": {
+            "id": 523,
+            "slug": "who-knows-1917",
+            "title": "Who Knows?",
+            "html_title": "<span class=\"film-title\">Who Knows?</span>",
+            "year": 1917,
+            "studio": "Bernstein Film Productions",
+            "directors": "Jack Pratt"
           },
           "speed": {
             "delay": 1,
@@ -22272,6 +23598,40 @@
             "year": 1918,
             "studio": "American Film Co.",
             "directors": "Edward S. Sloman"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1918
+          }
+        },
+        {
+          "work": {
+            "id": 477,
+            "slug": "the-limousine-life",
+            "title": "The Limousine Life",
+            "formatted_title": "\"The Limousine Life\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Limousine Life\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1917
+          },
+          "author": {
+            "id": 216,
+            "slug": "ida-m-evans",
+            "name": "Ida M. Evans"
+          },
+          "firstAdaptation": {
+            "id": 547,
+            "slug": "limousine-life-1918",
+            "title": "Limousine Life",
+            "html_title": "<span class=\"film-title\">Limousine Life</span>",
+            "year": 1918,
+            "studio": "Triangle Film",
+            "directors": "Jack Dillon"
           },
           "speed": {
             "delay": 1,
@@ -23817,40 +25177,6 @@
         },
         {
           "work": {
-            "id": 645,
-            "slug": "with-this-ring",
-            "title": "With This Ring",
-            "formatted_title": "With This Ring",
-            "html_title": "<span class=\"work-title\">With This Ring</span>",
-            "work_type": "novel",
-            "publication_year": 1925
-          },
-          "author": {
-            "id": 311,
-            "slug": "fannie-heaslip-lea",
-            "name": "Fannie Heaslip Lea"
-          },
-          "firstAdaptation": {
-            "id": 731,
-            "slug": "with-this-ring-1925",
-            "title": "With This Ring",
-            "html_title": "<span class=\"film-title\">With This Ring</span>",
-            "year": 1925,
-            "studio": "B. P. Schulberg Productions",
-            "directors": "Fred Windermere"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1925
-          }
-        },
-        {
-          "work": {
             "id": 126,
             "slug": "footloose",
             "title": "Footloose",
@@ -23872,6 +25198,40 @@
             "year": 1926,
             "studio": "Warner Bros",
             "directors": "Roy Del Ruth"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1926
+          }
+        },
+        {
+          "work": {
+            "id": 977,
+            "slug": "god-gave-me-20-cents",
+            "title": "God Gave Me 20 Cents",
+            "formatted_title": "\"God Gave Me 20 Cents\"",
+            "html_title": "<span class=\"work-title short-story\">\"God Gave Me 20 Cents\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1926
+          },
+          "author": {
+            "id": 497,
+            "slug": "dixie-willson",
+            "name": "Dixie Willson"
+          },
+          "firstAdaptation": {
+            "id": 1090,
+            "slug": "god-gave-me-twenty-cents-1926",
+            "title": "God Gave Me Twenty Cents",
+            "html_title": "<span class=\"film-title\">God Gave Me Twenty Cents</span>",
+            "year": 1926,
+            "studio": "Famous Players-Lasky",
+            "directors": "Herbert Brenon"
           },
           "speed": {
             "delay": 0,
@@ -23983,6 +25343,108 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1927
+          }
+        },
+        {
+          "work": {
+            "id": 891,
+            "slug": "the-prince-of-headwaiters",
+            "title": "The Prince of Headwaiters",
+            "formatted_title": "\"The Prince of Headwaiters\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Prince of Headwaiters\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1927
+          },
+          "author": {
+            "id": 445,
+            "slug": "viola-brothers-shore",
+            "name": "Viola Brothers Shore"
+          },
+          "firstAdaptation": {
+            "id": 989,
+            "slug": "the-prince-of-headwaiters-1927",
+            "title": "The Prince of Headwaiters",
+            "html_title": "<span class=\"film-title\">The Prince of Headwaiters</span>",
+            "year": 1927,
+            "studio": "Sam E. Rork Productions",
+            "directors": "John Francis Dillon"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1927
+          }
+        },
+        {
+          "work": {
+            "id": 583,
+            "slug": "close-harmony",
+            "title": "Close Harmony",
+            "formatted_title": "\"Close Harmony\"",
+            "html_title": "<span class=\"work-title short-story\">\"Close Harmony\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1928
+          },
+          "author": {
+            "id": 279,
+            "slug": "elsie-janis",
+            "name": "Elsie Janis"
+          },
+          "firstAdaptation": {
+            "id": 665,
+            "slug": "close-harmony-1928",
+            "title": "Close Harmony",
+            "html_title": "<span class=\"film-title\">Close Harmony</span>",
+            "year": 1928,
+            "studio": "Paramount",
+            "directors": "John Cromwell|Edward Sutherland"
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1928
+          }
+        },
+        {
+          "work": {
+            "id": 584,
+            "slug": "listen-baby",
+            "title": "Listen, Baby!",
+            "formatted_title": "\"Listen, Baby!\"",
+            "html_title": "<span class=\"work-title short-story\">\"Listen, Baby!\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1928
+          },
+          "author": {
+            "id": 279,
+            "slug": "elsie-janis",
+            "name": "Elsie Janis"
+          },
+          "firstAdaptation": {
+            "id": 666,
+            "slug": "listen-baby-1928",
+            "title": "Listen Baby",
+            "html_title": "<span class=\"film-title\">Listen Baby</span>",
+            "year": 1928,
+            "studio": "Pathé Exchange",
+            "directors": null
+          },
+          "speed": {
+            "delay": 0,
+            "delayMonths": "Same year",
+            "isZeroDelay": true
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1928
           }
         },
         {
@@ -24566,10 +26028,10 @@
         {
           "work": {
             "id": 70,
-            "slug": "the-fighting-sherpherdess",
-            "title": "The Fighting Sherpherdess",
-            "formatted_title": "The Fighting Sherpherdess",
-            "html_title": "<span class=\"work-title\">The Fighting Sherpherdess</span>",
+            "slug": "the-fighting-shepherdess",
+            "title": "The Fighting Shepherdess",
+            "formatted_title": "The Fighting Shepherdess",
+            "html_title": "<span class=\"work-title\">The Fighting Shepherdess</span>",
             "work_type": "novel",
             "publication_year": 1919
           },
@@ -25721,6 +27183,40 @@
         },
         {
           "work": {
+            "id": 732,
+            "slug": "everything-money-can-buy",
+            "title": "Everything Money Can Buy",
+            "formatted_title": "\"Everything Money Can Buy\"",
+            "html_title": "<span class=\"work-title short-story\">\"Everything Money Can Buy\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1924
+          },
+          "author": {
+            "id": 371,
+            "slug": "ethel-watts-mumford",
+            "name": "Ethel Watts Mumford"
+          },
+          "firstAdaptation": {
+            "id": 826,
+            "slug": "after-business-hours-1925",
+            "title": "After Business Hours",
+            "html_title": "<span class=\"film-title\">After Business Hours</span>",
+            "year": 1925,
+            "studio": "Columbia",
+            "directors": "Mal St. Clair"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1925
+          }
+        },
+        {
+          "work": {
             "id": 116,
             "slug": "peacock-feathers",
             "title": "Peacock Feathers",
@@ -25980,6 +27476,40 @@
             "year": 1925,
             "studio": "Cinema Corp. of America",
             "directors": "Alan Hale"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1925
+          }
+        },
+        {
+          "work": {
+            "id": 645,
+            "slug": "with-this-ring",
+            "title": "With This Ring",
+            "formatted_title": "With This Ring",
+            "html_title": "<span class=\"work-title\">With This Ring</span>",
+            "work_type": "novel",
+            "publication_year": 1924
+          },
+          "author": {
+            "id": 311,
+            "slug": "fannie-heaslip-lea",
+            "name": "Fannie Heaslip Lea"
+          },
+          "firstAdaptation": {
+            "id": 731,
+            "slug": "with-this-ring-1925",
+            "title": "With This Ring",
+            "html_title": "<span class=\"film-title\">With This Ring</span>",
+            "year": 1925,
+            "studio": "B. P. Schulberg Productions",
+            "directors": "Fred Windermere"
           },
           "speed": {
             "delay": 1,
@@ -26367,6 +27897,40 @@
         },
         {
           "work": {
+            "id": 875,
+            "slug": "willie-the-worm",
+            "title": "Willie the Worm",
+            "formatted_title": "\"Willie the Worm\"",
+            "html_title": "<span class=\"work-title short-story\">\"Willie the Worm\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1926
+          },
+          "author": {
+            "id": 432,
+            "slug": "florence-ryerson",
+            "name": "Florence Ryerson"
+          },
+          "firstAdaptation": {
+            "id": 973,
+            "slug": "love-makes-em-wild-1927",
+            "title": "Love Makes 'em Wild",
+            "html_title": "<span class=\"film-title\">Love Makes 'em Wild</span>",
+            "year": 1927,
+            "studio": "Fox Film",
+            "directors": "Albert Ray"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1927
+          }
+        },
+        {
+          "work": {
             "id": 597,
             "slug": "black-butterflies",
             "title": "Black Butterflies",
@@ -26388,6 +27952,40 @@
             "year": 1928,
             "studio": "Carlos Productions",
             "directors": "James W. Horne"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1928
+          }
+        },
+        {
+          "work": {
+            "id": 978,
+            "slug": "help-yourself-to-hay",
+            "title": "Help Yourself to Hay",
+            "formatted_title": "\"Help Yourself to Hay\"",
+            "html_title": "<span class=\"work-title short-story\">\"Help Yourself to Hay\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1927
+          },
+          "author": {
+            "id": 497,
+            "slug": "dixie-willson",
+            "name": "Dixie Willson"
+          },
+          "firstAdaptation": {
+            "id": 1091,
+            "slug": "3-ring-marriage-1928",
+            "title": "3-Ring Marriage",
+            "html_title": "<span class=\"film-title\">3-Ring Marriage</span>",
+            "year": 1928,
+            "studio": "First National",
+            "directors": "Marshall Neilan"
           },
           "speed": {
             "delay": 1,
@@ -27444,40 +29042,6 @@
             "year": 1937,
             "studio": "Warner Bros",
             "directors": "Ray Enright"
-          },
-          "speed": {
-            "delay": 0,
-            "delayMonths": "Same year",
-            "isZeroDelay": true
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1937
-          }
-        },
-        {
-          "work": {
-            "id": 643,
-            "slug": "four-marys",
-            "title": "Four Marys",
-            "formatted_title": "Four Marys",
-            "html_title": "<span class=\"work-title\">Four Marys</span>",
-            "work_type": "novel",
-            "publication_year": 1937
-          },
-          "author": {
-            "id": 311,
-            "slug": "fannie-heaslip-lea",
-            "name": "Fannie Heaslip Lea"
-          },
-          "firstAdaptation": {
-            "id": 729,
-            "slug": "man-proof-1937",
-            "title": "Man-Proof",
-            "html_title": "<span class=\"film-title\">Man-Proof</span>",
-            "year": 1937,
-            "studio": "MGM",
-            "directors": "Richard Thorpe"
           },
           "speed": {
             "delay": 0,
@@ -28953,6 +30517,40 @@
         },
         {
           "work": {
+            "id": 434,
+            "slug": "living-up-to-lizzie",
+            "title": "Living Up to Lizzie",
+            "formatted_title": "Living Up to Lizzie",
+            "html_title": "<span class=\"work-title\">Living Up to Lizzie</span>",
+            "work_type": "nonfiction",
+            "publication_year": 1934
+          },
+          "author": {
+            "id": 194,
+            "slug": "lillian-day",
+            "name": "Lillian Day"
+          },
+          "firstAdaptation": {
+            "id": 503,
+            "slug": "personal-maids-secret-1935",
+            "title": "Personal Maid's Secret",
+            "html_title": "<span class=\"film-title\">Personal Maid's Secret</span>",
+            "year": 1935,
+            "studio": "Warner Bros",
+            "directors": "Arthur Greville Collins"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1935
+          }
+        },
+        {
+          "work": {
             "id": 838,
             "slug": "the-state-versus-elinor-norton",
             "title": "The State versus Elinor Norton",
@@ -29293,6 +30891,40 @@
         },
         {
           "work": {
+            "id": 422,
+            "slug": "dangerous-number",
+            "title": "Dangerous Number",
+            "formatted_title": "\"Dangerous Number\"",
+            "html_title": "<span class=\"work-title short-story\">\"Dangerous Number\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1936
+          },
+          "author": {
+            "id": 186,
+            "slug": "leona-dalrymple",
+            "name": "Leona Dalrymple"
+          },
+          "firstAdaptation": {
+            "id": 491,
+            "slug": "dangerous-number-1937",
+            "title": "Dangerous Number",
+            "html_title": "<span class=\"film-title\">Dangerous Number</span>",
+            "year": 1937,
+            "studio": "MGM",
+            "directors": "Richard Thorpe"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1937
+          }
+        },
+        {
+          "work": {
             "id": 459,
             "slug": "dead-yesterday",
             "title": "Dead Yesterday",
@@ -29348,6 +30980,40 @@
             "year": 1937,
             "studio": "Universal",
             "directors": "Lesley Selander"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1937
+          }
+        },
+        {
+          "work": {
+            "id": 643,
+            "slug": "the-four-marys",
+            "title": "The Four Marys",
+            "formatted_title": "\"The Four Marys\"",
+            "html_title": "<span class=\"work-title short-story\">\"The Four Marys\"</span>",
+            "work_type": "short_story",
+            "publication_year": 1936
+          },
+          "author": {
+            "id": 311,
+            "slug": "fannie-heaslip-lea",
+            "name": "Fannie Heaslip Lea"
+          },
+          "firstAdaptation": {
+            "id": 729,
+            "slug": "man-proof-1937",
+            "title": "Man-Proof",
+            "html_title": "<span class=\"film-title\">Man-Proof</span>",
+            "year": 1937,
+            "studio": "MGM",
+            "directors": "Richard Thorpe"
           },
           "speed": {
             "delay": 1,
@@ -30417,6 +32083,40 @@
         },
         {
           "work": {
+            "id": 901,
+            "slug": "you-were-there",
+            "title": "You Were There",
+            "formatted_title": "You Were There",
+            "html_title": "<span class=\"work-title\">You Were There</span>",
+            "work_type": "novel",
+            "publication_year": 1945
+          },
+          "author": {
+            "id": 454,
+            "slug": "thelma-strabel",
+            "name": "Thelma Strabel"
+          },
+          "firstAdaptation": {
+            "id": 1002,
+            "slug": "undercurrent-1946",
+            "title": "Undercurrent",
+            "html_title": "<span class=\"film-title\">Undercurrent</span>",
+            "year": 1946,
+            "studio": "MGM",
+            "directors": "Vincente Minnelli"
+          },
+          "speed": {
+            "delay": 1,
+            "delayMonths": "1 year",
+            "isZeroDelay": false
+          },
+          "context": {
+            "totalAdaptations": 1,
+            "lastAdaptation": 1946
+          }
+        },
+        {
+          "work": {
             "id": 904,
             "slug": "desert-fury",
             "title": "Desert Fury",
@@ -30798,7 +32498,7 @@
             "title": "The Doctor Wears Three Faces",
             "formatted_title": "The Doctor Wears Three Faces",
             "html_title": "<span class=\"work-title\">The Doctor Wears Three Faces</span>",
-            "work_type": "novel",
+            "work_type": "nonfiction",
             "publication_year": 1949
           },
           "author": {
@@ -30959,40 +32659,6 @@
           "context": {
             "totalAdaptations": 1,
             "lastAdaptation": 1952
-          }
-        },
-        {
-          "work": {
-            "id": 530,
-            "slug": "case-file-fbi",
-            "title": "Case File: FBI",
-            "formatted_title": "Case File: FBI",
-            "html_title": "<span class=\"work-title\">Case File: FBI</span>",
-            "work_type": "novel",
-            "publication_year": 1953
-          },
-          "author": {
-            "id": 241,
-            "slug": "mildred-nixon-gordon",
-            "name": "Mildred Nixon Gordon"
-          },
-          "firstAdaptation": {
-            "id": 606,
-            "slug": "down-three-dark-streets-1954",
-            "title": "Down Three Dark Streets",
-            "html_title": "<span class=\"film-title\">Down Three Dark Streets</span>",
-            "year": 1954,
-            "studio": "Challenge Pictures",
-            "directors": "Arnold Laven"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1954
           }
         },
         {
@@ -31303,40 +32969,6 @@
         },
         {
           "work": {
-            "id": 992,
-            "slug": "ask-any-girl",
-            "title": "Ask Any Girl",
-            "formatted_title": "Ask Any Girl",
-            "html_title": "<span class=\"work-title\">Ask Any Girl</span>",
-            "work_type": "novel",
-            "publication_year": 1958
-          },
-          "author": {
-            "id": 502,
-            "slug": "winifred-wolfe",
-            "name": "Winifred Wolfe"
-          },
-          "firstAdaptation": {
-            "id": 1105,
-            "slug": "ask-any-girl-1959",
-            "title": "Ask Any Girl",
-            "html_title": "<span class=\"film-title\">Ask Any Girl</span>",
-            "year": 1959,
-            "studio": "MGM",
-            "directors": "Charles Walters"
-          },
-          "speed": {
-            "delay": 1,
-            "delayMonths": "1 year",
-            "isZeroDelay": false
-          },
-          "context": {
-            "totalAdaptations": 1,
-            "lastAdaptation": 1959
-          }
-        },
-        {
-          "work": {
             "id": 1027,
             "slug": "the-best-of-everything",
             "title": "The Best of Everything",
@@ -31506,31 +33138,31 @@
     "topStudios": [
       {
         "studio": "MGM",
-        "count": 26
+        "count": 27
       },
       {
         "studio": "Warner Bros",
-        "count": 26
-      },
-      {
-        "studio": "Fox Film",
-        "count": 24
+        "count": 27
       },
       {
         "studio": "Famous Players-Lasky",
-        "count": 22
+        "count": 25
+      },
+      {
+        "studio": "Fox Film",
+        "count": 25
+      },
+      {
+        "studio": "Paramount",
+        "count": 21
       },
       {
         "studio": "Universal",
         "count": 20
       },
       {
-        "studio": "Paramount",
-        "count": 20
-      },
-      {
         "studio": "First National",
-        "count": 17
+        "count": 18
       },
       {
         "studio": "20th Century Fox",
@@ -31542,18 +33174,18 @@
       },
       {
         "studio": "Columbia",
-        "count": 8
+        "count": 9
       }
     ]
   },
   "stats": {
-    "total": 308,
-    "sameYearCount": 95,
-    "oneYearCount": 213,
+    "total": 324,
+    "sameYearCount": 101,
+    "oneYearCount": 223,
     "peakDecade": "1920"
   },
   "metadata": {
-    "generated": "2026-06-11T20:04:56.934Z",
+    "generated": "2026-11-06T01:48:45.380Z",
     "version": "2.0"
   }
 }

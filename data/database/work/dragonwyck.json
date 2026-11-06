@@ -5,7 +5,7 @@
   "formatted_title": "Dragonwyck",
   "html_title": "<span class=\"work-title\">Dragonwyck</span>",
   "work_type": "novel",
-  "publication_year": 1944,
+  "publication_year": 1943,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -43,7 +43,7 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 2
+      "years_after_publication": 3
     }
   ],
   "adaptation_gaps": [],
@@ -75,7 +75,15 @@
       "media": []
     }
   ],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Ladies' Home Journal",
+    "magazine_pub_date": "1943-08-01",
+    "magazine_issue_info": "v60 #8-12",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1943LHJAUG%27",
+    "serialized": true,
+    "serial_parts": 5
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -85,5 +93,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04 17:06:35.659603"
+  "last_updated": "2026-06-11 21:41:56.826831"
 }

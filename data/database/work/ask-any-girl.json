@@ -2,10 +2,10 @@
   "id": 992,
   "slug": "ask-any-girl",
   "title": "Ask Any Girl",
-  "formatted_title": "Ask Any Girl",
-  "html_title": "<span class=\"work-title\">Ask Any Girl</span>",
-  "work_type": "novel",
-  "publication_year": 1958,
+  "formatted_title": "\"Ask Any Girl\"",
+  "html_title": "<span class=\"work-title short-story\">\"Ask Any Girl\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1957,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -43,12 +43,20 @@
         "Romantic comedy"
       ],
       "has_media": true,
-      "years_after_publication": 1
+      "years_after_publication": 2
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Redbook",
+    "magazine_pub_date": "1957-01-01",
+    "magazine_issue_info": "Vol. 108 No. 3",
+    "digitized_url": "https://archive.org/details/sim_redbook_1957-01_108_3",
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1957RBKJAN%27",
+    "serialized": false,
+    "serial_parts": null
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -58,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04 17:06:35.659603"
+  "last_updated": "2026-06-11 21:57:16.393952"
 }

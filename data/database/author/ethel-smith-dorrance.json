@@ -96,31 +96,20 @@
         "Comedy"
       ],
       "has_media": true,
-      "work_title": "Whitewashed Walls",
-      "work_html_title": "<span class=\"work-title\">Whitewashed Walls</span>",
+      "work_title": "The Whitewashed Wall",
+      "work_html_title": "<span class=\"work-title\">The Whitewashed Wall</span>",
       "work_id": 452
     }
   ],
   "adapted_works": [
     {
       "id": 452,
-      "slug": "whitewashed-walls",
-      "title": "Whitewashed Walls",
-      "formatted_title": "Whitewashed Walls",
-      "html_title": "<span class=\"work-title\">Whitewashed Walls</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 453,
-      "slug": "who-knows",
-      "title": "Who Knows?",
-      "formatted_title": "Who Knows?",
-      "html_title": "<span class=\"work-title\">Who Knows?</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "slug": "the-whitewashed-wall",
+      "title": "The Whitewashed Wall",
+      "formatted_title": "The Whitewashed Wall",
+      "html_title": "<span class=\"work-title\">The Whitewashed Wall</span>",
+      "work_type": "novella",
+      "publication_year": 1914,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -134,16 +123,27 @@
       "publication_year": 1916,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 453,
+      "slug": "who-knows",
+      "title": "Who Knows?",
+      "formatted_title": "Who Knows?",
+      "html_title": "<span class=\"work-title\">Who Knows?</span>",
+      "work_type": "novel",
+      "publication_year": 1916,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
     "id": 452,
-    "slug": "whitewashed-walls",
-    "title": "Whitewashed Walls",
-    "formatted_title": "Whitewashed Walls",
-    "html_title": "<span class=\"work-title\">Whitewashed Walls</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "slug": "the-whitewashed-wall",
+    "title": "The Whitewashed Wall",
+    "formatted_title": "The Whitewashed Wall",
+    "html_title": "<span class=\"work-title\">The Whitewashed Wall</span>",
+    "work_type": "novella",
+    "publication_year": 1914,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

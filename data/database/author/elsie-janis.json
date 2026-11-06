@@ -75,8 +75,8 @@
       "directors": null,
       "genres": [],
       "has_media": false,
-      "work_title": "Listen Baby",
-      "work_html_title": "<span class=\"work-title\">Listen Baby</span>",
+      "work_title": "Listen, Baby!",
+      "work_html_title": "<span class=\"work-title short-story\">\"Listen, Baby!\"</span>",
       "work_id": 584
     }
   ],
@@ -88,18 +88,18 @@
       "formatted_title": "\"Close Harmony\"",
       "html_title": "<span class=\"work-title short-story\">\"Close Harmony\"</span>",
       "work_type": "short_story",
-      "publication_year": null,
+      "publication_year": 1928,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
       "id": 584,
       "slug": "listen-baby",
-      "title": "Listen Baby",
-      "formatted_title": "Listen Baby",
-      "html_title": "<span class=\"work-title\">Listen Baby</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "title": "Listen, Baby!",
+      "formatted_title": "\"Listen, Baby!\"",
+      "html_title": "<span class=\"work-title short-story\">\"Listen, Baby!\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1928,
       "adaptation_count": 1,
       "is_remake_champion": false
     }
@@ -111,7 +111,7 @@
     "formatted_title": "\"Close Harmony\"",
     "html_title": "<span class=\"work-title short-story\">\"Close Harmony\"</span>",
     "work_type": "short_story",
-    "publication_year": null,
+    "publication_year": 1928,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

@@ -5,7 +5,7 @@
   "formatted_title": "Peabody's Mermaid",
   "html_title": "<span class=\"work-title\">Peabody's Mermaid</span>",
   "work_type": "novel",
-  "publication_year": 1946,
+  "publication_year": 1945,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -43,12 +43,20 @@
         "Comedy"
       ],
       "has_media": true,
-      "years_after_publication": 2
+      "years_after_publication": 3
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Cosmopolitan",
+    "magazine_pub_date": "1945-10-01",
+    "magazine_issue_info": "Vol. 119 No. 4-5",
+    "digitized_url": "https://archive.org/details/sim_cosmopolitan_1945-10_119_4",
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1945CMPOCT%27",
+    "serialized": true,
+    "serial_parts": 2
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -58,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04 17:06:35.659603"
+  "last_updated": "2026-06-11 21:21:05.861334"
 }

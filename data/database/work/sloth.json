@@ -2,10 +2,10 @@
   "id": 632,
   "slug": "sloth",
   "title": "Sloth",
-  "formatted_title": "Sloth",
-  "html_title": "<span class=\"work-title\">Sloth</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "formatted_title": "\"Sloth\"",
+  "html_title": "<span class=\"work-title short-story\">\"Sloth\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1917,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -43,12 +43,20 @@
         "Melodrama"
       ],
       "has_media": true,
-      "years_after_publication": null
+      "years_after_publication": 0
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Ladies' World",
+    "magazine_pub_date": "1917-02-01",
+    "magazine_issue_info": "v38 #2",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1917$kLDYWLFEB%27",
+    "serialized": false,
+    "serial_parts": null
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -58,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04 17:06:35.659603"
+  "last_updated": "2026-06-11 19:03:06.238247"
 }

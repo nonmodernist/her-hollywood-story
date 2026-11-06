@@ -61,7 +61,7 @@
       ],
       "has_media": true,
       "work_title": "Sloth",
-      "work_html_title": "<span class=\"work-title\">Sloth</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Sloth\"</span>",
       "work_id": 632
     },
     {
@@ -99,17 +99,6 @@
   ],
   "adapted_works": [
     {
-      "id": 632,
-      "slug": "sloth",
-      "title": "Sloth",
-      "formatted_title": "Sloth",
-      "html_title": "<span class=\"work-title\">Sloth</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
       "id": 633,
       "slug": "to-the-highest-bidder",
       "title": "To the Highest Bidder",
@@ -130,16 +119,27 @@
       "publication_year": 1913,
       "adaptation_count": 1,
       "is_remake_champion": false
+    },
+    {
+      "id": 632,
+      "slug": "sloth",
+      "title": "Sloth",
+      "formatted_title": "\"Sloth\"",
+      "html_title": "<span class=\"work-title short-story\">\"Sloth\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1917,
+      "adaptation_count": 1,
+      "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 632,
-    "slug": "sloth",
-    "title": "Sloth",
-    "formatted_title": "Sloth",
-    "html_title": "<span class=\"work-title\">Sloth</span>",
+    "id": 633,
+    "slug": "to-the-highest-bidder",
+    "title": "To the Highest Bidder",
+    "formatted_title": "To the Highest Bidder",
+    "html_title": "<span class=\"work-title\">To the Highest Bidder</span>",
     "work_type": "novel",
-    "publication_year": null,
+    "publication_year": 1911,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

@@ -76,8 +76,8 @@
         "Drama"
       ],
       "has_media": true,
-      "work_title": "Reveries of a Station House",
-      "work_html_title": "<span class=\"work-title\">Reveries of a Station House</span>",
+      "work_title": "A Revery in the Station-House",
+      "work_html_title": "<span class=\"work-title\">A Revery in the Station-House</span>",
       "work_id": 972
     }
   ],
@@ -89,16 +89,16 @@
       "formatted_title": "The Price He Paid",
       "html_title": "<span class=\"work-title\">The Price He Paid</span>",
       "work_type": "poem",
-      "publication_year": null,
+      "publication_year": 1913,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
     {
       "id": 972,
-      "slug": "reveries-of-a-station-house",
-      "title": "Reveries of a Station House",
-      "formatted_title": "Reveries of a Station House",
-      "html_title": "<span class=\"work-title\">Reveries of a Station House</span>",
+      "slug": "a-revery-in-the-station-house",
+      "title": "A Revery in the Station-House",
+      "formatted_title": "A Revery in the Station-House",
+      "html_title": "<span class=\"work-title\">A Revery in the Station-House</span>",
       "work_type": "poem",
       "publication_year": 1916,
       "adaptation_count": 1,
@@ -112,7 +112,7 @@
     "formatted_title": "The Price He Paid",
     "html_title": "<span class=\"work-title\">The Price He Paid</span>",
     "work_type": "poem",
-    "publication_year": null,
+    "publication_year": 1913,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

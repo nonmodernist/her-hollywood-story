@@ -2,10 +2,10 @@
   "id": 993,
   "slug": "if-a-man-answers",
   "title": "If a Man Answers",
-  "formatted_title": "If a Man Answers",
-  "html_title": "<span class=\"work-title\">If a Man Answers</span>",
-  "work_type": "novel",
-  "publication_year": null,
+  "formatted_title": "\"If a Man Answers\"",
+  "html_title": "<span class=\"work-title short-story\">\"If a Man Answers\"</span>",
+  "work_type": "short_story",
+  "publication_year": 1955,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -43,7 +43,7 @@
         "Comedy"
       ],
       "has_media": true,
-      "years_after_publication": null
+      "years_after_publication": 7
     }
   ],
   "adaptation_gaps": [],
@@ -75,7 +75,15 @@
       "media": []
     }
   ],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Redbook",
+    "magazine_pub_date": "1955-02-01",
+    "magazine_issue_info": "Vol. 104 No. 4",
+    "digitized_url": "https://archive.org/details/sim_redbook_1955-02_104_4",
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1955RBKFEB%27",
+    "serialized": false,
+    "serial_parts": null
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -85,5 +93,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04 17:06:35.659603"
+  "last_updated": "2026-06-11 21:58:17.373020"
 }

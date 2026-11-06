@@ -61,8 +61,8 @@
         "Drama"
       ],
       "has_media": true,
-      "work_title": "Case File: FBI",
-      "work_html_title": "<span class=\"work-title\">Case File: FBI</span>",
+      "work_title": "Case File—F.B.I.: The Faceless Killer",
+      "work_html_title": "<span class=\"work-title\">Case File—F.B.I.: The Faceless Killer</span>",
       "work_id": 530
     },
     {
@@ -111,24 +111,24 @@
       "is_remake_champion": false
     },
     {
+      "id": 530,
+      "slug": "case-filefbi-the-faceless-killer",
+      "title": "Case File—F.B.I.: The Faceless Killer",
+      "formatted_title": "Case File—F.B.I.: The Faceless Killer",
+      "html_title": "<span class=\"work-title\">Case File—F.B.I.: The Faceless Killer</span>",
+      "work_type": "novella",
+      "publication_year": 1914,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 532,
       "slug": "operation-terror",
       "title": "Operation Terror",
       "formatted_title": "Operation Terror",
       "html_title": "<span class=\"work-title\">Operation Terror</span>",
       "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 530,
-      "slug": "case-file-fbi",
-      "title": "Case File: FBI",
-      "formatted_title": "Case File: FBI",
-      "html_title": "<span class=\"work-title\">Case File: FBI</span>",
-      "work_type": "novel",
-      "publication_year": 1953,
+      "publication_year": 1960,
       "adaptation_count": 1,
       "is_remake_champion": false
     }

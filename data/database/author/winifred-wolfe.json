@@ -62,7 +62,7 @@
       ],
       "has_media": true,
       "work_title": "Ask Any Girl",
-      "work_html_title": "<span class=\"work-title\">Ask Any Girl</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Ask Any Girl\"</span>",
       "work_id": 992
     },
     {
@@ -78,7 +78,7 @@
       ],
       "has_media": true,
       "work_title": "If a Man Answers",
-      "work_html_title": "<span class=\"work-title\">If a Man Answers</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"If a Man Answers\"</span>",
       "work_id": 993
     }
   ],
@@ -87,10 +87,10 @@
       "id": 993,
       "slug": "if-a-man-answers",
       "title": "If a Man Answers",
-      "formatted_title": "If a Man Answers",
-      "html_title": "<span class=\"work-title\">If a Man Answers</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"If a Man Answers\"",
+      "html_title": "<span class=\"work-title short-story\">\"If a Man Answers\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1955,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -98,10 +98,10 @@
       "id": 992,
       "slug": "ask-any-girl",
       "title": "Ask Any Girl",
-      "formatted_title": "Ask Any Girl",
-      "html_title": "<span class=\"work-title\">Ask Any Girl</span>",
-      "work_type": "novel",
-      "publication_year": 1958,
+      "formatted_title": "\"Ask Any Girl\"",
+      "html_title": "<span class=\"work-title short-story\">\"Ask Any Girl\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1957,
       "adaptation_count": 1,
       "is_remake_champion": false
     }
@@ -110,10 +110,10 @@
     "id": 993,
     "slug": "if-a-man-answers",
     "title": "If a Man Answers",
-    "formatted_title": "If a Man Answers",
-    "html_title": "<span class=\"work-title\">If a Man Answers</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "formatted_title": "\"If a Man Answers\"",
+    "html_title": "<span class=\"work-title short-story\">\"If a Man Answers\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1955,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

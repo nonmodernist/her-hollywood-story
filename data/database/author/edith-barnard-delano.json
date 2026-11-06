@@ -88,20 +88,20 @@
         "Drama"
       ],
       "has_media": true,
-      "work_title": "Flaming Ramparts",
-      "work_html_title": "<span class=\"work-title\">Flaming Ramparts</span>",
+      "work_title": "The Flaming Ramparts",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Flaming Ramparts\"</span>",
       "work_id": 439
     }
   ],
   "adapted_works": [
     {
       "id": 439,
-      "slug": "flaming-ramparts",
-      "title": "Flaming Ramparts",
-      "formatted_title": "Flaming Ramparts",
-      "html_title": "<span class=\"work-title\">Flaming Ramparts</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "slug": "the-flaming-ramparts",
+      "title": "The Flaming Ramparts",
+      "formatted_title": "\"The Flaming Ramparts\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Flaming Ramparts\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1914,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -130,12 +130,12 @@
   ],
   "most_adapted_work": {
     "id": 439,
-    "slug": "flaming-ramparts",
-    "title": "Flaming Ramparts",
-    "formatted_title": "Flaming Ramparts",
-    "html_title": "<span class=\"work-title\">Flaming Ramparts</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "slug": "the-flaming-ramparts",
+    "title": "The Flaming Ramparts",
+    "formatted_title": "\"The Flaming Ramparts\"",
+    "html_title": "<span class=\"work-title short-story\">\"The Flaming Ramparts\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1914,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

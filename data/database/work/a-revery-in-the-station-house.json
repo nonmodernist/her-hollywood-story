@@ -1,0 +1,70 @@
+{
+  "id": 972,
+  "slug": "a-revery-in-the-station-house",
+  "title": "A Revery in the Station-House",
+  "formatted_title": "A Revery in the Station-House",
+  "html_title": "<span class=\"work-title\">A Revery in the Station-House</span>",
+  "work_type": "poem",
+  "publication_year": 1916,
+  "plot_summary": null,
+  "plot_summary_html": "",
+  "literary_significance": null,
+  "literary_significance_html": "",
+  "attribution_notes": null,
+  "author": {
+    "id": 493,
+    "slug": "ella-wheeler-wilcox",
+    "name": "Ella Wheeler Wilcox",
+    "birth_year": 1850,
+    "death_year": 1919,
+    "film_count": 2
+  },
+  "stats": {
+    "adaptation_count": 1,
+    "year_span": 0,
+    "is_remake_champion": false,
+    "photoplay_edition_count": 0,
+    "average_gap_between_adaptations": null
+  },
+  "patterns": {
+    "is_remake_champion": false,
+    "remake_champion_rank": null
+  },
+  "adaptations": [
+    {
+      "id": 1084,
+      "slug": "the-beautiful-lie-1917",
+      "title": "The Beautiful Lie",
+      "html_title": "<span class=\"film-title\">The Beautiful Lie</span>",
+      "year": 1917,
+      "studio": "Metro Pictures",
+      "directors": "John W. Noble",
+      "genres": [
+        "Drama"
+      ],
+      "has_media": true,
+      "years_after_publication": 1
+    }
+  ],
+  "adaptation_gaps": [],
+  "photoplay_editions": [],
+  "magazine_publication": {
+    "magazine_title": "Cosmopolitan",
+    "magazine_pub_date": "1916-02-01",
+    "magazine_issue_info": "Vol. 60 No. 3",
+    "digitized_url": "http://hdl.handle.net/2027/mdp.39015043532137",
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1916CMPFEB%27",
+    "serialized": false,
+    "serial_parts": null
+  },
+  "external_urls": [],
+  "external_ids": {
+    "gutenberg_id": null,
+    "internet_archive_id": null,
+    "openlibrary_id": null,
+    "oclc_number": null,
+    "wikidata_id": null,
+    "viaf_id": null
+  },
+  "last_updated": "2026-06-11 21:53:39.726513"
+}

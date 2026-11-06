@@ -60,8 +60,8 @@
         "Melodrama"
       ],
       "has_media": true,
-      "work_title": "God Gave me Twenty Cents",
-      "work_html_title": "<span class=\"work-title\">God Gave me Twenty Cents</span>",
+      "work_title": "God Gave Me 20 Cents",
+      "work_html_title": "<span class=\"work-title short-story\">\"God Gave Me 20 Cents\"</span>",
       "work_id": 977
     },
     {
@@ -77,7 +77,7 @@
       ],
       "has_media": true,
       "work_title": "Here Y'Are Brother",
-      "work_html_title": "<span class=\"work-title\">Here Y'Are Brother</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Here Y'Are Brother\"</span>",
       "work_id": 979
     },
     {
@@ -93,19 +93,30 @@
       ],
       "has_media": true,
       "work_title": "Help Yourself to Hay",
-      "work_html_title": "<span class=\"work-title\">Help Yourself to Hay</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"Help Yourself to Hay\"</span>",
       "work_id": 978
     }
   ],
   "adapted_works": [
     {
+      "id": 979,
+      "slug": "here-yare-brother",
+      "title": "Here Y'Are Brother",
+      "formatted_title": "\"Here Y'Are Brother\"",
+      "html_title": "<span class=\"work-title short-story\">\"Here Y'Are Brother\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1925,
+      "adaptation_count": 1,
+      "is_remake_champion": false
+    },
+    {
       "id": 977,
-      "slug": "god-gave-me-twenty-cents",
-      "title": "God Gave me Twenty Cents",
-      "formatted_title": "God Gave me Twenty Cents",
-      "html_title": "<span class=\"work-title\">God Gave me Twenty Cents</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "slug": "god-gave-me-20-cents",
+      "title": "God Gave Me 20 Cents",
+      "formatted_title": "\"God Gave Me 20 Cents\"",
+      "html_title": "<span class=\"work-title short-story\">\"God Gave Me 20 Cents\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1926,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -113,33 +124,22 @@
       "id": 978,
       "slug": "help-yourself-to-hay",
       "title": "Help Yourself to Hay",
-      "formatted_title": "Help Yourself to Hay",
-      "html_title": "<span class=\"work-title\">Help Yourself to Hay</span>",
-      "work_type": "novel",
-      "publication_year": null,
-      "adaptation_count": 1,
-      "is_remake_champion": false
-    },
-    {
-      "id": 979,
-      "slug": "here-yare-brother",
-      "title": "Here Y'Are Brother",
-      "formatted_title": "Here Y'Are Brother",
-      "html_title": "<span class=\"work-title\">Here Y'Are Brother</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"Help Yourself to Hay\"",
+      "html_title": "<span class=\"work-title short-story\">\"Help Yourself to Hay\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1927,
       "adaptation_count": 1,
       "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
-    "id": 977,
-    "slug": "god-gave-me-twenty-cents",
-    "title": "God Gave me Twenty Cents",
-    "formatted_title": "God Gave me Twenty Cents",
-    "html_title": "<span class=\"work-title\">God Gave me Twenty Cents</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "id": 979,
+    "slug": "here-yare-brother",
+    "title": "Here Y'Are Brother",
+    "formatted_title": "\"Here Y'Are Brother\"",
+    "html_title": "<span class=\"work-title short-story\">\"Here Y'Are Brother\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1925,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

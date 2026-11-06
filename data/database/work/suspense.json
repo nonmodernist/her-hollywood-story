@@ -48,7 +48,15 @@
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "All-Story Weekly",
+    "magazine_pub_date": "1918-04-06",
+    "magazine_issue_info": "Vol. LXXXII Number 4, Vol. LXXXIII Number 1-4, Vol. LXXXIV Number 1",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1918ASWAPR_6%27",
+    "serialized": true,
+    "serial_parts": 6
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -58,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04 17:06:35.659603"
+  "last_updated": "2026-06-11 21:32:55.260249"
 }

@@ -58,7 +58,7 @@
       ],
       "has_media": true,
       "work_title": "In the Bishop's Carriage",
-      "work_html_title": "<span class=\"work-title\">In the Bishop's Carriage</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"In the Bishop's Carriage\"</span>",
       "work_id": 716
     },
     {
@@ -90,7 +90,7 @@
       ],
       "has_media": true,
       "work_title": "In the Bishop's Carriage",
-      "work_html_title": "<span class=\"work-title\">In the Bishop's Carriage</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"In the Bishop's Carriage\"</span>",
       "work_id": 716
     }
   ],
@@ -99,10 +99,10 @@
       "id": 716,
       "slug": "in-the-bishops-carriage",
       "title": "In the Bishop's Carriage",
-      "formatted_title": "In the Bishop's Carriage",
-      "html_title": "<span class=\"work-title\">In the Bishop's Carriage</span>",
-      "work_type": "novel",
-      "publication_year": 1904,
+      "formatted_title": "\"In the Bishop's Carriage\"",
+      "html_title": "<span class=\"work-title short-story\">\"In the Bishop's Carriage\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1903,
       "adaptation_count": 2,
       "is_remake_champion": false
     },
@@ -122,10 +122,10 @@
     "id": 716,
     "slug": "in-the-bishops-carriage",
     "title": "In the Bishop's Carriage",
-    "formatted_title": "In the Bishop's Carriage",
-    "html_title": "<span class=\"work-title\">In the Bishop's Carriage</span>",
-    "work_type": "novel",
-    "publication_year": 1904,
+    "formatted_title": "\"In the Bishop's Carriage\"",
+    "html_title": "<span class=\"work-title short-story\">\"In the Bishop's Carriage\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1903,
     "adaptation_count": 2,
     "is_remake_champion": false
   },

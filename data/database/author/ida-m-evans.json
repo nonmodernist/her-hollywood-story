@@ -56,8 +56,8 @@
         "Comedy"
       ],
       "has_media": true,
-      "work_title": "Limousine Life",
-      "work_html_title": "<span class=\"work-title\">Limousine Life</span>",
+      "work_title": "The Limousine Life",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Limousine Life\"</span>",
       "work_id": 477
     },
     {
@@ -73,19 +73,19 @@
       ],
       "has_media": true,
       "work_title": "The Way of a Maid with a Man",
-      "work_html_title": "<span class=\"work-title\">The Way of a Maid with a Man</span>",
+      "work_html_title": "<span class=\"work-title short-story\">\"The Way of a Maid with a Man\"</span>",
       "work_id": 478
     }
   ],
   "adapted_works": [
     {
       "id": 477,
-      "slug": "limousine-life",
-      "title": "Limousine Life",
-      "formatted_title": "Limousine Life",
-      "html_title": "<span class=\"work-title\">Limousine Life</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "slug": "the-limousine-life",
+      "title": "The Limousine Life",
+      "formatted_title": "\"The Limousine Life\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Limousine Life\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1917,
       "adaptation_count": 1,
       "is_remake_champion": false
     },
@@ -93,22 +93,22 @@
       "id": 478,
       "slug": "the-way-of-a-maid-with-a-man",
       "title": "The Way of a Maid with a Man",
-      "formatted_title": "The Way of a Maid with a Man",
-      "html_title": "<span class=\"work-title\">The Way of a Maid with a Man</span>",
-      "work_type": "novel",
-      "publication_year": null,
+      "formatted_title": "\"The Way of a Maid with a Man\"",
+      "html_title": "<span class=\"work-title short-story\">\"The Way of a Maid with a Man\"</span>",
+      "work_type": "short_story",
+      "publication_year": 1918,
       "adaptation_count": 1,
       "is_remake_champion": false
     }
   ],
   "most_adapted_work": {
     "id": 477,
-    "slug": "limousine-life",
-    "title": "Limousine Life",
-    "formatted_title": "Limousine Life",
-    "html_title": "<span class=\"work-title\">Limousine Life</span>",
-    "work_type": "novel",
-    "publication_year": null,
+    "slug": "the-limousine-life",
+    "title": "The Limousine Life",
+    "formatted_title": "\"The Limousine Life\"",
+    "html_title": "<span class=\"work-title short-story\">\"The Limousine Life\"</span>",
+    "work_type": "short_story",
+    "publication_year": 1917,
     "adaptation_count": 1,
     "is_remake_champion": false
   },

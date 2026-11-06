@@ -66,7 +66,15 @@
     }
   ],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Pictorial Review",
+    "magazine_pub_date": "1925-08-01",
+    "magazine_issue_info": "Vol. XXVI No. 11-12, Vol. XXVII No. 1-2",
+    "digitized_url": null,
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1925PIRAUG%27",
+    "serialized": true,
+    "serial_parts": null
+  },
   "external_urls": [
     {
       "source": "Open Library",
@@ -87,5 +95,5 @@
     "wikidata_id": "Q8000640",
     "viaf_id": null
   },
-  "last_updated": "2025-08-16 17:40:05.394634"
+  "last_updated": "2026-06-11 19:47:57.141080"
 }

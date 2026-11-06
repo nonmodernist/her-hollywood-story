@@ -5,7 +5,7 @@
   "formatted_title": "\"Close Harmony\"",
   "html_title": "<span class=\"work-title short-story\">\"Close Harmony\"</span>",
   "work_type": "short_story",
-  "publication_year": null,
+  "publication_year": 1928,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -44,12 +44,20 @@
         "Musical"
       ],
       "has_media": true,
-      "years_after_publication": null
+      "years_after_publication": 0
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Red Book Magazine",
+    "magazine_pub_date": "1928-09-01",
+    "magazine_issue_info": "Vol. LI No. 5",
+    "digitized_url": "https://archive.org/details/sim_redbook_1928-09_51_5",
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1928RBMSEP%27",
+    "serialized": false,
+    "serial_parts": null
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -59,5 +67,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04 17:06:35.659603"
+  "last_updated": "2026-06-11 21:17:26.446655"
 }

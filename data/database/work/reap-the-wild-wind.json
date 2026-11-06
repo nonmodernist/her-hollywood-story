@@ -5,7 +5,7 @@
   "formatted_title": "Reap the Wild Wind",
   "html_title": "<span class=\"work-title\">Reap the Wild Wind</span>",
   "work_type": "novel",
-  "publication_year": null,
+  "publication_year": 1940,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -43,12 +43,20 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": null
+      "years_after_publication": 2
     }
   ],
   "adaptation_gaps": [],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Saturday Evening Post",
+    "magazine_pub_date": "1940-04-27",
+    "magazine_issue_info": "v212 #44-49",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1940-04-27_212_44",
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1940SEPAPR27%27",
+    "serialized": true,
+    "serial_parts": 6
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -58,5 +66,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04 17:06:35.659603"
+  "last_updated": "2026-06-11 21:44:48.326128"
 }

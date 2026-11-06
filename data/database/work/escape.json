@@ -75,7 +75,15 @@
       "media": []
     }
   ],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "The Saturday Evening Post",
+    "magazine_pub_date": "1939-07-08",
+    "magazine_issue_info": "v212 #2-10",
+    "digitized_url": "https://archive.org/details/sim_saturday-evening-post_1939-07-08_212_2",
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1939SEPJUL_8%27",
+    "serialized": true,
+    "serial_parts": 9
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -85,5 +93,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-23 03:21:21.229208"
+  "last_updated": "2026-06-11 19:29:07.781445"
 }

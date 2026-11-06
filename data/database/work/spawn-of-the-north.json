@@ -5,7 +5,7 @@
   "formatted_title": "Spawn of the North",
   "html_title": "<span class=\"work-title\">Spawn of the North</span>",
   "work_type": "novel",
-  "publication_year": 1932,
+  "publication_year": 1931,
   "plot_summary": null,
   "plot_summary_html": "",
   "literary_significance": null,
@@ -43,7 +43,7 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 6
+      "years_after_publication": 7
     },
     {
       "id": 1089,
@@ -57,7 +57,7 @@
         "Drama"
       ],
       "has_media": true,
-      "years_after_publication": 21
+      "years_after_publication": 22
     }
   ],
   "adaptation_gaps": [
@@ -68,7 +68,15 @@
     }
   ],
   "photoplay_editions": [],
-  "magazine_publication": null,
+  "magazine_publication": {
+    "magazine_title": "Cosmopolitan",
+    "magazine_pub_date": "1931-12-01",
+    "magazine_issue_info": "Vol. 91 No. 6, Vol. 92 No. 1-5",
+    "digitized_url": "https://archive.org/details/sim_cosmopolitan_1931-12_91_6",
+    "FMI_link": "http://www.philsp.com/homeville/FMI/ZZPERMLINK.ASP?NAME=%27P_1931CMPDEC%27",
+    "serialized": true,
+    "serial_parts": 6
+  },
   "external_urls": [],
   "external_ids": {
     "gutenberg_id": null,
@@ -78,5 +86,5 @@
     "wikidata_id": null,
     "viaf_id": null
   },
-  "last_updated": "2025-08-04 17:06:35.659603"
+  "last_updated": "2026-06-11 22:06:44.341228"
 }
